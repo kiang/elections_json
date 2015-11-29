@@ -1,0 +1,149 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5745-8d98-49eb-b6bb-1926acb5b862",
+            "election_id": "53d73391-ce90-4cd3-896b-1299acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1054",
+            "name": "劉俊生",
+            "image": "54a2b61e\/e024\/495a\/8c16\/7d7e6ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1973-08-23",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:49:41",
+            "modified": "2015-02-08 23:43:00"
+        },
+        "Election": {
+            "id": "53d73391-ce90-4cd3-896b-1299acb5b862",
+            "population_electors": "1670",
+            "population": "1953",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54735d56-7098-486b-9300-21eacf91e152",
+            "Area": [
+                {
+                    "id": "53c01ce3-1d10-4eb6-921e-5460acb5b862",
+                    "name": "上安村",
+                    "AreasElection": {
+                        "id": "53d73392-9694-4b22-83eb-1299acb5b862",
+                        "Election_id": "53d73391-ce90-4cd3-896b-1299acb5b862",
+                        "Area_id": "53c01ce3-1d10-4eb6-921e-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01ce3-66ec-4025-91b4-5460acb5b862",
+                    "name": "新山村",
+                    "AreasElection": {
+                        "id": "53d73392-b3c8-441c-b261-1299acb5b862",
+                        "Election_id": "53d73391-ce90-4cd3-896b-1299acb5b862",
+                        "Area_id": "53c01ce3-66ec-4025-91b4-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01ce3-ecc4-4c3a-ad30-5460acb5b862",
+                    "name": "郡坑村",
+                    "AreasElection": {
+                        "id": "53d73392-a4d4-4fd4-a373-1299acb5b862",
+                        "Election_id": "53d73391-ce90-4cd3-896b-1299acb5b862",
+                        "Area_id": "53c01ce3-ecc4-4c3a-ad30-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020c2-2488-4d59-a20d-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "南投縣",
+                "lft": "1739",
+                "rght": "1864",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020c4-4ea0-45bd-988f-5c5aacb5b862",
+                "parent_id": "53c020c2-2488-4d59-a20d-5c5aacb5b862",
+                "name": "水里鄉",
+                "lft": "1834",
+                "rght": "1843",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d73391-ce90-4cd3-896b-1299acb5b862",
+                "parent_id": "53c020c4-4ea0-45bd-988f-5c5aacb5b862",
+                "name": "第03選舉區[區域]",
+                "lft": "1839",
+                "rght": "1840",
+                "population": "1953",
+                "population_electors": "1670",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54735d56-7098-486b-9300-21eacf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,南投縣,水里鄉,第03選舉區[區域]"
+            }
+        }
+    ]
+}

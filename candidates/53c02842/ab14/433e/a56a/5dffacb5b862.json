@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02842-ab14-433e-a56a-5dffacb5b862",
+            "election_id": "53c02271-e008-44e1-92b4-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "411",
+            "name": "趙文勝",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1955-02-25",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:45:14"
+        },
+        "Election": {
+            "id": "53c02271-e008-44e1-92b4-5c5aacb5b862",
+            "population_electors": "624",
+            "population": "724",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54773ba1-67f4-4d40-a4bd-1915cf91e152",
+            "Area": [
+                {
+                    "id": "53c01d5a-71b8-4bd7-8515-5460acb5b862",
+                    "name": "同榮里",
+                    "AreasElection": {
+                        "id": "53c02271-235c-4873-957d-5c5aacb5b862",
+                        "Election_id": "53c02271-e008-44e1-92b4-5c5aacb5b862",
+                        "Area_id": "53c01d5a-71b8-4bd7-8515-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "7771",
+                "rght": "8766",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02271-cb60-45f2-b009-5c5aacb5b862",
+                "parent_id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "name": "潮州鎮",
+                "lft": "7932",
+                "rght": "7975",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02271-e008-44e1-92b4-5c5aacb5b862",
+                "parent_id": "53c02271-cb60-45f2-b009-5c5aacb5b862",
+                "name": "同榮里",
+                "lft": "7935",
+                "rght": "7936",
+                "population": "724",
+                "population_electors": "624",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54773ba1-67f4-4d40-a4bd-1915cf91e152",
+                "keywords": "2014-11,村里長,屏東縣,潮州鎮,同榮里"
+            }
+        }
+    ]
+}

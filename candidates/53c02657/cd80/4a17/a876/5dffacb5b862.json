@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02657-cd80-4a17-a876-5dffacb5b862",
+            "election_id": "53c023e3-51d8-457f-a65f-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "379",
+            "name": "陳美惠",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "1",
+            "education_level": "大學",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "高雄市",
+            "birth": "1963-10-23",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:40:38"
+        },
+        "Election": {
+            "id": "53c023e3-51d8-457f-a65f-5c5aacb5b862",
+            "population_electors": "642",
+            "population": "727",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb720-81e8-4b71-8c29-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01e58-5624-4146-90ce-5460acb5b862",
+                    "name": "廍南里",
+                    "AreasElection": {
+                        "id": "53c023e3-bb50-4b26-a4f2-5c5aacb5b862",
+                        "Election_id": "53c023e3-51d8-457f-a65f-5c5aacb5b862",
+                        "Area_id": "53c01e58-5624-4146-90ce-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023df-4f50-4faf-8ff2-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "左營區",
+                "lft": "12518",
+                "rght": "12599",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023e3-51d8-457f-a65f-5c5aacb5b862",
+                "parent_id": "53c023df-4f50-4faf-8ff2-5c5aacb5b862",
+                "name": "廍南里",
+                "lft": "12567",
+                "rght": "12568",
+                "population": "727",
+                "population_electors": "642",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb720-81e8-4b71-8c29-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,左營區,廍南里"
+            }
+        }
+    ]
+}

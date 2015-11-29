@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b52fd-e550-49b6-9ce4-1926acb5b862",
+            "election_id": "53c023b5-8a20-4e07-a0ce-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "1067",
+            "name": "劉金蓮",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "LIU CHIN LIEN",
+            "birth_place": "新北市",
+            "birth": "1951-02-26",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:31:25",
+            "modified": "2015-02-08 23:40:33"
+        },
+        "Election": {
+            "id": "53c023b5-8a20-4e07-a0ce-5c5aacb5b862",
+            "population_electors": "4269",
+            "population": "5509",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-c75c-426e-9ec7-4187cf91e152",
+            "Area": [
+                {
+                    "id": "53c01e2b-6f94-4323-bc03-5460acb5b862",
+                    "name": "景美里",
+                    "AreasElection": {
+                        "id": "53c023b5-3e34-41b6-ac4b-5c5aacb5b862",
+                        "Election_id": "53c023b5-8a20-4e07-a0ce-5c5aacb5b862",
+                        "Area_id": "53c01e2b-6f94-4323-bc03-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023b4-de88-4969-afaa-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "文山區",
+                "lft": "11994",
+                "rght": "12081",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023b5-8a20-4e07-a0ce-5c5aacb5b862",
+                "parent_id": "53c023b4-de88-4969-afaa-5c5aacb5b862",
+                "name": "景美里",
+                "lft": "12005",
+                "rght": "12006",
+                "population": "5509",
+                "population_electors": "4269",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-c75c-426e-9ec7-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,文山區,景美里"
+            }
+        }
+    ]
+}

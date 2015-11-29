@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c0272c-d000-42f9-9a27-5dffacb5b862",
+            "election_id": "53c025c6-3840-406d-9ebf-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "0",
+            "vote_count": "0",
+            "name": "洪健三",
+            "image": null,
+            "party": null,
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": null,
+            "no": "0",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "0000-00-00 00:00:00"
+        },
+        "Election": {
+            "id": "53c025c6-3840-406d-9ebf-5c5aacb5b862",
+            "population_electors": "833",
+            "population": "986",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "Area": [
+                {
+                    "id": "53c01fe1-7520-4962-a9d1-5460acb5b862",
+                    "name": "宅港里",
+                    "AreasElection": {
+                        "id": "53c025c6-a944-41ae-a237-5c5aacb5b862",
+                        "Election_id": "53c025c6-3840-406d-9ebf-5c5aacb5b862",
+                        "Area_id": "53c01fe1-7520-4962-a9d1-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02598-fc40-4dee-aec0-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺南市",
+                "lft": "17695",
+                "rght": "19274",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c025c5-4944-4c00-8fbf-5c5aacb5b862",
+                "parent_id": "53c02598-fc40-4dee-aec0-5c5aacb5b862",
+                "name": "學甲區",
+                "lft": "18176",
+                "rght": "18203",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c025c6-3840-406d-9ebf-5c5aacb5b862",
+                "parent_id": "53c025c5-4944-4c00-8fbf-5c5aacb5b862",
+                "name": "宅港里",
+                "lft": "18191",
+                "rght": "18192",
+                "population": "986",
+                "population_electors": "833",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2014-11,村里長,臺南市,學甲區,宅港里"
+            }
+        }
+    ]
+}

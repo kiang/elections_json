@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b54f1-6bc8-4f77-acf2-1926acb5b862",
+            "election_id": "53c02162-176c-47f3-a34e-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "413",
+            "name": "陳再發",
+            "image": "553af39a\/5b38\/4804\/8c8b\/7bdc6ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "2",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1949-10-01",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:39:45",
+            "modified": "2015-04-25 09:53:37"
+        },
+        "Election": {
+            "id": "53c02162-176c-47f3-a34e-5c5aacb5b862",
+            "population_electors": "1403",
+            "population": "2003",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-b450-4e1c-8d90-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c79-349c-4db4-a69e-5460acb5b862",
+                    "name": "民生里",
+                    "AreasElection": {
+                        "id": "53c02162-e88c-4e94-8d2f-5c5aacb5b862",
+                        "Election_id": "53c02162-176c-47f3-a34e-5c5aacb5b862",
+                        "Area_id": "53c01c79-349c-4db4-a69e-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "4417",
+                "rght": "5648",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-f384-4c28-9dd3-5c5aacb5b862",
+                "parent_id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "name": "彰化市",
+                "lft": "4418",
+                "rght": "4565",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-176c-47f3-a34e-5c5aacb5b862",
+                "parent_id": "53c02162-f384-4c28-9dd3-5c5aacb5b862",
+                "name": "民生里",
+                "lft": "4423",
+                "rght": "4424",
+                "population": "2003",
+                "population_electors": "1403",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-b450-4e1c-8d90-74a5cf91e152",
+                "keywords": "2014-11,村里長,彰化縣,彰化市,民生里"
+            }
+        }
+    ]
+}

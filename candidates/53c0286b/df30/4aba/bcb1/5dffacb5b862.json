@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c0286b-df30-4aba-bcb1-5dffacb5b862",
+            "election_id": "53c022cf-5848-4773-8660-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "761",
+            "name": "林志鵬",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "3",
+            "education_level": "專科",
+            "is_present": true,
+            "name_english": "Lin ChihPeng",
+            "birth_place": "臺灣省",
+            "birth": "1962-06-09",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:45:25"
+        },
+        "Election": {
+            "id": "53c022cf-5848-4773-8660-5c5aacb5b862",
+            "population_electors": "3425",
+            "population": "4377",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546d8db9-7618-4a36-bf26-0e51cf91e152",
+            "Area": [
+                {
+                    "id": "53c01dac-9cd8-4e77-b147-5460acb5b862",
+                    "name": "民政里",
+                    "AreasElection": {
+                        "id": "53c022cf-8b74-4a04-ab54-5c5aacb5b862",
+                        "Election_id": "53c022cf-5848-4773-8660-5c5aacb5b862",
+                        "Area_id": "53c01dac-9cd8-4e77-b147-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022cb-ff18-4c61-98a3-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "花蓮縣",
+                "lft": "9095",
+                "rght": "9476",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022cb-bd6c-4a32-8c61-5c5aacb5b862",
+                "parent_id": "53c022cb-ff18-4c61-98a3-5c5aacb5b862",
+                "name": "花蓮市",
+                "lft": "9096",
+                "rght": "9187",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022cf-5848-4773-8660-5c5aacb5b862",
+                "parent_id": "53c022cb-bd6c-4a32-8c61-5c5aacb5b862",
+                "name": "民政里",
+                "lft": "9137",
+                "rght": "9138",
+                "population": "4377",
+                "population_electors": "3425",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546d8db9-7618-4a36-bf26-0e51cf91e152",
+                "keywords": "2014-11,村里長,花蓮縣,花蓮市,民政里"
+            }
+        }
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b57f6-273c-490a-b042-1926acb5b862",
+            "election_id": "53d734d3-2670-4c23-bdda-1299acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "483",
+            "name": "蔡建習",
+            "image": "548d5686\/86f4\/4627\/99c5\/032b6ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "1",
+            "education_level": "",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:52:38",
+            "modified": "2015-02-08 23:44:13"
+        },
+        "Election": {
+            "id": "53d734d3-2670-4c23-bdda-1299acb5b862",
+            "population_electors": "1779",
+            "population": "2118",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "546e068f-20bc-4afc-9f7f-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01dcb-4804-4dc3-9a78-5460acb5b862",
+                    "name": "橫礁村",
+                    "AreasElection": {
+                        "id": "53d734d4-110c-48a3-956e-1299acb5b862",
+                        "Election_id": "53d734d3-2670-4c23-bdda-1299acb5b862",
+                        "Area_id": "53c01dcb-4804-4dc3-9a78-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01dcb-895c-42fc-ab4d-5460acb5b862",
+                    "name": "合界村",
+                    "AreasElection": {
+                        "id": "53d734d4-d8ec-4f98-9947-1299acb5b862",
+                        "Election_id": "53d734d3-2670-4c23-bdda-1299acb5b862",
+                        "Area_id": "53c01dcb-895c-42fc-ab4d-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01dcb-e288-4fa7-96ca-5460acb5b862",
+                    "name": "小門村",
+                    "AreasElection": {
+                        "id": "53d734d4-d7e0-417e-ac54-1299acb5b862",
+                        "Election_id": "53d734d3-2670-4c23-bdda-1299acb5b862",
+                        "Area_id": "53c01dcb-e288-4fa7-96ca-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01dcb-f1c0-409b-8a49-5460acb5b862",
+                    "name": "竹灣村",
+                    "AreasElection": {
+                        "id": "53d734d4-611c-41e5-841a-1299acb5b862",
+                        "Election_id": "53d734d3-2670-4c23-bdda-1299acb5b862",
+                        "Area_id": "53c01dcb-f1c0-409b-8a49-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020df-ed64-4762-aa9a-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "澎湖縣",
+                "lft": "2731",
+                "rght": "2784",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020e1-9e80-46c6-924f-5c5aacb5b862",
+                "parent_id": "53c020df-ed64-4762-aa9a-5c5aacb5b862",
+                "name": "西嶼鄉",
+                "lft": "2760",
+                "rght": "2767",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d734d3-2670-4c23-bdda-1299acb5b862",
+                "parent_id": "53c020e1-9e80-46c6-924f-5c5aacb5b862",
+                "name": "第01選舉區[區域]",
+                "lft": "2761",
+                "rght": "2762",
+                "population": "2118",
+                "population_electors": "1779",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "546e068f-20bc-4afc-9f7f-1a32cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,澎湖縣,西嶼鄉,第01選舉區[區域]"
+            }
+        }
+    ]
+}

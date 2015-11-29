@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02834-f4f8-4c92-80c9-5dffacb5b862",
+            "election_id": "53c02253-4510-49cd-8704-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "0",
+            "vote_count": "0",
+            "name": "何英銘",
+            "image": "54d711f2\/1484\/4447\/ac68\/394d6ab936af.jpg",
+            "party": "",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "0",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 16:00:14"
+        },
+        "Election": {
+            "id": "53c02253-4510-49cd-8704-5c5aacb5b862",
+            "population_electors": "2956",
+            "population": "3288",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-05bc-457e-a41a-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01d41-82c0-4a0e-8523-5460acb5b862",
+                    "name": "民生村",
+                    "AreasElection": {
+                        "id": "53c02253-5ef8-4ac5-8752-5c5aacb5b862",
+                        "Election_id": "53c02253-4510-49cd-8704-5c5aacb5b862",
+                        "Area_id": "53c01d41-82c0-4a0e-8523-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0222a-d5c0-465f-849c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "嘉義縣",
+                "lft": "7019",
+                "rght": "7770",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02250-dcf0-4160-9a48-5c5aacb5b862",
+                "parent_id": "53c0222a-d5c0-465f-849c-5c5aacb5b862",
+                "name": "水上鄉",
+                "lft": "7520",
+                "rght": "7573",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02253-4510-49cd-8704-5c5aacb5b862",
+                "parent_id": "53c02250-dcf0-4160-9a48-5c5aacb5b862",
+                "name": "民生村",
+                "lft": "7555",
+                "rght": "7556",
+                "population": "3288",
+                "population_electors": "2956",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-05bc-457e-a41a-2adbcf91e152",
+                "keywords": "2014-11,村里長,嘉義縣,水上鄉,民生村"
+            }
+        }
+    ]
+}

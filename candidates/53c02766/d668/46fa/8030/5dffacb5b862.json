@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02766-d668-46fa-8030-5dffacb5b862",
+            "election_id": "53c02113-247c-4dd4-b0e6-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "238",
+            "name": "范守臣",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1965-05-30",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:44:29"
+        },
+        "Election": {
+            "id": "53c02113-247c-4dd4-b0e6-5c5aacb5b862",
+            "population_electors": "444",
+            "population": "640",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-a8d0-481e-a31a-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01bf6-3e0c-40c1-8ed5-5460acb5b862",
+                    "name": "金洋村",
+                    "AreasElection": {
+                        "id": "53c02114-da44-4c7c-add3-5c5aacb5b862",
+                        "Election_id": "53c02113-247c-4dd4-b0e6-5c5aacb5b862",
+                        "Area_id": "53c01bf6-3e0c-40c1-8ed5-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ef-6268-4b1a-a16d-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "宜蘭縣",
+                "lft": "2929",
+                "rght": "3420",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02113-1504-4776-99f7-5c5aacb5b862",
+                "parent_id": "53c020ef-6268-4b1a-a16d-5c5aacb5b862",
+                "name": "南澳鄉",
+                "lft": "3404",
+                "rght": "3419",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02113-247c-4dd4-b0e6-5c5aacb5b862",
+                "parent_id": "53c02113-1504-4776-99f7-5c5aacb5b862",
+                "name": "金洋村",
+                "lft": "3405",
+                "rght": "3406",
+                "population": "640",
+                "population_electors": "444",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-a8d0-481e-a31a-2adbcf91e152",
+                "keywords": "2014-11,村里長,宜蘭縣,南澳鄉,金洋村"
+            }
+        }
+    ]
+}

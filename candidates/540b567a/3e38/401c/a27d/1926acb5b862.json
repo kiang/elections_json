@@ -1,0 +1,124 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b567a-3e38-401c-a27d-1926acb5b862",
+            "election_id": "53c4205c-4e00-4d7d-ae39-7258acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "411",
+            "name": "張德政",
+            "image": "5488563c\/d8d8\/4d02\/962f\/6b1d6ab936af.jpg",
+            "party": "台灣第一民族黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "臉書 http:\/\/www.facebook.com\/dezheng1",
+            "gender": "m",
+            "no": "1",
+            "education_level": "專科",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "高雄市",
+            "birth": "1972-09-10",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:46:18",
+            "modified": "2015-02-08 23:44:22"
+        },
+        "Election": {
+            "id": "53c4205c-4e00-4d7d-ae39-7258acb5b862",
+            "population_electors": "3238",
+            "population": "4289",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb720-e8c8-4ceb-be40-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01ec5-af58-43ae-996a-5460acb5b862",
+                    "name": "桃源區",
+                    "AreasElection": {
+                        "id": "53c4205c-bf70-44f1-a162-7258acb5b862",
+                        "Election_id": "53c4205c-4e00-4d7d-ae39-7258acb5b862",
+                        "Area_id": "53c01ec5-af58-43ae-996a-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "5413108f-c178-4e11-811e-2c4dcb455a61",
+                "name": "2014台灣第一民族黨",
+                "CandidatesTag": {
+                    "id": "541310b6-cd88-4afe-b6bb-2c88cb455a61",
+                    "Candidate_id": "540b567a-3e38-401c-a27d-1926acb5b862",
+                    "Tag_id": "5413108f-c178-4e11-811e-2c4dcb455a61"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-9018-4f11-9539-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市山地原住民區長",
+                "lft": "196",
+                "rght": "217",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c4205a-eb18-4d05-8ec7-7258acb5b862",
+                "parent_id": "53c0202f-9018-4f11-9539-5460acb5b862",
+                "name": "高雄市",
+                "lft": "201",
+                "rght": "208",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c4205c-4e00-4d7d-ae39-7258acb5b862",
+                "parent_id": "53c4205a-eb18-4d05-8ec7-7258acb5b862",
+                "name": "桃源區",
+                "lft": "204",
+                "rght": "205",
+                "population": "4289",
+                "population_electors": "3238",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb720-e8c8-4ceb-be40-2adbcf91e152",
+                "keywords": "2014-11,直轄市山地原住民區長,高雄市,桃源區"
+            }
+        }
+    ]
+}

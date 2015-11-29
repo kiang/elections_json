@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b537f-f02c-40bc-b746-1926acb5b862",
+            "election_id": "53c02339-e108-4e66-b220-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "1195",
+            "name": "林見寅",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "專科",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1958-03-22",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:33:35",
+            "modified": "2015-02-08 23:41:39"
+        },
+        "Election": {
+            "id": "53c02339-e108-4e66-b220-5c5aacb5b862",
+            "population_electors": "4162",
+            "population": "5402",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54744c85-9fe8-40b3-a891-45dccf91e152",
+            "Area": [
+                {
+                    "id": "53c01bf8-043c-431b-b4a3-5460acb5b862",
+                    "name": "汴洲里",
+                    "AreasElection": {
+                        "id": "53c02339-c09c-441f-a605-5c5aacb5b862",
+                        "Election_id": "53c02339-e108-4e66-b220-5c5aacb5b862",
+                        "Area_id": "53c01bf8-043c-431b-b4a3-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "桃園市",
+                "lft": "10439",
+                "rght": "11456",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02338-c440-45d1-8313-5c5aacb5b862",
+                "parent_id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "name": "桃園區",
+                "lft": "10440",
+                "rght": "10593",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02339-e108-4e66-b220-5c5aacb5b862",
+                "parent_id": "53c02338-c440-45d1-8313-5c5aacb5b862",
+                "name": "汴洲里",
+                "lft": "10455",
+                "rght": "10456",
+                "population": "5402",
+                "population_electors": "4162",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54744c85-9fe8-40b3-a891-45dccf91e152",
+                "keywords": "2014-11,村里長,桃園市,桃園區,汴洲里"
+            }
+        }
+    ]
+}

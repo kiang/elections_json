@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02887-ba98-4a59-b6b8-5dffacb5b862",
+            "election_id": "53c0230a-7be8-4708-a64a-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "434",
+            "name": "高瑞堂",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "專科",
+            "is_present": true,
+            "name_english": "Kuo Jui ToNG",
+            "birth_place": "臺灣省",
+            "birth": "1953-04-10",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:45:32"
+        },
+        "Election": {
+            "id": "53c0230a-7be8-4708-a64a-5c5aacb5b862",
+            "population_electors": "767",
+            "population": "888",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546cd3af-3d4c-4b15-9d5e-78ebcf91e152",
+            "Area": [
+                {
+                    "id": "53c01ddb-c2ec-47af-beab-5460acb5b862",
+                    "name": "新建里",
+                    "AreasElection": {
+                        "id": "53c0230a-b800-4745-9880-5c5aacb5b862",
+                        "Election_id": "53c0230a-7be8-4708-a64a-5c5aacb5b862",
+                        "Area_id": "53c01ddb-c2ec-47af-beab-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "基隆市",
+                "lft": "9683",
+                "rght": "10012",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0230a-853c-462a-94fe-5c5aacb5b862",
+                "parent_id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "name": "中山區",
+                "lft": "9868",
+                "rght": "9917",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0230a-7be8-4708-a64a-5c5aacb5b862",
+                "parent_id": "53c0230a-853c-462a-94fe-5c5aacb5b862",
+                "name": "新建里",
+                "lft": "9869",
+                "rght": "9870",
+                "population": "888",
+                "population_electors": "767",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546cd3af-3d4c-4b15-9d5e-78ebcf91e152",
+                "keywords": "2014-11,村里長,基隆市,中山區,新建里"
+            }
+        }
+    ]
+}

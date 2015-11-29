@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b55c2-2b24-401d-b772-1926acb5b862",
+            "election_id": "53c0227f-be0c-4fdb-892d-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "312",
+            "name": "李進昌",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1960-10-05",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:43:14",
+            "modified": "2015-02-08 23:45:16"
+        },
+        "Election": {
+            "id": "53c0227f-be0c-4fdb-892d-5c5aacb5b862",
+            "population_electors": "1128",
+            "population": "1394",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54773ba1-8a04-46c6-a516-1915cf91e152",
+            "Area": [
+                {
+                    "id": "53c01d67-2c30-49de-a0a3-5460acb5b862",
+                    "name": "興全村",
+                    "AreasElection": {
+                        "id": "53c0227f-90bc-4cd8-b681-5c5aacb5b862",
+                        "Election_id": "53c0227f-be0c-4fdb-892d-5c5aacb5b862",
+                        "Area_id": "53c01d67-2c30-49de-a0a3-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "7771",
+                "rght": "8766",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0227a-767c-4154-b942-5c5aacb5b862",
+                "parent_id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "name": "萬丹鄉",
+                "lft": "8060",
+                "rght": "8121",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0227f-be0c-4fdb-892d-5c5aacb5b862",
+                "parent_id": "53c0227a-767c-4154-b942-5c5aacb5b862",
+                "name": "興全村",
+                "lft": "8113",
+                "rght": "8114",
+                "population": "1394",
+                "population_electors": "1128",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54773ba1-8a04-46c6-a516-1915cf91e152",
+                "keywords": "2014-11,村里長,屏東縣,萬丹鄉,興全村"
+            }
+        }
+    ]
+}

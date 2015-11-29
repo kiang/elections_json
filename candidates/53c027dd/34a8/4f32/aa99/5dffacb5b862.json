@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c027dd-34a8-4f32-aa99-5dffacb5b862",
+            "election_id": "53c021b2-3ebc-4219-b762-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "578",
+            "name": "許燈清",
+            "image": "5462e6a8\/8704\/4ca4\/b749\/3b9a8e043389.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1939-07-30",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:44:47"
+        },
+        "Election": {
+            "id": "53c021b2-3ebc-4219-b762-5c5aacb5b862",
+            "population_electors": "828",
+            "population": "1066",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-8c4c-4f69-b92e-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01cbc-6248-4c8e-bb8d-5460acb5b862",
+                    "name": "正義村",
+                    "AreasElection": {
+                        "id": "53c021b2-f224-406b-a3ee-5c5aacb5b862",
+                        "Election_id": "53c021b2-3ebc-4219-b762-5c5aacb5b862",
+                        "Area_id": "53c01cbc-6248-4c8e-bb8d-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "4417",
+                "rght": "5648",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021af-e0f0-43f8-b277-5c5aacb5b862",
+                "parent_id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "name": "田尾鄉",
+                "lft": "5414",
+                "rght": "5455",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021b2-3ebc-4219-b762-5c5aacb5b862",
+                "parent_id": "53c021af-e0f0-43f8-b277-5c5aacb5b862",
+                "name": "正義村",
+                "lft": "5451",
+                "rght": "5452",
+                "population": "1066",
+                "population_electors": "828",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-8c4c-4f69-b92e-74a5cf91e152",
+                "keywords": "2014-11,村里長,彰化縣,田尾鄉,正義村"
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c026e2-f464-424e-931a-5dffacb5b862",
+            "election_id": "53c0251b-f3ec-4704-abb9-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "275",
+            "name": "簡束卿",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "CHIEN SHU CHIN",
+            "birth_place": "新北市",
+            "birth": "1960-04-16",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:41:10"
+        },
+        "Election": {
+            "id": "53c0251b-f3ec-4704-abb9-5c5aacb5b862",
+            "population_electors": "476",
+            "population": "523",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-77e4-43b6-aa3c-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01f5f-8a0c-430b-a93f-5460acb5b862",
+                    "name": "吉林里",
+                    "AreasElection": {
+                        "id": "53c0251b-32e8-4517-9387-5c5aacb5b862",
+                        "Election_id": "53c0251b-f3ec-4704-abb9-5c5aacb5b862",
+                        "Area_id": "53c01f5f-8a0c-430b-a93f-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新北市",
+                "lft": "14261",
+                "rght": "16384",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0251a-7588-435e-8792-5c5aacb5b862",
+                "parent_id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "name": "貢寮區",
+                "lft": "16294",
+                "rght": "16317",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0251b-f3ec-4704-abb9-5c5aacb5b862",
+                "parent_id": "53c0251a-7588-435e-8792-5c5aacb5b862",
+                "name": "吉林里",
+                "lft": "16299",
+                "rght": "16300",
+                "population": "523",
+                "population_electors": "476",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-77e4-43b6-aa3c-1a32cf91e152",
+                "keywords": "2014-11,村里長,新北市,貢寮區,吉林里"
+            }
+        }
+    ]
+}

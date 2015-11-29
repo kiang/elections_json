@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5648-3298-4ae0-8b07-1926acb5b862",
+            "election_id": "53c022ff-2088-46e0-b07f-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "415",
+            "name": "林慧琴",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "2",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1963-12-20",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:45:28",
+            "modified": "2015-02-08 23:45:30"
+        },
+        "Election": {
+            "id": "53c022ff-2088-46e0-b07f-5c5aacb5b862",
+            "population_electors": "1791",
+            "population": "2196",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c8095-c620-4bfd-a351-61a3cf91e152",
+            "Area": [
+                {
+                    "id": "53c01dd1-f5b4-429a-bfc8-5460acb5b862",
+                    "name": "社寮里",
+                    "AreasElection": {
+                        "id": "53c022ff-46d0-4dd9-89af-5c5aacb5b862",
+                        "Election_id": "53c022ff-2088-46e0-b07f-5c5aacb5b862",
+                        "Area_id": "53c01dd1-f5b4-429a-bfc8-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "基隆市",
+                "lft": "9683",
+                "rght": "10012",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022fb-fc9c-4742-8d91-5c5aacb5b862",
+                "parent_id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "name": "中正區",
+                "lft": "9684",
+                "rght": "9737",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022ff-2088-46e0-b07f-5c5aacb5b862",
+                "parent_id": "53c022fb-fc9c-4742-8d91-5c5aacb5b862",
+                "name": "社寮里",
+                "lft": "9721",
+                "rght": "9722",
+                "population": "2196",
+                "population_electors": "1791",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c8095-c620-4bfd-a351-61a3cf91e152",
+                "keywords": "2014-11,村里長,基隆市,中正區,社寮里"
+            }
+        }
+    ]
+}

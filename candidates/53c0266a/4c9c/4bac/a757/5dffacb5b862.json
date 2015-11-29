@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c0266a-4c9c-4bac-a757-5dffacb5b862",
+            "election_id": "53c02405-3ddc-4558-adc9-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1455",
+            "name": "柳信雄",
+            "image": null,
+            "party": "民主進步黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "大學",
+            "is_present": true,
+            "name_english": "LIU HSIN HSIUNG",
+            "birth_place": "高雄市",
+            "birth": "1948-03-20",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:40:42"
+        },
+        "Election": {
+            "id": "53c02405-3ddc-4558-adc9-5c5aacb5b862",
+            "population_electors": "3068",
+            "population": "3691",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb720-086c-49dd-b093-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01e73-c03c-49fe-b0b2-5460acb5b862",
+                    "name": "普天里",
+                    "AreasElection": {
+                        "id": "53c02406-1bdc-42d8-a1b9-5c5aacb5b862",
+                        "Election_id": "53c02405-3ddc-4558-adc9-5c5aacb5b862",
+                        "Area_id": "53c01e73-c03c-49fe-b0b2-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02401-a518-4567-b540-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "苓雅區",
+                "lft": "12958",
+                "rght": "13097",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02405-3ddc-4558-adc9-5c5aacb5b862",
+                "parent_id": "53c02401-a518-4567-b540-5c5aacb5b862",
+                "name": "普天里",
+                "lft": "13001",
+                "rght": "13002",
+                "population": "3691",
+                "population_electors": "3068",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb720-086c-49dd-b093-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,苓雅區,普天里"
+            }
+        }
+    ]
+}

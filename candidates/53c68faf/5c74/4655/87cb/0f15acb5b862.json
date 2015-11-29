@@ -1,0 +1,134 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c68faf-5c74-4655-87cb-0f15acb5b862",
+            "election_id": "53c400a9-ff0c-49b4-ad88-6cceacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "11868",
+            "name": "林全忠",
+            "image": "548ae5ec\/2f44\/4a33\/874a\/7da06ab936af.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "06-5981000",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "712台南市新化區正新路340號",
+            "links": "臉書 http:\/\/www.facebook.com\/cyuanjiong.lin\\n臉書 http:\/\/www.facebook.com\/pages\/%E6%9E%97%E5%85%A8%E5%BF%A0\/379446738788247",
+            "gender": "m",
+            "no": "1",
+            "education_level": "大學",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺南市",
+            "birth": "1954-10-05",
+            "platform": "",
+            "education": "遠東科技大學企管系畢業",
+            "experience": "第16屆臺南縣議員  第1屆直轄市臺南市議員",
+            "created": "2014-07-16 22:43:59",
+            "modified": "2015-02-08 23:40:26"
+        },
+        "Election": {
+            "id": "53c400a9-ff0c-49b4-ad88-6cceacb5b862",
+            "population_electors": "50628",
+            "population": "61584",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-e130-46fb-9baf-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01fdc-2270-4d77-bb46-5460acb5b862",
+                    "name": "大內區",
+                    "AreasElection": {
+                        "id": "53c406eb-f400-4593-8300-6dacacb5b862",
+                        "Election_id": "53c400a9-ff0c-49b4-ad88-6cceacb5b862",
+                        "Area_id": "53c01fdc-2270-4d77-bb46-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01fec-4e04-41ab-a4e8-5460acb5b862",
+                    "name": "新化區",
+                    "AreasElection": {
+                        "id": "53c406eb-d634-48d1-9514-6dacacb5b862",
+                        "Election_id": "53c400a9-ff0c-49b4-ad88-6cceacb5b862",
+                        "Area_id": "53c01fec-4e04-41ab-a4e8-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01ff6-6768-4884-98be-5460acb5b862",
+                    "name": "山上區",
+                    "AreasElection": {
+                        "id": "53c406eb-9c6c-4275-8bdc-6dacacb5b862",
+                        "Election_id": "53c400a9-ff0c-49b4-ad88-6cceacb5b862",
+                        "Area_id": "53c01ff6-6768-4884-98be-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207f-29bc-4258-90c0-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "臺南市",
+                "lft": "157",
+                "rght": "194",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c400a9-ff0c-49b4-ad88-6cceacb5b862",
+                "parent_id": "53c0207f-29bc-4258-90c0-5c5aacb5b862",
+                "name": "第07選區[區域]",
+                "lft": "170",
+                "rght": "171",
+                "population": "61584",
+                "population_electors": "50628",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-e130-46fb-9baf-74a5cf91e152",
+                "keywords": "2014-11,直轄市議員,臺南市,第07選區[區域]"
+            }
+        }
+    ]
+}

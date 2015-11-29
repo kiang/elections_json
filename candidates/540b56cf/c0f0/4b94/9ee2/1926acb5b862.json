@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b56cf-c0f0-4b94-9ee2-1926acb5b862",
+            "election_id": "53c41232-a1a4-4d98-a479-6f55acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1947",
+            "name": "陳明建",
+            "image": "54903460\/7584\/4411\/9f3e\/455a6ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "個人臉書 https:\/\/www.facebook.com\/people\/%E9%99%B3%E6%98%8E%E5%BB%BA\/100003527241479\\n",
+            "gender": "m",
+            "no": "1",
+            "education_level": "大學",
+            "is_present": false,
+            "name_english": "chen ming chien",
+            "birth_place": "臺灣省",
+            "birth": "1962-03-12",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:47:43",
+            "modified": "2015-09-06 20:30:44"
+        },
+        "Election": {
+            "id": "53c41232-a1a4-4d98-a479-6f55acb5b862",
+            "population_electors": "304786",
+            "population": "373597",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-4790-4900-90a0-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01dcf-a8d8-47b0-984f-5460acb5b862",
+                    "name": "基隆市",
+                    "AreasElection": {
+                        "id": "53fb7916-dd3c-4ff9-9157-7f66acb5b862",
+                        "Election_id": "53c41232-a1a4-4d98-a479-6f55acb5b862",
+                        "Area_id": "53c01dcf-a8d8-47b0-984f-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "縣市議員",
+                "lft": "306",
+                "rght": "607",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02085-8764-4425-9d61-5c5aacb5b862",
+                "parent_id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "name": "基隆市",
+                "lft": "569",
+                "rght": "586",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c41232-a1a4-4d98-a479-6f55acb5b862",
+                "parent_id": "53c02085-8764-4425-9d61-5c5aacb5b862",
+                "name": "第08選區[平地]",
+                "lft": "584",
+                "rght": "585",
+                "population": "373597",
+                "population_electors": "304786",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-4790-4900-90a0-74a5cf91e152",
+                "keywords": "2014-11,縣市議員,基隆市,第08選區[平地]"
+            }
+        }
+    ]
+}

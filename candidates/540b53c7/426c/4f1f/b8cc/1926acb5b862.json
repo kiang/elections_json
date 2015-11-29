@@ -1,0 +1,157 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b53c7-426c-4f1f-b8cc-1926acb5b862",
+            "election_id": "53c02536-ef68-4348-9f9b-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "897",
+            "name": "黃鈺琪",
+            "image": "",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "f",
+            "no": "2",
+            "education_level": "大學",
+            "is_present": false,
+            "name_english": "HUANG YU CHI",
+            "birth_place": "臺灣省",
+            "birth": "1990-02-10",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:34:47",
+            "modified": "2015-02-08 23:41:12"
+        },
+        "Election": {
+            "id": "53c02536-ef68-4348-9f9b-5c5aacb5b862",
+            "population_electors": "2829",
+            "population": "3740",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068f-3214-431a-ab4c-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01f75-b360-4212-932b-5460acb5b862",
+                    "name": "梅川里",
+                    "AreasElection": {
+                        "id": "53c02536-d0ac-48ba-8e00-5c5aacb5b862",
+                        "Election_id": "53c02536-ef68-4348-9f9b-5c5aacb5b862",
+                        "Area_id": "53c01f75-b360-4212-932b-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "5412ff6f-db88-40fb-a1bb-7204cb455a61",
+                "name": "2014民進黨「民主小草」",
+                "CandidatesTag": {
+                    "id": "5413005b-7fbc-414b-aea2-7205cb455a61",
+                    "Candidate_id": "540b53c7-426c-4f1f-b8cc-1926acb5b862",
+                    "Tag_id": "5412ff6f-db88-40fb-a1bb-7204cb455a61"
+                }
+            },
+            {
+                "id": "5413065c-7a70-4efa-bc54-79a1cb455a61",
+                "name": "2014自己的政治自己救！號召太陽花、鬥陣選里長！",
+                "CandidatesTag": {
+                    "id": "5413069d-0720-4c55-b5a4-79a1cb455a61",
+                    "Candidate_id": "540b53c7-426c-4f1f-b8cc-1926acb5b862",
+                    "Tag_id": "5413065c-7a70-4efa-bc54-79a1cb455a61"
+                }
+            },
+            {
+                "id": "541f0273-6fac-4491-868d-53e8cb455a61",
+                "name": "2014青年佔領政治",
+                "CandidatesTag": {
+                    "id": "541f05d8-d794-4aa0-bfd8-57e3cb455a61",
+                    "Candidate_id": "540b53c7-426c-4f1f-b8cc-1926acb5b862",
+                    "Tag_id": "541f0273-6fac-4491-868d-53e8cb455a61"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02530-1868-453b-afd5-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "北區",
+                "lft": "16538",
+                "rght": "16611",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02536-ef68-4348-9f9b-5c5aacb5b862",
+                "parent_id": "53c02530-1868-453b-afd5-5c5aacb5b862",
+                "name": "梅川里",
+                "lft": "16607",
+                "rght": "16608",
+                "population": "3740",
+                "population_electors": "2829",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068f-3214-431a-ab4c-1a32cf91e152",
+                "keywords": "2014-11,村里長,臺中市,北區,梅川里"
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02899-0104-4dec-882c-5dffacb5b862",
+            "election_id": "53c0232f-04f0-442d-9f6d-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1994",
+            "name": "呂文章",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "LU WEN CHANG",
+            "birth_place": "臺灣省",
+            "birth": "1958-05-01",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:45:36"
+        },
+        "Election": {
+            "id": "53c0232f-04f0-442d-9f6d-5c5aacb5b862",
+            "population_electors": "3489",
+            "population": "4470",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "Area": [
+                {
+                    "id": "53c01dfd-35ec-49ee-bc03-5460acb5b862",
+                    "name": "興仁里",
+                    "AreasElection": {
+                        "id": "53c0232f-6a1c-42a9-b4bc-5c5aacb5b862",
+                        "Election_id": "53c0232f-04f0-442d-9f6d-5c5aacb5b862",
+                        "Area_id": "53c01dfd-35ec-49ee-bc03-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0232b-91c8-456a-8388-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "嘉義市",
+                "lft": "10265",
+                "rght": "10438",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0232b-8cc0-4e90-8f01-5c5aacb5b862",
+                "parent_id": "53c0232b-91c8-456a-8388-5c5aacb5b862",
+                "name": "東區",
+                "lft": "10266",
+                "rght": "10345",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0232f-04f0-442d-9f6d-5c5aacb5b862",
+                "parent_id": "53c0232b-8cc0-4e90-8f01-5c5aacb5b862",
+                "name": "興仁里",
+                "lft": "10321",
+                "rght": "10322",
+                "population": "4470",
+                "population_electors": "3489",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2014-11,村里長,嘉義市,東區,興仁里"
+            }
+        }
+    ]
+}

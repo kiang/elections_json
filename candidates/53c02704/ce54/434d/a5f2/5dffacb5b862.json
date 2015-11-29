@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02704-ce54-434d-a5f2-5dffacb5b862",
+            "election_id": "53c02567-c308-413b-b0ef-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "0",
+            "vote_count": "0",
+            "name": "薛義雄",
+            "image": null,
+            "party": null,
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": null,
+            "no": "0",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "0000-00-00 00:00:00"
+        },
+        "Election": {
+            "id": "53c02567-c308-413b-b0ef-5c5aacb5b862",
+            "population_electors": "795",
+            "population": "1017",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb720-5520-443b-ac89-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01f9a-631c-4be4-bbb3-5460acb5b862",
+                    "name": "安仁里",
+                    "AreasElection": {
+                        "id": "53c02568-481c-4312-8a0c-5c5aacb5b862",
+                        "Election_id": "53c02567-c308-413b-b0ef-5c5aacb5b862",
+                        "Area_id": "53c01f9a-631c-4be4-bbb3-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02566-0488-4fa9-99e8-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "梧棲區",
+                "lft": "17126",
+                "rght": "17155",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02567-c308-413b-b0ef-5c5aacb5b862",
+                "parent_id": "53c02566-0488-4fa9-99e8-5c5aacb5b862",
+                "name": "安仁里",
+                "lft": "17137",
+                "rght": "17138",
+                "population": "1017",
+                "population_electors": "795",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb720-5520-443b-ac89-2adbcf91e152",
+                "keywords": "2014-11,村里長,臺中市,梧棲區,安仁里"
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c0285b-04e4-4c2b-8c1f-5dffacb5b862",
+            "election_id": "53c022a5-3d30-4887-8df9-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "24",
+            "name": "黃俊民",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1959-05-25",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:45:20"
+        },
+        "Election": {
+            "id": "53c022a5-3d30-4887-8df9-5c5aacb5b862",
+            "population_electors": "408",
+            "population": "473",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54773ba1-015c-4646-ac3d-1915cf91e152",
+            "Area": [
+                {
+                    "id": "53c01d88-79c4-40e2-b5f9-5460acb5b862",
+                    "name": "統埔村",
+                    "AreasElection": {
+                        "id": "53c022a5-abbc-4269-87b6-5c5aacb5b862",
+                        "Election_id": "53c022a5-3d30-4887-8df9-5c5aacb5b862",
+                        "Area_id": "53c01d88-79c4-40e2-b5f9-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "7771",
+                "rght": "8766",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022a4-03cc-41db-bfd8-5c5aacb5b862",
+                "parent_id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "name": "車城鄉",
+                "lft": "8588",
+                "rght": "8611",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022a5-3d30-4887-8df9-5c5aacb5b862",
+                "parent_id": "53c022a4-03cc-41db-bfd8-5c5aacb5b862",
+                "name": "統埔村",
+                "lft": "8591",
+                "rght": "8592",
+                "population": "473",
+                "population_electors": "408",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54773ba1-015c-4646-ac3d-1915cf91e152",
+                "keywords": "2014-11,村里長,屏東縣,車城鄉,統埔村"
+            }
+        }
+    ]
+}

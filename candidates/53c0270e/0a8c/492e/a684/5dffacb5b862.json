@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c0270e-0a8c-492e-a684-5dffacb5b862",
+            "election_id": "53c0257c-d708-44c4-9757-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "0",
+            "vote_count": "0",
+            "name": "李天生",
+            "image": null,
+            "party": null,
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": null,
+            "no": "0",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "0000-00-00 00:00:00"
+        },
+        "Election": {
+            "id": "53c0257c-d708-44c4-9757-5c5aacb5b862",
+            "population_electors": "1035",
+            "population": "1252",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e0690-fbf0-41c4-8e54-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01fab-c9e4-4b8c-acd9-5460acb5b862",
+                    "name": "南庄里",
+                    "AreasElection": {
+                        "id": "53c0257c-24c8-402f-accc-5c5aacb5b862",
+                        "Election_id": "53c0257c-d708-44c4-9757-5c5aacb5b862",
+                        "Area_id": "53c01fab-c9e4-4b8c-acd9-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0257b-df94-4a5e-9fe0-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "大安區",
+                "lft": "17368",
+                "rght": "17393",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0257c-d708-44c4-9757-5c5aacb5b862",
+                "parent_id": "53c0257b-df94-4a5e-9fe0-5c5aacb5b862",
+                "name": "南庄里",
+                "lft": "17379",
+                "rght": "17380",
+                "population": "1252",
+                "population_electors": "1035",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e0690-fbf0-41c4-8e54-1a32cf91e152",
+                "keywords": "2014-11,村里長,臺中市,大安區,南庄里"
+            }
+        }
+    ]
+}

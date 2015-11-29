@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5824-b10c-44a1-8275-1926acb5b862",
+            "election_id": "53c020ac-6f90-41a6-8737-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "11140",
+            "name": "歐中慨",
+            "image": "5492d3c2\/1984\/4ee7\/b27f\/6c296ab936af.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "臉書 http:\/\/www.facebook.com\/people\/%E6%AD%90%E4%B8%AD%E6%85%A8\/100001933675359",
+            "gender": "m",
+            "no": "3",
+            "education_level": "專科",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1958-10-10",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:53:24",
+            "modified": "2015-02-08 23:42:03"
+        },
+        "Election": {
+            "id": "53c020ac-6f90-41a6-8737-5c5aacb5b862",
+            "population_electors": "48185",
+            "population": "60095",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068f-5b0c-431e-8f33-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01dc1-9d64-4bdb-abc6-5460acb5b862",
+                    "name": "馬公市",
+                    "AreasElection": {
+                        "id": "53c020ac-b38c-4a81-ba5b-5c5aacb5b862",
+                        "Election_id": "53c020ac-6f90-41a6-8737-5c5aacb5b862",
+                        "Area_id": "53c01dc1-9d64-4bdb-abc6-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市長",
+                "lft": "608",
+                "rght": "1031",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ab-ea3c-4517-b96b-5c5aacb5b862",
+                "parent_id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "name": "澎湖縣",
+                "lft": "1017",
+                "rght": "1030",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ac-6f90-41a6-8737-5c5aacb5b862",
+                "parent_id": "53c020ab-ea3c-4517-b96b-5c5aacb5b862",
+                "name": "馬公市",
+                "lft": "1018",
+                "rght": "1019",
+                "population": "60095",
+                "population_electors": "48185",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068f-5b0c-431e-8f33-1a32cf91e152",
+                "keywords": "2014-11,鄉鎮市長,澎湖縣,馬公市"
+            }
+        }
+    ]
+}

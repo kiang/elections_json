@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c0268d-b5c4-4e62-827a-5dffacb5b862",
+            "election_id": "53c0244e-b470-497f-aac3-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "673",
+            "name": "林蘇麗雲",
+            "image": null,
+            "party": "民主進步黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "2",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "高雄市",
+            "birth": "1950-01-07",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:40:50"
+        },
+        "Election": {
+            "id": "53c0244e-b470-497f-aac3-5c5aacb5b862",
+            "population_electors": "2024",
+            "population": "2560",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "Area": [
+                {
+                    "id": "53c01eaf-9078-41d3-9f7c-5460acb5b862",
+                    "name": "公舘里",
+                    "AreasElection": {
+                        "id": "53c0244e-f140-4411-bbce-5c5aacb5b862",
+                        "Election_id": "53c0244e-b470-497f-aac3-5c5aacb5b862",
+                        "Area_id": "53c01eaf-9078-41d3-9f7c-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0244d-e6c0-46cb-bbdd-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "湖內區",
+                "lft": "13910",
+                "rght": "13939",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0244e-b470-497f-aac3-5c5aacb5b862",
+                "parent_id": "53c0244d-e6c0-46cb-bbdd-5c5aacb5b862",
+                "name": "公舘里",
+                "lft": "13921",
+                "rght": "13922",
+                "population": "2560",
+                "population_electors": "2024",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2014-11,村里長,高雄市,湖內區,公舘里"
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b564e-8fc0-49cc-82b1-1926acb5b862",
+            "election_id": "53c02304-d8d8-446f-8202-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "458",
+            "name": "王健同",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "5",
+            "education_level": "碩士",
+            "is_present": false,
+            "name_english": "Tom Wang",
+            "birth_place": "臺北市",
+            "birth": "1986-01-14",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:45:34",
+            "modified": "2015-02-08 23:45:31"
+        },
+        "Election": {
+            "id": "53c02304-d8d8-446f-8202-5c5aacb5b862",
+            "population_electors": "4993",
+            "population": "6291",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546cd3af-c9c0-42da-94b6-78ebcf91e152",
+            "Area": [
+                {
+                    "id": "53c01dd7-2a74-454c-ac20-5460acb5b862",
+                    "name": "碇祥里",
+                    "AreasElection": {
+                        "id": "53c02305-3fb8-44a9-84dc-5c5aacb5b862",
+                        "Election_id": "53c02304-d8d8-446f-8202-5c5aacb5b862",
+                        "Area_id": "53c01dd7-2a74-454c-ac20-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "基隆市",
+                "lft": "9683",
+                "rght": "10012",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02303-2eec-4359-b204-5c5aacb5b862",
+                "parent_id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "name": "暖暖區",
+                "lft": "9780",
+                "rght": "9807",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02304-d8d8-446f-8202-5c5aacb5b862",
+                "parent_id": "53c02303-2eec-4359-b204-5c5aacb5b862",
+                "name": "碇祥里",
+                "lft": "9801",
+                "rght": "9802",
+                "population": "6291",
+                "population_electors": "4993",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546cd3af-c9c0-42da-94b6-78ebcf91e152",
+                "keywords": "2014-11,村里長,基隆市,暖暖區,碇祥里"
+            }
+        }
+    ]
+}

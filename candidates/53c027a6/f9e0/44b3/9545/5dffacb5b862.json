@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c027a6-f9e0-44b3-9545-5dffacb5b862",
+            "election_id": "53c02147-bc98-4398-b5c2-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "584",
+            "name": "林垣輝",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1954-06-13",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:44:35"
+        },
+        "Election": {
+            "id": "53c02147-bc98-4398-b5c2-5c5aacb5b862",
+            "population_electors": "1025",
+            "population": "1280",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-80e8-42ea-898c-4187cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c61-8da0-4895-8386-5460acb5b862",
+                    "name": "和平里",
+                    "AreasElection": {
+                        "id": "53c02147-0c28-4908-913b-5c5aacb5b862",
+                        "Election_id": "53c02147-bc98-4398-b5c2-5c5aacb5b862",
+                        "Area_id": "53c01c61-8da0-4895-8386-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02135-5cc8-4f9d-a971-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "苗栗縣",
+                "lft": "3831",
+                "rght": "4416",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02146-7fd4-4795-8239-5c5aacb5b862",
+                "parent_id": "53c02135-5cc8-4f9d-a971-5c5aacb5b862",
+                "name": "頭份鎮",
+                "lft": "4044",
+                "rght": "4109",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02147-bc98-4398-b5c2-5c5aacb5b862",
+                "parent_id": "53c02146-7fd4-4795-8239-5c5aacb5b862",
+                "name": "和平里",
+                "lft": "4057",
+                "rght": "4058",
+                "population": "1280",
+                "population_electors": "1025",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-80e8-42ea-898c-4187cf91e152",
+                "keywords": "2014-11,村里長,苗栗縣,頭份鎮,和平里"
+            }
+        }
+    ]
+}

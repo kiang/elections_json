@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5386-1cec-43e3-8763-1926acb5b862",
+            "election_id": "53c02343-6128-4d3f-866d-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1393",
+            "name": "林清涼",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1956-03-06",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:33:42",
+            "modified": "2015-02-08 23:41:40"
+        },
+        "Election": {
+            "id": "53c02343-6128-4d3f-866d-5c5aacb5b862",
+            "population_electors": "4489",
+            "population": "6099",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "Area": [
+                {
+                    "id": "53c01bff-a968-49c1-8e32-5460acb5b862",
+                    "name": "龍壽里",
+                    "AreasElection": {
+                        "id": "53c02344-ca20-4328-8760-5c5aacb5b862",
+                        "Election_id": "53c02343-6128-4d3f-866d-5c5aacb5b862",
+                        "Area_id": "53c01bff-a968-49c1-8e32-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "桃園市",
+                "lft": "10439",
+                "rght": "11456",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02338-c440-45d1-8313-5c5aacb5b862",
+                "parent_id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "name": "桃園區",
+                "lft": "10440",
+                "rght": "10593",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02343-6128-4d3f-866d-5c5aacb5b862",
+                "parent_id": "53c02338-c440-45d1-8313-5c5aacb5b862",
+                "name": "龍壽里",
+                "lft": "10585",
+                "rght": "10586",
+                "population": "6099",
+                "population_electors": "4489",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2014-11,村里長,桃園市,桃園區,龍壽里"
+            }
+        }
+    ]
+}

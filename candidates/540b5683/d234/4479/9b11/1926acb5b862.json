@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5683-d234-4479-9b11-1926acb5b862",
+            "election_id": "53c40099-ad64-4035-899e-6cceacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "213",
+            "name": "張天明",
+            "image": "562a19ea\/1f68\/452f\/8d46\/0f756ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "4",
+            "education_level": "專科",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1958-03-06",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:46:27",
+            "modified": "2015-10-23 19:33:47"
+        },
+        "Election": {
+            "id": "53c40099-ad64-4035-899e-6cceacb5b862",
+            "population_electors": "3173136",
+            "population": "3961374",
+            "quota": "3",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-88cc-41b1-8684-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01ec7-67b4-4aa7-92a1-5460acb5b862",
+                    "name": "新北市",
+                    "AreasElection": {
+                        "id": "53fb79eb-acfc-41fd-b618-7f66acb5b862",
+                        "Election_id": "53c40099-ad64-4035-899e-6cceacb5b862",
+                        "Area_id": "53c01ec7-67b4-4aa7-92a1-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207e-1efc-4871-a931-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "新北市",
+                "lft": "97",
+                "rght": "122",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c40099-ad64-4035-899e-6cceacb5b862",
+                "parent_id": "53c0207e-1efc-4871-a931-5c5aacb5b862",
+                "name": "第11選區[平地]",
+                "lft": "118",
+                "rght": "119",
+                "population": "3961374",
+                "population_electors": "3173136",
+                "quota": "3",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-88cc-41b1-8684-74a5cf91e152",
+                "keywords": "2014-11,直轄市議員,新北市,第11選區[平地]"
+            }
+        }
+    ]
+}

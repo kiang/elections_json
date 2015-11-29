@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "5406a602-6c88-4aa4-ab92-15b8acb5b862",
+            "election_id": "53c0208f-310c-423e-b804-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "2567",
+            "name": "李文林",
+            "image": "54957b3f\/6010\/4912\/8bda\/74cb6ab936af.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1949-12-26",
+            "platform": "",
+            "education": "後龍初級中學畢業",
+            "experience": "西湖鄉民代表會第16屆副主席、第17屆主席、第18屆主席",
+            "created": "2014-09-03 13:24:18",
+            "modified": "2015-02-08 23:41:59"
+        },
+        "Election": {
+            "id": "53c0208f-310c-423e-b804-5c5aacb5b862",
+            "population_electors": "6423",
+            "population": "7601",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-a748-48b2-962c-4187cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c72-9380-4cf7-8d5b-5460acb5b862",
+                    "name": "西湖鄉",
+                    "AreasElection": {
+                        "id": "53c0208f-1e68-43b5-87f0-5c5aacb5b862",
+                        "Election_id": "53c0208f-310c-423e-b804-5c5aacb5b862",
+                        "Area_id": "53c01c72-9380-4cf7-8d5b-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市長",
+                "lft": "608",
+                "rght": "1031",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0208d-d5f8-4b58-82e9-5c5aacb5b862",
+                "parent_id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "name": "苗栗縣",
+                "lft": "687",
+                "rght": "724",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0208f-310c-423e-b804-5c5aacb5b862",
+                "parent_id": "53c0208d-d5f8-4b58-82e9-5c5aacb5b862",
+                "name": "西湖鄉",
+                "lft": "714",
+                "rght": "715",
+                "population": "7601",
+                "population_electors": "6423",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-a748-48b2-962c-4187cf91e152",
+                "keywords": "2014-11,鄉鎮市長,苗栗縣,西湖鄉"
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b55de-4a14-48b5-a0ad-1926acb5b862",
+            "election_id": "53c022a1-ec90-4341-b716-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "672",
+            "name": "賴鶴湖",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "專科",
+            "is_present": false,
+            "name_english": "La Ho Hu",
+            "birth_place": "臺灣省",
+            "birth": "1958-01-19",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:43:42",
+            "modified": "2015-02-08 23:45:20"
+        },
+        "Election": {
+            "id": "53c022a1-ec90-4341-b716-5c5aacb5b862",
+            "population_electors": "1745",
+            "population": "2074",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54773ba1-d414-4199-be06-1915cf91e152",
+            "Area": [
+                {
+                    "id": "53c01d86-4fd0-4c81-9012-5460acb5b862",
+                    "name": "萬建村",
+                    "AreasElection": {
+                        "id": "53c022a2-cc48-4eb9-87d7-5c5aacb5b862",
+                        "Election_id": "53c022a1-ec90-4341-b716-5c5aacb5b862",
+                        "Area_id": "53c01d86-4fd0-4c81-9012-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "7771",
+                "rght": "8766",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022a1-b2b0-44f2-a11d-5c5aacb5b862",
+                "parent_id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "name": "佳冬鄉",
+                "lft": "8544",
+                "rght": "8569",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022a1-ec90-4341-b716-5c5aacb5b862",
+                "parent_id": "53c022a1-b2b0-44f2-a11d-5c5aacb5b862",
+                "name": "萬建村",
+                "lft": "8549",
+                "rght": "8550",
+                "population": "2074",
+                "population_electors": "1745",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54773ba1-d414-4199-be06-1915cf91e152",
+                "keywords": "2014-11,村里長,屏東縣,佳冬鄉,萬建村"
+            }
+        }
+    ]
+}

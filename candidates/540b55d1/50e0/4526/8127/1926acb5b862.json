@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b55d1-50e0-4526-8127-1926acb5b862",
+            "election_id": "53c02293-d154-4a5e-96b3-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "790",
+            "name": "郭廷俊",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1945-10-27",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:43:29",
+            "modified": "2015-02-08 23:45:18"
+        },
+        "Election": {
+            "id": "53c02293-d154-4a5e-96b3-5c5aacb5b862",
+            "population_electors": "2333",
+            "population": "2879",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54773ba1-8f88-43c1-8aa5-1915cf91e152",
+            "Area": [
+                {
+                    "id": "53c01d78-f32c-4405-ae8b-5460acb5b862",
+                    "name": "老埤村",
+                    "AreasElection": {
+                        "id": "53c02293-a2d8-44a2-8e77-5c5aacb5b862",
+                        "Election_id": "53c02293-d154-4a5e-96b3-5c5aacb5b862",
+                        "Area_id": "53c01d78-f32c-4405-ae8b-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "7771",
+                "rght": "8766",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0228e-2878-4669-9632-5c5aacb5b862",
+                "parent_id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "name": "內埔鄉",
+                "lft": "8322",
+                "rght": "8369",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02293-d154-4a5e-96b3-5c5aacb5b862",
+                "parent_id": "53c0228e-2878-4669-9632-5c5aacb5b862",
+                "name": "老埤村",
+                "lft": "8365",
+                "rght": "8366",
+                "population": "2879",
+                "population_electors": "2333",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54773ba1-8f88-43c1-8aa5-1915cf91e152",
+                "keywords": "2014-11,村里長,屏東縣,內埔鄉,老埤村"
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c0267e-3260-4c0e-8703-5dffacb5b862",
+            "election_id": "53c0242e-50ec-4308-a14d-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "785",
+            "name": "黃正忠",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "HUANG CHENGCHUNG",
+            "birth_place": "高雄市",
+            "birth": "1952-03-06",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:40:47"
+        },
+        "Election": {
+            "id": "53c0242e-50ec-4308-a14d-5c5aacb5b862",
+            "population_electors": "1759",
+            "population": "2197",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb721-3df0-41ef-bf46-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01e93-bb98-43b0-bf71-5460acb5b862",
+                    "name": "鳳芸里",
+                    "AreasElection": {
+                        "id": "53c0242f-9f94-4558-80ff-5c5aacb5b862",
+                        "Election_id": "53c0242e-50ec-4308-a14d-5c5aacb5b862",
+                        "Area_id": "53c01e93-bb98-43b0-bf71-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0242c-ed2c-4d8f-885b-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "林園區",
+                "lft": "13482",
+                "rght": "13531",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0242e-50ec-4308-a14d-5c5aacb5b862",
+                "parent_id": "53c0242c-ed2c-4d8f-885b-5c5aacb5b862",
+                "name": "鳳芸里",
+                "lft": "13513",
+                "rght": "13514",
+                "population": "2197",
+                "population_electors": "1759",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb721-3df0-41ef-bf46-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,林園區,鳳芸里"
+            }
+        }
+    ]
+}

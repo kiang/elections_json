@@ -1,0 +1,124 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5689-4bd4-4a5e-ad1c-1926acb5b862",
+            "election_id": "53c4037d-7e34-45be-9f21-6d45acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "8826",
+            "name": "劉仁照",
+            "image": "54d64af8\/8c20\/4f94\/b2af\/759f6ab936af.jpg",
+            "party": "民主進步黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "臉書 http:\/\/www.facebook.com\/vlog72\\n臉書 http:\/\/www.facebook.com\/people\/%E5%8A%89%E4%BB%81%E7%85%A7\/100001594621154\\n鄉民訪談記錄 http:\/\/www.ptt.cc\/bbs\/PublicIssue\/M.1415109906.A.A47.html",
+            "gender": "m",
+            "no": "2",
+            "education_level": "大學",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1981-01-26",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:46:33",
+            "modified": "2015-02-08 23:40:27"
+        },
+        "Election": {
+            "id": "53c4037d-7e34-45be-9f21-6d45acb5b862",
+            "population_electors": "162610",
+            "population": "212073",
+            "quota": "6",
+            "quota_women": "1",
+            "bulletin_key": "546e068d-7c58-43cc-a363-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c2a-87fc-480e-94b0-5460acb5b862",
+                    "name": "平鎮區",
+                    "AreasElection": {
+                        "id": "53c40822-7518-4c47-81b6-6e01acb5b862",
+                        "Election_id": "53c4037d-7e34-45be-9f21-6d45acb5b862",
+                        "Area_id": "53c01c2a-87fc-480e-94b0-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54619d23-ee3c-422d-83a8-08ce8e043389",
+                "name": "2014鄉民參政行動聯盟訪談",
+                "CandidatesTag": {
+                    "id": "54619d9c-38a8-4a02-8c6c-08cf8e043389",
+                    "Candidate_id": "540b5689-4bd4-4a5e-ad1c-1926acb5b862",
+                    "Tag_id": "54619d23-ee3c-422d-83a8-08ce8e043389"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207d-ff5c-4dfe-98b5-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "桃園市",
+                "lft": "17",
+                "rght": "46",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c4037d-7e34-45be-9f21-6d45acb5b862",
+                "parent_id": "53c0207d-ff5c-4dfe-98b5-5c5aacb5b862",
+                "name": "第08選區[區域]",
+                "lft": "32",
+                "rght": "33",
+                "population": "212073",
+                "population_electors": "162610",
+                "quota": "6",
+                "quota_women": "1",
+                "bulletin_key": "546e068d-7c58-43cc-a363-1a32cf91e152",
+                "keywords": "2014-11,直轄市議員,桃園市,第08選區[區域]"
+            }
+        }
+    ]
+}

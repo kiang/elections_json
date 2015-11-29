@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c027ed-1f14-4f88-a5e7-5dffacb5b862",
+            "election_id": "53c021ce-5a40-46af-8954-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "803",
+            "name": "林炎生",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "Lin Yan Sheng",
+            "birth_place": "臺灣省",
+            "birth": "1935-09-04",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:44:50"
+        },
+        "Election": {
+            "id": "53c021ce-5a40-46af-8954-5c5aacb5b862",
+            "population_electors": "3264",
+            "population": "4029",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54735d55-4360-47a0-9486-21eacf91e152",
+            "Area": [
+                {
+                    "id": "53c01cd0-1968-4467-a2bb-5460acb5b862",
+                    "name": "新庄里",
+                    "AreasElection": {
+                        "id": "53c021ce-a96c-4fa9-b35e-5c5aacb5b862",
+                        "Election_id": "53c021ce-5a40-46af-8954-5c5aacb5b862",
+                        "Area_id": "53c01cd0-1968-4467-a2bb-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "南投縣",
+                "lft": "5649",
+                "rght": "6200",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021cd-cfbc-47ba-93e0-5c5aacb5b862",
+                "parent_id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "name": "草屯鎮",
+                "lft": "5788",
+                "rght": "5843",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ce-5a40-46af-8954-5c5aacb5b862",
+                "parent_id": "53c021cd-cfbc-47ba-93e0-5c5aacb5b862",
+                "name": "新庄里",
+                "lft": "5801",
+                "rght": "5802",
+                "population": "4029",
+                "population_electors": "3264",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54735d55-4360-47a0-9486-21eacf91e152",
+                "keywords": "2014-11,村里長,南投縣,草屯鎮,新庄里"
+            }
+        }
+    ]
+}

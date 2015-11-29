@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b55c2-8f54-4e53-bc62-1926acb5b862",
+            "election_id": "53c0227e-6d14-4e7a-831c-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "453",
+            "name": "陳玉意",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "專科",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1955-08-06",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:43:14",
+            "modified": "2015-02-08 23:45:16"
+        },
+        "Election": {
+            "id": "53c0227e-6d14-4e7a-831c-5c5aacb5b862",
+            "population_electors": "1304",
+            "population": "1662",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54773ba1-70f0-4c06-93b7-1915cf91e152",
+            "Area": [
+                {
+                    "id": "53c01d66-448c-4325-aa34-5460acb5b862",
+                    "name": "灣內村",
+                    "AreasElection": {
+                        "id": "53c0227e-a898-438e-bcaa-5c5aacb5b862",
+                        "Election_id": "53c0227e-6d14-4e7a-831c-5c5aacb5b862",
+                        "Area_id": "53c01d66-448c-4325-aa34-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "7771",
+                "rght": "8766",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0227a-767c-4154-b942-5c5aacb5b862",
+                "parent_id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "name": "萬丹鄉",
+                "lft": "8060",
+                "rght": "8121",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0227e-6d14-4e7a-831c-5c5aacb5b862",
+                "parent_id": "53c0227a-767c-4154-b942-5c5aacb5b862",
+                "name": "灣內村",
+                "lft": "8101",
+                "rght": "8102",
+                "population": "1662",
+                "population_electors": "1304",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54773ba1-70f0-4c06-93b7-1915cf91e152",
+                "keywords": "2014-11,村里長,屏東縣,萬丹鄉,灣內村"
+            }
+        }
+    ]
+}

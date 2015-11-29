@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b53e6-fd54-4f30-a47f-1926acb5b862",
+            "election_id": "53c02573-41e0-4f3e-b21f-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1535",
+            "name": "張聖河",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "CHANG SHENG HO",
+            "birth_place": "臺中市",
+            "birth": "1962-10-29",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:35:18",
+            "modified": "2015-02-08 23:41:18"
+        },
+        "Election": {
+            "id": "53c02573-41e0-4f3e-b21f-5c5aacb5b862",
+            "population_electors": "3753",
+            "population": "4882",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e0691-d030-4eaa-b7d2-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01fa5-1908-428a-bec7-5460acb5b862",
+                    "name": "橫山里",
+                    "AreasElection": {
+                        "id": "53c02573-12bc-4513-a1d8-5c5aacb5b862",
+                        "Election_id": "53c02573-41e0-4f3e-b21f-5c5aacb5b862",
+                        "Area_id": "53c01fa5-1908-428a-bec7-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02572-8c28-4e05-8d65-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "大雅區",
+                "lft": "17262",
+                "rght": "17293",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02573-41e0-4f3e-b21f-5c5aacb5b862",
+                "parent_id": "53c02572-8c28-4e05-8d65-5c5aacb5b862",
+                "name": "橫山里",
+                "lft": "17275",
+                "rght": "17276",
+                "population": "4882",
+                "population_electors": "3753",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e0691-d030-4eaa-b7d2-1a32cf91e152",
+                "keywords": "2014-11,村里長,臺中市,大雅區,橫山里"
+            }
+        }
+    ]
+}

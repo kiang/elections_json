@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c68f91-79b0-4731-8a3b-0f15acb5b862",
+            "election_id": "53c41228-0180-43de-aa84-6f55acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "2433",
+            "name": "張芳麗",
+            "image": "549177ec\/c364\/4544\/94dc\/11216ab936af.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "02-24266135",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "201基隆市信義區仁壽里壽山路5號",
+            "links": "",
+            "gender": "f",
+            "no": "9",
+            "education_level": "碩士",
+            "is_present": true,
+            "name_english": "CHANG FANG LI",
+            "birth_place": "新北市",
+            "birth": "1952-03-07",
+            "platform": "",
+            "education": "二專",
+            "experience": "第13至15屆議員.第16屆補選議長",
+            "created": "2014-07-16 22:43:29",
+            "modified": "2015-02-08 23:41:56"
+        },
+        "Election": {
+            "id": "53c41228-0180-43de-aa84-6f55acb5b862",
+            "population_electors": "37073",
+            "population": "46474",
+            "quota": "4",
+            "quota_women": "1",
+            "bulletin_key": "5469b450-2274-4690-8cd6-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01dd7-42cc-440b-bce3-5460acb5b862",
+                    "name": "仁愛區",
+                    "AreasElection": {
+                        "id": "53c41228-cb40-4650-8702-6f55acb5b862",
+                        "Election_id": "53c41228-0180-43de-aa84-6f55acb5b862",
+                        "Area_id": "53c01dd7-42cc-440b-bce3-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "縣市議員",
+                "lft": "306",
+                "rght": "607",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02085-8764-4425-9d61-5c5aacb5b862",
+                "parent_id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "name": "基隆市",
+                "lft": "569",
+                "rght": "586",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c41228-0180-43de-aa84-6f55acb5b862",
+                "parent_id": "53c02085-8764-4425-9d61-5c5aacb5b862",
+                "name": "第03選區[區域]",
+                "lft": "574",
+                "rght": "575",
+                "population": "46474",
+                "population_electors": "37073",
+                "quota": "4",
+                "quota_women": "1",
+                "bulletin_key": "5469b450-2274-4690-8cd6-74a5cf91e152",
+                "keywords": "2014-11,縣市議員,基隆市,第03選區[區域]"
+            }
+        }
+    ]
+}

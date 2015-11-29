@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5312-e9d4-49cd-8e1e-1926acb5b862",
+            "election_id": "53c023d3-cca0-4d66-b62d-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "1046",
+            "name": "鄭國華",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "CHENG KUO HUA",
+            "birth_place": "臺北市",
+            "birth": "1958-12-02",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:31:46",
+            "modified": "2015-02-08 23:40:37"
+        },
+        "Election": {
+            "id": "53c023d3-cca0-4d66-b62d-5c5aacb5b862",
+            "population_electors": "3841",
+            "population": "4948",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-1538-4ecd-914e-4187cf91e152",
+            "Area": [
+                {
+                    "id": "53c01e46-058c-498a-b7df-5460acb5b862",
+                    "name": "豐年里",
+                    "AreasElection": {
+                        "id": "53c023d3-7414-4fcf-9e1e-5c5aacb5b862",
+                        "Election_id": "53c023d3-cca0-4d66-b62d-5c5aacb5b862",
+                        "Area_id": "53c01e46-058c-498a-b7df-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023cf-48cc-46fc-8762-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "北投區",
+                "lft": "12308",
+                "rght": "12393",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d3-cca0-4d66-b62d-5c5aacb5b862",
+                "parent_id": "53c023cf-48cc-46fc-8762-5c5aacb5b862",
+                "name": "豐年里",
+                "lft": "12365",
+                "rght": "12366",
+                "population": "4948",
+                "population_electors": "3841",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-1538-4ecd-914e-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,北投區,豐年里"
+            }
+        }
+    ]
+}

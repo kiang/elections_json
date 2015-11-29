@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02714-c740-431c-a587-5dffacb5b862",
+            "election_id": "53c0258b-51fc-4383-9b47-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "919",
+            "name": "林正亮",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺中市",
+            "birth": "1947-01-16",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:41:21"
+        },
+        "Election": {
+            "id": "53c0258b-51fc-4383-9b47-5c5aacb5b862",
+            "population_electors": "2139",
+            "population": "2655",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e0698-92ac-4a4a-9c28-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01fb6-5ad8-4a2d-8b37-5460acb5b862",
+                    "name": "丁台里",
+                    "AreasElection": {
+                        "id": "53c0258b-6c6c-4198-9977-5c5aacb5b862",
+                        "Election_id": "53c0258b-51fc-4383-9b47-5c5aacb5b862",
+                        "Area_id": "53c01fb6-5ad8-4a2d-8b37-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02586-86c0-41b0-ab15-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "霧峰區",
+                "lft": "17498",
+                "rght": "17539",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0258b-51fc-4383-9b47-5c5aacb5b862",
+                "parent_id": "53c02586-86c0-41b0-ab15-5c5aacb5b862",
+                "name": "丁台里",
+                "lft": "17535",
+                "rght": "17536",
+                "population": "2655",
+                "population_electors": "2139",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e0698-92ac-4a4a-9c28-1a32cf91e152",
+                "keywords": "2014-11,村里長,臺中市,霧峰區,丁台里"
+            }
+        }
+    ]
+}

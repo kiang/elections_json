@@ -1,0 +1,139 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5537-bf28-43ab-a376-1926acb5b862",
+            "election_id": "53c021c9-e018-4870-91dc-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1764",
+            "name": "何銘富",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "專科",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1960-07-10",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:40:55",
+            "modified": "2015-02-08 23:44:49"
+        },
+        "Election": {
+            "id": "53c021c9-e018-4870-91dc-5c5aacb5b862",
+            "population_electors": "6975",
+            "population": "8936",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54735d55-6c4c-4592-a631-21eacf91e152",
+            "Area": [
+                {
+                    "id": "53c01ccc-e424-4690-881c-5460acb5b862",
+                    "name": "枇杷里",
+                    "AreasElection": {
+                        "id": "53c021c9-758c-4073-a623-5c5aacb5b862",
+                        "Election_id": "53c021c9-e018-4870-91dc-5c5aacb5b862",
+                        "Area_id": "53c01ccc-e424-4690-881c-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54abfcfb-c370-478e-87b1-59436ab936af",
+                "name": "2014當選無效之訴-南投縣",
+                "CandidatesTag": {
+                    "id": "54abfd08-f44c-40af-87f6-59496ab936af",
+                    "Candidate_id": "540b5537-bf28-43ab-a376-1926acb5b862",
+                    "Tag_id": "54abfcfb-c370-478e-87b1-59436ab936af"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "南投縣",
+                "lft": "5649",
+                "rght": "6200",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021c6-08b8-49d4-871f-5c5aacb5b862",
+                "parent_id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "name": "埔里鎮",
+                "lft": "5720",
+                "rght": "5787",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021c9-e018-4870-91dc-5c5aacb5b862",
+                "parent_id": "53c021c6-08b8-49d4-871f-5c5aacb5b862",
+                "name": "枇杷里",
+                "lft": "5751",
+                "rght": "5752",
+                "population": "8936",
+                "population_electors": "6975",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54735d55-6c4c-4592-a631-21eacf91e152",
+                "keywords": "2014-11,村里長,南投縣,埔里鎮,枇杷里"
+            }
+        }
+    ]
+}

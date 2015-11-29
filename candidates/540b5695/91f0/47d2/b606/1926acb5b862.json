@@ -1,0 +1,124 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5695-91f0-47d2-b606-1926acb5b862",
+            "election_id": "53c400ae-75f8-40b8-8bcd-6cceacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "2172",
+            "name": "潘靜竹",
+            "image": "548af592\/70fc\/434a\/b479\/02fa6ab936af.jpg",
+            "party": "樹黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "臉書 http:\/\/www.facebook.com\/pages\/%E6%BD%98%E9%9D%9C%E7%AB%B9-%E5%8F%B0%E5%8D%97%E5%B8%82%E6%9D%B1%E5%8D%80%E5%B8%82%E8%AD%B0%E5%93%A1%E5%80%99%E9%81%B8%E4%BA%BA\/1475797272691709",
+            "gender": "f",
+            "no": "5",
+            "education_level": "專科",
+            "is_present": false,
+            "name_english": "Pan Chin Tzu",
+            "birth_place": "臺北市",
+            "birth": "1955-08-22",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:46:45",
+            "modified": "2015-02-08 23:40:26"
+        },
+        "Election": {
+            "id": "53c400ae-75f8-40b8-8bcd-6cceacb5b862",
+            "population_electors": "146966",
+            "population": "190360",
+            "quota": "6",
+            "quota_women": "1",
+            "bulletin_key": "5469b450-3720-41b4-b1c8-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c0200c-7b74-4725-a052-5460acb5b862",
+                    "name": "東區",
+                    "AreasElection": {
+                        "id": "53c406eb-90e0-4c96-9251-6dacacb5b862",
+                        "Election_id": "53c400ae-75f8-40b8-8bcd-6cceacb5b862",
+                        "Area_id": "53c0200c-7b74-4725-a052-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54130ed6-8a1c-4057-a9aa-799bcb455a61",
+                "name": "2014樹黨",
+                "CandidatesTag": {
+                    "id": "54130ef4-4c90-4c67-aafd-799ccb455a61",
+                    "Candidate_id": "540b5695-91f0-47d2-b606-1926acb5b862",
+                    "Tag_id": "54130ed6-8a1c-4057-a9aa-799bcb455a61"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207f-29bc-4258-90c0-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "臺南市",
+                "lft": "157",
+                "rght": "194",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c400ae-75f8-40b8-8bcd-6cceacb5b862",
+                "parent_id": "53c0207f-29bc-4258-90c0-5c5aacb5b862",
+                "name": "第14選區[區域]",
+                "lft": "184",
+                "rght": "185",
+                "population": "190360",
+                "population_electors": "146966",
+                "quota": "6",
+                "quota_women": "1",
+                "bulletin_key": "5469b450-3720-41b4-b1c8-74a5cf91e152",
+                "keywords": "2014-11,直轄市議員,臺南市,第14選區[區域]"
+            }
+        }
+    ]
+}

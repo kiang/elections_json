@@ -1,0 +1,140 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b57a7-4d24-4c8d-a4b3-1926acb5b862",
+            "election_id": "53d7346e-cc34-4e4d-a594-1299acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "458",
+            "name": "陳國興",
+            "image": "54cb7d92\/ab6c\/4d21\/98a2\/44ef6ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "1",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:51:19",
+            "modified": "2015-02-08 23:44:00"
+        },
+        "Election": {
+            "id": "53d7346e-cc34-4e4d-a594-1299acb5b862",
+            "population_electors": "2191",
+            "population": "2687",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "5475673a-1db8-4db3-b283-0f78cf91e152",
+            "Area": [
+                {
+                    "id": "53c01d87-fb1c-40a4-b4fe-5460acb5b862",
+                    "name": "南福村",
+                    "AreasElection": {
+                        "id": "53d7346e-1c3c-4e36-8577-1299acb5b862",
+                        "Election_id": "53d7346e-cc34-4e4d-a594-1299acb5b862",
+                        "Area_id": "53c01d87-fb1c-40a4-b4fe-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01d88-9fb4-4917-9459-5460acb5b862",
+                    "name": "天福村",
+                    "AreasElection": {
+                        "id": "53d7346e-e75c-4f3c-bb79-1299acb5b862",
+                        "Election_id": "53d7346e-cc34-4e4d-a594-1299acb5b862",
+                        "Area_id": "53c01d88-9fb4-4917-9459-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ce-0798-4ae9-af49-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "2197",
+                "rght": "2484",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020d7-ce4c-45b5-bc82-5c5aacb5b862",
+                "parent_id": "53c020ce-0798-4ae9-af49-5c5aacb5b862",
+                "name": "琉球鄉",
+                "lft": "2398",
+                "rght": "2407",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d7346e-cc34-4e4d-a594-1299acb5b862",
+                "parent_id": "53c020d7-ce4c-45b5-bc82-5c5aacb5b862",
+                "name": "第03選舉區[區域]",
+                "lft": "2403",
+                "rght": "2404",
+                "population": "2687",
+                "population_electors": "2191",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "5475673a-1db8-4db3-b283-0f78cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,屏東縣,琉球鄉,第03選舉區[區域]"
+            }
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b56ae-0884-4dfd-a05c-1926acb5b862",
+            "election_id": "540b4919-b050-4a7f-8e69-0802acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "200",
+            "name": "石慶龍",
+            "image": "5440f305\/9c8c\/47ad\/9119\/20298e043389.jpg",
+            "party": "台灣第一民族黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "臉書 http:\/\/www.facebook.com\/pages\/%E7%9F%B3%E6%85%B6%E9%BE%8D\/1442266092724518\\n臉書 http:\/\/www.facebook.com\/rungquan.lhkatafatu",
+            "gender": "m",
+            "no": "4",
+            "education_level": "大學",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1955-12-15",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:47:10",
+            "modified": "2015-02-08 23:41:57"
+        },
+        "Election": {
+            "id": "540b4919-b050-4a7f-8e69-0802acb5b862",
+            "population_electors": "415478",
+            "population": "515081",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54735d55-3284-4995-b8c2-21eacf91e152",
+            "Area": [
+                {
+                    "id": "53c01cc7-86d4-4896-96f9-5460acb5b862",
+                    "name": "南投縣",
+                    "AreasElection": {
+                        "id": "53c01cc7-86d4-4896-a6f9-5460acb5b862",
+                        "Election_id": "540b4919-b050-4a7f-8e69-0802acb5b862",
+                        "Area_id": "53c01cc7-86d4-4896-96f9-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "5413108f-c178-4e11-811e-2c4dcb455a61",
+                "name": "2014台灣第一民族黨",
+                "CandidatesTag": {
+                    "id": "54131099-c10c-4129-8594-2c88cb455a61",
+                    "Candidate_id": "540b56ae-0884-4dfd-a05c-1926acb5b862",
+                    "Tag_id": "5413108f-c178-4e11-811e-2c4dcb455a61"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "縣市議員",
+                "lft": "306",
+                "rght": "607",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02083-aa04-4a0e-96bb-5c5aacb5b862",
+                "parent_id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "name": "南投縣",
+                "lft": "419",
+                "rght": "436",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "540b4919-b050-4a7f-8e69-0802acb5b862",
+                "parent_id": "53c02083-aa04-4a0e-96bb-5c5aacb5b862",
+                "name": "第06選區[平地]",
+                "lft": "434",
+                "rght": "435",
+                "population": "515081",
+                "population_electors": "415478",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54735d55-3284-4995-b8c2-21eacf91e152",
+                "keywords": "2014-11,縣市議員,南投縣,第06選區[平地]"
+            }
+        }
+    ]
+}

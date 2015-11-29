@@ -1,0 +1,149 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b578e-8b98-47cf-af39-1926acb5b862",
+            "election_id": "53d73443-1780-45f6-932c-1299acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "358",
+            "name": "陳勝隆",
+            "image": "54d4bf06\/8218\/4d6c\/a7d0\/73716ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "2",
+            "education_level": "專科",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1961-10-13",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:50:54",
+            "modified": "2015-02-08 23:43:57"
+        },
+        "Election": {
+            "id": "53d73443-1780-45f6-932c-1299acb5b862",
+            "population_electors": "2673",
+            "population": "3100",
+            "quota": "3",
+            "quota_women": "0",
+            "bulletin_key": "5475673a-6430-4b16-91dd-0f78cf91e152",
+            "Area": [
+                {
+                    "id": "53c01d6b-9f00-401b-9848-5460acb5b862",
+                    "name": "田心村",
+                    "AreasElection": {
+                        "id": "53d73443-11c0-470a-bafa-1299acb5b862",
+                        "Election_id": "53d73443-1780-45f6-932c-1299acb5b862",
+                        "Area_id": "53c01d6b-9f00-401b-9848-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01d6b-d7ec-4cb6-892c-5460acb5b862",
+                    "name": "田中村",
+                    "AreasElection": {
+                        "id": "53d73443-7f44-4ed7-84be-1299acb5b862",
+                        "Election_id": "53d73443-1780-45f6-932c-1299acb5b862",
+                        "Area_id": "53c01d6b-d7ec-4cb6-892c-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01d6b-d990-4ee1-a2bc-5460acb5b862",
+                    "name": "田道村",
+                    "AreasElection": {
+                        "id": "53d73443-7818-4857-9612-1299acb5b862",
+                        "Election_id": "53d73443-1780-45f6-932c-1299acb5b862",
+                        "Area_id": "53c01d6b-d990-4ee1-a2bc-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ce-0798-4ae9-af49-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "2197",
+                "rght": "2484",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020d3-9f48-4227-ba87-5c5aacb5b862",
+                "parent_id": "53c020ce-0798-4ae9-af49-5c5aacb5b862",
+                "name": "麟洛鄉",
+                "lft": "2254",
+                "rght": "2263",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d73443-1780-45f6-932c-1299acb5b862",
+                "parent_id": "53c020d3-9f48-4227-ba87-5c5aacb5b862",
+                "name": "第04選舉區[區域]",
+                "lft": "2261",
+                "rght": "2262",
+                "population": "3100",
+                "population_electors": "2673",
+                "quota": "3",
+                "quota_women": "0",
+                "bulletin_key": "5475673a-6430-4b16-91dd-0f78cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,屏東縣,麟洛鄉,第04選舉區[區域]"
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c026f6-ff84-47f8-9480-5dffacb5b862",
+            "election_id": "53c0254a-ba94-4956-876f-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "2006",
+            "name": "吳美蓁",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "2",
+            "education_level": "專科",
+            "is_present": true,
+            "name_english": "WU MEI CHEN",
+            "birth_place": "新北市",
+            "birth": "1975-04-29",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:41:14"
+        },
+        "Election": {
+            "id": "53c0254a-ba94-4956-876f-5c5aacb5b862",
+            "population_electors": "5375",
+            "population": "6697",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c6157-972c-46bb-9459-573fcf91e152",
+            "Area": [
+                {
+                    "id": "53c01f84-e61c-4e6e-9e8c-5460acb5b862",
+                    "name": "三和里",
+                    "AreasElection": {
+                        "id": "53c0254a-3554-495e-8e06-5c5aacb5b862",
+                        "Election_id": "53c0254a-ba94-4956-876f-5c5aacb5b862",
+                        "Area_id": "53c01f84-e61c-4e6e-9e8c-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02542-30e8-4080-80d6-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "北屯區",
+                "lft": "16744",
+                "rght": "16829",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0254a-ba94-4956-876f-5c5aacb5b862",
+                "parent_id": "53c02542-30e8-4080-80d6-5c5aacb5b862",
+                "name": "三和里",
+                "lft": "16827",
+                "rght": "16828",
+                "population": "6697",
+                "population_electors": "5375",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c6157-972c-46bb-9459-573fcf91e152",
+                "keywords": "2014-11,村里長,臺中市,北屯區,三和里"
+            }
+        }
+    ]
+}

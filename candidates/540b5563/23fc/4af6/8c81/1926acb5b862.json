@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5563-23fc-4af6-8c81-1926acb5b862",
+            "election_id": "53c02201-4f14-4fbb-b195-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "182",
+            "name": "蘇金源",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1952-09-12",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:41:39",
+            "modified": "2015-02-08 23:45:01"
+        },
+        "Election": {
+            "id": "53c02201-4f14-4fbb-b195-5c5aacb5b862",
+            "population_electors": "728",
+            "population": "902",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546ebce3-ebe4-471a-8654-2b96cf91e152",
+            "Area": [
+                {
+                    "id": "53c01cf8-f864-46a9-a6a9-5460acb5b862",
+                    "name": "東陽里",
+                    "AreasElection": {
+                        "id": "53c02201-5028-4063-92cd-5c5aacb5b862",
+                        "Election_id": "53c02201-4f14-4fbb-b195-5c5aacb5b862",
+                        "Area_id": "53c01cf8-f864-46a9-a6a9-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "6201",
+                "rght": "7018",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02201-dd10-406f-b04b-5c5aacb5b862",
+                "parent_id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "name": "北港鎮",
+                "lft": "6478",
+                "rght": "6535",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02201-4f14-4fbb-b195-5c5aacb5b862",
+                "parent_id": "53c02201-dd10-406f-b04b-5c5aacb5b862",
+                "name": "東陽里",
+                "lft": "6479",
+                "rght": "6480",
+                "population": "902",
+                "population_electors": "728",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546ebce3-ebe4-471a-8654-2b96cf91e152",
+                "keywords": "2014-11,村里長,雲林縣,北港鎮,東陽里"
+            }
+        }
+    ]
+}

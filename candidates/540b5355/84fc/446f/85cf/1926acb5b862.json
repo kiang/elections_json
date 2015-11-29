@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5355-84fc-446f-85cf-1926acb5b862",
+            "election_id": "53c024d4-2794-4fb2-bfb1-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "890",
+            "name": "陳錫遠",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "新北市",
+            "birth": "1967-06-13",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:32:53",
+            "modified": "2015-02-08 23:41:04"
+        },
+        "Election": {
+            "id": "53c024d4-2794-4fb2-bfb1-5c5aacb5b862",
+            "population_electors": "2632",
+            "population": "3353",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546ef559-0a88-4bf8-915f-208ecf91e152",
+            "Area": [
+                {
+                    "id": "53c01f2a-e95c-4033-a979-5460acb5b862",
+                    "name": "溪東里",
+                    "AreasElection": {
+                        "id": "53c024d5-2e18-4c83-a969-5c5aacb5b862",
+                        "Election_id": "53c024d4-2794-4fb2-bfb1-5c5aacb5b862",
+                        "Area_id": "53c01f2a-e95c-4033-a979-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新北市",
+                "lft": "14261",
+                "rght": "16384",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c024d2-8898-4525-b337-5c5aacb5b862",
+                "parent_id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "name": "三峽區",
+                "lft": "15508",
+                "rght": "15565",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c024d4-2794-4fb2-bfb1-5c5aacb5b862",
+                "parent_id": "53c024d2-8898-4525-b337-5c5aacb5b862",
+                "name": "溪東里",
+                "lft": "15539",
+                "rght": "15540",
+                "population": "3353",
+                "population_electors": "2632",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546ef559-0a88-4bf8-915f-208ecf91e152",
+                "keywords": "2014-11,村里長,新北市,三峽區,溪東里"
+            }
+        }
+    ]
+}

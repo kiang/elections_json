@@ -1,0 +1,139 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b52f6-6ffc-41aa-b52f-1926acb5b862",
+            "election_id": "53c023a9-d178-4c16-bcf7-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "834",
+            "name": "張安東",
+            "image": "545a5bd3\/a8d8\/41dc\/8a94\/7a638e043389.jpg",
+            "party": "綠黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "綠黨候選人 - 打造新東門 張安東 http:\/\/green.democracy.tw\/antung",
+            "gender": "m",
+            "no": "3",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺北市",
+            "birth": "1961-07-08",
+            "platform": " 1. \t爭取增加巷弄汽機車的停車位。\\n 2.\t全力繁榮東門商圈，帶動活力\\n 3.\t照顧社區獨居老人、給予社會局補助\\n 4.\t設立里民活動中心（目前缺乏）\\n 5.\t美化東門市場及周邊住宅衛生環境\\n 6.\t成立環保大隊，由鄰長擔任負責社區環境\\n 7.\t保持與各大樓管委會互相聯繫，有問題立刻處理，敦親睦鄰",
+            "education": "",
+            "experience": "綠黨翡翠水庫水質觀察員 (現任)\\n心路基金會志工 (現任)\\n吉成乾洗店負責人 (現任)\\n台灣水資源委員\\n北區裝甲兵聯誼會會長\\n台灣環保聯盟\\n1987年老兵探親籌備委員\\n",
+            "created": "2014-09-07 02:31:18",
+            "modified": "2015-02-08 23:40:32"
+        },
+        "Election": {
+            "id": "53c023a9-d178-4c16-bcf7-5c5aacb5b862",
+            "population_electors": "6172",
+            "population": "8513",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-ab98-412c-bd17-4187cf91e152",
+            "Area": [
+                {
+                    "id": "53c01e22-5378-4d14-89f2-5460acb5b862",
+                    "name": "文祥里",
+                    "AreasElection": {
+                        "id": "53c023aa-5540-4b72-b39d-5c5aacb5b862",
+                        "Election_id": "53c023a9-d178-4c16-bcf7-5c5aacb5b862",
+                        "Area_id": "53c01e22-5378-4d14-89f2-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54130f90-4d04-47eb-8a30-2c82cb455a61",
+                "name": "2014綠黨",
+                "CandidatesTag": {
+                    "id": "54130fc1-9c64-403b-b5b9-2c85cb455a61",
+                    "Candidate_id": "540b52f6-6ffc-41aa-b52f-1926acb5b862",
+                    "Tag_id": "54130f90-4d04-47eb-8a30-2c82cb455a61"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023a5-38c4-465f-aa6c-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "中正區",
+                "lft": "11804",
+                "rght": "11867",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023a9-d178-4c16-bcf7-5c5aacb5b862",
+                "parent_id": "53c023a5-38c4-465f-aa6c-5c5aacb5b862",
+                "name": "文祥里",
+                "lft": "11859",
+                "rght": "11860",
+                "population": "8513",
+                "population_electors": "6172",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-ab98-412c-bd17-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,中正區,文祥里"
+            }
+        }
+    ]
+}

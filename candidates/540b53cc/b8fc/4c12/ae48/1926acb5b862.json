@@ -1,0 +1,139 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b53cc-b8fc-4c12-ae48-1926acb5b862",
+            "election_id": "53c02540-aef0-4775-8338-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "2085",
+            "name": "黃俊銘",
+            "image": null,
+            "party": "民主進步黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "大學",
+            "is_present": false,
+            "name_english": "HUANG CHUN MING",
+            "birth_place": "臺中市",
+            "birth": "1974-06-04",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:34:52",
+            "modified": "2015-02-08 23:41:13"
+        },
+        "Election": {
+            "id": "53c02540-aef0-4775-8338-5c5aacb5b862",
+            "population_electors": "5723",
+            "population": "8654",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546d8db9-41f4-4792-9f66-0e51cf91e152",
+            "Area": [
+                {
+                    "id": "53c01f7c-72a0-49db-921f-5460acb5b862",
+                    "name": "三厝里",
+                    "AreasElection": {
+                        "id": "53c02540-04e0-49aa-ad30-5c5aacb5b862",
+                        "Election_id": "53c02540-aef0-4775-8338-5c5aacb5b862",
+                        "Area_id": "53c01f7c-72a0-49db-921f-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "5412ff6f-db88-40fb-a1bb-7204cb455a61",
+                "name": "2014民進黨「民主小草」",
+                "CandidatesTag": {
+                    "id": "5413007a-7468-4761-96f6-7204cb455a61",
+                    "Candidate_id": "540b53cc-b8fc-4c12-ae48-1926acb5b862",
+                    "Tag_id": "5412ff6f-db88-40fb-a1bb-7204cb455a61"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0253e-6d80-4fe5-b1f1-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "南屯區",
+                "lft": "16692",
+                "rght": "16743",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02540-aef0-4775-8338-5c5aacb5b862",
+                "parent_id": "53c0253e-6d80-4fe5-b1f1-5c5aacb5b862",
+                "name": "三厝里",
+                "lft": "16713",
+                "rght": "16714",
+                "population": "8654",
+                "population_electors": "5723",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546d8db9-41f4-4792-9f66-0e51cf91e152",
+                "keywords": "2014-11,村里長,臺中市,南屯區,三厝里"
+            }
+        }
+    ]
+}

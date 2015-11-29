@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b53e0-d01c-48e0-978f-1926acb5b862",
+            "election_id": "53c02569-7880-468a-a960-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "202",
+            "name": "林永盛",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "3",
+            "education_level": "碩士",
+            "is_present": false,
+            "name_english": "Lin Yungsheng",
+            "birth_place": "臺中市",
+            "birth": "1967-09-24",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:35:12",
+            "modified": "2015-02-08 23:41:17"
+        },
+        "Election": {
+            "id": "53c02569-7880-468a-a960-5c5aacb5b862",
+            "population_electors": "994",
+            "population": "1279",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546d8db9-bd8c-4553-bc08-0e51cf91e152",
+            "Area": [
+                {
+                    "id": "53c01f9b-463c-46f5-b958-5460acb5b862",
+                    "name": "仁里里",
+                    "AreasElection": {
+                        "id": "53c02569-bbf4-4d0f-b4d8-5c5aacb5b862",
+                        "Election_id": "53c02569-7880-468a-a960-5c5aacb5b862",
+                        "Area_id": "53c01f9b-463c-46f5-b958-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02569-4c6c-453c-8ae9-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "后里區",
+                "lft": "17156",
+                "rght": "17193",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02569-7880-468a-a960-5c5aacb5b862",
+                "parent_id": "53c02569-4c6c-453c-8ae9-5c5aacb5b862",
+                "name": "仁里里",
+                "lft": "17161",
+                "rght": "17162",
+                "population": "1279",
+                "population_electors": "994",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546d8db9-bd8c-4553-bc08-0e51cf91e152",
+                "keywords": "2014-11,村里長,臺中市,后里區,仁里里"
+            }
+        }
+    ]
+}

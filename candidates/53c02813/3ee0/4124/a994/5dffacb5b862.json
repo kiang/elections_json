@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02813-3ee0-4124-a994-5dffacb5b862",
+            "election_id": "53c02214-ce60-415b-aeeb-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1363",
+            "name": "蔡明宏",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1963-12-05",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:45:04"
+        },
+        "Election": {
+            "id": "53c02214-ce60-415b-aeeb-5c5aacb5b862",
+            "population_electors": "2276",
+            "population": "2851",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546edee5-3e54-4a42-94f7-3ce1cf91e152",
+            "Area": [
+                {
+                    "id": "53c01d09-ab34-4838-ad24-5460acb5b862",
+                    "name": "興華村",
+                    "AreasElection": {
+                        "id": "53c02214-94f4-4cef-8206-5c5aacb5b862",
+                        "Election_id": "53c02214-ce60-415b-aeeb-5c5aacb5b862",
+                        "Area_id": "53c01d09-ab34-4838-ad24-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "6201",
+                "rght": "7018",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02213-7a74-4d35-bdaa-5c5aacb5b862",
+                "parent_id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "name": "麥寮鄉",
+                "lft": "6730",
+                "rght": "6757",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02214-ce60-415b-aeeb-5c5aacb5b862",
+                "parent_id": "53c02213-7a74-4d35-bdaa-5c5aacb5b862",
+                "name": "興華村",
+                "lft": "6745",
+                "rght": "6746",
+                "population": "2851",
+                "population_electors": "2276",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546edee5-3e54-4a42-94f7-3ce1cf91e152",
+                "keywords": "2014-11,村里長,雲林縣,麥寮鄉,興華村"
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c027d8-3fcc-4c73-b423-5dffacb5b862",
+            "election_id": "53c021a6-f0a0-45d1-802e-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "246",
+            "name": "陳大森",
+            "image": "5463512e\/c7fc\/42c2\/903e\/78998e043389.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1942-03-31",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:44:46"
+        },
+        "Election": {
+            "id": "53c021a6-f0a0-45d1-802e-5c5aacb5b862",
+            "population_electors": "645",
+            "population": "794",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-efc8-4864-9571-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01cb2-baac-48ac-9bab-5460acb5b862",
+                    "name": "五伯村",
+                    "AreasElection": {
+                        "id": "53c021a6-88fc-454e-9f81-5c5aacb5b862",
+                        "Election_id": "53c021a6-f0a0-45d1-802e-5c5aacb5b862",
+                        "Area_id": "53c01cb2-baac-48ac-9bab-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "4417",
+                "rght": "5648",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021a6-5f24-4862-96c1-5c5aacb5b862",
+                "parent_id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "name": "二水鄉",
+                "lft": "5290",
+                "rght": "5325",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021a6-f0a0-45d1-802e-5c5aacb5b862",
+                "parent_id": "53c021a6-5f24-4862-96c1-5c5aacb5b862",
+                "name": "五伯村",
+                "lft": "5295",
+                "rght": "5296",
+                "population": "794",
+                "population_electors": "645",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-efc8-4864-9571-74a5cf91e152",
+                "keywords": "2014-11,村里長,彰化縣,二水鄉,五伯村"
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b54e7-13ec-4864-b19c-1926acb5b862",
+            "election_id": "53c02155-419c-41e9-a798-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "637",
+            "name": "張活文",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "ZHANG HUO WEN",
+            "birth_place": "臺灣省",
+            "birth": "1969-06-23",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:39:35",
+            "modified": "2015-02-08 23:44:37"
+        },
+        "Election": {
+            "id": "53c02155-419c-41e9-a798-5c5aacb5b862",
+            "population_electors": "1198",
+            "population": "1503",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-9fe4-4653-a28b-4187cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c6e-47b4-4c7a-b88b-5460acb5b862",
+                    "name": "九湖村",
+                    "AreasElection": {
+                        "id": "53c02156-68b0-42ec-99a7-5c5aacb5b862",
+                        "Election_id": "53c02155-419c-41e9-a798-5c5aacb5b862",
+                        "Area_id": "53c01c6e-47b4-4c7a-b88b-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02135-5cc8-4f9d-a971-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "苗栗縣",
+                "lft": "3831",
+                "rght": "4416",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02155-aa04-4735-9b12-5c5aacb5b862",
+                "parent_id": "53c02135-5cc8-4f9d-a971-5c5aacb5b862",
+                "name": "銅鑼鄉",
+                "lft": "4248",
+                "rght": "4269",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02155-419c-41e9-a798-5c5aacb5b862",
+                "parent_id": "53c02155-aa04-4735-9b12-5c5aacb5b862",
+                "name": "九湖村",
+                "lft": "4255",
+                "rght": "4256",
+                "population": "1503",
+                "population_electors": "1198",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-9fe4-4653-a28b-4187cf91e152",
+                "keywords": "2014-11,村里長,苗栗縣,銅鑼鄉,九湖村"
+            }
+        }
+    ]
+}

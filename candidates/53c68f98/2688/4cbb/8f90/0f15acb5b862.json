@@ -1,0 +1,125 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c68f98-2688-4cbb-8f90-0f15acb5b862",
+            "election_id": "53c40084-1e1c-468b-b56c-6cceacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "24030",
+            "name": "吳碧珠",
+            "image": "5433ea4d\/391c\/429f\/9517\/3e91cb455a61.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "02-27297708",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "110台北市信義區仁愛路四段507號",
+            "links": "",
+            "gender": "f",
+            "no": "21",
+            "education_level": "大學",
+            "is_present": true,
+            "name_english": "WU BI CHU",
+            "birth_place": "臺北市",
+            "birth": "1949-12-22",
+            "platform": "",
+            "education": "國立空中大學社會科學系畢  國立臺北商專企管科  士林初中  士林國小",
+            "experience": "第11屆臺北市議會議長  第4至第11屆臺北市議員  臺北市議會第7屆副議長，第8、9、10屆議長  中國國民黨第十六屆中常委、第十七屆中央委員  革命實踐研究院講習班第四十六期",
+            "created": "2014-07-16 22:43:36",
+            "modified": "2015-02-08 23:40:13"
+        },
+        "Election": {
+            "id": "53c40084-1e1c-468b-b56c-6cceacb5b862",
+            "population_electors": "440693",
+            "population": "546811",
+            "quota": "13",
+            "quota_women": "3",
+            "bulletin_key": "5469b450-5620-4bac-8bac-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01e39-2d08-427e-a810-5460acb5b862",
+                    "name": "士林區",
+                    "AreasElection": {
+                        "id": "53c406db-80cc-434d-a77a-6dacacb5b862",
+                        "Election_id": "53c40084-1e1c-468b-b56c-6cceacb5b862",
+                        "Area_id": "53c01e39-2d08-427e-a810-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01e41-502c-4685-89eb-5460acb5b862",
+                    "name": "北投區",
+                    "AreasElection": {
+                        "id": "53c406db-2044-4a8c-9a64-6dacacb5b862",
+                        "Election_id": "53c40084-1e1c-468b-b56c-6cceacb5b862",
+                        "Area_id": "53c01e41-502c-4685-89eb-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207e-df00-40ad-b2bd-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "臺北市",
+                "lft": "47",
+                "rght": "64",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c40084-1e1c-468b-b56c-6cceacb5b862",
+                "parent_id": "53c0207e-df00-40ad-b2bd-5c5aacb5b862",
+                "name": "第01選區[區域]",
+                "lft": "48",
+                "rght": "49",
+                "population": "546811",
+                "population_electors": "440693",
+                "quota": "13",
+                "quota_women": "3",
+                "bulletin_key": "5469b450-5620-4bac-8bac-74a5cf91e152",
+                "keywords": "2014-11,直轄市議員,臺北市,第01選區[區域]"
+            }
+        }
+    ]
+}

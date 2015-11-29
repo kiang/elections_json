@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02789-5a90-49ef-8534-5dffacb5b862",
+            "election_id": "53c0237f-b7d0-49b8-8a94-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "1494",
+            "name": "沈文生",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "SHEN WEN SHENG",
+            "birth_place": "臺灣省",
+            "birth": "1950-10-20",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:41:47"
+        },
+        "Election": {
+            "id": "53c0237f-b7d0-49b8-8a94-5c5aacb5b862",
+            "population_electors": "5178",
+            "population": "6891",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546f277e-7a80-4221-9d4a-2f28cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c2f-cbc0-4b71-923e-5460acb5b862",
+                    "name": "平南里",
+                    "AreasElection": {
+                        "id": "53c02380-3cc0-4d2c-82b8-5c5aacb5b862",
+                        "Election_id": "53c0237f-b7d0-49b8-8a94-5c5aacb5b862",
+                        "Area_id": "53c01c2f-cbc0-4b71-923e-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "桃園市",
+                "lft": "10439",
+                "rght": "11456",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02379-7ffc-44da-9134-5c5aacb5b862",
+                "parent_id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "name": "平鎮區",
+                "lft": "11242",
+                "rght": "11335",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0237f-b7d0-49b8-8a94-5c5aacb5b862",
+                "parent_id": "53c02379-7ffc-44da-9134-5c5aacb5b862",
+                "name": "平南里",
+                "lft": "11329",
+                "rght": "11330",
+                "population": "6891",
+                "population_electors": "5178",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546f277e-7a80-4221-9d4a-2f28cf91e152",
+                "keywords": "2014-11,村里長,桃園市,平鎮區,平南里"
+            }
+        }
+    ]
+}

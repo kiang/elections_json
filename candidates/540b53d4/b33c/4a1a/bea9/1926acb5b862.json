@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b53d4-b33c-4a1a-bea9-1926acb5b862",
+            "election_id": "53c02550-02e8-412a-ac1b-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "983",
+            "name": "張源逢",
+            "image": null,
+            "party": "民主進步黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1955-10-24",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:35:00",
+            "modified": "2015-02-08 23:41:15"
+        },
+        "Election": {
+            "id": "53c02550-02e8-412a-ac1b-5c5aacb5b862",
+            "population_electors": "5862",
+            "population": "7397",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c8095-52c0-422c-b47b-61a3cf91e152",
+            "Area": [
+                {
+                    "id": "53c01f87-153c-4adb-bd35-5460acb5b862",
+                    "name": "田心里",
+                    "AreasElection": {
+                        "id": "53c02550-708c-48f2-8001-5c5aacb5b862",
+                        "Election_id": "53c02550-02e8-412a-ac1b-5c5aacb5b862",
+                        "Area_id": "53c01f87-153c-4adb-bd35-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0254a-5b94-49bd-8036-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "豐原區",
+                "lft": "16830",
+                "rght": "16903",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02550-02e8-412a-ac1b-5c5aacb5b862",
+                "parent_id": "53c0254a-5b94-49bd-8036-5c5aacb5b862",
+                "name": "田心里",
+                "lft": "16867",
+                "rght": "16868",
+                "population": "7397",
+                "population_electors": "5862",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c8095-52c0-422c-b47b-61a3cf91e152",
+                "keywords": "2014-11,村里長,臺中市,豐原區,田心里"
+            }
+        }
+    ]
+}

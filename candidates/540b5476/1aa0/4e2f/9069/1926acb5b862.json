@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5476-1aa0-4e2f-9069-1926acb5b862",
+            "election_id": "53c02412-aadc-4d71-a92e-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "979",
+            "name": "胡慶明",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "4",
+            "education_level": "專科",
+            "is_present": false,
+            "name_english": "HU CHIN MING",
+            "birth_place": "臺灣省",
+            "birth": "1953-05-20",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:37:42",
+            "modified": "2015-02-08 23:40:43"
+        },
+        "Election": {
+            "id": "53c02412-aadc-4d71-a92e-5c5aacb5b862",
+            "population_electors": "4790",
+            "population": "5635",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb720-c720-4c7d-af7c-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01e7c-e490-45a9-ad4f-5460acb5b862",
+                    "name": "忠純里",
+                    "AreasElection": {
+                        "id": "53c02412-5784-4858-9997-5c5aacb5b862",
+                        "Election_id": "53c02412-aadc-4d71-a92e-5c5aacb5b862",
+                        "Area_id": "53c01e7c-e490-45a9-ad4f-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0240c-9e90-4444-95a6-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "前鎮區",
+                "lft": "13098",
+                "rght": "13217",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02412-aadc-4d71-a92e-5c5aacb5b862",
+                "parent_id": "53c0240c-9e90-4444-95a6-5c5aacb5b862",
+                "name": "忠純里",
+                "lft": "13147",
+                "rght": "13148",
+                "population": "5635",
+                "population_electors": "4790",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb720-c720-4c7d-af7c-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,前鎮區,忠純里"
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "54229c11-213c-437a-b87c-1b1ecb455a61",
+            "election_id": "53d734dc-6564-4de6-8f70-1299acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "15",
+            "name": "蔡福春",
+            "image": "548ecec3\/770c\/4585\/b9b1\/5e8f6ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "1",
+            "education_level": "",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "",
+            "birth": "0000-00-00",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-24 18:25:21",
+            "modified": "2015-02-08 23:42:04"
+        },
+        "Election": {
+            "id": "53d734dc-6564-4de6-8f70-1299acb5b862",
+            "population_electors": "490",
+            "population": "669",
+            "quota": "3",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-a1c4-4971-8142-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01bd7-6afc-470f-9df0-5460acb5b862",
+                    "name": "烏坵鄉",
+                    "AreasElection": {
+                        "id": "53d734dd-d080-4dbd-9c2f-1299acb5b862",
+                        "Election_id": "53d734dc-6564-4de6-8f70-1299acb5b862",
+                        "Area_id": "53c01bd7-6afc-470f-9df0-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b0-f680-455c-a5b8-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "金門縣",
+                "lft": "1051",
+                "rght": "1076",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b1-c20c-4001-94fb-5c5aacb5b862",
+                "parent_id": "53c020b0-f680-455c-a5b8-5c5aacb5b862",
+                "name": "烏坵鄉",
+                "lft": "1072",
+                "rght": "1075",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d734dc-6564-4de6-8f70-1299acb5b862",
+                "parent_id": "53c020b1-c20c-4001-94fb-5c5aacb5b862",
+                "name": "第01選舉區[區域]",
+                "lft": "1073",
+                "rght": "1074",
+                "population": "669",
+                "population_electors": "490",
+                "quota": "3",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-a1c4-4971-8142-74a5cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,金門縣,烏坵鄉,第01選舉區[區域]"
+            }
+        }
+    ]
+}

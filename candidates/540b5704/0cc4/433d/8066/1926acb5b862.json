@@ -1,0 +1,148 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5704-0cc4-433d-8066-1926acb5b862",
+            "election_id": "53d73303-4f54-4f8b-a015-1299acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "497",
+            "name": "栢雲南",
+            "image": "54ba7ee7\/4570\/483c\/9ea5\/53096ab936af.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "4",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1959-04-27",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:48:36",
+            "modified": "2015-02-08 23:42:33"
+        },
+        "Election": {
+            "id": "53d73303-4f54-4f8b-a015-1299acb5b862",
+            "population_electors": "4106",
+            "population": "5002",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-a390-4dbb-a446-4187cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c73-223c-4076-9990-5460acb5b862",
+                    "name": "造橋村",
+                    "AreasElection": {
+                        "id": "53d73c6b-9e28-402c-b145-16c7acb5b862",
+                        "Election_id": "53d73303-4f54-4f8b-a015-1299acb5b862",
+                        "Area_id": "53c01c73-223c-4076-9990-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01c73-223c-4076-9990-5460acb5b862",
+                    "name": "造橋村",
+                    "AreasElection": {
+                        "id": "53d73c79-c8c4-40e8-9e24-16ceacb5b862",
+                        "Election_id": "53d73303-4f54-4f8b-a015-1299acb5b862",
+                        "Area_id": "53c01c73-223c-4076-9990-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54ab2bec-d414-4147-9106-2a7b6ab936af",
+                "name": "2014當選無效之訴-苗栗縣",
+                "CandidatesTag": {
+                    "id": "54abfa8f-8118-41b7-8670-58b26ab936af",
+                    "Candidate_id": "540b5704-0cc4-433d-8066-1926acb5b862",
+                    "Tag_id": "54ab2bec-d414-4147-9106-2a7b6ab936af"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b7-c5b4-41c9-bda3-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "苗栗縣",
+                "lft": "1323",
+                "rght": "1496",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ba-cc9c-4e33-b62e-5c5aacb5b862",
+                "parent_id": "53c020b7-c5b4-41c9-bda3-5c5aacb5b862",
+                "name": "造橋鄉",
+                "lft": "1462",
+                "rght": "1471",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d73303-4f54-4f8b-a015-1299acb5b862",
+                "parent_id": "53c020ba-cc9c-4e33-b62e-5c5aacb5b862",
+                "name": "第01選舉區[區域]",
+                "lft": "1463",
+                "rght": "1464",
+                "population": "5002",
+                "population_electors": "4106",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-a390-4dbb-a446-4187cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,苗栗縣,造橋鄉,第01選舉區[區域]"
+            }
+        }
+    ]
+}

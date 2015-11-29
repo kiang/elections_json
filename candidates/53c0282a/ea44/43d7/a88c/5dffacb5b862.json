@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c0282a-ea44-43d7-a88c-5dffacb5b862",
+            "election_id": "53c02241-a824-4ebd-a47c-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "409",
+            "name": "蕭來傳",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1948-01-02",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:45:09"
+        },
+        "Election": {
+            "id": "53c02241-a824-4ebd-a47c-5c5aacb5b862",
+            "population_electors": "1048",
+            "population": "1292",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-cbbc-45df-948f-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01d30-7688-40b5-a7d5-5460acb5b862",
+                    "name": "中洋村",
+                    "AreasElection": {
+                        "id": "53c02241-452c-41be-8d7a-5c5aacb5b862",
+                        "Election_id": "53c02241-a824-4ebd-a47c-5c5aacb5b862",
+                        "Area_id": "53c01d30-7688-40b5-a7d5-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0222a-d5c0-465f-849c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "嘉義縣",
+                "lft": "7019",
+                "rght": "7770",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0223f-d4dc-4ca4-a9e9-5c5aacb5b862",
+                "parent_id": "53c0222a-d5c0-465f-849c-5c5aacb5b862",
+                "name": "新港鄉",
+                "lft": "7294",
+                "rght": "7341",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02241-a824-4ebd-a47c-5c5aacb5b862",
+                "parent_id": "53c0223f-d4dc-4ca4-a9e9-5c5aacb5b862",
+                "name": "中洋村",
+                "lft": "7327",
+                "rght": "7328",
+                "population": "1292",
+                "population_electors": "1048",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-cbbc-45df-948f-2adbcf91e152",
+                "keywords": "2014-11,村里長,嘉義縣,新港鄉,中洋村"
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b54db-5034-4eae-bb40-1926acb5b862",
+            "election_id": "53c02147-db30-48e1-b539-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "477",
+            "name": "賴藤村",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "LAI TENG CHUN",
+            "birth_place": "臺北市",
+            "birth": "1945-04-06",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:39:23",
+            "modified": "2015-02-08 23:44:35"
+        },
+        "Election": {
+            "id": "53c02147-db30-48e1-b539-5c5aacb5b862",
+            "population_electors": "2171",
+            "population": "2757",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-7c68-4495-827b-4187cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c60-ad9c-4f77-92be-5460acb5b862",
+                    "name": "流東里",
+                    "AreasElection": {
+                        "id": "53c02147-9e7c-4d6f-8016-5c5aacb5b862",
+                        "Election_id": "53c02147-db30-48e1-b539-5c5aacb5b862",
+                        "Area_id": "53c01c60-ad9c-4f77-92be-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02135-5cc8-4f9d-a971-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "苗栗縣",
+                "lft": "3831",
+                "rght": "4416",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02146-7fd4-4795-8239-5c5aacb5b862",
+                "parent_id": "53c02135-5cc8-4f9d-a971-5c5aacb5b862",
+                "name": "頭份鎮",
+                "lft": "4044",
+                "rght": "4109",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02147-db30-48e1-b539-5c5aacb5b862",
+                "parent_id": "53c02146-7fd4-4795-8239-5c5aacb5b862",
+                "name": "流東里",
+                "lft": "4049",
+                "rght": "4050",
+                "population": "2757",
+                "population_electors": "2171",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-7c68-4495-827b-4187cf91e152",
+                "keywords": "2014-11,村里長,苗栗縣,頭份鎮,流東里"
+            }
+        }
+    ]
+}

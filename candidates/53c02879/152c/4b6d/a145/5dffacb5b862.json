@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02879-152c-4b6d-a145-5dffacb5b862",
+            "election_id": "53c022ef-15ec-4e76-ab15-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "0",
+            "vote_count": "0",
+            "name": "葉文從",
+            "image": null,
+            "party": null,
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": null,
+            "no": "0",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "0000-00-00 00:00:00"
+        },
+        "Election": {
+            "id": "53c022ef-15ec-4e76-ab15-5c5aacb5b862",
+            "population_electors": "895",
+            "population": "1075",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "Area": [
+                {
+                    "id": "53c01dc5-b080-488d-b606-5460acb5b862",
+                    "name": "烏崁里",
+                    "AreasElection": {
+                        "id": "53c022ef-9b00-479c-84b2-5c5aacb5b862",
+                        "Election_id": "53c022ef-15ec-4e76-ab15-5c5aacb5b862",
+                        "Area_id": "53c01dc5-b080-488d-b606-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022eb-48d4-448e-b49d-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "澎湖縣",
+                "lft": "9477",
+                "rght": "9682",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022eb-2b74-4bba-b772-5c5aacb5b862",
+                "parent_id": "53c022eb-48d4-448e-b49d-5c5aacb5b862",
+                "name": "馬公市",
+                "lft": "9478",
+                "rght": "9545",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022ef-15ec-4e76-ab15-5c5aacb5b862",
+                "parent_id": "53c022eb-2b74-4bba-b772-5c5aacb5b862",
+                "name": "烏崁里",
+                "lft": "9527",
+                "rght": "9528",
+                "population": "1075",
+                "population_electors": "895",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2014-11,村里長,澎湖縣,馬公市,烏崁里"
+            }
+        }
+    ]
+}

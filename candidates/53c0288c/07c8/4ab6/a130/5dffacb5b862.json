@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c0288c-07c8-4ab6-a130-5dffacb5b862",
+            "election_id": "53c02312-8aac-4f6d-a153-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "624",
+            "name": "林東寶",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺中市",
+            "birth": "1955-02-16",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:45:32"
+        },
+        "Election": {
+            "id": "53c02312-8aac-4f6d-a153-5c5aacb5b862",
+            "population_electors": "1087",
+            "population": "1360",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546cd3af-5930-405b-8988-78ebcf91e152",
+            "Area": [
+                {
+                    "id": "53c01de2-f1d0-43d0-a061-5460acb5b862",
+                    "name": "仁壽里",
+                    "AreasElection": {
+                        "id": "53c02312-5b44-4ce6-9434-5c5aacb5b862",
+                        "Election_id": "53c02312-8aac-4f6d-a153-5c5aacb5b862",
+                        "Area_id": "53c01de2-f1d0-43d0-a061-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "基隆市",
+                "lft": "9683",
+                "rght": "10012",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02311-b468-4eac-a0ef-5c5aacb5b862",
+                "parent_id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "name": "信義區",
+                "lft": "9970",
+                "rght": "10011",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02312-8aac-4f6d-a153-5c5aacb5b862",
+                "parent_id": "53c02311-b468-4eac-a0ef-5c5aacb5b862",
+                "name": "仁壽里",
+                "lft": "9975",
+                "rght": "9976",
+                "population": "1360",
+                "population_electors": "1087",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546cd3af-5930-405b-8988-78ebcf91e152",
+                "keywords": "2014-11,村里長,基隆市,信義區,仁壽里"
+            }
+        }
+    ]
+}

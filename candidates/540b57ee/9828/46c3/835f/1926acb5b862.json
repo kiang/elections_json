@@ -1,0 +1,140 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b57ee-9828-46c3-835f-1926acb5b862",
+            "election_id": "53d734a1-fe70-4c03-867b-1299acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "182",
+            "name": "王心潔",
+            "image": "54a8fb7d\/1770\/4f1b\/88c0\/36c36ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "f",
+            "no": "1",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:52:30",
+            "modified": "2015-02-08 23:44:11"
+        },
+        "Election": {
+            "id": "53d734a1-fe70-4c03-867b-1299acb5b862",
+            "population_electors": "1016",
+            "population": "1332",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "546eec9d-8428-4cd6-a11d-180dcf91e152",
+            "Area": [
+                {
+                    "id": "53c01da8-649c-4ad8-8e2b-5460acb5b862",
+                    "name": "新興村",
+                    "AreasElection": {
+                        "id": "53d734a1-a6ec-4697-89ba-1299acb5b862",
+                        "Election_id": "53d734a1-fe70-4c03-867b-1299acb5b862",
+                        "Area_id": "53c01da8-649c-4ad8-8e2b-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01da8-7ff0-492f-ba2c-5460acb5b862",
+                    "name": "正興村",
+                    "AreasElection": {
+                        "id": "53d734a1-20b4-4bcc-a877-1299acb5b862",
+                        "Election_id": "53d734a1-fe70-4c03-867b-1299acb5b862",
+                        "Area_id": "53c01da8-7ff0-492f-ba2c-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020d9-a97c-4d95-809d-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "臺東縣",
+                "lft": "2485",
+                "rght": "2612",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020dc-0464-4efc-acec-5c5aacb5b862",
+                "parent_id": "53c020d9-a97c-4d95-809d-5c5aacb5b862",
+                "name": "金峰鄉",
+                "lft": "2600",
+                "rght": "2607",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d734a1-fe70-4c03-867b-1299acb5b862",
+                "parent_id": "53c020dc-0464-4efc-acec-5c5aacb5b862",
+                "name": "第02選舉區[區域]",
+                "lft": "2603",
+                "rght": "2604",
+                "population": "1332",
+                "population_electors": "1016",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "546eec9d-8428-4cd6-a11d-180dcf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,臺東縣,金峰鄉,第02選舉區[區域]"
+            }
+        }
+    ]
+}

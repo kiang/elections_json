@@ -1,0 +1,134 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c68fa9-6d18-4bc3-9f7c-0f15acb5b862",
+            "election_id": "53c4009b-71b0-4efb-8b3c-6cceacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "0",
+            "vote_count": "0",
+            "name": "楊秋雲",
+            "image": "5448ff7f\/4870\/4049\/bcc2\/13038e043389.jpg",
+            "party": "",
+            "contacts_phone": "04-26222342",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "436台中市清水區中華路302號",
+            "links": "",
+            "gender": "f",
+            "no": "0",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "東海大學經營管理師研究班結業  新民商工職校",
+            "experience": "現職  台中直轄市第一屆市議員   台中市清水區羽球協會主任委員   婦聯青溪分會台中縣支會清水分會主任委員    經歷  台中縣議會第十三.十四.十五.十六屆議員    台中港女同際會創會長   台中港國際尊親會會長     台中縣919協會創會理事長   財團法人楊丁文化教育基金會董事",
+            "created": "2014-07-16 22:43:53",
+            "modified": "2014-10-23 21:23:36"
+        },
+        "Election": {
+            "id": "53c4009b-71b0-4efb-8b3c-6cceacb5b862",
+            "population_electors": "176111",
+            "population": "229709",
+            "quota": "5",
+            "quota_women": "1",
+            "bulletin_key": "546e068f-899c-471f-9b22-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01f91-f244-4e62-9b72-5460acb5b862",
+                    "name": "清水區",
+                    "AreasElection": {
+                        "id": "53c406e6-d820-4309-9f4c-6dacacb5b862",
+                        "Election_id": "53c4009b-71b0-4efb-8b3c-6cceacb5b862",
+                        "Area_id": "53c01f91-f244-4e62-9b72-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01f96-e6a8-41a5-bbd4-5460acb5b862",
+                    "name": "沙鹿區",
+                    "AreasElection": {
+                        "id": "53c406e6-cdb4-46fb-b387-6dacacb5b862",
+                        "Election_id": "53c4009b-71b0-4efb-8b3c-6cceacb5b862",
+                        "Area_id": "53c01f96-e6a8-41a5-bbd4-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01f99-5828-41d1-ba06-5460acb5b862",
+                    "name": "梧棲區",
+                    "AreasElection": {
+                        "id": "53c406e7-0264-4945-a5c0-6dacacb5b862",
+                        "Election_id": "53c4009b-71b0-4efb-8b3c-6cceacb5b862",
+                        "Area_id": "53c01f99-5828-41d1-ba06-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207e-b9a4-405f-abaf-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "臺中市",
+                "lft": "123",
+                "rght": "156",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c4009b-71b0-4efb-8b3c-6cceacb5b862",
+                "parent_id": "53c0207e-b9a4-405f-abaf-5c5aacb5b862",
+                "name": "第02選區[區域]",
+                "lft": "126",
+                "rght": "127",
+                "population": "229709",
+                "population_electors": "176111",
+                "quota": "5",
+                "quota_women": "1",
+                "bulletin_key": "546e068f-899c-471f-9b22-1a32cf91e152",
+                "keywords": "2014-11,直轄市議員,臺中市,第02選區[區域]"
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02647-a478-40d7-bf67-5dffacb5b862",
+            "election_id": "53c023c0-d064-424c-892d-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "2529",
+            "name": "林火江",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "LIN HOU CHIANG",
+            "birth_place": "臺灣省",
+            "birth": "1951-08-05",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:40:34"
+        },
+        "Election": {
+            "id": "53c023c0-d064-424c-892d-5c5aacb5b862",
+            "population_electors": "4527",
+            "population": "5581",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-26d0-4c52-9325-4187cf91e152",
+            "Area": [
+                {
+                    "id": "53c01e33-89d4-42cf-b65b-5460acb5b862",
+                    "name": "百福里",
+                    "AreasElection": {
+                        "id": "53c023c0-64f8-425e-870f-5c5aacb5b862",
+                        "Election_id": "53c023c0-d064-424c-892d-5c5aacb5b862",
+                        "Area_id": "53c01e33-89d4-42cf-b65b-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023bb-9e20-4a96-90d6-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "南港區",
+                "lft": "12082",
+                "rght": "12123",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023c0-d064-424c-892d-5c5aacb5b862",
+                "parent_id": "53c023bb-9e20-4a96-90d6-5c5aacb5b862",
+                "name": "百福里",
+                "lft": "12117",
+                "rght": "12118",
+                "population": "5581",
+                "population_electors": "4527",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-26d0-4c52-9325-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,南港區,百福里"
+            }
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "5406a60d-84fc-4136-8bcd-15b8acb5b862",
+            "election_id": "53c0209d-3a40-445e-b499-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "0",
+            "vote_count": "0",
+            "name": "陳福成",
+            "image": "549fb5fd\/8430\/41fd\/9dec\/52bc6ab936af.jpg",
+            "party": "無政黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "0",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-03 13:24:29",
+            "modified": "2014-12-28 15:50:32"
+        },
+        "Election": {
+            "id": "53c0209d-3a40-445e-b499-5c5aacb5b862",
+            "population_electors": "57678",
+            "population": "71968",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-df10-41b0-ac94-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01d26-22ac-446d-b54e-5460acb5b862",
+                    "name": "民雄鄉",
+                    "AreasElection": {
+                        "id": "53c0209d-9fa8-4811-a231-5c5aacb5b862",
+                        "Election_id": "53c0209d-3a40-445e-b499-5c5aacb5b862",
+                        "Area_id": "53c01d26-22ac-446d-b54e-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市長",
+                "lft": "608",
+                "rght": "1031",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0209c-b3c0-4999-93a6-5c5aacb5b862",
+                "parent_id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "name": "嘉義縣",
+                "lft": "849",
+                "rght": "886",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0209d-3a40-445e-b499-5c5aacb5b862",
+                "parent_id": "53c0209c-b3c0-4999-93a6-5c5aacb5b862",
+                "name": "民雄鄉",
+                "lft": "858",
+                "rght": "859",
+                "population": "71968",
+                "population_electors": "57678",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-df10-41b0-ac94-2adbcf91e152",
+                "keywords": "2014-11,鄉鎮市長,嘉義縣,民雄鄉"
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b554a-32a0-4034-a359-1926acb5b862",
+            "election_id": "53c021e2-52d8-4986-9452-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "297",
+            "name": "朱虹燁",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺中市",
+            "birth": "1969-06-01",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:41:14",
+            "modified": "2015-02-08 23:44:58"
+        },
+        "Election": {
+            "id": "53c021e2-52d8-4986-9452-5c5aacb5b862",
+            "population_electors": "829",
+            "population": "975",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54735d55-09f8-4c85-9cfa-21eacf91e152",
+            "Area": [
+                {
+                    "id": "53c01ce0-c230-42fd-bcef-5460acb5b862",
+                    "name": "日月村",
+                    "AreasElection": {
+                        "id": "53c021e2-e91c-4b5c-8ea8-5c5aacb5b862",
+                        "Election_id": "53c021e2-52d8-4986-9452-5c5aacb5b862",
+                        "Area_id": "53c01ce0-c230-42fd-bcef-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "南投縣",
+                "lft": "5649",
+                "rght": "6200",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021e0-f37c-4ee8-93e1-5c5aacb5b862",
+                "parent_id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "name": "魚池鄉",
+                "lft": "6040",
+                "rght": "6067",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021e2-52d8-4986-9452-5c5aacb5b862",
+                "parent_id": "53c021e0-f37c-4ee8-93e1-5c5aacb5b862",
+                "name": "日月村",
+                "lft": "6065",
+                "rght": "6066",
+                "population": "975",
+                "population_electors": "829",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54735d55-09f8-4c85-9cfa-21eacf91e152",
+                "keywords": "2014-11,村里長,南投縣,魚池鄉,日月村"
+            }
+        }
+    ]
+}

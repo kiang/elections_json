@@ -1,0 +1,139 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c0274a-ce9c-45fb-83a0-5dffacb5b862",
+            "election_id": "53c0260b-8568-40b8-9dad-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "562",
+            "name": "吳素娥",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "臉書 https:\/\/www.facebook.com\/profile.php?id=100001320739303\\n鄉民訪談 http:\/\/k.olc.tw\/2014\/08\/%E5%8C%97%E5%8D%80%E5%8B%9D%E5%AE%89%E9%87%8C-%E7%8F%BE%E4%BB%BB%E9%87%8C%E9%95%B7-%E5%90%B3%E7%B4%A0%E5%A8%A5-%E8%A8%AA%E8%AB%87\/",
+            "gender": "f",
+            "no": "1",
+            "education_level": "碩士",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺南市",
+            "birth": "1956-08-11",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:41:36"
+        },
+        "Election": {
+            "id": "53c0260b-8568-40b8-9dad-5c5aacb5b862",
+            "population_electors": "1101",
+            "population": "1238",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "Area": [
+                {
+                    "id": "53c02018-16bc-4e68-9f62-5460acb5b862",
+                    "name": "勝安里",
+                    "AreasElection": {
+                        "id": "53c0260b-2078-43a9-9fdf-5c5aacb5b862",
+                        "Election_id": "53c0260b-8568-40b8-9dad-5c5aacb5b862",
+                        "Area_id": "53c02018-16bc-4e68-9f62-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54619d23-ee3c-422d-83a8-08ce8e043389",
+                "name": "2014鄉民參政行動聯盟訪談",
+                "CandidatesTag": {
+                    "id": "54619e4c-5608-4c05-8e8d-08ce8e043389",
+                    "Candidate_id": "53c0274a-ce9c-45fb-83a0-5dffacb5b862",
+                    "Tag_id": "54619d23-ee3c-422d-83a8-08ce8e043389"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02598-fc40-4dee-aec0-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺南市",
+                "lft": "17695",
+                "rght": "19274",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0260a-ed0c-4497-942e-5c5aacb5b862",
+                "parent_id": "53c02598-fc40-4dee-aec0-5c5aacb5b862",
+                "name": "北區",
+                "lft": "18972",
+                "rght": "19059",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0260b-8568-40b8-9dad-5c5aacb5b862",
+                "parent_id": "53c0260a-ed0c-4497-942e-5c5aacb5b862",
+                "name": "勝安里",
+                "lft": "18973",
+                "rght": "18974",
+                "population": "1238",
+                "population_electors": "1101",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2014-11,村里長,臺南市,北區,勝安里"
+            }
+        }
+    ]
+}

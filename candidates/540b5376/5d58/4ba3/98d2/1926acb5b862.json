@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5376-5d58-4ba3-98d2-1926acb5b862",
+            "election_id": "53c02512-aef8-4fc5-bb0f-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "358",
+            "name": "陳朝吉",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "CHEN CHAO CHI",
+            "birth_place": "新北市",
+            "birth": "1941-11-05",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:33:26",
+            "modified": "2015-02-08 23:41:09"
+        },
+        "Election": {
+            "id": "53c02512-aef8-4fc5-bb0f-5c5aacb5b862",
+            "population_electors": "2092",
+            "population": "2594",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-a158-44f8-9d6b-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01f58-bbf4-4a32-aa60-5460acb5b862",
+                    "name": "老梅里",
+                    "AreasElection": {
+                        "id": "53c02513-0870-473c-98da-5c5aacb5b862",
+                        "Election_id": "53c02512-aef8-4fc5-bb0f-5c5aacb5b862",
+                        "Area_id": "53c01f58-bbf4-4a32-aa60-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新北市",
+                "lft": "14261",
+                "rght": "16384",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02512-5dc0-4028-bfc6-5c5aacb5b862",
+                "parent_id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "name": "石門區",
+                "lft": "16200",
+                "rght": "16219",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02512-aef8-4fc5-bb0f-5c5aacb5b862",
+                "parent_id": "53c02512-5dc0-4028-bfc6-5c5aacb5b862",
+                "name": "老梅里",
+                "lft": "16203",
+                "rght": "16204",
+                "population": "2594",
+                "population_electors": "2092",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-a158-44f8-9d6b-1a32cf91e152",
+                "keywords": "2014-11,村里長,新北市,石門區,老梅里"
+            }
+        }
+    ]
+}

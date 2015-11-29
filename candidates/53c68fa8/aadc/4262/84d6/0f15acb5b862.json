@@ -1,0 +1,142 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c68fa8-aadc-4262-84d6-0f15acb5b862",
+            "election_id": "53c4009a-7528-42ca-9c8a-6cceacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "22165",
+            "name": "吳敏濟",
+            "image": "5448f944\/f718\/42b9\/b7e9\/13b58e043389.jpg",
+            "party": "民主進步黨",
+            "contacts_phone": "04-26887139",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "437台中市大甲區文武里五福街268號",
+            "links": "臉書 http:\/\/www.facebook.com\/people\/%E5%90%B3%E6%95%8F%E6%BF%9F\/100001470640477",
+            "gender": "m",
+            "no": "2",
+            "education_level": "碩士",
+            "is_present": true,
+            "name_english": "Wu Min Chi",
+            "birth_place": "臺中市",
+            "birth": "1956-07-06",
+            "platform": "",
+            "education": "臺灣大學碩士",
+            "experience": "耕德盃籃球賽創辦人 宜蘭技術學院講師 台灣農機研發中心研究員 獲頒青年獎章 青年研究著作獎 國家體育推手獎 立法院國會助理 臺中縣更生保護委員 大甲鎮民代表 體育會理事 跆拳道副主委 外丹功教練 後備軍人輔導中心主任 擔任文昌、順天、海墘、外埔等國小顧問 促成大甲鎮與法國碧西市締盟 外交部聘任菲律賓農機展講師 第一屆臺中市議員",
+            "created": "2014-07-16 22:43:52",
+            "modified": "2015-02-08 23:40:24"
+        },
+        "Election": {
+            "id": "53c4009a-7528-42ca-9c8a-6cceacb5b862",
+            "population_electors": "100697",
+            "population": "128980",
+            "quota": "3",
+            "quota_women": "0",
+            "bulletin_key": "546e068f-dfc8-45e2-bc4e-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01f8d-a5d0-48f6-a2e1-5460acb5b862",
+                    "name": "大甲區",
+                    "AreasElection": {
+                        "id": "53c406e6-8898-49ea-9257-6dacacb5b862",
+                        "Election_id": "53c4009a-7528-42ca-9c8a-6cceacb5b862",
+                        "Area_id": "53c01f8d-a5d0-48f6-a2e1-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01fa9-e588-4ce2-ac95-5460acb5b862",
+                    "name": "外埔區",
+                    "AreasElection": {
+                        "id": "53c406e6-e348-4d58-af31-6dacacb5b862",
+                        "Election_id": "53c4009a-7528-42ca-9c8a-6cceacb5b862",
+                        "Area_id": "53c01fa9-e588-4ce2-ac95-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01fab-e1e4-49b8-b80e-5460acb5b862",
+                    "name": "大安區",
+                    "AreasElection": {
+                        "id": "53c406e6-de54-4f7a-a745-6dacacb5b862",
+                        "Election_id": "53c4009a-7528-42ca-9c8a-6cceacb5b862",
+                        "Area_id": "53c01fab-e1e4-49b8-b80e-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54131434-4b14-4c38-9445-2c85cb455a61",
+                "name": "2014台灣獨立建國選舉連線",
+                "CandidatesTag": {
+                    "id": "54734f34-68e0-4a49-8f0f-2fe18e043389",
+                    "Candidate_id": "53c68fa8-aadc-4262-84d6-0f15acb5b862",
+                    "Tag_id": "54131434-4b14-4c38-9445-2c85cb455a61"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207e-b9a4-405f-abaf-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "臺中市",
+                "lft": "123",
+                "rght": "156",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c4009a-7528-42ca-9c8a-6cceacb5b862",
+                "parent_id": "53c0207e-b9a4-405f-abaf-5c5aacb5b862",
+                "name": "第01選區[區域]",
+                "lft": "124",
+                "rght": "125",
+                "population": "128980",
+                "population_electors": "100697",
+                "quota": "3",
+                "quota_women": "0",
+                "bulletin_key": "546e068f-dfc8-45e2-bc4e-1a32cf91e152",
+                "keywords": "2014-11,直轄市議員,臺中市,第01選區[區域]"
+            }
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b56cc-9c4c-4e50-9fbf-1926acb5b862",
+            "election_id": "53c41224-cd98-44f2-93ef-6f55acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "3588",
+            "name": "張淵翔",
+            "image": "5491504a\/cd38\/4213\/b346\/08866ab936af.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "臉書 http:\/\/www.facebook.com\/keelungplus\\n臉書 http:\/\/www.facebook.com\/seanchang2012",
+            "gender": "m",
+            "no": "3",
+            "education_level": "碩士",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1977-08-31",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:47:40",
+            "modified": "2015-02-08 23:41:56"
+        },
+        "Election": {
+            "id": "53c41224-cd98-44f2-93ef-6f55acb5b862",
+            "population_electors": "44295",
+            "population": "53184",
+            "quota": "4",
+            "quota_women": "1",
+            "bulletin_key": "5469b450-0fb4-43a7-ae2f-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01dcf-491c-4e35-9f12-5460acb5b862",
+                    "name": "中正區",
+                    "AreasElection": {
+                        "id": "53c41224-10bc-40f9-aa72-6f55acb5b862",
+                        "Election_id": "53c41224-cd98-44f2-93ef-6f55acb5b862",
+                        "Area_id": "53c01dcf-491c-4e35-9f12-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "縣市議員",
+                "lft": "306",
+                "rght": "607",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02085-8764-4425-9d61-5c5aacb5b862",
+                "parent_id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "name": "基隆市",
+                "lft": "569",
+                "rght": "586",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c41224-cd98-44f2-93ef-6f55acb5b862",
+                "parent_id": "53c02085-8764-4425-9d61-5c5aacb5b862",
+                "name": "第01選區[區域]",
+                "lft": "570",
+                "rght": "571",
+                "population": "53184",
+                "population_electors": "44295",
+                "quota": "4",
+                "quota_women": "1",
+                "bulletin_key": "5469b450-0fb4-43a7-ae2f-74a5cf91e152",
+                "keywords": "2014-11,縣市議員,基隆市,第01選區[區域]"
+            }
+        }
+    ]
+}

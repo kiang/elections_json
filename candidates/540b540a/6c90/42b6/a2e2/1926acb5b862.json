@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b540a-6c90-42b6-a2e2-1926acb5b862",
+            "election_id": "53c025b0-a874-41e3-bd47-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "732",
+            "name": "朱順正",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "專科",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺南市",
+            "birth": "1957-02-16",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:35:54",
+            "modified": "2015-02-08 23:41:25"
+        },
+        "Election": {
+            "id": "53c025b0-a874-41e3-bd47-5c5aacb5b862",
+            "population_electors": "1883",
+            "population": "2231",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "Area": [
+                {
+                    "id": "53c01fd2-2f1c-4920-b27e-5460acb5b862",
+                    "name": "聖賢里",
+                    "AreasElection": {
+                        "id": "53c025b0-8d78-4483-ab72-5c5aacb5b862",
+                        "Election_id": "53c025b0-a874-41e3-bd47-5c5aacb5b862",
+                        "Area_id": "53c01fd2-2f1c-4920-b27e-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02598-fc40-4dee-aec0-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺南市",
+                "lft": "17695",
+                "rght": "19274",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c025af-53b0-4bba-817f-5c5aacb5b862",
+                "parent_id": "53c02598-fc40-4dee-aec0-5c5aacb5b862",
+                "name": "東山區",
+                "lft": "17930",
+                "rght": "17963",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c025b0-a874-41e3-bd47-5c5aacb5b862",
+                "parent_id": "53c025af-53b0-4bba-817f-5c5aacb5b862",
+                "name": "聖賢里",
+                "lft": "17947",
+                "rght": "17948",
+                "population": "2231",
+                "population_electors": "1883",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2014-11,村里長,臺南市,東山區,聖賢里"
+            }
+        }
+    ]
+}

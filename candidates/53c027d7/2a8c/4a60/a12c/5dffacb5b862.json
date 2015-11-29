@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c027d7-2a8c-4a60-a12c-5dffacb5b862",
+            "election_id": "53c021a5-b0ec-4bde-8817-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "808",
+            "name": "蕭成金",
+            "image": "54130ae6\/512c\/4ac5\/9a4d\/799bcb455a61.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "HSIAO CHEN CHIN",
+            "birth_place": "臺灣省",
+            "birth": "1948-12-12",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:44:45"
+        },
+        "Election": {
+            "id": "53c021a5-b0ec-4bde-8817-5c5aacb5b862",
+            "population_electors": "1236",
+            "population": "1513",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-6964-4074-8d52-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01cb1-94fc-45b5-8531-5460acb5b862",
+                    "name": "張厝村",
+                    "AreasElection": {
+                        "id": "53c021a5-55a4-468f-8ee3-5c5aacb5b862",
+                        "Election_id": "53c021a5-b0ec-4bde-8817-5c5aacb5b862",
+                        "Area_id": "53c01cb1-94fc-45b5-8531-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "4417",
+                "rght": "5648",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021a2-2c08-4005-8259-5c5aacb5b862",
+                "parent_id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "name": "社頭鄉",
+                "lft": "5240",
+                "rght": "5289",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021a5-b0ec-4bde-8817-5c5aacb5b862",
+                "parent_id": "53c021a2-2c08-4005-8259-5c5aacb5b862",
+                "name": "張厝村",
+                "lft": "5277",
+                "rght": "5278",
+                "population": "1513",
+                "population_electors": "1236",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-6964-4074-8d52-74a5cf91e152",
+                "keywords": "2014-11,村里長,彰化縣,社頭鄉,張厝村"
+            }
+        }
+    ]
+}

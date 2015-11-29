@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b566d-adc0-4511-9efe-1926acb5b862",
+            "election_id": "53c02333-bdb8-4f56-b8ca-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "370",
+            "name": "鍾麗珍",
+            "image": null,
+            "party": "民主進步黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "2",
+            "education_level": "大學",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1955-03-02",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:46:05",
+            "modified": "2015-02-08 23:45:36"
+        },
+        "Election": {
+            "id": "53c02333-bdb8-4f56-b8ca-5c5aacb5b862",
+            "population_electors": "2026",
+            "population": "2611",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546b0806-0e18-4cf1-9f12-2ff0cf91e152",
+            "Area": [
+                {
+                    "id": "53c01e00-2bdc-4eb4-965b-5460acb5b862",
+                    "name": "新西里",
+                    "AreasElection": {
+                        "id": "53c02333-8234-4a2c-ae43-5c5aacb5b862",
+                        "Election_id": "53c02333-bdb8-4f56-b8ca-5c5aacb5b862",
+                        "Area_id": "53c01e00-2bdc-4eb4-965b-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0232b-91c8-456a-8388-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "嘉義市",
+                "lft": "10265",
+                "rght": "10438",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02331-37e4-49a2-a7ea-5c5aacb5b862",
+                "parent_id": "53c0232b-91c8-456a-8388-5c5aacb5b862",
+                "name": "西區",
+                "lft": "10346",
+                "rght": "10437",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02333-bdb8-4f56-b8ca-5c5aacb5b862",
+                "parent_id": "53c02331-37e4-49a2-a7ea-5c5aacb5b862",
+                "name": "新西里",
+                "lft": "10369",
+                "rght": "10370",
+                "population": "2611",
+                "population_electors": "2026",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546b0806-0e18-4cf1-9f12-2ff0cf91e152",
+                "keywords": "2014-11,村里長,嘉義市,西區,新西里"
+            }
+        }
+    ]
+}

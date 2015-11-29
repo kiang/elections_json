@@ -1,0 +1,151 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5681-7e48-40d5-ab6c-1926acb5b862",
+            "election_id": "53c40096-c3f0-47b9-8ef0-6cceacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "1792",
+            "name": "林明正",
+            "image": "543cf8d4\/28c0\/4f6a\/ad5a\/2ce2cb455a61.jpg",
+            "party": "新黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "3",
+            "education_level": "碩士",
+            "is_present": false,
+            "name_english": "Lin Ming Zheng",
+            "birth_place": "臺北市",
+            "birth": "1978-12-02",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:46:25",
+            "modified": "2015-02-08 23:40:24"
+        },
+        "Election": {
+            "id": "53c40096-c3f0-47b9-8ef0-6cceacb5b862",
+            "population_electors": "486520",
+            "population": "622872",
+            "quota": "10",
+            "quota_women": "2",
+            "bulletin_key": "5469b450-6478-4455-b302-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01f1f-8b4c-409e-8c42-5460acb5b862",
+                    "name": "樹林區",
+                    "AreasElection": {
+                        "id": "53c406e3-dcec-4064-8a51-6dacacb5b862",
+                        "Election_id": "53c40096-c3f0-47b9-8ef0-6cceacb5b862",
+                        "Area_id": "53c01f1f-8b4c-409e-8c42-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01f25-7bfc-41bc-8fd0-5460acb5b862",
+                    "name": "鶯歌區",
+                    "AreasElection": {
+                        "id": "53c406e3-ea90-473f-9f39-6dacacb5b862",
+                        "Election_id": "53c40096-c3f0-47b9-8ef0-6cceacb5b862",
+                        "Area_id": "53c01f25-7bfc-41bc-8fd0-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01f28-05e4-431f-af89-5460acb5b862",
+                    "name": "三峽區",
+                    "AreasElection": {
+                        "id": "53c406e3-4b4c-4063-9acb-6dacacb5b862",
+                        "Election_id": "53c40096-c3f0-47b9-8ef0-6cceacb5b862",
+                        "Area_id": "53c01f28-05e4-431f-af89-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01f3d-d298-479a-84e3-5460acb5b862",
+                    "name": "土城區",
+                    "AreasElection": {
+                        "id": "53c406e3-c268-4028-8480-6dacacb5b862",
+                        "Election_id": "53c40096-c3f0-47b9-8ef0-6cceacb5b862",
+                        "Area_id": "53c01f3d-d298-479a-84e3-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54130cd8-8114-4935-a95a-79a1cb455a61",
+                "name": "2014新黨",
+                "CandidatesTag": {
+                    "id": "54130d1f-ced4-4265-87c6-799ccb455a61",
+                    "Candidate_id": "540b5681-7e48-40d5-ab6c-1926acb5b862",
+                    "Tag_id": "54130cd8-8114-4935-a95a-79a1cb455a61"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207e-1efc-4871-a931-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "新北市",
+                "lft": "97",
+                "rght": "122",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c40096-c3f0-47b9-8ef0-6cceacb5b862",
+                "parent_id": "53c0207e-1efc-4871-a931-5c5aacb5b862",
+                "name": "第07選區[區域]",
+                "lft": "110",
+                "rght": "111",
+                "population": "622872",
+                "population_electors": "486520",
+                "quota": "10",
+                "quota_women": "2",
+                "bulletin_key": "5469b450-6478-4455-b302-74a5cf91e152",
+                "keywords": "2014-11,直轄市議員,新北市,第07選區[區域]"
+            }
+        }
+    ]
+}

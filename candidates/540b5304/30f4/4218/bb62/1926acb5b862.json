@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5304-30f4-4218-bb62-1926acb5b862",
+            "election_id": "53c023c0-4950-49ef-84c0-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "736",
+            "name": "蔡坤佑",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "大學",
+            "is_present": false,
+            "name_english": "TSAI KUN YU",
+            "birth_place": "臺北市",
+            "birth": "1980-05-06",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:31:32",
+            "modified": "2015-02-08 23:40:34"
+        },
+        "Election": {
+            "id": "53c023c0-4950-49ef-84c0-5c5aacb5b862",
+            "population_electors": "4058",
+            "population": "5284",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-cdc4-4cd6-bf91-4187cf91e152",
+            "Area": [
+                {
+                    "id": "53c01e33-78a0-4422-90ec-5460acb5b862",
+                    "name": "重陽里",
+                    "AreasElection": {
+                        "id": "53c023c0-8744-4bd5-8631-5c5aacb5b862",
+                        "Election_id": "53c023c0-4950-49ef-84c0-5c5aacb5b862",
+                        "Area_id": "53c01e33-78a0-4422-90ec-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023bb-9e20-4a96-90d6-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "南港區",
+                "lft": "12082",
+                "rght": "12123",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023c0-4950-49ef-84c0-5c5aacb5b862",
+                "parent_id": "53c023bb-9e20-4a96-90d6-5c5aacb5b862",
+                "name": "重陽里",
+                "lft": "12113",
+                "rght": "12114",
+                "population": "5284",
+                "population_electors": "4058",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-cdc4-4cd6-bf91-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,南港區,重陽里"
+            }
+        }
+    ]
+}

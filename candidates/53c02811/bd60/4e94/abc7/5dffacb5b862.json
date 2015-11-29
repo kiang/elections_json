@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02811-bd60-4e94-abc7-5dffacb5b862",
+            "election_id": "53c02210-6558-44cc-bdf9-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "756",
+            "name": "陳水順",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1953-03-26",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:45:03"
+        },
+        "Election": {
+            "id": "53c02210-6558-44cc-bdf9-5c5aacb5b862",
+            "population_electors": "1308",
+            "population": "1593",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546ebce2-5dfc-44d8-b48d-2b96cf91e152",
+            "Area": [
+                {
+                    "id": "53c01d05-d0fc-4c97-aae4-5460acb5b862",
+                    "name": "大庄村",
+                    "AreasElection": {
+                        "id": "53c02211-6980-45ba-9d6a-5c5aacb5b862",
+                        "Election_id": "53c02210-6558-44cc-bdf9-5c5aacb5b862",
+                        "Area_id": "53c01d05-d0fc-4c97-aae4-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "6201",
+                "rght": "7018",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0220e-9ab0-479c-9c12-5c5aacb5b862",
+                "parent_id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "name": "二崙鄉",
+                "lft": "6662",
+                "rght": "6699",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02210-6558-44cc-bdf9-5c5aacb5b862",
+                "parent_id": "53c0220e-9ab0-479c-9c12-5c5aacb5b862",
+                "name": "大庄村",
+                "lft": "6689",
+                "rght": "6690",
+                "population": "1593",
+                "population_electors": "1308",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546ebce2-5dfc-44d8-b48d-2b96cf91e152",
+                "keywords": "2014-11,村里長,雲林縣,二崙鄉,大庄村"
+            }
+        }
+    ]
+}

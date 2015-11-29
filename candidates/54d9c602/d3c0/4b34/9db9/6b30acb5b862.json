@@ -1,0 +1,93 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "54d9c602-d3c0-4b34-9db9-6b30acb5b862",
+            "election_id": "54d9c602-df48-4e3e-b157-6b30acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "9097",
+            "name": "林壽宏",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "6",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2015-02-10 16:49:06",
+            "modified": "2015-02-10 16:49:06"
+        },
+        "Election": {
+            "id": "54d9c602-df48-4e3e-b157-6b30acb5b862",
+            "population_electors": "0",
+            "population": "0",
+            "quota": "0",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "Area": [
+
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "54d9c600-c09c-43db-b7e9-6b30acb5b862",
+                "parent_id": null,
+                "name": "1997-11",
+                "lft": "29997",
+                "rght": "30046",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "54d9c600-1260-412f-8e56-6b30acb5b862",
+                "parent_id": "54d9c600-c09c-43db-b7e9-6b30acb5b862",
+                "name": "縣市長",
+                "lft": "29998",
+                "rght": "30045",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "54d9c602-df48-4e3e-b157-6b30acb5b862",
+                "parent_id": "54d9c600-1260-412f-8e56-6b30acb5b862",
+                "name": "臺南市",
+                "lft": "30039",
+                "rght": "30040",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "1997-11,縣市長,臺南市"
+            }
+        }
+    ]
+}

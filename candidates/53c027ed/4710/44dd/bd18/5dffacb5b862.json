@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c027ed-4710-44dd-bd18-5dffacb5b862",
+            "election_id": "53c021cf-3e40-44ad-a54f-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "1039",
+            "name": "蕭世杰",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "專科",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1978-03-09",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:44:50"
+        },
+        "Election": {
+            "id": "53c021cf-3e40-44ad-a54f-5c5aacb5b862",
+            "population_electors": "2927",
+            "population": "3583",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "Area": [
+                {
+                    "id": "53c01cd0-def8-4bbe-85cd-5460acb5b862",
+                    "name": "上林里",
+                    "AreasElection": {
+                        "id": "53c021cf-6fd8-4014-a889-5c5aacb5b862",
+                        "Election_id": "53c021cf-3e40-44ad-a54f-5c5aacb5b862",
+                        "Area_id": "53c01cd0-def8-4bbe-85cd-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "南投縣",
+                "lft": "5649",
+                "rght": "6200",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021cd-cfbc-47ba-93e0-5c5aacb5b862",
+                "parent_id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "name": "草屯鎮",
+                "lft": "5788",
+                "rght": "5843",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021cf-3e40-44ad-a54f-5c5aacb5b862",
+                "parent_id": "53c021cd-cfbc-47ba-93e0-5c5aacb5b862",
+                "name": "上林里",
+                "lft": "5813",
+                "rght": "5814",
+                "population": "3583",
+                "population_electors": "2927",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2014-11,村里長,南投縣,草屯鎮,上林里"
+            }
+        }
+    ]
+}

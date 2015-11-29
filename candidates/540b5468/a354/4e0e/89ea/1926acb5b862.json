@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5468-a354-4e0e-89ea-1926acb5b862",
+            "election_id": "53c023fa-0d70-49be-b826-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "107",
+            "name": "周明震",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "4",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "其他省市",
+            "birth": "1944-11-10",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:37:28",
+            "modified": "2015-02-08 23:40:41"
+        },
+        "Election": {
+            "id": "53c023fa-0d70-49be-b826-5c5aacb5b862",
+            "population_electors": "2417",
+            "population": "3108",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb720-d994-4122-b0b3-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01e6c-0c00-48db-8369-5460acb5b862",
+                    "name": "文昌里",
+                    "AreasElection": {
+                        "id": "53c023fa-d86c-4954-9d21-5c5aacb5b862",
+                        "Election_id": "53c023fa-0d70-49be-b826-5c5aacb5b862",
+                        "Area_id": "53c01e6c-0c00-48db-8369-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023f9-e5f4-4a32-9d59-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "新興區",
+                "lft": "12850",
+                "rght": "12915",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023fa-0d70-49be-b826-5c5aacb5b862",
+                "parent_id": "53c023f9-e5f4-4a32-9d59-5c5aacb5b862",
+                "name": "文昌里",
+                "lft": "12863",
+                "rght": "12864",
+                "population": "3108",
+                "population_electors": "2417",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb720-d994-4122-b0b3-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,新興區,文昌里"
+            }
+        }
+    ]
+}

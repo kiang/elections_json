@@ -1,0 +1,108 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "54d9c677-1ad4-4f0c-a254-6b30acb5b862",
+            "election_id": "54d9c677-5ffc-4421-ab92-6b30acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "1668",
+            "name": "林健壽",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2015-02-10 16:51:03",
+            "modified": "2015-02-10 16:51:03"
+        },
+        "Election": {
+            "id": "54d9c677-5ffc-4421-ab92-6b30acb5b862",
+            "population_electors": "0",
+            "population": "0",
+            "quota": "0",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "Area": [
+
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "54d9c662-bebc-47d7-9545-6b30acb5b862",
+                "parent_id": null,
+                "name": "1998-01",
+                "lft": "31125",
+                "rght": "32200",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "54d9c662-96a8-4813-9e4f-6b30acb5b862",
+                "parent_id": "54d9c662-bebc-47d7-9545-6b30acb5b862",
+                "name": "縣市議員",
+                "lft": "31126",
+                "rght": "31559",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "550bce7f-0c74-4565-8733-379bacb5b862",
+                "parent_id": "54d9c662-96a8-4813-9e4f-6b30acb5b862",
+                "name": "屏東縣",
+                "lft": "31385",
+                "rght": "31418",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "54d9c677-5ffc-4421-ab92-6b30acb5b862",
+                "parent_id": "550bce7f-0c74-4565-8733-379bacb5b862",
+                "name": "第1選區[區域]",
+                "lft": "31386",
+                "rght": "31387",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "1998-01,縣市議員,屏東縣第1選區[區域]"
+            }
+        }
+    ]
+}

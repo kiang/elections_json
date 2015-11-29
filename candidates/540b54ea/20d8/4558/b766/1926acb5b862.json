@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b54ea-20d8-4558-b766-1926acb5b862",
+            "election_id": "53c0215b-d058-4b60-85da-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "278",
+            "name": "徐國朕",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "大學",
+            "is_present": false,
+            "name_english": "HSU KUO CHENG",
+            "birth_place": "臺灣省",
+            "birth": "1975-01-13",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:39:38",
+            "modified": "2015-02-08 23:44:37"
+        },
+        "Election": {
+            "id": "53c0215b-d058-4b60-85da-5c5aacb5b862",
+            "population_electors": "1823",
+            "population": "2282",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-f4a0-46d2-85d7-4187cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c71-745c-4924-9fda-5460acb5b862",
+                    "name": "雙湖村",
+                    "AreasElection": {
+                        "id": "53c0215b-e4f8-4144-871e-5c5aacb5b862",
+                        "Election_id": "53c0215b-d058-4b60-85da-5c5aacb5b862",
+                        "Area_id": "53c01c71-745c-4924-9fda-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02135-5cc8-4f9d-a971-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "苗栗縣",
+                "lft": "3831",
+                "rght": "4416",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0215a-f990-41b6-88d5-5c5aacb5b862",
+                "parent_id": "53c02135-5cc8-4f9d-a971-5c5aacb5b862",
+                "name": "三義鄉",
+                "lft": "4308",
+                "rght": "4323",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0215b-d058-4b60-85da-5c5aacb5b862",
+                "parent_id": "53c0215a-f990-41b6-88d5-5c5aacb5b862",
+                "name": "雙湖村",
+                "lft": "4311",
+                "rght": "4312",
+                "population": "2282",
+                "population_electors": "1823",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-f4a0-46d2-85d7-4187cf91e152",
+                "keywords": "2014-11,村里長,苗栗縣,三義鄉,雙湖村"
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c026fe-a3c4-488c-8cfd-5dffacb5b862",
+            "election_id": "53c02559-ff10-40e3-99ad-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "2270",
+            "name": "葉淑惠",
+            "image": null,
+            "party": "民主進步黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "2",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "YEH SHU HUI",
+            "birth_place": "臺中市",
+            "birth": "1960-08-15",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:41:16"
+        },
+        "Election": {
+            "id": "53c02559-ff10-40e3-99ad-5c5aacb5b862",
+            "population_electors": "4975",
+            "population": "6703",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c6157-2f5c-42c8-80a2-573fcf91e152",
+            "Area": [
+                {
+                    "id": "53c01f8f-19a8-4221-bee5-5460acb5b862",
+                    "name": "文武里",
+                    "AreasElection": {
+                        "id": "53c02559-2258-43f0-b6d9-5c5aacb5b862",
+                        "Election_id": "53c02559-ff10-40e3-99ad-5c5aacb5b862",
+                        "Area_id": "53c01f8f-19a8-4221-bee5-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02557-f2ec-4bd9-8f8c-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "大甲區",
+                "lft": "16956",
+                "rght": "17015",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02559-ff10-40e3-99ad-5c5aacb5b862",
+                "parent_id": "53c02557-f2ec-4bd9-8f8c-5c5aacb5b862",
+                "name": "文武里",
+                "lft": "16977",
+                "rght": "16978",
+                "population": "6703",
+                "population_electors": "4975",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c6157-2f5c-42c8-80a2-573fcf91e152",
+                "keywords": "2014-11,村里長,臺中市,大甲區,文武里"
+            }
+        }
+    ]
+}

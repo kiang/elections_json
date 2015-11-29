@@ -1,0 +1,142 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c68fa8-c550-4213-af5d-0f15acb5b862",
+            "election_id": "53c40098-c6b0-4352-93eb-6cceacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "26532",
+            "name": "沈發惠",
+            "image": "543d0f53\/ea38\/4b63\/8520\/37bacb455a61.jpg",
+            "party": "民主進步黨",
+            "contacts_phone": "02-2648-1647",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "221新北市汐止區新昌路55號",
+            "links": "臉書 http:\/\/www.facebook.com\/fahui.shen\\n臉書 http:\/\/www.facebook.com\/shenfahui",
+            "gender": "m",
+            "no": "6",
+            "education_level": "碩士",
+            "is_present": true,
+            "name_english": "Shen Fa Hui",
+            "birth_place": "臺北市",
+            "birth": "1966-11-02",
+            "platform": "",
+            "education": "東海大學法律系",
+            "experience": "1990野百合學運決策小組成員  1998~2005台北縣第14、15屆議員  2001民主進步黨台北縣議會黨團總召集人  2005第六屆立法委員  2007民主進步黨政策會首席副執行長  2008民主進步黨社會發展部主任  第1屆新北市議員",
+            "created": "2014-07-16 22:43:52",
+            "modified": "2015-02-08 23:40:24"
+        },
+        "Election": {
+            "id": "53c40098-c6b0-4352-93eb-6cceacb5b862",
+            "population_electors": "196924",
+            "population": "239885",
+            "quota": "4",
+            "quota_women": "1",
+            "bulletin_key": "5469b450-7fd0-479d-a3ad-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01f32-14f4-48c8-a923-5460acb5b862",
+                    "name": "汐止區",
+                    "AreasElection": {
+                        "id": "53c406e3-2e68-4d64-9364-6dacacb5b862",
+                        "Election_id": "53c40098-c6b0-4352-93eb-6cceacb5b862",
+                        "Area_id": "53c01f32-14f4-48c8-a923-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01f60-8928-49ed-bb84-5460acb5b862",
+                    "name": "金山區",
+                    "AreasElection": {
+                        "id": "53c406e3-8ab8-4a18-b2df-6dacacb5b862",
+                        "Election_id": "53c40098-c6b0-4352-93eb-6cceacb5b862",
+                        "Area_id": "53c01f60-8928-49ed-bb84-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01f62-7bd0-4571-ba29-5460acb5b862",
+                    "name": "萬里區",
+                    "AreasElection": {
+                        "id": "53c406e3-2bec-4f67-8969-6dacacb5b862",
+                        "Election_id": "53c40098-c6b0-4352-93eb-6cceacb5b862",
+                        "Area_id": "53c01f62-7bd0-4571-ba29-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54df7334-51d0-4472-ad36-6c676ab936af",
+                "name": "2014當選隨即目標轉向立委",
+                "CandidatesTag": {
+                    "id": "558b02bc-3d00-41fb-aef6-6da26ab936af",
+                    "Candidate_id": "53c68fa8-c550-4213-af5d-0f15acb5b862",
+                    "Tag_id": "54df7334-51d0-4472-ad36-6c676ab936af"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207e-1efc-4871-a931-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "新北市",
+                "lft": "97",
+                "rght": "122",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c40098-c6b0-4352-93eb-6cceacb5b862",
+                "parent_id": "53c0207e-1efc-4871-a931-5c5aacb5b862",
+                "name": "第10選區[區域]",
+                "lft": "116",
+                "rght": "117",
+                "population": "239885",
+                "population_electors": "196924",
+                "quota": "4",
+                "quota_women": "1",
+                "bulletin_key": "5469b450-7fd0-479d-a3ad-74a5cf91e152",
+                "keywords": "2014-11,直轄市議員,新北市,第10選區[區域]"
+            }
+        }
+    ]
+}

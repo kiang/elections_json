@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02895-8a2c-400e-90e4-5dffacb5b862",
+            "election_id": "53c02326-4a90-49c6-9587-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "581",
+            "name": "謝金財",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "專科",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1970-02-02",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:45:35"
+        },
+        "Election": {
+            "id": "53c02326-4a90-49c6-9587-5c5aacb5b862",
+            "population_electors": "1471",
+            "population": "1767",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546b0806-c168-4a5e-bc0b-2ff0cf91e152",
+            "Area": [
+                {
+                    "id": "53c01df5-7d8c-43a8-8cbe-5460acb5b862",
+                    "name": "台溪里",
+                    "AreasElection": {
+                        "id": "53c02326-d1b8-41d2-9620-5c5aacb5b862",
+                        "Election_id": "53c02326-4a90-49c6-9587-5c5aacb5b862",
+                        "Area_id": "53c01df5-7d8c-43a8-8cbe-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02315-1360-4e37-94d3-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新竹市",
+                "lft": "10013",
+                "rght": "10264",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02320-8d20-42f9-9a00-5c5aacb5b862",
+                "parent_id": "53c02315-1360-4e37-94d3-5c5aacb5b862",
+                "name": "北區",
+                "lft": "10122",
+                "rght": "10213",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02326-4a90-49c6-9587-5c5aacb5b862",
+                "parent_id": "53c02320-8d20-42f9-9a00-5c5aacb5b862",
+                "name": "台溪里",
+                "lft": "10207",
+                "rght": "10208",
+                "population": "1767",
+                "population_electors": "1471",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546b0806-c168-4a5e-bc0b-2ff0cf91e152",
+                "keywords": "2014-11,村里長,新竹市,北區,台溪里"
+            }
+        }
+    ]
+}

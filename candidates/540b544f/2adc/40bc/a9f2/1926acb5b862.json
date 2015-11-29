@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b544f-2adc-40bc-a9f2-1926acb5b862",
+            "election_id": "53c023da-4d58-4cf2-a6ac-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "358",
+            "name": "王順財",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "WANG SHUN TSAI",
+            "birth_place": "高雄市",
+            "birth": "1949-05-08",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:37:03",
+            "modified": "2015-02-08 23:40:37"
+        },
+        "Election": {
+            "id": "53c023da-4d58-4cf2-a6ac-5c5aacb5b862",
+            "population_electors": "1159",
+            "population": "1364",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb720-2898-4e30-b975-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01e50-53b4-4184-b719-5460acb5b862",
+                    "name": "內惟里",
+                    "AreasElection": {
+                        "id": "53c023da-a40c-49ee-91d2-5c5aacb5b862",
+                        "Election_id": "53c023da-4d58-4cf2-a6ac-5c5aacb5b862",
+                        "Area_id": "53c01e50-53b4-4184-b719-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d9-deb4-411d-9232-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "鼓山區",
+                "lft": "12440",
+                "rght": "12517",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023da-4d58-4cf2-a6ac-5c5aacb5b862",
+                "parent_id": "53c023d9-deb4-411d-9232-5c5aacb5b862",
+                "name": "內惟里",
+                "lft": "12447",
+                "rght": "12448",
+                "population": "1364",
+                "population_electors": "1159",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb720-2898-4e30-b975-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,鼓山區,內惟里"
+            }
+        }
+    ]
+}

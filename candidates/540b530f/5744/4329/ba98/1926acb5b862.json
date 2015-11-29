@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b530f-5744-4329-ba98-1926acb5b862",
+            "election_id": "53c023d2-1570-4cb9-97ca-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "965",
+            "name": "蘇府庭",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "SU FU TING",
+            "birth_place": "臺北市",
+            "birth": "1958-12-02",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:31:43",
+            "modified": "2015-02-08 23:40:36"
+        },
+        "Election": {
+            "id": "53c023d2-1570-4cb9-97ca-5c5aacb5b862",
+            "population_electors": "1804",
+            "population": "2238",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-c00c-4b17-8b7d-4187cf91e152",
+            "Area": [
+                {
+                    "id": "53c01e44-5650-40c6-912b-5460acb5b862",
+                    "name": "洲美里",
+                    "AreasElection": {
+                        "id": "53c023d2-bb54-46f8-85a3-5c5aacb5b862",
+                        "Election_id": "53c023d2-1570-4cb9-97ca-5c5aacb5b862",
+                        "Area_id": "53c01e44-5650-40c6-912b-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023cf-48cc-46fc-8762-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "北投區",
+                "lft": "12308",
+                "rght": "12393",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d2-1570-4cb9-97ca-5c5aacb5b862",
+                "parent_id": "53c023cf-48cc-46fc-8762-5c5aacb5b862",
+                "name": "洲美里",
+                "lft": "12343",
+                "rght": "12344",
+                "population": "2238",
+                "population_electors": "1804",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-c00c-4b17-8b7d-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,北投區,洲美里"
+            }
+        }
+    ]
+}

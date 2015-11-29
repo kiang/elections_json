@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5396-b8e8-4e26-ad36-1926acb5b862",
+            "election_id": "53c0235a-86cc-46e0-9c37-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "917",
+            "name": "鄧敦仁",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "大學",
+            "is_present": false,
+            "name_english": "TENG TUN JEN",
+            "birth_place": "臺灣省",
+            "birth": "1963-02-12",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:33:58",
+            "modified": "2015-02-08 23:41:43"
+        },
+        "Election": {
+            "id": "53c0235a-86cc-46e0-9c37-5c5aacb5b862",
+            "population_electors": "2362",
+            "population": "3039",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-9754-4500-b8e8-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c13-ff30-475b-b308-5460acb5b862",
+                    "name": "三湖里",
+                    "AreasElection": {
+                        "id": "53c0235a-18e4-4faf-beac-5c5aacb5b862",
+                        "Election_id": "53c0235a-86cc-46e0-9c37-5c5aacb5b862",
+                        "Area_id": "53c01c13-ff30-475b-b308-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "桃園市",
+                "lft": "10439",
+                "rght": "11456",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02356-ffa8-4707-8ead-5c5aacb5b862",
+                "parent_id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "name": "楊梅區",
+                "lft": "10822",
+                "rght": "10905",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0235a-86cc-46e0-9c37-5c5aacb5b862",
+                "parent_id": "53c02356-ffa8-4707-8ead-5c5aacb5b862",
+                "name": "三湖里",
+                "lft": "10875",
+                "rght": "10876",
+                "population": "3039",
+                "population_electors": "2362",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-9754-4500-b8e8-1a32cf91e152",
+                "keywords": "2014-11,村里長,桃園市,楊梅區,三湖里"
+            }
+        }
+    ]
+}

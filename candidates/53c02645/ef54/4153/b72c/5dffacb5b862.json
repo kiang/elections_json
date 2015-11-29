@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02645-ef54-4153-b72c-5dffacb5b862",
+            "election_id": "53c023ba-19fc-48c7-a303-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1737",
+            "name": "張佳南",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "Chang chia nan",
+            "birth_place": "臺北市",
+            "birth": "1970-03-18",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:40:34"
+        },
+        "Election": {
+            "id": "53c023ba-19fc-48c7-a303-5c5aacb5b862",
+            "population_electors": "3071",
+            "population": "3812",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-ad98-420b-8582-4187cf91e152",
+            "Area": [
+                {
+                    "id": "53c01e2f-be2c-4006-9880-5460acb5b862",
+                    "name": "指南里",
+                    "AreasElection": {
+                        "id": "53c023ba-8d38-4205-addb-5c5aacb5b862",
+                        "Election_id": "53c023ba-19fc-48c7-a303-5c5aacb5b862",
+                        "Area_id": "53c01e2f-be2c-4006-9880-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023b4-de88-4969-afaa-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "文山區",
+                "lft": "11994",
+                "rght": "12081",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023ba-19fc-48c7-a303-5c5aacb5b862",
+                "parent_id": "53c023b4-de88-4969-afaa-5c5aacb5b862",
+                "name": "指南里",
+                "lft": "12061",
+                "rght": "12062",
+                "population": "3812",
+                "population_electors": "3071",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-ad98-420b-8582-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,文山區,指南里"
+            }
+        }
+    ]
+}

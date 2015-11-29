@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02814-f6d8-401c-b92f-5dffacb5b862",
+            "election_id": "53c02217-7874-4546-a4e8-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "632",
+            "name": "陳烱鋅",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "CHEN CHUNG HSIN",
+            "birth_place": "臺灣省",
+            "birth": "1955-08-06",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:45:04"
+        },
+        "Election": {
+            "id": "53c02217-7874-4546-a4e8-5c5aacb5b862",
+            "population_electors": "885",
+            "population": "1054",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546ec076-efdc-40e4-b70a-2d4fcf91e152",
+            "Area": [
+                {
+                    "id": "53c01d0b-30d8-4b5a-961d-5460acb5b862",
+                    "name": "昌南村",
+                    "AreasElection": {
+                        "id": "53c02217-9c20-41ef-89e8-5c5aacb5b862",
+                        "Election_id": "53c02217-7874-4546-a4e8-5c5aacb5b862",
+                        "Area_id": "53c01d0b-30d8-4b5a-961d-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "6201",
+                "rght": "7018",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02215-3c0c-4aac-9698-5c5aacb5b862",
+                "parent_id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "name": "東勢鄉",
+                "lft": "6758",
+                "rght": "6783",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02217-7874-4546-a4e8-5c5aacb5b862",
+                "parent_id": "53c02215-3c0c-4aac-9698-5c5aacb5b862",
+                "name": "昌南村",
+                "lft": "6773",
+                "rght": "6774",
+                "population": "1054",
+                "population_electors": "885",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546ec076-efdc-40e4-b70a-2d4fcf91e152",
+                "keywords": "2014-11,村里長,雲林縣,東勢鄉,昌南村"
+            }
+        }
+    ]
+}

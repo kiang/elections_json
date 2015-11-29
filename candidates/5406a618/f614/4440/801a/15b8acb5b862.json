@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "5406a618-f614-4440-801a-15b8acb5b862",
+            "election_id": "53c020ac-6f90-41a6-8737-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "0",
+            "vote_count": "0",
+            "name": "蘇崑雄",
+            "image": "5492d3df\/ee30\/431f\/9695\/6c4a6ab936af.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "0",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "澎湖技術學院畢業",
+            "experience": "澎湖縣議會第12、13、14、15屆議員 澎湖縣議會第14屆議長 澎湖縣觀光協會理事長 澎湖縣中國童子軍會理事長 救國團澎湖縣團委會指導委員",
+            "created": "2014-09-03 13:24:40",
+            "modified": "2014-12-18 23:26:12"
+        },
+        "Election": {
+            "id": "53c020ac-6f90-41a6-8737-5c5aacb5b862",
+            "population_electors": "48185",
+            "population": "60095",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068f-5b0c-431e-8f33-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01dc1-9d64-4bdb-abc6-5460acb5b862",
+                    "name": "馬公市",
+                    "AreasElection": {
+                        "id": "53c020ac-b38c-4a81-ba5b-5c5aacb5b862",
+                        "Election_id": "53c020ac-6f90-41a6-8737-5c5aacb5b862",
+                        "Area_id": "53c01dc1-9d64-4bdb-abc6-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市長",
+                "lft": "608",
+                "rght": "1031",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ab-ea3c-4517-b96b-5c5aacb5b862",
+                "parent_id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "name": "澎湖縣",
+                "lft": "1017",
+                "rght": "1030",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ac-6f90-41a6-8737-5c5aacb5b862",
+                "parent_id": "53c020ab-ea3c-4517-b96b-5c5aacb5b862",
+                "name": "馬公市",
+                "lft": "1018",
+                "rght": "1019",
+                "population": "60095",
+                "population_electors": "48185",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068f-5b0c-431e-8f33-1a32cf91e152",
+                "keywords": "2014-11,鄉鎮市長,澎湖縣,馬公市"
+            }
+        }
+    ]
+}

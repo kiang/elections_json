@@ -1,0 +1,139 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b553e-8a54-4353-8d76-1926acb5b862",
+            "election_id": "53c021d2-17e4-4078-affc-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "574",
+            "name": "王立中",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "大學",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺北市",
+            "birth": "1987-10-20",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:41:02",
+            "modified": "2015-02-08 23:44:50"
+        },
+        "Election": {
+            "id": "53c021d2-17e4-4078-affc-5c5aacb5b862",
+            "population_electors": "3567",
+            "population": "4495",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "Area": [
+                {
+                    "id": "53c01cd3-5ae8-49fe-97bd-5460acb5b862",
+                    "name": "桂林里",
+                    "AreasElection": {
+                        "id": "53c021d2-8204-4105-8e7f-5c5aacb5b862",
+                        "Election_id": "53c021d2-17e4-4078-affc-5c5aacb5b862",
+                        "Area_id": "53c01cd3-5ae8-49fe-97bd-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "5412ff6f-db88-40fb-a1bb-7204cb455a61",
+                "name": "2014民進黨「民主小草」",
+                "CandidatesTag": {
+                    "id": "54130080-a47c-4ae1-b966-7205cb455a61",
+                    "Candidate_id": "540b553e-8a54-4353-8d76-1926acb5b862",
+                    "Tag_id": "5412ff6f-db88-40fb-a1bb-7204cb455a61"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "南投縣",
+                "lft": "5649",
+                "rght": "6200",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021d1-cd98-4442-9ddf-5c5aacb5b862",
+                "parent_id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "name": "竹山鎮",
+                "lft": "5844",
+                "rght": "5901",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021d2-17e4-4078-affc-5c5aacb5b862",
+                "parent_id": "53c021d1-cd98-4442-9ddf-5c5aacb5b862",
+                "name": "桂林里",
+                "lft": "5859",
+                "rght": "5860",
+                "population": "4495",
+                "population_electors": "3567",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2014-11,村里長,南投縣,竹山鎮,桂林里"
+            }
+        }
+    ]
+}

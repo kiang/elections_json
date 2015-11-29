@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5687-80c4-47c9-9a8e-1926acb5b862",
+            "election_id": "53c4037b-f258-429c-b4e4-6d45acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "16783",
+            "name": "游吾和",
+            "image": "54410eb7\/ee20\/453f\/97af\/3cca8e043389.jpg",
+            "party": "民主進步黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "臉書 http:\/\/www.facebook.com\/people\/%E6%B8%B8%E5%90%BE%E5%92%8C\/100003779028390",
+            "gender": "m",
+            "no": "2",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1963-11-28",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:46:31",
+            "modified": "2015-02-08 23:40:27"
+        },
+        "Election": {
+            "id": "53c4037b-f258-429c-b4e4-6d45acb5b862",
+            "population_electors": "64537",
+            "population": "84191",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-0418-43bd-a942-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c1a-58c0-48a4-81f8-5460acb5b862",
+                    "name": "大園區",
+                    "AreasElection": {
+                        "id": "53c40822-09d0-4d02-9038-6e01acb5b862",
+                        "Election_id": "53c4037b-f258-429c-b4e4-6d45acb5b862",
+                        "Area_id": "53c01c1a-58c0-48a4-81f8-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207d-ff5c-4dfe-98b5-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "桃園市",
+                "lft": "17",
+                "rght": "46",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c4037b-f258-429c-b4e4-6d45acb5b862",
+                "parent_id": "53c0207d-ff5c-4dfe-98b5-5c5aacb5b862",
+                "name": "第05選區[區域]",
+                "lft": "26",
+                "rght": "27",
+                "population": "84191",
+                "population_electors": "64537",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-0418-43bd-a942-1a32cf91e152",
+                "keywords": "2014-11,直轄市議員,桃園市,第05選區[區域]"
+            }
+        }
+    ]
+}

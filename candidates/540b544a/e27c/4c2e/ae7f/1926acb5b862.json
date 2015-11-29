@@ -1,0 +1,139 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b544a-e27c-4c2e-ae7f-1926acb5b862",
+            "election_id": "53c0261f-d0e8-47c2-8f74-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "110",
+            "name": "陳建成",
+            "image": null,
+            "party": "民主進步黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺南市",
+            "birth": "1987-09-23",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:36:58",
+            "modified": "2015-02-08 23:41:38"
+        },
+        "Election": {
+            "id": "53c0261f-d0e8-47c2-8f74-5c5aacb5b862",
+            "population_electors": "972",
+            "population": "1157",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "Area": [
+                {
+                    "id": "53c0202a-ca6c-466e-ba78-5460acb5b862",
+                    "name": "福安里",
+                    "AreasElection": {
+                        "id": "53c0261f-0478-48f3-9e0a-5c5aacb5b862",
+                        "Election_id": "53c0261f-d0e8-47c2-8f74-5c5aacb5b862",
+                        "Area_id": "53c0202a-ca6c-466e-ba78-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "5412ff6f-db88-40fb-a1bb-7204cb455a61",
+                "name": "2014民進黨「民主小草」",
+                "CandidatesTag": {
+                    "id": "541300b8-54d0-4143-bbdc-799ccb455a61",
+                    "Candidate_id": "540b544a-e27c-4c2e-ae7f-1926acb5b862",
+                    "Tag_id": "5412ff6f-db88-40fb-a1bb-7204cb455a61"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02598-fc40-4dee-aec0-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺南市",
+                "lft": "17695",
+                "rght": "19274",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0261d-22d8-429b-b0f1-5c5aacb5b862",
+                "parent_id": "53c02598-fc40-4dee-aec0-5c5aacb5b862",
+                "name": "中西區",
+                "lft": "19196",
+                "rght": "19273",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0261f-d0e8-47c2-8f74-5c5aacb5b862",
+                "parent_id": "53c0261d-22d8-429b-b0f1-5c5aacb5b862",
+                "name": "福安里",
+                "lft": "19217",
+                "rght": "19218",
+                "population": "1157",
+                "population_electors": "972",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2014-11,村里長,臺南市,中西區,福安里"
+            }
+        }
+    ]
+}

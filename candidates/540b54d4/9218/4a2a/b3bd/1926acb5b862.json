@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b54d4-9218-4a2a-b3bd-1926acb5b862",
+            "election_id": "53c0213c-02e4-4457-9fb7-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "556",
+            "name": "陳榮勝",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "專科",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1958-07-02",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:39:16",
+            "modified": "2015-02-08 23:44:33"
+        },
+        "Election": {
+            "id": "53c0213c-02e4-4457-9fb7-5c5aacb5b862",
+            "population_electors": "1809",
+            "population": "2297",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546d8dba-ef20-4bb0-97bd-0e51cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c58-a594-44ed-b6f4-5460acb5b862",
+                    "name": "舊社里",
+                    "AreasElection": {
+                        "id": "53c0213c-e2bc-4244-96e4-5c5aacb5b862",
+                        "Election_id": "53c0213c-02e4-4457-9fb7-5c5aacb5b862",
+                        "Area_id": "53c01c58-a594-44ed-b6f4-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02135-5cc8-4f9d-a971-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "苗栗縣",
+                "lft": "3831",
+                "rght": "4416",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0213a-9d50-4c09-9c8d-5c5aacb5b862",
+                "parent_id": "53c02135-5cc8-4f9d-a971-5c5aacb5b862",
+                "name": "苑裡鎮",
+                "lft": "3890",
+                "rght": "3941",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0213c-02e4-4457-9fb7-5c5aacb5b862",
+                "parent_id": "53c0213a-9d50-4c09-9c8d-5c5aacb5b862",
+                "name": "舊社里",
+                "lft": "3913",
+                "rght": "3914",
+                "population": "2297",
+                "population_electors": "1809",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546d8dba-ef20-4bb0-97bd-0e51cf91e152",
+                "keywords": "2014-11,村里長,苗栗縣,苑裡鎮,舊社里"
+            }
+        }
+    ]
+}

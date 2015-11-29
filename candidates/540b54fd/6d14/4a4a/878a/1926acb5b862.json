@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b54fd-6d14-4a4a-878a-1926acb5b862",
+            "election_id": "53c02174-7c4c-49b5-86ca-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "423",
+            "name": "張敬堂",
+            "image": "545ce3e7\/ce24\/435c\/889f\/7ae88e043389.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "2",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "CHANG CHIN TANG",
+            "birth_place": "臺灣省",
+            "birth": "1959-11-14",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:39:57",
+            "modified": "2015-02-08 23:44:40"
+        },
+        "Election": {
+            "id": "53c02174-7c4c-49b5-86ca-5c5aacb5b862",
+            "population_electors": "1320",
+            "population": "1665",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-23d8-402c-96e8-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c88-e504-4808-b98b-5460acb5b862",
+                    "name": "雅溝里",
+                    "AreasElection": {
+                        "id": "53c02174-2aec-4a99-8021-5c5aacb5b862",
+                        "Election_id": "53c02174-7c4c-49b5-86ca-5c5aacb5b862",
+                        "Area_id": "53c01c88-e504-4808-b98b-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "4417",
+                "rght": "5648",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02172-2a38-4d0d-91b6-5c5aacb5b862",
+                "parent_id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "name": "和美鎮",
+                "lft": "4626",
+                "rght": "4691",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02174-7c4c-49b5-86ca-5c5aacb5b862",
+                "parent_id": "53c02172-2a38-4d0d-91b6-5c5aacb5b862",
+                "name": "雅溝里",
+                "lft": "4661",
+                "rght": "4662",
+                "population": "1665",
+                "population_electors": "1320",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-23d8-402c-96e8-74a5cf91e152",
+                "keywords": "2014-11,村里長,彰化縣,和美鎮,雅溝里"
+            }
+        }
+    ]
+}

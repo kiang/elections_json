@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c68f91-9184-4c1b-aa04-0f15acb5b862",
+            "election_id": "53c41228-0180-43de-aa84-6f55acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "3051",
+            "name": "莊榮欽",
+            "image": "5491786c\/bf54\/43ba\/a245\/11246ab936af.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "02-24266135",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "201基隆市信義區仁壽里壽山路5號",
+            "links": "",
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1957-02-02",
+            "platform": "",
+            "education": "高職",
+            "experience": "第13至16屆議員.  仁愛區青工會會長.",
+            "created": "2014-07-16 22:43:29",
+            "modified": "2015-02-08 23:41:56"
+        },
+        "Election": {
+            "id": "53c41228-0180-43de-aa84-6f55acb5b862",
+            "population_electors": "37073",
+            "population": "46474",
+            "quota": "4",
+            "quota_women": "1",
+            "bulletin_key": "5469b450-2274-4690-8cd6-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01dd7-42cc-440b-bce3-5460acb5b862",
+                    "name": "仁愛區",
+                    "AreasElection": {
+                        "id": "53c41228-cb40-4650-8702-6f55acb5b862",
+                        "Election_id": "53c41228-0180-43de-aa84-6f55acb5b862",
+                        "Area_id": "53c01dd7-42cc-440b-bce3-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "縣市議員",
+                "lft": "306",
+                "rght": "607",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02085-8764-4425-9d61-5c5aacb5b862",
+                "parent_id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "name": "基隆市",
+                "lft": "569",
+                "rght": "586",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c41228-0180-43de-aa84-6f55acb5b862",
+                "parent_id": "53c02085-8764-4425-9d61-5c5aacb5b862",
+                "name": "第03選區[區域]",
+                "lft": "574",
+                "rght": "575",
+                "population": "46474",
+                "population_electors": "37073",
+                "quota": "4",
+                "quota_women": "1",
+                "bulletin_key": "5469b450-2274-4690-8cd6-74a5cf91e152",
+                "keywords": "2014-11,縣市議員,基隆市,第03選區[區域]"
+            }
+        }
+    ]
+}

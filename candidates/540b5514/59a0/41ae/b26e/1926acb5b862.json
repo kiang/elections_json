@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5514-59a0-41ae-b26e-1926acb5b862",
+            "election_id": "53c02196-cdfc-4a13-b5dc-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "719",
+            "name": "蔡木明",
+            "image": "5460cc61\/f3e8\/4fb2\/8c67\/3e9c8e043389.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "其他省市",
+            "birth": "1942-09-22",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:40:20",
+            "modified": "2015-02-08 23:44:44"
+        },
+        "Election": {
+            "id": "53c02196-cdfc-4a13-b5dc-5c5aacb5b862",
+            "population_electors": "2369",
+            "population": "2952",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-0bd8-4162-bf3c-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01ca4-b0ac-48c7-82f1-5460acb5b862",
+                    "name": "平和村",
+                    "AreasElection": {
+                        "id": "53c02196-18fc-4d6c-9543-5c5aacb5b862",
+                        "Election_id": "53c02196-cdfc-4a13-b5dc-5c5aacb5b862",
+                        "Area_id": "53c01ca4-b0ac-48c7-82f1-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "4417",
+                "rght": "5648",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02195-d764-425c-b682-5c5aacb5b862",
+                "parent_id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "name": "大村鄉",
+                "lft": "5068",
+                "rght": "5101",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02196-cdfc-4a13-b5dc-5c5aacb5b862",
+                "parent_id": "53c02195-d764-425c-b682-5c5aacb5b862",
+                "name": "平和村",
+                "lft": "5091",
+                "rght": "5092",
+                "population": "2952",
+                "population_electors": "2369",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-0bd8-4162-bf3c-74a5cf91e152",
+                "keywords": "2014-11,村里長,彰化縣,大村鄉,平和村"
+            }
+        }
+    ]
+}

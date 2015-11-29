@@ -1,0 +1,124 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c68f91-9c7c-45c5-9841-0f15acb5b862",
+            "election_id": "53c41226-61d4-4870-bddc-6f55acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "3819",
+            "name": "陳東財",
+            "image": "549171e3\/bcdc\/4cf7\/99cf\/0ffd6ab936af.jpg",
+            "party": "民主進步黨",
+            "contacts_phone": "02-24266135",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "201基隆市信義區仁壽里壽山路5號",
+            "links": "臉書 http:\/\/www.facebook.com\/people\/%E9%99%B3%E6%9D%B1%E8%B2%A1\/100007077300358",
+            "gender": "m",
+            "no": "7",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "新北市",
+            "birth": "1951-12-05",
+            "platform": "",
+            "education": "基隆海事職業學校",
+            "experience": "第14至16屆議員. 總統選舉陳水扁基隆市競選總幹事",
+            "created": "2014-07-16 22:43:29",
+            "modified": "2015-02-08 23:41:56"
+        },
+        "Election": {
+            "id": "53c41226-61d4-4870-bddc-6f55acb5b862",
+            "population_electors": "42712",
+            "population": "51274",
+            "quota": "4",
+            "quota_women": "1",
+            "bulletin_key": "5469b450-1914-440e-9060-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01de2-22cc-48b8-bc44-5460acb5b862",
+                    "name": "信義區",
+                    "AreasElection": {
+                        "id": "53c41226-5100-4694-bd0b-6f55acb5b862",
+                        "Election_id": "53c41226-61d4-4870-bddc-6f55acb5b862",
+                        "Area_id": "53c01de2-22cc-48b8-bc44-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54131434-4b14-4c38-9445-2c85cb455a61",
+                "name": "2014台灣獨立建國選舉連線",
+                "CandidatesTag": {
+                    "id": "5413153f-1950-4cb1-b19b-2c88cb455a61",
+                    "Candidate_id": "53c68f91-9c7c-45c5-9841-0f15acb5b862",
+                    "Tag_id": "54131434-4b14-4c38-9445-2c85cb455a61"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "縣市議員",
+                "lft": "306",
+                "rght": "607",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02085-8764-4425-9d61-5c5aacb5b862",
+                "parent_id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "name": "基隆市",
+                "lft": "569",
+                "rght": "586",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c41226-61d4-4870-bddc-6f55acb5b862",
+                "parent_id": "53c02085-8764-4425-9d61-5c5aacb5b862",
+                "name": "第02選區[區域]",
+                "lft": "572",
+                "rght": "573",
+                "population": "51274",
+                "population_electors": "42712",
+                "quota": "4",
+                "quota_women": "1",
+                "bulletin_key": "5469b450-1914-440e-9060-74a5cf91e152",
+                "keywords": "2014-11,縣市議員,基隆市,第02選區[區域]"
+            }
+        }
+    ]
+}

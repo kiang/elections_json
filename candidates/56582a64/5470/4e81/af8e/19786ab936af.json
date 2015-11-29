@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "56582a64-5470-4e81-af8e-19786ab936af",
+            "election_id": "5508674e-222c-4e26-9fb6-35296ab936af",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "0",
+            "name": "郭儒釗",
+            "image": null,
+            "party": "軍公教聯盟黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": null,
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": "0000-00-00",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2015-11-27 18:03:16",
+            "modified": "2015-11-29 03:28:36"
+        },
+        "Election": {
+            "id": "5508674e-222c-4e26-9fb6-35296ab936af",
+            "population_electors": "0",
+            "population": "0",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "Area": [
+                {
+                    "id": "5508593c-8644-46da-b705-3584acb5b862",
+                    "name": "宜蘭縣",
+                    "AreasElection": {
+                        "id": "550a7500-289c-4077-aa12-47cc6ab936af",
+                        "Election_id": "5508674e-222c-4e26-9fb6-35296ab936af",
+                        "Area_id": "5508593c-8644-46da-b705-3584acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "55085db5-2e9c-4cde-8103-23d86ab936af",
+                "parent_id": null,
+                "name": "2016-01",
+                "lft": "40579",
+                "rght": "40780",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "55085e1a-c494-40e0-ba31-2f916ab936af",
+                "parent_id": "55085db5-2e9c-4cde-8103-23d86ab936af",
+                "name": "立法委員",
+                "lft": "40582",
+                "rght": "40779",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "55086362-ae30-4080-87e0-23aa6ab936af",
+                "parent_id": "55085e1a-c494-40e0-ba31-2f916ab936af",
+                "name": "宜蘭縣",
+                "lft": "40737",
+                "rght": "40740",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "5508674e-222c-4e26-9fb6-35296ab936af",
+                "parent_id": "55086362-ae30-4080-87e0-23aa6ab936af",
+                "name": "第01選區[區域]",
+                "lft": "40738",
+                "rght": "40739",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2016-01,立法委員,宜蘭縣,第01選區[區域]"
+            }
+        }
+    ]
+}

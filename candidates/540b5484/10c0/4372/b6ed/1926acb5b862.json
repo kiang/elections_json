@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5484-10c0-4372-b6ed-1926acb5b862",
+            "election_id": "53c02426-9238-4fa1-a0d9-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "792",
+            "name": "郭清竹",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺南市",
+            "birth": "1958-03-18",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:37:56",
+            "modified": "2015-02-08 23:40:46"
+        },
+        "Election": {
+            "id": "53c02426-9238-4fa1-a0d9-5c5aacb5b862",
+            "population_electors": "1959",
+            "population": "2367",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb721-4e64-46cf-9fda-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01e8d-4080-4e24-b3bb-5460acb5b862",
+                    "name": "生明里",
+                    "AreasElection": {
+                        "id": "53c02427-efb8-4b21-bc15-5c5aacb5b862",
+                        "Election_id": "53c02426-9238-4fa1-a0d9-5c5aacb5b862",
+                        "Area_id": "53c01e8d-4080-4e24-b3bb-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02420-e624-4780-8ebc-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "鳳山區",
+                "lft": "13324",
+                "rght": "13481",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02426-9238-4fa1-a0d9-5c5aacb5b862",
+                "parent_id": "53c02420-e624-4780-8ebc-5c5aacb5b862",
+                "name": "生明里",
+                "lft": "13403",
+                "rght": "13404",
+                "population": "2367",
+                "population_electors": "1959",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb721-4e64-46cf-9fda-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,鳳山區,生明里"
+            }
+        }
+    ]
+}

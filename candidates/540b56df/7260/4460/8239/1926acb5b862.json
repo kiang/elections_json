@@ -1,0 +1,149 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b56df-7260-4460-8239-1926acb5b862",
+            "election_id": "53d732b5-4974-4456-b8dc-1299acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "0",
+            "name": "羅志堅",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": null,
+            "no": "0",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:47:59",
+            "modified": "2014-10-09 13:39:04"
+        },
+        "Election": {
+            "id": "53d732b5-4974-4456-b8dc-1299acb5b862",
+            "population_electors": "6133",
+            "population": "7332",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-3c2c-48c6-99de-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c40-058c-4aa3-8202-5460acb5b862",
+                    "name": "文山里",
+                    "AreasElection": {
+                        "id": "53d732b6-bb84-4e4f-a37e-1299acb5b862",
+                        "Election_id": "53d732b5-4974-4456-b8dc-1299acb5b862",
+                        "Area_id": "53c01c40-058c-4aa3-8202-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01c40-3b40-47b3-ac14-5460acb5b862",
+                    "name": "內立里",
+                    "AreasElection": {
+                        "id": "53d732b6-dbb0-4ef9-89a7-1299acb5b862",
+                        "Election_id": "53d732b5-4974-4456-b8dc-1299acb5b862",
+                        "Area_id": "53c01c40-3b40-47b3-ac14-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01c40-bc84-48d9-9a7d-5460acb5b862",
+                    "name": "寶石里",
+                    "AreasElection": {
+                        "id": "53d732b6-7340-4cd2-b65e-1299acb5b862",
+                        "Election_id": "53d732b5-4974-4456-b8dc-1299acb5b862",
+                        "Area_id": "53c01c40-bc84-48d9-9a7d-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b3-e33c-4fee-aa9e-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "新竹縣",
+                "lft": "1201",
+                "rght": "1322",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b4-23a4-4927-9494-5c5aacb5b862",
+                "parent_id": "53c020b3-e33c-4fee-aa9e-5c5aacb5b862",
+                "name": "新埔鎮",
+                "lft": "1222",
+                "rght": "1231",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d732b5-4974-4456-b8dc-1299acb5b862",
+                "parent_id": "53c020b4-23a4-4927-9494-5c5aacb5b862",
+                "name": "第03選舉區[區域]",
+                "lft": "1227",
+                "rght": "1228",
+                "population": "7332",
+                "population_electors": "6133",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-3c2c-48c6-99de-1a32cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,新竹縣,新埔鎮,第03選舉區[區域]"
+            }
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "5496651d-ce8c-427d-8d21-1c2f6ab936af",
+            "election_id": "53c020a4-c518-400e-869f-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "0",
+            "vote_count": "0",
+            "name": "潘勝富",
+            "image": "5496651d\/b1bc\/4fae\/8ee9\/1c2f6ab936af.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "3",
+            "education_level": "專科",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1955-12-19",
+            "platform": "",
+            "education": "高雄工專",
+            "experience": "村幹事、民政課課長、觀光課課長、建設課課長、行政課課長",
+            "created": "2014-12-21 14:13:49",
+            "modified": "2014-12-21 14:43:21"
+        },
+        "Election": {
+            "id": "53c020a4-c518-400e-869f-5c5aacb5b862",
+            "population_electors": "6157",
+            "population": "7804",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5475673a-cf58-46af-8d7b-0f78cf91e152",
+            "Area": [
+                {
+                    "id": "53c01d8b-f7b0-429a-8cbd-5460acb5b862",
+                    "name": "三地門鄉",
+                    "AreasElection": {
+                        "id": "53c020a4-dd50-4985-8fb3-5c5aacb5b862",
+                        "Election_id": "53c020a4-c518-400e-869f-5c5aacb5b862",
+                        "Area_id": "53c01d8b-f7b0-429a-8cbd-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市長",
+                "lft": "608",
+                "rght": "1031",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020a0-f5a4-4054-836f-5c5aacb5b862",
+                "parent_id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "887",
+                "rght": "954",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020a4-c518-400e-869f-5c5aacb5b862",
+                "parent_id": "53c020a0-f5a4-4054-836f-5c5aacb5b862",
+                "name": "三地門鄉",
+                "lft": "938",
+                "rght": "939",
+                "population": "7804",
+                "population_electors": "6157",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5475673a-cf58-46af-8d7b-0f78cf91e152",
+                "keywords": "2014-11,鄉鎮市長,屏東縣,三地門鄉"
+            }
+        }
+    ]
+}

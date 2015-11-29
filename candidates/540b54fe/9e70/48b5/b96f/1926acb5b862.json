@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b54fe-9e70-48b5-b96f-1926acb5b862",
+            "election_id": "53c02174-cd44-44c9-8b7a-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "986",
+            "name": "王東霖",
+            "image": "545ce687\/513c\/4241\/be90\/7ae88e043389.jpg",
+            "party": "民主進步黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1956-03-30",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:39:58",
+            "modified": "2015-02-08 23:44:40"
+        },
+        "Election": {
+            "id": "53c02174-cd44-44c9-8b7a-5c5aacb5b862",
+            "population_electors": "3773",
+            "population": "4949",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-23d8-402c-96e8-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c89-07b4-40b5-9e33-5460acb5b862",
+                    "name": "糖友里",
+                    "AreasElection": {
+                        "id": "53c02174-2100-4063-a19e-5c5aacb5b862",
+                        "Election_id": "53c02174-cd44-44c9-8b7a-5c5aacb5b862",
+                        "Area_id": "53c01c89-07b4-40b5-9e33-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "4417",
+                "rght": "5648",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02172-2a38-4d0d-91b6-5c5aacb5b862",
+                "parent_id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "name": "和美鎮",
+                "lft": "4626",
+                "rght": "4691",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02174-cd44-44c9-8b7a-5c5aacb5b862",
+                "parent_id": "53c02172-2a38-4d0d-91b6-5c5aacb5b862",
+                "name": "糖友里",
+                "lft": "4663",
+                "rght": "4664",
+                "population": "4949",
+                "population_electors": "3773",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-23d8-402c-96e8-74a5cf91e152",
+                "keywords": "2014-11,村里長,彰化縣,和美鎮,糖友里"
+            }
+        }
+    ]
+}

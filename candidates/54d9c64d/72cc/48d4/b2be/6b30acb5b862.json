@@ -1,0 +1,108 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "54d9c64d-72cc-48d4-b2be-6b30acb5b862",
+            "election_id": "54d9c64c-c8d8-4545-a6b6-6b30acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "4486",
+            "name": "黃嘉寬",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "5",
+            "education_level": "",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2015-02-10 16:50:21",
+            "modified": "2015-02-10 16:50:21"
+        },
+        "Election": {
+            "id": "54d9c64c-c8d8-4545-a6b6-6b30acb5b862",
+            "population_electors": "0",
+            "population": "0",
+            "quota": "0",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "Area": [
+
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "54d9c63c-ebbc-4266-ba24-6b30acb5b862",
+                "parent_id": null,
+                "name": "2002-01",
+                "lft": "30047",
+                "rght": "31124",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "54d9c63c-256c-4049-94af-6b30acb5b862",
+                "parent_id": "54d9c63c-ebbc-4266-ba24-6b30acb5b862",
+                "name": "縣市議員",
+                "lft": "30048",
+                "rght": "30483",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "550bce65-d8e0-4d0a-88cb-379bacb5b862",
+                "parent_id": "54d9c63c-256c-4049-94af-6b30acb5b862",
+                "name": "嘉義縣",
+                "lft": "30247",
+                "rght": "30262",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "54d9c64c-c8d8-4545-a6b6-6b30acb5b862",
+                "parent_id": "550bce65-d8e0-4d0a-88cb-379bacb5b862",
+                "name": "第二選區[區域]",
+                "lft": "30250",
+                "rght": "30251",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2002-01,縣市議員,嘉義縣第二選區[區域]"
+            }
+        }
+    ]
+}

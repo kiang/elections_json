@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02801-101c-4f8a-8de4-5dffacb5b862",
+            "election_id": "53c021f6-b164-4f9b-bfcb-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "593",
+            "name": "廖勝雄",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1954-12-27",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:45:00"
+        },
+        "Election": {
+            "id": "53c021f6-b164-4f9b-bfcb-5c5aacb5b862",
+            "population_electors": "1437",
+            "population": "1841",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546edee5-bddc-42f2-9940-3ce1cf91e152",
+            "Area": [
+                {
+                    "id": "53c01cef-12c4-4353-9b58-5460acb5b862",
+                    "name": "安慶里",
+                    "AreasElection": {
+                        "id": "53c021f6-4a24-4438-858e-5c5aacb5b862",
+                        "Election_id": "53c021f6-b164-4f9b-bfcb-5c5aacb5b862",
+                        "Area_id": "53c01cef-12c4-4353-9b58-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "6201",
+                "rght": "7018",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021f5-c158-4f44-9a45-5c5aacb5b862",
+                "parent_id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "name": "虎尾鎮",
+                "lft": "6326",
+                "rght": "6385",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021f6-b164-4f9b-bfcb-5c5aacb5b862",
+                "parent_id": "53c021f5-c158-4f44-9a45-5c5aacb5b862",
+                "name": "安慶里",
+                "lft": "6331",
+                "rght": "6332",
+                "population": "1841",
+                "population_electors": "1437",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546edee5-bddc-42f2-9940-3ce1cf91e152",
+                "keywords": "2014-11,村里長,雲林縣,虎尾鎮,安慶里"
+            }
+        }
+    ]
+}

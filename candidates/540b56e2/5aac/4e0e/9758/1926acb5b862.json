@@ -1,0 +1,158 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b56e2-5aac-4e0e-9758-1926acb5b862",
+            "election_id": "53d732be-ec08-40f6-856d-1299acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "2017",
+            "name": "許秋澤",
+            "image": "54c47f69\/c498\/49c9\/a2c0\/4a0a6ab936af.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "3",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "HSU CHIU TSE",
+            "birth_place": "臺灣省",
+            "birth": "1970-01-03",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:48:02",
+            "modified": "2015-02-08 23:42:07"
+        },
+        "Election": {
+            "id": "53d732be-ec08-40f6-856d-1299acb5b862",
+            "population_electors": "7239",
+            "population": "9028",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-7294-4bc2-89b7-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c47-1d08-4045-a2a3-5460acb5b862",
+                    "name": "埔和村",
+                    "AreasElection": {
+                        "id": "53d732bf-d804-45ae-987e-1299acb5b862",
+                        "Election_id": "53d732be-ec08-40f6-856d-1299acb5b862",
+                        "Area_id": "53c01c47-1d08-4045-a2a3-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01c47-7f8c-4cdc-ab4c-5460acb5b862",
+                    "name": "後湖村",
+                    "AreasElection": {
+                        "id": "53d732bf-c5a4-4350-8bf4-1299acb5b862",
+                        "Election_id": "53d732be-ec08-40f6-856d-1299acb5b862",
+                        "Area_id": "53c01c47-7f8c-4cdc-ab4c-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01c48-3994-4a71-bf7c-5460acb5b862",
+                    "name": "新豐村",
+                    "AreasElection": {
+                        "id": "53d732bf-2004-40b2-9c59-1299acb5b862",
+                        "Election_id": "53d732be-ec08-40f6-856d-1299acb5b862",
+                        "Area_id": "53c01c48-3994-4a71-bf7c-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01c48-98dc-4a6e-bc70-5460acb5b862",
+                    "name": "坡頭村",
+                    "AreasElection": {
+                        "id": "53d732bf-d970-473a-b449-1299acb5b862",
+                        "Election_id": "53d732be-ec08-40f6-856d-1299acb5b862",
+                        "Area_id": "53c01c48-98dc-4a6e-bc70-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b3-e33c-4fee-aa9e-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "新竹縣",
+                "lft": "1201",
+                "rght": "1322",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b5-8984-4640-b7e1-5c5aacb5b862",
+                "parent_id": "53c020b3-e33c-4fee-aa9e-5c5aacb5b862",
+                "name": "新豐鄉",
+                "lft": "1252",
+                "rght": "1261",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d732be-ec08-40f6-856d-1299acb5b862",
+                "parent_id": "53c020b5-8984-4640-b7e1-5c5aacb5b862",
+                "name": "第02選舉區[區域]",
+                "lft": "1255",
+                "rght": "1256",
+                "population": "9028",
+                "population_electors": "7239",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-7294-4bc2-89b7-1a32cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,新竹縣,新豐鄉,第02選舉區[區域]"
+            }
+        }
+    ]
+}

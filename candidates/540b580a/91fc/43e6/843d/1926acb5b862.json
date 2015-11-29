@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b580a-91fc-43e6-843d-1926acb5b862",
+            "election_id": "53c02097-5670-47c1-9431-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "5381",
+            "name": "康誌合",
+            "image": "55d48506\/dc0c\/46c0\/a485\/69ea6ab936af.jpg",
+            "party": "民主進步黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "臉書 http:\/\/www.facebook.com\/people\/%E5%BA%B7%E8%AA%8C%E5%90%88\/100002966278745",
+            "gender": "m",
+            "no": "2",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1963-01-10",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:52:58",
+            "modified": "2015-08-19 21:31:32"
+        },
+        "Election": {
+            "id": "53c02097-5670-47c1-9431-5c5aacb5b862",
+            "population_electors": "15817",
+            "population": "18534",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54735d56-4ac0-467c-8fc8-21eacf91e152",
+            "Area": [
+                {
+                    "id": "53c01cd9-628c-44f6-b08f-5460acb5b862",
+                    "name": "鹿谷鄉",
+                    "AreasElection": {
+                        "id": "53c02097-1a88-4e8e-8581-5c5aacb5b862",
+                        "Election_id": "53c02097-5670-47c1-9431-5c5aacb5b862",
+                        "Area_id": "53c01cd9-628c-44f6-b08f-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市長",
+                "lft": "608",
+                "rght": "1031",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02095-a5ac-446e-b87d-5c5aacb5b862",
+                "parent_id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "name": "南投縣",
+                "lft": "779",
+                "rght": "806",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02097-5670-47c1-9431-5c5aacb5b862",
+                "parent_id": "53c02095-a5ac-446e-b87d-5c5aacb5b862",
+                "name": "鹿谷鄉",
+                "lft": "792",
+                "rght": "793",
+                "population": "18534",
+                "population_electors": "15817",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54735d56-4ac0-467c-8fc8-21eacf91e152",
+                "keywords": "2014-11,鄉鎮市長,南投縣,鹿谷鄉"
+            }
+        }
+    ]
+}

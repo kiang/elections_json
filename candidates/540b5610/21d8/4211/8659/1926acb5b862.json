@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5610-21d8-4211-8659-1926acb5b862",
+            "election_id": "53c022d7-0ec8-4287-bc98-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "542",
+            "name": "林純宏",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1943-07-11",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:44:32",
+            "modified": "2015-02-08 23:45:26"
+        },
+        "Election": {
+            "id": "53c022d7-0ec8-4287-bc98-5c5aacb5b862",
+            "population_electors": "2312",
+            "population": "2796",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546d8db9-0378-4f17-bf17-0e51cf91e152",
+            "Area": [
+                {
+                    "id": "53c01db3-4c84-43c4-a4f2-5460acb5b862",
+                    "name": "康樂村",
+                    "AreasElection": {
+                        "id": "53c022d7-f49c-4ab4-9330-5c5aacb5b862",
+                        "Election_id": "53c022d7-0ec8-4287-bc98-5c5aacb5b862",
+                        "Area_id": "53c01db3-4c84-43c4-a4f2-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022cb-ff18-4c61-98a3-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "花蓮縣",
+                "lft": "9095",
+                "rght": "9476",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022d7-cc68-48da-8b76-5c5aacb5b862",
+                "parent_id": "53c022cb-ff18-4c61-98a3-5c5aacb5b862",
+                "name": "新城鄉",
+                "lft": "9246",
+                "rght": "9263",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022d7-0ec8-4287-bc98-5c5aacb5b862",
+                "parent_id": "53c022d7-cc68-48da-8b76-5c5aacb5b862",
+                "name": "康樂村",
+                "lft": "9249",
+                "rght": "9250",
+                "population": "2796",
+                "population_electors": "2312",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546d8db9-0378-4f17-bf17-0e51cf91e152",
+                "keywords": "2014-11,村里長,花蓮縣,新城鄉,康樂村"
+            }
+        }
+    ]
+}

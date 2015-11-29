@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5304-e980-4855-9339-1926acb5b862",
+            "election_id": "53c023c0-30d8-45d1-82b4-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "1484",
+            "name": "陳裕基",
+            "image": "548d7244\/ceac\/498d\/9c42\/0a916ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "CHEN YU GEE",
+            "birth_place": "臺北市",
+            "birth": "1953-11-27",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:31:32",
+            "modified": "2015-02-08 23:40:35"
+        },
+        "Election": {
+            "id": "53c023c0-30d8-45d1-82b4-5c5aacb5b862",
+            "population_electors": "7902",
+            "population": "10063",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-75a8-49ef-a91f-4187cf91e152",
+            "Area": [
+                {
+                    "id": "53c01e34-1564-4696-a06c-5460acb5b862",
+                    "name": "港富里",
+                    "AreasElection": {
+                        "id": "53c023c1-948c-46f3-a608-5c5aacb5b862",
+                        "Election_id": "53c023c0-30d8-45d1-82b4-5c5aacb5b862",
+                        "Area_id": "53c01e34-1564-4696-a06c-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023c0-6e24-4314-83f8-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "內湖區",
+                "lft": "12124",
+                "rght": "12203",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023c0-30d8-45d1-82b4-5c5aacb5b862",
+                "parent_id": "53c023c0-6e24-4314-83f8-5c5aacb5b862",
+                "name": "港富里",
+                "lft": "12125",
+                "rght": "12126",
+                "population": "10063",
+                "population_electors": "7902",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-75a8-49ef-a91f-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,內湖區,港富里"
+            }
+        }
+    ]
+}

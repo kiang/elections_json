@@ -1,0 +1,152 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "56593a52-579c-4519-a8de-0ed66ab936af",
+            "election_id": "550865b9-edc4-435c-9c17-35296ab936af",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "0",
+            "name": "陳軍元",
+            "image": null,
+            "party": "中華統一促進黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": null,
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": "0000-00-00",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2015-11-28 13:23:30",
+            "modified": "2015-11-29 03:28:36"
+        },
+        "Election": {
+            "id": "550865b9-edc4-435c-9c17-35296ab936af",
+            "population_electors": "0",
+            "population": "0",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "Area": [
+                {
+                    "id": "55085aa3-9f64-4524-bd62-3584acb5b862",
+                    "name": "大甲區",
+                    "AreasElection": {
+                        "id": "550a3cf5-1174-4d67-a61b-47cc6ab936af",
+                        "Election_id": "550865b9-edc4-435c-9c17-35296ab936af",
+                        "Area_id": "55085aa3-9f64-4524-bd62-3584acb5b862"
+                    }
+                },
+                {
+                    "id": "55085aa4-aadc-442d-ae97-3584acb5b862",
+                    "name": "清水區",
+                    "AreasElection": {
+                        "id": "550a3d05-2a78-4397-913f-47cc6ab936af",
+                        "Election_id": "550865b9-edc4-435c-9c17-35296ab936af",
+                        "Area_id": "55085aa4-aadc-442d-ae97-3584acb5b862"
+                    }
+                },
+                {
+                    "id": "55085aa7-6abc-4823-87c9-3584acb5b862",
+                    "name": "梧棲區",
+                    "AreasElection": {
+                        "id": "550a3d0b-132c-468a-aa52-494a6ab936af",
+                        "Election_id": "550865b9-edc4-435c-9c17-35296ab936af",
+                        "Area_id": "55085aa7-6abc-4823-87c9-3584acb5b862"
+                    }
+                },
+                {
+                    "id": "55085aae-370c-437a-b9d5-3584acb5b862",
+                    "name": "外埔區",
+                    "AreasElection": {
+                        "id": "550a3d00-c748-4a96-bc5d-47cc6ab936af",
+                        "Election_id": "550865b9-edc4-435c-9c17-35296ab936af",
+                        "Area_id": "55085aae-370c-437a-b9d5-3584acb5b862"
+                    }
+                },
+                {
+                    "id": "55085aae-6370-477c-a01d-3584acb5b862",
+                    "name": "大安區",
+                    "AreasElection": {
+                        "id": "550a3cfb-f618-4f1a-95ef-494a6ab936af",
+                        "Election_id": "550865b9-edc4-435c-9c17-35296ab936af",
+                        "Area_id": "55085aae-6370-477c-a01d-3584acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "55085db5-2e9c-4cde-8103-23d86ab936af",
+                "parent_id": null,
+                "name": "2016-01",
+                "lft": "40579",
+                "rght": "40780",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "55085e1a-c494-40e0-ba31-2f916ab936af",
+                "parent_id": "55085db5-2e9c-4cde-8103-23d86ab936af",
+                "name": "立法委員",
+                "lft": "40582",
+                "rght": "40779",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "550862aa-1e38-4362-a667-28956ab936af",
+                "parent_id": "55085e1a-c494-40e0-ba31-2f916ab936af",
+                "name": "臺中市",
+                "lft": "40627",
+                "rght": "40644",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "550865b9-edc4-435c-9c17-35296ab936af",
+                "parent_id": "550862aa-1e38-4362-a667-28956ab936af",
+                "name": "第01選區[區域]",
+                "lft": "40628",
+                "rght": "40629",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2016-01,立法委員,臺中市,第01選區[區域]"
+            }
+        }
+    ]
+}

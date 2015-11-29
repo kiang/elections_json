@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5811-7430-401b-80bc-1926acb5b862",
+            "election_id": "53c0209f-07cc-40f6-8023-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "8336",
+            "name": "張聰成",
+            "image": "549fabd7\/f3c0\/4191\/a8d2\/50e96ab936af.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "2",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1951-11-26",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:53:05",
+            "modified": "2015-02-08 23:42:01"
+        },
+        "Election": {
+            "id": "53c0209f-07cc-40f6-8023-5c5aacb5b862",
+            "population_electors": "38249",
+            "population": "46207",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-d890-44d9-9a2b-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01d42-a14c-427b-9778-5460acb5b862",
+                    "name": "中埔鄉",
+                    "AreasElection": {
+                        "id": "53c0209f-b794-4801-9b72-5c5aacb5b862",
+                        "Election_id": "53c0209f-07cc-40f6-8023-5c5aacb5b862",
+                        "Area_id": "53c01d42-a14c-427b-9778-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市長",
+                "lft": "608",
+                "rght": "1031",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0209c-b3c0-4999-93a6-5c5aacb5b862",
+                "parent_id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "name": "嘉義縣",
+                "lft": "849",
+                "rght": "886",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0209f-07cc-40f6-8023-5c5aacb5b862",
+                "parent_id": "53c0209c-b3c0-4999-93a6-5c5aacb5b862",
+                "name": "中埔鄉",
+                "lft": "874",
+                "rght": "875",
+                "population": "46207",
+                "population_electors": "38249",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-d890-44d9-9a2b-2adbcf91e152",
+                "keywords": "2014-11,鄉鎮市長,嘉義縣,中埔鄉"
+            }
+        }
+    ]
+}

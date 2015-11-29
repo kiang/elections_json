@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c0268f-f574-432a-a345-5dffacb5b862",
+            "election_id": "53c02452-ef84-45d5-b06e-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "821",
+            "name": "曾泰平",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "3",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "高雄市",
+            "birth": "1945-12-21",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:40:50"
+        },
+        "Election": {
+            "id": "53c02452-ef84-45d5-b06e-5c5aacb5b862",
+            "population_electors": "1896",
+            "population": "2328",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb721-e49c-4526-8935-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01eb2-da74-414c-b061-5460acb5b862",
+                    "name": "嘉樂里",
+                    "AreasElection": {
+                        "id": "53c02452-3764-43bf-b540-5c5aacb5b862",
+                        "Election_id": "53c02452-ef84-45d5-b06e-5c5aacb5b862",
+                        "Area_id": "53c01eb2-da74-414c-b061-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0244f-7a80-4482-af08-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "茄萣區",
+                "lft": "13940",
+                "rght": "13971",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02452-ef84-45d5-b06e-5c5aacb5b862",
+                "parent_id": "53c0244f-7a80-4482-af08-5c5aacb5b862",
+                "name": "嘉樂里",
+                "lft": "13967",
+                "rght": "13968",
+                "population": "2328",
+                "population_electors": "1896",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb721-e49c-4526-8935-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,茄萣區,嘉樂里"
+            }
+        }
+    ]
+}

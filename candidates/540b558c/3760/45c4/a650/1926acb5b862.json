@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b558c-3760-45c4-a650-1926acb5b862",
+            "election_id": "53c02233-3f28-4018-9ebc-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "445",
+            "name": "蔡裕閔",
+            "image": "5471aa16\/95a8\/4114\/809d\/2b288e043389.jpg",
+            "party": "民主進步黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "嘉義縣布袋鎮新岑里177號",
+            "links": "",
+            "gender": "m",
+            "no": "2",
+            "education_level": "大學",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺南市",
+            "birth": "1991-11-21",
+            "platform": "",
+            "education": "嘉義布袋鎮新岑國小畢業\\n台南市新營區興國高中畢業\\n台南市仁德區嘉南藥理大學餐旅管理系畢業",
+            "experience": "",
+            "created": "2014-09-07 02:42:20",
+            "modified": "2015-02-08 23:45:07"
+        },
+        "Election": {
+            "id": "53c02233-3f28-4018-9ebc-5c5aacb5b862",
+            "population_electors": "987",
+            "population": "1160",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-6160-4664-b97a-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01d22-f6e4-4490-831b-5460acb5b862",
+                    "name": "新岑里",
+                    "AreasElection": {
+                        "id": "53c02233-4630-40d8-9f4f-5c5aacb5b862",
+                        "Election_id": "53c02233-3f28-4018-9ebc-5c5aacb5b862",
+                        "Area_id": "53c01d22-f6e4-4490-831b-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0222a-d5c0-465f-849c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "嘉義縣",
+                "lft": "7019",
+                "rght": "7770",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02231-1908-4ad4-92f5-5c5aacb5b862",
+                "parent_id": "53c0222a-d5c0-465f-849c-5c5aacb5b862",
+                "name": "布袋鎮",
+                "lft": "7114",
+                "rght": "7161",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02233-3f28-4018-9ebc-5c5aacb5b862",
+                "parent_id": "53c02231-1908-4ad4-92f5-5c5aacb5b862",
+                "name": "新岑里",
+                "lft": "7137",
+                "rght": "7138",
+                "population": "1160",
+                "population_electors": "987",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-6160-4664-b97a-2adbcf91e152",
+                "keywords": "2014-11,村里長,嘉義縣,布袋鎮,新岑里"
+            }
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5679-c638-412c-9b37-1926acb5b862",
+            "election_id": "53c4205a-cddc-4665-81a0-7258acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "2856",
+            "name": "范振興",
+            "image": "5440ef32\/53d0\/476d\/a79e\/0a858e043389.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "4",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "Fan Cheng Hsin",
+            "birth_place": "臺灣省",
+            "birth": "1955-03-26",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:46:17",
+            "modified": "2015-02-08 23:44:22"
+        },
+        "Election": {
+            "id": "53c4205a-cddc-4665-81a0-7258acb5b862",
+            "population_electors": "8404",
+            "population": "10890",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54744c85-8fc4-442e-ab51-45dccf91e152",
+            "Area": [
+                {
+                    "id": "53c01c36-77dc-4859-b5e0-5460acb5b862",
+                    "name": "復興區",
+                    "AreasElection": {
+                        "id": "53c4205a-40a0-45ab-bb13-7258acb5b862",
+                        "Election_id": "53c4205a-cddc-4665-81a0-7258acb5b862",
+                        "Area_id": "53c01c36-77dc-4859-b5e0-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54ab2a5a-dc1c-41d1-9520-2a2d6ab936af",
+                "name": "2014當選無效之訴-桃園市",
+                "CandidatesTag": {
+                    "id": "54ab2a82-0058-400d-b17d-2a576ab936af",
+                    "Candidate_id": "540b5679-c638-412c-9b37-1926acb5b862",
+                    "Tag_id": "54ab2a5a-dc1c-41d1-9520-2a2d6ab936af"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-9018-4f11-9539-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市山地原住民區長",
+                "lft": "196",
+                "rght": "217",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c42059-024c-4bf4-8dd0-7258acb5b862",
+                "parent_id": "53c0202f-9018-4f11-9539-5460acb5b862",
+                "name": "桃園市",
+                "lft": "197",
+                "rght": "200",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c4205a-cddc-4665-81a0-7258acb5b862",
+                "parent_id": "53c42059-024c-4bf4-8dd0-7258acb5b862",
+                "name": "復興區",
+                "lft": "198",
+                "rght": "199",
+                "population": "10890",
+                "population_electors": "8404",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54744c85-8fc4-442e-ab51-45dccf91e152",
+                "keywords": "2014-11,直轄市山地原住民區長,桃園市,復興區"
+            }
+        }
+    ]
+}

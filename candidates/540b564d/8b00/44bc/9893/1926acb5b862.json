@@ -1,0 +1,139 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b564d-8b00-44bc-9893-1926acb5b862",
+            "election_id": "53c02304-e968-439b-a144-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "406",
+            "name": "張通賢",
+            "image": null,
+            "party": "人民民主陣線",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1959-12-01",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:45:33",
+            "modified": "2015-02-08 23:45:31"
+        },
+        "Election": {
+            "id": "53c02304-e968-439b-a144-5c5aacb5b862",
+            "population_electors": "2739",
+            "population": "3380",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546cd3af-c9c0-42da-94b6-78ebcf91e152",
+            "Area": [
+                {
+                    "id": "53c01dd6-28d4-482c-985a-5460acb5b862",
+                    "name": "碇和里",
+                    "AreasElection": {
+                        "id": "53c02304-67f8-4401-a0bc-5c5aacb5b862",
+                        "Election_id": "53c02304-e968-439b-a144-5c5aacb5b862",
+                        "Area_id": "53c01dd6-28d4-482c-985a-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54130e32-8348-4521-9e6a-799ccb455a61",
+                "name": "2014人民民主陣線",
+                "CandidatesTag": {
+                    "id": "54130eb7-60d0-46aa-91e8-79a1cb455a61",
+                    "Candidate_id": "540b564d-8b00-44bc-9893-1926acb5b862",
+                    "Tag_id": "54130e32-8348-4521-9e6a-799ccb455a61"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "基隆市",
+                "lft": "9683",
+                "rght": "10012",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02303-2eec-4359-b204-5c5aacb5b862",
+                "parent_id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "name": "暖暖區",
+                "lft": "9780",
+                "rght": "9807",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02304-e968-439b-a144-5c5aacb5b862",
+                "parent_id": "53c02303-2eec-4359-b204-5c5aacb5b862",
+                "name": "碇和里",
+                "lft": "9789",
+                "rght": "9790",
+                "population": "3380",
+                "population_electors": "2739",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546cd3af-c9c0-42da-94b6-78ebcf91e152",
+                "keywords": "2014-11,村里長,基隆市,暖暖區,碇和里"
+            }
+        }
+    ]
+}

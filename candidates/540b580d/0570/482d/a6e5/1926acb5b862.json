@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b580d-0570-482d-a6e5-1926acb5b862",
+            "election_id": "53c0209a-9e58-4194-b9b3-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "3657",
+            "name": "鍾合郎",
+            "image": "54302097\/40cc\/40dd\/ac69\/3865cb455a61.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "3",
+            "education_level": "專科",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1962-12-12",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:53:01",
+            "modified": "2015-02-08 23:42:01"
+        },
+        "Election": {
+            "id": "53c0209a-9e58-4194-b9b3-5c5aacb5b862",
+            "population_electors": "23179",
+            "population": "28398",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb720-3be0-414e-b07b-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01d04-15e8-4d3c-920e-5460acb5b862",
+                    "name": "二崙鄉",
+                    "AreasElection": {
+                        "id": "53c0209a-bb14-48de-b32c-5c5aacb5b862",
+                        "Election_id": "53c0209a-9e58-4194-b9b3-5c5aacb5b862",
+                        "Area_id": "53c01d04-15e8-4d3c-920e-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市長",
+                "lft": "608",
+                "rght": "1031",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02098-ab7c-4d32-a6a1-5c5aacb5b862",
+                "parent_id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "807",
+                "rght": "848",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0209a-9e58-4194-b9b3-5c5aacb5b862",
+                "parent_id": "53c02098-ab7c-4d32-a6a1-5c5aacb5b862",
+                "name": "二崙鄉",
+                "lft": "828",
+                "rght": "829",
+                "population": "28398",
+                "population_electors": "23179",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb720-3be0-414e-b07b-2adbcf91e152",
+                "keywords": "2014-11,鄉鎮市長,雲林縣,二崙鄉"
+            }
+        }
+    ]
+}

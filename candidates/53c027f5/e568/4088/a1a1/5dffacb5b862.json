@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c027f5-e568-4088-a1a1-5dffacb5b862",
+            "election_id": "53c021de-f44c-4141-8d8a-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "707",
+            "name": "廖志修",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "LIAO CHIH HSIU",
+            "birth_place": "臺灣省",
+            "birth": "1961-02-08",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:44:52"
+        },
+        "Election": {
+            "id": "53c021de-f44c-4141-8d8a-5c5aacb5b862",
+            "population_electors": "1031",
+            "population": "1264",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54735d55-8124-4011-9618-21eacf91e152",
+            "Area": [
+                {
+                    "id": "53c01cdd-77d4-47d3-b1cf-5460acb5b862",
+                    "name": "義和村",
+                    "AreasElection": {
+                        "id": "53c021de-dea8-4fb7-aaf5-5c5aacb5b862",
+                        "Election_id": "53c021de-f44c-4141-8d8a-5c5aacb5b862",
+                        "Area_id": "53c01cdd-77d4-47d3-b1cf-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "南投縣",
+                "lft": "5649",
+                "rght": "6200",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021dc-486c-49bd-9fe5-5c5aacb5b862",
+                "parent_id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "name": "中寮鄉",
+                "lft": "6002",
+                "rght": "6039",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021de-f44c-4141-8d8a-5c5aacb5b862",
+                "parent_id": "53c021dc-486c-49bd-9fe5-5c5aacb5b862",
+                "name": "義和村",
+                "lft": "6025",
+                "rght": "6026",
+                "population": "1264",
+                "population_electors": "1031",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54735d55-8124-4011-9618-21eacf91e152",
+                "keywords": "2014-11,村里長,南投縣,中寮鄉,義和村"
+            }
+        }
+    ]
+}

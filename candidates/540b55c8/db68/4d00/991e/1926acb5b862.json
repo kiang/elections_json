@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b55c8-db68-4d00-991e-1926acb5b862",
+            "election_id": "53c02285-68c8-46b8-99aa-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "699",
+            "name": "陳晋悌",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "專科",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1958-10-14",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:43:20",
+            "modified": "2015-02-08 23:45:17"
+        },
+        "Election": {
+            "id": "53c02285-68c8-46b8-99aa-5c5aacb5b862",
+            "population_electors": "1283",
+            "population": "1612",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54773ba1-3db8-489b-ade9-1915cf91e152",
+            "Area": [
+                {
+                    "id": "53c01d6d-46fc-4406-815e-5460acb5b862",
+                    "name": "春林村",
+                    "AreasElection": {
+                        "id": "53c02286-0c98-4184-9c3b-5c5aacb5b862",
+                        "Election_id": "53c02285-68c8-46b8-99aa-5c5aacb5b862",
+                        "Area_id": "53c01d6d-46fc-4406-815e-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "7771",
+                "rght": "8766",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02285-42f0-44cb-aa36-5c5aacb5b862",
+                "parent_id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "name": "里港鄉",
+                "lft": "8196",
+                "rght": "8225",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02285-68c8-46b8-99aa-5c5aacb5b862",
+                "parent_id": "53c02285-42f0-44cb-aa36-5c5aacb5b862",
+                "name": "春林村",
+                "lft": "8199",
+                "rght": "8200",
+                "population": "1612",
+                "population_electors": "1283",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54773ba1-3db8-489b-ade9-1915cf91e152",
+                "keywords": "2014-11,村里長,屏東縣,里港鄉,春林村"
+            }
+        }
+    ]
+}

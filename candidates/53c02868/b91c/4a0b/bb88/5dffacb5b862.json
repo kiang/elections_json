@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02868-b91c-4a0b-bb88-5dffacb5b862",
+            "election_id": "53c022c7-8454-4908-94df-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "0",
+            "vote_count": "0",
+            "name": "江金福",
+            "image": null,
+            "party": null,
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": null,
+            "no": "0",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "0000-00-00 00:00:00"
+        },
+        "Election": {
+            "id": "53c022c7-8454-4908-94df-5c5aacb5b862",
+            "population_electors": "489",
+            "population": "669",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546f277f-8b18-45e0-89fd-2f28cf91e152",
+            "Area": [
+                {
+                    "id": "53c01da7-4ccc-4fa1-b429-5460acb5b862",
+                    "name": "加拿村",
+                    "AreasElection": {
+                        "id": "53c022c8-834c-4047-99b6-5c5aacb5b862",
+                        "Election_id": "53c022c7-8454-4908-94df-5c5aacb5b862",
+                        "Area_id": "53c01da7-4ccc-4fa1-b429-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022b2-b9f0-4517-825f-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺東縣",
+                "lft": "8767",
+                "rght": "9094",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022c7-33ec-4fbe-aa36-5c5aacb5b862",
+                "parent_id": "53c022b2-b9f0-4517-825f-5c5aacb5b862",
+                "name": "海端鄉",
+                "lft": "9032",
+                "rght": "9045",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022c7-8454-4908-94df-5c5aacb5b862",
+                "parent_id": "53c022c7-33ec-4fbe-aa36-5c5aacb5b862",
+                "name": "加拿村",
+                "lft": "9037",
+                "rght": "9038",
+                "population": "669",
+                "population_electors": "489",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546f277f-8b18-45e0-89fd-2f28cf91e152",
+                "keywords": "2014-11,村里長,臺東縣,海端鄉,加拿村"
+            }
+        }
+    ]
+}

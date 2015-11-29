@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b538f-ef1c-4d08-ac9e-1926acb5b862",
+            "election_id": "53c0234e-0478-4ba6-9248-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "916",
+            "name": "楊建雲",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "專科",
+            "is_present": false,
+            "name_english": "YANG CHIEN YUN",
+            "birth_place": "金馬地區",
+            "birth": "1964-08-27",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:33:51",
+            "modified": "2015-02-08 23:41:41"
+        },
+        "Election": {
+            "id": "53c0234e-0478-4ba6-9248-5c5aacb5b862",
+            "population_electors": "2524",
+            "population": "3103",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-0c34-4d00-98ef-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c0a-3068-4ff1-8b9f-5460acb5b862",
+                    "name": "德義里",
+                    "AreasElection": {
+                        "id": "53c0234e-53e8-4ac0-bd27-5c5aacb5b862",
+                        "Election_id": "53c0234e-0478-4ba6-9248-5c5aacb5b862",
+                        "Area_id": "53c01c0a-3068-4ff1-8b9f-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "桃園市",
+                "lft": "10439",
+                "rght": "11456",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02344-9b04-46f5-8e6f-5c5aacb5b862",
+                "parent_id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "name": "中壢區",
+                "lft": "10594",
+                "rght": "10765",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0234e-0478-4ba6-9248-5c5aacb5b862",
+                "parent_id": "53c02344-9b04-46f5-8e6f-5c5aacb5b862",
+                "name": "德義里",
+                "lft": "10721",
+                "rght": "10722",
+                "population": "3103",
+                "population_electors": "2524",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-0c34-4d00-98ef-1a32cf91e152",
+                "keywords": "2014-11,村里長,桃園市,中壢區,德義里"
+            }
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5659-7d70-4779-9837-1926acb5b862",
+            "election_id": "53c02315-c18c-4e62-8b17-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "67",
+            "name": "鄭宇宏",
+            "image": null,
+            "party": "人民民主陣線",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "fitzism0419@gmail.com",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "3",
+            "education_level": "大學",
+            "is_present": false,
+            "name_english": "Zheng Yu Hong",
+            "birth_place": "臺灣省",
+            "birth": "1987-04-19",
+            "platform": "",
+            "education": "基隆市東光國小\\n基隆市中正國中\\n國立基隆高級中學\\n真理大學－台灣文學系\\n國立台北教育大學－台灣文化研究所碩士班",
+            "experience": "",
+            "created": "2014-09-07 02:45:45",
+            "modified": "2015-02-08 23:45:33"
+        },
+        "Election": {
+            "id": "53c02315-c18c-4e62-8b17-5c5aacb5b862",
+            "population_electors": "2342",
+            "population": "2901",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546cd3af-f4ec-47ef-8426-78ebcf91e152",
+            "Area": [
+                {
+                    "id": "53c01de5-3c68-42e5-a0aa-5460acb5b862",
+                    "name": "孝德里",
+                    "AreasElection": {
+                        "id": "53c02315-da28-48bb-b352-5c5aacb5b862",
+                        "Election_id": "53c02315-c18c-4e62-8b17-5c5aacb5b862",
+                        "Area_id": "53c01de5-3c68-42e5-a0aa-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54130e32-8348-4521-9e6a-799ccb455a61",
+                "name": "2014人民民主陣線",
+                "CandidatesTag": {
+                    "id": "54130ecd-0f80-4f96-9c68-799bcb455a61",
+                    "Candidate_id": "540b5659-7d70-4779-9837-1926acb5b862",
+                    "Tag_id": "54130e32-8348-4521-9e6a-799ccb455a61"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "基隆市",
+                "lft": "9683",
+                "rght": "10012",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02311-b468-4eac-a0ef-5c5aacb5b862",
+                "parent_id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "name": "信義區",
+                "lft": "9970",
+                "rght": "10011",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02315-c18c-4e62-8b17-5c5aacb5b862",
+                "parent_id": "53c02311-b468-4eac-a0ef-5c5aacb5b862",
+                "name": "孝德里",
+                "lft": "10005",
+                "rght": "10006",
+                "population": "2901",
+                "population_electors": "2342",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546cd3af-f4ec-47ef-8426-78ebcf91e152",
+                "keywords": "2014-11,村里長,基隆市,信義區,孝德里"
+            }
+        }
+    ]
+}

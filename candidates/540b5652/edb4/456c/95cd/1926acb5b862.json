@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5652-edb4-456c-95cd-1926acb5b862",
+            "election_id": "53c0230b-7d1c-4826-844a-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "326",
+            "name": "曾瑞庭",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "TSENG Jui ting",
+            "birth_place": "臺灣省",
+            "birth": "1947-12-02",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:45:38",
+            "modified": "2015-02-08 23:45:32"
+        },
+        "Election": {
+            "id": "53c0230b-7d1c-4826-844a-5c5aacb5b862",
+            "population_electors": "963",
+            "population": "1093",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546cd3af-2cc0-47e0-b45d-78ebcf91e152",
+            "Area": [
+                {
+                    "id": "53c01ddc-b508-4d56-97c9-5460acb5b862",
+                    "name": "中山里",
+                    "AreasElection": {
+                        "id": "53c0230b-385c-4234-bd92-5c5aacb5b862",
+                        "Election_id": "53c0230b-7d1c-4826-844a-5c5aacb5b862",
+                        "Area_id": "53c01ddc-b508-4d56-97c9-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "基隆市",
+                "lft": "9683",
+                "rght": "10012",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0230a-853c-462a-94fe-5c5aacb5b862",
+                "parent_id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "name": "中山區",
+                "lft": "9868",
+                "rght": "9917",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0230b-7d1c-4826-844a-5c5aacb5b862",
+                "parent_id": "53c0230a-853c-462a-94fe-5c5aacb5b862",
+                "name": "中山里",
+                "lft": "9883",
+                "rght": "9884",
+                "population": "1093",
+                "population_electors": "963",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546cd3af-2cc0-47e0-b45d-78ebcf91e152",
+                "keywords": "2014-11,村里長,基隆市,中山區,中山里"
+            }
+        }
+    ]
+}

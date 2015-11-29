@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5579-bea8-4185-a684-1926acb5b862",
+            "election_id": "53c0221b-8b14-4e90-b681-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "633",
+            "name": "莊振村",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1943-11-24",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:42:01",
+            "modified": "2015-02-08 23:45:05"
+        },
+        "Election": {
+            "id": "53c0221b-8b14-4e90-b681-5c5aacb5b862",
+            "population_electors": "1892",
+            "population": "2103",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546edee5-df24-4de4-89c0-3ce1cf91e152",
+            "Area": [
+                {
+                    "id": "53c01d0e-9d60-4cf2-a9ee-5460acb5b862",
+                    "name": "蚊港村",
+                    "AreasElection": {
+                        "id": "53c0221c-8bdc-4775-9579-5c5aacb5b862",
+                        "Election_id": "53c0221b-8b14-4e90-b681-5c5aacb5b862",
+                        "Area_id": "53c01d0e-9d60-4cf2-a9ee-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "6201",
+                "rght": "7018",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0221a-b938-49e0-9bfa-5c5aacb5b862",
+                "parent_id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "name": "臺西鄉",
+                "lft": "6804",
+                "rght": "6835",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0221b-8b14-4e90-b681-5c5aacb5b862",
+                "parent_id": "53c0221a-b938-49e0-9bfa-5c5aacb5b862",
+                "name": "蚊港村",
+                "lft": "6827",
+                "rght": "6828",
+                "population": "2103",
+                "population_electors": "1892",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546edee5-df24-4de4-89c0-3ce1cf91e152",
+                "keywords": "2014-11,村里長,雲林縣,臺西鄉,蚊港村"
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02644-9658-4da4-8c8f-5dffacb5b862",
+            "election_id": "53c023b7-a264-4301-a53e-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "0",
+            "vote_count": "0",
+            "name": "陳啟東",
+            "image": null,
+            "party": null,
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": null,
+            "no": "0",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "0000-00-00 00:00:00"
+        },
+        "Election": {
+            "id": "53c023b7-a264-4301-a53e-5c5aacb5b862",
+            "population_electors": "5451",
+            "population": "6842",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-52b0-4b29-a06f-4187cf91e152",
+            "Area": [
+                {
+                    "id": "53c01e2d-1e18-4b45-94f5-5460acb5b862",
+                    "name": "興安里",
+                    "AreasElection": {
+                        "id": "53c023b7-680c-4d3a-ba16-5c5aacb5b862",
+                        "Election_id": "53c023b7-a264-4301-a53e-5c5aacb5b862",
+                        "Area_id": "53c01e2d-1e18-4b45-94f5-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023b4-de88-4969-afaa-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "文山區",
+                "lft": "11994",
+                "rght": "12081",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023b7-a264-4301-a53e-5c5aacb5b862",
+                "parent_id": "53c023b4-de88-4969-afaa-5c5aacb5b862",
+                "name": "興安里",
+                "lft": "12033",
+                "rght": "12034",
+                "population": "6842",
+                "population_electors": "5451",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-52b0-4b29-a06f-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,文山區,興安里"
+            }
+        }
+    ]
+}

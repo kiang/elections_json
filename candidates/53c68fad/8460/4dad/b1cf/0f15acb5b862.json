@@ -1,0 +1,134 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c68fad-8460-4dad-b1cf-0f15acb5b862",
+            "election_id": "53c400a6-a9e0-4fa7-a436-6cceacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "12670",
+            "name": "趙昆原",
+            "image": "548ac66c\/0630\/4e23\/8d87\/75ae6ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "06-6350081",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "730台南市新營區埤寮里中正路337號",
+            "links": "臉書 http:\/\/www.facebook.com\/profile.php?id=100001987798707",
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺南市",
+            "birth": "1956-03-26",
+            "platform": "",
+            "education": "新榮工商",
+            "experience": "第16屆台南縣議員",
+            "created": "2014-07-16 22:43:57",
+            "modified": "2015-02-08 23:40:26"
+        },
+        "Election": {
+            "id": "53c400a6-a9e0-4fa7-a436-6cceacb5b862",
+            "population_electors": "102153",
+            "population": "126476",
+            "quota": "4",
+            "quota_women": "1",
+            "bulletin_key": "5469b450-aae4-45b1-a528-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01fc0-584c-4443-8197-5460acb5b862",
+                    "name": "新營區",
+                    "AreasElection": {
+                        "id": "53c406ea-950c-4a21-b9dc-6dacacb5b862",
+                        "Election_id": "53c400a6-a9e0-4fa7-a436-6cceacb5b862",
+                        "Area_id": "53c01fc0-584c-4443-8197-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01fc5-b938-4f95-8a4f-5460acb5b862",
+                    "name": "鹽水區",
+                    "AreasElection": {
+                        "id": "53c406ea-1950-488b-9612-6dacacb5b862",
+                        "Election_id": "53c400a6-a9e0-4fa7-a436-6cceacb5b862",
+                        "Area_id": "53c01fc5-b938-4f95-8a4f-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01fcb-7528-49c0-a9f8-5460acb5b862",
+                    "name": "柳營區",
+                    "AreasElection": {
+                        "id": "53c406ea-f38c-4e1a-bd57-6dacacb5b862",
+                        "Election_id": "53c400a6-a9e0-4fa7-a436-6cceacb5b862",
+                        "Area_id": "53c01fcb-7528-49c0-a9f8-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207f-29bc-4258-90c0-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "臺南市",
+                "lft": "157",
+                "rght": "194",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c400a6-a9e0-4fa7-a436-6cceacb5b862",
+                "parent_id": "53c0207f-29bc-4258-90c0-5c5aacb5b862",
+                "name": "第02選區[區域]",
+                "lft": "160",
+                "rght": "161",
+                "population": "126476",
+                "population_electors": "102153",
+                "quota": "4",
+                "quota_women": "1",
+                "bulletin_key": "5469b450-aae4-45b1-a528-74a5cf91e152",
+                "keywords": "2014-11,直轄市議員,臺南市,第02選區[區域]"
+            }
+        }
+    ]
+}

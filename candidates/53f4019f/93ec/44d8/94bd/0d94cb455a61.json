@@ -1,0 +1,157 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53f4019f-93ec-44d8-94bd-0d94cb455a61",
+            "election_id": "53c023c2-4888-460a-877a-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1661",
+            "name": "鄭允強",
+            "image": "",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "2",
+            "education_level": "大學",
+            "is_present": false,
+            "name_english": "JENG YUN CHIANG",
+            "birth_place": "臺北市",
+            "birth": "1980-10-13",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-08-20 10:02:07",
+            "modified": "2015-02-08 23:40:35"
+        },
+        "Election": {
+            "id": "53c023c2-4888-460a-877a-5c5aacb5b862",
+            "population_electors": "4681",
+            "population": "5648",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-8b90-4e81-9d82-4187cf91e152",
+            "Area": [
+                {
+                    "id": "53c01e35-bf74-4f43-8ddf-5460acb5b862",
+                    "name": "金龍里",
+                    "AreasElection": {
+                        "id": "53c023c3-c334-4a44-9f43-5c5aacb5b862",
+                        "Election_id": "53c023c2-4888-460a-877a-5c5aacb5b862",
+                        "Area_id": "53c01e35-bf74-4f43-8ddf-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "5412ff6f-db88-40fb-a1bb-7204cb455a61",
+                "name": "2014民進黨「民主小草」",
+                "CandidatesTag": {
+                    "id": "5412ff99-cff8-4ec2-9212-7205cb455a61",
+                    "Candidate_id": "53f4019f-93ec-44d8-94bd-0d94cb455a61",
+                    "Tag_id": "5412ff6f-db88-40fb-a1bb-7204cb455a61"
+                }
+            },
+            {
+                "id": "5413037f-7514-40be-8e73-7204cb455a61",
+                "name": "2014大家來選村里長啟航秀",
+                "CandidatesTag": {
+                    "id": "541303cc-202c-4234-86e2-7204cb455a61",
+                    "Candidate_id": "53f4019f-93ec-44d8-94bd-0d94cb455a61",
+                    "Tag_id": "5413037f-7514-40be-8e73-7204cb455a61"
+                }
+            },
+            {
+                "id": "541f0273-6fac-4491-868d-53e8cb455a61",
+                "name": "2014青年佔領政治",
+                "CandidatesTag": {
+                    "id": "541f0571-4b38-4f34-b2fe-53e8cb455a61",
+                    "Candidate_id": "53f4019f-93ec-44d8-94bd-0d94cb455a61",
+                    "Tag_id": "541f0273-6fac-4491-868d-53e8cb455a61"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023c0-6e24-4314-83f8-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "內湖區",
+                "lft": "12124",
+                "rght": "12203",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023c2-4888-460a-877a-5c5aacb5b862",
+                "parent_id": "53c023c0-6e24-4314-83f8-5c5aacb5b862",
+                "name": "金龍里",
+                "lft": "12153",
+                "rght": "12154",
+                "population": "5648",
+                "population_electors": "4681",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-8b90-4e81-9d82-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,內湖區,金龍里"
+            }
+        }
+    ]
+}

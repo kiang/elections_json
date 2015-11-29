@@ -1,0 +1,134 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b568d-13d8-4cd5-b55c-1926acb5b862",
+            "election_id": "53c4009b-bd4c-4654-b74a-6cceacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "9426",
+            "name": "張正興",
+            "image": "5487e709\/f4a4\/49b6\/bca6\/48206ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "臉書 http:\/\/www.facebook.com\/pages\/%E5%8F%B0%E4%B8%AD%E5%B8%82%E8%AD%B0%E5%93%A1%E5%8F%83%E9%81%B8%E4%BA%BA-%E5%BC%B5%E6%AD%A3%E8%88%88-%E5%A4%A7%E8%82%9A%E7%83%8F%E6%97%A5%E9%BE%8D%E4%BA%95\/636101619796851",
+            "gender": "m",
+            "no": "5",
+            "education_level": "碩士",
+            "is_present": false,
+            "name_english": "Chang Cheng Hsing",
+            "birth_place": "臺中市",
+            "birth": "1968-03-29",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:46:37",
+            "modified": "2015-02-08 23:40:25"
+        },
+        "Election": {
+            "id": "53c4009b-bd4c-4654-b74a-6cceacb5b862",
+            "population_electors": "157514",
+            "population": "203284",
+            "quota": "5",
+            "quota_women": "1",
+            "bulletin_key": "546e068f-03fc-44c2-bda7-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01fad-1ce4-4dfa-8184-5460acb5b862",
+                    "name": "烏日區",
+                    "AreasElection": {
+                        "id": "53c406e7-2478-46f0-a7e0-6dacacb5b862",
+                        "Election_id": "53c4009b-bd4c-4654-b74a-6cceacb5b862",
+                        "Area_id": "53c01fad-1ce4-4dfa-8184-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01faf-2864-4396-8aa5-5460acb5b862",
+                    "name": "大肚區",
+                    "AreasElection": {
+                        "id": "53c406e7-4cdc-4ceb-8aa5-6dacacb5b862",
+                        "Election_id": "53c4009b-bd4c-4654-b74a-6cceacb5b862",
+                        "Area_id": "53c01faf-2864-4396-8aa5-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01fb1-be04-4414-a64b-5460acb5b862",
+                    "name": "龍井區",
+                    "AreasElection": {
+                        "id": "53c406e7-56ec-42b1-893b-6dacacb5b862",
+                        "Election_id": "53c4009b-bd4c-4654-b74a-6cceacb5b862",
+                        "Area_id": "53c01fb1-be04-4414-a64b-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207e-b9a4-405f-abaf-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "臺中市",
+                "lft": "123",
+                "rght": "156",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c4009b-bd4c-4654-b74a-6cceacb5b862",
+                "parent_id": "53c0207e-b9a4-405f-abaf-5c5aacb5b862",
+                "name": "第03選區[區域]",
+                "lft": "128",
+                "rght": "129",
+                "population": "203284",
+                "population_electors": "157514",
+                "quota": "5",
+                "quota_women": "1",
+                "bulletin_key": "546e068f-03fc-44c2-bda7-1a32cf91e152",
+                "keywords": "2014-11,直轄市議員,臺中市,第03選區[區域]"
+            }
+        }
+    ]
+}

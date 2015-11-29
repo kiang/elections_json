@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c027aa-5ae0-46cf-8e8b-5dffacb5b862",
+            "election_id": "53c0214d-e8e8-4231-b8df-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "859",
+            "name": "謝修鎰",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1961-05-10",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:44:35"
+        },
+        "Election": {
+            "id": "53c0214d-e8e8-4231-b8df-5c5aacb5b862",
+            "population_electors": "1261",
+            "population": "1556",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-fdd8-4978-8bfb-4187cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c65-d0a0-43da-8bb8-5460acb5b862",
+                    "name": "灣寶里",
+                    "AreasElection": {
+                        "id": "53c0214d-7a20-4fca-a41e-5c5aacb5b862",
+                        "Election_id": "53c0214d-e8e8-4231-b8df-5c5aacb5b862",
+                        "Area_id": "53c01c65-d0a0-43da-8bb8-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02135-5cc8-4f9d-a971-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "苗栗縣",
+                "lft": "3831",
+                "rght": "4416",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0214b-eb18-43e0-9566-5c5aacb5b862",
+                "parent_id": "53c02135-5cc8-4f9d-a971-5c5aacb5b862",
+                "name": "後龍鎮",
+                "lft": "4110",
+                "rght": "4157",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0214d-e8e8-4231-b8df-5c5aacb5b862",
+                "parent_id": "53c0214b-eb18-43e0-9566-5c5aacb5b862",
+                "name": "灣寶里",
+                "lft": "4137",
+                "rght": "4138",
+                "population": "1556",
+                "population_electors": "1261",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-fdd8-4978-8bfb-4187cf91e152",
+                "keywords": "2014-11,村里長,苗栗縣,後龍鎮,灣寶里"
+            }
+        }
+    ]
+}

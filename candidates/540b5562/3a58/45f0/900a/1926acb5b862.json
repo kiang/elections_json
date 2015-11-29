@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5562-3a58-45f0-900a-1926acb5b862",
+            "election_id": "53c021ff-ca28-46e8-8b31-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "761",
+            "name": "王文彰",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "專科",
+            "is_present": false,
+            "name_english": "WANG WEN ZHANG",
+            "birth_place": "臺灣省",
+            "birth": "1959-12-01",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:41:38",
+            "modified": "2015-02-08 23:45:01"
+        },
+        "Election": {
+            "id": "53c021ff-ca28-46e8-8b31-5c5aacb5b862",
+            "population_electors": "2315",
+            "population": "3246",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546ebd71-ed60-42df-98d9-2c67cf91e152",
+            "Area": [
+                {
+                    "id": "53c01cf7-56fc-4851-ba5a-5460acb5b862",
+                    "name": "石廟里",
+                    "AreasElection": {
+                        "id": "53c021ff-2a64-465e-a809-5c5aacb5b862",
+                        "Election_id": "53c021ff-ca28-46e8-8b31-5c5aacb5b862",
+                        "Area_id": "53c01cf7-56fc-4851-ba5a-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "6201",
+                "rght": "7018",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021fe-0d04-4f0d-b02a-5c5aacb5b862",
+                "parent_id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "name": "土庫鎮",
+                "lft": "6442",
+                "rght": "6477",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ff-ca28-46e8-8b31-5c5aacb5b862",
+                "parent_id": "53c021fe-0d04-4f0d-b02a-5c5aacb5b862",
+                "name": "石廟里",
+                "lft": "6455",
+                "rght": "6456",
+                "population": "3246",
+                "population_electors": "2315",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546ebd71-ed60-42df-98d9-2c67cf91e152",
+                "keywords": "2014-11,村里長,雲林縣,土庫鎮,石廟里"
+            }
+        }
+    ]
+}

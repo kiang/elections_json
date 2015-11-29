@@ -1,0 +1,161 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c68f8c-564c-4ae6-8434-0f15acb5b862",
+            "election_id": "53c411ca-dbd4-48d9-9fc7-6f55acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "0",
+            "vote_count": "0",
+            "name": "杜傳",
+            "image": "54964de8\/ea20\/4700\/8475\/179d6ab936af.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "08-7360477",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "902屏東縣霧臺鄉霧台村岩坂巷44號",
+            "links": "",
+            "gender": "f",
+            "no": "0",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-07-16 22:43:24",
+            "modified": "2014-12-21 13:09:14"
+        },
+        "Election": {
+            "id": "53c411ca-dbd4-48d9-9fc7-6f55acb5b862",
+            "population_electors": "4565",
+            "population": "5455",
+            "quota": "1",
+            "quota_women": "2",
+            "bulletin_key": "54742655-45d0-44db-a682-2d82cf91e152",
+            "Area": [
+                {
+                    "id": "53c01d8d-927c-425d-ab35-5460acb5b862",
+                    "name": "霧臺鄉",
+                    "AreasElection": {
+                        "id": "53c411cc-03a8-4432-9768-6f55acb5b862",
+                        "Election_id": "53c411ca-dbd4-48d9-9fc7-6f55acb5b862",
+                        "Area_id": "53c01d8d-927c-425d-ab35-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01d8e-01f0-4608-b6f7-5460acb5b862",
+                    "name": "佳暮村",
+                    "AreasElection": {
+                        "id": "53c411cc-2b80-4726-8daf-6f55acb5b862",
+                        "Election_id": "53c411ca-dbd4-48d9-9fc7-6f55acb5b862",
+                        "Area_id": "53c01d8e-01f0-4608-b6f7-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01d8e-044c-4d60-93bc-5460acb5b862",
+                    "name": "大武村",
+                    "AreasElection": {
+                        "id": "53c411cc-8124-4451-b9a3-6f55acb5b862",
+                        "Election_id": "53c411ca-dbd4-48d9-9fc7-6f55acb5b862",
+                        "Area_id": "53c01d8e-044c-4d60-93bc-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01d8e-702c-44d7-b4a7-5460acb5b862",
+                    "name": "吉露村",
+                    "AreasElection": {
+                        "id": "53c411cc-d840-4e5a-a0a8-6f55acb5b862",
+                        "Election_id": "53c411ca-dbd4-48d9-9fc7-6f55acb5b862",
+                        "Area_id": "53c01d8e-702c-44d7-b4a7-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01d8e-ac1c-4ac5-b64f-5460acb5b862",
+                    "name": "好茶村",
+                    "AreasElection": {
+                        "id": "53c411cc-8828-4182-bc39-6f55acb5b862",
+                        "Election_id": "53c411ca-dbd4-48d9-9fc7-6f55acb5b862",
+                        "Area_id": "53c01d8e-ac1c-4ac5-b64f-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01d8e-fb60-4a8c-941b-5460acb5b862",
+                    "name": "阿禮村",
+                    "AreasElection": {
+                        "id": "53c411cc-48b8-4276-8dda-6f55acb5b862",
+                        "Election_id": "53c411ca-dbd4-48d9-9fc7-6f55acb5b862",
+                        "Area_id": "53c01d8e-fb60-4a8c-941b-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "縣市議員",
+                "lft": "306",
+                "rght": "607",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02084-c98c-49f1-8e3f-5c5aacb5b862",
+                "parent_id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "467",
+                "rght": "500",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c411ca-dbd4-48d9-9fc7-6f55acb5b862",
+                "parent_id": "53c02084-c98c-49f1-8e3f-5c5aacb5b862",
+                "name": "第16選區[山地]",
+                "lft": "498",
+                "rght": "499",
+                "population": "5455",
+                "population_electors": "4565",
+                "quota": "1",
+                "quota_women": "2",
+                "bulletin_key": "54742655-45d0-44db-a682-2d82cf91e152",
+                "keywords": "2014-11,縣市議員,屏東縣,第16選區[山地]"
+            }
+        }
+    ]
+}

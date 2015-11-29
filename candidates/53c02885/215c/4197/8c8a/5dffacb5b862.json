@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02885-215c-4197-8c8a-5dffacb5b862",
+            "election_id": "53c02306-2364-4966-a29f-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1223",
+            "name": "林志堅",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "碩士",
+            "is_present": true,
+            "name_english": "LIN CHIH CHIEN",
+            "birth_place": "臺灣省",
+            "birth": "1947-12-16",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:45:31"
+        },
+        "Election": {
+            "id": "53c02306-2364-4966-a29f-5c5aacb5b862",
+            "population_electors": "2443",
+            "population": "3570",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c8095-0cdc-4e60-b6d9-61a3cf91e152",
+            "Area": [
+                {
+                    "id": "53c01dd7-fe10-49f4-8838-5460acb5b862",
+                    "name": "智仁里",
+                    "AreasElection": {
+                        "id": "53c02306-d2c8-4b05-aa07-5c5aacb5b862",
+                        "Election_id": "53c02306-2364-4966-a29f-5c5aacb5b862",
+                        "Area_id": "53c01dd7-fe10-49f4-8838-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "基隆市",
+                "lft": "9683",
+                "rght": "10012",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02305-2ab0-47c6-b70c-5c5aacb5b862",
+                "parent_id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "name": "仁愛區",
+                "lft": "9808",
+                "rght": "9867",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02306-2364-4966-a29f-5c5aacb5b862",
+                "parent_id": "53c02305-2ab0-47c6-b70c-5c5aacb5b862",
+                "name": "智仁里",
+                "lft": "9817",
+                "rght": "9818",
+                "population": "3570",
+                "population_electors": "2443",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c8095-0cdc-4e60-b6d9-61a3cf91e152",
+                "keywords": "2014-11,村里長,基隆市,仁愛區,智仁里"
+            }
+        }
+    ]
+}

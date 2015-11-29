@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "5406a607-f614-46e1-b034-15b8acb5b862",
+            "election_id": "53c02096-a048-43ca-8aa1-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "25829",
+            "name": "周義雄",
+            "image": "54479b32\/1380\/4649\/8545\/71ac8e043389.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "臉書 http:\/\/www.facebook.com\/yi.hsiung.chou",
+            "gender": "m",
+            "no": "1",
+            "education_level": "專科",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1957-11-18",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-03 13:24:23",
+            "modified": "2015-02-08 23:42:00"
+        },
+        "Election": {
+            "id": "53c02096-a048-43ca-8aa1-5c5aacb5b862",
+            "population_electors": "66654",
+            "population": "83232",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54735d56-0260-4ac5-a4fe-21eacf91e152",
+            "Area": [
+                {
+                    "id": "53c01ccb-4aa8-413d-9392-5460acb5b862",
+                    "name": "埔里鎮",
+                    "AreasElection": {
+                        "id": "53c02096-80a4-4f56-8f81-5c5aacb5b862",
+                        "Election_id": "53c02096-a048-43ca-8aa1-5c5aacb5b862",
+                        "Area_id": "53c01ccb-4aa8-413d-9392-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市長",
+                "lft": "608",
+                "rght": "1031",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02095-a5ac-446e-b87d-5c5aacb5b862",
+                "parent_id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "name": "南投縣",
+                "lft": "779",
+                "rght": "806",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02096-a048-43ca-8aa1-5c5aacb5b862",
+                "parent_id": "53c02095-a5ac-446e-b87d-5c5aacb5b862",
+                "name": "埔里鎮",
+                "lft": "782",
+                "rght": "783",
+                "population": "83232",
+                "population_electors": "66654",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54735d56-0260-4ac5-a4fe-21eacf91e152",
+                "keywords": "2014-11,鄉鎮市長,南投縣,埔里鎮"
+            }
+        }
+    ]
+}

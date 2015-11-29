@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c027e4-c144-4ddc-b8b7-5dffacb5b862",
+            "election_id": "53c021be-ab04-44bd-bede-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "0",
+            "vote_count": "0",
+            "name": "陳勝眾",
+            "image": "54632a57\/8ff0\/417e\/919a\/39088e043389.jpg",
+            "party": "",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "0",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "0000-00-00 00:00:00",
+            "modified": "2014-11-12 17:40:34"
+        },
+        "Election": {
+            "id": "53c021be-ab04-44bd-bede-5c5aacb5b862",
+            "population_electors": "619",
+            "population": "736",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-27e0-42a8-827d-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01cc4-ddcc-4ee8-aad6-5460acb5b862",
+                    "name": "內新村",
+                    "AreasElection": {
+                        "id": "53c021be-f968-42ba-bbbb-5c5aacb5b862",
+                        "Election_id": "53c021be-ab04-44bd-bede-5c5aacb5b862",
+                        "Area_id": "53c01cc4-ddcc-4ee8-aad6-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "4417",
+                "rght": "5648",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021bb-d020-46bc-b5a7-5c5aacb5b862",
+                "parent_id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "name": "竹塘鄉",
+                "lft": "5578",
+                "rght": "5607",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021be-ab04-44bd-bede-5c5aacb5b862",
+                "parent_id": "53c021bb-d020-46bc-b5a7-5c5aacb5b862",
+                "name": "內新村",
+                "lft": "5603",
+                "rght": "5604",
+                "population": "736",
+                "population_electors": "619",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-27e0-42a8-827d-74a5cf91e152",
+                "keywords": "2014-11,村里長,彰化縣,竹塘鄉,內新村"
+            }
+        }
+    ]
+}

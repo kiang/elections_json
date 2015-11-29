@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b55be-d424-4bf3-abce-1926acb5b862",
+            "election_id": "53c0227a-b978-4c4a-a5b0-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "523",
+            "name": "林成",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1955-09-24",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:43:10",
+            "modified": "2015-02-08 23:45:15"
+        },
+        "Election": {
+            "id": "53c0227a-b978-4c4a-a5b0-5c5aacb5b862",
+            "population_electors": "1534",
+            "population": "1903",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54773ba1-24e0-43b1-ba3c-1915cf91e152",
+            "Area": [
+                {
+                    "id": "53c01d63-6a78-4cab-b5f8-5460acb5b862",
+                    "name": "山海里",
+                    "AreasElection": {
+                        "id": "53c0227a-acd8-49e2-96ce-5c5aacb5b862",
+                        "Election_id": "53c0227a-b978-4c4a-a5b0-5c5aacb5b862",
+                        "Area_id": "53c01d63-6a78-4cab-b5f8-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "7771",
+                "rght": "8766",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02277-2344-4d2a-9bce-5c5aacb5b862",
+                "parent_id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "name": "恆春鎮",
+                "lft": "8024",
+                "rght": "8059",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0227a-b978-4c4a-a5b0-5c5aacb5b862",
+                "parent_id": "53c02277-2344-4d2a-9bce-5c5aacb5b862",
+                "name": "山海里",
+                "lft": "8053",
+                "rght": "8054",
+                "population": "1903",
+                "population_electors": "1534",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54773ba1-24e0-43b1-ba3c-1915cf91e152",
+                "keywords": "2014-11,村里長,屏東縣,恆春鎮,山海里"
+            }
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "558d4a26-4508-4f6d-aefa-111d6ab936af",
+            "election_id": "55086526-97a0-4c1e-be70-28956ab936af",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "0",
+            "name": "陳尚志",
+            "image": "56374e54\/7518\/4706\/979a\/2f616ab936af.jpg",
+            "party": "綠黨社會民主黨聯盟",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "臉書 https:\/\/www.facebook.com\/SCCSDP",
+            "gender": "m",
+            "no": null,
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": "0000-00-00",
+            "platform": "",
+            "education": "美國紐約雪城大學政治學博士\\n國立清華大學社會學碩士\\n國立中興法商學院法學士",
+            "experience": "現職：\\n國立中正大學政治學系助理教授\\n高等教育產業工會理事\\n人民作主教育基金會董事\\n\\n經歷：\\n台灣守護民主平台協會理事\\n慈林教育基金會台北辦公室主任\\n核四公投促進會執行",
+            "created": "2015-06-26 20:48:38",
+            "modified": "2015-11-29 03:28:35"
+        },
+        "Election": {
+            "id": "55086526-97a0-4c1e-be70-28956ab936af",
+            "population_electors": "0",
+            "population": "0",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "Area": [
+                {
+                    "id": "55085a1d-b328-41e4-8215-3584acb5b862",
+                    "name": "南港區",
+                    "AreasElection": {
+                        "id": "550a3b39-d1d0-48fc-a006-47cc6ab936af",
+                        "Election_id": "55086526-97a0-4c1e-be70-28956ab936af",
+                        "Area_id": "55085a1d-b328-41e4-8215-3584acb5b862"
+                    }
+                },
+                {
+                    "id": "55085a1e-d470-4cad-a477-3584acb5b862",
+                    "name": "內湖區",
+                    "AreasElection": {
+                        "id": "550a3b30-8b18-404a-b135-47cc6ab936af",
+                        "Election_id": "55086526-97a0-4c1e-be70-28956ab936af",
+                        "Area_id": "55085a1e-d470-4cad-a477-3584acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "551046e8-99d4-42f6-9550-5a6b6ab936af",
+                "name": "2016社會民主黨",
+                "CandidatesTag": {
+                    "id": "558d4a3a-d9fc-45fe-89f6-111d6ab936af",
+                    "Candidate_id": "558d4a26-4508-4f6d-aefa-111d6ab936af",
+                    "Tag_id": "551046e8-99d4-42f6-9550-5a6b6ab936af"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "55085db5-2e9c-4cde-8103-23d86ab936af",
+                "parent_id": null,
+                "name": "2016-01",
+                "lft": "40579",
+                "rght": "40780",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "55085e1a-c494-40e0-ba31-2f916ab936af",
+                "parent_id": "55085db5-2e9c-4cde-8103-23d86ab936af",
+                "name": "立法委員",
+                "lft": "40582",
+                "rght": "40779",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "5508628c-3f78-4969-bc3f-23d86ab936af",
+                "parent_id": "55085e1a-c494-40e0-ba31-2f916ab936af",
+                "name": "臺北市",
+                "lft": "40583",
+                "rght": "40600",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "55086526-97a0-4c1e-be70-28956ab936af",
+                "parent_id": "5508628c-3f78-4969-bc3f-23d86ab936af",
+                "name": "第04選區[區域]",
+                "lft": "40590",
+                "rght": "40591",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2016-01,立法委員,臺北市,第04選區[區域]"
+            }
+        }
+    ]
+}

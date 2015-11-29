@@ -1,0 +1,124 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "5406a602-d840-461d-bbb4-15b8acb5b862",
+            "election_id": "53c02090-00c0-46e0-b7aa-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1797",
+            "name": "賴癸章",
+            "image": "5495b674\/b76c\/434b\/b93f\/04256ab936af.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1945-12-20",
+            "platform": "",
+            "education": "台中商專夜間部",
+            "experience": "獅潭農會總幹事",
+            "created": "2014-09-03 13:24:18",
+            "modified": "2015-02-08 23:41:59"
+        },
+        "Election": {
+            "id": "53c02090-00c0-46e0-b7aa-5c5aacb5b862",
+            "population_electors": "4123",
+            "population": "4749",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-ba04-40fc-843b-4187cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c76-b19c-4129-8031-5460acb5b862",
+                    "name": "獅潭鄉",
+                    "AreasElection": {
+                        "id": "53c02090-2748-46c9-9d01-5c5aacb5b862",
+                        "Election_id": "53c02090-00c0-46e0-b7aa-5c5aacb5b862",
+                        "Area_id": "53c01c76-b19c-4129-8031-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54ab2bec-d414-4147-9106-2a7b6ab936af",
+                "name": "2014當選無效之訴-苗栗縣",
+                "CandidatesTag": {
+                    "id": "54ab2c26-d7a8-4be4-81cd-2a596ab936af",
+                    "Candidate_id": "5406a602-d840-461d-bbb4-15b8acb5b862",
+                    "Tag_id": "54ab2bec-d414-4147-9106-2a7b6ab936af"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市長",
+                "lft": "608",
+                "rght": "1031",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0208d-d5f8-4b58-82e9-5c5aacb5b862",
+                "parent_id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "name": "苗栗縣",
+                "lft": "687",
+                "rght": "724",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02090-00c0-46e0-b7aa-5c5aacb5b862",
+                "parent_id": "53c0208d-d5f8-4b58-82e9-5c5aacb5b862",
+                "name": "獅潭鄉",
+                "lft": "720",
+                "rght": "721",
+                "population": "4749",
+                "population_electors": "4123",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-ba04-40fc-843b-4187cf91e152",
+                "keywords": "2014-11,鄉鎮市長,苗栗縣,獅潭鄉"
+            }
+        }
+    ]
+}

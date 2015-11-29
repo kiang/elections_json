@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5340-76e4-4991-a25e-1926acb5b862",
+            "election_id": "53c024b1-4e00-4edb-b41b-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "649",
+            "name": "宋愛芝",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "SUNG AI CHI",
+            "birth_place": "新北市",
+            "birth": "1955-02-11",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:32:32",
+            "modified": "2015-02-08 23:41:00"
+        },
+        "Election": {
+            "id": "53c024b1-4e00-4edb-b41b-5c5aacb5b862",
+            "population_electors": "4260",
+            "population": "4910",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068c-4e90-45c6-9f96-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01f0a-fae4-46f1-a79b-5460acb5b862",
+                    "name": "榮和里",
+                    "AreasElection": {
+                        "id": "53c024b1-af44-4489-ae55-5c5aacb5b862",
+                        "Election_id": "53c024b1-4e00-4edb-b41b-5c5aacb5b862",
+                        "Area_id": "53c01f0a-fae4-46f1-a79b-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新北市",
+                "lft": "14261",
+                "rght": "16384",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c024ae-aed4-4408-9bc7-5c5aacb5b862",
+                "parent_id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "name": "新莊區",
+                "lft": "15070",
+                "rght": "15239",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c024b1-4e00-4edb-b41b-5c5aacb5b862",
+                "parent_id": "53c024ae-aed4-4408-9bc7-5c5aacb5b862",
+                "name": "榮和里",
+                "lft": "15117",
+                "rght": "15118",
+                "population": "4910",
+                "population_electors": "4260",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068c-4e90-45c6-9f96-1a32cf91e152",
+                "keywords": "2014-11,村里長,新北市,新莊區,榮和里"
+            }
+        }
+    ]
+}

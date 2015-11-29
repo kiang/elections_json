@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5644-8ad0-42fa-a075-1926acb5b862",
+            "election_id": "53c020ee-a034-40e1-8740-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "727",
+            "name": "楊龍傳",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "3",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "金馬地區",
+            "birth": "1968-01-31",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:45:24",
+            "modified": "2015-02-08 23:44:24"
+        },
+        "Election": {
+            "id": "53c020ee-a034-40e1-8740-5c5aacb5b862",
+            "population_electors": "4280",
+            "population": "5060",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "Area": [
+                {
+                    "id": "53c01bd5-b62c-413c-bc84-5460acb5b862",
+                    "name": "榜林村",
+                    "AreasElection": {
+                        "id": "53c020ee-10d8-41d7-9f08-5c5aacb5b862",
+                        "Election_id": "53c020ee-a034-40e1-8740-5c5aacb5b862",
+                        "Area_id": "53c01bd5-b62c-413c-bc84-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020e8-2910-4576-94cc-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "金門縣",
+                "lft": "2841",
+                "rght": "2928",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ed-8d68-4f2a-9c59-5c5aacb5b862",
+                "parent_id": "53c020e8-2910-4576-94cc-5c5aacb5b862",
+                "name": "金寧鄉",
+                "lft": "2896",
+                "rght": "2909",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ee-a034-40e1-8740-5c5aacb5b862",
+                "parent_id": "53c020ed-8d68-4f2a-9c59-5c5aacb5b862",
+                "name": "榜林村",
+                "lft": "2903",
+                "rght": "2904",
+                "population": "5060",
+                "population_electors": "4280",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2014-11,村里長,金門縣,金寧鄉,榜林村"
+            }
+        }
+    ]
+}

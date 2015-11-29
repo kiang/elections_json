@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "5406a60a-54e0-4d68-a620-15b8acb5b862",
+            "election_id": "53c02099-7914-47be-afb2-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "0",
+            "vote_count": "0",
+            "name": "張源鐘",
+            "image": "542ff3c5\/71f0\/4d77\/bb4a\/5cf9cb455a61.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "0",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "虎尾高中畢業",
+            "experience": "第17屆土庫鎮民代表 第15屆土庫鎮鎮長",
+            "created": "2014-09-03 13:24:26",
+            "modified": "2014-10-04 21:46:00"
+        },
+        "Election": {
+            "id": "53c02099-7914-47be-afb2-5c5aacb5b862",
+            "population_electors": "23862",
+            "population": "29759",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb720-c8d0-4d23-b7ca-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01cf6-26e0-4c6d-9e66-5460acb5b862",
+                    "name": "土庫鎮",
+                    "AreasElection": {
+                        "id": "53c02099-1c14-460c-9f62-5c5aacb5b862",
+                        "Election_id": "53c02099-7914-47be-afb2-5c5aacb5b862",
+                        "Area_id": "53c01cf6-26e0-4c6d-9e66-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市長",
+                "lft": "608",
+                "rght": "1031",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02098-ab7c-4d32-a6a1-5c5aacb5b862",
+                "parent_id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "807",
+                "rght": "848",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02099-7914-47be-afb2-5c5aacb5b862",
+                "parent_id": "53c02098-ab7c-4d32-a6a1-5c5aacb5b862",
+                "name": "土庫鎮",
+                "lft": "816",
+                "rght": "817",
+                "population": "29759",
+                "population_electors": "23862",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb720-c8d0-4d23-b7ca-2adbcf91e152",
+                "keywords": "2014-11,鄉鎮市長,雲林縣,土庫鎮"
+            }
+        }
+    ]
+}

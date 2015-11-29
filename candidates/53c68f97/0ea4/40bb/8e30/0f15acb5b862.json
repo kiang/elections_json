@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c68f97-0ea4-40bb-8e30-0f15acb5b862",
+            "election_id": "53c41018-1170-46cf-8cc4-6f55acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "0",
+            "vote_count": "0",
+            "name": "陳建光",
+            "image": "548702a2\/8838\/4906\/bcf6\/6fc06ab936af.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "0836-88168",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "211連江縣莒光鄉田沃村65-3號",
+            "links": "",
+            "gender": "m",
+            "no": "0",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "台北市立師範學院畢",
+            "experience": "連江縣第4屆縣議員",
+            "created": "2014-07-16 22:43:35",
+            "modified": "2014-12-09 14:46:20"
+        },
+        "Election": {
+            "id": "53c41018-1170-46cf-8cc4-6f55acb5b862",
+            "population_electors": "1225",
+            "population": "1418",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54742646-9640-49ee-9e72-2d82cf91e152",
+            "Area": [
+                {
+                    "id": "53c01bd0-e394-464e-a913-5460acb5b862",
+                    "name": "莒光鄉",
+                    "AreasElection": {
+                        "id": "53c41018-19fc-4b7a-9303-6f55acb5b862",
+                        "Election_id": "53c41018-1170-46cf-8cc4-6f55acb5b862",
+                        "Area_id": "53c01bd0-e394-464e-a913-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "縣市議員",
+                "lft": "306",
+                "rght": "607",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02082-791c-49fb-8b09-5c5aacb5b862",
+                "parent_id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "name": "連江縣",
+                "lft": "307",
+                "rght": "316",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c41018-1170-46cf-8cc4-6f55acb5b862",
+                "parent_id": "53c02082-791c-49fb-8b09-5c5aacb5b862",
+                "name": "第03選區[區域]",
+                "lft": "312",
+                "rght": "313",
+                "population": "1418",
+                "population_electors": "1225",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54742646-9640-49ee-9e72-2d82cf91e152",
+                "keywords": "2014-11,縣市議員,連江縣,第03選區[區域]"
+            }
+        }
+    ]
+}

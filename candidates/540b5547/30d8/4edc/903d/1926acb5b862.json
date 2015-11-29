@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5547-30d8-4edc-903d-1926acb5b862",
+            "election_id": "53c021dd-bcc8-4c56-9a63-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "140",
+            "name": "廖洲益",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1961-02-18",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:41:11",
+            "modified": "2015-02-08 23:44:51"
+        },
+        "Election": {
+            "id": "53c021dd-bcc8-4c56-9a63-5c5aacb5b862",
+            "population_electors": "473",
+            "population": "548",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "Area": [
+                {
+                    "id": "53c01cdc-4e88-4b66-9b79-5460acb5b862",
+                    "name": "崁頂村",
+                    "AreasElection": {
+                        "id": "53c021dd-6394-4a85-a655-5c5aacb5b862",
+                        "Election_id": "53c021dd-bcc8-4c56-9a63-5c5aacb5b862",
+                        "Area_id": "53c01cdc-4e88-4b66-9b79-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "南投縣",
+                "lft": "5649",
+                "rght": "6200",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021dc-486c-49bd-9fe5-5c5aacb5b862",
+                "parent_id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "name": "中寮鄉",
+                "lft": "6002",
+                "rght": "6039",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021dd-bcc8-4c56-9a63-5c5aacb5b862",
+                "parent_id": "53c021dc-486c-49bd-9fe5-5c5aacb5b862",
+                "name": "崁頂村",
+                "lft": "6007",
+                "rght": "6008",
+                "population": "548",
+                "population_electors": "473",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2014-11,村里長,南投縣,中寮鄉,崁頂村"
+            }
+        }
+    ]
+}

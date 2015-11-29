@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c027ac-8a20-4788-bfcb-5dffacb5b862",
+            "election_id": "53c02151-d774-4928-9c42-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "280",
+            "name": "廖金為",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1954-06-05",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:44:36"
+        },
+        "Election": {
+            "id": "53c02151-d774-4928-9c42-5c5aacb5b862",
+            "population_electors": "493",
+            "population": "571",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546d8dba-e6b0-4d0a-8b7d-0e51cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c69-b530-4053-bb0b-5460acb5b862",
+                    "name": "武榮村",
+                    "AreasElection": {
+                        "id": "53c02151-f268-49d7-b705-5c5aacb5b862",
+                        "Election_id": "53c02151-d774-4928-9c42-5c5aacb5b862",
+                        "Area_id": "53c01c69-b530-4053-bb0b-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02135-5cc8-4f9d-a971-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "苗栗縣",
+                "lft": "3831",
+                "rght": "4416",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02150-4ee4-4a2a-b413-5c5aacb5b862",
+                "parent_id": "53c02135-5cc8-4f9d-a971-5c5aacb5b862",
+                "name": "大湖鄉",
+                "lft": "4182",
+                "rght": "4207",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02151-d774-4928-9c42-5c5aacb5b862",
+                "parent_id": "53c02150-4ee4-4a2a-b413-5c5aacb5b862",
+                "name": "武榮村",
+                "lft": "4195",
+                "rght": "4196",
+                "population": "571",
+                "population_electors": "493",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546d8dba-e6b0-4d0a-8b7d-0e51cf91e152",
+                "keywords": "2014-11,村里長,苗栗縣,大湖鄉,武榮村"
+            }
+        }
+    ]
+}

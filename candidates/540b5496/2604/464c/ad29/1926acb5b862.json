@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5496-2604-464c-ad29-1926acb5b862",
+            "election_id": "53c0243f-cbfc-459d-965b-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "376",
+            "name": "滕明珠",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "1",
+            "education_level": "專科",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1958-12-23",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:38:14",
+            "modified": "2015-02-08 23:40:48"
+        },
+        "Election": {
+            "id": "53c0243f-cbfc-459d-965b-5c5aacb5b862",
+            "population_electors": "3289",
+            "population": "4191",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb721-55f0-48f7-8b14-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01ea0-e904-45b3-8436-5460acb5b862",
+                    "name": "協和里",
+                    "AreasElection": {
+                        "id": "53c0243f-ff24-409a-beba-5c5aacb5b862",
+                        "Election_id": "53c0243f-cbfc-459d-965b-5c5aacb5b862",
+                        "Area_id": "53c01ea0-e904-45b3-8436-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0243d-95c4-4cb5-bb05-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "岡山區",
+                "lft": "13692",
+                "rght": "13759",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0243f-cbfc-459d-965b-5c5aacb5b862",
+                "parent_id": "53c0243d-95c4-4cb5-bb05-5c5aacb5b862",
+                "name": "協和里",
+                "lft": "13719",
+                "rght": "13720",
+                "population": "4191",
+                "population_electors": "3289",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb721-55f0-48f7-8b14-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,岡山區,協和里"
+            }
+        }
+    ]
+}

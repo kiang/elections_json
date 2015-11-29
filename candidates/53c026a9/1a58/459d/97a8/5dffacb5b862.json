@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c026a9-1a58-459d-97a8-5dffacb5b862",
+            "election_id": "53c02491-b3c0-4ad2-b89d-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "730",
+            "name": "張清泉",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "新北市",
+            "birth": "1965-09-28",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:40:57"
+        },
+        "Election": {
+            "id": "53c02491-b3c0-4ad2-b89d-5c5aacb5b862",
+            "population_electors": "2180",
+            "population": "2743",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068c-e538-4dd4-91a2-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01eed-8d24-4719-a701-5460acb5b862",
+                    "name": "慈化里",
+                    "AreasElection": {
+                        "id": "53c02491-8050-43b2-90ca-5c5aacb5b862",
+                        "Election_id": "53c02491-b3c0-4ad2-b89d-5c5aacb5b862",
+                        "Area_id": "53c01eed-8d24-4719-a701-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新北市",
+                "lft": "14261",
+                "rght": "16384",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02480-1acc-4cf5-8b74-5c5aacb5b862",
+                "parent_id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "name": "三重區",
+                "lft": "14516",
+                "rght": "14755",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02491-b3c0-4ad2-b89d-5c5aacb5b862",
+                "parent_id": "53c02480-1acc-4cf5-8b74-5c5aacb5b862",
+                "name": "慈化里",
+                "lft": "14725",
+                "rght": "14726",
+                "population": "2743",
+                "population_electors": "2180",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068c-e538-4dd4-91a2-1a32cf91e152",
+                "keywords": "2014-11,村里長,新北市,三重區,慈化里"
+            }
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "565942c6-6c70-4816-8fda-2a3b6ab936af",
+            "election_id": "55086639-b968-414d-b79a-2f916ab936af",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "0",
+            "name": "林俊揚",
+            "image": null,
+            "party": "中華統一促進黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": null,
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": "0000-00-00",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2015-11-28 13:59:34",
+            "modified": "2015-11-29 03:28:36"
+        },
+        "Election": {
+            "id": "55086639-b968-414d-b79a-2f916ab936af",
+            "population_electors": "0",
+            "population": "0",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "Area": [
+                {
+                    "id": "55085a42-15b8-4cc5-b386-3584acb5b862",
+                    "name": "林園區",
+                    "AreasElection": {
+                        "id": "550a700b-0f2c-407f-8403-494a6ab936af",
+                        "Election_id": "55086639-b968-414d-b79a-2f916ab936af",
+                        "Area_id": "55085a42-15b8-4cc5-b386-3584acb5b862"
+                    }
+                },
+                {
+                    "id": "55085a44-fab0-46e9-b195-3584acb5b862",
+                    "name": "大寮區",
+                    "AreasElection": {
+                        "id": "550a700b-14d4-4f62-84bd-494a6ab936af",
+                        "Election_id": "55086639-b968-414d-b79a-2f916ab936af",
+                        "Area_id": "55085a44-fab0-46e9-b195-3584acb5b862"
+                    }
+                },
+                {
+                    "id": "55085a47-4c38-4e58-bf24-3584acb5b862",
+                    "name": "仁武區",
+                    "AreasElection": {
+                        "id": "550a700b-b7dc-4358-b476-494a6ab936af",
+                        "Election_id": "55086639-b968-414d-b79a-2f916ab936af",
+                        "Area_id": "55085a47-4c38-4e58-bf24-3584acb5b862"
+                    }
+                },
+                {
+                    "id": "55085a48-1144-4c87-9528-3584acb5b862",
+                    "name": "鳥松區",
+                    "AreasElection": {
+                        "id": "550a700b-cbe8-4c66-aad2-494a6ab936af",
+                        "Election_id": "55086639-b968-414d-b79a-2f916ab936af",
+                        "Area_id": "55085a48-1144-4c87-9528-3584acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "55085db5-2e9c-4cde-8103-23d86ab936af",
+                "parent_id": null,
+                "name": "2016-01",
+                "lft": "40579",
+                "rght": "40780",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "55085e1a-c494-40e0-ba31-2f916ab936af",
+                "parent_id": "55085db5-2e9c-4cde-8103-23d86ab936af",
+                "name": "立法委員",
+                "lft": "40582",
+                "rght": "40779",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "550862c1-4b2c-491f-8736-35296ab936af",
+                "parent_id": "55085e1a-c494-40e0-ba31-2f916ab936af",
+                "name": "高雄市",
+                "lft": "40657",
+                "rght": "40676",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "55086639-b968-414d-b79a-2f916ab936af",
+                "parent_id": "550862c1-4b2c-491f-8736-35296ab936af",
+                "name": "第04選區[區域]",
+                "lft": "40664",
+                "rght": "40665",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2016-01,立法委員,高雄市,第04選區[區域]"
+            }
+        }
+    ]
+}

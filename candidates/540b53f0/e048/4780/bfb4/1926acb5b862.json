@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b53f0-e048-4780-bfb4-1926acb5b862",
+            "election_id": "53c02585-54ec-4db9-8c1d-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "379",
+            "name": "葉進吉",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺中市",
+            "birth": "1967-08-25",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:35:28",
+            "modified": "2015-02-08 23:41:20"
+        },
+        "Election": {
+            "id": "53c02585-54ec-4db9-8c1d-5c5aacb5b862",
+            "population_electors": "1753",
+            "population": "2290",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546d8db9-8734-4bdb-a5f5-0e51cf91e152",
+            "Area": [
+                {
+                    "id": "53c01fb2-de84-4ade-9cf7-5460acb5b862",
+                    "name": "龍西里",
+                    "AreasElection": {
+                        "id": "53c02585-9e40-4404-ad9f-5c5aacb5b862",
+                        "Election_id": "53c02585-54ec-4db9-8c1d-5c5aacb5b862",
+                        "Area_id": "53c01fb2-de84-4ade-9cf7-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02583-39cc-4071-a546-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "龍井區",
+                "lft": "17464",
+                "rght": "17497",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02585-54ec-4db9-8c1d-5c5aacb5b862",
+                "parent_id": "53c02583-39cc-4071-a546-5c5aacb5b862",
+                "name": "龍西里",
+                "lft": "17483",
+                "rght": "17484",
+                "population": "2290",
+                "population_electors": "1753",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546d8db9-8734-4bdb-a5f5-0e51cf91e152",
+                "keywords": "2014-11,村里長,臺中市,龍井區,龍西里"
+            }
+        }
+    ]
+}

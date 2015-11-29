@@ -1,0 +1,124 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5816-7184-42ad-b0cd-1926acb5b862",
+            "election_id": "53c020a2-4e58-4861-8c0a-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "1822",
+            "name": "劉秋雪",
+            "image": "549682a3\/732c\/4654\/95a2\/219c6ab936af.jpg",
+            "party": "台灣團結聯盟",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "f",
+            "no": "1",
+            "education_level": "碩士",
+            "is_present": false,
+            "name_english": "LIU CHIU SHIEH",
+            "birth_place": "臺北市",
+            "birth": "1960-11-18",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:53:10",
+            "modified": "2015-02-08 23:42:02"
+        },
+        "Election": {
+            "id": "53c020a2-4e58-4861-8c0a-5c5aacb5b862",
+            "population_electors": "46142",
+            "population": "56250",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5475673a-857c-4c04-a700-0f78cf91e152",
+            "Area": [
+                {
+                    "id": "53c01d75-1f54-49eb-a9cc-5460acb5b862",
+                    "name": "內埔鄉",
+                    "AreasElection": {
+                        "id": "53c020a2-45e0-4518-bb1e-5c5aacb5b862",
+                        "Election_id": "53c020a2-4e58-4861-8c0a-5c5aacb5b862",
+                        "Area_id": "53c01d75-1f54-49eb-a9cc-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54130aa1-b290-463d-9ffd-79a1cb455a61",
+                "name": "2014台灣團結聯盟",
+                "CandidatesTag": {
+                    "id": "54130c7f-df14-4a66-b656-799bcb455a61",
+                    "Candidate_id": "540b5816-7184-42ad-b0cd-1926acb5b862",
+                    "Tag_id": "54130aa1-b290-463d-9ffd-79a1cb455a61"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市長",
+                "lft": "608",
+                "rght": "1031",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020a0-f5a4-4054-836f-5c5aacb5b862",
+                "parent_id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "887",
+                "rght": "954",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020a2-4e58-4861-8c0a-5c5aacb5b862",
+                "parent_id": "53c020a0-f5a4-4054-836f-5c5aacb5b862",
+                "name": "內埔鄉",
+                "lft": "912",
+                "rght": "913",
+                "population": "56250",
+                "population_electors": "46142",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5475673a-857c-4c04-a700-0f78cf91e152",
+                "keywords": "2014-11,鄉鎮市長,屏東縣,內埔鄉"
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c026f1-9ae0-44b4-a105-5dffacb5b862",
+            "election_id": "53c0253c-8df4-49b1-835e-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "3429",
+            "name": "田貴玉",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "TIEN KUEI YU",
+            "birth_place": "臺中市",
+            "birth": "1955-12-16",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:41:13"
+        },
+        "Election": {
+            "id": "53c0253c-8df4-49b1-835e-5c5aacb5b862",
+            "population_electors": "6514",
+            "population": "8439",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e0697-07f0-4f03-ad22-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01f79-df7c-4c95-8d7d-5460acb5b862",
+                    "name": "何成里",
+                    "AreasElection": {
+                        "id": "53c0253c-2c48-45f4-9e51-5c5aacb5b862",
+                        "Election_id": "53c0253c-8df4-49b1-835e-5c5aacb5b862",
+                        "Area_id": "53c01f79-df7c-4c95-8d7d-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02536-cbf0-4e8a-9a56-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "西屯區",
+                "lft": "16612",
+                "rght": "16691",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0253c-8df4-49b1-835e-5c5aacb5b862",
+                "parent_id": "53c02536-cbf0-4e8a-9a56-5c5aacb5b862",
+                "name": "何成里",
+                "lft": "16671",
+                "rght": "16672",
+                "population": "8439",
+                "population_electors": "6514",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e0697-07f0-4f03-ad22-1a32cf91e152",
+                "keywords": "2014-11,村里長,臺中市,西屯區,何成里"
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b55b7-31e4-453a-a47e-1926acb5b862",
+            "election_id": "53c02271-4fcc-4882-9b4c-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "1134",
+            "name": "陳秋季",
+            "image": null,
+            "party": "民主進步黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "Chen Chiu Chi",
+            "birth_place": "臺中市",
+            "birth": "1955-10-27",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:43:03",
+            "modified": "2015-02-08 23:45:14"
+        },
+        "Election": {
+            "id": "53c02271-4fcc-4882-9b4c-5c5aacb5b862",
+            "population_electors": "4579",
+            "population": "5840",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54773ba1-67f4-4d40-a4bd-1915cf91e152",
+            "Area": [
+                {
+                    "id": "53c01d5b-4ed0-4d55-9ea6-5460acb5b862",
+                    "name": "光華里",
+                    "AreasElection": {
+                        "id": "53c02271-1538-4d89-a423-5c5aacb5b862",
+                        "Election_id": "53c02271-4fcc-4882-9b4c-5c5aacb5b862",
+                        "Area_id": "53c01d5b-4ed0-4d55-9ea6-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "7771",
+                "rght": "8766",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02271-cb60-45f2-b009-5c5aacb5b862",
+                "parent_id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "name": "潮州鎮",
+                "lft": "7932",
+                "rght": "7975",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02271-4fcc-4882-9b4c-5c5aacb5b862",
+                "parent_id": "53c02271-cb60-45f2-b009-5c5aacb5b862",
+                "name": "光華里",
+                "lft": "7939",
+                "rght": "7940",
+                "population": "5840",
+                "population_electors": "4579",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54773ba1-67f4-4d40-a4bd-1915cf91e152",
+                "keywords": "2014-11,村里長,屏東縣,潮州鎮,光華里"
+            }
+        }
+    ]
+}

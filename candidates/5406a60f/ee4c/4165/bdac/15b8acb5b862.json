@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "5406a60f-ee4c-4165-bdac-15b8acb5b862",
+            "election_id": "53c020a0-600c-417a-bf81-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "0",
+            "vote_count": "0",
+            "name": "陳明利",
+            "image": "549f9c9d\/9b7c\/44a8\/a3a3\/4d6d6ab936af.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "0",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "淡江高中",
+            "experience": "農業推廣員、 村幹事、 課員、 課長",
+            "created": "2014-09-03 13:24:31",
+            "modified": "2014-12-28 14:17:04"
+        },
+        "Election": {
+            "id": "53c020a0-600c-417a-bf81-5c5aacb5b862",
+            "population_electors": "4510",
+            "population": "5757",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546ef559-5484-411f-8038-208ecf91e152",
+            "Area": [
+                {
+                    "id": "53c01d4e-59c8-4c98-aac2-5460acb5b862",
+                    "name": "阿里山鄉",
+                    "AreasElection": {
+                        "id": "53c020a0-b0e8-4f04-ad16-5c5aacb5b862",
+                        "Election_id": "53c020a0-600c-417a-bf81-5c5aacb5b862",
+                        "Area_id": "53c01d4e-59c8-4c98-aac2-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市長",
+                "lft": "608",
+                "rght": "1031",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0209c-b3c0-4999-93a6-5c5aacb5b862",
+                "parent_id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "name": "嘉義縣",
+                "lft": "849",
+                "rght": "886",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020a0-600c-417a-bf81-5c5aacb5b862",
+                "parent_id": "53c0209c-b3c0-4999-93a6-5c5aacb5b862",
+                "name": "阿里山鄉",
+                "lft": "884",
+                "rght": "885",
+                "population": "5757",
+                "population_electors": "4510",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546ef559-5484-411f-8038-208ecf91e152",
+                "keywords": "2014-11,鄉鎮市長,嘉義縣,阿里山鄉"
+            }
+        }
+    ]
+}

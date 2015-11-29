@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5489-e89c-4292-92db-1926acb5b862",
+            "election_id": "53c0242d-1d2c-4167-bc2e-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "571",
+            "name": "劉新發",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "3",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "LIU HSINFA",
+            "birth_place": "高雄市",
+            "birth": "1954-08-05",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:38:01",
+            "modified": "2015-02-08 23:40:46"
+        },
+        "Election": {
+            "id": "53c0242d-1d2c-4167-bc2e-5c5aacb5b862",
+            "population_electors": "1578",
+            "population": "1876",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb721-a998-4503-9571-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01e92-798c-4139-a85c-5460acb5b862",
+                    "name": "北汕里",
+                    "AreasElection": {
+                        "id": "53c0242d-d698-4cb1-85ce-5c5aacb5b862",
+                        "Election_id": "53c0242d-1d2c-4167-bc2e-5c5aacb5b862",
+                        "Area_id": "53c01e92-798c-4139-a85c-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0242c-ed2c-4d8f-885b-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "林園區",
+                "lft": "13482",
+                "rght": "13531",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0242d-1d2c-4167-bc2e-5c5aacb5b862",
+                "parent_id": "53c0242c-ed2c-4d8f-885b-5c5aacb5b862",
+                "name": "北汕里",
+                "lft": "13487",
+                "rght": "13488",
+                "population": "1876",
+                "population_electors": "1578",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb721-a998-4503-9571-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,林園區,北汕里"
+            }
+        }
+    ]
+}

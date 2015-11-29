@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02638-ae18-4fae-80c8-5dffacb5b862",
+            "election_id": "53c0239d-d554-45b3-9773-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "1377",
+            "name": "高榮宗",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺北市",
+            "birth": "1952-12-20",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:40:30"
+        },
+        "Election": {
+            "id": "53c0239d-d554-45b3-9773-5c5aacb5b862",
+            "population_electors": "5136",
+            "population": "6713",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-bb54-4ea2-af0e-4187cf91e152",
+            "Area": [
+                {
+                    "id": "53c01e17-04a4-4900-95bc-5460acb5b862",
+                    "name": "敦安里",
+                    "AreasElection": {
+                        "id": "53c0239d-1dfc-47df-9044-5c5aacb5b862",
+                        "Election_id": "53c0239d-d554-45b3-9773-5c5aacb5b862",
+                        "Area_id": "53c01e17-04a4-4900-95bc-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02396-dd04-4dbc-a350-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "大安區",
+                "lft": "11610",
+                "rght": "11717",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0239d-d554-45b3-9773-5c5aacb5b862",
+                "parent_id": "53c02396-dd04-4dbc-a350-5c5aacb5b862",
+                "name": "敦安里",
+                "lft": "11695",
+                "rght": "11696",
+                "population": "6713",
+                "population_electors": "5136",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-bb54-4ea2-af0e-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,大安區,敦安里"
+            }
+        }
+    ]
+}

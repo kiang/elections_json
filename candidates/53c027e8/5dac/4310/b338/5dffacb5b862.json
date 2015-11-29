@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c027e8-5dac-4310-b338-5dffacb5b862",
+            "election_id": "53c021c4-fc14-4050-8680-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "645",
+            "name": "曾丁萬",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1965-03-14",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:44:49"
+        },
+        "Election": {
+            "id": "53c021c4-fc14-4050-8680-5c5aacb5b862",
+            "population_electors": "1404",
+            "population": "1809",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54735d55-0c70-432c-aaea-21eacf91e152",
+            "Area": [
+                {
+                    "id": "53c01cca-3fb0-4c21-951c-5460acb5b862",
+                    "name": "內新里",
+                    "AreasElection": {
+                        "id": "53c021c4-0594-4433-a5cf-5c5aacb5b862",
+                        "Election_id": "53c021c4-fc14-4050-8680-5c5aacb5b862",
+                        "Area_id": "53c01cca-3fb0-4c21-951c-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "南投縣",
+                "lft": "5649",
+                "rght": "6200",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021c1-69c4-437a-95a1-5c5aacb5b862",
+                "parent_id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "name": "南投市",
+                "lft": "5650",
+                "rght": "5719",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021c4-fc14-4050-8680-5c5aacb5b862",
+                "parent_id": "53c021c1-69c4-437a-95a1-5c5aacb5b862",
+                "name": "內新里",
+                "lft": "5699",
+                "rght": "5700",
+                "population": "1809",
+                "population_electors": "1404",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54735d55-0c70-432c-aaea-21eacf91e152",
+                "keywords": "2014-11,村里長,南投縣,南投市,內新里"
+            }
+        }
+    ]
+}

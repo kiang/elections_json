@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b554b-3448-4c83-ab66-1926acb5b862",
+            "election_id": "53c021e6-2aec-4a29-8670-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "522",
+            "name": "林文賢",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "專科",
+            "is_present": false,
+            "name_english": "LIN WEN HSIEN",
+            "birth_place": "臺灣省",
+            "birth": "1954-02-02",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:41:15",
+            "modified": "2015-02-08 23:44:58"
+        },
+        "Election": {
+            "id": "53c021e6-2aec-4a29-8670-5c5aacb5b862",
+            "population_electors": "1564",
+            "population": "1886",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54735d55-8e44-479e-8006-21eacf91e152",
+            "Area": [
+                {
+                    "id": "53c01ce2-eabc-4cc5-9b94-5460acb5b862",
+                    "name": "新城村",
+                    "AreasElection": {
+                        "id": "53c021e6-3c80-4606-a2e7-5c5aacb5b862",
+                        "Election_id": "53c021e6-2aec-4a29-8670-5c5aacb5b862",
+                        "Area_id": "53c01ce2-eabc-4cc5-9b94-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "南投縣",
+                "lft": "5649",
+                "rght": "6200",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021e4-5858-45b3-9327-5c5aacb5b862",
+                "parent_id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "name": "水里鄉",
+                "lft": "6096",
+                "rght": "6135",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021e6-2aec-4a29-8670-5c5aacb5b862",
+                "parent_id": "53c021e4-5858-45b3-9327-5c5aacb5b862",
+                "name": "新城村",
+                "lft": "6117",
+                "rght": "6118",
+                "population": "1886",
+                "population_electors": "1564",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54735d55-8e44-479e-8006-21eacf91e152",
+                "keywords": "2014-11,村里長,南投縣,水里鄉,新城村"
+            }
+        }
+    ]
+}

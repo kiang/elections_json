@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5803-dc9c-423b-8cf2-1926acb5b862",
+            "election_id": "53c0208e-f864-4b8f-b085-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "2927",
+            "name": "李清枝",
+            "image": "5495ae57\/f780\/4a08\/991d\/02276ab936af.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "2",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1956-05-13",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:52:51",
+            "modified": "2015-02-08 23:41:59"
+        },
+        "Election": {
+            "id": "53c0208e-f864-4b8f-b085-5c5aacb5b862",
+            "population_electors": "8772",
+            "population": "10691",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-b884-4edf-985c-4187cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c6f-f8bc-4670-9b8e-5460acb5b862",
+                    "name": "南庄鄉",
+                    "AreasElection": {
+                        "id": "53c0208f-60b8-4c3a-a7cd-5c5aacb5b862",
+                        "Election_id": "53c0208e-f864-4b8f-b085-5c5aacb5b862",
+                        "Area_id": "53c01c6f-f8bc-4670-9b8e-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市長",
+                "lft": "608",
+                "rght": "1031",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0208d-d5f8-4b58-82e9-5c5aacb5b862",
+                "parent_id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "name": "苗栗縣",
+                "lft": "687",
+                "rght": "724",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0208e-f864-4b8f-b085-5c5aacb5b862",
+                "parent_id": "53c0208d-d5f8-4b58-82e9-5c5aacb5b862",
+                "name": "南庄鄉",
+                "lft": "708",
+                "rght": "709",
+                "population": "10691",
+                "population_electors": "8772",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-b884-4edf-985c-4187cf91e152",
+                "keywords": "2014-11,鄉鎮市長,苗栗縣,南庄鄉"
+            }
+        }
+    ]
+}

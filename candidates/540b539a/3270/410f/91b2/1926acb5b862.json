@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b539a-3270-410f-91b2-1926acb5b862",
+            "election_id": "53c0235e-1d64-47ec-bf16-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1105",
+            "name": "陳長江",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "CHEN CHANG CHIANG",
+            "birth_place": "臺灣省",
+            "birth": "1958-09-25",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:34:02",
+            "modified": "2015-02-08 23:41:43"
+        },
+        "Election": {
+            "id": "53c0235e-1d64-47ec-bf16-5c5aacb5b862",
+            "population_electors": "1597",
+            "population": "1974",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546f277e-9648-4b50-bc68-2f28cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c17-f0b0-4d63-93b9-5460acb5b862",
+                    "name": "坑子里",
+                    "AreasElection": {
+                        "id": "53c0235e-c860-4b60-8a43-5c5aacb5b862",
+                        "Election_id": "53c0235e-1d64-47ec-bf16-5c5aacb5b862",
+                        "Area_id": "53c01c17-f0b0-4d63-93b9-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "桃園市",
+                "lft": "10439",
+                "rght": "11456",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0235c-0b1c-400f-aebf-5c5aacb5b862",
+                "parent_id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "name": "蘆竹區",
+                "lft": "10906",
+                "rght": "10981",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0235e-1d64-47ec-bf16-5c5aacb5b862",
+                "parent_id": "53c0235c-0b1c-400f-aebf-5c5aacb5b862",
+                "name": "坑子里",
+                "lft": "10931",
+                "rght": "10932",
+                "population": "1974",
+                "population_electors": "1597",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546f277e-9648-4b50-bc68-2f28cf91e152",
+                "keywords": "2014-11,村里長,桃園市,蘆竹區,坑子里"
+            }
+        }
+    ]
+}

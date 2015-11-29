@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b53be-73d0-4c64-8898-1926acb5b862",
+            "election_id": "53c02529-a9a8-4132-a129-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "862",
+            "name": "楊居城",
+            "image": "",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "1",
+            "education_level": "專科",
+            "is_present": false,
+            "name_english": "YANG CHU CHENG",
+            "birth_place": "臺南市",
+            "birth": "1964-11-06",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:34:38",
+            "modified": "2015-02-08 23:41:11"
+        },
+        "Election": {
+            "id": "53c02529-a9a8-4132-a129-5c5aacb5b862",
+            "population_electors": "4110",
+            "population": "5170",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546d8db9-1d28-4d93-80b5-0e51cf91e152",
+            "Area": [
+                {
+                    "id": "53c01f6c-0314-45e4-8cf3-5460acb5b862",
+                    "name": "永和里",
+                    "AreasElection": {
+                        "id": "53c02529-3cec-40b0-a9cf-5c5aacb5b862",
+                        "Election_id": "53c02529-a9a8-4132-a129-5c5aacb5b862",
+                        "Area_id": "53c01f6c-0314-45e4-8cf3-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02527-079c-4f81-af96-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "南區",
+                "lft": "16440",
+                "rght": "16485",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02529-a9a8-4132-a129-5c5aacb5b862",
+                "parent_id": "53c02527-079c-4f81-af96-5c5aacb5b862",
+                "name": "永和里",
+                "lft": "16465",
+                "rght": "16466",
+                "population": "5170",
+                "population_electors": "4110",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546d8db9-1d28-4d93-80b5-0e51cf91e152",
+                "keywords": "2014-11,村里長,臺中市,南區,永和里"
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02756-f968-489a-9939-5dffacb5b862",
+            "election_id": "53c020f3-9050-42c5-932b-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1095",
+            "name": "劉正田",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1941-11-17",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:44:25"
+        },
+        "Election": {
+            "id": "53c020f3-9050-42c5-932b-5c5aacb5b862",
+            "population_electors": "2791",
+            "population": "3831",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-db84-44e4-b92a-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01bda-a044-43c5-b494-5460acb5b862",
+                    "name": "負郭里",
+                    "AreasElection": {
+                        "id": "53c020f3-8db4-4bca-ba37-5c5aacb5b862",
+                        "Election_id": "53c020f3-9050-42c5-932b-5c5aacb5b862",
+                        "Area_id": "53c01bda-a044-43c5-b494-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ef-6268-4b1a-a16d-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "宜蘭縣",
+                "lft": "2929",
+                "rght": "3420",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020f0-d280-4a34-8646-5c5aacb5b862",
+                "parent_id": "53c020ef-6268-4b1a-a16d-5c5aacb5b862",
+                "name": "宜蘭市",
+                "lft": "2930",
+                "rght": "3007",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020f3-9050-42c5-932b-5c5aacb5b862",
+                "parent_id": "53c020f0-d280-4a34-8646-5c5aacb5b862",
+                "name": "負郭里",
+                "lft": "2977",
+                "rght": "2978",
+                "population": "3831",
+                "population_electors": "2791",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-db84-44e4-b92a-2adbcf91e152",
+                "keywords": "2014-11,村里長,宜蘭縣,宜蘭市,負郭里"
+            }
+        }
+    ]
+}

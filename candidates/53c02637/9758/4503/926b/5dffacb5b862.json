@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02637-9758-4503-926b-5dffacb5b862",
+            "election_id": "53c0239b-d1d0-4e46-8171-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "2740",
+            "name": "翁鴻源",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1961-11-03",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:40:30"
+        },
+        "Election": {
+            "id": "53c0239b-d1d0-4e46-8171-5c5aacb5b862",
+            "population_electors": "5111",
+            "population": "6179",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-fa60-457b-b081-4187cf91e152",
+            "Area": [
+                {
+                    "id": "53c01e15-91f8-44e8-a1df-5460acb5b862",
+                    "name": "群賢里",
+                    "AreasElection": {
+                        "id": "53c0239b-1dbc-4a9c-a610-5c5aacb5b862",
+                        "Election_id": "53c0239b-d1d0-4e46-8171-5c5aacb5b862",
+                        "Area_id": "53c01e15-91f8-44e8-a1df-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02396-dd04-4dbc-a350-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "大安區",
+                "lft": "11610",
+                "rght": "11717",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0239b-d1d0-4e46-8171-5c5aacb5b862",
+                "parent_id": "53c02396-dd04-4dbc-a350-5c5aacb5b862",
+                "name": "群賢里",
+                "lft": "11673",
+                "rght": "11674",
+                "population": "6179",
+                "population_electors": "5111",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-fa60-457b-b081-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,大安區,群賢里"
+            }
+        }
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5746-ddb4-4282-8ef5-1926acb5b862",
+            "election_id": "53d73398-b608-4801-8c46-1299acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "446",
+            "name": "全文才",
+            "image": "54a2ab79\/465c\/4c30\/a3b9\/7a8a6ab936af.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "4",
+            "education_level": "大學",
+            "is_present": false,
+            "name_english": "CHUAN WEN TSAI",
+            "birth_place": "臺灣省",
+            "birth": "1963-03-25",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:49:42",
+            "modified": "2015-02-08 23:43:00"
+        },
+        "Election": {
+            "id": "53d73398-b608-4801-8c46-1299acb5b862",
+            "population_electors": "3070",
+            "population": "4279",
+            "quota": "3",
+            "quota_women": "0",
+            "bulletin_key": "54735d56-c9d4-49e2-8781-21eacf91e152",
+            "Area": [
+                {
+                    "id": "53c01ce3-c82c-49b9-8bb2-5460acb5b862",
+                    "name": "人和村",
+                    "AreasElection": {
+                        "id": "53d73399-d380-4f97-ae2e-1299acb5b862",
+                        "Election_id": "53d73398-b608-4801-8c46-1299acb5b862",
+                        "Area_id": "53c01ce3-c82c-49b9-8bb2-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01ce4-cc34-4b33-9d73-5460acb5b862",
+                    "name": "潭南村",
+                    "AreasElection": {
+                        "id": "53d73399-9ea0-4c08-a974-1299acb5b862",
+                        "Election_id": "53d73398-b608-4801-8c46-1299acb5b862",
+                        "Area_id": "53c01ce4-cc34-4b33-9d73-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01ce4-ff00-4b49-9cf8-5460acb5b862",
+                    "name": "地利村",
+                    "AreasElection": {
+                        "id": "53d73399-b5dc-406b-84ff-1299acb5b862",
+                        "Election_id": "53d73398-b608-4801-8c46-1299acb5b862",
+                        "Area_id": "53c01ce4-ff00-4b49-9cf8-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01ce5-387c-49b9-a669-5460acb5b862",
+                    "name": "雙龍村",
+                    "AreasElection": {
+                        "id": "53d73399-50f8-452f-a652-1299acb5b862",
+                        "Election_id": "53d73398-b608-4801-8c46-1299acb5b862",
+                        "Area_id": "53c01ce5-387c-49b9-a669-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020c2-2488-4d59-a20d-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "南投縣",
+                "lft": "1739",
+                "rght": "1864",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020c4-180c-48bb-b91b-5c5aacb5b862",
+                "parent_id": "53c020c2-2488-4d59-a20d-5c5aacb5b862",
+                "name": "信義鄉",
+                "lft": "1844",
+                "rght": "1853",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d73398-b608-4801-8c46-1299acb5b862",
+                "parent_id": "53c020c4-180c-48bb-b91b-5c5aacb5b862",
+                "name": "第04選舉區[區域]",
+                "lft": "1851",
+                "rght": "1852",
+                "population": "4279",
+                "population_electors": "3070",
+                "quota": "3",
+                "quota_women": "0",
+                "bulletin_key": "54735d56-c9d4-49e2-8781-21eacf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,南投縣,信義鄉,第04選舉區[區域]"
+            }
+        }
+    ]
+}

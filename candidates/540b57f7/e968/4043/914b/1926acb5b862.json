@@ -1,0 +1,148 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b57f7-e968-4043-914b-1926acb5b862",
+            "election_id": "53d734d5-38b8-4c31-acfc-1299acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "640",
+            "name": "許友峰",
+            "image": "548d5a5a\/46a0\/4515\/922a\/04466ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "1",
+            "education_level": "",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:52:39",
+            "modified": "2015-02-08 23:44:14"
+        },
+        "Election": {
+            "id": "53d734d5-38b8-4c31-acfc-1299acb5b862",
+            "population_electors": "3203",
+            "population": "3863",
+            "quota": "3",
+            "quota_women": "0",
+            "bulletin_key": "546e068f-ba90-434a-be3e-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01dcc-7780-4a58-8722-5460acb5b862",
+                    "name": "內垵村",
+                    "AreasElection": {
+                        "id": "53d734d5-2504-4f59-b902-1299acb5b862",
+                        "Election_id": "53d734d5-38b8-4c31-acfc-1299acb5b862",
+                        "Area_id": "53c01dcc-7780-4a58-8722-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01dcc-9b04-4918-b4a6-5460acb5b862",
+                    "name": "外垵村",
+                    "AreasElection": {
+                        "id": "53d734d5-2c0c-43bc-aee1-1299acb5b862",
+                        "Election_id": "53d734d5-38b8-4c31-acfc-1299acb5b862",
+                        "Area_id": "53c01dcc-9b04-4918-b4a6-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54ab2dcd-94e0-4474-ac8d-2ad56ab936af",
+                "name": "2014當選無效之訴-澎湖縣",
+                "CandidatesTag": {
+                    "id": "54abfd69-1d74-40b5-bcbf-59526ab936af",
+                    "Candidate_id": "540b57f7-e968-4043-914b-1926acb5b862",
+                    "Tag_id": "54ab2dcd-94e0-4474-ac8d-2ad56ab936af"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020df-ed64-4762-aa9a-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "澎湖縣",
+                "lft": "2731",
+                "rght": "2784",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020e1-9e80-46c6-924f-5c5aacb5b862",
+                "parent_id": "53c020df-ed64-4762-aa9a-5c5aacb5b862",
+                "name": "西嶼鄉",
+                "lft": "2760",
+                "rght": "2767",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d734d5-38b8-4c31-acfc-1299acb5b862",
+                "parent_id": "53c020e1-9e80-46c6-924f-5c5aacb5b862",
+                "name": "第03選舉區[區域]",
+                "lft": "2765",
+                "rght": "2766",
+                "population": "3863",
+                "population_electors": "3203",
+                "quota": "3",
+                "quota_women": "0",
+                "bulletin_key": "546e068f-ba90-434a-be3e-1a32cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,澎湖縣,西嶼鄉,第03選舉區[區域]"
+            }
+        }
+    ]
+}

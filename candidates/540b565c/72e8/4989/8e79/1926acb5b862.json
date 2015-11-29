@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b565c-72e8-4989-8e79-1926acb5b862",
+            "election_id": "53c0231c-1b50-4ece-af19-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "673",
+            "name": "廖世煒",
+            "image": "546823fc\/d9a0\/4ebb\/a342\/2b5d8e043389.jpg",
+            "party": "無",
+            "contacts_phone": "[手機]0928-885-911",
+            "contacts_fax": "",
+            "contacts_email": "lw206569@yahoo.com.tw",
+            "contacts_address": "[東區]明湖路648巷107號",
+            "links": "http:\/\/www.chaiqiao.tw\/",
+            "gender": "m",
+            "no": "3",
+            "education_level": "大學",
+            "is_present": false,
+            "name_english": "LIAO SHIH WEI",
+            "birth_place": "臺灣省",
+            "birth": "1950-09-22",
+            "platform": "種樹護樹：舉辦里民種樹活動，美化環境，愛護地球從種樹開始！\\n里民資訊網站：公佈柴橋里推動的事務及活動，里民可以透過網站隨時關心柴橋里的動態，並於網站回饋意見。\\n里政顧問團：邀請各社區管委會及熱心人士，組成里政顧問團，定時聚會，推動社區間的互動，集合大家力量讓柴橋里更好。\\n老人關懷站：舉辦社區型健康檢測活動、文康休閒活動、長青課程、健康講座等，提供老人休閒交朋友的好地方。\\n愛心廚房：爭取經費為獨居長者送餐，提供若是學童晚餐，及邀請社區銀髮共餐。",
+            "education": "新竹高級中學\\n中國文化大學法律學系畢業",
+            "experience": "國泰人壽展業處 經理\\n國泰人壽新竹教育中心 教導科長暨講師\\n新竹市東區柴橋社區發展協會 會計",
+            "created": "2014-09-07 02:45:48",
+            "modified": "2015-02-08 23:45:33"
+        },
+        "Election": {
+            "id": "53c0231c-1b50-4ece-af19-5c5aacb5b862",
+            "population_electors": "4564",
+            "population": "6016",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546b0806-3ab4-4f7c-993f-2ff0cf91e152",
+            "Area": [
+                {
+                    "id": "53c01deb-83d0-407b-aeed-5460acb5b862",
+                    "name": "柴橋里",
+                    "AreasElection": {
+                        "id": "53c0231c-cf00-4569-803d-5c5aacb5b862",
+                        "Election_id": "53c0231c-1b50-4ece-af19-5c5aacb5b862",
+                        "Area_id": "53c01deb-83d0-407b-aeed-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02315-1360-4e37-94d3-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新竹市",
+                "lft": "10013",
+                "rght": "10264",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02315-8c84-4b8b-86c3-5c5aacb5b862",
+                "parent_id": "53c02315-1360-4e37-94d3-5c5aacb5b862",
+                "name": "東區",
+                "lft": "10014",
+                "rght": "10121",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0231c-1b50-4ece-af19-5c5aacb5b862",
+                "parent_id": "53c02315-8c84-4b8b-86c3-5c5aacb5b862",
+                "name": "柴橋里",
+                "lft": "10073",
+                "rght": "10074",
+                "population": "6016",
+                "population_electors": "4564",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546b0806-3ab4-4f7c-993f-2ff0cf91e152",
+                "keywords": "2014-11,村里長,新竹市,東區,柴橋里"
+            }
+        }
+    ]
+}

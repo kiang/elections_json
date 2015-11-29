@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b563b-e3c4-41df-93ae-1926acb5b862",
+            "election_id": "53c022f3-5b40-4b0a-a468-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "41",
+            "name": "呂慶文",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1969-06-01",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:45:15",
+            "modified": "2015-02-08 23:45:29"
+        },
+        "Election": {
+            "id": "53c022f3-5b40-4b0a-a468-5c5aacb5b862",
+            "population_electors": "237",
+            "population": "292",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068e-9dc8-4c9a-bbfc-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01dc8-3b54-4410-ad47-5460acb5b862",
+                    "name": "城北村",
+                    "AreasElection": {
+                        "id": "53c022f3-6ea8-44f6-ba38-5c5aacb5b862",
+                        "Election_id": "53c022f3-5b40-4b0a-a468-5c5aacb5b862",
+                        "Area_id": "53c01dc8-3b54-4410-ad47-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022eb-48d4-448e-b49d-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "澎湖縣",
+                "lft": "9477",
+                "rght": "9682",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022f0-84a4-46c3-a580-5c5aacb5b862",
+                "parent_id": "53c022eb-48d4-448e-b49d-5c5aacb5b862",
+                "name": "湖西鄉",
+                "lft": "9546",
+                "rght": "9591",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022f3-5b40-4b0a-a468-5c5aacb5b862",
+                "parent_id": "53c022f0-84a4-46c3-a580-5c5aacb5b862",
+                "name": "城北村",
+                "lft": "9569",
+                "rght": "9570",
+                "population": "292",
+                "population_electors": "237",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068e-9dc8-4c9a-bbfc-1a32cf91e152",
+                "keywords": "2014-11,村里長,澎湖縣,湖西鄉,城北村"
+            }
+        }
+    ]
+}

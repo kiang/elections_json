@@ -1,0 +1,124 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c68f6f-08cc-4ec5-a406-0f15acb5b862",
+            "election_id": "53c41021-eae0-4573-bda1-6f55acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "6870",
+            "name": "吳宏謀",
+            "image": "54941e08\/4e6c\/44d8\/906e\/355a6ab936af.jpg",
+            "party": "民主進步黨",
+            "contacts_phone": "03-9886500",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "262宜蘭縣礁溪鄉大忠村礁溪路4段29號",
+            "links": "",
+            "gender": "m",
+            "no": "2",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "WU KUNG MOU",
+            "birth_place": "臺灣省",
+            "birth": "1950-08-15",
+            "platform": "",
+            "education": "中華高級工商職業學校畢業",
+            "experience": "第17屆宜蘭縣議員  礁溪鄉長。  礁溪鄉農會常務監事。  宜蘭農田水利會會員代表。  宜蘭縣攝影學會理事長。  宜蘭縣議會第十五、十六屆議員。  宜蘭縣議會民進黨團總召集人。  台灣省諮議會顧問。",
+            "created": "2014-07-16 22:42:55",
+            "modified": "2015-02-08 23:41:50"
+        },
+        "Election": {
+            "id": "53c41021-eae0-4573-bda1-6f55acb5b862",
+            "population_electors": "29577",
+            "population": "36018",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-e52c-46ec-8206-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01be6-6128-446f-9b49-5460acb5b862",
+                    "name": "礁溪鄉",
+                    "AreasElection": {
+                        "id": "53c41021-5da4-40fc-8036-6f55acb5b862",
+                        "Election_id": "53c41021-eae0-4573-bda1-6f55acb5b862",
+                        "Area_id": "53c01be6-6128-446f-9b49-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54131434-4b14-4c38-9445-2c85cb455a61",
+                "name": "2014台灣獨立建國選舉連線",
+                "CandidatesTag": {
+                    "id": "5450fbec-6590-4c81-8768-5a4d8e043389",
+                    "Candidate_id": "53c68f6f-08cc-4ec5-a406-0f15acb5b862",
+                    "Tag_id": "54131434-4b14-4c38-9445-2c85cb455a61"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "縣市議員",
+                "lft": "306",
+                "rght": "607",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02082-2c78-4b49-a547-5c5aacb5b862",
+                "parent_id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "name": "宜蘭縣",
+                "lft": "325",
+                "rght": "352",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c41021-eae0-4573-bda1-6f55acb5b862",
+                "parent_id": "53c02082-2c78-4b49-a547-5c5aacb5b862",
+                "name": "第03選區[區域]",
+                "lft": "330",
+                "rght": "331",
+                "population": "36018",
+                "population_electors": "29577",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-e52c-46ec-8206-2adbcf91e152",
+                "keywords": "2014-11,縣市議員,宜蘭縣,第03選區[區域]"
+            }
+        }
+    ]
+}

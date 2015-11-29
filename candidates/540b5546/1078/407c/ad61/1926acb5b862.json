@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5546-1078-407c-ad61-1926acb5b862",
+            "election_id": "53c021db-8f28-49bd-912b-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "247",
+            "name": "陳連潭",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "3",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "CHEN LIAN TAN",
+            "birth_place": "臺中市",
+            "birth": "1955-07-29",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:41:10",
+            "modified": "2015-02-08 23:44:51"
+        },
+        "Election": {
+            "id": "53c021db-8f28-49bd-912b-5c5aacb5b862",
+            "population_electors": "1936",
+            "population": "2263",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "Area": [
+                {
+                    "id": "53c01cd9-2a1c-46e4-98ca-5460acb5b862",
+                    "name": "廣興村",
+                    "AreasElection": {
+                        "id": "53c021db-4a90-4e62-aaef-5c5aacb5b862",
+                        "Election_id": "53c021db-8f28-49bd-912b-5c5aacb5b862",
+                        "Area_id": "53c01cd9-2a1c-46e4-98ca-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "南投縣",
+                "lft": "5649",
+                "rght": "6200",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021da-9dc8-4739-b2f6-5c5aacb5b862",
+                "parent_id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "name": "鹿谷鄉",
+                "lft": "5974",
+                "rght": "6001",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021db-8f28-49bd-912b-5c5aacb5b862",
+                "parent_id": "53c021da-9dc8-4739-b2f6-5c5aacb5b862",
+                "name": "廣興村",
+                "lft": "5975",
+                "rght": "5976",
+                "population": "2263",
+                "population_electors": "1936",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2014-11,村里長,南投縣,鹿谷鄉,廣興村"
+            }
+        }
+    ]
+}

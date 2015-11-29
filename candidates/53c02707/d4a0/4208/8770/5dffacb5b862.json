@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02707-d4a0-4208-8770-5dffacb5b862",
+            "election_id": "53c0256d-be64-432d-8230-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "2912",
+            "name": "藍耀庭",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺中市",
+            "birth": "1963-02-04",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:41:17"
+        },
+        "Election": {
+            "id": "53c0256d-be64-432d-8230-5c5aacb5b862",
+            "population_electors": "4869",
+            "population": "6416",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e0696-e0ec-4b05-8994-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01f9e-dc50-471a-a9e5-5460acb5b862",
+                    "name": "社南里",
+                    "AreasElection": {
+                        "id": "53c0256d-1fc8-4010-a77e-5c5aacb5b862",
+                        "Election_id": "53c0256d-be64-432d-8230-5c5aacb5b862",
+                        "Area_id": "53c01f9e-dc50-471a-a9e5-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0256c-fb5c-4d63-b2ba-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "神岡區",
+                "lft": "17194",
+                "rght": "17227",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0256d-be64-432d-8230-5c5aacb5b862",
+                "parent_id": "53c0256c-fb5c-4d63-b2ba-5c5aacb5b862",
+                "name": "社南里",
+                "lft": "17215",
+                "rght": "17216",
+                "population": "6416",
+                "population_electors": "4869",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e0696-e0ec-4b05-8994-1a32cf91e152",
+                "keywords": "2014-11,村里長,臺中市,神岡區,社南里"
+            }
+        }
+    ]
+}

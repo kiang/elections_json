@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b542c-4a5c-4fef-8502-1926acb5b862",
+            "election_id": "53c025ec-69b0-4581-acae-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "509",
+            "name": "謝騏聯",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "HSIEH CHI LIEN",
+            "birth_place": "臺南市",
+            "birth": "1954-05-20",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:36:28",
+            "modified": "2015-02-08 23:41:33"
+        },
+        "Election": {
+            "id": "53c025ec-69b0-4581-acae-5c5aacb5b862",
+            "population_electors": "1297",
+            "population": "1545",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "Area": [
+                {
+                    "id": "53c02000-f4b8-4e29-b622-5460acb5b862",
+                    "name": "中洲里",
+                    "AreasElection": {
+                        "id": "53c025ec-d5d4-4cef-9c6c-5c5aacb5b862",
+                        "Election_id": "53c025ec-69b0-4581-acae-5c5aacb5b862",
+                        "Area_id": "53c02000-f4b8-4e29-b622-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02598-fc40-4dee-aec0-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺南市",
+                "lft": "17695",
+                "rght": "19274",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c025e8-35f4-4953-9411-5c5aacb5b862",
+                "parent_id": "53c02598-fc40-4dee-aec0-5c5aacb5b862",
+                "name": "仁德區",
+                "lft": "18584",
+                "rght": "18621",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c025ec-69b0-4581-acae-5c5aacb5b862",
+                "parent_id": "53c025e8-35f4-4953-9411-5c5aacb5b862",
+                "name": "中洲里",
+                "lft": "18619",
+                "rght": "18620",
+                "population": "1545",
+                "population_electors": "1297",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2014-11,村里長,臺南市,仁德區,中洲里"
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c0267c-da38-4af6-aa68-5dffacb5b862",
+            "election_id": "53c0242a-61ac-45d2-8748-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1635",
+            "name": "謝吉原",
+            "image": null,
+            "party": "民主進步黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "高雄市",
+            "birth": "1952-02-20",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:40:46"
+        },
+        "Election": {
+            "id": "53c0242a-61ac-45d2-8748-5c5aacb5b862",
+            "population_electors": "4185",
+            "population": "5006",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb721-4e64-46cf-9fda-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01e90-1f08-4722-953c-5460acb5b862",
+                    "name": "中民里",
+                    "AreasElection": {
+                        "id": "53c0242a-3b00-4ec7-b687-5c5aacb5b862",
+                        "Election_id": "53c0242a-61ac-45d2-8748-5c5aacb5b862",
+                        "Area_id": "53c01e90-1f08-4722-953c-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02420-e624-4780-8ebc-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "鳳山區",
+                "lft": "13324",
+                "rght": "13481",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0242a-61ac-45d2-8748-5c5aacb5b862",
+                "parent_id": "53c02420-e624-4780-8ebc-5c5aacb5b862",
+                "name": "中民里",
+                "lft": "13453",
+                "rght": "13454",
+                "population": "5006",
+                "population_electors": "4185",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb721-4e64-46cf-9fda-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,鳳山區,中民里"
+            }
+        }
+    ]
+}

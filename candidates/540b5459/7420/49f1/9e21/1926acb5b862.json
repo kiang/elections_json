@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5459-7420-49f1-9e21-1926acb5b862",
+            "election_id": "53c023e7-790c-4009-9fbc-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "3130",
+            "name": "吳秀珠",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "WU HSIU CHU",
+            "birth_place": "高雄市",
+            "birth": "1959-10-18",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:37:13",
+            "modified": "2015-02-08 23:40:39"
+        },
+        "Election": {
+            "id": "53c023e7-790c-4009-9fbc-5c5aacb5b862",
+            "population_electors": "13518",
+            "population": "16735",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb720-9f50-42ae-9ab2-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01e5b-507c-4496-8c5a-5460acb5b862",
+                    "name": "翠屏里",
+                    "AreasElection": {
+                        "id": "53c023e8-022c-4e5c-96f0-5c5aacb5b862",
+                        "Election_id": "53c023e7-790c-4009-9fbc-5c5aacb5b862",
+                        "Area_id": "53c01e5b-507c-4496-8c5a-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023e6-e960-41e1-8ea1-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "楠梓區",
+                "lft": "12600",
+                "rght": "12675",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023e7-790c-4009-9fbc-5c5aacb5b862",
+                "parent_id": "53c023e6-e960-41e1-8ea1-5c5aacb5b862",
+                "name": "翠屏里",
+                "lft": "12617",
+                "rght": "12618",
+                "population": "16735",
+                "population_electors": "13518",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb720-9f50-42ae-9ab2-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,楠梓區,翠屏里"
+            }
+        }
+    ]
+}

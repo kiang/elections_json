@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c027ef-5ca8-49c5-975b-5dffacb5b862",
+            "election_id": "53c021d1-3b30-469d-a8c8-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1700",
+            "name": "簡宏校",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "Chien Hung Hsiao",
+            "birth_place": "臺灣省",
+            "birth": "1952-12-26",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:44:50"
+        },
+        "Election": {
+            "id": "53c021d1-3b30-469d-a8c8-5c5aacb5b862",
+            "population_electors": "2951",
+            "population": "3896",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "Area": [
+                {
+                    "id": "53c01cd2-9fa8-4e8b-b736-5460acb5b862",
+                    "name": "新厝里",
+                    "AreasElection": {
+                        "id": "53c021d1-9de4-44cb-b012-5c5aacb5b862",
+                        "Election_id": "53c021d1-3b30-469d-a8c8-5c5aacb5b862",
+                        "Area_id": "53c01cd2-9fa8-4e8b-b736-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "南投縣",
+                "lft": "5649",
+                "rght": "6200",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021cd-cfbc-47ba-93e0-5c5aacb5b862",
+                "parent_id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "name": "草屯鎮",
+                "lft": "5788",
+                "rght": "5843",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021d1-3b30-469d-a8c8-5c5aacb5b862",
+                "parent_id": "53c021cd-cfbc-47ba-93e0-5c5aacb5b862",
+                "name": "新厝里",
+                "lft": "5837",
+                "rght": "5838",
+                "population": "3896",
+                "population_electors": "2951",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2014-11,村里長,南投縣,草屯鎮,新厝里"
+            }
+        }
+    ]
+}

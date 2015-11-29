@@ -1,0 +1,125 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c68fa8-9524-4c86-b9bd-0f15acb5b862",
+            "election_id": "53c400a0-5300-49f1-bf55-6cceacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "15990",
+            "name": "張宏年",
+            "image": "5448fab6\/6d10\/4b8a\/9d6d\/13038e043389.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "04-23726250",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "403台中市西區公民里五權路2-101號",
+            "links": "臉書 http:\/\/www.facebook.com\/pages\/%E5%BC%B5%E5%AE%8F%E5%B9%B4%E5%8A%A0%E6%B2%B9YA\/129068427129496",
+            "gender": "m",
+            "no": "1",
+            "education_level": "碩士",
+            "is_present": true,
+            "name_english": "CHANG HUNG NIEN",
+            "birth_place": "臺中市",
+            "birth": "1952-02-10",
+            "platform": "",
+            "education": "臺中教育大學附屬小學畢業  臺中市二中初級部畢業  嶺東商專銀行保險科畢業  嶺東科技大學財務金融碩士",
+            "experience": "臺中市議會第十六屆議長  中國國民黨中央評議委員、中央委員、臺中市黨部委員  全國義警幹部聯誼會長  臺中市中區慈善會理事長  臺中市家扶中心顧問  財團法人臺中市幸天宮、奉順宮、均安宮董事長、順天宮榮譽董事長  臺中市議會第一屆議員",
+            "created": "2014-07-16 22:43:52",
+            "modified": "2015-02-08 23:40:25"
+        },
+        "Election": {
+            "id": "53c400a0-5300-49f1-bf55-6cceacb5b862",
+            "population_electors": "104760",
+            "population": "135091",
+            "quota": "3",
+            "quota_women": "0",
+            "bulletin_key": "546e068f-5950-4ddb-bacf-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01f65-5990-4387-ad82-5460acb5b862",
+                    "name": "中區",
+                    "AreasElection": {
+                        "id": "53c406e7-99b8-4b88-ac61-6dacacb5b862",
+                        "Election_id": "53c400a0-5300-49f1-bf55-6cceacb5b862",
+                        "Area_id": "53c01f65-5990-4387-ad82-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01f6d-0e58-40f7-8e1a-5460acb5b862",
+                    "name": "西區",
+                    "AreasElection": {
+                        "id": "53c406e7-489c-4888-a6b5-6dacacb5b862",
+                        "Election_id": "53c400a0-5300-49f1-bf55-6cceacb5b862",
+                        "Area_id": "53c01f6d-0e58-40f7-8e1a-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207e-b9a4-405f-abaf-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "臺中市",
+                "lft": "123",
+                "rght": "156",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c400a0-5300-49f1-bf55-6cceacb5b862",
+                "parent_id": "53c0207e-b9a4-405f-abaf-5c5aacb5b862",
+                "name": "第10選區[區域]",
+                "lft": "142",
+                "rght": "143",
+                "population": "135091",
+                "population_electors": "104760",
+                "quota": "3",
+                "quota_women": "0",
+                "bulletin_key": "546e068f-5950-4ddb-bacf-1a32cf91e152",
+                "keywords": "2014-11,直轄市議員,臺中市,第10選區[區域]"
+            }
+        }
+    ]
+}

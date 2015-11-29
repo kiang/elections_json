@@ -1,0 +1,125 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c68f74-68d4-4af0-990d-0f15acb5b862",
+            "election_id": "53c4037c-2f64-4f07-81ee-6d45acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "13080",
+            "name": "陳治文",
+            "image": "5440f5a9\/dde4\/4794\/bec4\/1f788e043389.jpg",
+            "party": "民主進步黨",
+            "contacts_phone": "03-3885633",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "335桃園縣大溪鎮中華路308號1號",
+            "links": "臉書 http:\/\/www.facebook.com\/pages\/%E9%99%B3%E6%B2%BB%E6%96%87\/176165839139272",
+            "gender": "f",
+            "no": "10",
+            "education_level": "碩士",
+            "is_present": false,
+            "name_english": "CHEN CHIH WEN",
+            "birth_place": "高雄市",
+            "birth": "1970-10-18",
+            "platform": "",
+            "education": "南亞技術學院",
+            "experience": "縣議員邱顯二服務處秘書",
+            "created": "2014-07-16 22:43:00",
+            "modified": "2015-02-08 23:40:27"
+        },
+        "Election": {
+            "id": "53c4037c-2f64-4f07-81ee-6d45acb5b862",
+            "population_electors": "79781",
+            "population": "102736",
+            "quota": "3",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-0138-466a-bbc0-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c0c-20c4-4826-86e1-5460acb5b862",
+                    "name": "大溪區",
+                    "AreasElection": {
+                        "id": "53c40822-b2dc-4144-9cdd-6e01acb5b862",
+                        "Election_id": "53c4037c-2f64-4f07-81ee-6d45acb5b862",
+                        "Area_id": "53c01c0c-20c4-4826-86e1-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01c36-77dc-4859-b5e0-5460acb5b862",
+                    "name": "復興區",
+                    "AreasElection": {
+                        "id": "53c40822-328c-4350-9616-6e01acb5b862",
+                        "Election_id": "53c4037c-2f64-4f07-81ee-6d45acb5b862",
+                        "Area_id": "53c01c36-77dc-4859-b5e0-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207d-ff5c-4dfe-98b5-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "桃園市",
+                "lft": "17",
+                "rght": "46",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c4037c-2f64-4f07-81ee-6d45acb5b862",
+                "parent_id": "53c0207d-ff5c-4dfe-98b5-5c5aacb5b862",
+                "name": "第06選區[區域]",
+                "lft": "28",
+                "rght": "29",
+                "population": "102736",
+                "population_electors": "79781",
+                "quota": "3",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-0138-466a-bbc0-1a32cf91e152",
+                "keywords": "2014-11,直轄市議員,桃園市,第06選區[區域]"
+            }
+        }
+    ]
+}

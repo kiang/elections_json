@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5649-11dc-49f0-ac0e-1926acb5b862",
+            "election_id": "53c02300-b4d8-486b-9e78-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1384",
+            "name": "王慧童",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "2",
+            "education_level": "專科",
+            "is_present": false,
+            "name_english": "WANG HUI TONG",
+            "birth_place": "臺灣省",
+            "birth": "1970-11-03",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:45:29",
+            "modified": "2015-02-08 23:45:30"
+        },
+        "Election": {
+            "id": "53c02300-b4d8-486b-9e78-5c5aacb5b862",
+            "population_electors": "4749",
+            "population": "5891",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c8095-3e8c-4e44-9e12-61a3cf91e152",
+            "Area": [
+                {
+                    "id": "53c01dd2-e988-47aa-9412-5460acb5b862",
+                    "name": "新豐里",
+                    "AreasElection": {
+                        "id": "53c02300-468c-46a1-99d8-5c5aacb5b862",
+                        "Election_id": "53c02300-b4d8-486b-9e78-5c5aacb5b862",
+                        "Area_id": "53c01dd2-e988-47aa-9412-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "基隆市",
+                "lft": "9683",
+                "rght": "10012",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022fb-fc9c-4742-8d91-5c5aacb5b862",
+                "parent_id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "name": "中正區",
+                "lft": "9684",
+                "rght": "9737",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02300-b4d8-486b-9e78-5c5aacb5b862",
+                "parent_id": "53c022fb-fc9c-4742-8d91-5c5aacb5b862",
+                "name": "新豐里",
+                "lft": "9733",
+                "rght": "9734",
+                "population": "5891",
+                "population_electors": "4749",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c8095-3e8c-4e44-9e12-61a3cf91e152",
+                "keywords": "2014-11,村里長,基隆市,中正區,新豐里"
+            }
+        }
+    ]
+}

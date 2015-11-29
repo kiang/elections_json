@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c027bc-1790-4910-89c6-5dffacb5b862",
+            "election_id": "53c02173-09c4-496e-82a7-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "639",
+            "name": "郭榮東",
+            "image": "545ce4f4\/bc3c\/4fe7\/b3f3\/74928e043389.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "2",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1950-03-05",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:44:40"
+        },
+        "Election": {
+            "id": "53c02173-09c4-496e-82a7-5c5aacb5b862",
+            "population_electors": "2060",
+            "population": "2590",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-23d8-402c-96e8-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c88-2a50-47f9-b80a-5460acb5b862",
+                    "name": "南佃里",
+                    "AreasElection": {
+                        "id": "53c02173-a928-434f-a9ea-5c5aacb5b862",
+                        "Election_id": "53c02173-09c4-496e-82a7-5c5aacb5b862",
+                        "Area_id": "53c01c88-2a50-47f9-b80a-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "4417",
+                "rght": "5648",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02172-2a38-4d0d-91b6-5c5aacb5b862",
+                "parent_id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "name": "和美鎮",
+                "lft": "4626",
+                "rght": "4691",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02173-09c4-496e-82a7-5c5aacb5b862",
+                "parent_id": "53c02172-2a38-4d0d-91b6-5c5aacb5b862",
+                "name": "南佃里",
+                "lft": "4647",
+                "rght": "4648",
+                "population": "2590",
+                "population_electors": "2060",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-23d8-402c-96e8-74a5cf91e152",
+                "keywords": "2014-11,村里長,彰化縣,和美鎮,南佃里"
+            }
+        }
+    ]
+}

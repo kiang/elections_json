@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c026b3-6d90-46f4-9a3e-5dffacb5b862",
+            "election_id": "53c024a8-54c8-4aa1-8bb5-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "2096",
+            "name": "游源潭",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "新北市",
+            "birth": "1959-11-01",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:40:59"
+        },
+        "Election": {
+            "id": "53c024a8-54c8-4aa1-8bb5-5c5aacb5b862",
+            "population_electors": "4116",
+            "population": "5206",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-e514-458b-a3c7-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01f03-7c8c-4cba-bdf4-5460acb5b862",
+                    "name": "潭安里",
+                    "AreasElection": {
+                        "id": "53c024a8-9e18-4e14-be6b-5c5aacb5b862",
+                        "Election_id": "53c024a8-54c8-4aa1-8bb5-5c5aacb5b862",
+                        "Area_id": "53c01f03-7c8c-4cba-bdf4-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新北市",
+                "lft": "14261",
+                "rght": "16384",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c024a3-a5b8-4809-908e-5c5aacb5b862",
+                "parent_id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "name": "永和區",
+                "lft": "14944",
+                "rght": "15069",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c024a8-54c8-4aa1-8bb5-5c5aacb5b862",
+                "parent_id": "53c024a3-a5b8-4809-908e-5c5aacb5b862",
+                "name": "潭安里",
+                "lft": "15007",
+                "rght": "15008",
+                "population": "5206",
+                "population_electors": "4116",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-e514-458b-a3c7-1a32cf91e152",
+                "keywords": "2014-11,村里長,新北市,永和區,潭安里"
+            }
+        }
+    ]
+}

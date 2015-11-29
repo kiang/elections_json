@@ -1,0 +1,124 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c68f75-5d10-4a62-bd5c-0f15acb5b862",
+            "election_id": "53c4037e-05d8-4352-bee3-6d45acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "15882",
+            "name": "陳賴素美",
+            "image": "55c1e86c\/3330\/42db\/b6fa\/03126ab936af.jpg",
+            "party": "民主進步黨",
+            "contacts_phone": "03-4785555",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "326桃園縣楊梅市新農街137號",
+            "links": "",
+            "gender": "f",
+            "no": "5",
+            "education_level": "大學",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1964-01-10",
+            "platform": "",
+            "education": "萬能科技大學企業管理系",
+            "experience": "桃園縣第十五屆縣議員  立法委員鄭寶清秘書",
+            "created": "2014-07-16 22:43:01",
+            "modified": "2015-08-05 18:42:32"
+        },
+        "Election": {
+            "id": "53c4037e-05d8-4352-bee3-6d45acb5b862",
+            "population_electors": "119307",
+            "population": "156818",
+            "quota": "4",
+            "quota_women": "1",
+            "bulletin_key": "546e068d-a874-4ba6-b765-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c10-124c-44af-ba9a-5460acb5b862",
+                    "name": "楊梅區",
+                    "AreasElection": {
+                        "id": "53c4096b-99f4-401e-b48c-6e44acb5b862",
+                        "Election_id": "53c4037e-05d8-4352-bee3-6d45acb5b862",
+                        "Area_id": "53c01c10-124c-44af-ba9a-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54df7334-51d0-4472-ad36-6c676ab936af",
+                "name": "2014當選隨即目標轉向立委",
+                "CandidatesTag": {
+                    "id": "54f9dbe0-fb68-4d74-a717-71676ab936af",
+                    "Candidate_id": "53c68f75-5d10-4a62-bd5c-0f15acb5b862",
+                    "Tag_id": "54df7334-51d0-4472-ad36-6c676ab936af"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207d-ff5c-4dfe-98b5-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "桃園市",
+                "lft": "17",
+                "rght": "46",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c4037e-05d8-4352-bee3-6d45acb5b862",
+                "parent_id": "53c0207d-ff5c-4dfe-98b5-5c5aacb5b862",
+                "name": "第09選區[區域]",
+                "lft": "34",
+                "rght": "35",
+                "population": "156818",
+                "population_electors": "119307",
+                "quota": "4",
+                "quota_women": "1",
+                "bulletin_key": "546e068d-a874-4ba6-b765-1a32cf91e152",
+                "keywords": "2014-11,直轄市議員,桃園市,第09選區[區域]"
+            }
+        }
+    ]
+}

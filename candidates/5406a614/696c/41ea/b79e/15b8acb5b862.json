@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "5406a614-696c-41ea-b79e-15b8acb5b862",
+            "election_id": "53c020a6-8c3c-45c9-8b9f-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "0",
+            "vote_count": "0",
+            "name": "黃瑞華",
+            "image": "54a8d89c\/4438\/4ff8\/888e\/2ba36ab936af.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "0",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "關山工商職業學校",
+            "experience": "關山鎮鎮長,關山鎮民代表會主席,台東縣農會常務監事,關山鎮農會理事長,月眉社區發展協會理事長,關山社區婦女防火宣導隊顧問團團長,關山義勇消防分隊顧問團副團長",
+            "created": "2014-09-03 13:24:36",
+            "modified": "2015-01-04 14:13:53"
+        },
+        "Election": {
+            "id": "53c020a6-8c3c-45c9-8b9f-5c5aacb5b862",
+            "population_electors": "7356",
+            "population": "9188",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546f277f-1ae0-450b-badb-2f28cf91e152",
+            "Area": [
+                {
+                    "id": "53c01d9c-bae4-44f5-b758-5460acb5b862",
+                    "name": "關山鎮",
+                    "AreasElection": {
+                        "id": "53c020a6-cc8c-4b79-bee9-5c5aacb5b862",
+                        "Election_id": "53c020a6-8c3c-45c9-8b9f-5c5aacb5b862",
+                        "Area_id": "53c01d9c-bae4-44f5-b758-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市長",
+                "lft": "608",
+                "rght": "1031",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020a5-ddcc-44df-8d3e-5c5aacb5b862",
+                "parent_id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "name": "臺東縣",
+                "lft": "955",
+                "rght": "988",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020a6-8c3c-45c9-8b9f-5c5aacb5b862",
+                "parent_id": "53c020a5-ddcc-44df-8d3e-5c5aacb5b862",
+                "name": "關山鎮",
+                "lft": "960",
+                "rght": "961",
+                "population": "9188",
+                "population_electors": "7356",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546f277f-1ae0-450b-badb-2f28cf91e152",
+                "keywords": "2014-11,鄉鎮市長,臺東縣,關山鎮"
+            }
+        }
+    ]
+}

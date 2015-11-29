@@ -1,0 +1,139 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5450-622c-4ebe-8567-1926acb5b862",
+            "election_id": "53c023dd-0b64-4a42-a679-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "2093",
+            "name": "洪秋薇",
+            "image": null,
+            "party": "台灣團結聯盟",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "2",
+            "education_level": "專科",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1965-05-19",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:37:04",
+            "modified": "2015-02-08 23:40:38"
+        },
+        "Election": {
+            "id": "53c023dd-0b64-4a42-a679-5c5aacb5b862",
+            "population_electors": "16570",
+            "population": "23021",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb720-bb24-466c-98cf-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01e52-c5f4-434a-80fb-5460acb5b862",
+                    "name": "龍水里",
+                    "AreasElection": {
+                        "id": "53c023dd-8544-46a9-8219-5c5aacb5b862",
+                        "Election_id": "53c023dd-0b64-4a42-a679-5c5aacb5b862",
+                        "Area_id": "53c01e52-c5f4-434a-80fb-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54130aa1-b290-463d-9ffd-79a1cb455a61",
+                "name": "2014台灣團結聯盟",
+                "CandidatesTag": {
+                    "id": "54130ca3-2b58-462c-970b-79a1cb455a61",
+                    "Candidate_id": "540b5450-622c-4ebe-8567-1926acb5b862",
+                    "Tag_id": "54130aa1-b290-463d-9ffd-79a1cb455a61"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d9-deb4-411d-9232-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "鼓山區",
+                "lft": "12440",
+                "rght": "12517",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023dd-0b64-4a42-a679-5c5aacb5b862",
+                "parent_id": "53c023d9-deb4-411d-9232-5c5aacb5b862",
+                "name": "龍水里",
+                "lft": "12483",
+                "rght": "12484",
+                "population": "23021",
+                "population_electors": "16570",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb720-bb24-466c-98cf-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,鼓山區,龍水里"
+            }
+        }
+    ]
+}

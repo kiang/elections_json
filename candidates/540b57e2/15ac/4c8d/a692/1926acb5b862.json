@@ -1,0 +1,139 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b57e2-15ac-4c8d-a692-1926acb5b862",
+            "election_id": "53d73488-f710-422e-b8af-1299acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "373",
+            "name": "楊世光",
+            "image": "54b25bb9\/a8b4\/4659\/a912\/19dd6ab936af.jpg",
+            "party": "台灣第一民族黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "8",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:52:18",
+            "modified": "2015-02-08 23:44:21"
+        },
+        "Election": {
+            "id": "53d73488-f710-422e-b8af-1299acb5b862",
+            "population_electors": "12528",
+            "population": "15006",
+            "quota": "6",
+            "quota_women": "1",
+            "bulletin_key": "546f277f-3bc0-4348-8a14-2f28cf91e152",
+            "Area": [
+                {
+                    "id": "53c01d9b-149c-4a14-8829-5460acb5b862",
+                    "name": "成功鎮",
+                    "AreasElection": {
+                        "id": "53d73488-1c68-454c-8c26-1299acb5b862",
+                        "Election_id": "53d73488-f710-422e-b8af-1299acb5b862",
+                        "Area_id": "53c01d9b-149c-4a14-8829-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "5413108f-c178-4e11-811e-2c4dcb455a61",
+                "name": "2014台灣第一民族黨",
+                "CandidatesTag": {
+                    "id": "541310ab-0cf0-441a-938a-2c88cb455a61",
+                    "Candidate_id": "540b57e2-15ac-4c8d-a692-1926acb5b862",
+                    "Tag_id": "5413108f-c178-4e11-811e-2c4dcb455a61"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020d9-a97c-4d95-809d-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "臺東縣",
+                "lft": "2485",
+                "rght": "2612",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020da-e0e4-4f70-9be3-5c5aacb5b862",
+                "parent_id": "53c020d9-a97c-4d95-809d-5c5aacb5b862",
+                "name": "成功鎮",
+                "lft": "2498",
+                "rght": "2503",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d73488-f710-422e-b8af-1299acb5b862",
+                "parent_id": "53c020da-e0e4-4f70-9be3-5c5aacb5b862",
+                "name": "第02選舉區[平地]",
+                "lft": "2501",
+                "rght": "2502",
+                "population": "15006",
+                "population_electors": "12528",
+                "quota": "6",
+                "quota_women": "1",
+                "bulletin_key": "546f277f-3bc0-4348-8a14-2f28cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,臺東縣,成功鎮,第02選舉區[平地]"
+            }
+        }
+    ]
+}

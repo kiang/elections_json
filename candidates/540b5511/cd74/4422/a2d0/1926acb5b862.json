@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5511-cd74-4422-a2d0-1926acb5b862",
+            "election_id": "53c02190-baf0-4186-854e-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1016",
+            "name": "蔡福助",
+            "image": "55d9ce32\/f4ec\/4639\/8486\/772c6ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "2",
+            "education_level": "專科",
+            "is_present": false,
+            "name_english": "TSAI FU CHU",
+            "birth_place": "臺灣省",
+            "birth": "1973-07-28",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:40:17",
+            "modified": "2015-08-23 21:44:23"
+        },
+        "Election": {
+            "id": "53c02190-baf0-4186-854e-5c5aacb5b862",
+            "population_electors": "2139",
+            "population": "2688",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-0d18-46b7-a19e-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c9f-bfdc-4f36-abe2-5460acb5b862",
+                    "name": "西勢里",
+                    "AreasElection": {
+                        "id": "53c02190-9a24-447b-8966-5c5aacb5b862",
+                        "Election_id": "53c02190-baf0-4186-854e-5c5aacb5b862",
+                        "Area_id": "53c01c9f-bfdc-4f36-abe2-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "4417",
+                "rght": "5648",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0218d-3148-4577-a9b6-5c5aacb5b862",
+                "parent_id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "name": "溪湖鎮",
+                "lft": "4970",
+                "rght": "5021",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02190-baf0-4186-854e-5c5aacb5b862",
+                "parent_id": "53c0218d-3148-4577-a9b6-5c5aacb5b862",
+                "name": "西勢里",
+                "lft": "5017",
+                "rght": "5018",
+                "population": "2688",
+                "population_electors": "2139",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-0d18-46b7-a19e-74a5cf91e152",
+                "keywords": "2014-11,村里長,彰化縣,溪湖鎮,西勢里"
+            }
+        }
+    ]
+}

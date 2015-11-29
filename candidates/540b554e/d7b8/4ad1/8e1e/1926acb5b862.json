@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b554e-d7b8-4ad1-8e1e-1926acb5b862",
+            "election_id": "53c021e7-7b74-4fa8-bf5f-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "174",
+            "name": "司貴美",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "1",
+            "education_level": "專科",
+            "is_present": false,
+            "name_english": "SG QUEG MEEI",
+            "birth_place": "臺灣省",
+            "birth": "1953-05-21",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:41:18",
+            "modified": "2015-02-08 23:44:58"
+        },
+        "Election": {
+            "id": "53c021e7-7b74-4fa8-bf5f-5c5aacb5b862",
+            "population_electors": "1327",
+            "population": "1759",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "Area": [
+                {
+                    "id": "53c01ce4-429c-4979-8c2f-5460acb5b862",
+                    "name": "羅娜村",
+                    "AreasElection": {
+                        "id": "53c021e7-872c-46b9-98cd-5c5aacb5b862",
+                        "Election_id": "53c021e7-7b74-4fa8-bf5f-5c5aacb5b862",
+                        "Area_id": "53c01ce4-429c-4979-8c2f-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "南投縣",
+                "lft": "5649",
+                "rght": "6200",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021e7-dea4-4923-950b-5c5aacb5b862",
+                "parent_id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "name": "信義鄉",
+                "lft": "6136",
+                "rght": "6165",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021e7-7b74-4fa8-bf5f-5c5aacb5b862",
+                "parent_id": "53c021e7-dea4-4923-950b-5c5aacb5b862",
+                "name": "羅娜村",
+                "lft": "6145",
+                "rght": "6146",
+                "population": "1759",
+                "population_electors": "1327",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2014-11,村里長,南投縣,信義鄉,羅娜村"
+            }
+        }
+    ]
+}

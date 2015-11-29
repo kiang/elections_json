@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5632-822c-4def-afbc-1926acb5b862",
+            "election_id": "53c022c8-d030-4727-aa26-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "210",
+            "name": "余榮勝",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1965-04-17",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:45:06",
+            "modified": "2015-02-08 23:45:24"
+        },
+        "Election": {
+            "id": "53c022c8-d030-4727-aa26-5c5aacb5b862",
+            "population_electors": "557",
+            "population": "738",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546f277f-0570-4c93-8dac-2f28cf91e152",
+            "Area": [
+                {
+                    "id": "53c01da7-8cd4-4ab2-89b3-5460acb5b862",
+                    "name": "武陵村",
+                    "AreasElection": {
+                        "id": "53c022c9-257c-4544-af29-5c5aacb5b862",
+                        "Election_id": "53c022c8-d030-4727-aa26-5c5aacb5b862",
+                        "Area_id": "53c01da7-8cd4-4ab2-89b3-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022b2-b9f0-4517-825f-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺東縣",
+                "lft": "8767",
+                "rght": "9094",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022c8-f390-47a4-9d88-5c5aacb5b862",
+                "parent_id": "53c022b2-b9f0-4517-825f-5c5aacb5b862",
+                "name": "延平鄉",
+                "lft": "9046",
+                "rght": "9057",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022c8-d030-4727-aa26-5c5aacb5b862",
+                "parent_id": "53c022c8-f390-47a4-9d88-5c5aacb5b862",
+                "name": "武陵村",
+                "lft": "9051",
+                "rght": "9052",
+                "population": "738",
+                "population_electors": "557",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546f277f-0570-4c93-8dac-2f28cf91e152",
+                "keywords": "2014-11,村里長,臺東縣,延平鄉,武陵村"
+            }
+        }
+    ]
+}

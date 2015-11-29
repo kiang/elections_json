@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02863-7e40-48a9-8dac-5dffacb5b862",
+            "election_id": "53c022bf-d5e8-4f52-9cfd-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "259",
+            "name": "陳光湧",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1963-10-05",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:45:23"
+        },
+        "Election": {
+            "id": "53c022bf-d5e8-4f52-9cfd-5c5aacb5b862",
+            "population_electors": "885",
+            "population": "1096",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546f277f-3c98-49c6-8e63-2f28cf91e152",
+            "Area": [
+                {
+                    "id": "53c01d9f-82e0-432a-aab3-5460acb5b862",
+                    "name": "瑞源村",
+                    "AreasElection": {
+                        "id": "53c022bf-b5e0-4e80-b3d4-5c5aacb5b862",
+                        "Election_id": "53c022bf-d5e8-4f52-9cfd-5c5aacb5b862",
+                        "Area_id": "53c01d9f-82e0-432a-aab3-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022b2-b9f0-4517-825f-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺東縣",
+                "lft": "8767",
+                "rght": "9094",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022bf-03a8-478f-a1b8-5c5aacb5b862",
+                "parent_id": "53c022b2-b9f0-4517-825f-5c5aacb5b862",
+                "name": "鹿野鄉",
+                "lft": "8924",
+                "rght": "8939",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022bf-d5e8-4f52-9cfd-5c5aacb5b862",
+                "parent_id": "53c022bf-03a8-478f-a1b8-5c5aacb5b862",
+                "name": "瑞源村",
+                "lft": "8927",
+                "rght": "8928",
+                "population": "1096",
+                "population_electors": "885",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546f277f-3c98-49c6-8e63-2f28cf91e152",
+                "keywords": "2014-11,村里長,臺東縣,鹿野鄉,瑞源村"
+            }
+        }
+    ]
+}

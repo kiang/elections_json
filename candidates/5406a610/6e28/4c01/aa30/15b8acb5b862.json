@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "5406a610-6e28-4c01-aa30-15b8acb5b862",
+            "election_id": "53c020a1-f460-4453-b556-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "0",
+            "vote_count": "0",
+            "name": "許重慶",
+            "image": "5496600c\/e5a0\/4d5d\/abfd\/1b6f6ab936af.jpg",
+            "party": "民主進步黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "0",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "大仁科技大學專科畢業",
+            "experience": "屏東縣九如鄉第15屆鄉長〈自95年3月1日至99年2月28日〉屏東縣九如鄉公所秘書〈自91年3月1日至94年9月30日〉",
+            "created": "2014-09-03 13:24:32",
+            "modified": "2014-12-21 14:44:20"
+        },
+        "Election": {
+            "id": "53c020a1-f460-4453-b556-5c5aacb5b862",
+            "population_electors": "18016",
+            "population": "22247",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5475673a-1050-4466-9fb3-0f78cf91e152",
+            "Area": [
+                {
+                    "id": "53c01d6c-2644-4c90-a48a-5460acb5b862",
+                    "name": "九如鄉",
+                    "AreasElection": {
+                        "id": "53c020a1-07e8-49e5-b419-5c5aacb5b862",
+                        "Election_id": "53c020a1-f460-4453-b556-5c5aacb5b862",
+                        "Area_id": "53c01d6c-2644-4c90-a48a-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市長",
+                "lft": "608",
+                "rght": "1031",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020a0-f5a4-4054-836f-5c5aacb5b862",
+                "parent_id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "887",
+                "rght": "954",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020a1-f460-4453-b556-5c5aacb5b862",
+                "parent_id": "53c020a0-f5a4-4054-836f-5c5aacb5b862",
+                "name": "九如鄉",
+                "lft": "902",
+                "rght": "903",
+                "population": "22247",
+                "population_electors": "18016",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5475673a-1050-4466-9fb3-0f78cf91e152",
+                "keywords": "2014-11,鄉鎮市長,屏東縣,九如鄉"
+            }
+        }
+    ]
+}

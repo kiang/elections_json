@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5499-fa54-4280-84a5-1926acb5b862",
+            "election_id": "53c02441-ab5c-460b-b7a1-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "657",
+            "name": "高昭南",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "高雄市",
+            "birth": "1968-11-26",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:38:17",
+            "modified": "2015-02-08 23:40:49"
+        },
+        "Election": {
+            "id": "53c02441-ab5c-460b-b7a1-5c5aacb5b862",
+            "population_electors": "1652",
+            "population": "2048",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb721-79f4-4efe-9ef0-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01ea2-b958-493f-9463-5460acb5b862",
+                    "name": "嘉峰里",
+                    "AreasElection": {
+                        "id": "53c02441-d078-47fd-a9e4-5c5aacb5b862",
+                        "Election_id": "53c02441-ab5c-460b-b7a1-5c5aacb5b862",
+                        "Area_id": "53c01ea2-b958-493f-9463-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0243d-95c4-4cb5-bb05-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "岡山區",
+                "lft": "13692",
+                "rght": "13759",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02441-ab5c-460b-b7a1-5c5aacb5b862",
+                "parent_id": "53c0243d-95c4-4cb5-bb05-5c5aacb5b862",
+                "name": "嘉峰里",
+                "lft": "13745",
+                "rght": "13746",
+                "population": "2048",
+                "population_electors": "1652",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb721-79f4-4efe-9ef0-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,岡山區,嘉峰里"
+            }
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5801-467c-44ab-9dc4-1926acb5b862",
+            "election_id": "53c0208c-201c-48a5-89c1-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "1340",
+            "name": "陳慶德",
+            "image": "549e8997\/7cb4\/4f64\/9773\/10ff6ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "CHEN CHING TE",
+            "birth_place": "臺灣省",
+            "birth": "1957-11-08",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:52:49",
+            "modified": "2015-02-08 23:41:59"
+        },
+        "Election": {
+            "id": "53c0208c-201c-48a5-89c1-5c5aacb5b862",
+            "population_electors": "8012",
+            "population": "9801",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-f048-4326-a008-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c4e-263c-4167-ba0e-5460acb5b862",
+                    "name": "北埔鄉",
+                    "AreasElection": {
+                        "id": "53c0208c-ee90-4c44-af9f-5c5aacb5b862",
+                        "Election_id": "53c0208c-201c-48a5-89c1-5c5aacb5b862",
+                        "Area_id": "53c01c4e-263c-4167-ba0e-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市長",
+                "lft": "608",
+                "rght": "1031",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0208a-29e0-490b-94ba-5c5aacb5b862",
+                "parent_id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "name": "新竹縣",
+                "lft": "659",
+                "rght": "686",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0208c-201c-48a5-89c1-5c5aacb5b862",
+                "parent_id": "53c0208a-29e0-490b-94ba-5c5aacb5b862",
+                "name": "北埔鄉",
+                "lft": "676",
+                "rght": "677",
+                "population": "9801",
+                "population_electors": "8012",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-f048-4326-a008-1a32cf91e152",
+                "keywords": "2014-11,鄉鎮市長,新竹縣,北埔鄉"
+            }
+        }
+    ]
+}

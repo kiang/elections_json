@@ -1,0 +1,139 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53f55072-2978-4311-a8a4-6106cb455a61",
+            "election_id": "53c0237c-497c-483e-b701-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "0",
+            "vote_count": "0",
+            "name": "呂効儒",
+            "image": "",
+            "party": "",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "0",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": "0000-00-00",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-08-21 09:50:42",
+            "modified": "2014-08-21 09:50:42"
+        },
+        "Election": {
+            "id": "53c0237c-497c-483e-b701-5c5aacb5b862",
+            "population_electors": "443",
+            "population": "594",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546f277e-7a80-4221-9d4a-2f28cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c2c-c704-4948-b716-5460acb5b862",
+                    "name": "忠貞里",
+                    "AreasElection": {
+                        "id": "53c0237c-7d70-427f-957d-5c5aacb5b862",
+                        "Election_id": "53c0237c-497c-483e-b701-5c5aacb5b862",
+                        "Area_id": "53c01c2c-c704-4948-b716-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "5413037f-7514-40be-8e73-7204cb455a61",
+                "name": "2014大家來選村里長啟航秀",
+                "CandidatesTag": {
+                    "id": "54130393-01dc-4c73-94fa-799ccb455a61",
+                    "Candidate_id": "53f55072-2978-4311-a8a4-6106cb455a61",
+                    "Tag_id": "5413037f-7514-40be-8e73-7204cb455a61"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "桃園市",
+                "lft": "10439",
+                "rght": "11456",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02379-7ffc-44da-9134-5c5aacb5b862",
+                "parent_id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "name": "平鎮區",
+                "lft": "11242",
+                "rght": "11335",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0237c-497c-483e-b701-5c5aacb5b862",
+                "parent_id": "53c02379-7ffc-44da-9134-5c5aacb5b862",
+                "name": "忠貞里",
+                "lft": "11279",
+                "rght": "11280",
+                "population": "594",
+                "population_electors": "443",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546f277e-7a80-4221-9d4a-2f28cf91e152",
+                "keywords": "2014-11,村里長,桃園市,平鎮區,忠貞里"
+            }
+        }
+    ]
+}

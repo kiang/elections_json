@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b546c-6fe8-429a-b449-1926acb5b862",
+            "election_id": "53c02400-51fc-4383-84ec-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "384",
+            "name": "江武吉",
+            "image": null,
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "3",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "高雄市",
+            "birth": "1962-12-15",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:37:32",
+            "modified": "2015-02-08 23:40:42"
+        },
+        "Election": {
+            "id": "53c02400-51fc-4383-84ec-5c5aacb5b862",
+            "population_electors": "1577",
+            "population": "1813",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb720-2568-4086-a06f-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01e70-9478-498b-a184-5460acb5b862",
+                    "name": "青山里",
+                    "AreasElection": {
+                        "id": "53c02400-4fe4-4553-a5b4-5c5aacb5b862",
+                        "Election_id": "53c02400-51fc-4383-84ec-5c5aacb5b862",
+                        "Area_id": "53c01e70-9478-498b-a184-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023fe-4e60-4426-92e9-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "前金區",
+                "lft": "12916",
+                "rght": "12957",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02400-51fc-4383-84ec-5c5aacb5b862",
+                "parent_id": "53c023fe-4e60-4426-92e9-5c5aacb5b862",
+                "name": "青山里",
+                "lft": "12939",
+                "rght": "12940",
+                "population": "1813",
+                "population_electors": "1577",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb720-2568-4086-a06f-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,前金區,青山里"
+            }
+        }
+    ]
+}

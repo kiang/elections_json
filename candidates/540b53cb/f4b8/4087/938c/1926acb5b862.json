@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b53cb-f4b8-4087-938c-1926acb5b862",
+            "election_id": "53c0253f-7918-4e8b-a0e2-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "2050",
+            "name": "蔡榮輝",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "TSAI JUNG HUI",
+            "birth_place": "臺中市",
+            "birth": "1961-05-31",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:34:51",
+            "modified": "2015-02-08 23:41:13"
+        },
+        "Election": {
+            "id": "53c0253f-7918-4e8b-a0e2-5c5aacb5b862",
+            "population_electors": "7665",
+            "population": "10630",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546d8db9-97e8-4c1a-9836-0e51cf91e152",
+            "Area": [
+                {
+                    "id": "53c01f7b-e954-41fc-9d92-5460acb5b862",
+                    "name": "南屯里",
+                    "AreasElection": {
+                        "id": "53c0253f-ec98-4156-8623-5c5aacb5b862",
+                        "Election_id": "53c0253f-7918-4e8b-a0e2-5c5aacb5b862",
+                        "Area_id": "53c01f7b-e954-41fc-9d92-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0253e-6d80-4fe5-b1f1-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "南屯區",
+                "lft": "16692",
+                "rght": "16743",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0253f-7918-4e8b-a0e2-5c5aacb5b862",
+                "parent_id": "53c0253e-6d80-4fe5-b1f1-5c5aacb5b862",
+                "name": "南屯里",
+                "lft": "16707",
+                "rght": "16708",
+                "population": "10630",
+                "population_electors": "7665",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546d8db9-97e8-4c1a-9836-0e51cf91e152",
+                "keywords": "2014-11,村里長,臺中市,南屯區,南屯里"
+            }
+        }
+    ]
+}

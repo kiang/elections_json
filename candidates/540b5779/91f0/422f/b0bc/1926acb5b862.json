@@ -1,0 +1,149 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5779-91f0-422f-b0bc-1926acb5b862",
+            "election_id": "53d73415-93f0-444f-ac3e-1299acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "979",
+            "name": "陳銘鴻",
+            "image": "54ddff86\/ed24\/4429\/b6b1\/44746ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1957-07-06",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:50:33",
+            "modified": "2015-02-13 21:45:39"
+        },
+        "Election": {
+            "id": "53d73415-93f0-444f-ac3e-1299acb5b862",
+            "population_electors": "3381",
+            "population": "3969",
+            "quota": "3",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-7c20-428c-a163-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01d3e-2910-4cd2-a524-5460acb5b862",
+                    "name": "三角村",
+                    "AreasElection": {
+                        "id": "53d73415-d6c4-4cd7-8869-1299acb5b862",
+                        "Election_id": "53d73415-93f0-444f-ac3e-1299acb5b862",
+                        "Area_id": "53c01d3e-2910-4cd2-a524-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01d3e-6164-4306-a027-5460acb5b862",
+                    "name": "後堀村",
+                    "AreasElection": {
+                        "id": "53d73415-2a1c-4c33-a44c-1299acb5b862",
+                        "Election_id": "53d73415-93f0-444f-ac3e-1299acb5b862",
+                        "Area_id": "53c01d3e-6164-4306-a027-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01d3f-eef4-479d-ac5b-5460acb5b862",
+                    "name": "下麻村",
+                    "AreasElection": {
+                        "id": "53d73415-d768-4162-b097-1299acb5b862",
+                        "Election_id": "53d73415-93f0-444f-ac3e-1299acb5b862",
+                        "Area_id": "53c01d3f-eef4-479d-ac5b-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020c9-7bdc-47e9-9a01-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "嘉義縣",
+                "lft": "2063",
+                "rght": "2196",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020cc-124c-4e6b-9a5b-5c5aacb5b862",
+                "parent_id": "53c020c9-7bdc-47e9-9a01-5c5aacb5b862",
+                "name": "鹿草鄉",
+                "lft": "2136",
+                "rght": "2143",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d73415-93f0-444f-ac3e-1299acb5b862",
+                "parent_id": "53c020cc-124c-4e6b-9a5b-5c5aacb5b862",
+                "name": "第03選舉區[區域]",
+                "lft": "2141",
+                "rght": "2142",
+                "population": "3969",
+                "population_electors": "3381",
+                "quota": "3",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-7c20-428c-a163-2adbcf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,嘉義縣,鹿草鄉,第03選舉區[區域]"
+            }
+        }
+    ]
+}

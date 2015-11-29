@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02670-f0c0-4697-841e-5dffacb5b862",
+            "election_id": "53c02414-2a78-4337-ba43-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1227",
+            "name": "李春桂",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "Lee chun kuai",
+            "birth_place": "臺灣省",
+            "birth": "1955-02-14",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:40:44"
+        },
+        "Election": {
+            "id": "53c02414-2a78-4337-ba43-5c5aacb5b862",
+            "population_electors": "2218",
+            "population": "2601",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb720-9020-4363-aa86-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01e7e-4480-4aa1-aa0b-5460acb5b862",
+                    "name": "竹東里",
+                    "AreasElection": {
+                        "id": "53c02415-2bc8-468e-95d7-5c5aacb5b862",
+                        "Election_id": "53c02414-2a78-4337-ba43-5c5aacb5b862",
+                        "Area_id": "53c01e7e-4480-4aa1-aa0b-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0240c-9e90-4444-95a6-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "前鎮區",
+                "lft": "13098",
+                "rght": "13217",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02414-2a78-4337-ba43-5c5aacb5b862",
+                "parent_id": "53c0240c-9e90-4444-95a6-5c5aacb5b862",
+                "name": "竹東里",
+                "lft": "13175",
+                "rght": "13176",
+                "population": "2601",
+                "population_electors": "2218",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb720-9020-4363-aa86-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,前鎮區,竹東里"
+            }
+        }
+    ]
+}

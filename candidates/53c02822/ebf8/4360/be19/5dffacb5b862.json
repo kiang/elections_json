@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02822-ebf8-4360-be19-5dffacb5b862",
+            "election_id": "53c02236-59e0-41e7-81f7-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "0",
+            "vote_count": "0",
+            "name": "張永欽",
+            "image": null,
+            "party": null,
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": null,
+            "no": "0",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "0000-00-00 00:00:00"
+        },
+        "Election": {
+            "id": "53c02236-59e0-41e7-81f7-5c5aacb5b862",
+            "population_electors": "631",
+            "population": "739",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546ef559-f928-4720-9541-208ecf91e152",
+            "Area": [
+                {
+                    "id": "53c01d25-4c44-4398-a838-5460acb5b862",
+                    "name": "排路里",
+                    "AreasElection": {
+                        "id": "53c02236-f878-4358-9a73-5c5aacb5b862",
+                        "Election_id": "53c02236-59e0-41e7-81f7-5c5aacb5b862",
+                        "Area_id": "53c01d25-4c44-4398-a838-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0222a-d5c0-465f-849c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "嘉義縣",
+                "lft": "7019",
+                "rght": "7770",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02235-3ee0-4fe5-ad8d-5c5aacb5b862",
+                "parent_id": "53c0222a-d5c0-465f-849c-5c5aacb5b862",
+                "name": "大林鎮",
+                "lft": "7162",
+                "rght": "7205",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02236-59e0-41e7-81f7-5c5aacb5b862",
+                "parent_id": "53c02235-3ee0-4fe5-ad8d-5c5aacb5b862",
+                "name": "排路里",
+                "lft": "7179",
+                "rght": "7180",
+                "population": "739",
+                "population_electors": "631",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546ef559-f928-4720-9541-208ecf91e152",
+                "keywords": "2014-11,村里長,嘉義縣,大林鎮,排路里"
+            }
+        }
+    ]
+}

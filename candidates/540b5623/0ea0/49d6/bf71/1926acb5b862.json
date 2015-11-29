@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5623-0ea0-49d6-bf71-1926acb5b862",
+            "election_id": "53c022b5-3a20-4074-b063-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "489",
+            "name": "吳佳真",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "1",
+            "education_level": "專科",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1972-02-21",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:44:51",
+            "modified": "2015-02-08 23:45:22"
+        },
+        "Election": {
+            "id": "53c022b5-3a20-4074-b063-5c5aacb5b862",
+            "population_electors": "757",
+            "population": "943",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546f277f-cb70-40a8-9898-2f28cf91e152",
+            "Area": [
+                {
+                    "id": "53c01d97-6d40-4103-b294-5460acb5b862",
+                    "name": "大同里",
+                    "AreasElection": {
+                        "id": "53c022b5-41ac-48f7-b4f8-5c5aacb5b862",
+                        "Election_id": "53c022b5-3a20-4074-b063-5c5aacb5b862",
+                        "Area_id": "53c01d97-6d40-4103-b294-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022b2-b9f0-4517-825f-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺東縣",
+                "lft": "8767",
+                "rght": "9094",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022b3-e81c-475c-96e8-5c5aacb5b862",
+                "parent_id": "53c022b2-b9f0-4517-825f-5c5aacb5b862",
+                "name": "臺東市",
+                "lft": "8768",
+                "rght": "8861",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022b5-3a20-4074-b063-5c5aacb5b862",
+                "parent_id": "53c022b3-e81c-475c-96e8-5c5aacb5b862",
+                "name": "大同里",
+                "lft": "8805",
+                "rght": "8806",
+                "population": "943",
+                "population_electors": "757",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546f277f-cb70-40a8-9898-2f28cf91e152",
+                "keywords": "2014-11,村里長,臺東縣,臺東市,大同里"
+            }
+        }
+    ]
+}

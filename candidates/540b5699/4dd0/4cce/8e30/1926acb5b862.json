@@ -1,0 +1,124 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5699-4dd0-4cce-8e30-1926acb5b862",
+            "election_id": "53c4008f-1a50-4826-8f47-6cceacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "13428",
+            "name": "楊見福",
+            "image": "5489b321\/60cc\/44d8\/abd0\/365f6ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "臉書 http:\/\/www.facebook.com\/pages\/%E6%A5%8A%E8%A6%8B%E7%A6%8F\/126636037379111",
+            "gender": "m",
+            "no": "9",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "YANG CHIEN FU",
+            "birth_place": "高雄市",
+            "birth": "1952-12-02",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:46:49",
+            "modified": "2015-02-08 23:40:23"
+        },
+        "Election": {
+            "id": "53c4008f-1a50-4826-8f47-6cceacb5b862",
+            "population_electors": "281964",
+            "population": "355097",
+            "quota": "8",
+            "quota_women": "2",
+            "bulletin_key": "54704b05-2424-472b-8046-1495cf91e152",
+            "Area": [
+                {
+                    "id": "53c01e87-8674-4476-9c21-5460acb5b862",
+                    "name": "鳳山區",
+                    "AreasElection": {
+                        "id": "53c406de-968c-4211-8a06-6dacacb5b862",
+                        "Election_id": "53c4008f-1a50-4826-8f47-6cceacb5b862",
+                        "Area_id": "53c01e87-8674-4476-9c21-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54ab28f9-bbb8-4b4e-9cbd-2a166ab936af",
+                "name": "2014當選無效之訴-高雄市",
+                "CandidatesTag": {
+                    "id": "54ab29ff-ed88-4a5c-ad6e-2a476ab936af",
+                    "Candidate_id": "540b5699-4dd0-4cce-8e30-1926acb5b862",
+                    "Tag_id": "54ab28f9-bbb8-4b4e-9cbd-2a166ab936af"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207e-117c-4e21-88cf-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "高雄市",
+                "lft": "65",
+                "rght": "96",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c4008f-1a50-4826-8f47-6cceacb5b862",
+                "parent_id": "53c0207e-117c-4e21-88cf-5c5aacb5b862",
+                "name": "第09選區[區域]",
+                "lft": "82",
+                "rght": "83",
+                "population": "355097",
+                "population_electors": "281964",
+                "quota": "8",
+                "quota_women": "2",
+                "bulletin_key": "54704b05-2424-472b-8046-1495cf91e152",
+                "keywords": "2014-11,直轄市議員,高雄市,第09選區[區域]"
+            }
+        }
+    ]
+}

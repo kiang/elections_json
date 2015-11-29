@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b569f-0454-4828-9579-1926acb5b862",
+            "election_id": "53c41050-fe3c-49f3-8241-6f55acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "4091",
+            "name": "羅吉燾",
+            "image": "549c1cee\/b690\/481a\/8233\/770d6ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "4",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "LO CHI TAO",
+            "birth_place": "臺灣省",
+            "birth": "1947-12-15",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:46:55",
+            "modified": "2015-02-08 23:41:50"
+        },
+        "Election": {
+            "id": "53c41050-fe3c-49f3-8241-6f55acb5b862",
+            "population_electors": "24779",
+            "population": "30790",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-1af4-47c9-bf56-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c42-4e4c-42bc-b24f-5460acb5b862",
+                    "name": "關西鎮",
+                    "AreasElection": {
+                        "id": "53c41050-047c-4805-b7fe-6f55acb5b862",
+                        "Election_id": "53c41050-fe3c-49f3-8241-6f55acb5b862",
+                        "Area_id": "53c01c42-4e4c-42bc-b24f-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "縣市議員",
+                "lft": "306",
+                "rght": "607",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02083-89f4-4101-8fe1-5c5aacb5b862",
+                "parent_id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "name": "新竹縣",
+                "lft": "353",
+                "rght": "380",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c41050-fe3c-49f3-8241-6f55acb5b862",
+                "parent_id": "53c02083-89f4-4101-8fe1-5c5aacb5b862",
+                "name": "第04選區[區域]",
+                "lft": "360",
+                "rght": "361",
+                "population": "30790",
+                "population_electors": "24779",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-1af4-47c9-bf56-1a32cf91e152",
+                "keywords": "2014-11,縣市議員,新竹縣,第04選區[區域]"
+            }
+        }
+    ]
+}

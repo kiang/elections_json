@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b565e-8628-41d0-a30d-1926acb5b862",
+            "election_id": "53c0231e-5f64-476c-8f0e-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "1775",
+            "name": "潘嬰娣",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "2",
+            "education_level": "專科",
+            "is_present": false,
+            "name_english": "PAN YUNG TI",
+            "birth_place": "高雄市",
+            "birth": "1959-02-10",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:45:50",
+            "modified": "2015-02-08 23:45:34"
+        },
+        "Election": {
+            "id": "53c0231e-5f64-476c-8f0e-5c5aacb5b862",
+            "population_electors": "5969",
+            "population": "8988",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546b0806-49a4-4c64-8216-2ff0cf91e152",
+            "Area": [
+                {
+                    "id": "53c01ded-3fbc-429f-99b0-5460acb5b862",
+                    "name": "科園里",
+                    "AreasElection": {
+                        "id": "53c0231e-420c-485b-96ad-5c5aacb5b862",
+                        "Election_id": "53c0231e-5f64-476c-8f0e-5c5aacb5b862",
+                        "Area_id": "53c01ded-3fbc-429f-99b0-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02315-1360-4e37-94d3-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新竹市",
+                "lft": "10013",
+                "rght": "10264",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02315-8c84-4b8b-86c3-5c5aacb5b862",
+                "parent_id": "53c02315-1360-4e37-94d3-5c5aacb5b862",
+                "name": "東區",
+                "lft": "10014",
+                "rght": "10121",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0231e-5f64-476c-8f0e-5c5aacb5b862",
+                "parent_id": "53c02315-8c84-4b8b-86c3-5c5aacb5b862",
+                "name": "科園里",
+                "lft": "10097",
+                "rght": "10098",
+                "population": "8988",
+                "population_electors": "5969",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546b0806-49a4-4c64-8216-2ff0cf91e152",
+                "keywords": "2014-11,村里長,新竹市,東區,科園里"
+            }
+        }
+    ]
+}

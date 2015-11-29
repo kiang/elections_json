@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c0270a-4194-47c2-b427-5dffacb5b862",
+            "election_id": "53c02573-87fc-4db5-9c48-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1939",
+            "name": "陳明村",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "其他省市",
+            "birth": "1956-10-22",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:41:18"
+        },
+        "Election": {
+            "id": "53c02573-87fc-4db5-9c48-5c5aacb5b862",
+            "population_electors": "5284",
+            "population": "7108",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e0691-ce40-4d8c-bd4f-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01fa5-3408-4daf-9de0-5460acb5b862",
+                    "name": "二和里",
+                    "AreasElection": {
+                        "id": "53c02574-7e5c-4d8b-affa-5c5aacb5b862",
+                        "Election_id": "53c02573-87fc-4db5-9c48-5c5aacb5b862",
+                        "Area_id": "53c01fa5-3408-4daf-9de0-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02572-8c28-4e05-8d65-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "大雅區",
+                "lft": "17262",
+                "rght": "17293",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02573-87fc-4db5-9c48-5c5aacb5b862",
+                "parent_id": "53c02572-8c28-4e05-8d65-5c5aacb5b862",
+                "name": "二和里",
+                "lft": "17279",
+                "rght": "17280",
+                "population": "7108",
+                "population_electors": "5284",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e0691-ce40-4d8c-bd4f-1a32cf91e152",
+                "keywords": "2014-11,村里長,臺中市,大雅區,二和里"
+            }
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "55d8198e-94d4-4bdb-8ae4-77346ab936af",
+            "election_id": "55086422-2e64-4827-9712-23d86ab936af",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "0",
+            "name": "達佶祐．卡造 Takiyo．Kacaw",
+            "image": "56358852\/1240\/415c\/84fd\/50766ab936af.jpg",
+            "party": "軍公教聯盟黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": null,
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": "0000-00-00",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2015-08-22 14:41:18",
+            "modified": "2015-11-29 03:31:41"
+        },
+        "Election": {
+            "id": "55086422-2e64-4827-9712-23d86ab936af",
+            "population_electors": "0",
+            "population": "0",
+            "quota": "3",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "Area": [
+                {
+                    "id": "55085939-13ec-4d1e-9ac1-3584acb5b862",
+                    "name": "2016",
+                    "AreasElection": {
+                        "id": "550a3870-7728-4624-9709-47cb6ab936af",
+                        "Election_id": "55086422-2e64-4827-9712-23d86ab936af",
+                        "Area_id": "55085939-13ec-4d1e-9ac1-3584acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "560026c1-9ec0-4321-9d87-46a36ab936af",
+                "name": "2016軍公教聯盟黨",
+                "CandidatesTag": {
+                    "id": "56002861-6eb4-4684-a4d4-461f6ab936af",
+                    "Candidate_id": "55d8198e-94d4-4bdb-8ae4-77346ab936af",
+                    "Tag_id": "560026c1-9ec0-4321-9d87-46a36ab936af"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "55085db5-2e9c-4cde-8103-23d86ab936af",
+                "parent_id": null,
+                "name": "2016-01",
+                "lft": "40579",
+                "rght": "40780",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "55085e1a-c494-40e0-ba31-2f916ab936af",
+                "parent_id": "55085db5-2e9c-4cde-8103-23d86ab936af",
+                "name": "立法委員",
+                "lft": "40582",
+                "rght": "40779",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "55086422-2e64-4827-9712-23d86ab936af",
+                "parent_id": "55085e1a-c494-40e0-ba31-2f916ab936af",
+                "name": "全國[平原]",
+                "lft": "40775",
+                "rght": "40776",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "3",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2016-01,立法委員,全國[平原]"
+            }
+        }
+    ]
+}

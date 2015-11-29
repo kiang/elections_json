@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b555e-8c04-495a-b983-1926acb5b862",
+            "election_id": "53c021f9-2d8c-4142-b922-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "81",
+            "name": "李長坤",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1964-11-15",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:41:34",
+            "modified": "2015-02-08 23:45:01"
+        },
+        "Election": {
+            "id": "53c021f9-2d8c-4142-b922-5c5aacb5b862",
+            "population_electors": "485",
+            "population": "593",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546edee5-b408-49be-a7d2-3ce1cf91e152",
+            "Area": [
+                {
+                    "id": "53c01cf2-71dc-4d0f-b7d4-5460acb5b862",
+                    "name": "建國里",
+                    "AreasElection": {
+                        "id": "53c021f9-25dc-47bc-8d44-5c5aacb5b862",
+                        "Election_id": "53c021f9-2d8c-4142-b922-5c5aacb5b862",
+                        "Area_id": "53c01cf2-71dc-4d0f-b7d4-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "6201",
+                "rght": "7018",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021f5-c158-4f44-9a45-5c5aacb5b862",
+                "parent_id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "name": "虎尾鎮",
+                "lft": "6326",
+                "rght": "6385",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021f9-2d8c-4142-b922-5c5aacb5b862",
+                "parent_id": "53c021f5-c158-4f44-9a45-5c5aacb5b862",
+                "name": "建國里",
+                "lft": "6371",
+                "rght": "6372",
+                "population": "593",
+                "population_electors": "485",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546edee5-b408-49be-a7d2-3ce1cf91e152",
+                "keywords": "2014-11,村里長,雲林縣,虎尾鎮,建國里"
+            }
+        }
+    ]
+}

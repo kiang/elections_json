@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02640-07a8-4576-ac51-5dffacb5b862",
+            "election_id": "53c023ac-9524-4c6f-95be-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1701",
+            "name": "高大陸",
+            "image": null,
+            "party": "民主進步黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1956-11-26",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:40:33"
+        },
+        "Election": {
+            "id": "53c023ac-9524-4c6f-95be-5c5aacb5b862",
+            "population_electors": "3697",
+            "population": "4490",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-0718-44b3-86d7-4187cf91e152",
+            "Area": [
+                {
+                    "id": "53c01e24-443c-44d4-a61e-5460acb5b862",
+                    "name": "國慶里",
+                    "AreasElection": {
+                        "id": "53c023ac-6688-4f65-a861-5c5aacb5b862",
+                        "Election_id": "53c023ac-9524-4c6f-95be-5c5aacb5b862",
+                        "Area_id": "53c01e24-443c-44d4-a61e-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023aa-4d98-4ee9-bb4e-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "大同區",
+                "lft": "11868",
+                "rght": "11919",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023ac-9524-4c6f-95be-5c5aacb5b862",
+                "parent_id": "53c023aa-4d98-4ee9-bb4e-5c5aacb5b862",
+                "name": "國慶里",
+                "lft": "11893",
+                "rght": "11894",
+                "population": "4490",
+                "population_electors": "3697",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-0718-44b3-86d7-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,大同區,國慶里"
+            }
+        }
+    ]
+}

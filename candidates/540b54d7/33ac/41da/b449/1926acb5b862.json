@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b54d7-33ac-41da-b449-1926acb5b862",
+            "election_id": "53c02141-4a2c-4977-9844-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "764",
+            "name": "黃美惠",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "2",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1962-01-17",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:39:19",
+            "modified": "2015-02-08 23:44:34"
+        },
+        "Election": {
+            "id": "53c02141-4a2c-4977-9844-5c5aacb5b862",
+            "population_electors": "2254",
+            "population": "2817",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546d8dba-8028-457f-8689-0e51cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c5b-8b18-472a-b8aa-5460acb5b862",
+                    "name": "通灣里",
+                    "AreasElection": {
+                        "id": "53c02141-65a4-4663-a697-5c5aacb5b862",
+                        "Election_id": "53c02141-4a2c-4977-9844-5c5aacb5b862",
+                        "Area_id": "53c01c5b-8b18-472a-b8aa-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02135-5cc8-4f9d-a971-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "苗栗縣",
+                "lft": "3831",
+                "rght": "4416",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0213e-6e38-41f6-a2ad-5c5aacb5b862",
+                "parent_id": "53c02135-5cc8-4f9d-a971-5c5aacb5b862",
+                "name": "通霄鎮",
+                "lft": "3942",
+                "rght": "3991",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02141-4a2c-4977-9844-5c5aacb5b862",
+                "parent_id": "53c0213e-6e38-41f6-a2ad-5c5aacb5b862",
+                "name": "通灣里",
+                "lft": "3973",
+                "rght": "3974",
+                "population": "2817",
+                "population_electors": "2254",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546d8dba-8028-457f-8689-0e51cf91e152",
+                "keywords": "2014-11,村里長,苗栗縣,通霄鎮,通灣里"
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02804-17dc-4805-9395-5dffacb5b862",
+            "election_id": "53c021f9-3874-46eb-ae18-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "712",
+            "name": "方西湖",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "Fang xi Hu",
+            "birth_place": "臺灣省",
+            "birth": "1953-10-07",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:45:01"
+        },
+        "Election": {
+            "id": "53c021f9-3874-46eb-ae18-5c5aacb5b862",
+            "population_electors": "1210",
+            "population": "1473",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546edee5-1c60-4065-8650-3ce1cf91e152",
+            "Area": [
+                {
+                    "id": "53c01cf3-6620-4f34-9382-5460acb5b862",
+                    "name": "東屯里",
+                    "AreasElection": {
+                        "id": "53c021fa-e5e8-4024-b031-5c5aacb5b862",
+                        "Election_id": "53c021f9-3874-46eb-ae18-5c5aacb5b862",
+                        "Area_id": "53c01cf3-6620-4f34-9382-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "6201",
+                "rght": "7018",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021f5-c158-4f44-9a45-5c5aacb5b862",
+                "parent_id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "name": "虎尾鎮",
+                "lft": "6326",
+                "rght": "6385",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021f9-3874-46eb-ae18-5c5aacb5b862",
+                "parent_id": "53c021f5-c158-4f44-9a45-5c5aacb5b862",
+                "name": "東屯里",
+                "lft": "6383",
+                "rght": "6384",
+                "population": "1473",
+                "population_electors": "1210",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546edee5-1c60-4065-8650-3ce1cf91e152",
+                "keywords": "2014-11,村里長,雲林縣,虎尾鎮,東屯里"
+            }
+        }
+    ]
+}

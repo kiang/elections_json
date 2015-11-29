@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b53d3-d720-4b19-8987-1926acb5b862",
+            "election_id": "53c0254e-38ac-42e3-9769-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "172",
+            "name": "楊政芳",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "YANG CHENG FANG",
+            "birth_place": "臺中市",
+            "birth": "1947-05-09",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:34:59",
+            "modified": "2015-02-08 23:41:15"
+        },
+        "Election": {
+            "id": "53c0254e-38ac-42e3-9769-5c5aacb5b862",
+            "population_electors": "655",
+            "population": "834",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c8095-e14c-4974-b159-61a3cf91e152",
+            "Area": [
+                {
+                    "id": "53c01f85-9db0-4d84-9797-5460acb5b862",
+                    "name": "葫蘆里",
+                    "AreasElection": {
+                        "id": "53c0254e-339c-4a43-80ea-5c5aacb5b862",
+                        "Election_id": "53c0254e-38ac-42e3-9769-5c5aacb5b862",
+                        "Area_id": "53c01f85-9db0-4d84-9797-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0254a-5b94-49bd-8036-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "豐原區",
+                "lft": "16830",
+                "rght": "16903",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0254e-38ac-42e3-9769-5c5aacb5b862",
+                "parent_id": "53c0254a-5b94-49bd-8036-5c5aacb5b862",
+                "name": "葫蘆里",
+                "lft": "16847",
+                "rght": "16848",
+                "population": "834",
+                "population_electors": "655",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c8095-e14c-4974-b159-61a3cf91e152",
+                "keywords": "2014-11,村里長,臺中市,豐原區,葫蘆里"
+            }
+        }
+    ]
+}

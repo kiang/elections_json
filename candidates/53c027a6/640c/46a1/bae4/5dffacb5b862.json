@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c027a6-640c-46a1-bae4-5dffacb5b862",
+            "election_id": "53c02148-a538-468e-94bd-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1598",
+            "name": "劉福明",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "LIOU FU MING",
+            "birth_place": "臺灣省",
+            "birth": "1955-09-20",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:44:35"
+        },
+        "Election": {
+            "id": "53c02148-a538-468e-94bd-5c5aacb5b862",
+            "population_electors": "3105",
+            "population": "4065",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-0dfc-4d1a-915d-4187cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c61-c2d8-46ec-bd8c-5460acb5b862",
+                    "name": "頭份里",
+                    "AreasElection": {
+                        "id": "53c02148-9258-414f-9eae-5c5aacb5b862",
+                        "Election_id": "53c02148-a538-468e-94bd-5c5aacb5b862",
+                        "Area_id": "53c01c61-c2d8-46ec-bd8c-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02135-5cc8-4f9d-a971-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "苗栗縣",
+                "lft": "3831",
+                "rght": "4416",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02146-7fd4-4795-8239-5c5aacb5b862",
+                "parent_id": "53c02135-5cc8-4f9d-a971-5c5aacb5b862",
+                "name": "頭份鎮",
+                "lft": "4044",
+                "rght": "4109",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02148-a538-468e-94bd-5c5aacb5b862",
+                "parent_id": "53c02146-7fd4-4795-8239-5c5aacb5b862",
+                "name": "頭份里",
+                "lft": "4063",
+                "rght": "4064",
+                "population": "4065",
+                "population_electors": "3105",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-0dfc-4d1a-915d-4187cf91e152",
+                "keywords": "2014-11,村里長,苗栗縣,頭份鎮,頭份里"
+            }
+        }
+    ]
+}

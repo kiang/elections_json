@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c0282e-dd20-4789-8f70-5dffacb5b862",
+            "election_id": "53c02247-442c-4ed3-bcd3-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "227",
+            "name": "曾金能",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1946-11-10",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:45:10"
+        },
+        "Election": {
+            "id": "53c02247-442c-4ed3-bcd3-5c5aacb5b862",
+            "population_electors": "413",
+            "population": "448",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-b7b8-450e-a61b-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01d37-1e58-43c2-a73f-5460acb5b862",
+                    "name": "海埔村",
+                    "AreasElection": {
+                        "id": "53c02247-ddf8-4cbe-8b60-5c5aacb5b862",
+                        "Election_id": "53c02247-442c-4ed3-bcd3-5c5aacb5b862",
+                        "Area_id": "53c01d37-1e58-43c2-a73f-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0222a-d5c0-465f-849c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "嘉義縣",
+                "lft": "7019",
+                "rght": "7770",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02246-e87c-41b6-835b-5c5aacb5b862",
+                "parent_id": "53c0222a-d5c0-465f-849c-5c5aacb5b862",
+                "name": "東石鄉",
+                "lft": "7394",
+                "rght": "7441",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02247-442c-4ed3-bcd3-5c5aacb5b862",
+                "parent_id": "53c02246-e87c-41b6-835b-5c5aacb5b862",
+                "name": "海埔村",
+                "lft": "7403",
+                "rght": "7404",
+                "population": "448",
+                "population_electors": "413",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-b7b8-450e-a61b-2adbcf91e152",
+                "keywords": "2014-11,村里長,嘉義縣,東石鄉,海埔村"
+            }
+        }
+    ]
+}

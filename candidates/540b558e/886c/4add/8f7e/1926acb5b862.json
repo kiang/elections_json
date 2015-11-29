@@ -1,0 +1,139 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b558e-886c-4add-8f7e-1926acb5b862",
+            "election_id": "53c02235-3c18-4ff3-9415-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "1382",
+            "name": "王建彬",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "3",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1980-08-09",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:42:22",
+            "modified": "2015-02-08 23:45:08"
+        },
+        "Election": {
+            "id": "53c02235-3c18-4ff3-9415-5c5aacb5b862",
+            "population_electors": "5434",
+            "population": "6933",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546ef559-f928-4720-9541-208ecf91e152",
+            "Area": [
+                {
+                    "id": "53c01d24-3cd4-4cde-9dd0-5460acb5b862",
+                    "name": "平林里",
+                    "AreasElection": {
+                        "id": "53c02235-fc6c-4a82-871e-5c5aacb5b862",
+                        "Election_id": "53c02235-3c18-4ff3-9415-5c5aacb5b862",
+                        "Area_id": "53c01d24-3cd4-4cde-9dd0-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "5412ff6f-db88-40fb-a1bb-7204cb455a61",
+                "name": "2014民進黨「民主小草」",
+                "CandidatesTag": {
+                    "id": "541300a1-b75c-4534-aee1-799ccb455a61",
+                    "Candidate_id": "540b558e-886c-4add-8f7e-1926acb5b862",
+                    "Tag_id": "5412ff6f-db88-40fb-a1bb-7204cb455a61"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0222a-d5c0-465f-849c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "嘉義縣",
+                "lft": "7019",
+                "rght": "7770",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02235-3ee0-4fe5-ad8d-5c5aacb5b862",
+                "parent_id": "53c0222a-d5c0-465f-849c-5c5aacb5b862",
+                "name": "大林鎮",
+                "lft": "7162",
+                "rght": "7205",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02235-3c18-4ff3-9415-5c5aacb5b862",
+                "parent_id": "53c02235-3ee0-4fe5-ad8d-5c5aacb5b862",
+                "name": "平林里",
+                "lft": "7165",
+                "rght": "7166",
+                "population": "6933",
+                "population_electors": "5434",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546ef559-f928-4720-9541-208ecf91e152",
+                "keywords": "2014-11,村里長,嘉義縣,大林鎮,平林里"
+            }
+        }
+    ]
+}

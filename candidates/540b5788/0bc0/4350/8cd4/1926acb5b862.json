@@ -1,0 +1,149 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5788-0bc0-4350-8cd4-1926acb5b862",
+            "election_id": "53d73432-f03c-4ef2-8b45-1299acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1367",
+            "name": "吳明文",
+            "image": "54cd8d7a\/1218\/41d5\/b0a2\/78d16ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1959-03-11",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:50:48",
+            "modified": "2015-02-08 23:43:57"
+        },
+        "Election": {
+            "id": "53d73432-f03c-4ef2-8b45-1299acb5b862",
+            "population_electors": "4108",
+            "population": "5293",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "5475673a-68f0-4271-bfbb-0f78cf91e152",
+            "Area": [
+                {
+                    "id": "53c01d61-1a10-43c6-b2d8-5460acb5b862",
+                    "name": "城南里",
+                    "AreasElection": {
+                        "id": "53d73434-9b80-4bc4-9cc8-1299acb5b862",
+                        "Election_id": "53d73432-f03c-4ef2-8b45-1299acb5b862",
+                        "Area_id": "53c01d61-1a10-43c6-b2d8-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01d62-302c-4935-b69b-5460acb5b862",
+                    "name": "城西里",
+                    "AreasElection": {
+                        "id": "53d73434-84b4-4b7d-9f33-1299acb5b862",
+                        "Election_id": "53d73432-f03c-4ef2-8b45-1299acb5b862",
+                        "Area_id": "53c01d62-302c-4935-b69b-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01d62-7728-4d28-a6a9-5460acb5b862",
+                    "name": "城北里",
+                    "AreasElection": {
+                        "id": "53d73434-f620-4bd3-8b40-1299acb5b862",
+                        "Election_id": "53d73432-f03c-4ef2-8b45-1299acb5b862",
+                        "Area_id": "53c01d62-7728-4d28-a6a9-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ce-0798-4ae9-af49-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "2197",
+                "rght": "2484",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020d1-b080-43a5-b111-5c5aacb5b862",
+                "parent_id": "53c020ce-0798-4ae9-af49-5c5aacb5b862",
+                "name": "恆春鎮",
+                "lft": "2226",
+                "rght": "2235",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d73432-f03c-4ef2-8b45-1299acb5b862",
+                "parent_id": "53c020d1-b080-43a5-b111-5c5aacb5b862",
+                "name": "第01選舉區[區域]",
+                "lft": "2227",
+                "rght": "2228",
+                "population": "5293",
+                "population_electors": "4108",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "5475673a-68f0-4271-bfbb-0f78cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,屏東縣,恆春鎮,第01選舉區[區域]"
+            }
+        }
+    ]
+}

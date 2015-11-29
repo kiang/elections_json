@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b53c2-a0c0-4e95-a797-1926acb5b862",
+            "election_id": "53c0252e-7834-4f49-a051-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "899",
+            "name": "趙建能",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "3",
+            "education_level": "專科",
+            "is_present": false,
+            "name_english": "Chao Jian Neng",
+            "birth_place": "臺灣省",
+            "birth": "1970-07-03",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:34:42",
+            "modified": "2015-02-08 23:41:12"
+        },
+        "Election": {
+            "id": "53c0252e-7834-4f49-a051-5c5aacb5b862",
+            "population_electors": "5358",
+            "population": "6614",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e0696-c854-47df-904b-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01f6f-bbc4-42e2-9f51-5460acb5b862",
+                    "name": "昇平里",
+                    "AreasElection": {
+                        "id": "53c0252e-546c-45d2-8980-5c5aacb5b862",
+                        "Election_id": "53c0252e-7834-4f49-a051-5c5aacb5b862",
+                        "Area_id": "53c01f6f-bbc4-42e2-9f51-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0252b-11a4-488d-aa14-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "西區",
+                "lft": "16486",
+                "rght": "16537",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0252e-7834-4f49-a051-5c5aacb5b862",
+                "parent_id": "53c0252b-11a4-488d-aa14-5c5aacb5b862",
+                "name": "昇平里",
+                "lft": "16523",
+                "rght": "16524",
+                "population": "6614",
+                "population_electors": "5358",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e0696-c854-47df-904b-1a32cf91e152",
+                "keywords": "2014-11,村里長,臺中市,西區,昇平里"
+            }
+        }
+    ]
+}

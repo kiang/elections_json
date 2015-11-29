@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c68f87-b1bc-41ee-9337-0f15acb5b862",
+            "election_id": "53c41169-a428-4c98-83a8-6f55acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "6333",
+            "name": "黃國安",
+            "image": "54965b30\/b6b4\/48b2\/bc97\/1a206ab936af.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "08-7380081",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "900屏東縣屏東市北勢里信義路286號",
+            "links": "",
+            "gender": "m",
+            "no": "18",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1954-12-01",
+            "platform": "",
+            "education": "屏東縣私立屏榮高級商工職業學校畢業",
+            "experience": "屏東縣第十四屆縣議員  屏東縣第十六屆縣議員",
+            "created": "2014-07-16 22:43:19",
+            "modified": "2015-02-08 23:41:54"
+        },
+        "Election": {
+            "id": "53c41169-a428-4c98-83a8-6f55acb5b862",
+            "population_electors": "164430",
+            "population": "204084",
+            "quota": "12",
+            "quota_women": "3",
+            "bulletin_key": "5474264d-f45c-4069-b013-2d82cf91e152",
+            "Area": [
+                {
+                    "id": "53c01d4f-6b98-4b6a-b45b-5460acb5b862",
+                    "name": "屏東市",
+                    "AreasElection": {
+                        "id": "53c4116a-a4c4-4ec5-afb8-6f55acb5b862",
+                        "Election_id": "53c41169-a428-4c98-83a8-6f55acb5b862",
+                        "Area_id": "53c01d4f-6b98-4b6a-b45b-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "縣市議員",
+                "lft": "306",
+                "rght": "607",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02084-c98c-49f1-8e3f-5c5aacb5b862",
+                "parent_id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "467",
+                "rght": "500",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c41169-a428-4c98-83a8-6f55acb5b862",
+                "parent_id": "53c02084-c98c-49f1-8e3f-5c5aacb5b862",
+                "name": "第01選區[區域]",
+                "lft": "468",
+                "rght": "469",
+                "population": "204084",
+                "population_electors": "164430",
+                "quota": "12",
+                "quota_women": "3",
+                "bulletin_key": "5474264d-f45c-4069-b013-2d82cf91e152",
+                "keywords": "2014-11,縣市議員,屏東縣,第01選區[區域]"
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c026ee-6064-4da0-a0ce-5dffacb5b862",
+            "election_id": "53c02534-cc5c-4aae-a731-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1915",
+            "name": "賴茂庭",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "大學",
+            "is_present": true,
+            "name_english": "LAI MAO TING",
+            "birth_place": "臺中市",
+            "birth": "1962-07-23",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:41:12"
+        },
+        "Election": {
+            "id": "53c02534-cc5c-4aae-a731-5c5aacb5b862",
+            "population_electors": "3555",
+            "population": "4535",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068f-4220-4b02-b9ba-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01f73-3c8c-4111-87b1-5460acb5b862",
+                    "name": "賴明里",
+                    "AreasElection": {
+                        "id": "53c02534-30a0-4d90-8262-5c5aacb5b862",
+                        "Election_id": "53c02534-cc5c-4aae-a731-5c5aacb5b862",
+                        "Area_id": "53c01f73-3c8c-4111-87b1-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02530-1868-453b-afd5-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "北區",
+                "lft": "16538",
+                "rght": "16611",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02534-cc5c-4aae-a731-5c5aacb5b862",
+                "parent_id": "53c02530-1868-453b-afd5-5c5aacb5b862",
+                "name": "賴明里",
+                "lft": "16581",
+                "rght": "16582",
+                "population": "4535",
+                "population_electors": "3555",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068f-4220-4b02-b9ba-1a32cf91e152",
+                "keywords": "2014-11,村里長,臺中市,北區,賴明里"
+            }
+        }
+    ]
+}

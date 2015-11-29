@@ -1,0 +1,133 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c68f80-497c-43a7-a6a7-0f15acb5b862",
+            "election_id": "53c410f5-e40c-4733-a4fd-6f55acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "6456",
+            "name": "陳翰立",
+            "image": "5624ae17\/cd64\/4fcc\/a418\/57386ab936af.jpg",
+            "party": "民主進步黨",
+            "contacts_phone": "049-2226399",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "540南投縣南投市平和里平和街62巷7號",
+            "links": "臉書 http:\/\/www.facebook.com\/pages\/%E5%8D%97%E6%8A%95%E7%B8%A3%E8%AD%B0%E5%93%A1%E9%99%B3%E7%BF%B0%E7%AB%8B%E6%B0%91%E7%9C%BE%E6%9C%8D%E5%8B%99%E8%AE%9A\/316195811735351\\n臉書 http:\/\/www.facebook.com\/pages\/%E5%8D%97%E6%8A%95%E7%B8%A3%E8%AD%B0%E5%93%A1%E9%99%B3%E7%BF%B0%E7%AB%8B%E6%9C%8D%E5%8B%99%E5%9C%98%E9%9A%8A\/216358555227950",
+            "gender": "m",
+            "no": "13",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺中市",
+            "birth": "1979-08-29",
+            "platform": "",
+            "education": "美國康乃爾大學碩士",
+            "experience": "南投青商國際事務委員",
+            "created": "2014-07-16 22:43:12",
+            "modified": "2015-10-19 16:47:58"
+        },
+        "Election": {
+            "id": "53c410f5-e40c-4733-a4fd-6f55acb5b862",
+            "population_electors": "113846",
+            "population": "142398",
+            "quota": "10",
+            "quota_women": "2",
+            "bulletin_key": "54735d55-39f8-4213-9df1-21eacf91e152",
+            "Area": [
+                {
+                    "id": "53c01cc7-2d38-4e8a-ac7f-5460acb5b862",
+                    "name": "南投市",
+                    "AreasElection": {
+                        "id": "53c410f6-b0f4-4e5b-84fd-6f55acb5b862",
+                        "Election_id": "53c410f5-e40c-4733-a4fd-6f55acb5b862",
+                        "Area_id": "53c01cc7-2d38-4e8a-ac7f-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01cd6-5450-4e57-b3c0-5460acb5b862",
+                    "name": "名間鄉",
+                    "AreasElection": {
+                        "id": "53c410f9-0030-4ce6-b8bc-6f55acb5b862",
+                        "Election_id": "53c410f5-e40c-4733-a4fd-6f55acb5b862",
+                        "Area_id": "53c01cd6-5450-4e57-b3c0-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54df7334-51d0-4472-ad36-6c676ab936af",
+                "name": "2014當選隨即目標轉向立委",
+                "CandidatesTag": {
+                    "id": "54f9db29-f910-4bb2-b9e5-71566ab936af",
+                    "Candidate_id": "53c68f80-497c-43a7-a6a7-0f15acb5b862",
+                    "Tag_id": "54df7334-51d0-4472-ad36-6c676ab936af"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "縣市議員",
+                "lft": "306",
+                "rght": "607",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02083-aa04-4a0e-96bb-5c5aacb5b862",
+                "parent_id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "name": "南投縣",
+                "lft": "419",
+                "rght": "436",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c410f5-e40c-4733-a4fd-6f55acb5b862",
+                "parent_id": "53c02083-aa04-4a0e-96bb-5c5aacb5b862",
+                "name": "第01選區[區域]",
+                "lft": "420",
+                "rght": "421",
+                "population": "142398",
+                "population_electors": "113846",
+                "quota": "10",
+                "quota_women": "2",
+                "bulletin_key": "54735d55-39f8-4213-9df1-21eacf91e152",
+                "keywords": "2014-11,縣市議員,南投縣,第01選區[區域]"
+            }
+        }
+    ]
+}

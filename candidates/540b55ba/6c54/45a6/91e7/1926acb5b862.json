@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b55ba-6c54-45a6-91e7-1926acb5b862",
+            "election_id": "53c02275-02c8-4ef1-ac4c-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "322",
+            "name": "劉朝木",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1950-01-19",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:43:06",
+            "modified": "2015-02-08 23:45:15"
+        },
+        "Election": {
+            "id": "53c02275-02c8-4ef1-ac4c-5c5aacb5b862",
+            "population_electors": "775",
+            "population": "1054",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54773ba1-1e78-4e7a-a697-1915cf91e152",
+            "Area": [
+                {
+                    "id": "53c01d5f-af20-4bad-82c9-5460acb5b862",
+                    "name": "八德里",
+                    "AreasElection": {
+                        "id": "53c02276-659c-4f22-a49e-5c5aacb5b862",
+                        "Election_id": "53c02275-02c8-4ef1-ac4c-5c5aacb5b862",
+                        "Area_id": "53c01d5f-af20-4bad-82c9-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "7771",
+                "rght": "8766",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02274-d9cc-401e-a4c0-5c5aacb5b862",
+                "parent_id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "name": "東港鎮",
+                "lft": "7976",
+                "rght": "8023",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02275-02c8-4ef1-ac4c-5c5aacb5b862",
+                "parent_id": "53c02274-d9cc-401e-a4c0-5c5aacb5b862",
+                "name": "八德里",
+                "lft": "7997",
+                "rght": "7998",
+                "population": "1054",
+                "population_electors": "775",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54773ba1-1e78-4e7a-a697-1915cf91e152",
+                "keywords": "2014-11,村里長,屏東縣,東港鎮,八德里"
+            }
+        }
+    ]
+}

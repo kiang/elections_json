@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02719-f738-4342-84dc-5dffacb5b862",
+            "election_id": "53c02594-830c-4f88-a979-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "2003",
+            "name": "石炳南",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "Shih Ping Nan",
+            "birth_place": "臺中市",
+            "birth": "1952-06-20",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:41:22"
+        },
+        "Election": {
+            "id": "53c02594-830c-4f88-a979-5c5aacb5b862",
+            "population_electors": "3148",
+            "population": "4251",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c8095-370c-406e-aa38-61a3cf91e152",
+            "Area": [
+                {
+                    "id": "53c01fbc-c92c-4382-85f8-5460acb5b862",
+                    "name": "樹王里",
+                    "AreasElection": {
+                        "id": "53c02594-113c-4f2c-b397-5c5aacb5b862",
+                        "Election_id": "53c02594-830c-4f88-a979-5c5aacb5b862",
+                        "Area_id": "53c01fbc-c92c-4382-85f8-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02592-6284-46c8-b7fd-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "大里區",
+                "lft": "17620",
+                "rght": "17675",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02594-830c-4f88-a979-5c5aacb5b862",
+                "parent_id": "53c02592-6284-46c8-b7fd-5c5aacb5b862",
+                "name": "樹王里",
+                "lft": "17633",
+                "rght": "17634",
+                "population": "4251",
+                "population_electors": "3148",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c8095-370c-406e-aa38-61a3cf91e152",
+                "keywords": "2014-11,村里長,臺中市,大里區,樹王里"
+            }
+        }
+    ]
+}

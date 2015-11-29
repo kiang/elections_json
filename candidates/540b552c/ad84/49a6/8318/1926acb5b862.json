@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b552c-ad84-49a6-8318-1926acb5b862",
+            "election_id": "53c021b8-6324-4cf0-9bcd-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "836",
+            "name": "黄琪順",
+            "image": "54633938\/f34c\/41bf\/8ce9\/3d6b8e043389.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1952-12-25",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:40:44",
+            "modified": "2015-02-08 23:44:47"
+        },
+        "Election": {
+            "id": "53c021b8-6324-4cf0-9bcd-5c5aacb5b862",
+            "population_electors": "1600",
+            "population": "2001",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-62f8-480d-86c0-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01cc0-3528-41ae-b23b-5460acb5b862",
+                    "name": "新寶村",
+                    "AreasElection": {
+                        "id": "53c021b8-1a9c-4040-a88a-5c5aacb5b862",
+                        "Election_id": "53c021b8-6324-4cf0-9bcd-5c5aacb5b862",
+                        "Area_id": "53c01cc0-3528-41ae-b23b-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "4417",
+                "rght": "5648",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021b5-ea74-4391-9205-5c5aacb5b862",
+                "parent_id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "name": "芳苑鄉",
+                "lft": "5492",
+                "rght": "5545",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021b8-6324-4cf0-9bcd-5c5aacb5b862",
+                "parent_id": "53c021b5-ea74-4391-9205-5c5aacb5b862",
+                "name": "新寶村",
+                "lft": "5527",
+                "rght": "5528",
+                "population": "2001",
+                "population_electors": "1600",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-62f8-480d-86c0-74a5cf91e152",
+                "keywords": "2014-11,村里長,彰化縣,芳苑鄉,新寶村"
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02681-45ac-40bc-a43d-5dffacb5b862",
+            "election_id": "53c02434-ba68-49f0-b8d1-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "2453",
+            "name": "蘇建明",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "高雄市",
+            "birth": "1961-05-06",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:40:47"
+        },
+        "Election": {
+            "id": "53c02434-ba68-49f0-b8d1-5c5aacb5b862",
+            "population_electors": "6374",
+            "population": "7451",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb721-d360-45d8-9993-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01e98-fff8-4f9b-8269-5460acb5b862",
+                    "name": "中興里",
+                    "AreasElection": {
+                        "id": "53c02434-31f0-4c08-abc2-5c5aacb5b862",
+                        "Election_id": "53c02434-ba68-49f0-b8d1-5c5aacb5b862",
+                        "Area_id": "53c01e98-fff8-4f9b-8269-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02430-5608-41de-944d-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "大寮區",
+                "lft": "13532",
+                "rght": "13583",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02434-ba68-49f0-b8d1-5c5aacb5b862",
+                "parent_id": "53c02430-5608-41de-944d-5c5aacb5b862",
+                "name": "中興里",
+                "lft": "13581",
+                "rght": "13582",
+                "population": "7451",
+                "population_electors": "6374",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb721-d360-45d8-9993-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,大寮區,中興里"
+            }
+        }
+    ]
+}

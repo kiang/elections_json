@@ -1,0 +1,149 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5766-95e4-4f4a-a293-1926acb5b862",
+            "election_id": "53d733e7-918c-4253-ad51-1299acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "869",
+            "name": "林輔賢",
+            "image": "54c25c30\/8070\/4e8e\/a83c\/71776ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "1",
+            "education_level": "大學",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1977-06-01",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:50:14",
+            "modified": "2015-02-08 23:43:32"
+        },
+        "Election": {
+            "id": "53d733e7-918c-4253-ad51-1299acb5b862",
+            "population_electors": "3021",
+            "population": "3486",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb720-2814-4623-9fd8-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01d14-08bc-4b86-ba2a-5460acb5b862",
+                    "name": "林厝村",
+                    "AreasElection": {
+                        "id": "53d733e7-718c-4632-ac74-1299acb5b862",
+                        "Election_id": "53d733e7-918c-4253-ad51-1299acb5b862",
+                        "Area_id": "53c01d14-08bc-4b86-ba2a-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01d14-6ec8-40ca-b148-5460acb5b862",
+                    "name": "溪尾村",
+                    "AreasElection": {
+                        "id": "53d733e7-a7e8-4b6e-b6e6-1299acb5b862",
+                        "Election_id": "53d733e7-918c-4253-ad51-1299acb5b862",
+                        "Area_id": "53c01d14-6ec8-40ca-b148-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01d14-7894-4de1-8358-5460acb5b862",
+                    "name": "林東村",
+                    "AreasElection": {
+                        "id": "53d733e7-8ea8-42ee-9aae-1299acb5b862",
+                        "Election_id": "53d733e7-918c-4253-ad51-1299acb5b862",
+                        "Area_id": "53c01d14-7894-4de1-8358-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020c5-1718-4aea-8b3b-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "1865",
+                "rght": "2062",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020c8-7bd0-479b-b772-5c5aacb5b862",
+                "parent_id": "53c020c5-1718-4aea-8b3b-5c5aacb5b862",
+                "name": "四湖鄉",
+                "lft": "2032",
+                "rght": "2041",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d733e7-918c-4253-ad51-1299acb5b862",
+                "parent_id": "53c020c8-7bd0-479b-b772-5c5aacb5b862",
+                "name": "第04選舉區[區域]",
+                "lft": "2039",
+                "rght": "2040",
+                "population": "3486",
+                "population_electors": "3021",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb720-2814-4623-9fd8-2adbcf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,雲林縣,四湖鄉,第04選舉區[區域]"
+            }
+        }
+    ]
+}

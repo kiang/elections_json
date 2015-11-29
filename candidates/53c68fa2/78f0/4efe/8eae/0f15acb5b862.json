@@ -1,0 +1,124 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c68fa2-78f0-4efe-8eae-0f15acb5b862",
+            "election_id": "53c4008f-1a50-4826-8f47-6cceacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "10090",
+            "name": "徐榮延",
+            "image": "5489b1e4\/57f0\/4a91\/9492\/36056ab936af.jpg",
+            "party": "無黨團結聯盟",
+            "contacts_phone": "07-7630299",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "830高雄市鳳山區老爺里五甲一路530號",
+            "links": "臉書 http:\/\/www.facebook.com\/profile.php?id=100001297717092",
+            "gender": "m",
+            "no": "2",
+            "education_level": "碩士",
+            "is_present": true,
+            "name_english": "HSU JUNG YEN",
+            "birth_place": "臺灣省",
+            "birth": "1949-09-02",
+            "platform": "",
+            "education": "高師大碩士",
+            "experience": "高雄縣第14、15、16屆議員；高雄縣鳳山市第5、6、7屆市民代表；高雄縣鳳山市老爺里第4屆里長",
+            "created": "2014-07-16 22:43:46",
+            "modified": "2015-02-08 23:40:23"
+        },
+        "Election": {
+            "id": "53c4008f-1a50-4826-8f47-6cceacb5b862",
+            "population_electors": "281964",
+            "population": "355097",
+            "quota": "8",
+            "quota_women": "2",
+            "bulletin_key": "54704b05-2424-472b-8046-1495cf91e152",
+            "Area": [
+                {
+                    "id": "53c01e87-8674-4476-9c21-5460acb5b862",
+                    "name": "鳳山區",
+                    "AreasElection": {
+                        "id": "53c406de-968c-4211-8a06-6dacacb5b862",
+                        "Election_id": "53c4008f-1a50-4826-8f47-6cceacb5b862",
+                        "Area_id": "53c01e87-8674-4476-9c21-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54130ff2-e200-4a71-b857-2c88cb455a61",
+                "name": "2014無黨團結聯盟",
+                "CandidatesTag": {
+                    "id": "54131006-96cc-4b5d-84a9-2c88cb455a61",
+                    "Candidate_id": "53c68fa2-78f0-4efe-8eae-0f15acb5b862",
+                    "Tag_id": "54130ff2-e200-4a71-b857-2c88cb455a61"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207e-117c-4e21-88cf-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "高雄市",
+                "lft": "65",
+                "rght": "96",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c4008f-1a50-4826-8f47-6cceacb5b862",
+                "parent_id": "53c0207e-117c-4e21-88cf-5c5aacb5b862",
+                "name": "第09選區[區域]",
+                "lft": "82",
+                "rght": "83",
+                "population": "355097",
+                "population_electors": "281964",
+                "quota": "8",
+                "quota_women": "2",
+                "bulletin_key": "54704b05-2424-472b-8046-1495cf91e152",
+                "keywords": "2014-11,直轄市議員,高雄市,第09選區[區域]"
+            }
+        }
+    ]
+}

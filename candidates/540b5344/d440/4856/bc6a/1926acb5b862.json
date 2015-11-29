@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5344-d440-4856-bc6a-1926acb5b862",
+            "election_id": "53c024b8-a060-4185-89d0-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "247",
+            "name": "楊淑美",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "YANG SHU MEI",
+            "birth_place": "臺灣省",
+            "birth": "1959-12-02",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:32:36",
+            "modified": "2015-02-08 23:41:01"
+        },
+        "Election": {
+            "id": "53c024b8-a060-4185-89d0-5c5aacb5b862",
+            "population_electors": "4128",
+            "population": "5203",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068c-4e90-45c6-9f96-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01f12-ae34-494f-a8f8-5460acb5b862",
+                    "name": "立泰里",
+                    "AreasElection": {
+                        "id": "53c024b8-c360-4934-94c4-5c5aacb5b862",
+                        "Election_id": "53c024b8-a060-4185-89d0-5c5aacb5b862",
+                        "Area_id": "53c01f12-ae34-494f-a8f8-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新北市",
+                "lft": "14261",
+                "rght": "16384",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c024ae-aed4-4408-9bc7-5c5aacb5b862",
+                "parent_id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "name": "新莊區",
+                "lft": "15070",
+                "rght": "15239",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c024b8-a060-4185-89d0-5c5aacb5b862",
+                "parent_id": "53c024ae-aed4-4408-9bc7-5c5aacb5b862",
+                "name": "立泰里",
+                "lft": "15185",
+                "rght": "15186",
+                "population": "5203",
+                "population_electors": "4128",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068c-4e90-45c6-9f96-1a32cf91e152",
+                "keywords": "2014-11,村里長,新北市,新莊區,立泰里"
+            }
+        }
+    ]
+}

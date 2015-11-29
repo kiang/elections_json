@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5331-67b4-49ae-99b8-1926acb5b862",
+            "election_id": "53c02495-3028-406b-8f96-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "491",
+            "name": "張森啓",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "專科",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1958-04-29",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:32:17",
+            "modified": "2015-02-08 23:40:57"
+        },
+        "Election": {
+            "id": "53c02495-3028-406b-8f96-5c5aacb5b862",
+            "population_electors": "2085",
+            "population": "2432",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eec9d-c534-4772-ac64-180dcf91e152",
+            "Area": [
+                {
+                    "id": "53c01ef1-3ad0-4824-bdde-5460acb5b862",
+                    "name": "連和里",
+                    "AreasElection": {
+                        "id": "53c02495-4e80-4382-9856-5c5aacb5b862",
+                        "Election_id": "53c02495-3028-406b-8f96-5c5aacb5b862",
+                        "Area_id": "53c01ef1-3ad0-4824-bdde-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新北市",
+                "lft": "14261",
+                "rght": "16384",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02493-e710-4be9-9de8-5c5aacb5b862",
+                "parent_id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "name": "中和區",
+                "lft": "14756",
+                "rght": "14943",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02495-3028-406b-8f96-5c5aacb5b862",
+                "parent_id": "53c02493-e710-4be9-9de8-5c5aacb5b862",
+                "name": "連和里",
+                "lft": "14765",
+                "rght": "14766",
+                "population": "2432",
+                "population_electors": "2085",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eec9d-c534-4772-ac64-180dcf91e152",
+                "keywords": "2014-11,村里長,新北市,中和區,連和里"
+            }
+        }
+    ]
+}

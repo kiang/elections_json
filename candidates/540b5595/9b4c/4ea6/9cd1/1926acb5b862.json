@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5595-9b4c-4ea6-9cd1-1926acb5b862",
+            "election_id": "53c0223e-1e30-4b81-bd41-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "60",
+            "name": "廖春福",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "Liao Chun fu",
+            "birth_place": "臺灣省",
+            "birth": "1936-03-22",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:42:29",
+            "modified": "2015-02-08 23:45:09"
+        },
+        "Election": {
+            "id": "53c0223e-1e30-4b81-bd41-5c5aacb5b862",
+            "population_electors": "1010",
+            "population": "1224",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-a194-42f3-912e-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01d2c-adf0-48d7-b2b8-5460acb5b862",
+                    "name": "疊溪村",
+                    "AreasElection": {
+                        "id": "53c0223f-ca58-4159-a7cd-5c5aacb5b862",
+                        "Election_id": "53c0223e-1e30-4b81-bd41-5c5aacb5b862",
+                        "Area_id": "53c01d2c-adf0-48d7-b2b8-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0222a-d5c0-465f-849c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "嘉義縣",
+                "lft": "7019",
+                "rght": "7770",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0223c-0b6c-43b3-a46a-5c5aacb5b862",
+                "parent_id": "53c0222a-d5c0-465f-849c-5c5aacb5b862",
+                "name": "溪口鄉",
+                "lft": "7264",
+                "rght": "7293",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0223e-1e30-4b81-bd41-5c5aacb5b862",
+                "parent_id": "53c0223c-0b6c-43b3-a46a-5c5aacb5b862",
+                "name": "疊溪村",
+                "lft": "7291",
+                "rght": "7292",
+                "population": "1224",
+                "population_electors": "1010",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-a194-42f3-912e-2adbcf91e152",
+                "keywords": "2014-11,村里長,嘉義縣,溪口鄉,疊溪村"
+            }
+        }
+    ]
+}

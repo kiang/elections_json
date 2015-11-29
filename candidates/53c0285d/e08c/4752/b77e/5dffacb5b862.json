@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c0285d-e08c-4752-b77e-5dffacb5b862",
+            "election_id": "53c022aa-7ca4-488f-880e-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "143",
+            "name": "林慶鴻",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1954-07-01",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:45:21"
+        },
+        "Election": {
+            "id": "53c022aa-7ca4-488f-880e-5c5aacb5b862",
+            "population_electors": "322",
+            "population": "403",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54773ba1-4390-4ff1-8cdf-1915cf91e152",
+            "Area": [
+                {
+                    "id": "53c01d8d-78e8-4872-a7e0-5460acb5b862",
+                    "name": "馬兒村",
+                    "AreasElection": {
+                        "id": "53c022aa-c188-4ecb-ace1-5c5aacb5b862",
+                        "Election_id": "53c022aa-7ca4-488f-880e-5c5aacb5b862",
+                        "Area_id": "53c01d8d-78e8-4872-a7e0-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "7771",
+                "rght": "8766",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022a9-8adc-4f1b-9a53-5c5aacb5b862",
+                "parent_id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "name": "三地門鄉",
+                "lft": "8640",
+                "rght": "8661",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022aa-7ca4-488f-880e-5c5aacb5b862",
+                "parent_id": "53c022a9-8adc-4f1b-9a53-5c5aacb5b862",
+                "name": "馬兒村",
+                "lft": "8653",
+                "rght": "8654",
+                "population": "403",
+                "population_electors": "322",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54773ba1-4390-4ff1-8cdf-1915cf91e152",
+                "keywords": "2014-11,村里長,屏東縣,三地門鄉,馬兒村"
+            }
+        }
+    ]
+}

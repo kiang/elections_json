@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b54af-f88c-4563-a3cb-1926acb5b862",
+            "election_id": "540b36a3-3280-4972-8683-7311acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "111",
+            "name": "陳頂山",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "5",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "其他省市",
+            "birth": "1963-01-01",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:38:39",
+            "modified": "2015-02-08 23:40:52"
+        },
+        "Election": {
+            "id": "540b36a3-3280-4972-8683-7311acb5b862",
+            "population_electors": "0",
+            "population": "0",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb721-e018-4ad1-ad61-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "540b3661-947c-4c70-a40e-6141acb5b862",
+                    "name": "大愛里",
+                    "AreasElection": {
+                        "id": "540b3661-957c-4c70-a40e-6141acb5b862",
+                        "Election_id": "540b36a3-3280-4972-8683-7311acb5b862",
+                        "Area_id": "540b3661-947c-4c70-a40e-6141acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02464-d32c-4a8f-a318-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "杉林區",
+                "lft": "14170",
+                "rght": "14187",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "540b36a3-3280-4972-8683-7311acb5b862",
+                "parent_id": "53c02464-d32c-4a8f-a318-5c5aacb5b862",
+                "name": "大愛里",
+                "lft": "14185",
+                "rght": "14186",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb721-e018-4ad1-ad61-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,杉林區,大愛里"
+            }
+        }
+    ]
+}

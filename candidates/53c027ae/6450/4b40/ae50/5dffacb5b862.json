@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c027ae-6450-4b40-ae50-5dffacb5b862",
+            "election_id": "53c02155-c7e4-4225-8722-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "607",
+            "name": "李棋明",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "1",
+            "education_level": "專科",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1947-07-28",
+            "platform": "爭取經費建設村里\\n全心全力為村民服務",
+            "education": "銅鑼國小\\n文林初中\\n苗栗高商\\n陸軍官校專修班\\n警備學校研究班",
+            "experience": "排長\\n團管區科長\\n警備總部上校組長\\n苗栗榮民服務處銅鑼服務區主任\\n朝陽村長",
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:44:37"
+        },
+        "Election": {
+            "id": "53c02155-c7e4-4225-8722-5c5aacb5b862",
+            "population_electors": "1696",
+            "population": "2061",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-9fe4-4653-a28b-4187cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c6d-e294-4a0d-8bf8-5460acb5b862",
+                    "name": "朝陽村",
+                    "AreasElection": {
+                        "id": "53c02155-5c98-4d9b-a909-5c5aacb5b862",
+                        "Election_id": "53c02155-c7e4-4225-8722-5c5aacb5b862",
+                        "Area_id": "53c01c6d-e294-4a0d-8bf8-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02135-5cc8-4f9d-a971-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "苗栗縣",
+                "lft": "3831",
+                "rght": "4416",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02155-aa04-4735-9b12-5c5aacb5b862",
+                "parent_id": "53c02135-5cc8-4f9d-a971-5c5aacb5b862",
+                "name": "銅鑼鄉",
+                "lft": "4248",
+                "rght": "4269",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02155-c7e4-4225-8722-5c5aacb5b862",
+                "parent_id": "53c02155-aa04-4735-9b12-5c5aacb5b862",
+                "name": "朝陽村",
+                "lft": "4253",
+                "rght": "4254",
+                "population": "2061",
+                "population_electors": "1696",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-9fe4-4653-a28b-4187cf91e152",
+                "keywords": "2014-11,村里長,苗栗縣,銅鑼鄉,朝陽村"
+            }
+        }
+    ]
+}

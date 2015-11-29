@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c027af-d994-4757-828d-5dffacb5b862",
+            "election_id": "53c02157-fd4c-4ba7-9206-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "189",
+            "name": "張春貴",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1954-08-30",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:44:37"
+        },
+        "Election": {
+            "id": "53c02157-fd4c-4ba7-9206-5c5aacb5b862",
+            "population_electors": "859",
+            "population": "1071",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-5e90-4400-ae2f-4187cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c70-6328-459b-af5b-5460acb5b862",
+                    "name": "蓬萊村",
+                    "AreasElection": {
+                        "id": "53c02158-b290-4830-b955-5c5aacb5b862",
+                        "Election_id": "53c02157-fd4c-4ba7-9206-5c5aacb5b862",
+                        "Area_id": "53c01c70-6328-459b-af5b-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02135-5cc8-4f9d-a971-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "苗栗縣",
+                "lft": "3831",
+                "rght": "4416",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02156-a33c-4945-b119-5c5aacb5b862",
+                "parent_id": "53c02135-5cc8-4f9d-a971-5c5aacb5b862",
+                "name": "南庄鄉",
+                "lft": "4270",
+                "rght": "4289",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02157-fd4c-4ba7-9206-5c5aacb5b862",
+                "parent_id": "53c02156-a33c-4945-b119-5c5aacb5b862",
+                "name": "蓬萊村",
+                "lft": "4281",
+                "rght": "4282",
+                "population": "1071",
+                "population_electors": "859",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-5e90-4400-ae2f-4187cf91e152",
+                "keywords": "2014-11,村里長,苗栗縣,南庄鄉,蓬萊村"
+            }
+        }
+    ]
+}

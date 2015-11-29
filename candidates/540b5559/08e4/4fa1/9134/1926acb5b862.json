@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5559-08e4-4fa1-9134-1926acb5b862",
+            "election_id": "53c021f4-9910-4262-9199-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "0",
+            "name": "林隆進",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": null,
+            "no": "0",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:41:29",
+            "modified": "2014-10-09 13:34:11"
+        },
+        "Election": {
+            "id": "53c021f4-9910-4262-9199-5c5aacb5b862",
+            "population_electors": "5154",
+            "population": "6492",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546ec076-77f0-49b1-8f9b-2d4fcf91e152",
+            "Area": [
+                {
+                    "id": "53c01cee-a054-41b3-b043-5460acb5b862",
+                    "name": "明昌里",
+                    "AreasElection": {
+                        "id": "53c021f4-d998-4b7a-9af8-5c5aacb5b862",
+                        "Election_id": "53c021f4-9910-4262-9199-5c5aacb5b862",
+                        "Area_id": "53c01cee-a054-41b3-b043-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "6201",
+                "rght": "7018",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021f1-29ac-4128-b0b0-5c5aacb5b862",
+                "parent_id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "name": "斗南鎮",
+                "lft": "6280",
+                "rght": "6325",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021f4-9910-4262-9199-5c5aacb5b862",
+                "parent_id": "53c021f1-29ac-4128-b0b0-5c5aacb5b862",
+                "name": "明昌里",
+                "lft": "6317",
+                "rght": "6318",
+                "population": "6492",
+                "population_electors": "5154",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546ec076-77f0-49b1-8f9b-2d4fcf91e152",
+                "keywords": "2014-11,村里長,雲林縣,斗南鎮,明昌里"
+            }
+        }
+    ]
+}

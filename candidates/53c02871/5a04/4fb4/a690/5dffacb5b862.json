@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02871-5a04-4fb4-a690-5dffacb5b862",
+            "election_id": "53c022db-c65c-4ccc-8ca6-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "213",
+            "name": "彭榮華",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "專科",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1951-09-28",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:45:26"
+        },
+        "Election": {
+            "id": "53c022db-c65c-4ccc-8ca6-5c5aacb5b862",
+            "population_electors": "346",
+            "population": "405",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546d8db9-5d08-42f0-8a39-0e51cf91e152",
+            "Area": [
+                {
+                    "id": "53c01db6-66fc-4b7d-a93e-5460acb5b862",
+                    "name": "樹湖村",
+                    "AreasElection": {
+                        "id": "53c022db-8084-427e-b532-5c5aacb5b862",
+                        "Election_id": "53c022db-c65c-4ccc-8ca6-5c5aacb5b862",
+                        "Area_id": "53c01db6-66fc-4b7d-a93e-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022cb-ff18-4c61-98a3-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "花蓮縣",
+                "lft": "9095",
+                "rght": "9476",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022db-4014-4bc8-abe0-5c5aacb5b862",
+                "parent_id": "53c022cb-ff18-4c61-98a3-5c5aacb5b862",
+                "name": "壽豐鄉",
+                "lft": "9302",
+                "rght": "9333",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022db-c65c-4ccc-8ca6-5c5aacb5b862",
+                "parent_id": "53c022db-4014-4bc8-abe0-5c5aacb5b862",
+                "name": "樹湖村",
+                "lft": "9303",
+                "rght": "9304",
+                "population": "405",
+                "population_electors": "346",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546d8db9-5d08-42f0-8a39-0e51cf91e152",
+                "keywords": "2014-11,村里長,花蓮縣,壽豐鄉,樹湖村"
+            }
+        }
+    ]
+}

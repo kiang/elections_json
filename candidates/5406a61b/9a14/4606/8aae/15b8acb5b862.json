@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "5406a61b-9a14-4606-8aae-15b8acb5b862",
+            "election_id": "53c02087-7760-4839-a8bd-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "6214",
+            "name": "陳成勇",
+            "image": "5492d24b\/bcc0\/4613\/9aec\/6ba46ab936af.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "2",
+            "education_level": "大學",
+            "is_present": true,
+            "name_english": "CHEN CHENG YUNG",
+            "birth_place": "金馬地區",
+            "birth": "1962-01-26",
+            "platform": "",
+            "education": "空大行政專科",
+            "experience": "金寧鄉民代表會第八屆主席 金寧鄉民代表會第九屆代表 四埔社區發展協會第3、4屆理事長 金寧鄉民眾服務分社理事長",
+            "created": "2014-09-03 13:24:43",
+            "modified": "2015-02-08 23:41:58"
+        },
+        "Election": {
+            "id": "53c02087-7760-4839-a8bd-5c5aacb5b862",
+            "population_electors": "21893",
+            "population": "26868",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-ec60-4433-a4bd-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01bd5-0698-4581-bed5-5460acb5b862",
+                    "name": "金寧鄉",
+                    "AreasElection": {
+                        "id": "53c02087-c38c-4813-a223-5c5aacb5b862",
+                        "Election_id": "53c02087-7760-4839-a8bd-5c5aacb5b862",
+                        "Area_id": "53c01bd5-0698-4581-bed5-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市長",
+                "lft": "608",
+                "rght": "1031",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02086-e5ec-40f0-9b9f-5c5aacb5b862",
+                "parent_id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "name": "金門縣",
+                "lft": "619",
+                "rght": "632",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02087-7760-4839-a8bd-5c5aacb5b862",
+                "parent_id": "53c02086-e5ec-40f0-9b9f-5c5aacb5b862",
+                "name": "金寧鄉",
+                "lft": "626",
+                "rght": "627",
+                "population": "26868",
+                "population_electors": "21893",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-ec60-4433-a4bd-74a5cf91e152",
+                "keywords": "2014-11,鄉鎮市長,金門縣,金寧鄉"
+            }
+        }
+    ]
+}

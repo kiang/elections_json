@@ -1,0 +1,139 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b553f-92a8-463f-a1fd-1926acb5b862",
+            "election_id": "53c021d3-d280-4d17-91c3-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "772",
+            "name": "莊錦燿",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1961-10-05",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:41:03",
+            "modified": "2015-02-08 23:44:50"
+        },
+        "Election": {
+            "id": "53c021d3-d280-4d17-91c3-5c5aacb5b862",
+            "population_electors": "1844",
+            "population": "2209",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "Area": [
+                {
+                    "id": "53c01cd4-1880-48a0-8747-5460acb5b862",
+                    "name": "山崇里",
+                    "AreasElection": {
+                        "id": "53c021d3-f370-4795-aa62-5c5aacb5b862",
+                        "Election_id": "53c021d3-d280-4d17-91c3-5c5aacb5b862",
+                        "Area_id": "53c01cd4-1880-48a0-8747-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54abfcfb-c370-478e-87b1-59436ab936af",
+                "name": "2014當選無效之訴-南投縣",
+                "CandidatesTag": {
+                    "id": "54abfd1d-7728-4da2-a75d-59246ab936af",
+                    "Candidate_id": "540b553f-92a8-463f-a1fd-1926acb5b862",
+                    "Tag_id": "54abfcfb-c370-478e-87b1-59436ab936af"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "南投縣",
+                "lft": "5649",
+                "rght": "6200",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021d1-cd98-4442-9ddf-5c5aacb5b862",
+                "parent_id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "name": "竹山鎮",
+                "lft": "5844",
+                "rght": "5901",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021d3-d280-4d17-91c3-5c5aacb5b862",
+                "parent_id": "53c021d1-cd98-4442-9ddf-5c5aacb5b862",
+                "name": "山崇里",
+                "lft": "5871",
+                "rght": "5872",
+                "population": "2209",
+                "population_electors": "1844",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2014-11,村里長,南投縣,竹山鎮,山崇里"
+            }
+        }
+    ]
+}

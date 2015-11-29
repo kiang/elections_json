@@ -1,0 +1,125 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c68f87-8d40-4940-9960-0f15acb5b862",
+            "election_id": "53c4114b-7a60-49c0-bfce-6f55acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "0",
+            "vote_count": "0",
+            "name": "顏蔡淑惠",
+            "image": "549fa177\/8f9c\/4317\/a81e\/4e826ab936af.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "05-3412706",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "624嘉義縣義竹鄉六桂村162-3號",
+            "links": "",
+            "gender": "f",
+            "no": "0",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "新塭國小 明達中學",
+            "experience": "（一） 義竹鄉鄉民代表第十五、十六、十七屆代表。 （二） 義竹鄉婦女會理事。",
+            "created": "2014-07-16 22:43:19",
+            "modified": "2014-12-28 14:34:59"
+        },
+        "Election": {
+            "id": "53c4114b-7a60-49c0-bfce-6f55acb5b862",
+            "population_electors": "41209",
+            "population": "48167",
+            "quota": "3",
+            "quota_women": "0",
+            "bulletin_key": "5474264a-1558-4dd5-87a3-2d82cf91e152",
+            "Area": [
+                {
+                    "id": "53c01d21-fc8c-4575-9a8b-5460acb5b862",
+                    "name": "布袋鎮",
+                    "AreasElection": {
+                        "id": "53c4114b-f8d4-41f9-b252-6f55acb5b862",
+                        "Election_id": "53c4114b-7a60-49c0-bfce-6f55acb5b862",
+                        "Area_id": "53c01d21-fc8c-4575-9a8b-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01d39-e104-46d6-bd77-5460acb5b862",
+                    "name": "義竹鄉",
+                    "AreasElection": {
+                        "id": "53c4114d-f77c-46ad-871b-6f55acb5b862",
+                        "Election_id": "53c4114b-7a60-49c0-bfce-6f55acb5b862",
+                        "Area_id": "53c01d39-e104-46d6-bd77-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "縣市議員",
+                "lft": "306",
+                "rght": "607",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02084-5d5c-4d45-8240-5c5aacb5b862",
+                "parent_id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "name": "嘉義縣",
+                "lft": "451",
+                "rght": "466",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c4114b-7a60-49c0-bfce-6f55acb5b862",
+                "parent_id": "53c02084-5d5c-4d45-8240-5c5aacb5b862",
+                "name": "第05選區[區域]",
+                "lft": "460",
+                "rght": "461",
+                "population": "48167",
+                "population_electors": "41209",
+                "quota": "3",
+                "quota_women": "0",
+                "bulletin_key": "5474264a-1558-4dd5-87a3-2d82cf91e152",
+                "keywords": "2014-11,縣市議員,嘉義縣,第05選區[區域]"
+            }
+        }
+    ]
+}

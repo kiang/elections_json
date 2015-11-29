@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c026ab-ae64-4a6d-b0cc-5dffacb5b862",
+            "election_id": "53c02495-f788-490e-b6e0-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1578",
+            "name": "羅仕滄",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "LO SHICHANG",
+            "birth_place": "新北市",
+            "birth": "1956-07-30",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:40:57"
+        },
+        "Election": {
+            "id": "53c02495-f788-490e-b6e0-5c5aacb5b862",
+            "population_electors": "3151",
+            "population": "3802",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eec9d-c534-4772-ac64-180dcf91e152",
+            "Area": [
+                {
+                    "id": "53c01ef1-f344-4d11-ba8e-5460acb5b862",
+                    "name": "枋寮里",
+                    "AreasElection": {
+                        "id": "53c02495-4094-4f64-8617-5c5aacb5b862",
+                        "Election_id": "53c02495-f788-490e-b6e0-5c5aacb5b862",
+                        "Area_id": "53c01ef1-f344-4d11-ba8e-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新北市",
+                "lft": "14261",
+                "rght": "16384",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02493-e710-4be9-9de8-5c5aacb5b862",
+                "parent_id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "name": "中和區",
+                "lft": "14756",
+                "rght": "14943",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02495-f788-490e-b6e0-5c5aacb5b862",
+                "parent_id": "53c02493-e710-4be9-9de8-5c5aacb5b862",
+                "name": "枋寮里",
+                "lft": "14775",
+                "rght": "14776",
+                "population": "3802",
+                "population_electors": "3151",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eec9d-c534-4772-ac64-180dcf91e152",
+                "keywords": "2014-11,村里長,新北市,中和區,枋寮里"
+            }
+        }
+    ]
+}

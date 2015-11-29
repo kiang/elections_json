@@ -1,0 +1,124 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b56c0-2158-473a-a57e-1926acb5b862",
+            "election_id": "53c411f1-3120-4f0d-bddd-6f55acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "959",
+            "name": "釋楊悟空",
+            "image": "549aaae5\/9230\/4533\/a0d8\/10a36ab936af.jpg",
+            "party": "親民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "臉書 http:\/\/www.facebook.com\/pages\/%E8%A6%AA%E6%B0%91%E9%BB%A8-%E6%8F%90%E5%90%8D-%E9%87%8B%E6%A5%8A%E6%82%9F%E7%A9%BA-%E8%8A%B1%E8%93%AE%E7%B8%A3%E7%AC%AC%E4%B8%80%E9%81%B8%E5%8D%80%E8%8A%B1%E8%93%AE%E5%B8%82-%E7%B8%A3%E8%AD%B0%E5%93%A1\/283263788478328\\n臉書 http:\/\/www.facebook.com\/pages\/%E9%87%8B%E6%A5%8A%E6%82%9F%E7%A9%BA-%E5%BE%8C%E6%8F%B4%E6%9C%83\/245356492320885",
+            "gender": "m",
+            "no": "6",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "SHIE YANG WU KONG",
+            "birth_place": "臺灣省",
+            "birth": "1954-05-11",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:47:28",
+            "modified": "2015-02-08 23:41:55"
+        },
+        "Election": {
+            "id": "53c411f1-3120-4f0d-bddd-6f55acb5b862",
+            "population_electors": "81978",
+            "population": "106355",
+            "quota": "9",
+            "quota_women": "2",
+            "bulletin_key": "546c3664-a3b8-4e6c-b123-4187cf91e152",
+            "Area": [
+                {
+                    "id": "53c01daa-1c40-4c1c-a1d9-5460acb5b862",
+                    "name": "花蓮市",
+                    "AreasElection": {
+                        "id": "53c411f1-13b0-4b87-b707-6f55acb5b862",
+                        "Election_id": "53c411f1-3120-4f0d-bddd-6f55acb5b862",
+                        "Area_id": "53c01daa-1c40-4c1c-a1d9-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54130d54-9e9c-4000-a3b7-79a1cb455a61",
+                "name": "2014親民黨",
+                "CandidatesTag": {
+                    "id": "54130ddd-b654-456b-b9de-799bcb455a61",
+                    "Candidate_id": "540b56c0-2158-473a-a57e-1926acb5b862",
+                    "Tag_id": "54130d54-9e9c-4000-a3b7-79a1cb455a61"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "縣市議員",
+                "lft": "306",
+                "rght": "607",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02084-5b54-43be-89be-5c5aacb5b862",
+                "parent_id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "name": "花蓮縣",
+                "lft": "533",
+                "rght": "554",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c411f1-3120-4f0d-bddd-6f55acb5b862",
+                "parent_id": "53c02084-5b54-43be-89be-5c5aacb5b862",
+                "name": "第01選區[區域]",
+                "lft": "534",
+                "rght": "535",
+                "population": "106355",
+                "population_electors": "81978",
+                "quota": "9",
+                "quota_women": "2",
+                "bulletin_key": "546c3664-a3b8-4e6c-b123-4187cf91e152",
+                "keywords": "2014-11,縣市議員,花蓮縣,第01選區[區域]"
+            }
+        }
+    ]
+}

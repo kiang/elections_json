@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b533a-f204-4781-8989-1926acb5b862",
+            "election_id": "53c024a4-bc74-4a1f-881e-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "652",
+            "name": "薛凌亞",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "1",
+            "education_level": "碩士",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺北市",
+            "birth": "1971-10-14",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:32:26",
+            "modified": "2015-02-08 23:40:59"
+        },
+        "Election": {
+            "id": "53c024a4-bc74-4a1f-881e-5c5aacb5b862",
+            "population_electors": "3022",
+            "population": "3710",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-c45c-4e0f-abf1-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01f00-46c0-4be0-bd86-5460acb5b862",
+                    "name": "永貞里",
+                    "AreasElection": {
+                        "id": "53c024a4-bb20-4ce4-8114-5c5aacb5b862",
+                        "Election_id": "53c024a4-bc74-4a1f-881e-5c5aacb5b862",
+                        "Area_id": "53c01f00-46c0-4be0-bd86-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新北市",
+                "lft": "14261",
+                "rght": "16384",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c024a3-a5b8-4809-908e-5c5aacb5b862",
+                "parent_id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "name": "永和區",
+                "lft": "14944",
+                "rght": "15069",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c024a4-bc74-4a1f-881e-5c5aacb5b862",
+                "parent_id": "53c024a3-a5b8-4809-908e-5c5aacb5b862",
+                "name": "永貞里",
+                "lft": "14957",
+                "rght": "14958",
+                "population": "3710",
+                "population_electors": "3022",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-c45c-4e0f-abf1-1a32cf91e152",
+                "keywords": "2014-11,村里長,新北市,永和區,永貞里"
+            }
+        }
+    ]
+}

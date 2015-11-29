@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c027f0-cd2c-4f01-a25e-5dffacb5b862",
+            "election_id": "53c021d5-f580-4899-8627-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "307",
+            "name": "楊麗娜",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "2",
+            "education_level": "專科",
+            "is_present": true,
+            "name_english": "Yang Li nou",
+            "birth_place": "臺灣省",
+            "birth": "1963-06-02",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:44:50"
+        },
+        "Election": {
+            "id": "53c021d5-f580-4899-8627-5c5aacb5b862",
+            "population_electors": "638",
+            "population": "748",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "Area": [
+                {
+                    "id": "53c01cd4-da74-4c96-9ec4-5460acb5b862",
+                    "name": "富州里",
+                    "AreasElection": {
+                        "id": "53c021d5-113c-4570-83a8-5c5aacb5b862",
+                        "Election_id": "53c021d5-f580-4899-8627-5c5aacb5b862",
+                        "Area_id": "53c01cd4-da74-4c96-9ec4-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "南投縣",
+                "lft": "5649",
+                "rght": "6200",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021d1-cd98-4442-9ddf-5c5aacb5b862",
+                "parent_id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "name": "竹山鎮",
+                "lft": "5844",
+                "rght": "5901",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021d5-f580-4899-8627-5c5aacb5b862",
+                "parent_id": "53c021d1-cd98-4442-9ddf-5c5aacb5b862",
+                "name": "富州里",
+                "lft": "5889",
+                "rght": "5890",
+                "population": "748",
+                "population_electors": "638",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2014-11,村里長,南投縣,竹山鎮,富州里"
+            }
+        }
+    ]
+}

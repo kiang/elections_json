@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "550c640c-a744-485e-9bee-025cacb5b862",
+            "election_id": "55086531-af74-431e-b54e-35296ab936af",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "0",
+            "name": "蔣乃辛",
+            "image": "55acd8b6\/1314\/4052\/bf55\/490a6ab936af.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": null,
+            "education_level": "",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2015-03-21 02:16:44",
+            "modified": "2015-11-29 03:28:35"
+        },
+        "Election": {
+            "id": "55086531-af74-431e-b54e-35296ab936af",
+            "population_electors": "0",
+            "population": "0",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "Area": [
+                {
+                    "id": "55085a10-eb70-4e87-a616-3584acb5b862",
+                    "name": "大安區",
+                    "AreasElection": {
+                        "id": "550a3b4f-614c-4b53-b880-47cc6ab936af",
+                        "Election_id": "55086531-af74-431e-b54e-35296ab936af",
+                        "Area_id": "55085a10-eb70-4e87-a616-3584acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "55085db5-2e9c-4cde-8103-23d86ab936af",
+                "parent_id": null,
+                "name": "2016-01",
+                "lft": "40579",
+                "rght": "40780",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "55085e1a-c494-40e0-ba31-2f916ab936af",
+                "parent_id": "55085db5-2e9c-4cde-8103-23d86ab936af",
+                "name": "立法委員",
+                "lft": "40582",
+                "rght": "40779",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "5508628c-3f78-4969-bc3f-23d86ab936af",
+                "parent_id": "55085e1a-c494-40e0-ba31-2f916ab936af",
+                "name": "臺北市",
+                "lft": "40583",
+                "rght": "40600",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "55086531-af74-431e-b54e-35296ab936af",
+                "parent_id": "5508628c-3f78-4969-bc3f-23d86ab936af",
+                "name": "第06選區[區域]",
+                "lft": "40594",
+                "rght": "40595",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2016-01,立法委員,臺北市,第06選區[區域]"
+            }
+        }
+    ]
+}

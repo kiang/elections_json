@@ -1,0 +1,101 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b56d6-ff30-4f49-b3ca-1926acb5b862",
+            "election_id": "53c0207f-f2a4-4595-ba18-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "6115",
+            "name": "莊作兵",
+            "image": "5613bd41\/f840\/49f5\/b42f\/64046ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "4",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "CHUANG TSO BIN",
+            "birth_place": "臺灣省",
+            "birth": "1933-06-15",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:47:49",
+            "modified": "2015-10-06 20:23:33"
+        },
+        "Election": {
+            "id": "53c0207f-f2a4-4595-ba18-5c5aacb5b862",
+            "population_electors": "405557",
+            "population": "536111",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-a060-42ae-8471-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c37-10a0-42e3-bddf-5460acb5b862",
+                    "name": "新竹縣",
+                    "AreasElection": {
+                        "id": "53c02080-66ec-4c52-858d-5c5aacb5b862",
+                        "Election_id": "53c0207f-f2a4-4595-ba18-5c5aacb5b862",
+                        "Area_id": "53c01c37-10a0-42e3-bddf-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-cfc8-4ab5-a63b-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "縣市長",
+                "lft": "272",
+                "rght": "305",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207f-f2a4-4595-ba18-5c5aacb5b862",
+                "parent_id": "53c0202f-cfc8-4ab5-a63b-5460acb5b862",
+                "name": "新竹縣",
+                "lft": "279",
+                "rght": "280",
+                "population": "536111",
+                "population_electors": "405557",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-a060-42ae-8471-1a32cf91e152",
+                "keywords": "2014-11,縣市長,新竹縣"
+            }
+        }
+    ]
+}

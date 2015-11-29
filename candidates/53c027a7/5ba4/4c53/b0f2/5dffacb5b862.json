@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c027a7-5ba4-4c53-b0f2-5dffacb5b862",
+            "election_id": "53c0214b-3668-4920-9a5d-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "783",
+            "name": "林學琴",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "大學",
+            "is_present": true,
+            "name_english": "LIN HSUEH CHIN",
+            "birth_place": "臺灣省",
+            "birth": "1944-10-23",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:44:35"
+        },
+        "Election": {
+            "id": "53c0214b-3668-4920-9a5d-5c5aacb5b862",
+            "population_electors": "2192",
+            "population": "2717",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-8a88-4261-9ec2-4187cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c63-a5ac-48cf-8f7a-5460acb5b862",
+                    "name": "民生里",
+                    "AreasElection": {
+                        "id": "53c0214b-29c8-4bf4-80a5-5c5aacb5b862",
+                        "Election_id": "53c0214b-3668-4920-9a5d-5c5aacb5b862",
+                        "Area_id": "53c01c63-a5ac-48cf-8f7a-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02135-5cc8-4f9d-a971-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "苗栗縣",
+                "lft": "3831",
+                "rght": "4416",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02146-7fd4-4795-8239-5c5aacb5b862",
+                "parent_id": "53c02135-5cc8-4f9d-a971-5c5aacb5b862",
+                "name": "頭份鎮",
+                "lft": "4044",
+                "rght": "4109",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0214b-3668-4920-9a5d-5c5aacb5b862",
+                "parent_id": "53c02146-7fd4-4795-8239-5c5aacb5b862",
+                "name": "民生里",
+                "lft": "4105",
+                "rght": "4106",
+                "population": "2717",
+                "population_electors": "2192",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-8a88-4261-9ec2-4187cf91e152",
+                "keywords": "2014-11,村里長,苗栗縣,頭份鎮,民生里"
+            }
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c028c6-97c8-4e57-86bc-5dffacb5b862",
+            "election_id": "53c02082-a760-435a-a3de-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "66108",
+            "name": "陳以真",
+            "image": "542e833f\/9a08\/4b8b\/ad39\/2417cb455a61.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "\\n臉書 http:\/\/www.facebook.com\/1977yichen",
+            "gender": "f",
+            "no": "3",
+            "education_level": "大學",
+            "is_present": false,
+            "name_english": "CHEN YI CHEN",
+            "birth_place": "臺北市",
+            "birth": "1977-01-25",
+            "platform": "",
+            "education": "中山女中畢業\\n國立成功大學中文系\\n國立嘉義大學管理研究所碩士班錄取（2014年9月中旬開學）",
+            "experience": "(社團)國立成功大學學生會會長\\n(社團)國立成功大學聯誼性社團主席\\n(社團)國立成功大學聯合校友會會長\\n(社團)國立成功大學學生議員\\n(媒體)年代新聞主播、記者、節目主持人\\n(媒體)NEWS98新聞編播、記者\\n(媒體)自由時報影評撰稿\\n行政院青年輔導委員會主任委員",
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:41:49"
+        },
+        "Election": {
+            "id": "53c02082-a760-435a-a3de-5c5aacb5b862",
+            "population_electors": "209286",
+            "population": "270826",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546b0806-83d4-475c-8321-2ff0cf91e152",
+            "Area": [
+                {
+                    "id": "53c01df8-d340-4e31-aa6e-5460acb5b862",
+                    "name": "嘉義市",
+                    "AreasElection": {
+                        "id": "53c02082-3b6c-41d6-be6f-5c5aacb5b862",
+                        "Election_id": "53c02082-a760-435a-a3de-5c5aacb5b862",
+                        "Area_id": "53c01df8-d340-4e31-aa6e-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-cfc8-4ab5-a63b-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "縣市長",
+                "lft": "272",
+                "rght": "305",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02082-a760-435a-a3de-5c5aacb5b862",
+                "parent_id": "53c0202f-cfc8-4ab5-a63b-5460acb5b862",
+                "name": "嘉義市",
+                "lft": "303",
+                "rght": "304",
+                "population": "270826",
+                "population_electors": "209286",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546b0806-83d4-475c-8321-2ff0cf91e152",
+                "keywords": "2014-11,縣市長,嘉義市"
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c027f2-2258-4686-9f0c-5dffacb5b862",
+            "election_id": "53c021d8-ba8c-4db0-98b6-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1585",
+            "name": "吳承達",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "WU CHENG TA",
+            "birth_place": "臺灣省",
+            "birth": "1964-11-10",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:44:51"
+        },
+        "Election": {
+            "id": "53c021d8-ba8c-4db0-98b6-5c5aacb5b862",
+            "population_electors": "4046",
+            "population": "5012",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54735d55-6224-407d-b950-21eacf91e152",
+            "Area": [
+                {
+                    "id": "53c01cd7-09b4-4e55-a40e-5460acb5b862",
+                    "name": "新街村",
+                    "AreasElection": {
+                        "id": "53c021d8-2ce0-478b-b6fa-5c5aacb5b862",
+                        "Election_id": "53c021d8-ba8c-4db0-98b6-5c5aacb5b862",
+                        "Area_id": "53c01cd7-09b4-4e55-a40e-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "南投縣",
+                "lft": "5649",
+                "rght": "6200",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021d7-f554-40a8-8ceb-5c5aacb5b862",
+                "parent_id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "name": "名間鄉",
+                "lft": "5926",
+                "rght": "5973",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021d8-ba8c-4db0-98b6-5c5aacb5b862",
+                "parent_id": "53c021d7-f554-40a8-8ceb-5c5aacb5b862",
+                "name": "新街村",
+                "lft": "5931",
+                "rght": "5932",
+                "population": "5012",
+                "population_electors": "4046",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54735d55-6224-407d-b950-21eacf91e152",
+                "keywords": "2014-11,村里長,南投縣,名間鄉,新街村"
+            }
+        }
+    ]
+}

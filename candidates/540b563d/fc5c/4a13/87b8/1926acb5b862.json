@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b563d-fc5c-4a13-87b8-1926acb5b862",
+            "election_id": "53c022f5-e484-4c47-92a0-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "301",
+            "name": "莊玉進",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1944-08-01",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:45:17",
+            "modified": "2015-02-08 23:45:29"
+        },
+        "Election": {
+            "id": "53c022f5-e484-4c47-92a0-5c5aacb5b862",
+            "population_electors": "1323",
+            "population": "1568",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "Area": [
+                {
+                    "id": "53c01dca-2d44-4693-b5f0-5460acb5b862",
+                    "name": "吉貝村",
+                    "AreasElection": {
+                        "id": "53c022f6-eed0-48ab-bf2f-5c5aacb5b862",
+                        "Election_id": "53c022f5-e484-4c47-92a0-5c5aacb5b862",
+                        "Area_id": "53c01dca-2d44-4693-b5f0-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022eb-48d4-448e-b49d-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "澎湖縣",
+                "lft": "9477",
+                "rght": "9682",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022f4-ff88-4dd8-9bf2-5c5aacb5b862",
+                "parent_id": "53c022eb-48d4-448e-b49d-5c5aacb5b862",
+                "name": "白沙鄉",
+                "lft": "9592",
+                "rght": "9623",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022f5-e484-4c47-92a0-5c5aacb5b862",
+                "parent_id": "53c022f4-ff88-4dd8-9bf2-5c5aacb5b862",
+                "name": "吉貝村",
+                "lft": "9605",
+                "rght": "9606",
+                "population": "1568",
+                "population_electors": "1323",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2014-11,村里長,澎湖縣,白沙鄉,吉貝村"
+            }
+        }
+    ]
+}

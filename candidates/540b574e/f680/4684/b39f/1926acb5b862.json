@@ -1,0 +1,158 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b574e-f680-4684-b39f-1926acb5b862",
+            "election_id": "53d733a9-775c-4220-a9e5-1299acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "1249",
+            "name": "蘇坤福",
+            "image": "54afe332\/a0e8\/490a\/81f4\/23f36ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1957-07-01",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:49:50",
+            "modified": "2015-02-08 23:43:17"
+        },
+        "Election": {
+            "id": "53d733a9-775c-4220-a9e5-1299acb5b862",
+            "population_electors": "7610",
+            "population": "9347",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "546ebce3-3444-458f-8d6b-2b96cf91e152",
+            "Area": [
+                {
+                    "id": "53c01cf2-5090-4517-8f88-5460acb5b862",
+                    "name": "中溪里",
+                    "AreasElection": {
+                        "id": "53d733aa-6a60-49d1-9221-1299acb5b862",
+                        "Election_id": "53d733a9-775c-4220-a9e5-1299acb5b862",
+                        "Area_id": "53c01cf2-5090-4517-8f88-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01cf2-92c0-44ff-a30d-5460acb5b862",
+                    "name": "頂溪里",
+                    "AreasElection": {
+                        "id": "53d733a9-cb70-4d56-a676-1299acb5b862",
+                        "Election_id": "53d733a9-775c-4220-a9e5-1299acb5b862",
+                        "Area_id": "53c01cf2-92c0-44ff-a30d-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01cf2-9ad8-41eb-ac31-5460acb5b862",
+                    "name": "惠來里",
+                    "AreasElection": {
+                        "id": "53d733a9-f800-4379-9009-1299acb5b862",
+                        "Election_id": "53d733a9-775c-4220-a9e5-1299acb5b862",
+                        "Area_id": "53c01cf2-9ad8-41eb-ac31-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01cf2-bd88-4e3d-8f86-5460acb5b862",
+                    "name": "下溪里",
+                    "AreasElection": {
+                        "id": "53d733aa-2fa4-47cc-a634-1299acb5b862",
+                        "Election_id": "53d733a9-775c-4220-a9e5-1299acb5b862",
+                        "Area_id": "53c01cf2-bd88-4e3d-8f86-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020c5-1718-4aea-8b3b-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "1865",
+                "rght": "2062",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020c5-b034-48ad-888b-5c5aacb5b862",
+                "parent_id": "53c020c5-1718-4aea-8b3b-5c5aacb5b862",
+                "name": "虎尾鎮",
+                "lft": "1886",
+                "rght": "1895",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d733a9-775c-4220-a9e5-1299acb5b862",
+                "parent_id": "53c020c5-b034-48ad-888b-5c5aacb5b862",
+                "name": "第03選舉區[區域]",
+                "lft": "1891",
+                "rght": "1892",
+                "population": "9347",
+                "population_electors": "7610",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "546ebce3-3444-458f-8d6b-2b96cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,雲林縣,虎尾鎮,第03選舉區[區域]"
+            }
+        }
+    ]
+}

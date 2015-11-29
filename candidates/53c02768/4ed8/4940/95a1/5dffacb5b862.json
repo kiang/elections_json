@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02768-4ed8-4940-95a1-5dffacb5b862",
+            "election_id": "53c0233d-6e18-448d-aaec-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "2926",
+            "name": "李振華",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "LI ZHEN HUA",
+            "birth_place": "新北市",
+            "birth": "1964-03-11",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:41:39"
+        },
+        "Election": {
+            "id": "53c0233d-6e18-448d-aaec-5c5aacb5b862",
+            "population_electors": "5242",
+            "population": "7139",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54744c85-9fe8-40b3-a891-45dccf91e152",
+            "Area": [
+                {
+                    "id": "53c01bfb-4b34-42aa-926f-5460acb5b862",
+                    "name": "福林里",
+                    "AreasElection": {
+                        "id": "53c0233d-529c-47d8-85b5-5c5aacb5b862",
+                        "Election_id": "53c0233d-6e18-448d-aaec-5c5aacb5b862",
+                        "Area_id": "53c01bfb-4b34-42aa-926f-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "桃園市",
+                "lft": "10439",
+                "rght": "11456",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02338-c440-45d1-8313-5c5aacb5b862",
+                "parent_id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "name": "桃園區",
+                "lft": "10440",
+                "rght": "10593",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0233d-6e18-448d-aaec-5c5aacb5b862",
+                "parent_id": "53c02338-c440-45d1-8313-5c5aacb5b862",
+                "name": "福林里",
+                "lft": "10505",
+                "rght": "10506",
+                "population": "7139",
+                "population_electors": "5242",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54744c85-9fe8-40b3-a891-45dccf91e152",
+                "keywords": "2014-11,村里長,桃園市,桃園區,福林里"
+            }
+        }
+    ]
+}

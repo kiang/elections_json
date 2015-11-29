@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5585-1254-4b57-9334-1926acb5b862",
+            "election_id": "53c0222a-fc94-4ccb-b1b5-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "325",
+            "name": "蔡錦明",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1951-11-10",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:42:13",
+            "modified": "2015-02-08 23:45:06"
+        },
+        "Election": {
+            "id": "53c0222a-fc94-4ccb-b1b5-5c5aacb5b862",
+            "population_electors": "790",
+            "population": "932",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546ec0e1-e204-4be1-b59b-2dfbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01d1b-7970-424b-b910-5460acb5b862",
+                    "name": "溪墘村",
+                    "AreasElection": {
+                        "id": "53c0222a-dbe4-41ce-987e-5c5aacb5b862",
+                        "Election_id": "53c0222a-fc94-4ccb-b1b5-5c5aacb5b862",
+                        "Area_id": "53c01d1b-7970-424b-b910-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "6201",
+                "rght": "7018",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02226-58d0-4cd4-9a2e-5c5aacb5b862",
+                "parent_id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "name": "水林鄉",
+                "lft": "6968",
+                "rght": "7017",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0222a-fc94-4ccb-b1b5-5c5aacb5b862",
+                "parent_id": "53c02226-58d0-4cd4-9a2e-5c5aacb5b862",
+                "name": "溪墘村",
+                "lft": "7013",
+                "rght": "7014",
+                "population": "932",
+                "population_electors": "790",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546ec0e1-e204-4be1-b59b-2dfbcf91e152",
+                "keywords": "2014-11,村里長,雲林縣,水林鄉,溪墘村"
+            }
+        }
+    ]
+}

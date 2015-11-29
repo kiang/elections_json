@@ -1,0 +1,158 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b573c-5b08-4000-87d4-1926acb5b862",
+            "election_id": "53d73376-8104-476d-976f-1299acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "683",
+            "name": "廖光華",
+            "image": "54a16a09\/f718\/4d17\/adaa\/38f76ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "3",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "LIAO KUANG HUA",
+            "birth_place": "省",
+            "birth": "1947-02-04",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:49:32",
+            "modified": "2015-02-08 23:42:59"
+        },
+        "Election": {
+            "id": "53d73376-8104-476d-976f-1299acb5b862",
+            "population_electors": "3885",
+            "population": "4684",
+            "quota": "4",
+            "quota_women": "1",
+            "bulletin_key": "54735d56-007c-471b-bb18-21eacf91e152",
+            "Area": [
+                {
+                    "id": "53c01cd6-3320-4ed2-b784-5460acb5b862",
+                    "name": "廣明里",
+                    "AreasElection": {
+                        "id": "53d73377-6398-4adb-9412-1299acb5b862",
+                        "Election_id": "53d73376-8104-476d-976f-1299acb5b862",
+                        "Area_id": "53c01cd6-3320-4ed2-b784-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01cd6-5ee8-4009-92c7-5460acb5b862",
+                    "name": "永昌里",
+                    "AreasElection": {
+                        "id": "53d73377-8e10-4900-b849-1299acb5b862",
+                        "Election_id": "53d73376-8104-476d-976f-1299acb5b862",
+                        "Area_id": "53c01cd6-5ee8-4009-92c7-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01cd6-b110-473c-9932-5460acb5b862",
+                    "name": "富山里",
+                    "AreasElection": {
+                        "id": "53d73377-c3f8-4f1f-b2bd-1299acb5b862",
+                        "Election_id": "53d73376-8104-476d-976f-1299acb5b862",
+                        "Area_id": "53c01cd6-b110-473c-9932-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01cd6-b62c-4b89-8f86-5460acb5b862",
+                    "name": "八張里",
+                    "AreasElection": {
+                        "id": "53d73377-4180-4ef5-87b3-1299acb5b862",
+                        "Election_id": "53d73376-8104-476d-976f-1299acb5b862",
+                        "Area_id": "53c01cd6-b62c-4b89-8f86-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020c2-2488-4d59-a20d-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "南投縣",
+                "lft": "1739",
+                "rght": "1864",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020c3-9420-4390-ad25-5c5aacb5b862",
+                "parent_id": "53c020c2-2488-4d59-a20d-5c5aacb5b862",
+                "name": "集集鎮",
+                "lft": "1778",
+                "rght": "1787",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d73376-8104-476d-976f-1299acb5b862",
+                "parent_id": "53c020c3-9420-4390-ad25-5c5aacb5b862",
+                "name": "第04選舉區[區域]",
+                "lft": "1785",
+                "rght": "1786",
+                "population": "4684",
+                "population_electors": "3885",
+                "quota": "4",
+                "quota_women": "1",
+                "bulletin_key": "54735d56-007c-471b-bb18-21eacf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,南投縣,集集鎮,第04選舉區[區域]"
+            }
+        }
+    ]
+}

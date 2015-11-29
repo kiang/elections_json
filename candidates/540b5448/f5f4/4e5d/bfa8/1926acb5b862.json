@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5448-f5f4-4e5d-bfa8-1926acb5b862",
+            "election_id": "53c0261c-aaf0-497a-8245-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "1297",
+            "name": "蔡明宏",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "TSAI MING HUNG",
+            "birth_place": "臺南市",
+            "birth": "1960-09-13",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:36:55",
+            "modified": "2015-02-08 23:41:38"
+        },
+        "Election": {
+            "id": "53c0261c-aaf0-497a-8245-5c5aacb5b862",
+            "population_electors": "5854",
+            "population": "7868",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "Area": [
+                {
+                    "id": "53c02028-8e2c-4721-a03a-5460acb5b862",
+                    "name": "國平里",
+                    "AreasElection": {
+                        "id": "53c0261c-e9f4-470e-b503-5c5aacb5b862",
+                        "Election_id": "53c0261c-aaf0-497a-8245-5c5aacb5b862",
+                        "Area_id": "53c02028-8e2c-4721-a03a-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02598-fc40-4dee-aec0-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺南市",
+                "lft": "17695",
+                "rght": "19274",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0261a-6cf8-491c-b56b-5c5aacb5b862",
+                "parent_id": "53c02598-fc40-4dee-aec0-5c5aacb5b862",
+                "name": "安平區",
+                "lft": "19164",
+                "rght": "19195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0261c-aaf0-497a-8245-5c5aacb5b862",
+                "parent_id": "53c0261a-6cf8-491c-b56b-5c5aacb5b862",
+                "name": "國平里",
+                "lft": "19183",
+                "rght": "19184",
+                "population": "7868",
+                "population_electors": "5854",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2014-11,村里長,臺南市,安平區,國平里"
+            }
+        }
+    ]
+}

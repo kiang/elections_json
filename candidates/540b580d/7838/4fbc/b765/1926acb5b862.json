@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b580d-7838-4fbc-b765-1926acb5b862",
+            "election_id": "53c0209a-4d44-4112-afea-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "230",
+            "name": "陳錦城",
+            "image": "54be6b91\/28f4\/4b01\/84e7\/19166ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "3",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1951-01-17",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:53:01",
+            "modified": "2015-02-08 23:42:01"
+        },
+        "Election": {
+            "id": "53c0209a-4d44-4112-afea-5c5aacb5b862",
+            "population_electors": "31085",
+            "population": "41856",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb720-7ed8-4f5d-8eac-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01d08-59e4-40bf-9d4b-5460acb5b862",
+                    "name": "麥寮鄉",
+                    "AreasElection": {
+                        "id": "53c0209b-2e04-469f-87a1-5c5aacb5b862",
+                        "Election_id": "53c0209a-4d44-4112-afea-5c5aacb5b862",
+                        "Area_id": "53c01d08-59e4-40bf-9d4b-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市長",
+                "lft": "608",
+                "rght": "1031",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02098-ab7c-4d32-a6a1-5c5aacb5b862",
+                "parent_id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "807",
+                "rght": "848",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0209a-4d44-4112-afea-5c5aacb5b862",
+                "parent_id": "53c02098-ab7c-4d32-a6a1-5c5aacb5b862",
+                "name": "麥寮鄉",
+                "lft": "832",
+                "rght": "833",
+                "population": "41856",
+                "population_electors": "31085",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb720-7ed8-4f5d-8eac-2adbcf91e152",
+                "keywords": "2014-11,鄉鎮市長,雲林縣,麥寮鄉"
+            }
+        }
+    ]
+}

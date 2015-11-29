@@ -1,0 +1,139 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c0270b-95b4-4d32-8352-5dffacb5b862",
+            "election_id": "53c02576-715c-4281-a7a4-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "569",
+            "name": "何光枝",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺中市",
+            "birth": "1953-04-21",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:41:19"
+        },
+        "Election": {
+            "id": "53c02576-715c-4281-a7a4-5c5aacb5b862",
+            "population_electors": "1219",
+            "population": "1506",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c63e0-b448-4b30-ae73-5b06cf91e152",
+            "Area": [
+                {
+                    "id": "53c01fa7-2418-4132-88f8-5460acb5b862",
+                    "name": "東興里",
+                    "AreasElection": {
+                        "id": "53c02576-ceb8-4331-8b26-5c5aacb5b862",
+                        "Election_id": "53c02576-715c-4281-a7a4-5c5aacb5b862",
+                        "Area_id": "53c01fa7-2418-4132-88f8-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54ab2a97-e048-4ec6-8404-2a4c6ab936af",
+                "name": "2014當選無效之訴-臺中市",
+                "CandidatesTag": {
+                    "id": "54ab344b-9b7c-4006-8df2-2c796ab936af",
+                    "Candidate_id": "53c0270b-95b4-4d32-8352-5dffacb5b862",
+                    "Tag_id": "54ab2a97-e048-4ec6-8404-2a4c6ab936af"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02574-fc60-47d6-b8d9-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "新社區",
+                "lft": "17294",
+                "rght": "17321",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02576-715c-4281-a7a4-5c5aacb5b862",
+                "parent_id": "53c02574-fc60-47d6-b8d9-5c5aacb5b862",
+                "name": "東興里",
+                "lft": "17309",
+                "rght": "17310",
+                "population": "1506",
+                "population_electors": "1219",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c63e0-b448-4b30-ae73-5b06cf91e152",
+                "keywords": "2014-11,村里長,臺中市,新社區,東興里"
+            }
+        }
+    ]
+}

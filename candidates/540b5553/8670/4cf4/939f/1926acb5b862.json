@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5553-8670-4cf4-939f-1926acb5b862",
+            "election_id": "53c021ee-6edc-4a7d-99ab-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1377",
+            "name": "黃玉昭",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "2",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1951-09-26",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:41:23",
+            "modified": "2015-02-08 23:44:59"
+        },
+        "Election": {
+            "id": "53c021ee-6edc-4a7d-99ab-5c5aacb5b862",
+            "population_electors": "4229",
+            "population": "5794",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546ec076-fcc0-45c2-a34d-2d4fcf91e152",
+            "Area": [
+                {
+                    "id": "53c01ce9-a580-4c53-86b6-5460acb5b862",
+                    "name": "三平里",
+                    "AreasElection": {
+                        "id": "53c021ee-1010-4cc2-8105-5c5aacb5b862",
+                        "Election_id": "53c021ee-6edc-4a7d-99ab-5c5aacb5b862",
+                        "Area_id": "53c01ce9-a580-4c53-86b6-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "6201",
+                "rght": "7018",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e218-48e1-a17c-5c5aacb5b862",
+                "parent_id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "name": "斗六市",
+                "lft": "6202",
+                "rght": "6279",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ee-6edc-4a7d-99ab-5c5aacb5b862",
+                "parent_id": "53c021ec-e218-48e1-a17c-5c5aacb5b862",
+                "name": "三平里",
+                "lft": "6225",
+                "rght": "6226",
+                "population": "5794",
+                "population_electors": "4229",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546ec076-fcc0-45c2-a34d-2d4fcf91e152",
+                "keywords": "2014-11,村里長,雲林縣,斗六市,三平里"
+            }
+        }
+    ]
+}

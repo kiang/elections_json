@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b57f8-b3e8-4419-bb7a-1926acb5b862",
+            "election_id": "53d734da-2a04-48b4-ac2a-1299acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1158",
+            "name": "許惠玲",
+            "image": "548ec920\/2cd8\/4127\/a9f3\/5cb76ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "f",
+            "no": "12",
+            "education_level": "",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:52:40",
+            "modified": "2015-02-08 23:42:04"
+        },
+        "Election": {
+            "id": "53d734da-2a04-48b4-ac2a-1299acb5b862",
+            "population_electors": "33367",
+            "population": "40500",
+            "quota": "11",
+            "quota_women": "2",
+            "bulletin_key": "5469b450-ac50-41cf-8a00-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01bd1-9eec-4217-ac52-5460acb5b862",
+                    "name": "金城鎮",
+                    "AreasElection": {
+                        "id": "53d734da-f538-4159-b566-1299acb5b862",
+                        "Election_id": "53d734da-2a04-48b4-ac2a-1299acb5b862",
+                        "Area_id": "53c01bd1-9eec-4217-ac52-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b0-f680-455c-a5b8-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "金門縣",
+                "lft": "1051",
+                "rght": "1076",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b0-5990-4d66-8930-5c5aacb5b862",
+                "parent_id": "53c020b0-f680-455c-a5b8-5c5aacb5b862",
+                "name": "金城鎮",
+                "lft": "1052",
+                "rght": "1055",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d734da-2a04-48b4-ac2a-1299acb5b862",
+                "parent_id": "53c020b0-5990-4d66-8930-5c5aacb5b862",
+                "name": "第01選舉區[區域]",
+                "lft": "1053",
+                "rght": "1054",
+                "population": "40500",
+                "population_electors": "33367",
+                "quota": "11",
+                "quota_women": "2",
+                "bulletin_key": "5469b450-ac50-41cf-8a00-74a5cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,金門縣,金城鎮,第01選舉區[區域]"
+            }
+        }
+    ]
+}

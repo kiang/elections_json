@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b55fd-27c4-4034-800f-1926acb5b862",
+            "election_id": "53c02107-5700-4196-8970-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1683",
+            "name": "鄭惠正",
+            "image": null,
+            "party": "民主進步黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1965-05-22",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:44:13",
+            "modified": "2015-02-08 23:44:27"
+        },
+        "Election": {
+            "id": "53c02107-5700-4196-8970-5c5aacb5b862",
+            "population_electors": "5187",
+            "population": "6405",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-3ea8-4353-908e-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01bea-0e20-4bb9-85d2-5460acb5b862",
+                    "name": "員山村",
+                    "AreasElection": {
+                        "id": "53c02107-84f8-457b-bc38-5c5aacb5b862",
+                        "Election_id": "53c02107-5700-4196-8970-5c5aacb5b862",
+                        "Area_id": "53c01bea-0e20-4bb9-85d2-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ef-6268-4b1a-a16d-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "宜蘭縣",
+                "lft": "2929",
+                "rght": "3420",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02107-fb88-451c-8cf2-5c5aacb5b862",
+                "parent_id": "53c020ef-6268-4b1a-a16d-5c5aacb5b862",
+                "name": "員山鄉",
+                "lft": "3228",
+                "rght": "3261",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02107-5700-4196-8970-5c5aacb5b862",
+                "parent_id": "53c02107-fb88-451c-8cf2-5c5aacb5b862",
+                "name": "員山村",
+                "lft": "3233",
+                "rght": "3234",
+                "population": "6405",
+                "population_electors": "5187",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-3ea8-4353-908e-2adbcf91e152",
+                "keywords": "2014-11,村里長,宜蘭縣,員山鄉,員山村"
+            }
+        }
+    ]
+}

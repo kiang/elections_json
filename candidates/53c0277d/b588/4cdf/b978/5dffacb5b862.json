@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c0277d-b588-4cdf-b978-5dffacb5b862",
+            "election_id": "53c02366-93e0-4ce1-8e62-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1676",
+            "name": "許石義",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1940-08-05",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:41:44"
+        },
+        "Election": {
+            "id": "53c02366-93e0-4ce1-8e62-5c5aacb5b862",
+            "population_electors": "5758",
+            "population": "7545",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546f277f-2424-479f-be10-2f28cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c1e-c0f0-4cb4-8c47-5460acb5b862",
+                    "name": "龜山里",
+                    "AreasElection": {
+                        "id": "53c02366-f078-4f40-9fd2-5c5aacb5b862",
+                        "Election_id": "53c02366-93e0-4ce1-8e62-5c5aacb5b862",
+                        "Area_id": "53c01c1e-c0f0-4cb4-8c47-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "桃園市",
+                "lft": "10439",
+                "rght": "11456",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02365-de64-458c-9c1c-5c5aacb5b862",
+                "parent_id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "name": "龜山區",
+                "lft": "11020",
+                "rght": "11081",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02366-93e0-4ce1-8e62-5c5aacb5b862",
+                "parent_id": "53c02365-de64-458c-9c1c-5c5aacb5b862",
+                "name": "龜山里",
+                "lft": "11033",
+                "rght": "11034",
+                "population": "7545",
+                "population_electors": "5758",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546f277f-2424-479f-be10-2f28cf91e152",
+                "keywords": "2014-11,村里長,桃園市,龜山區,龜山里"
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02670-cedc-4cf6-a16a-5dffacb5b862",
+            "election_id": "53c02413-6374-49f0-94d0-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "985",
+            "name": "潘石誠",
+            "image": null,
+            "party": "民主進步黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "PAN SHIH CHENG",
+            "birth_place": "高雄市",
+            "birth": "1954-05-21",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:40:43"
+        },
+        "Election": {
+            "id": "53c02413-6374-49f0-94d0-5c5aacb5b862",
+            "population_electors": "1936",
+            "population": "2291",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb720-6e0c-4984-acfc-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01e7d-cff8-4cb5-a483-5460acb5b862",
+                    "name": "西甲里",
+                    "AreasElection": {
+                        "id": "53c02413-7f50-413a-940f-5c5aacb5b862",
+                        "Election_id": "53c02413-6374-49f0-94d0-5c5aacb5b862",
+                        "Area_id": "53c01e7d-cff8-4cb5-a483-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0240c-9e90-4444-95a6-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "前鎮區",
+                "lft": "13098",
+                "rght": "13217",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02413-6374-49f0-94d0-5c5aacb5b862",
+                "parent_id": "53c0240c-9e90-4444-95a6-5c5aacb5b862",
+                "name": "西甲里",
+                "lft": "13161",
+                "rght": "13162",
+                "population": "2291",
+                "population_electors": "1936",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb720-6e0c-4984-acfc-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,前鎮區,西甲里"
+            }
+        }
+    ]
+}

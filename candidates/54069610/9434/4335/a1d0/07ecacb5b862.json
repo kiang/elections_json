@@ -1,0 +1,151 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "54069610-9434-4335-a1d0-07ecacb5b862",
+            "election_id": "53c40087-3c78-4126-a3ae-6cceacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "5279",
+            "name": "歐陽瑞蓮",
+            "image": "5436672f\/5930\/4508\/b965\/1a38cb455a61.jpg",
+            "party": "台灣團結聯盟",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "臉書 http:\/\/www.facebook.com\/yyteddyy\\n臉書 http:\/\/www.facebook.com\/teddy.ouyang\\n鄉民參政行動聯盟的基層訪談 http:\/\/www.ptt.cc\/bbs\/PublicIssue\/M.1414759801.A.A57.html",
+            "gender": "f",
+            "no": "20",
+            "education_level": "碩士",
+            "is_present": false,
+            "name_english": "OU YANG JUI LIEN",
+            "birth_place": "臺北市",
+            "birth": "1976-02-26",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-03 12:16:16",
+            "modified": "2015-02-08 23:40:14"
+        },
+        "Election": {
+            "id": "53c40087-3c78-4126-a3ae-6cceacb5b862",
+            "population_electors": "463337",
+            "population": "586158",
+            "quota": "13",
+            "quota_women": "3",
+            "bulletin_key": "5469b450-8564-4acc-92b7-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01e11-665c-4484-88b0-5460acb5b862",
+                    "name": "大安區",
+                    "AreasElection": {
+                        "id": "53c406dc-df40-4525-816c-6dacacb5b862",
+                        "Election_id": "53c40087-3c78-4126-a3ae-6cceacb5b862",
+                        "Area_id": "53c01e11-665c-4484-88b0-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01e2a-b7c4-4e75-8709-5460acb5b862",
+                    "name": "文山區",
+                    "AreasElection": {
+                        "id": "53c406dc-2b0c-4e86-99fb-6dacacb5b862",
+                        "Election_id": "53c40087-3c78-4126-a3ae-6cceacb5b862",
+                        "Area_id": "53c01e2a-b7c4-4e75-8709-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54130aa1-b290-463d-9ffd-79a1cb455a61",
+                "name": "2014台灣團結聯盟",
+                "CandidatesTag": {
+                    "id": "54130b17-6bd8-4a95-a807-799ccb455a61",
+                    "Candidate_id": "54069610-9434-4335-a1d0-07ecacb5b862",
+                    "Tag_id": "54130aa1-b290-463d-9ffd-79a1cb455a61"
+                }
+            },
+            {
+                "id": "541f0273-6fac-4491-868d-53e8cb455a61",
+                "name": "2014青年佔領政治",
+                "CandidatesTag": {
+                    "id": "541f0562-c30c-47ea-8619-57e3cb455a61",
+                    "Candidate_id": "54069610-9434-4335-a1d0-07ecacb5b862",
+                    "Tag_id": "541f0273-6fac-4491-868d-53e8cb455a61"
+                }
+            },
+            {
+                "id": "54619d23-ee3c-422d-83a8-08ce8e043389",
+                "name": "2014鄉民參政行動聯盟訪談",
+                "CandidatesTag": {
+                    "id": "54619d8e-784c-4304-a50e-08cf8e043389",
+                    "Candidate_id": "54069610-9434-4335-a1d0-07ecacb5b862",
+                    "Tag_id": "54619d23-ee3c-422d-83a8-08ce8e043389"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207e-df00-40ad-b2bd-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "臺北市",
+                "lft": "47",
+                "rght": "64",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c40087-3c78-4126-a3ae-6cceacb5b862",
+                "parent_id": "53c0207e-df00-40ad-b2bd-5c5aacb5b862",
+                "name": "第06選區[區域]",
+                "lft": "58",
+                "rght": "59",
+                "population": "586158",
+                "population_electors": "463337",
+                "quota": "13",
+                "quota_women": "3",
+                "bulletin_key": "5469b450-8564-4acc-92b7-74a5cf91e152",
+                "keywords": "2014-11,直轄市議員,臺北市,第06選區[區域]"
+            }
+        }
+    ]
+}

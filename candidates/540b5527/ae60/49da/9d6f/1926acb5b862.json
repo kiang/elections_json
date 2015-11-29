@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5527-ae60-49da-9d6f-1926acb5b862",
+            "election_id": "53c021ae-e53c-40f8-bb6c-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "476",
+            "name": "曾文昌",
+            "image": "546dc7ba\/f978\/4503\/9aa7\/01c28e043389.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "2",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "TSENG WEN CHANG",
+            "birth_place": "臺灣省",
+            "birth": "1953-03-25",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:40:39",
+            "modified": "2015-02-08 23:44:46"
+        },
+        "Election": {
+            "id": "53c021ae-e53c-40f8-bb6c-5c5aacb5b862",
+            "population_electors": "986",
+            "population": "1153",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-57d4-4a42-930f-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01cb8-205c-4b00-b4ba-5460acb5b862",
+                    "name": "東華里",
+                    "AreasElection": {
+                        "id": "53c021ae-c7ac-406f-8b24-5c5aacb5b862",
+                        "Election_id": "53c021ae-e53c-40f8-bb6c-5c5aacb5b862",
+                        "Area_id": "53c01cb8-205c-4b00-b4ba-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "4417",
+                "rght": "5648",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ab-ac18-4535-883c-5c5aacb5b862",
+                "parent_id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "name": "二林鎮",
+                "lft": "5358",
+                "rght": "5413",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ae-e53c-40f8-bb6c-5c5aacb5b862",
+                "parent_id": "53c021ab-ac18-4535-883c-5c5aacb5b862",
+                "name": "東華里",
+                "lft": "5393",
+                "rght": "5394",
+                "population": "1153",
+                "population_electors": "986",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-57d4-4a42-930f-74a5cf91e152",
+                "keywords": "2014-11,村里長,彰化縣,二林鎮,東華里"
+            }
+        }
+    ]
+}

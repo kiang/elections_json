@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02772-1d60-4116-b60c-5dffacb5b862",
+            "election_id": "53c0234f-2ea0-468f-8a7e-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1034",
+            "name": "梁惠鈴",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "2",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "LIANG HUI LING",
+            "birth_place": "臺灣省",
+            "birth": "1961-02-17",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:41:41"
+        },
+        "Election": {
+            "id": "53c0234f-2ea0-468f-8a7e-5c5aacb5b862",
+            "population_electors": "3301",
+            "population": "4267",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-9c94-4ba5-825d-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c0a-70b8-4b44-9c30-5460acb5b862",
+                    "name": "至善里",
+                    "AreasElection": {
+                        "id": "53c0234f-0e34-439b-85e0-5c5aacb5b862",
+                        "Election_id": "53c0234f-2ea0-468f-8a7e-5c5aacb5b862",
+                        "Area_id": "53c01c0a-70b8-4b44-9c30-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "桃園市",
+                "lft": "10439",
+                "rght": "11456",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02344-9b04-46f5-8e6f-5c5aacb5b862",
+                "parent_id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "name": "中壢區",
+                "lft": "10594",
+                "rght": "10765",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0234f-2ea0-468f-8a7e-5c5aacb5b862",
+                "parent_id": "53c02344-9b04-46f5-8e6f-5c5aacb5b862",
+                "name": "至善里",
+                "lft": "10725",
+                "rght": "10726",
+                "population": "4267",
+                "population_electors": "3301",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-9c94-4ba5-825d-1a32cf91e152",
+                "keywords": "2014-11,村里長,桃園市,中壢區,至善里"
+            }
+        }
+    ]
+}

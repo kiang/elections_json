@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5335-8820-4c6d-bfd9-1926acb5b862",
+            "election_id": "53c0249b-5da8-49d3-8cda-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "1104",
+            "name": "林尚達",
+            "image": null,
+            "party": "民主進步黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "專科",
+            "is_present": false,
+            "name_english": "LIN SHANG TA",
+            "birth_place": "新北市",
+            "birth": "1963-01-24",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:32:21",
+            "modified": "2015-02-08 23:40:58"
+        },
+        "Election": {
+            "id": "53c0249b-5da8-49d3-8cda-5c5aacb5b862",
+            "population_electors": "4729",
+            "population": "5573",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eec9d-667c-4786-88ad-180dcf91e152",
+            "Area": [
+                {
+                    "id": "53c01ef6-5a24-47d7-81ae-5460acb5b862",
+                    "name": "景平里",
+                    "AreasElection": {
+                        "id": "53c0249b-a568-45ec-ad74-5c5aacb5b862",
+                        "Election_id": "53c0249b-5da8-49d3-8cda-5c5aacb5b862",
+                        "Area_id": "53c01ef6-5a24-47d7-81ae-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新北市",
+                "lft": "14261",
+                "rght": "16384",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02493-e710-4be9-9de8-5c5aacb5b862",
+                "parent_id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "name": "中和區",
+                "lft": "14756",
+                "rght": "14943",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0249b-5da8-49d3-8cda-5c5aacb5b862",
+                "parent_id": "53c02493-e710-4be9-9de8-5c5aacb5b862",
+                "name": "景平里",
+                "lft": "14851",
+                "rght": "14852",
+                "population": "5573",
+                "population_electors": "4729",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eec9d-667c-4786-88ad-180dcf91e152",
+                "keywords": "2014-11,村里長,新北市,中和區,景平里"
+            }
+        }
+    ]
+}

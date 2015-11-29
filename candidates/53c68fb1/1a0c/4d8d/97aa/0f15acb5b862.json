@@ -1,0 +1,151 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c68fb1-1a0c-4d8d-97aa-0f15acb5b862",
+            "election_id": "53c400af-ccb0-488d-93d5-6cceacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "14954",
+            "name": "曾王雅雲",
+            "image": "548abc57\/5760\/4eb0\/8909\/72eb6ab936af.jpg",
+            "party": "民主進步黨",
+            "contacts_phone": "06-5957555",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "718台南市關廟區南雄路二段68號",
+            "links": "臉書 http:\/\/www.facebook.com\/TsengWangYiaYung",
+            "gender": "f",
+            "no": "5",
+            "education_level": "碩士",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺南市",
+            "birth": "1962-06-26",
+            "platform": "",
+            "education": "美國貝澤爾大學教育碩士",
+            "experience": "第16屆臺南縣議員  第1屆直轄市臺南市議員",
+            "created": "2014-07-16 22:44:01",
+            "modified": "2015-02-08 23:40:26"
+        },
+        "Election": {
+            "id": "53c400af-ccb0-488d-93d5-6cceacb5b862",
+            "population_electors": "146070",
+            "population": "179550",
+            "quota": "5",
+            "quota_women": "1",
+            "bulletin_key": "5469b450-3720-41b4-b1c8-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01ffc-3160-4fff-8761-5460acb5b862",
+                    "name": "仁德區",
+                    "AreasElection": {
+                        "id": "53c406eb-8a6c-4bdc-adc0-6dacacb5b862",
+                        "Election_id": "53c400af-ccb0-488d-93d5-6cceacb5b862",
+                        "Area_id": "53c01ffc-3160-4fff-8761-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c02000-09c4-4078-a5a2-5460acb5b862",
+                    "name": "歸仁區",
+                    "AreasElection": {
+                        "id": "53c406eb-d484-4af2-b1bf-6dacacb5b862",
+                        "Election_id": "53c400af-ccb0-488d-93d5-6cceacb5b862",
+                        "Area_id": "53c02000-09c4-4078-a5a2-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c02003-2078-4be3-b344-5460acb5b862",
+                    "name": "關廟區",
+                    "AreasElection": {
+                        "id": "53c406eb-9a78-4672-bd60-6dacacb5b862",
+                        "Election_id": "53c400af-ccb0-488d-93d5-6cceacb5b862",
+                        "Area_id": "53c02003-2078-4be3-b344-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c02006-2270-49a4-ba23-5460acb5b862",
+                    "name": "龍崎區",
+                    "AreasElection": {
+                        "id": "53c406eb-03e8-4fe4-aec6-6dacacb5b862",
+                        "Election_id": "53c400af-ccb0-488d-93d5-6cceacb5b862",
+                        "Area_id": "53c02006-2270-49a4-ba23-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54131434-4b14-4c38-9445-2c85cb455a61",
+                "name": "2014台灣獨立建國選舉連線",
+                "CandidatesTag": {
+                    "id": "54131725-bcf4-441a-a31a-2c85cb455a61",
+                    "Candidate_id": "53c68fb1-1a0c-4d8d-97aa-0f15acb5b862",
+                    "Tag_id": "54131434-4b14-4c38-9445-2c85cb455a61"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207f-29bc-4258-90c0-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "臺南市",
+                "lft": "157",
+                "rght": "194",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c400af-ccb0-488d-93d5-6cceacb5b862",
+                "parent_id": "53c0207f-29bc-4258-90c0-5c5aacb5b862",
+                "name": "第16選區[區域]",
+                "lft": "188",
+                "rght": "189",
+                "population": "179550",
+                "population_electors": "146070",
+                "quota": "5",
+                "quota_women": "1",
+                "bulletin_key": "5469b450-3720-41b4-b1c8-74a5cf91e152",
+                "keywords": "2014-11,直轄市議員,臺南市,第16選區[區域]"
+            }
+        }
+    ]
+}

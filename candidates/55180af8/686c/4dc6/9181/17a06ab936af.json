@@ -1,0 +1,125 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "55180af8-686c-4dc6-9181-17a06ab936af",
+            "election_id": "55086526-97a0-4c1e-be70-28956ab936af",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "0",
+            "name": "蕭亞譚",
+            "image": "564de247\/81fc\/465d\/bff0\/4a326ab936af.jpg",
+            "party": "台灣團結聯盟",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": null,
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1963-04-11",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2015-03-29 22:23:52",
+            "modified": "2015-11-29 03:28:35"
+        },
+        "Election": {
+            "id": "55086526-97a0-4c1e-be70-28956ab936af",
+            "population_electors": "0",
+            "population": "0",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "Area": [
+                {
+                    "id": "55085a1d-b328-41e4-8215-3584acb5b862",
+                    "name": "南港區",
+                    "AreasElection": {
+                        "id": "550a3b39-d1d0-48fc-a006-47cc6ab936af",
+                        "Election_id": "55086526-97a0-4c1e-be70-28956ab936af",
+                        "Area_id": "55085a1d-b328-41e4-8215-3584acb5b862"
+                    }
+                },
+                {
+                    "id": "55085a1e-d470-4cad-a477-3584acb5b862",
+                    "name": "內湖區",
+                    "AreasElection": {
+                        "id": "550a3b30-8b18-404a-b135-47cc6ab936af",
+                        "Election_id": "55086526-97a0-4c1e-be70-28956ab936af",
+                        "Area_id": "55085a1e-d470-4cad-a477-3584acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "55085db5-2e9c-4cde-8103-23d86ab936af",
+                "parent_id": null,
+                "name": "2016-01",
+                "lft": "40579",
+                "rght": "40780",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "55085e1a-c494-40e0-ba31-2f916ab936af",
+                "parent_id": "55085db5-2e9c-4cde-8103-23d86ab936af",
+                "name": "立法委員",
+                "lft": "40582",
+                "rght": "40779",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "5508628c-3f78-4969-bc3f-23d86ab936af",
+                "parent_id": "55085e1a-c494-40e0-ba31-2f916ab936af",
+                "name": "臺北市",
+                "lft": "40583",
+                "rght": "40600",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "55086526-97a0-4c1e-be70-28956ab936af",
+                "parent_id": "5508628c-3f78-4969-bc3f-23d86ab936af",
+                "name": "第04選區[區域]",
+                "lft": "40590",
+                "rght": "40591",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2016-01,立法委員,臺北市,第04選區[區域]"
+            }
+        }
+    ]
+}

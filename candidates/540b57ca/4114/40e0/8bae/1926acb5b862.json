@@ -1,0 +1,139 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b57ca-4114-40e0-8bae-1926acb5b862",
+            "election_id": "53d734aa-f224-4470-a454-1299acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "480",
+            "name": "林明慶",
+            "image": "54a3d94a\/4f4c\/43d7\/a352\/40296ab936af.jpg",
+            "party": "親民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "5",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:51:54",
+            "modified": "2015-02-08 23:44:22"
+        },
+        "Election": {
+            "id": "53d734aa-f224-4470-a454-1299acb5b862",
+            "population_electors": "81978",
+            "population": "106355",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "546d8dba-5de8-4271-834a-0e51cf91e152",
+            "Area": [
+                {
+                    "id": "53c01daa-1c40-4c1c-a1d9-5460acb5b862",
+                    "name": "花蓮市",
+                    "AreasElection": {
+                        "id": "53d734aa-29fc-4856-bf00-1299acb5b862",
+                        "Election_id": "53d734aa-f224-4470-a454-1299acb5b862",
+                        "Area_id": "53c01daa-1c40-4c1c-a1d9-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54130d54-9e9c-4000-a3b7-79a1cb455a61",
+                "name": "2014親民黨",
+                "CandidatesTag": {
+                    "id": "54130e10-1a5c-487f-b226-79a1cb455a61",
+                    "Candidate_id": "540b57ca-4114-40e0-8bae-1926acb5b862",
+                    "Tag_id": "54130d54-9e9c-4000-a3b7-79a1cb455a61"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020dc-5200-4b0d-8494-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "花蓮縣",
+                "lft": "2613",
+                "rght": "2730",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020dd-923c-4a59-99ea-5c5aacb5b862",
+                "parent_id": "53c020dc-5200-4b0d-8494-5c5aacb5b862",
+                "name": "花蓮市",
+                "lft": "2614",
+                "rght": "2625",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d734aa-f224-4470-a454-1299acb5b862",
+                "parent_id": "53c020dd-923c-4a59-99ea-5c5aacb5b862",
+                "name": "第05選舉區[平地]",
+                "lft": "2623",
+                "rght": "2624",
+                "population": "106355",
+                "population_electors": "81978",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "546d8dba-5de8-4271-834a-0e51cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,花蓮縣,花蓮市,第05選舉區[平地]"
+            }
+        }
+    ]
+}

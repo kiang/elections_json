@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b55e3-1624-4930-8907-1926acb5b862",
+            "election_id": "53c022a9-6630-460a-944d-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "164",
+            "name": "林淑英",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1958-08-25",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:43:47",
+            "modified": "2015-02-08 23:45:21"
+        },
+        "Election": {
+            "id": "53c022a9-6630-460a-944d-5c5aacb5b862",
+            "population_electors": "318",
+            "population": "410",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54773ba1-12a8-4199-96f4-1915cf91e152",
+            "Area": [
+                {
+                    "id": "53c01d8c-de48-4216-a17e-5460acb5b862",
+                    "name": "達來村",
+                    "AreasElection": {
+                        "id": "53c022a9-a4b0-4e44-8d32-5c5aacb5b862",
+                        "Election_id": "53c022a9-6630-460a-944d-5c5aacb5b862",
+                        "Area_id": "53c01d8c-de48-4216-a17e-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "7771",
+                "rght": "8766",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022a9-8adc-4f1b-9a53-5c5aacb5b862",
+                "parent_id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "name": "三地門鄉",
+                "lft": "8640",
+                "rght": "8661",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022a9-6630-460a-944d-5c5aacb5b862",
+                "parent_id": "53c022a9-8adc-4f1b-9a53-5c5aacb5b862",
+                "name": "達來村",
+                "lft": "8647",
+                "rght": "8648",
+                "population": "410",
+                "population_electors": "318",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54773ba1-12a8-4199-96f4-1915cf91e152",
+                "keywords": "2014-11,村里長,屏東縣,三地門鄉,達來村"
+            }
+        }
+    ]
+}

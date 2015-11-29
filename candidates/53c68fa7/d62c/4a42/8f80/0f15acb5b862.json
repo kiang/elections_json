@@ -1,0 +1,160 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c68fa7-d62c-4a42-8f80-0f15acb5b862",
+            "election_id": "53c40097-4e88-45d8-bb5e-6cceacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "32061",
+            "name": "陳永福",
+            "image": "55b37a91\/7384\/49a6\/b420\/01576ab936af.jpg",
+            "party": "民主進步黨",
+            "contacts_phone": "02-8665-6878",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "231新北市新店區北新路1段12號3樓",
+            "links": "臉書 http:\/\/www.facebook.com\/fu.hearken",
+            "gender": "m",
+            "no": "4",
+            "education_level": "大學",
+            "is_present": true,
+            "name_english": "Chen Yung Fu",
+            "birth_place": "新北市",
+            "birth": "1958-10-01",
+            "platform": "",
+            "education": "中華大學工學士  南山高職  坪林國中  坪林國小",
+            "experience": "台北縣第13、14、15、16屆議員  台北縣議會第三審查委員會召集人（水利、工務、城鄉）   第1屆新北市議員",
+            "created": "2014-07-16 22:43:51",
+            "modified": "2015-07-25 20:04:02"
+        },
+        "Election": {
+            "id": "53c40097-4e88-45d8-bb5e-6cceacb5b862",
+            "population_electors": "285102",
+            "population": "343333",
+            "quota": "5",
+            "quota_women": "1",
+            "bulletin_key": "5469b450-6d74-400a-a08e-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01f15-c1dc-4c60-91cb-5460acb5b862",
+                    "name": "新店區",
+                    "AreasElection": {
+                        "id": "53c406e3-96e8-4825-a6d9-6dacacb5b862",
+                        "Election_id": "53c40097-4e88-45d8-bb5e-6cceacb5b862",
+                        "Area_id": "53c01f15-c1dc-4c60-91cb-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01f52-8194-4354-add3-5460acb5b862",
+                    "name": "深坑區",
+                    "AreasElection": {
+                        "id": "53c406e3-b0cc-46e4-b76e-6dacacb5b862",
+                        "Election_id": "53c40097-4e88-45d8-bb5e-6cceacb5b862",
+                        "Area_id": "53c01f52-8194-4354-add3-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01f53-3db8-4eb8-b813-5460acb5b862",
+                    "name": "石碇區",
+                    "AreasElection": {
+                        "id": "53c406e3-09bc-4d84-b784-6dacacb5b862",
+                        "Election_id": "53c40097-4e88-45d8-bb5e-6cceacb5b862",
+                        "Area_id": "53c01f53-3db8-4eb8-b813-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01f55-d5c0-418c-8644-5460acb5b862",
+                    "name": "坪林區",
+                    "AreasElection": {
+                        "id": "53c406e3-6528-4024-b8b0-6dacacb5b862",
+                        "Election_id": "53c40097-4e88-45d8-bb5e-6cceacb5b862",
+                        "Area_id": "53c01f55-d5c0-418c-8644-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01f64-fe24-474e-9768-5460acb5b862",
+                    "name": "烏來區",
+                    "AreasElection": {
+                        "id": "53c406e3-06b8-4e0d-a80b-6dacacb5b862",
+                        "Election_id": "53c40097-4e88-45d8-bb5e-6cceacb5b862",
+                        "Area_id": "53c01f64-fe24-474e-9768-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54131434-4b14-4c38-9445-2c85cb455a61",
+                "name": "2014台灣獨立建國選舉連線",
+                "CandidatesTag": {
+                    "id": "54734e81-ae98-47a0-862b-317f8e043389",
+                    "Candidate_id": "53c68fa7-d62c-4a42-8f80-0f15acb5b862",
+                    "Tag_id": "54131434-4b14-4c38-9445-2c85cb455a61"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207e-1efc-4871-a931-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "新北市",
+                "lft": "97",
+                "rght": "122",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c40097-4e88-45d8-bb5e-6cceacb5b862",
+                "parent_id": "53c0207e-1efc-4871-a931-5c5aacb5b862",
+                "name": "第08選區[區域]",
+                "lft": "112",
+                "rght": "113",
+                "population": "343333",
+                "population_electors": "285102",
+                "quota": "5",
+                "quota_women": "1",
+                "bulletin_key": "5469b450-6d74-400a-a08e-74a5cf91e152",
+                "keywords": "2014-11,直轄市議員,新北市,第08選區[區域]"
+            }
+        }
+    ]
+}

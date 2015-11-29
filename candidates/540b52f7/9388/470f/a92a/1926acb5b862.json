@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b52f7-9388-470f-a92a-1926acb5b862",
+            "election_id": "53c023a9-efd4-402d-8b88-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "972",
+            "name": "許志德",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "專科",
+            "is_present": false,
+            "name_english": "HSU CHIH TE",
+            "birth_place": "臺北市",
+            "birth": "1970-05-24",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:31:19",
+            "modified": "2015-02-08 23:40:32"
+        },
+        "Election": {
+            "id": "53c023a9-efd4-402d-8b88-5c5aacb5b862",
+            "population_electors": "6944",
+            "population": "8837",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-658c-4057-88d9-4187cf91e152",
+            "Area": [
+                {
+                    "id": "53c01e22-0a00-4c8b-9198-5460acb5b862",
+                    "name": "三愛里",
+                    "AreasElection": {
+                        "id": "53c023a9-e5ac-411b-88b9-5c5aacb5b862",
+                        "Election_id": "53c023a9-efd4-402d-8b88-5c5aacb5b862",
+                        "Area_id": "53c01e22-0a00-4c8b-9198-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023a5-38c4-465f-aa6c-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "中正區",
+                "lft": "11804",
+                "rght": "11867",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023a9-efd4-402d-8b88-5c5aacb5b862",
+                "parent_id": "53c023a5-38c4-465f-aa6c-5c5aacb5b862",
+                "name": "三愛里",
+                "lft": "11857",
+                "rght": "11858",
+                "population": "8837",
+                "population_electors": "6944",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-658c-4057-88d9-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,中正區,三愛里"
+            }
+        }
+    ]
+}

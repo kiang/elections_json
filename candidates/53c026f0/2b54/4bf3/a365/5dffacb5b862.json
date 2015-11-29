@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c026f0-2b54-4bf3-a365-5dffacb5b862",
+            "election_id": "53c02538-9a88-4e37-90a8-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1041",
+            "name": "吳忠華",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "1",
+            "education_level": "大學",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺中市",
+            "birth": "1970-11-25",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:41:13"
+        },
+        "Election": {
+            "id": "53c02538-9a88-4e37-90a8-5c5aacb5b862",
+            "population_electors": "2162",
+            "population": "2460",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e0697-ecd0-4f4c-9bdb-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01f77-a2cc-44ed-8d28-5460acb5b862",
+                    "name": "大石里",
+                    "AreasElection": {
+                        "id": "53c02539-1808-4402-bc7e-5c5aacb5b862",
+                        "Election_id": "53c02538-9a88-4e37-90a8-5c5aacb5b862",
+                        "Area_id": "53c01f77-a2cc-44ed-8d28-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02536-cbf0-4e8a-9a56-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "西屯區",
+                "lft": "16612",
+                "rght": "16691",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02538-9a88-4e37-90a8-5c5aacb5b862",
+                "parent_id": "53c02536-cbf0-4e8a-9a56-5c5aacb5b862",
+                "name": "大石里",
+                "lft": "16635",
+                "rght": "16636",
+                "population": "2460",
+                "population_electors": "2162",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e0697-ecd0-4f4c-9bdb-1a32cf91e152",
+                "keywords": "2014-11,村里長,臺中市,西屯區,大石里"
+            }
+        }
+    ]
+}

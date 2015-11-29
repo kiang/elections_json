@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b581c-9608-4cfa-8f3e-1926acb5b862",
+            "election_id": "53c02089-d91c-4049-a142-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "4313",
+            "name": "林永爍",
+            "image": "54942e78\/b1fc\/400a\/9a44\/39b66ab936af.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "2",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1951-01-16",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:53:16",
+            "modified": "2015-02-08 23:41:59"
+        },
+        "Election": {
+            "id": "53c02089-d91c-4049-a142-5c5aacb5b862",
+            "population_electors": "17992",
+            "population": "21396",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-28e4-49fd-9f55-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01bf1-3608-4016-82f2-5460acb5b862",
+                    "name": "三星鄉",
+                    "AreasElection": {
+                        "id": "53c02089-1888-4a53-a937-5c5aacb5b862",
+                        "Election_id": "53c02089-d91c-4049-a142-5c5aacb5b862",
+                        "Area_id": "53c01bf1-3608-4016-82f2-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市長",
+                "lft": "608",
+                "rght": "1031",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02087-d634-4ed1-947c-5c5aacb5b862",
+                "parent_id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "name": "宜蘭縣",
+                "lft": "633",
+                "rght": "658",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02089-d91c-4049-a142-5c5aacb5b862",
+                "parent_id": "53c02087-d634-4ed1-947c-5c5aacb5b862",
+                "name": "三星鄉",
+                "lft": "652",
+                "rght": "653",
+                "population": "21396",
+                "population_electors": "17992",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-28e4-49fd-9f55-2adbcf91e152",
+                "keywords": "2014-11,鄉鎮市長,宜蘭縣,三星鄉"
+            }
+        }
+    ]
+}

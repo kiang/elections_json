@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c0270e-8eac-41cb-bb29-5dffacb5b862",
+            "election_id": "53c02579-5768-48eb-908a-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1444",
+            "name": "劉圳",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "LIU CHUN",
+            "birth_place": "臺中市",
+            "birth": "1961-07-31",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:41:19"
+        },
+        "Election": {
+            "id": "53c02579-5768-48eb-908a-5c5aacb5b862",
+            "population_electors": "2086",
+            "population": "2598",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e0690-a824-4d98-9ae9-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01faa-4f90-4498-bf1c-5460acb5b862",
+                    "name": "鐵山里",
+                    "AreasElection": {
+                        "id": "53c0257a-cb48-45be-b2a4-5c5aacb5b862",
+                        "Election_id": "53c02579-5768-48eb-908a-5c5aacb5b862",
+                        "Area_id": "53c01faa-4f90-4498-bf1c-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02578-d93c-4b3e-9308-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "外埔區",
+                "lft": "17344",
+                "rght": "17367",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02579-5768-48eb-908a-5c5aacb5b862",
+                "parent_id": "53c02578-d93c-4b3e-9308-5c5aacb5b862",
+                "name": "鐵山里",
+                "lft": "17357",
+                "rght": "17358",
+                "population": "2598",
+                "population_electors": "2086",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e0690-a824-4d98-9ae9-1a32cf91e152",
+                "keywords": "2014-11,村里長,臺中市,外埔區,鐵山里"
+            }
+        }
+    ]
+}

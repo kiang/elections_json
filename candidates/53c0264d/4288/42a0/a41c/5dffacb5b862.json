@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c0264d-4288-42a0-a41c-5dffacb5b862",
+            "election_id": "53c023cd-b1a4-4937-b750-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "1991",
+            "name": "常伯謙",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "大學",
+            "is_present": true,
+            "name_english": "CHANG PO CHIEN",
+            "birth_place": "高雄市",
+            "birth": "1956-10-29",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:40:36"
+        },
+        "Election": {
+            "id": "53c023cd-b1a4-4937-b750-5c5aacb5b862",
+            "population_electors": "7317",
+            "population": "9358",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-0a70-4805-9d5c-4187cf91e152",
+            "Area": [
+                {
+                    "id": "53c01e3f-8d80-42cb-9432-5460acb5b862",
+                    "name": "天玉里",
+                    "AreasElection": {
+                        "id": "53c023cd-97dc-4571-bce4-5c5aacb5b862",
+                        "Election_id": "53c023cd-b1a4-4937-b750-5c5aacb5b862",
+                        "Area_id": "53c01e3f-8d80-42cb-9432-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023c7-6a3c-4965-a1a6-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "士林區",
+                "lft": "12204",
+                "rght": "12307",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023cd-b1a4-4937-b750-5c5aacb5b862",
+                "parent_id": "53c023c7-6a3c-4965-a1a6-5c5aacb5b862",
+                "name": "天玉里",
+                "lft": "12281",
+                "rght": "12282",
+                "population": "9358",
+                "population_electors": "7317",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-0a70-4805-9d5c-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,士林區,天玉里"
+            }
+        }
+    ]
+}

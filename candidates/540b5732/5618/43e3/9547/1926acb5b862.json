@@ -1,0 +1,158 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5732-5618-43e3-9547-1926acb5b862",
+            "election_id": "53d73349-09b4-4845-b8df-1299acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "715",
+            "name": "王義同",
+            "image": "542818a8\/e58c\/4647\/889d\/4ae1cb455a61.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "4",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1959-01-22",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:49:22",
+            "modified": "2015-02-08 23:42:57"
+        },
+        "Election": {
+            "id": "53d73349-09b4-4845-b8df-1299acb5b862",
+            "population_electors": "4342",
+            "population": "5404",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-aeb8-4b1e-8234-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01cc5-5f24-48a1-b1bc-5460acb5b862",
+                    "name": "水尾村",
+                    "AreasElection": {
+                        "id": "53d7334a-6068-4750-b4ed-1299acb5b862",
+                        "Election_id": "53d73349-09b4-4845-b8df-1299acb5b862",
+                        "Area_id": "53c01cc5-5f24-48a1-b1bc-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01cc6-0c08-45e2-b48e-5460acb5b862",
+                    "name": "菜公村",
+                    "AreasElection": {
+                        "id": "53d7334a-17e4-43df-9a44-1299acb5b862",
+                        "Election_id": "53d73349-09b4-4845-b8df-1299acb5b862",
+                        "Area_id": "53c01cc6-0c08-45e2-b48e-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01cc6-7424-42f5-afce-5460acb5b862",
+                    "name": "三圳村",
+                    "AreasElection": {
+                        "id": "53d7334a-2ecc-4833-979f-1299acb5b862",
+                        "Election_id": "53d73349-09b4-4845-b8df-1299acb5b862",
+                        "Area_id": "53c01cc6-7424-42f5-afce-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01cc7-c620-447d-aa59-5460acb5b862",
+                    "name": "三條村",
+                    "AreasElection": {
+                        "id": "53d7334a-4fc0-4d15-a784-1299acb5b862",
+                        "Election_id": "53d73349-09b4-4845-b8df-1299acb5b862",
+                        "Area_id": "53c01cc7-c620-447d-aa59-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020bb-fd28-4ab5-ad62-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "1497",
+                "rght": "1738",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020c2-fffc-4bd8-992a-5c5aacb5b862",
+                "parent_id": "53c020bb-fd28-4ab5-ad62-5c5aacb5b862",
+                "name": "溪州鄉",
+                "lft": "1728",
+                "rght": "1737",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d73349-09b4-4845-b8df-1299acb5b862",
+                "parent_id": "53c020c2-fffc-4bd8-992a-5c5aacb5b862",
+                "name": "第04選舉區[區域]",
+                "lft": "1735",
+                "rght": "1736",
+                "population": "5404",
+                "population_electors": "4342",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-aeb8-4b1e-8234-74a5cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,彰化縣,溪州鄉,第04選舉區[區域]"
+            }
+        }
+    ]
+}

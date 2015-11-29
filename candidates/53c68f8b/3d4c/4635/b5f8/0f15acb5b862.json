@@ -1,0 +1,134 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c68f8b-3d4c-4635-b5f8-0f15acb5b862",
+            "election_id": "53c4117c-1a34-46ee-8cc5-6f55acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "8520",
+            "name": "郭再添",
+            "image": "54969ac2\/4628\/4fa3\/9d16\/27416ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "08-8355777",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "932屏東縣新園鄉興龍村南興路339-1號",
+            "links": "臉書 http:\/\/www.facebook.com\/pages\/%E5%B1%8F%E6%9D%B1%E7%B8%A3%E8%AD%B0%E5%93%A1%E9%83%AD%E5%86%8D%E6%B7%BB\/875161245834352",
+            "gender": "m",
+            "no": "7",
+            "education_level": "專科",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1973-08-09",
+            "platform": "",
+            "education": "台北市私立滬江高級中學畢業。",
+            "experience": "一、添莨國際貿易有限公司董事長。  二、東港獅子會理事。  三、東港青年商會會員。  四、新園鄉烏龍國小家長會顧問。  五、屏東縣慈懷慈善會顧問。",
+            "created": "2014-07-16 22:43:23",
+            "modified": "2015-02-08 23:41:54"
+        },
+        "Election": {
+            "id": "53c4117c-1a34-46ee-8cc5-6f55acb5b862",
+            "population_electors": "109208",
+            "population": "137311",
+            "quota": "8",
+            "quota_women": "2",
+            "bulletin_key": "54742654-4c60-4d61-bc4f-2d82cf91e152",
+            "Area": [
+                {
+                    "id": "53c01d5e-6570-4223-a658-5460acb5b862",
+                    "name": "東港鎮",
+                    "AreasElection": {
+                        "id": "53c4117d-1ad4-4c81-b048-6f55acb5b862",
+                        "Election_id": "53c4117c-1a34-46ee-8cc5-6f55acb5b862",
+                        "Area_id": "53c01d5e-6570-4223-a658-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01d63-7c10-4077-825f-5460acb5b862",
+                    "name": "萬丹鄉",
+                    "AreasElection": {
+                        "id": "53c4117f-0ca8-4c29-a2f1-6f55acb5b862",
+                        "Election_id": "53c4117c-1a34-46ee-8cc5-6f55acb5b862",
+                        "Area_id": "53c01d63-7c10-4077-825f-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01d7e-2d1c-42b3-8acc-5460acb5b862",
+                    "name": "新園鄉",
+                    "AreasElection": {
+                        "id": "53c41180-ad04-44cb-99dd-6f55acb5b862",
+                        "Election_id": "53c4117c-1a34-46ee-8cc5-6f55acb5b862",
+                        "Area_id": "53c01d7e-2d1c-42b3-8acc-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "縣市議員",
+                "lft": "306",
+                "rght": "607",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02084-c98c-49f1-8e3f-5c5aacb5b862",
+                "parent_id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "467",
+                "rght": "500",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c4117c-1a34-46ee-8cc5-6f55acb5b862",
+                "parent_id": "53c02084-c98c-49f1-8e3f-5c5aacb5b862",
+                "name": "第04選區[區域]",
+                "lft": "474",
+                "rght": "475",
+                "population": "137311",
+                "population_electors": "109208",
+                "quota": "8",
+                "quota_women": "2",
+                "bulletin_key": "54742654-4c60-4d61-bc4f-2d82cf91e152",
+                "keywords": "2014-11,縣市議員,屏東縣,第04選區[區域]"
+            }
+        }
+    ]
+}

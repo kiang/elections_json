@@ -1,0 +1,133 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c68f78-9ecc-42c0-a53e-0f15acb5b862",
+            "election_id": "53c41056-0068-48d8-8ee7-6f55acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "5667",
+            "name": "林思銘",
+            "image": "549e80e4\/81e4\/4e50\/a4a0\/0f1c6ab936af.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "03-5519191",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "302新竹縣竹北市光明六路八號",
+            "links": "臉書 http:\/\/www.facebook.com\/lin.szuming",
+            "gender": "m",
+            "no": "10",
+            "education_level": "大學",
+            "is_present": true,
+            "name_english": "LIN SZU MING",
+            "birth_place": "臺灣省",
+            "birth": "1966-03-16",
+            "platform": "",
+            "education": "東吳大學法律系",
+            "experience": "文化大學法律研究所   第十五屆縣議員   林姓宗親會理事   高等考試律師及格   明典法律事務所所長律師   中國國民黨文宣部副主任   中國國民黨新竹縣廉能委員會副召集人   新竹縣警察局消防局環保局瓦斯管理處法律顧問   新竹縣書畫協會桌球委員會理事長   大同國小家長會長   自強國中家長委員會副會長",
+            "created": "2014-07-16 22:43:04",
+            "modified": "2015-02-08 23:41:50"
+        },
+        "Election": {
+            "id": "53c41056-0068-48d8-8ee7-6f55acb5b862",
+            "population_electors": "76766",
+            "population": "100732",
+            "quota": "6",
+            "quota_women": "1",
+            "bulletin_key": "546e068d-1af4-47c9-bf56-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c3c-949c-4db4-bf6d-5460acb5b862",
+                    "name": "竹東鎮",
+                    "AreasElection": {
+                        "id": "53c41057-92b4-4933-a8c2-6f55acb5b862",
+                        "Election_id": "53c41056-0068-48d8-8ee7-6f55acb5b862",
+                        "Area_id": "53c01c3c-949c-4db4-bf6d-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01c52-fa94-44c1-b8a1-5460acb5b862",
+                    "name": "五峰鄉",
+                    "AreasElection": {
+                        "id": "53c41059-9c90-4311-a876-6f55acb5b862",
+                        "Election_id": "53c41056-0068-48d8-8ee7-6f55acb5b862",
+                        "Area_id": "53c01c52-fa94-44c1-b8a1-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54df7334-51d0-4472-ad36-6c676ab936af",
+                "name": "2014當選隨即目標轉向立委",
+                "CandidatesTag": {
+                    "id": "5518153d-d95c-4772-91ca-0c5a6ab936af",
+                    "Candidate_id": "53c68f78-9ecc-42c0-a53e-0f15acb5b862",
+                    "Tag_id": "54df7334-51d0-4472-ad36-6c676ab936af"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "縣市議員",
+                "lft": "306",
+                "rght": "607",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02083-89f4-4101-8fe1-5c5aacb5b862",
+                "parent_id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "name": "新竹縣",
+                "lft": "353",
+                "rght": "380",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c41056-0068-48d8-8ee7-6f55acb5b862",
+                "parent_id": "53c02083-89f4-4101-8fe1-5c5aacb5b862",
+                "name": "第08選區[區域]",
+                "lft": "368",
+                "rght": "369",
+                "population": "100732",
+                "population_electors": "76766",
+                "quota": "6",
+                "quota_women": "1",
+                "bulletin_key": "546e068d-1af4-47c9-bf56-1a32cf91e152",
+                "keywords": "2014-11,縣市議員,新竹縣,第08選區[區域]"
+            }
+        }
+    ]
+}

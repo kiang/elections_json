@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c0282d-00a8-4a9c-a49f-5dffacb5b862",
+            "election_id": "53c02245-c268-4dab-b410-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1006",
+            "name": "蘇庭芳",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1958-07-23",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:45:09"
+        },
+        "Election": {
+            "id": "53c02245-c268-4dab-b410-5c5aacb5b862",
+            "population_electors": "1446",
+            "population": "1713",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-24dc-4917-8bf9-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01d35-b284-4beb-bf72-5460acb5b862",
+                    "name": "蘇厝村",
+                    "AreasElection": {
+                        "id": "53c02245-ef78-45fd-a12c-5c5aacb5b862",
+                        "Election_id": "53c02245-c268-4dab-b410-5c5aacb5b862",
+                        "Area_id": "53c01d35-b284-4beb-bf72-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0222a-d5c0-465f-849c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "嘉義縣",
+                "lft": "7019",
+                "rght": "7770",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02243-76ac-422b-8266-5c5aacb5b862",
+                "parent_id": "53c0222a-d5c0-465f-849c-5c5aacb5b862",
+                "name": "六腳鄉",
+                "lft": "7342",
+                "rght": "7393",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02245-c268-4dab-b410-5c5aacb5b862",
+                "parent_id": "53c02243-76ac-422b-8266-5c5aacb5b862",
+                "name": "蘇厝村",
+                "lft": "7377",
+                "rght": "7378",
+                "population": "1713",
+                "population_electors": "1446",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-24dc-4917-8bf9-2adbcf91e152",
+                "keywords": "2014-11,村里長,嘉義縣,六腳鄉,蘇厝村"
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02768-5964-4b46-a0d6-5dffacb5b862",
+            "election_id": "53c0233c-e960-4a4c-a534-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "629",
+            "name": "許水來",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "HSU HSUI LAI",
+            "birth_place": "臺灣省",
+            "birth": "1952-01-06",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:41:39"
+        },
+        "Election": {
+            "id": "53c0233c-e960-4a4c-a534-5c5aacb5b862",
+            "population_electors": "1322",
+            "population": "1614",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54744c85-9fe8-40b3-a891-45dccf91e152",
+            "Area": [
+                {
+                    "id": "53c01bf9-c8d4-49e6-91ad-5460acb5b862",
+                    "name": "中和里",
+                    "AreasElection": {
+                        "id": "53c0233c-c9dc-45c7-8fe1-5c5aacb5b862",
+                        "Election_id": "53c0233c-e960-4a4c-a534-5c5aacb5b862",
+                        "Area_id": "53c01bf9-c8d4-49e6-91ad-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "桃園市",
+                "lft": "10439",
+                "rght": "11456",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02338-c440-45d1-8313-5c5aacb5b862",
+                "parent_id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "name": "桃園區",
+                "lft": "10440",
+                "rght": "10593",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0233c-e960-4a4c-a534-5c5aacb5b862",
+                "parent_id": "53c02338-c440-45d1-8313-5c5aacb5b862",
+                "name": "中和里",
+                "lft": "10487",
+                "rght": "10488",
+                "population": "1614",
+                "population_electors": "1322",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54744c85-9fe8-40b3-a891-45dccf91e152",
+                "keywords": "2014-11,村里長,桃園市,桃園區,中和里"
+            }
+        }
+    ]
+}

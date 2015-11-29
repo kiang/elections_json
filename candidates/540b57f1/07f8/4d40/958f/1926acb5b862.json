@@ -1,0 +1,140 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b57f1-07f8-4d40-958f-1926acb5b862",
+            "election_id": "53d734a3-00f0-44e2-9d51-1299acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "158",
+            "name": "吳金修",
+            "image": "54a9062a\/0c30\/453a\/bed3\/39596ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "1",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:52:33",
+            "modified": "2015-02-08 23:44:11"
+        },
+        "Election": {
+            "id": "53d734a3-00f0-44e2-9d51-1299acb5b862",
+            "population_electors": "1417",
+            "population": "1750",
+            "quota": "3",
+            "quota_women": "0",
+            "bulletin_key": "546f277f-e15c-4d3b-972c-2f28cf91e152",
+            "Area": [
+                {
+                    "id": "53c01da8-1c3c-4772-ac32-5460acb5b862",
+                    "name": "台坂村",
+                    "AreasElection": {
+                        "id": "53d734a4-0a38-44dc-9652-1299acb5b862",
+                        "Election_id": "53d734a3-00f0-44e2-9d51-1299acb5b862",
+                        "Area_id": "53c01da8-1c3c-4772-ac32-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01da9-532c-471c-baac-5460acb5b862",
+                    "name": "土坂村",
+                    "AreasElection": {
+                        "id": "53d734a4-1e04-47bc-a5e1-1299acb5b862",
+                        "Election_id": "53d734a3-00f0-44e2-9d51-1299acb5b862",
+                        "Area_id": "53c01da9-532c-471c-baac-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020d9-a97c-4d95-809d-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "臺東縣",
+                "lft": "2485",
+                "rght": "2612",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020dc-81f4-4246-bd63-5c5aacb5b862",
+                "parent_id": "53c020d9-a97c-4d95-809d-5c5aacb5b862",
+                "name": "達仁鄉",
+                "lft": "2592",
+                "rght": "2599",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d734a3-00f0-44e2-9d51-1299acb5b862",
+                "parent_id": "53c020dc-81f4-4246-bd63-5c5aacb5b862",
+                "name": "第03選舉區[區域]",
+                "lft": "2597",
+                "rght": "2598",
+                "population": "1750",
+                "population_electors": "1417",
+                "quota": "3",
+                "quota_women": "0",
+                "bulletin_key": "546f277f-e15c-4d3b-972c-2f28cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,臺東縣,達仁鄉,第03選舉區[區域]"
+            }
+        }
+    ]
+}

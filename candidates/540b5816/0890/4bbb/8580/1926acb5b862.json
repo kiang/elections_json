@@ -1,0 +1,124 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5816-0890-4bbb-8580-1926acb5b862",
+            "election_id": "53c020a2-9b68-41f9-a64a-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "191",
+            "name": "李必文",
+            "image": "54968315\/dff8\/4b49\/aa47\/21ae6ab936af.jpg",
+            "party": "台灣團結聯盟",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "4",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "Lee Bi Wen",
+            "birth_place": "臺灣省",
+            "birth": "1958-11-04",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:53:10",
+            "modified": "2015-02-08 23:42:02"
+        },
+        "Election": {
+            "id": "53c020a2-9b68-41f9-a64a-5c5aacb5b862",
+            "population_electors": "15083",
+            "population": "17763",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5475673a-81b4-4d4d-8576-0f78cf91e152",
+            "Area": [
+                {
+                    "id": "53c01d79-fca0-4b28-b27c-5460acb5b862",
+                    "name": "竹田鄉",
+                    "AreasElection": {
+                        "id": "53c020a2-87bc-46e8-b1d1-5c5aacb5b862",
+                        "Election_id": "53c020a2-9b68-41f9-a64a-5c5aacb5b862",
+                        "Area_id": "53c01d79-fca0-4b28-b27c-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54130aa1-b290-463d-9ffd-79a1cb455a61",
+                "name": "2014台灣團結聯盟",
+                "CandidatesTag": {
+                    "id": "54130c83-e688-4b25-8a3c-799bcb455a61",
+                    "Candidate_id": "540b5816-0890-4bbb-8580-1926acb5b862",
+                    "Tag_id": "54130aa1-b290-463d-9ffd-79a1cb455a61"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市長",
+                "lft": "608",
+                "rght": "1031",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020a0-f5a4-4054-836f-5c5aacb5b862",
+                "parent_id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "887",
+                "rght": "954",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020a2-9b68-41f9-a64a-5c5aacb5b862",
+                "parent_id": "53c020a0-f5a4-4054-836f-5c5aacb5b862",
+                "name": "竹田鄉",
+                "lft": "914",
+                "rght": "915",
+                "population": "17763",
+                "population_electors": "15083",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5475673a-81b4-4d4d-8576-0f78cf91e152",
+                "keywords": "2014-11,鄉鎮市長,屏東縣,竹田鄉"
+            }
+        }
+    ]
+}

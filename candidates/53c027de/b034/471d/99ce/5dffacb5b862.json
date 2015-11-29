@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c027de-b034-471d-99ce-5dffacb5b862",
+            "election_id": "53c021b4-10e8-4ad8-87c5-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "683",
+            "name": "黃士晃",
+            "image": "5462fe87\/8e5c\/44eb\/b6c5\/68d18e043389.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1970-09-01",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:44:47"
+        },
+        "Election": {
+            "id": "53c021b4-10e8-4ad8-87c5-5c5aacb5b862",
+            "population_electors": "1216",
+            "population": "1579",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-f5b8-4443-abf2-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01cbc-f654-493b-aef2-5460acb5b862",
+                    "name": "崙子村",
+                    "AreasElection": {
+                        "id": "53c021b4-f484-46e8-a5dc-5c5aacb5b862",
+                        "Election_id": "53c021b4-10e8-4ad8-87c5-5c5aacb5b862",
+                        "Area_id": "53c01cbc-f654-493b-aef2-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "4417",
+                "rght": "5648",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021b3-96a0-43d7-875a-5c5aacb5b862",
+                "parent_id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "name": "埤頭鄉",
+                "lft": "5456",
+                "rght": "5491",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021b4-10e8-4ad8-87c5-5c5aacb5b862",
+                "parent_id": "53c021b3-96a0-43d7-875a-5c5aacb5b862",
+                "name": "崙子村",
+                "lft": "5467",
+                "rght": "5468",
+                "population": "1579",
+                "population_electors": "1216",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-f5b8-4443-abf2-74a5cf91e152",
+                "keywords": "2014-11,村里長,彰化縣,埤頭鄉,崙子村"
+            }
+        }
+    ]
+}

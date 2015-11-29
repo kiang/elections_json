@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "5406a608-bd80-47b9-8e3b-15b8acb5b862",
+            "election_id": "53c02097-355c-4242-b5c7-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "0",
+            "vote_count": "0",
+            "name": "林福峯",
+            "image": "54479c03\/5930\/4009\/9b57\/71ac8e043389.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "0",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "埔里高農",
+            "experience": "現任： 南投縣客家協會理事長 南投縣民眾服務社理事長 國姓義勇消防隊顧問團副團長 國姓婦宣隊顧問 經歷： 第15屆國姓鄉長 南投縣議員 第16屆國姓鄉民代表會副主席 第14、15屆國姓鄉民代表 南投縣養鹿協會理事長 南投縣客家協會常務監事 南投縣後備司令部國姓鄉主任 北山國中家長會長 南港國小家長會副會長",
+            "created": "2014-09-03 13:24:24",
+            "modified": "2014-10-22 20:28:40"
+        },
+        "Election": {
+            "id": "53c02097-355c-4242-b5c7-5c5aacb5b862",
+            "population_electors": "16696",
+            "population": "19798",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54735d56-41d8-405e-8377-21eacf91e152",
+            "Area": [
+                {
+                    "id": "53c01ce0-d8d4-4e6e-ba22-5460acb5b862",
+                    "name": "國姓鄉",
+                    "AreasElection": {
+                        "id": "53c02097-1c9c-4891-b7a9-5c5aacb5b862",
+                        "Election_id": "53c02097-355c-4242-b5c7-5c5aacb5b862",
+                        "Area_id": "53c01ce0-d8d4-4e6e-ba22-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市長",
+                "lft": "608",
+                "rght": "1031",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02095-a5ac-446e-b87d-5c5aacb5b862",
+                "parent_id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "name": "南投縣",
+                "lft": "779",
+                "rght": "806",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02097-355c-4242-b5c7-5c5aacb5b862",
+                "parent_id": "53c02095-a5ac-446e-b87d-5c5aacb5b862",
+                "name": "國姓鄉",
+                "lft": "798",
+                "rght": "799",
+                "population": "19798",
+                "population_electors": "16696",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54735d56-41d8-405e-8377-21eacf91e152",
+                "keywords": "2014-11,鄉鎮市長,南投縣,國姓鄉"
+            }
+        }
+    ]
+}

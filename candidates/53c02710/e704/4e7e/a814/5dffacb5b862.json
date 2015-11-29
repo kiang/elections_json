@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02710-e704-4e7e-a814-5dffacb5b862",
+            "election_id": "53c0257f-9788-4fe8-858d-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "866",
+            "name": "林榮源",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "Lin Jung Yuan",
+            "birth_place": "臺中市",
+            "birth": "1945-11-15",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:41:19"
+        },
+        "Election": {
+            "id": "53c0257f-9788-4fe8-858d-5c5aacb5b862",
+            "population_electors": "1558",
+            "population": "1982",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb720-a840-4f08-b91b-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01fae-82c8-4767-ac26-5460acb5b862",
+                    "name": "五光里",
+                    "AreasElection": {
+                        "id": "53c0257f-d390-44be-8188-5c5aacb5b862",
+                        "Election_id": "53c0257f-9788-4fe8-858d-5c5aacb5b862",
+                        "Area_id": "53c01fae-82c8-4767-ac26-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0257d-4680-4a5d-8f9e-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "烏日區",
+                "lft": "17394",
+                "rght": "17427",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0257f-9788-4fe8-858d-5c5aacb5b862",
+                "parent_id": "53c0257d-4680-4a5d-8f9e-5c5aacb5b862",
+                "name": "五光里",
+                "lft": "17409",
+                "rght": "17410",
+                "population": "1982",
+                "population_electors": "1558",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb720-a840-4f08-b91b-2adbcf91e152",
+                "keywords": "2014-11,村里長,臺中市,烏日區,五光里"
+            }
+        }
+    ]
+}

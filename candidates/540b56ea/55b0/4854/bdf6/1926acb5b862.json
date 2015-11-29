@@ -1,0 +1,149 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b56ea-55b0-4854-bdf6-1926acb5b862",
+            "election_id": "53d732ce-def8-4273-ae33-1299acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "455",
+            "name": "李志松",
+            "image": "54c4a401\/7624\/44c2\/9e18\/50916ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1967-11-23",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:48:10",
+            "modified": "2015-02-08 23:42:08"
+        },
+        "Election": {
+            "id": "53d732ce-def8-4273-ae33-1299acb5b862",
+            "population_electors": "2289",
+            "population": "3077",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-f338-4116-9d47-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c51-0714-47d7-822a-5460acb5b862",
+                    "name": "義興村",
+                    "AreasElection": {
+                        "id": "53d732ce-2230-4b48-9bd1-1299acb5b862",
+                        "Election_id": "53d732ce-def8-4273-ae33-1299acb5b862",
+                        "Area_id": "53c01c51-0714-47d7-822a-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01c51-51e8-4494-8f54-5460acb5b862",
+                    "name": "梅花村",
+                    "AreasElection": {
+                        "id": "53d732ce-72a8-428a-9f04-1299acb5b862",
+                        "Election_id": "53d732ce-def8-4273-ae33-1299acb5b862",
+                        "Area_id": "53c01c51-51e8-4494-8f54-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01c51-ccf0-4302-80e4-5460acb5b862",
+                    "name": "錦屏村",
+                    "AreasElection": {
+                        "id": "53d732ce-3554-497d-97de-1299acb5b862",
+                        "Election_id": "53d732ce-def8-4273-ae33-1299acb5b862",
+                        "Area_id": "53c01c51-ccf0-4302-80e4-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b3-e33c-4fee-aa9e-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "新竹縣",
+                "lft": "1201",
+                "rght": "1322",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b6-4b20-484f-9df6-5c5aacb5b862",
+                "parent_id": "53c020b3-e33c-4fee-aa9e-5c5aacb5b862",
+                "name": "尖石鄉",
+                "lft": "1306",
+                "rght": "1313",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d732ce-def8-4273-ae33-1299acb5b862",
+                "parent_id": "53c020b6-4b20-484f-9df6-5c5aacb5b862",
+                "name": "第02選舉區[區域]",
+                "lft": "1309",
+                "rght": "1310",
+                "population": "3077",
+                "population_electors": "2289",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-f338-4116-9d47-1a32cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,新竹縣,尖石鄉,第02選舉區[區域]"
+            }
+        }
+    ]
+}

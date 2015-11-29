@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "5448f7e2-d9d4-4ffe-a9ca-12f78e043389",
+            "election_id": "53c400a5-f538-4480-84e3-6cceacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "0",
+            "vote_count": "0",
+            "name": "林榮進",
+            "image": "5448f7e2\/41b0\/48ef\/a8ba\/12f78e043389.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "04-24350911",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "406台中市北屯區水景里東山路一段216-20號",
+            "links": "",
+            "gender": "m",
+            "no": "0",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "臺中縣和平鄉平等國小  南投縣立山地農業職業學校  省立豐原高中  國立台灣師範大學  國立台灣師範大學教育研究所",
+            "experience": "臺中縣議會第十四屆議員  臺中市立大德國民中學訓導主任、教務主任  臺中縣和平鄉第十四屆鄉長  中國國民黨第十七屆全國黨代表  中華民國原住民社會發展協會理事長  臺中市議會第一屆議員",
+            "created": "2014-10-23 20:43:14",
+            "modified": "2014-10-23 20:46:35"
+        },
+        "Election": {
+            "id": "53c400a5-f538-4480-84e3-6cceacb5b862",
+            "population_electors": "2099294",
+            "population": "2712948",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068f-8708-4e27-9fa9-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01f64-2fa8-45d4-8254-5460acb5b862",
+                    "name": "臺中市",
+                    "AreasElection": {
+                        "id": "53fb79ea-f810-4e72-802f-7f66acb5b862",
+                        "Election_id": "53c400a5-f538-4480-84e3-6cceacb5b862",
+                        "Area_id": "53c01f64-2fa8-45d4-8254-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207e-b9a4-405f-abaf-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "臺中市",
+                "lft": "123",
+                "rght": "156",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c400a5-f538-4480-84e3-6cceacb5b862",
+                "parent_id": "53c0207e-b9a4-405f-abaf-5c5aacb5b862",
+                "name": "第16選區[山地]",
+                "lft": "154",
+                "rght": "155",
+                "population": "2712948",
+                "population_electors": "2099294",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068f-8708-4e27-9fa9-1a32cf91e152",
+                "keywords": "2014-11,直轄市議員,臺中市,第16選區[山地]"
+            }
+        }
+    ]
+}

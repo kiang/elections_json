@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c027ff-1fc0-4f35-b6fe-5dffacb5b862",
+            "election_id": "53c021f2-10bc-40e4-b929-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "0",
+            "vote_count": "0",
+            "name": "林庭郁",
+            "image": null,
+            "party": null,
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": null,
+            "no": "0",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "0000-00-00 00:00:00"
+        },
+        "Election": {
+            "id": "53c021f2-10bc-40e4-b929-5c5aacb5b862",
+            "population_electors": "892",
+            "population": "1043",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546ec076-483c-4926-a063-2d4fcf91e152",
+            "Area": [
+                {
+                    "id": "53c01ced-2f04-4284-88da-5460acb5b862",
+                    "name": "靖興里",
+                    "AreasElection": {
+                        "id": "53c021f3-58e0-4771-bae4-5c5aacb5b862",
+                        "Election_id": "53c021f2-10bc-40e4-b929-5c5aacb5b862",
+                        "Area_id": "53c01ced-2f04-4284-88da-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "6201",
+                "rght": "7018",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021f1-29ac-4128-b0b0-5c5aacb5b862",
+                "parent_id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "name": "斗南鎮",
+                "lft": "6280",
+                "rght": "6325",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021f2-10bc-40e4-b929-5c5aacb5b862",
+                "parent_id": "53c021f1-29ac-4128-b0b0-5c5aacb5b862",
+                "name": "靖興里",
+                "lft": "6293",
+                "rght": "6294",
+                "population": "1043",
+                "population_electors": "892",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546ec076-483c-4926-a063-2d4fcf91e152",
+                "keywords": "2014-11,村里長,雲林縣,斗南鎮,靖興里"
+            }
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5703-7c20-463c-aa75-1926acb5b862",
+            "election_id": "53d73300-25e4-4728-90b6-1299acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "764",
+            "name": "徐健堂",
+            "image": "54ba5726\/be20\/403f\/b8e5\/49076ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "3",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1939-11-19",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:48:35",
+            "modified": "2015-02-08 23:42:33"
+        },
+        "Election": {
+            "id": "53d73300-25e4-4728-90b6-1299acb5b862",
+            "population_electors": "3239",
+            "population": "4002",
+            "quota": "3",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-e1c0-4f03-a969-4187cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c71-745c-4924-9fda-5460acb5b862",
+                    "name": "雙湖村",
+                    "AreasElection": {
+                        "id": "53c01c71-82ec-25e7-82f5-5460acb5b862",
+                        "Election_id": "53d73300-25e4-4728-90b6-1299acb5b862",
+                        "Area_id": "53c01c71-745c-4924-9fda-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01c71-82ec-45e7-82f5-5460acb5b862",
+                    "name": "雙潭村",
+                    "AreasElection": {
+                        "id": "53c01c71-82ec-15e7-82f5-5460acb5b862",
+                        "Election_id": "53d73300-25e4-4728-90b6-1299acb5b862",
+                        "Area_id": "53c01c71-82ec-45e7-82f5-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54ab2bec-d414-4147-9106-2a7b6ab936af",
+                "name": "2014當選無效之訴-苗栗縣",
+                "CandidatesTag": {
+                    "id": "54abfaca-8e2c-4f6c-9d32-58dc6ab936af",
+                    "Candidate_id": "540b5703-7c20-463c-aa75-1926acb5b862",
+                    "Tag_id": "54ab2bec-d414-4147-9106-2a7b6ab936af"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b7-c5b4-41c9-bda3-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "苗栗縣",
+                "lft": "1323",
+                "rght": "1496",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b9-cf70-481d-9c46-5c5aacb5b862",
+                "parent_id": "53c020b7-c5b4-41c9-bda3-5c5aacb5b862",
+                "name": "三義鄉",
+                "lft": "1446",
+                "rght": "1455",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d73300-25e4-4728-90b6-1299acb5b862",
+                "parent_id": "53c020b9-cf70-481d-9c46-5c5aacb5b862",
+                "name": "第03選舉區[區域]",
+                "lft": "1451",
+                "rght": "1452",
+                "population": "4002",
+                "population_electors": "3239",
+                "quota": "3",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-e1c0-4f03-a969-4187cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,苗栗縣,三義鄉,第03選舉區[區域]"
+            }
+        }
+    ]
+}

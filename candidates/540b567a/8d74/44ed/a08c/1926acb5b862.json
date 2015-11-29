@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b567a-8d74-44ed-a08c-1926acb5b862",
+            "election_id": "53c4205f-fc68-4f0d-b9cf-7258acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "2317",
+            "name": "吳萬福",
+            "image": "54884c09\/c8b8\/41dc\/abeb\/67b76ab936af.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺中市",
+            "birth": "1958-11-21",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:46:18",
+            "modified": "2015-02-08 23:44:22"
+        },
+        "Election": {
+            "id": "53c4205f-fc68-4f0d-b9cf-7258acb5b862",
+            "population_electors": "8867",
+            "population": "10810",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068f-b6f0-472b-9061-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01fbf-d2a4-4c35-9643-5460acb5b862",
+                    "name": "和平區",
+                    "AreasElection": {
+                        "id": "53c42060-69a4-4fd4-a4d0-7258acb5b862",
+                        "Election_id": "53c4205f-fc68-4f0d-b9cf-7258acb5b862",
+                        "Area_id": "53c01fbf-d2a4-4c35-9643-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-9018-4f11-9539-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市山地原住民區長",
+                "lft": "196",
+                "rght": "217",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c4205e-4120-4be6-8097-7258acb5b862",
+                "parent_id": "53c0202f-9018-4f11-9539-5460acb5b862",
+                "name": "臺中市",
+                "lft": "213",
+                "rght": "216",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c4205f-fc68-4f0d-b9cf-7258acb5b862",
+                "parent_id": "53c4205e-4120-4be6-8097-7258acb5b862",
+                "name": "和平區",
+                "lft": "214",
+                "rght": "215",
+                "population": "10810",
+                "population_electors": "8867",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068f-b6f0-472b-9061-1a32cf91e152",
+                "keywords": "2014-11,直轄市山地原住民區長,臺中市,和平區"
+            }
+        }
+    ]
+}

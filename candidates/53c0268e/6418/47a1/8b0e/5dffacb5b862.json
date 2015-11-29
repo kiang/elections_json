@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c0268e-6418-47a1-8b0e-5dffacb5b862",
+            "election_id": "53c0244f-203c-4383-bb2a-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1253",
+            "name": "林志聰",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "3",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "LIN CHIH TSUNG",
+            "birth_place": "高雄市",
+            "birth": "1965-08-18",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:40:50"
+        },
+        "Election": {
+            "id": "53c0244f-203c-4383-bb2a-5c5aacb5b862",
+            "population_electors": "3356",
+            "population": "4222",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb721-d2ec-4f9f-ab3d-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01eb0-ab98-4a6a-bc81-5460acb5b862",
+                    "name": "湖內里",
+                    "AreasElection": {
+                        "id": "53c0244f-c3e8-4f46-b252-5c5aacb5b862",
+                        "Election_id": "53c0244f-203c-4383-bb2a-5c5aacb5b862",
+                        "Area_id": "53c01eb0-ab98-4a6a-bc81-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0244d-e6c0-46cb-bbdd-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "湖內區",
+                "lft": "13910",
+                "rght": "13939",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0244f-203c-4383-bb2a-5c5aacb5b862",
+                "parent_id": "53c0244d-e6c0-46cb-bbdd-5c5aacb5b862",
+                "name": "湖內里",
+                "lft": "13933",
+                "rght": "13934",
+                "population": "4222",
+                "population_electors": "3356",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb721-d2ec-4f9f-ab3d-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,湖內區,湖內里"
+            }
+        }
+    ]
+}

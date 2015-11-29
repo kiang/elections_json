@@ -1,0 +1,140 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b57a7-1e50-4650-bb65-1926acb5b862",
+            "election_id": "53d7346f-2af0-4f1e-91e2-1299acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "478",
+            "name": "林光隆",
+            "image": "54cb6e0e\/6934\/4ced\/81cf\/42e86ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "1",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:51:19",
+            "modified": "2015-02-08 23:44:00"
+        },
+        "Election": {
+            "id": "53d7346f-2af0-4f1e-91e2-1299acb5b862",
+            "population_electors": "1440",
+            "population": "1708",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5475673a-7290-4ff6-87d2-0f78cf91e152",
+            "Area": [
+                {
+                    "id": "53c01d88-864c-40c3-89c0-5460acb5b862",
+                    "name": "海口村",
+                    "AreasElection": {
+                        "id": "53d73470-1ca8-4b39-9660-1299acb5b862",
+                        "Election_id": "53d7346f-2af0-4f1e-91e2-1299acb5b862",
+                        "Area_id": "53c01d88-864c-40c3-89c0-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01d88-c170-43d8-ae05-5460acb5b862",
+                    "name": "田中村",
+                    "AreasElection": {
+                        "id": "53d73470-7810-4d66-bf69-1299acb5b862",
+                        "Election_id": "53d7346f-2af0-4f1e-91e2-1299acb5b862",
+                        "Area_id": "53c01d88-c170-43d8-ae05-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ce-0798-4ae9-af49-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "2197",
+                "rght": "2484",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020d7-33cc-410d-ac58-5c5aacb5b862",
+                "parent_id": "53c020ce-0798-4ae9-af49-5c5aacb5b862",
+                "name": "車城鄉",
+                "lft": "2408",
+                "rght": "2417",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d7346f-2af0-4f1e-91e2-1299acb5b862",
+                "parent_id": "53c020d7-33cc-410d-ac58-5c5aacb5b862",
+                "name": "第01選舉區[區域]",
+                "lft": "2409",
+                "rght": "2410",
+                "population": "1708",
+                "population_electors": "1440",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5475673a-7290-4ff6-87d2-0f78cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,屏東縣,車城鄉,第01選舉區[區域]"
+            }
+        }
+    ]
+}

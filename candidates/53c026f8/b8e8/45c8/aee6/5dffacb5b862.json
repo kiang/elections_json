@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c026f8-b8e8-45c8-aee6-5dffacb5b862",
+            "election_id": "53c0254f-9204-4da1-a124-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "0",
+            "vote_count": "0",
+            "name": "羅瑞旺",
+            "image": null,
+            "party": null,
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": null,
+            "no": "0",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "0000-00-00 00:00:00"
+        },
+        "Election": {
+            "id": "53c0254f-9204-4da1-a124-5c5aacb5b862",
+            "population_electors": "8026",
+            "population": "10617",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c8095-0c90-4790-b23e-61a3cf91e152",
+            "Area": [
+                {
+                    "id": "53c01f86-fb3c-4c58-b2da-5460acb5b862",
+                    "name": "西湳里",
+                    "AreasElection": {
+                        "id": "53c02550-4eb8-4560-ba74-5c5aacb5b862",
+                        "Election_id": "53c0254f-9204-4da1-a124-5c5aacb5b862",
+                        "Area_id": "53c01f86-fb3c-4c58-b2da-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0254a-5b94-49bd-8036-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "豐原區",
+                "lft": "16830",
+                "rght": "16903",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0254f-9204-4da1-a124-5c5aacb5b862",
+                "parent_id": "53c0254a-5b94-49bd-8036-5c5aacb5b862",
+                "name": "西湳里",
+                "lft": "16865",
+                "rght": "16866",
+                "population": "10617",
+                "population_electors": "8026",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c8095-0c90-4790-b23e-61a3cf91e152",
+                "keywords": "2014-11,村里長,臺中市,豐原區,西湳里"
+            }
+        }
+    ]
+}

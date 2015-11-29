@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5651-1640-4495-a966-1926acb5b862",
+            "election_id": "53c02307-1198-4301-8b41-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "244",
+            "name": "徐文燦",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "大學",
+            "is_present": false,
+            "name_english": "HSU WEN TSAN",
+            "birth_place": "臺灣省",
+            "birth": "1962-08-27",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:45:37",
+            "modified": "2015-02-08 23:45:31"
+        },
+        "Election": {
+            "id": "53c02307-1198-4301-8b41-5c5aacb5b862",
+            "population_electors": "780",
+            "population": "919",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c8095-17d4-4bee-a91d-61a3cf91e152",
+            "Area": [
+                {
+                    "id": "53c01dd8-f4ec-4d0f-925b-5460acb5b862",
+                    "name": "育仁里",
+                    "AreasElection": {
+                        "id": "53c02307-714c-4682-b682-5c5aacb5b862",
+                        "Election_id": "53c02307-1198-4301-8b41-5c5aacb5b862",
+                        "Area_id": "53c01dd8-f4ec-4d0f-925b-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "基隆市",
+                "lft": "9683",
+                "rght": "10012",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02305-2ab0-47c6-b70c-5c5aacb5b862",
+                "parent_id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "name": "仁愛區",
+                "lft": "9808",
+                "rght": "9867",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02307-1198-4301-8b41-5c5aacb5b862",
+                "parent_id": "53c02305-2ab0-47c6-b70c-5c5aacb5b862",
+                "name": "育仁里",
+                "lft": "9835",
+                "rght": "9836",
+                "population": "919",
+                "population_electors": "780",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c8095-17d4-4bee-a91d-61a3cf91e152",
+                "keywords": "2014-11,村里長,基隆市,仁愛區,育仁里"
+            }
+        }
+    ]
+}

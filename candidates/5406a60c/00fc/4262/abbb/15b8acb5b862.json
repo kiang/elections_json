@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "5406a60c-00fc-4262-abbb-15b8acb5b862",
+            "election_id": "53c0209b-b730-4536-b96e-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "4682",
+            "name": "張政國",
+            "image": "543029dc\/ef64\/49e3\/b605\/4d35cb455a61.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "2",
+            "education_level": "大學",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1966-01-23",
+            "platform": "",
+            "education": "吳鳳技術學院國際企業管理學系學士學位",
+            "experience": "褒忠鄉第14、15屆秘書",
+            "created": "2014-09-03 13:24:28",
+            "modified": "2015-02-08 23:42:01"
+        },
+        "Election": {
+            "id": "53c0209b-b730-4536-b96e-5c5aacb5b862",
+            "population_electors": "11283",
+            "population": "13681",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb720-9fa4-43fc-957b-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01d0b-a378-4726-9118-5460acb5b862",
+                    "name": "褒忠鄉",
+                    "AreasElection": {
+                        "id": "53c0209b-e010-4898-91ae-5c5aacb5b862",
+                        "Election_id": "53c0209b-b730-4536-b96e-5c5aacb5b862",
+                        "Area_id": "53c01d0b-a378-4726-9118-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市長",
+                "lft": "608",
+                "rght": "1031",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02098-ab7c-4d32-a6a1-5c5aacb5b862",
+                "parent_id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "807",
+                "rght": "848",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0209b-b730-4536-b96e-5c5aacb5b862",
+                "parent_id": "53c02098-ab7c-4d32-a6a1-5c5aacb5b862",
+                "name": "褒忠鄉",
+                "lft": "836",
+                "rght": "837",
+                "population": "13681",
+                "population_electors": "11283",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb720-9fa4-43fc-957b-2adbcf91e152",
+                "keywords": "2014-11,鄉鎮市長,雲林縣,褒忠鄉"
+            }
+        }
+    ]
+}

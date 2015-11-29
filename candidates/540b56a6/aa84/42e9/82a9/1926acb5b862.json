@@ -1,0 +1,134 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b56a6-aa84-42e9-82a9-1926acb5b862",
+            "election_id": "53c410b5-7c5c-46e9-878c-6f55acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "7204",
+            "name": "蕭文雄",
+            "image": "5413bed2\/06d0\/4cf6\/a610\/42ffcb455a61.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "\\n臉書 http:\/\/www.facebook.com\/HeMeiWuShuheWu\\n臉書 http:\/\/www.facebook.com\/pages\/%E5%BD%B0%E5%8C%96%E7%B8%A3%E8%AD%B0%E5%93%A1%E5%8F%83%E9%81%B8%E4%BA%BA%E5%92%8C%E7%BE%8E%E9%8E%AE%E6%B0%91%E4%BB%A3%E8%A1%A8-%E8%95%AD%E6%96%87%E9%9B%84-%E6%9C%8D%E5%8B%99%E5%9C%98%E9%9A%8A\/1450644201845145",
+            "gender": "m",
+            "no": "2",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "HSIAO WEN HSIUNG",
+            "birth_place": "臺灣省",
+            "birth": "1958-09-25",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:47:02",
+            "modified": "2015-02-08 23:41:51"
+        },
+        "Election": {
+            "id": "53c410b5-7c5c-46e9-878c-6f55acb5b862",
+            "population_electors": "112275",
+            "population": "143955",
+            "quota": "6",
+            "quota_women": "1",
+            "bulletin_key": "5469b450-c224-4b81-a1e8-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c86-8fc0-4c90-935c-5460acb5b862",
+                    "name": "和美鎮",
+                    "AreasElection": {
+                        "id": "53c410b5-d368-444d-be51-6f55acb5b862",
+                        "Election_id": "53c410b5-7c5c-46e9-878c-6f55acb5b862",
+                        "Area_id": "53c01c86-8fc0-4c90-935c-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01c8a-f7a4-4a00-9626-5460acb5b862",
+                    "name": "線西鄉",
+                    "AreasElection": {
+                        "id": "53c410b8-b3b0-4287-8aed-6f55acb5b862",
+                        "Election_id": "53c410b5-7c5c-46e9-878c-6f55acb5b862",
+                        "Area_id": "53c01c8a-f7a4-4a00-9626-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01c8b-011c-4404-84c2-5460acb5b862",
+                    "name": "伸港鄉",
+                    "AreasElection": {
+                        "id": "53c410b8-4808-411a-8932-6f55acb5b862",
+                        "Election_id": "53c410b5-7c5c-46e9-878c-6f55acb5b862",
+                        "Area_id": "53c01c8b-011c-4404-84c2-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "縣市議員",
+                "lft": "306",
+                "rght": "607",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02083-6290-44f4-8dab-5c5aacb5b862",
+                "parent_id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "399",
+                "rght": "418",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c410b5-7c5c-46e9-878c-6f55acb5b862",
+                "parent_id": "53c02083-6290-44f4-8dab-5c5aacb5b862",
+                "name": "第03選區[區域]",
+                "lft": "404",
+                "rght": "405",
+                "population": "143955",
+                "population_electors": "112275",
+                "quota": "6",
+                "quota_women": "1",
+                "bulletin_key": "5469b450-c224-4b81-a1e8-74a5cf91e152",
+                "keywords": "2014-11,縣市議員,彰化縣,第03選區[區域]"
+            }
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5681-d6c8-4dca-83bf-1926acb5b862",
+            "election_id": "53c40096-d708-4107-ad21-6cceacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "24703",
+            "name": "游輝宂",
+            "image": "543cf14f\/bca4\/419f\/b709\/2c31cb455a61.jpg",
+            "party": "無",
+            "contacts_phone": "02-2242-5678",
+            "contacts_fax": "02-2248-1538",
+            "contacts_email": "",
+            "contacts_address": "新北市中和區南華路48號",
+            "links": "臉書 http:\/\/www.facebook.com\/yousanity",
+            "gender": "m",
+            "no": "5",
+            "education_level": "大學",
+            "is_present": false,
+            "name_english": "Yu Hui Lung",
+            "birth_place": "新北市",
+            "birth": "1983-02-26",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:46:25",
+            "modified": "2015-02-08 23:40:24"
+        },
+        "Election": {
+            "id": "53c40096-d708-4107-ad21-6cceacb5b862",
+            "population_electors": "343334",
+            "population": "415073",
+            "quota": "6",
+            "quota_women": "1",
+            "bulletin_key": "5469b450-521c-427c-8ada-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01ef0-620c-4683-a44d-5460acb5b862",
+                    "name": "中和區",
+                    "AreasElection": {
+                        "id": "53c406e2-bdc0-46b9-9675-6dacacb5b862",
+                        "Election_id": "53c40096-d708-4107-ad21-6cceacb5b862",
+                        "Area_id": "53c01ef0-620c-4683-a44d-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207e-1efc-4871-a931-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "新北市",
+                "lft": "97",
+                "rght": "122",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c40096-d708-4107-ad21-6cceacb5b862",
+                "parent_id": "53c0207e-1efc-4871-a931-5c5aacb5b862",
+                "name": "第05選區[區域]",
+                "lft": "106",
+                "rght": "107",
+                "population": "415073",
+                "population_electors": "343334",
+                "quota": "6",
+                "quota_women": "1",
+                "bulletin_key": "5469b450-521c-427c-8ada-74a5cf91e152",
+                "keywords": "2014-11,直轄市議員,新北市,第05選區[區域]"
+            }
+        }
+    ]
+}

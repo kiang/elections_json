@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5597-a2e0-4024-9bde-1926acb5b862",
+            "election_id": "53c02241-c16c-4889-8d01-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "307",
+            "name": "李連銘",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1959-10-02",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:42:31",
+            "modified": "2015-02-08 23:45:09"
+        },
+        "Election": {
+            "id": "53c02241-c16c-4889-8d01-5c5aacb5b862",
+            "population_electors": "1352",
+            "population": "1633",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-cbbc-45df-948f-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01d2f-b8c8-41b9-b42a-5460acb5b862",
+                    "name": "溪北村",
+                    "AreasElection": {
+                        "id": "53c02241-f36c-465b-9d76-5c5aacb5b862",
+                        "Election_id": "53c02241-c16c-4889-8d01-5c5aacb5b862",
+                        "Area_id": "53c01d2f-b8c8-41b9-b42a-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0222a-d5c0-465f-849c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "嘉義縣",
+                "lft": "7019",
+                "rght": "7770",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0223f-d4dc-4ca4-a9e9-5c5aacb5b862",
+                "parent_id": "53c0222a-d5c0-465f-849c-5c5aacb5b862",
+                "name": "新港鄉",
+                "lft": "7294",
+                "rght": "7341",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02241-c16c-4889-8d01-5c5aacb5b862",
+                "parent_id": "53c0223f-d4dc-4ca4-a9e9-5c5aacb5b862",
+                "name": "溪北村",
+                "lft": "7325",
+                "rght": "7326",
+                "population": "1633",
+                "population_electors": "1352",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-cbbc-45df-948f-2adbcf91e152",
+                "keywords": "2014-11,村里長,嘉義縣,新港鄉,溪北村"
+            }
+        }
+    ]
+}

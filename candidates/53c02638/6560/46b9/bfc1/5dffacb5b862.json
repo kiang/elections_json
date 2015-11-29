@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02638-6560-46b9-bfc1-5dffacb5b862",
+            "election_id": "53c0239e-64d8-4893-9b87-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1978",
+            "name": "施桂英",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "2",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "Shih Kuei Ying",
+            "birth_place": "臺灣省",
+            "birth": "1954-02-02",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:40:31"
+        },
+        "Election": {
+            "id": "53c0239e-64d8-4893-9b87-5c5aacb5b862",
+            "population_electors": "5381",
+            "population": "6720",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-bf8c-424b-ab32-4187cf91e152",
+            "Area": [
+                {
+                    "id": "53c01e18-c5b0-48f4-8751-5460acb5b862",
+                    "name": "車層里",
+                    "AreasElection": {
+                        "id": "53c0239e-3f34-4be9-ae66-5c5aacb5b862",
+                        "Election_id": "53c0239e-64d8-4893-9b87-5c5aacb5b862",
+                        "Area_id": "53c01e18-c5b0-48f4-8751-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02396-dd04-4dbc-a350-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "大安區",
+                "lft": "11610",
+                "rght": "11717",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0239e-64d8-4893-9b87-5c5aacb5b862",
+                "parent_id": "53c02396-dd04-4dbc-a350-5c5aacb5b862",
+                "name": "車層里",
+                "lft": "11713",
+                "rght": "11714",
+                "population": "6720",
+                "population_electors": "5381",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-bf8c-424b-ab32-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,大安區,車層里"
+            }
+        }
+    ]
+}

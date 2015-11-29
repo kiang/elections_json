@@ -1,0 +1,125 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c68f80-92b4-4767-b8e8-0f15acb5b862",
+            "election_id": "53c410f5-e40c-4733-a4fd-6f55acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "4797",
+            "name": "李添興",
+            "image": "54415334\/cb24\/4a5a\/acfe\/38098e043389.jpg",
+            "party": "無",
+            "contacts_phone": "049-2230212",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "540南投縣南投市嘉和里府南二路165巷5號",
+            "links": "臉書 http:\/\/www.facebook.com\/Lai5168",
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1955-03-20",
+            "platform": "",
+            "education": "南投商職畢業",
+            "experience": "南投縣第13、14、15、16屆議員",
+            "created": "2014-07-16 22:43:12",
+            "modified": "2015-02-08 23:41:52"
+        },
+        "Election": {
+            "id": "53c410f5-e40c-4733-a4fd-6f55acb5b862",
+            "population_electors": "113846",
+            "population": "142398",
+            "quota": "10",
+            "quota_women": "2",
+            "bulletin_key": "54735d55-39f8-4213-9df1-21eacf91e152",
+            "Area": [
+                {
+                    "id": "53c01cc7-2d38-4e8a-ac7f-5460acb5b862",
+                    "name": "南投市",
+                    "AreasElection": {
+                        "id": "53c410f6-b0f4-4e5b-84fd-6f55acb5b862",
+                        "Election_id": "53c410f5-e40c-4733-a4fd-6f55acb5b862",
+                        "Area_id": "53c01cc7-2d38-4e8a-ac7f-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01cd6-5450-4e57-b3c0-5460acb5b862",
+                    "name": "名間鄉",
+                    "AreasElection": {
+                        "id": "53c410f9-0030-4ce6-b8bc-6f55acb5b862",
+                        "Election_id": "53c410f5-e40c-4733-a4fd-6f55acb5b862",
+                        "Area_id": "53c01cd6-5450-4e57-b3c0-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "縣市議員",
+                "lft": "306",
+                "rght": "607",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02083-aa04-4a0e-96bb-5c5aacb5b862",
+                "parent_id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "name": "南投縣",
+                "lft": "419",
+                "rght": "436",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c410f5-e40c-4733-a4fd-6f55acb5b862",
+                "parent_id": "53c02083-aa04-4a0e-96bb-5c5aacb5b862",
+                "name": "第01選區[區域]",
+                "lft": "420",
+                "rght": "421",
+                "population": "142398",
+                "population_electors": "113846",
+                "quota": "10",
+                "quota_women": "2",
+                "bulletin_key": "54735d55-39f8-4213-9df1-21eacf91e152",
+                "keywords": "2014-11,縣市議員,南投縣,第01選區[區域]"
+            }
+        }
+    ]
+}

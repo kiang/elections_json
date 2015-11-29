@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c027fe-1180-4cb6-a1dd-5dffacb5b862",
+            "election_id": "53c021f0-b42c-4521-a637-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "351",
+            "name": "林志樺",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "3",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "Lin chih hua",
+            "birth_place": "臺灣省",
+            "birth": "1962-05-11",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:44:59"
+        },
+        "Election": {
+            "id": "53c021f0-b42c-4521-a637-5c5aacb5b862",
+            "population_electors": "1197",
+            "population": "1419",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546ec076-cc9c-4baf-aac9-2d4fcf91e152",
+            "Area": [
+                {
+                    "id": "53c01cea-f1bc-461c-a0c9-5460acb5b862",
+                    "name": "湖山里",
+                    "AreasElection": {
+                        "id": "53c021f0-14a8-48f5-8568-5c5aacb5b862",
+                        "Election_id": "53c021f0-b42c-4521-a637-5c5aacb5b862",
+                        "Area_id": "53c01cea-f1bc-461c-a0c9-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "6201",
+                "rght": "7018",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e218-48e1-a17c-5c5aacb5b862",
+                "parent_id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "name": "斗六市",
+                "lft": "6202",
+                "rght": "6279",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021f0-b42c-4521-a637-5c5aacb5b862",
+                "parent_id": "53c021ec-e218-48e1-a17c-5c5aacb5b862",
+                "name": "湖山里",
+                "lft": "6251",
+                "rght": "6252",
+                "population": "1419",
+                "population_electors": "1197",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546ec076-cc9c-4baf-aac9-2d4fcf91e152",
+                "keywords": "2014-11,村里長,雲林縣,斗六市,湖山里"
+            }
+        }
+    ]
+}

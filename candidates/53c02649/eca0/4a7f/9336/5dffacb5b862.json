@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02649-eca0-4a7f-9336-5dffacb5b862",
+            "election_id": "53c023c2-3a20-4045-a832-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "1612",
+            "name": "王伯安",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "WANG PO AN",
+            "birth_place": "其他省市",
+            "birth": "1948-11-02",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:40:35"
+        },
+        "Election": {
+            "id": "53c023c2-3a20-4045-a832-5c5aacb5b862",
+            "population_electors": "5890",
+            "population": "7385",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-dbe8-438e-a86b-4187cf91e152",
+            "Area": [
+                {
+                    "id": "53c01e35-7b78-4ad8-ac82-5460acb5b862",
+                    "name": "碧山里",
+                    "AreasElection": {
+                        "id": "53c023c2-4c18-4acf-8b36-5c5aacb5b862",
+                        "Election_id": "53c023c2-3a20-4045-a832-5c5aacb5b862",
+                        "Area_id": "53c01e35-7b78-4ad8-ac82-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023c0-6e24-4314-83f8-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "內湖區",
+                "lft": "12124",
+                "rght": "12203",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023c2-3a20-4045-a832-5c5aacb5b862",
+                "parent_id": "53c023c0-6e24-4314-83f8-5c5aacb5b862",
+                "name": "碧山里",
+                "lft": "12149",
+                "rght": "12150",
+                "population": "7385",
+                "population_electors": "5890",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-dbe8-438e-a86b-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,內湖區,碧山里"
+            }
+        }
+    ]
+}

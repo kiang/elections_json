@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5470-2598-4894-b42f-1926acb5b862",
+            "election_id": "53c02407-9840-4f64-b5ff-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1050",
+            "name": "鄭瓊雯",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "1",
+            "education_level": "大學",
+            "is_present": false,
+            "name_english": "CHENG CHIUNG WEN",
+            "birth_place": "高雄市",
+            "birth": "1972-08-02",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:37:36",
+            "modified": "2015-02-08 23:40:42"
+        },
+        "Election": {
+            "id": "53c02407-9840-4f64-b5ff-5c5aacb5b862",
+            "population_electors": "2265",
+            "population": "2805",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb720-a0f8-4f9d-8aa6-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01e76-68e0-420b-838f-5460acb5b862",
+                    "name": "安祥里",
+                    "AreasElection": {
+                        "id": "53c02408-8414-4f5f-87ef-5c5aacb5b862",
+                        "Election_id": "53c02407-9840-4f64-b5ff-5c5aacb5b862",
+                        "Area_id": "53c01e76-68e0-420b-838f-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02401-a518-4567-b540-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "苓雅區",
+                "lft": "12958",
+                "rght": "13097",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02407-9840-4f64-b5ff-5c5aacb5b862",
+                "parent_id": "53c02401-a518-4567-b540-5c5aacb5b862",
+                "name": "安祥里",
+                "lft": "13029",
+                "rght": "13030",
+                "population": "2805",
+                "population_electors": "2265",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb720-a0f8-4f9d-8aa6-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,苓雅區,安祥里"
+            }
+        }
+    ]
+}

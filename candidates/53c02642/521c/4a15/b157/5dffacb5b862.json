@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02642-521c-4a15-b157-5dffacb5b862",
+            "election_id": "53c023b2-5d60-4bef-9c8a-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "2086",
+            "name": "王平三",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "專科",
+            "is_present": true,
+            "name_english": "WANG BEN SON",
+            "birth_place": "臺中市",
+            "birth": "1945-12-04",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:40:33"
+        },
+        "Election": {
+            "id": "53c023b2-5d60-4bef-9c8a-5c5aacb5b862",
+            "population_electors": "3539",
+            "population": "4467",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-fe34-4d59-adb6-4187cf91e152",
+            "Area": [
+                {
+                    "id": "53c01e29-3718-4975-a236-5460acb5b862",
+                    "name": "全德里",
+                    "AreasElection": {
+                        "id": "53c023b2-34e0-408b-88bd-5c5aacb5b862",
+                        "Election_id": "53c023b2-5d60-4bef-9c8a-5c5aacb5b862",
+                        "Area_id": "53c01e29-3718-4975-a236-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023af-44e8-4c7c-a5e8-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "萬華區",
+                "lft": "11920",
+                "rght": "11993",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023b2-5d60-4bef-9c8a-5c5aacb5b862",
+                "parent_id": "53c023af-44e8-4c7c-a5e8-5c5aacb5b862",
+                "name": "全德里",
+                "lft": "11969",
+                "rght": "11970",
+                "population": "4467",
+                "population_electors": "3539",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-fe34-4d59-adb6-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,萬華區,全德里"
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c0286f-fff0-4fbb-9b6d-5dffacb5b862",
+            "election_id": "53c022d9-e8e0-4107-bbbe-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1906",
+            "name": "郭仁添",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "其他省市",
+            "birth": "1964-01-27",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:45:26"
+        },
+        "Election": {
+            "id": "53c022d9-e8e0-4107-bbbe-5c5aacb5b862",
+            "population_electors": "3940",
+            "population": "4716",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546d8db9-2f10-4550-bf1e-0e51cf91e152",
+            "Area": [
+                {
+                    "id": "53c01db5-a808-4c30-b5fe-5460acb5b862",
+                    "name": "永安村",
+                    "AreasElection": {
+                        "id": "53c022da-cf3c-49e4-8d98-5c5aacb5b862",
+                        "Election_id": "53c022d9-e8e0-4107-bbbe-5c5aacb5b862",
+                        "Area_id": "53c01db5-a808-4c30-b5fe-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022cb-ff18-4c61-98a3-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "花蓮縣",
+                "lft": "9095",
+                "rght": "9476",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022d8-ac24-4363-ab09-5c5aacb5b862",
+                "parent_id": "53c022cb-ff18-4c61-98a3-5c5aacb5b862",
+                "name": "吉安鄉",
+                "lft": "9264",
+                "rght": "9301",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022d9-e8e0-4107-bbbe-5c5aacb5b862",
+                "parent_id": "53c022d8-ac24-4363-ab09-5c5aacb5b862",
+                "name": "永安村",
+                "lft": "9279",
+                "rght": "9280",
+                "population": "4716",
+                "population_electors": "3940",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546d8db9-2f10-4550-bf1e-0e51cf91e152",
+                "keywords": "2014-11,村里長,花蓮縣,吉安鄉,永安村"
+            }
+        }
+    ]
+}

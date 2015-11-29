@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c026d8-91a4-4975-98f1-5dffacb5b862",
+            "election_id": "53c02501-88ec-4ea8-89bb-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "726",
+            "name": "王章鳳",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "2",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "WANG CHANG FANG",
+            "birth_place": "臺北市",
+            "birth": "1964-07-31",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:41:08"
+        },
+        "Election": {
+            "id": "53c02501-88ec-4ea8-89bb-5c5aacb5b862",
+            "population_electors": "2024",
+            "population": "2437",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068c-1ae4-4ef6-a294-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01f4c-f8cc-4eec-a686-5460acb5b862",
+                    "name": "陸一里",
+                    "AreasElection": {
+                        "id": "53c02502-fd9c-474d-9ffc-5c5aacb5b862",
+                        "Election_id": "53c02501-88ec-4ea8-89bb-5c5aacb5b862",
+                        "Area_id": "53c01f4c-f8cc-4eec-a686-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新北市",
+                "lft": "14261",
+                "rght": "16384",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c024ff-e724-48d4-900f-5c5aacb5b862",
+                "parent_id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "name": "五股區",
+                "lft": "15998",
+                "rght": "16039",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02501-88ec-4ea8-89bb-5c5aacb5b862",
+                "parent_id": "53c024ff-e724-48d4-900f-5c5aacb5b862",
+                "name": "陸一里",
+                "lft": "16033",
+                "rght": "16034",
+                "population": "2437",
+                "population_electors": "2024",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068c-1ae4-4ef6-a294-1a32cf91e152",
+                "keywords": "2014-11,村里長,新北市,五股區,陸一里"
+            }
+        }
+    ]
+}

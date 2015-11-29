@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "5406a5fe-c6c8-4ffe-9407-15b8acb5b862",
+            "election_id": "53c0208b-6ba4-4e0f-a488-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "9241",
+            "name": "吳發仁",
+            "image": "549e88b5\/226c\/44bb\/855e\/10db6ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "臉書 http:\/\/www.facebook.com\/guanxiismyhome",
+            "gender": "m",
+            "no": "3",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "WU FA JEN",
+            "birth_place": "臺灣省",
+            "birth": "1956-01-05",
+            "platform": "",
+            "education": "明新科技大學",
+            "experience": "1.鎮民代表 2.縣議員",
+            "created": "2014-09-03 13:24:14",
+            "modified": "2015-02-08 23:41:59"
+        },
+        "Election": {
+            "id": "53c0208b-6ba4-4e0f-a488-5c5aacb5b862",
+            "population_electors": "24779",
+            "population": "30790",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-d420-4a6b-9769-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c42-4e4c-42bc-b24f-5460acb5b862",
+                    "name": "關西鎮",
+                    "AreasElection": {
+                        "id": "53c0208b-8ff4-4dcc-b4e7-5c5aacb5b862",
+                        "Election_id": "53c0208b-6ba4-4e0f-a488-5c5aacb5b862",
+                        "Area_id": "53c01c42-4e4c-42bc-b24f-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市長",
+                "lft": "608",
+                "rght": "1031",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0208a-29e0-490b-94ba-5c5aacb5b862",
+                "parent_id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "name": "新竹縣",
+                "lft": "659",
+                "rght": "686",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0208b-6ba4-4e0f-a488-5c5aacb5b862",
+                "parent_id": "53c0208a-29e0-490b-94ba-5c5aacb5b862",
+                "name": "關西鎮",
+                "lft": "666",
+                "rght": "667",
+                "population": "30790",
+                "population_electors": "24779",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-d420-4a6b-9769-1a32cf91e152",
+                "keywords": "2014-11,鄉鎮市長,新竹縣,關西鎮"
+            }
+        }
+    ]
+}

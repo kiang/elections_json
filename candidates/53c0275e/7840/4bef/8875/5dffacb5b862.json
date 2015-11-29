@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c0275e-7840-4bef-8875-5dffacb5b862",
+            "election_id": "53c02105-63b4-4aef-b76d-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "206",
+            "name": "李銘達",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1950-12-18",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:44:27"
+        },
+        "Election": {
+            "id": "53c02105-63b4-4aef-b76d-5c5aacb5b862",
+            "population_electors": "431",
+            "population": "519",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-8b2c-4906-9567-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01be8-b528-4d42-8645-5460acb5b862",
+                    "name": "二結村",
+                    "AreasElection": {
+                        "id": "53c02105-2cc0-44b0-8db7-5c5aacb5b862",
+                        "Election_id": "53c02105-63b4-4aef-b76d-5c5aacb5b862",
+                        "Area_id": "53c01be8-b528-4d42-8645-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ef-6268-4b1a-a16d-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "宜蘭縣",
+                "lft": "2929",
+                "rght": "3420",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02102-2d2c-4ab1-80e7-5c5aacb5b862",
+                "parent_id": "53c020ef-6268-4b1a-a16d-5c5aacb5b862",
+                "name": "礁溪鄉",
+                "lft": "3160",
+                "rght": "3197",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02105-63b4-4aef-b76d-5c5aacb5b862",
+                "parent_id": "53c02102-2d2c-4ab1-80e7-5c5aacb5b862",
+                "name": "二結村",
+                "lft": "3195",
+                "rght": "3196",
+                "population": "519",
+                "population_electors": "431",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-8b2c-4906-9567-2adbcf91e152",
+                "keywords": "2014-11,村里長,宜蘭縣,礁溪鄉,二結村"
+            }
+        }
+    ]
+}

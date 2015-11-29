@@ -1,0 +1,151 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5694-d8d0-47e5-a407-1926acb5b862",
+            "election_id": "53c400aa-a990-46c8-85b0-6cceacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "11726",
+            "name": "李全教",
+            "image": "548ae7ce\/d1ec\/4830\/b894\/7e086ab936af.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "臉書 http:\/\/www.facebook.com\/yestainan82",
+            "gender": "m",
+            "no": "1",
+            "education_level": "博士",
+            "is_present": false,
+            "name_english": "Lee Chuan Chiao",
+            "birth_place": "臺南市",
+            "birth": "1960-02-25",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:46:44",
+            "modified": "2015-02-08 23:40:26"
+        },
+        "Election": {
+            "id": "53c400aa-a990-46c8-85b0-6cceacb5b862",
+            "population_electors": "33080",
+            "population": "38866",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-ea90-4521-b234-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01ff7-78f4-4280-b00d-5460acb5b862",
+                    "name": "玉井區",
+                    "AreasElection": {
+                        "id": "53c406eb-52d4-45cf-af66-6dacacb5b862",
+                        "Election_id": "53c400aa-a990-46c8-85b0-6cceacb5b862",
+                        "Area_id": "53c01ff7-78f4-4280-b00d-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01ff8-3208-486b-bf16-5460acb5b862",
+                    "name": "楠西區",
+                    "AreasElection": {
+                        "id": "53c406eb-3344-407a-9743-6dacacb5b862",
+                        "Election_id": "53c400aa-a990-46c8-85b0-6cceacb5b862",
+                        "Area_id": "53c01ff8-3208-486b-bf16-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01ff9-a534-4035-97c0-5460acb5b862",
+                    "name": "南化區",
+                    "AreasElection": {
+                        "id": "53c406eb-ad24-42bf-aaa2-6dacacb5b862",
+                        "Election_id": "53c400aa-a990-46c8-85b0-6cceacb5b862",
+                        "Area_id": "53c01ff9-a534-4035-97c0-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01ffb-b474-495a-bfe1-5460acb5b862",
+                    "name": "左鎮區",
+                    "AreasElection": {
+                        "id": "53c406eb-c4d4-4f70-95e0-6dacacb5b862",
+                        "Election_id": "53c400aa-a990-46c8-85b0-6cceacb5b862",
+                        "Area_id": "53c01ffb-b474-495a-bfe1-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54ab2aed-9408-419c-a996-2a646ab936af",
+                "name": "2014當選無效之訴-臺南市",
+                "CandidatesTag": {
+                    "id": "54ab2afb-d8e4-49ed-bb86-2a476ab936af",
+                    "Candidate_id": "540b5694-d8d0-47e5-a407-1926acb5b862",
+                    "Tag_id": "54ab2aed-9408-419c-a996-2a646ab936af"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207f-29bc-4258-90c0-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "臺南市",
+                "lft": "157",
+                "rght": "194",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c400aa-a990-46c8-85b0-6cceacb5b862",
+                "parent_id": "53c0207f-29bc-4258-90c0-5c5aacb5b862",
+                "name": "第08選區[區域]",
+                "lft": "172",
+                "rght": "173",
+                "population": "38866",
+                "population_electors": "33080",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-ea90-4521-b234-74a5cf91e152",
+                "keywords": "2014-11,直轄市議員,臺南市,第08選區[區域]"
+            }
+        }
+    ]
+}

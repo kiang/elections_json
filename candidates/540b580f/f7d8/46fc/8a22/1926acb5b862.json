@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b580f-f7d8-46fc-8a22-1926acb5b862",
+            "election_id": "53c0209c-624c-4233-83bb-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "5589",
+            "name": "郭灯村",
+            "image": "549e8c94\/2898\/40d8\/8171\/11ea6ab936af.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "2",
+            "education_level": "大學",
+            "is_present": false,
+            "name_english": "Kuo TENG TSUN",
+            "birth_place": "臺南市",
+            "birth": "1948-11-12",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:53:03",
+            "modified": "2015-02-08 23:42:01"
+        },
+        "Election": {
+            "id": "53c0209c-624c-4233-83bb-5c5aacb5b862",
+            "population_electors": "33834",
+            "population": "43256",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-8d10-4039-8903-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01d1e-fd7c-412e-be12-5460acb5b862",
+                    "name": "朴子市",
+                    "AreasElection": {
+                        "id": "53c0209c-8d44-4673-a579-5c5aacb5b862",
+                        "Election_id": "53c0209c-624c-4233-83bb-5c5aacb5b862",
+                        "Area_id": "53c01d1e-fd7c-412e-be12-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市長",
+                "lft": "608",
+                "rght": "1031",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0209c-b3c0-4999-93a6-5c5aacb5b862",
+                "parent_id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "name": "嘉義縣",
+                "lft": "849",
+                "rght": "886",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0209c-624c-4233-83bb-5c5aacb5b862",
+                "parent_id": "53c0209c-b3c0-4999-93a6-5c5aacb5b862",
+                "name": "朴子市",
+                "lft": "852",
+                "rght": "853",
+                "population": "43256",
+                "population_electors": "33834",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-8d10-4039-8903-2adbcf91e152",
+                "keywords": "2014-11,鄉鎮市長,嘉義縣,朴子市"
+            }
+        }
+    ]
+}

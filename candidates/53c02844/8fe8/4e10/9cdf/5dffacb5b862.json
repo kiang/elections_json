@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02844-8fe8-4e10-9cdf-5dffacb5b862",
+            "election_id": "53c02275-b704-4eab-bc4e-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "439",
+            "name": "林義國",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1953-08-09",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:45:15"
+        },
+        "Election": {
+            "id": "53c02275-b704-4eab-bc4e-5c5aacb5b862",
+            "population_electors": "691",
+            "population": "963",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54773ba1-1e78-4e7a-a697-1915cf91e152",
+            "Area": [
+                {
+                    "id": "53c01d5e-8fe8-4157-9d65-5460acb5b862",
+                    "name": "中興里",
+                    "AreasElection": {
+                        "id": "53c02275-3890-40c2-8df7-5c5aacb5b862",
+                        "Election_id": "53c02275-b704-4eab-bc4e-5c5aacb5b862",
+                        "Area_id": "53c01d5e-8fe8-4157-9d65-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "7771",
+                "rght": "8766",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02274-d9cc-401e-a4c0-5c5aacb5b862",
+                "parent_id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "name": "東港鎮",
+                "lft": "7976",
+                "rght": "8023",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02275-b704-4eab-bc4e-5c5aacb5b862",
+                "parent_id": "53c02274-d9cc-401e-a4c0-5c5aacb5b862",
+                "name": "中興里",
+                "lft": "7987",
+                "rght": "7988",
+                "population": "963",
+                "population_electors": "691",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54773ba1-1e78-4e7a-a697-1915cf91e152",
+                "keywords": "2014-11,村里長,屏東縣,東港鎮,中興里"
+            }
+        }
+    ]
+}

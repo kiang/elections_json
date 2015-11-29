@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02894-9708-41d9-9e1d-5dffacb5b862",
+            "election_id": "53c02325-51fc-406e-a42b-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "966",
+            "name": "曾長森",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1944-08-28",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:45:34"
+        },
+        "Election": {
+            "id": "53c02325-51fc-406e-a42b-5c5aacb5b862",
+            "population_electors": "3721",
+            "population": "4755",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546b0806-c168-4a5e-bc0b-2ff0cf91e152",
+            "Area": [
+                {
+                    "id": "53c01df4-5c6c-4627-9396-5460acb5b862",
+                    "name": "南勢里",
+                    "AreasElection": {
+                        "id": "53c02325-28d8-4f62-8d59-5c5aacb5b862",
+                        "Election_id": "53c02325-51fc-406e-a42b-5c5aacb5b862",
+                        "Area_id": "53c01df4-5c6c-4627-9396-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02315-1360-4e37-94d3-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新竹市",
+                "lft": "10013",
+                "rght": "10264",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02320-8d20-42f9-9a00-5c5aacb5b862",
+                "parent_id": "53c02315-1360-4e37-94d3-5c5aacb5b862",
+                "name": "北區",
+                "lft": "10122",
+                "rght": "10213",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02325-51fc-406e-a42b-5c5aacb5b862",
+                "parent_id": "53c02320-8d20-42f9-9a00-5c5aacb5b862",
+                "name": "南勢里",
+                "lft": "10195",
+                "rght": "10196",
+                "population": "4755",
+                "population_electors": "3721",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546b0806-c168-4a5e-bc0b-2ff0cf91e152",
+                "keywords": "2014-11,村里長,新竹市,北區,南勢里"
+            }
+        }
+    ]
+}

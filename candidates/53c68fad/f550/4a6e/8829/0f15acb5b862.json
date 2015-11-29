@@ -1,0 +1,133 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c68fad-f550-4a6e-8829-0f15acb5b862",
+            "election_id": "53c400a3-e710-4008-9fe4-6cceacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "15950",
+            "name": "段緯宇",
+            "image": "5487ecc4\/29f4\/4a14\/ba57\/4a496ab936af.jpg",
+            "party": "親民黨",
+            "contacts_phone": "04-24837716",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "412台中市大里區長榮里中興路二段149號",
+            "links": "臉書 http:\/\/www.facebook.com\/people\/%E6%AE%B5%E7%B7%AF%E5%AE%87\/100000492720842",
+            "gender": "m",
+            "no": "3",
+            "education_level": "碩士",
+            "is_present": true,
+            "name_english": "DUAN WEI YOU",
+            "birth_place": "臺中市",
+            "birth": "1955-02-14",
+            "platform": "",
+            "education": "私立台糖代用國小  市立台中第一初級中學  樹德工專(修平科技大學）機械工程五年制  雙碩士：  大葉大學管理研究所碩士  國立中山大學社會科學院高階碩士",
+            "experience": "臺中縣議會第十五屆、第十六屆議員  經濟部中華工程公司機械工程師  霧峰農工職校講師  立法院國會助理11年多  臺中市議會第一屆議員",
+            "created": "2014-07-16 22:43:57",
+            "modified": "2015-02-08 23:40:25"
+        },
+        "Election": {
+            "id": "53c400a3-e710-4008-9fe4-6cceacb5b862",
+            "population_electors": "208384",
+            "population": "270055",
+            "quota": "6",
+            "quota_women": "1",
+            "bulletin_key": "546e068f-e460-44a1-8b6e-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01fb3-8bc8-4d89-bcef-5460acb5b862",
+                    "name": "霧峰區",
+                    "AreasElection": {
+                        "id": "53c406e7-28b0-49f0-81b3-6dacacb5b862",
+                        "Election_id": "53c400a3-e710-4008-9fe4-6cceacb5b862",
+                        "Area_id": "53c01fb3-8bc8-4d89-bcef-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01fbc-cf9c-4143-a619-5460acb5b862",
+                    "name": "大里區",
+                    "AreasElection": {
+                        "id": "53c406e7-347c-4706-bc06-6dacacb5b862",
+                        "Election_id": "53c400a3-e710-4008-9fe4-6cceacb5b862",
+                        "Area_id": "53c01fbc-cf9c-4143-a619-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54130d54-9e9c-4000-a3b7-79a1cb455a61",
+                "name": "2014親民黨",
+                "CandidatesTag": {
+                    "id": "54130db3-d8f8-4792-9221-799bcb455a61",
+                    "Candidate_id": "53c68fad-f550-4a6e-8829-0f15acb5b862",
+                    "Tag_id": "54130d54-9e9c-4000-a3b7-79a1cb455a61"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207e-b9a4-405f-abaf-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "臺中市",
+                "lft": "123",
+                "rght": "156",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c400a3-e710-4008-9fe4-6cceacb5b862",
+                "parent_id": "53c0207e-b9a4-405f-abaf-5c5aacb5b862",
+                "name": "第13選區[區域]",
+                "lft": "148",
+                "rght": "149",
+                "population": "270055",
+                "population_electors": "208384",
+                "quota": "6",
+                "quota_women": "1",
+                "bulletin_key": "546e068f-e460-44a1-8b6e-1a32cf91e152",
+                "keywords": "2014-11,直轄市議員,臺中市,第13選區[區域]"
+            }
+        }
+    ]
+}

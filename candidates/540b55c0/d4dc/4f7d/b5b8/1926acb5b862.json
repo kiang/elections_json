@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b55c0-d4dc-4f7d-b5b8-1926acb5b862",
+            "election_id": "53c0227c-1888-4468-adc9-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "0",
+            "vote_count": "0",
+            "name": "徐慶益",
+            "image": "",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "0",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:43:12",
+            "modified": "2014-11-26 23:57:39"
+        },
+        "Election": {
+            "id": "53c0227c-1888-4468-adc9-5c5aacb5b862",
+            "population_electors": "1886",
+            "population": "2425",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54773ba1-a994-404f-ac2b-1915cf91e152",
+            "Area": [
+                {
+                    "id": "53c01d64-aeb8-47b7-ad97-5460acb5b862",
+                    "name": "四維村",
+                    "AreasElection": {
+                        "id": "53c0227c-0438-4e40-b103-5c5aacb5b862",
+                        "Election_id": "53c0227c-1888-4468-adc9-5c5aacb5b862",
+                        "Area_id": "53c01d64-aeb8-47b7-ad97-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "7771",
+                "rght": "8766",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0227a-767c-4154-b942-5c5aacb5b862",
+                "parent_id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "name": "萬丹鄉",
+                "lft": "8060",
+                "rght": "8121",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0227c-1888-4468-adc9-5c5aacb5b862",
+                "parent_id": "53c0227a-767c-4154-b942-5c5aacb5b862",
+                "name": "四維村",
+                "lft": "8075",
+                "rght": "8076",
+                "population": "2425",
+                "population_electors": "1886",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54773ba1-a994-404f-ac2b-1915cf91e152",
+                "keywords": "2014-11,村里長,屏東縣,萬丹鄉,四維村"
+            }
+        }
+    ]
+}

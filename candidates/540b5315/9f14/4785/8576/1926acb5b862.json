@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5315-9f14-4785-8576-1926acb5b862",
+            "election_id": "53c023d5-3484-4af0-8ab7-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "150",
+            "name": "白俊",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺北市",
+            "birth": "1955-11-18",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:31:49",
+            "modified": "2015-02-08 23:40:37"
+        },
+        "Election": {
+            "id": "53c023d5-3484-4af0-8ab7-5c5aacb5b862",
+            "population_electors": "978",
+            "population": "1121",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-50f0-4a71-94f6-4187cf91e152",
+            "Area": [
+                {
+                    "id": "53c01e47-c060-435f-a7c7-5460acb5b862",
+                    "name": "湖田里",
+                    "AreasElection": {
+                        "id": "53c023d5-7ed8-4b85-990a-5c5aacb5b862",
+                        "Election_id": "53c023d5-3484-4af0-8ab7-5c5aacb5b862",
+                        "Area_id": "53c01e47-c060-435f-a7c7-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023cf-48cc-46fc-8762-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "北投區",
+                "lft": "12308",
+                "rght": "12393",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d5-3484-4af0-8ab7-5c5aacb5b862",
+                "parent_id": "53c023cf-48cc-46fc-8762-5c5aacb5b862",
+                "name": "湖田里",
+                "lft": "12389",
+                "rght": "12390",
+                "population": "1121",
+                "population_electors": "978",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-50f0-4a71-94f6-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,北投區,湖田里"
+            }
+        }
+    ]
+}

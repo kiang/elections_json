@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c027d9-9250-48da-9e0f-5dffacb5b862",
+            "election_id": "53c021a9-22a4-48cb-997f-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "0",
+            "vote_count": "0",
+            "name": "謝己清",
+            "image": "54634bd6\/a110\/4fbd\/97a6\/65ba8e043389.jpg",
+            "party": "",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "0",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "0000-00-00 00:00:00",
+            "modified": "2014-11-12 20:03:38"
+        },
+        "Election": {
+            "id": "53c021a9-22a4-48cb-997f-5c5aacb5b862",
+            "population_electors": "685",
+            "population": "800",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-85dc-456d-b6c4-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01cb4-b4f0-4ea4-987f-5460acb5b862",
+                    "name": "十五村",
+                    "AreasElection": {
+                        "id": "53c021a9-d3dc-454d-9076-5c5aacb5b862",
+                        "Election_id": "53c021a9-22a4-48cb-997f-5c5aacb5b862",
+                        "Area_id": "53c01cb4-b4f0-4ea4-987f-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "4417",
+                "rght": "5648",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021a6-5f24-4862-96c1-5c5aacb5b862",
+                "parent_id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "name": "二水鄉",
+                "lft": "5290",
+                "rght": "5325",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021a9-22a4-48cb-997f-5c5aacb5b862",
+                "parent_id": "53c021a6-5f24-4862-96c1-5c5aacb5b862",
+                "name": "十五村",
+                "lft": "5321",
+                "rght": "5322",
+                "population": "800",
+                "population_electors": "685",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-85dc-456d-b6c4-74a5cf91e152",
+                "keywords": "2014-11,村里長,彰化縣,二水鄉,十五村"
+            }
+        }
+    ]
+}

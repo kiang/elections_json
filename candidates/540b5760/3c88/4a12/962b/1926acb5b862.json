@@ -1,0 +1,140 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5760-3c88-4a12-962b-1926acb5b862",
+            "election_id": "53d733da-f564-48eb-bade-1299acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "633",
+            "name": "黃金水",
+            "image": "54c256e8\/9ab0\/4fd2\/8899\/70186ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "2",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1958-10-07",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:50:08",
+            "modified": "2015-02-08 23:43:26"
+        },
+        "Election": {
+            "id": "53d733da-f564-48eb-bade-1299acb5b862",
+            "population_electors": "2120",
+            "population": "2443",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "546ebce3-bde4-422f-b42f-2b96cf91e152",
+            "Area": [
+                {
+                    "id": "53c01d0c-7190-4a58-bc5b-5460acb5b862",
+                    "name": "潮厝村",
+                    "AreasElection": {
+                        "id": "53d733db-7170-452e-9887-1299acb5b862",
+                        "Election_id": "53d733da-f564-48eb-bade-1299acb5b862",
+                        "Area_id": "53c01d0c-7190-4a58-bc5b-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01d0c-79a8-4808-a950-5460acb5b862",
+                    "name": "龍岩村",
+                    "AreasElection": {
+                        "id": "53d733db-d33c-4bc9-a3ba-1299acb5b862",
+                        "Election_id": "53d733da-f564-48eb-bade-1299acb5b862",
+                        "Area_id": "53c01d0c-79a8-4808-a950-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020c5-1718-4aea-8b3b-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "1865",
+                "rght": "2062",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020c8-4acc-4558-bfbc-5c5aacb5b862",
+                "parent_id": "53c020c5-1718-4aea-8b3b-5c5aacb5b862",
+                "name": "褒忠鄉",
+                "lft": "2004",
+                "rght": "2013",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d733da-f564-48eb-bade-1299acb5b862",
+                "parent_id": "53c020c8-4acc-4558-bfbc-5c5aacb5b862",
+                "name": "第04選舉區[區域]",
+                "lft": "2011",
+                "rght": "2012",
+                "population": "2443",
+                "population_electors": "2120",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "546ebce3-bde4-422f-b42f-2b96cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,雲林縣,褒忠鄉,第04選舉區[區域]"
+            }
+        }
+    ]
+}

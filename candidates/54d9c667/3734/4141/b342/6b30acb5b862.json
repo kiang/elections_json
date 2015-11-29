@@ -1,0 +1,108 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "54d9c667-3734-4141-b342-6b30acb5b862",
+            "election_id": "54d9c667-1db8-4d3d-b949-6b30acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "4576",
+            "name": "呂學記",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "3",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2015-02-10 16:50:47",
+            "modified": "2015-02-10 16:50:47"
+        },
+        "Election": {
+            "id": "54d9c667-1db8-4d3d-b949-6b30acb5b862",
+            "population_electors": "0",
+            "population": "0",
+            "quota": "0",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "Area": [
+
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "54d9c662-bebc-47d7-9545-6b30acb5b862",
+                "parent_id": null,
+                "name": "1998-01",
+                "lft": "31125",
+                "rght": "32200",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "54d9c662-96a8-4813-9e4f-6b30acb5b862",
+                "parent_id": "54d9c662-bebc-47d7-9545-6b30acb5b862",
+                "name": "縣市議員",
+                "lft": "31126",
+                "rght": "31559",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "550bce76-a5cc-4fac-bd99-379bacb5b862",
+                "parent_id": "54d9c662-96a8-4813-9e4f-6b30acb5b862",
+                "name": "桃園縣",
+                "lft": "31181",
+                "rght": "31210",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "54d9c667-1db8-4d3d-b949-6b30acb5b862",
+                "parent_id": "550bce76-a5cc-4fac-bd99-379bacb5b862",
+                "name": "第2選區[區域]",
+                "lft": "31184",
+                "rght": "31185",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "1998-01,縣市議員,桃園縣第2選區[區域]"
+            }
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b56cd-dda0-4e00-84f4-1926acb5b862",
+            "election_id": "53c41226-61d4-4870-bddc-6f55acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "368",
+            "name": "林家益",
+            "image": "54917283\/507c\/4ee1\/aa91\/102e6ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "8",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1972-04-29",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:47:41",
+            "modified": "2015-02-08 23:41:56"
+        },
+        "Election": {
+            "id": "53c41226-61d4-4870-bddc-6f55acb5b862",
+            "population_electors": "42712",
+            "population": "51274",
+            "quota": "4",
+            "quota_women": "1",
+            "bulletin_key": "5469b450-1914-440e-9060-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01de2-22cc-48b8-bc44-5460acb5b862",
+                    "name": "信義區",
+                    "AreasElection": {
+                        "id": "53c41226-5100-4694-bd0b-6f55acb5b862",
+                        "Election_id": "53c41226-61d4-4870-bddc-6f55acb5b862",
+                        "Area_id": "53c01de2-22cc-48b8-bc44-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "縣市議員",
+                "lft": "306",
+                "rght": "607",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02085-8764-4425-9d61-5c5aacb5b862",
+                "parent_id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "name": "基隆市",
+                "lft": "569",
+                "rght": "586",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c41226-61d4-4870-bddc-6f55acb5b862",
+                "parent_id": "53c02085-8764-4425-9d61-5c5aacb5b862",
+                "name": "第02選區[區域]",
+                "lft": "572",
+                "rght": "573",
+                "population": "51274",
+                "population_electors": "42712",
+                "quota": "4",
+                "quota_women": "1",
+                "bulletin_key": "5469b450-1914-440e-9060-74a5cf91e152",
+                "keywords": "2014-11,縣市議員,基隆市,第02選區[區域]"
+            }
+        }
+    ]
+}

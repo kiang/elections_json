@@ -1,0 +1,139 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c0269a-e048-49a9-9c1f-5dffacb5b862",
+            "election_id": "53c0246e-6078-4ec4-b886-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1133",
+            "name": "廖明勇",
+            "image": null,
+            "party": "無",
+            "contacts_phone": "02-29600355",
+            "contacts_fax": "",
+            "contacts_email": "Mingyung110@gmail.com",
+            "contacts_address": "",
+            "links": "臉書 https:\/\/www.facebook.com\/mingyung110\\n鄉民參政行動聯盟拜訪記錄 http:\/\/www.ptt.cc\/bbs\/PublicIssue\/M.1407332575.A.F86.html",
+            "gender": "m",
+            "no": "2",
+            "education_level": "專科",
+            "is_present": true,
+            "name_english": "LIAO MING YUNG",
+            "birth_place": "台灣新竹",
+            "birth": "1959-05-27",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-16 00:30:09"
+        },
+        "Election": {
+            "id": "53c0246e-6078-4ec4-b886-5c5aacb5b862",
+            "population_electors": "3198",
+            "population": "3866",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54704b05-3e88-4ff0-9ba7-1495cf91e152",
+            "Area": [
+                {
+                    "id": "53c01ec9-5d44-490d-8fbb-5460acb5b862",
+                    "name": "建國里",
+                    "AreasElection": {
+                        "id": "53c0246e-77e8-4ad8-a38f-5c5aacb5b862",
+                        "Election_id": "53c0246e-6078-4ec4-b886-5c5aacb5b862",
+                        "Area_id": "53c01ec9-5d44-490d-8fbb-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54619d23-ee3c-422d-83a8-08ce8e043389",
+                "name": "2014鄉民參政行動聯盟訪談",
+                "CandidatesTag": {
+                    "id": "54619d4c-8d3c-44ce-b710-08cd8e043389",
+                    "Candidate_id": "53c0269a-e048-49a9-9c1f-5dffacb5b862",
+                    "Tag_id": "54619d23-ee3c-422d-83a8-08ce8e043389"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新北市",
+                "lft": "14261",
+                "rght": "16384",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0246c-3a14-4586-8271-5c5aacb5b862",
+                "parent_id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "name": "板橋區",
+                "lft": "14262",
+                "rght": "14515",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0246e-6078-4ec4-b886-5c5aacb5b862",
+                "parent_id": "53c0246c-3a14-4586-8271-5c5aacb5b862",
+                "name": "建國里",
+                "lft": "14293",
+                "rght": "14294",
+                "population": "3866",
+                "population_electors": "3198",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54704b05-3e88-4ff0-9ba7-1495cf91e152",
+                "keywords": "2014-11,村里長,新北市,板橋區,建國里"
+            }
+        }
+    ]
+}

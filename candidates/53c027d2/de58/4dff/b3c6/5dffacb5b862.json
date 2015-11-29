@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c027d2-de58-4dff-b3c6-5dffacb5b862",
+            "election_id": "53c0219a-ff90-4447-b9af-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "897",
+            "name": "王志民",
+            "image": "5461d566\/13f4\/44a4\/a125\/77078e043389.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1967-05-01",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:44:44"
+        },
+        "Election": {
+            "id": "53c0219a-ff90-4447-b9af-5c5aacb5b862",
+            "population_electors": "1436",
+            "population": "1854",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546b0806-f9b4-4886-8b2e-2ff0cf91e152",
+            "Area": [
+                {
+                    "id": "53c01ca9-6474-4bf5-bdd4-5460acb5b862",
+                    "name": "新水村",
+                    "AreasElection": {
+                        "id": "53c0219a-3e10-41ee-85e5-5c5aacb5b862",
+                        "Election_id": "53c0219a-ff90-4447-b9af-5c5aacb5b862",
+                        "Area_id": "53c01ca9-6474-4bf5-bdd4-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "4417",
+                "rght": "5648",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02197-4d74-48e3-b563-5c5aacb5b862",
+                "parent_id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "name": "埔鹽鄉",
+                "lft": "5102",
+                "rght": "5147",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0219a-ff90-4447-b9af-5c5aacb5b862",
+                "parent_id": "53c02197-4d74-48e3-b563-5c5aacb5b862",
+                "name": "新水村",
+                "lft": "5137",
+                "rght": "5138",
+                "population": "1854",
+                "population_electors": "1436",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546b0806-f9b4-4886-8b2e-2ff0cf91e152",
+                "keywords": "2014-11,村里長,彰化縣,埔鹽鄉,新水村"
+            }
+        }
+    ]
+}

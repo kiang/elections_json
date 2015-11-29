@@ -1,0 +1,124 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5680-ba7c-404b-9156-1926acb5b862",
+            "election_id": "53c40095-841c-4bdb-94f1-6cceacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "4299",
+            "name": "王炳忠",
+            "image": "543ceda0\/51a4\/449a\/aed9\/0e49cb455a61.jpg",
+            "party": "新黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "臉書 http:\/\/www.facebook.com\/wangpingchung\\n臉書 http:\/\/www.facebook.com\/bingzhong.wang",
+            "gender": "m",
+            "no": "12",
+            "education_level": "碩士",
+            "is_present": false,
+            "name_english": "Wang Ping Chung",
+            "birth_place": "臺北市",
+            "birth": "1987-08-31",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:46:24",
+            "modified": "2015-02-08 23:40:24"
+        },
+        "Election": {
+            "id": "53c40095-841c-4bdb-94f1-6cceacb5b862",
+            "population_electors": "443503",
+            "population": "555735",
+            "quota": "9",
+            "quota_women": "2",
+            "bulletin_key": "5469b450-4920-4cf0-8690-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01ec7-1a74-43bd-86a4-5460acb5b862",
+                    "name": "板橋區",
+                    "AreasElection": {
+                        "id": "53c406e2-8f20-43ae-8c59-6dacacb5b862",
+                        "Election_id": "53c40095-841c-4bdb-94f1-6cceacb5b862",
+                        "Area_id": "53c01ec7-1a74-43bd-86a4-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54130cd8-8114-4935-a95a-79a1cb455a61",
+                "name": "2014新黨",
+                "CandidatesTag": {
+                    "id": "54130d04-993c-4411-95e4-799bcb455a61",
+                    "Candidate_id": "540b5680-ba7c-404b-9156-1926acb5b862",
+                    "Tag_id": "54130cd8-8114-4935-a95a-79a1cb455a61"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207e-1efc-4871-a931-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "新北市",
+                "lft": "97",
+                "rght": "122",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c40095-841c-4bdb-94f1-6cceacb5b862",
+                "parent_id": "53c0207e-1efc-4871-a931-5c5aacb5b862",
+                "name": "第04選區[區域]",
+                "lft": "104",
+                "rght": "105",
+                "population": "555735",
+                "population_electors": "443503",
+                "quota": "9",
+                "quota_women": "2",
+                "bulletin_key": "5469b450-4920-4cf0-8690-74a5cf91e152",
+                "keywords": "2014-11,直轄市議員,新北市,第04選區[區域]"
+            }
+        }
+    ]
+}

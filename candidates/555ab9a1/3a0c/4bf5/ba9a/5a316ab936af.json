@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "555ab9a1-3a0c-4bf5-ba9a-5a316ab936af",
+            "election_id": "55086791-6560-42c7-9763-23aa6ab936af",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "0",
+            "name": "劉文雄",
+            "image": "55af6d4c\/95a8\/40ed\/bc6a\/676c6ab936af.jpg",
+            "party": "親民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": null,
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2015-05-19 12:18:41",
+            "modified": "2015-11-29 03:28:36"
+        },
+        "Election": {
+            "id": "55086791-6560-42c7-9763-23aa6ab936af",
+            "population_electors": "0",
+            "population": "0",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "Area": [
+                {
+                    "id": "550859f8-d138-4129-afb5-3584acb5b862",
+                    "name": "基隆市",
+                    "AreasElection": {
+                        "id": "550a754f-7110-4149-8b82-494a6ab936af",
+                        "Election_id": "55086791-6560-42c7-9763-23aa6ab936af",
+                        "Area_id": "550859f8-d138-4129-afb5-3584acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "55085db5-2e9c-4cde-8103-23d86ab936af",
+                "parent_id": null,
+                "name": "2016-01",
+                "lft": "40579",
+                "rght": "40780",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "55085e1a-c494-40e0-ba31-2f916ab936af",
+                "parent_id": "55085db5-2e9c-4cde-8103-23d86ab936af",
+                "name": "立法委員",
+                "lft": "40582",
+                "rght": "40779",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "55086378-1044-4b68-8e17-28956ab936af",
+                "parent_id": "55085e1a-c494-40e0-ba31-2f916ab936af",
+                "name": "基隆市",
+                "lft": "40753",
+                "rght": "40756",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "55086791-6560-42c7-9763-23aa6ab936af",
+                "parent_id": "55086378-1044-4b68-8e17-28956ab936af",
+                "name": "第01選區[區域]",
+                "lft": "40754",
+                "rght": "40755",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2016-01,立法委員,基隆市,第01選區[區域]"
+            }
+        }
+    ]
+}

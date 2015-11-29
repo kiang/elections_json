@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c68f75-3ac8-4b25-9ad5-0f15acb5b862",
+            "election_id": "53c4037d-7e34-45be-9f21-6d45acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "0",
+            "vote_count": "0",
+            "name": "李月琴",
+            "image": null,
+            "party": "無政黨",
+            "contacts_phone": "03-4699755",
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": "324桃園縣平鎮市東豐路8號",
+            "links": null,
+            "gender": "f",
+            "no": "0",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "淡江大學  元智大學研究所  淡江大學碩士畢業",
+            "experience": "桃園縣平鎮市市長  第十四屆桃園縣議員",
+            "created": "2014-07-16 22:43:01",
+            "modified": "2014-07-16 22:43:01"
+        },
+        "Election": {
+            "id": "53c4037d-7e34-45be-9f21-6d45acb5b862",
+            "population_electors": "162610",
+            "population": "212073",
+            "quota": "6",
+            "quota_women": "1",
+            "bulletin_key": "546e068d-7c58-43cc-a363-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c2a-87fc-480e-94b0-5460acb5b862",
+                    "name": "平鎮區",
+                    "AreasElection": {
+                        "id": "53c40822-7518-4c47-81b6-6e01acb5b862",
+                        "Election_id": "53c4037d-7e34-45be-9f21-6d45acb5b862",
+                        "Area_id": "53c01c2a-87fc-480e-94b0-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207d-ff5c-4dfe-98b5-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "桃園市",
+                "lft": "17",
+                "rght": "46",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c4037d-7e34-45be-9f21-6d45acb5b862",
+                "parent_id": "53c0207d-ff5c-4dfe-98b5-5c5aacb5b862",
+                "name": "第08選區[區域]",
+                "lft": "32",
+                "rght": "33",
+                "population": "212073",
+                "population_electors": "162610",
+                "quota": "6",
+                "quota_women": "1",
+                "bulletin_key": "546e068d-7c58-43cc-a363-1a32cf91e152",
+                "keywords": "2014-11,直轄市議員,桃園市,第08選區[區域]"
+            }
+        }
+    ]
+}

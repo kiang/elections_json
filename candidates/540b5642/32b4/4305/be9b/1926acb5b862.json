@@ -1,0 +1,139 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5642-32b4-4305-be9b-1926acb5b862",
+            "election_id": "53c020ea-b108-42e8-8eb6-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "221",
+            "name": "陳福氣",
+            "image": null,
+            "party": "新黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "金馬地區",
+            "birth": "1945-12-25",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:45:22",
+            "modified": "2015-02-08 23:44:24"
+        },
+        "Election": {
+            "id": "53c020ea-b108-42e8-8eb6-5c5aacb5b862",
+            "population_electors": "1737",
+            "population": "2072",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-7d0c-4ac3-a02e-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01bd3-9f68-4ab4-affe-5460acb5b862",
+                    "name": "何斗里",
+                    "AreasElection": {
+                        "id": "53c020ea-f6f8-4d47-b4b8-5c5aacb5b862",
+                        "Election_id": "53c020ea-b108-42e8-8eb6-5c5aacb5b862",
+                        "Area_id": "53c01bd3-9f68-4ab4-affe-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54130cd8-8114-4935-a95a-79a1cb455a61",
+                "name": "2014新黨",
+                "CandidatesTag": {
+                    "id": "54130d4b-92a8-4276-8ff6-79a1cb455a61",
+                    "Candidate_id": "540b5642-32b4-4305-be9b-1926acb5b862",
+                    "Tag_id": "54130cd8-8114-4935-a95a-79a1cb455a61"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020e8-2910-4576-94cc-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "金門縣",
+                "lft": "2841",
+                "rght": "2928",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ea-6c88-4954-940a-5c5aacb5b862",
+                "parent_id": "53c020e8-2910-4576-94cc-5c5aacb5b862",
+                "name": "金沙鎮",
+                "lft": "2860",
+                "rght": "2877",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ea-b108-42e8-8eb6-5c5aacb5b862",
+                "parent_id": "53c020ea-6c88-4954-940a-5c5aacb5b862",
+                "name": "何斗里",
+                "lft": "2869",
+                "rght": "2870",
+                "population": "2072",
+                "population_electors": "1737",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-7d0c-4ac3-a02e-74a5cf91e152",
+                "keywords": "2014-11,村里長,金門縣,金沙鎮,何斗里"
+            }
+        }
+    ]
+}

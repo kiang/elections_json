@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02778-31b4-4013-bf91-5dffacb5b862",
+            "election_id": "53c02358-06b8-43a6-8106-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1523",
+            "name": "徐逢漳",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "HSU FENG CHANG",
+            "birth_place": "臺灣省",
+            "birth": "1962-01-10",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:41:42"
+        },
+        "Election": {
+            "id": "53c02358-06b8-43a6-8106-5c5aacb5b862",
+            "population_electors": "3030",
+            "population": "3804",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-9754-4500-b8e8-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c12-7a54-4610-a6c1-5460acb5b862",
+                    "name": "光華里",
+                    "AreasElection": {
+                        "id": "53c02358-f2cc-410c-b9a5-5c5aacb5b862",
+                        "Election_id": "53c02358-06b8-43a6-8106-5c5aacb5b862",
+                        "Area_id": "53c01c12-7a54-4610-a6c1-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "桃園市",
+                "lft": "10439",
+                "rght": "11456",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02356-ffa8-4707-8ead-5c5aacb5b862",
+                "parent_id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "name": "楊梅區",
+                "lft": "10822",
+                "rght": "10905",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02358-06b8-43a6-8106-5c5aacb5b862",
+                "parent_id": "53c02356-ffa8-4707-8ead-5c5aacb5b862",
+                "name": "光華里",
+                "lft": "10849",
+                "rght": "10850",
+                "population": "3804",
+                "population_electors": "3030",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-9754-4500-b8e8-1a32cf91e152",
+                "keywords": "2014-11,村里長,桃園市,楊梅區,光華里"
+            }
+        }
+    ]
+}

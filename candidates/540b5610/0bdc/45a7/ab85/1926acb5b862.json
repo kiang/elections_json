@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5610-0bdc-45a7-ab85-1926acb5b862",
+            "election_id": "53c022d8-5dfc-4e1a-be4c-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "836",
+            "name": "董睿謙",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "大學",
+            "is_present": false,
+            "name_english": "DONG RUEI CIAN",
+            "birth_place": "臺灣省",
+            "birth": "1966-05-23",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:44:32",
+            "modified": "2015-02-08 23:45:26"
+        },
+        "Election": {
+            "id": "53c022d8-5dfc-4e1a-be4c-5c5aacb5b862",
+            "population_electors": "3534",
+            "population": "4478",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546d8db9-0378-4f17-bf17-0e51cf91e152",
+            "Area": [
+                {
+                    "id": "53c01db4-3ffc-48e9-b0de-5460acb5b862",
+                    "name": "嘉里村",
+                    "AreasElection": {
+                        "id": "53c022d8-4f24-4279-b424-5c5aacb5b862",
+                        "Election_id": "53c022d8-5dfc-4e1a-be4c-5c5aacb5b862",
+                        "Area_id": "53c01db4-3ffc-48e9-b0de-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022cb-ff18-4c61-98a3-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "花蓮縣",
+                "lft": "9095",
+                "rght": "9476",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022d7-cc68-48da-8b76-5c5aacb5b862",
+                "parent_id": "53c022cb-ff18-4c61-98a3-5c5aacb5b862",
+                "name": "新城鄉",
+                "lft": "9246",
+                "rght": "9263",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022d8-5dfc-4e1a-be4c-5c5aacb5b862",
+                "parent_id": "53c022d7-cc68-48da-8b76-5c5aacb5b862",
+                "name": "嘉里村",
+                "lft": "9257",
+                "rght": "9258",
+                "population": "4478",
+                "population_electors": "3534",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546d8db9-0378-4f17-bf17-0e51cf91e152",
+                "keywords": "2014-11,村里長,花蓮縣,新城鄉,嘉里村"
+            }
+        }
+    ]
+}

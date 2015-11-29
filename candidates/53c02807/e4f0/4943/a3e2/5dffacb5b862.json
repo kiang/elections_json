@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02807-e4f0-4943-a3e2-5dffacb5b862",
+            "election_id": "53c021ff-143c-457a-a273-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "412",
+            "name": "楊耀柏",
+            "image": null,
+            "party": "民主進步黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "專科",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1952-12-01",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:45:01"
+        },
+        "Election": {
+            "id": "53c021ff-143c-457a-a273-5c5aacb5b862",
+            "population_electors": "1323",
+            "population": "1513",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546ebd71-4354-4cfe-9340-2c67cf91e152",
+            "Area": [
+                {
+                    "id": "53c01cf7-5b0c-4ed0-8ab9-5460acb5b862",
+                    "name": "埤腳里",
+                    "AreasElection": {
+                        "id": "53c021ff-f134-4ec5-ba72-5c5aacb5b862",
+                        "Election_id": "53c021ff-143c-457a-a273-5c5aacb5b862",
+                        "Area_id": "53c01cf7-5b0c-4ed0-8ab9-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "6201",
+                "rght": "7018",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021fe-0d04-4f0d-b02a-5c5aacb5b862",
+                "parent_id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "name": "土庫鎮",
+                "lft": "6442",
+                "rght": "6477",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ff-143c-457a-a273-5c5aacb5b862",
+                "parent_id": "53c021fe-0d04-4f0d-b02a-5c5aacb5b862",
+                "name": "埤腳里",
+                "lft": "6457",
+                "rght": "6458",
+                "population": "1513",
+                "population_electors": "1323",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546ebd71-4354-4cfe-9340-2c67cf91e152",
+                "keywords": "2014-11,村里長,雲林縣,土庫鎮,埤腳里"
+            }
+        }
+    ]
+}

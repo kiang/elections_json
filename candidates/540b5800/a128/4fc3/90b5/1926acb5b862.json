@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5800-a128-4fc3-90b5-1926acb5b862",
+            "election_id": "53d734df-5f5c-4cee-959b-1299acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "98",
+            "name": "林瑞璇",
+            "image": "548c78be\/12a8\/4629\/9141\/53196ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "f",
+            "no": "5",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:52:48",
+            "modified": "2015-02-08 23:42:04"
+        },
+        "Election": {
+            "id": "53d734df-5f5c-4cee-959b-1299acb5b862",
+            "population_electors": "1011",
+            "population": "1234",
+            "quota": "5",
+            "quota_women": "1",
+            "bulletin_key": "54742648-343c-4205-b798-2d82cf91e152",
+            "Area": [
+                {
+                    "id": "53c01bd1-e0a0-4164-a171-5460acb5b862",
+                    "name": "東引鄉",
+                    "AreasElection": {
+                        "id": "53d734e1-0390-479b-a2eb-1299acb5b862",
+                        "Election_id": "53d734df-5f5c-4cee-959b-1299acb5b862",
+                        "Area_id": "53c01bd1-e0a0-4164-a171-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020af-79e4-430d-ab06-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "連江縣",
+                "lft": "1033",
+                "rght": "1050",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b0-d78c-4dcf-b0d5-5c5aacb5b862",
+                "parent_id": "53c020af-79e4-430d-ab06-5c5aacb5b862",
+                "name": "東引鄉",
+                "lft": "1046",
+                "rght": "1049",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d734df-5f5c-4cee-959b-1299acb5b862",
+                "parent_id": "53c020b0-d78c-4dcf-b0d5-5c5aacb5b862",
+                "name": "第01選舉區[區域]",
+                "lft": "1047",
+                "rght": "1048",
+                "population": "1234",
+                "population_electors": "1011",
+                "quota": "5",
+                "quota_women": "1",
+                "bulletin_key": "54742648-343c-4205-b798-2d82cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,連江縣,東引鄉,第01選舉區[區域]"
+            }
+        }
+    ]
+}

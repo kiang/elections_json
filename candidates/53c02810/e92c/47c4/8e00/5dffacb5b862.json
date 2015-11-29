@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02810-e92c-47c4-8e00-5dffacb5b862",
+            "election_id": "53c0220e-95cc-4775-a7ec-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "546",
+            "name": "曾勝棋",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "專科",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1956-11-12",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:45:03"
+        },
+        "Election": {
+            "id": "53c0220e-95cc-4775-a7ec-5c5aacb5b862",
+            "population_electors": "1147",
+            "population": "1390",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546ec076-bb30-489f-8683-2d4fcf91e152",
+            "Area": [
+                {
+                    "id": "53c01d03-95f4-4e7a-895d-5460acb5b862",
+                    "name": "烏塗村",
+                    "AreasElection": {
+                        "id": "53c0220e-e068-4f7d-94f3-5c5aacb5b862",
+                        "Election_id": "53c0220e-95cc-4775-a7ec-5c5aacb5b862",
+                        "Area_id": "53c01d03-95f4-4e7a-895d-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "6201",
+                "rght": "7018",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0220d-eb50-4079-b424-5c5aacb5b862",
+                "parent_id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "name": "林內鄉",
+                "lft": "6640",
+                "rght": "6661",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0220e-95cc-4775-a7ec-5c5aacb5b862",
+                "parent_id": "53c0220d-eb50-4079-b424-5c5aacb5b862",
+                "name": "烏塗村",
+                "lft": "6657",
+                "rght": "6658",
+                "population": "1390",
+                "population_electors": "1147",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546ec076-bb30-489f-8683-2d4fcf91e152",
+                "keywords": "2014-11,村里長,雲林縣,林內鄉,烏塗村"
+            }
+        }
+    ]
+}

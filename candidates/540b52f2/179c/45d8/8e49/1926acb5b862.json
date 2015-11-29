@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b52f2-179c-45d8-8e49-1926acb5b862",
+            "election_id": "53c023a5-4e2c-44f3-a161-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "346",
+            "name": "鞠志民",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "3",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "CHU CHIH MING",
+            "birth_place": "臺北市",
+            "birth": "1966-04-25",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:31:14",
+            "modified": "2015-02-08 23:40:32"
+        },
+        "Election": {
+            "id": "53c023a5-4e2c-44f3-a161-5c5aacb5b862",
+            "population_electors": "2300",
+            "population": "2880",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-c678-4d9c-8a51-4187cf91e152",
+            "Area": [
+                {
+                    "id": "53c01e1e-8d08-4da8-b2df-5460acb5b862",
+                    "name": "北安里",
+                    "AreasElection": {
+                        "id": "53c023a5-abec-4027-a71b-5c5aacb5b862",
+                        "Election_id": "53c023a5-4e2c-44f3-a161-5c5aacb5b862",
+                        "Area_id": "53c01e1e-8d08-4da8-b2df-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0239e-cac0-446a-8756-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "中山區",
+                "lft": "11718",
+                "rght": "11803",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023a5-4e2c-44f3-a161-5c5aacb5b862",
+                "parent_id": "53c0239e-cac0-446a-8756-5c5aacb5b862",
+                "name": "北安里",
+                "lft": "11799",
+                "rght": "11800",
+                "population": "2880",
+                "population_electors": "2300",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-c678-4d9c-8a51-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,中山區,北安里"
+            }
+        }
+    ]
+}

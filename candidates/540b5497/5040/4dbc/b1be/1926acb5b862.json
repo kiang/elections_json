@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5497-5040-4dbc-b1be-1926acb5b862",
+            "election_id": "53c0243f-46ac-4c73-afce-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "539",
+            "name": "范雄偉",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "高雄市",
+            "birth": "1963-08-07",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:38:15",
+            "modified": "2015-02-08 23:40:48"
+        },
+        "Election": {
+            "id": "53c0243f-46ac-4c73-afce-5c5aacb5b862",
+            "population_electors": "1726",
+            "population": "2158",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb721-d894-4c1f-a1fe-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01ea0-a758-4ad6-9ebc-5460acb5b862",
+                    "name": "信義里",
+                    "AreasElection": {
+                        "id": "53c0243f-08d0-4d58-964d-5c5aacb5b862",
+                        "Election_id": "53c0243f-46ac-4c73-afce-5c5aacb5b862",
+                        "Area_id": "53c01ea0-a758-4ad6-9ebc-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0243d-95c4-4cb5-bb05-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "岡山區",
+                "lft": "13692",
+                "rght": "13759",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0243f-46ac-4c73-afce-5c5aacb5b862",
+                "parent_id": "53c0243d-95c4-4cb5-bb05-5c5aacb5b862",
+                "name": "信義里",
+                "lft": "13717",
+                "rght": "13718",
+                "population": "2158",
+                "population_electors": "1726",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb721-d894-4c1f-a1fe-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,岡山區,信義里"
+            }
+        }
+    ]
+}

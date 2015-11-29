@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b552a-577c-445c-9bb6-1926acb5b862",
+            "election_id": "53c021b4-4a94-4194-9f99-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "666",
+            "name": "許明正",
+            "image": "546ca594\/ae3c\/4fb5\/8977\/10ba8e043389.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "2",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1960-02-08",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:40:42",
+            "modified": "2015-02-08 23:44:47"
+        },
+        "Election": {
+            "id": "53c021b4-4a94-4194-9f99-5c5aacb5b862",
+            "population_electors": "1921",
+            "population": "2502",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-f5b8-4443-abf2-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01cbd-93d8-4d37-9d95-5460acb5b862",
+                    "name": "平原村",
+                    "AreasElection": {
+                        "id": "53c021b4-d950-4324-aaea-5c5aacb5b862",
+                        "Election_id": "53c021b4-4a94-4194-9f99-5c5aacb5b862",
+                        "Area_id": "53c01cbd-93d8-4d37-9d95-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "4417",
+                "rght": "5648",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021b3-96a0-43d7-875a-5c5aacb5b862",
+                "parent_id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "name": "埤頭鄉",
+                "lft": "5456",
+                "rght": "5491",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021b4-4a94-4194-9f99-5c5aacb5b862",
+                "parent_id": "53c021b3-96a0-43d7-875a-5c5aacb5b862",
+                "name": "平原村",
+                "lft": "5475",
+                "rght": "5476",
+                "population": "2502",
+                "population_electors": "1921",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-f5b8-4443-abf2-74a5cf91e152",
+                "keywords": "2014-11,村里長,彰化縣,埤頭鄉,平原村"
+            }
+        }
+    ]
+}

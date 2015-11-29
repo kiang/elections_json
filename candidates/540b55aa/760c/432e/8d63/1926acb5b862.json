@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b55aa-760c-432e-8d63-1926acb5b862",
+            "election_id": "53c0225e-02a0-439a-8852-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "271",
+            "name": "劉其南",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1954-12-20",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:42:50",
+            "modified": "2015-02-08 23:45:12"
+        },
+        "Election": {
+            "id": "53c0225e-02a0-439a-8852-5c5aacb5b862",
+            "population_electors": "1147",
+            "population": "1338",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-d77c-4b6b-8d2f-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01d4b-f1c4-40c4-943d-5460acb5b862",
+                    "name": "江西村",
+                    "AreasElection": {
+                        "id": "53c0225f-3c20-43ab-976c-5c5aacb5b862",
+                        "Election_id": "53c0225e-02a0-439a-8852-5c5aacb5b862",
+                        "Area_id": "53c01d4b-f1c4-40c4-943d-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0222a-d5c0-465f-849c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "嘉義縣",
+                "lft": "7019",
+                "rght": "7770",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0225e-a7c8-4ccf-a084-5c5aacb5b862",
+                "parent_id": "53c0222a-d5c0-465f-849c-5c5aacb5b862",
+                "name": "番路鄉",
+                "lft": "7708",
+                "rght": "7731",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0225e-02a0-439a-8852-5c5aacb5b862",
+                "parent_id": "53c0225e-a7c8-4ccf-a084-5c5aacb5b862",
+                "name": "江西村",
+                "lft": "7711",
+                "rght": "7712",
+                "population": "1338",
+                "population_electors": "1147",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-d77c-4b6b-8d2f-2adbcf91e152",
+                "keywords": "2014-11,村里長,嘉義縣,番路鄉,江西村"
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c0281b-4c90-4ade-919a-5dffacb5b862",
+            "election_id": "53c02229-7a08-4dac-92ce-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "221",
+            "name": "楊素萍",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "2",
+            "education_level": "大學",
+            "is_present": true,
+            "name_english": "YANG SU PING",
+            "birth_place": "臺灣省",
+            "birth": "1982-07-14",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:45:06"
+        },
+        "Election": {
+            "id": "53c02229-7a08-4dac-92ce-5c5aacb5b862",
+            "population_electors": "684",
+            "population": "806",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546ec0e1-d3d0-419c-9099-2dfbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01d19-c00c-43ca-a87a-5460acb5b862",
+                    "name": "尖山村",
+                    "AreasElection": {
+                        "id": "53c02229-4ae4-4f3a-8f7e-5c5aacb5b862",
+                        "Election_id": "53c02229-7a08-4dac-92ce-5c5aacb5b862",
+                        "Area_id": "53c01d19-c00c-43ca-a87a-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "6201",
+                "rght": "7018",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02226-58d0-4cd4-9a2e-5c5aacb5b862",
+                "parent_id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "name": "水林鄉",
+                "lft": "6968",
+                "rght": "7017",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02229-7a08-4dac-92ce-5c5aacb5b862",
+                "parent_id": "53c02226-58d0-4cd4-9a2e-5c5aacb5b862",
+                "name": "尖山村",
+                "lft": "6999",
+                "rght": "7000",
+                "population": "806",
+                "population_electors": "684",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546ec0e1-d3d0-419c-9099-2dfbcf91e152",
+                "keywords": "2014-11,村里長,雲林縣,水林鄉,尖山村"
+            }
+        }
+    ]
+}

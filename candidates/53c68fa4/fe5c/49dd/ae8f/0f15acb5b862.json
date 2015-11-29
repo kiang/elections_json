@@ -1,0 +1,143 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c68fa4-fe5c-49dd-ae8f-0f15acb5b862",
+            "election_id": "53c40093-221c-4acc-9571-6cceacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "21927",
+            "name": "賴秋媚",
+            "image": "5438e81b\/b050\/4e48\/85ac\/2803cb455a61.jpg",
+            "party": "民主進步黨",
+            "contacts_phone": "02-2297-4568",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "243新北市泰山區文程路18巷12號",
+            "links": "\\n臉書 http:\/\/www.facebook.com\/ab0609ab",
+            "gender": "f",
+            "no": "5",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "Lai Chiu Mei",
+            "birth_place": "臺灣省",
+            "birth": "1963-07-29",
+            "platform": "",
+            "education": "靜修女中畢業",
+            "experience": "國立台北大學公共行政管班結業。 立法委員吳秉叡服務處秘書。 民進黨泰山鄉黨部兩任主委。 蘇貞昌競選連任縣長泰山總幹事。 和平護台灣大遊行泰山召集人。 現任民進黨全國黨代表。 泰山鄉婦女成長推廣協會理事長。 泰山鄉民代表。 第1屆新北市議員",
+            "created": "2014-07-16 22:43:48",
+            "modified": "2015-02-08 23:40:23"
+        },
+        "Election": {
+            "id": "53c40093-221c-4acc-9571-6cceacb5b862",
+            "population_electors": "517150",
+            "population": "667941",
+            "quota": "10",
+            "quota_women": "2",
+            "bulletin_key": "5469b450-3660-43dd-9f8a-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01f07-8288-4c09-ad5b-5460acb5b862",
+                    "name": "新莊區",
+                    "AreasElection": {
+                        "id": "53c406e2-5a70-418c-a58e-6dacacb5b862",
+                        "Election_id": "53c40093-221c-4acc-9571-6cceacb5b862",
+                        "Area_id": "53c01f07-8288-4c09-ad5b-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01f4a-c35c-4661-b6ac-5460acb5b862",
+                    "name": "五股區",
+                    "AreasElection": {
+                        "id": "53c406e2-23a8-4677-a03c-6dacacb5b862",
+                        "Election_id": "53c40093-221c-4acc-9571-6cceacb5b862",
+                        "Area_id": "53c01f4a-c35c-4661-b6ac-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01f4d-0534-4093-bfff-5460acb5b862",
+                    "name": "泰山區",
+                    "AreasElection": {
+                        "id": "53c406e2-df7c-4cf2-900e-6dacacb5b862",
+                        "Election_id": "53c40093-221c-4acc-9571-6cceacb5b862",
+                        "Area_id": "53c01f4d-0534-4093-bfff-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01f4f-a3ac-4324-b083-5460acb5b862",
+                    "name": "林口區",
+                    "AreasElection": {
+                        "id": "53c406e2-0070-4964-8c8b-6dacacb5b862",
+                        "Election_id": "53c40093-221c-4acc-9571-6cceacb5b862",
+                        "Area_id": "53c01f4f-a3ac-4324-b083-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207e-1efc-4871-a931-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "新北市",
+                "lft": "97",
+                "rght": "122",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c40093-221c-4acc-9571-6cceacb5b862",
+                "parent_id": "53c0207e-1efc-4871-a931-5c5aacb5b862",
+                "name": "第02選區[區域]",
+                "lft": "100",
+                "rght": "101",
+                "population": "667941",
+                "population_electors": "517150",
+                "quota": "10",
+                "quota_women": "2",
+                "bulletin_key": "5469b450-3660-43dd-9f8a-74a5cf91e152",
+                "keywords": "2014-11,直轄市議員,新北市,第02選區[區域]"
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c027b6-8bd8-4e23-8ee0-5dffacb5b862",
+            "election_id": "53c02166-d2dc-48b4-88a5-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "0",
+            "vote_count": "0",
+            "name": "粘林麗華",
+            "image": "5459e560\/ecc8\/4002\/9ee8\/278e8e043389.jpg",
+            "party": "",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "0",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "0000-00-00 00:00:00",
+            "modified": "2014-11-05 16:54:20"
+        },
+        "Election": {
+            "id": "53c02166-d2dc-48b4-88a5-5c5aacb5b862",
+            "population_electors": "1962",
+            "population": "2493",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-b450-4e1c-8d90-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c7c-8f54-45a1-b6e8-5460acb5b862",
+                    "name": "南安里",
+                    "AreasElection": {
+                        "id": "53c02166-b764-4479-be0a-5c5aacb5b862",
+                        "Election_id": "53c02166-d2dc-48b4-88a5-5c5aacb5b862",
+                        "Area_id": "53c01c7c-8f54-45a1-b6e8-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "4417",
+                "rght": "5648",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-f384-4c28-9dd3-5c5aacb5b862",
+                "parent_id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "name": "彰化市",
+                "lft": "4418",
+                "rght": "4565",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02166-d2dc-48b4-88a5-5c5aacb5b862",
+                "parent_id": "53c02162-f384-4c28-9dd3-5c5aacb5b862",
+                "name": "南安里",
+                "lft": "4473",
+                "rght": "4474",
+                "population": "2493",
+                "population_electors": "1962",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-b450-4e1c-8d90-74a5cf91e152",
+                "keywords": "2014-11,村里長,彰化縣,彰化市,南安里"
+            }
+        }
+    ]
+}

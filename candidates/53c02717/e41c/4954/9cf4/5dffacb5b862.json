@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02717-e41c-4954-9cf4-5dffacb5b862",
+            "election_id": "53c0258f-cd90-44cf-93d3-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "2393",
+            "name": "江姿樺",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1963-05-15",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:41:21"
+        },
+        "Election": {
+            "id": "53c0258f-cd90-44cf-93d3-5c5aacb5b862",
+            "population_electors": "4159",
+            "population": "5277",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546d8db9-5018-460f-834b-0e51cf91e152",
+            "Area": [
+                {
+                    "id": "53c01fba-004c-464c-a261-5460acb5b862",
+                    "name": "新高里",
+                    "AreasElection": {
+                        "id": "53c0258f-961c-47b2-a44c-5c5aacb5b862",
+                        "Election_id": "53c0258f-cd90-44cf-93d3-5c5aacb5b862",
+                        "Area_id": "53c01fba-004c-464c-a261-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0258b-49bc-4301-a0fe-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "太平區",
+                "lft": "17540",
+                "rght": "17619",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0258f-cd90-44cf-93d3-5c5aacb5b862",
+                "parent_id": "53c0258b-49bc-4301-a0fe-5c5aacb5b862",
+                "name": "新高里",
+                "lft": "17585",
+                "rght": "17586",
+                "population": "5277",
+                "population_electors": "4159",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546d8db9-5018-460f-834b-0e51cf91e152",
+                "keywords": "2014-11,村里長,臺中市,太平區,新高里"
+            }
+        }
+    ]
+}

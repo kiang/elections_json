@@ -1,0 +1,125 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c68f98-ac6c-48d8-9ab0-0f15acb5b862",
+            "election_id": "53c4101b-b79c-4d6d-8553-6f55acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "916",
+            "name": "王再生",
+            "image": "5492c6c0\/fe9c\/4d7d\/aaf8\/67f46ab936af.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "082-327371",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "893金門縣金城鎮金山路17號",
+            "links": "",
+            "gender": "m",
+            "no": "12",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "金馬地區",
+            "birth": "1946-06-30",
+            "platform": "",
+            "education": "專科畢業",
+            "experience": "第5屆議員",
+            "created": "2014-07-16 22:43:36",
+            "modified": "2015-02-08 23:41:49"
+        },
+        "Election": {
+            "id": "53c4101b-b79c-4d6d-8553-6f55acb5b862",
+            "population_electors": "38727",
+            "population": "46368",
+            "quota": "7",
+            "quota_women": "1",
+            "bulletin_key": "5469b450-8f04-406b-8e35-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01bd2-fe28-4f39-8538-5460acb5b862",
+                    "name": "金沙鎮",
+                    "AreasElection": {
+                        "id": "53c4101c-d700-4d8c-bf46-6f55acb5b862",
+                        "Election_id": "53c4101b-b79c-4d6d-8553-6f55acb5b862",
+                        "Area_id": "53c01bd2-fe28-4f39-8538-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01bd3-5b04-4218-9764-5460acb5b862",
+                    "name": "金湖鎮",
+                    "AreasElection": {
+                        "id": "53c4101c-3278-4c08-9950-6f55acb5b862",
+                        "Election_id": "53c4101b-b79c-4d6d-8553-6f55acb5b862",
+                        "Area_id": "53c01bd3-5b04-4218-9764-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "縣市議員",
+                "lft": "306",
+                "rght": "607",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02082-6740-4ca0-bd10-5c5aacb5b862",
+                "parent_id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "name": "金門縣",
+                "lft": "317",
+                "rght": "324",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c4101b-b79c-4d6d-8553-6f55acb5b862",
+                "parent_id": "53c02082-6740-4ca0-bd10-5c5aacb5b862",
+                "name": "第02選區[區域]",
+                "lft": "320",
+                "rght": "321",
+                "population": "46368",
+                "population_electors": "38727",
+                "quota": "7",
+                "quota_women": "1",
+                "bulletin_key": "5469b450-8f04-406b-8e35-74a5cf91e152",
+                "keywords": "2014-11,縣市議員,金門縣,第02選區[區域]"
+            }
+        }
+    ]
+}

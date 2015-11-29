@@ -1,0 +1,139 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b560d-87c4-476d-89de-1926acb5b862",
+            "election_id": "53c022d4-cdfc-49b3-8215-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "105",
+            "name": "陳玉蘭Kolang．Iyong",
+            "image": "",
+            "party": "親民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "f",
+            "no": "3",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1959-02-10",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:44:29",
+            "modified": "2015-02-08 23:45:25"
+        },
+        "Election": {
+            "id": "53c022d4-cdfc-49b3-8215-5c5aacb5b862",
+            "population_electors": "483",
+            "population": "550",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "Area": [
+                {
+                    "id": "53c01db0-d520-4562-942a-5460acb5b862",
+                    "name": "山興里",
+                    "AreasElection": {
+                        "id": "53c022d4-7400-43ab-b9ad-5c5aacb5b862",
+                        "Election_id": "53c022d4-cdfc-49b3-8215-5c5aacb5b862",
+                        "Area_id": "53c01db0-d520-4562-942a-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54130d54-9e9c-4000-a3b7-79a1cb455a61",
+                "name": "2014親民黨",
+                "CandidatesTag": {
+                    "id": "54130e28-9768-49d6-a36e-799ccb455a61",
+                    "Candidate_id": "540b560d-87c4-476d-89de-1926acb5b862",
+                    "Tag_id": "54130d54-9e9c-4000-a3b7-79a1cb455a61"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022cb-ff18-4c61-98a3-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "花蓮縣",
+                "lft": "9095",
+                "rght": "9476",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022d3-3e90-43c2-9047-5c5aacb5b862",
+                "parent_id": "53c022cb-ff18-4c61-98a3-5c5aacb5b862",
+                "name": "鳳林鎮",
+                "lft": "9188",
+                "rght": "9213",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022d4-cdfc-49b3-8215-5c5aacb5b862",
+                "parent_id": "53c022d3-3e90-43c2-9047-5c5aacb5b862",
+                "name": "山興里",
+                "lft": "9203",
+                "rght": "9204",
+                "population": "550",
+                "population_electors": "483",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2014-11,村里長,花蓮縣,鳳林鎮,山興里"
+            }
+        }
+    ]
+}

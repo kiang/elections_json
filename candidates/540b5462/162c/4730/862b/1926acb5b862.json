@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5462-162c-4730-862b-1926acb5b862",
+            "election_id": "53c023f2-415c-4816-aafe-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "1094",
+            "name": "張聯豐",
+            "image": null,
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "2",
+            "education_level": "專科",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "高雄市",
+            "birth": "1950-01-10",
+            "platform": "效忠正順里里民",
+            "education": "愛國國小\\n縣立小港中學\\n國立屏東高工\\n國立嘉義農專畢業",
+            "experience": "改制前高雄市三民區正順里第四，五，六屆里長。",
+            "created": "2014-09-07 02:37:22",
+            "modified": "2015-02-08 23:40:40"
+        },
+        "Election": {
+            "id": "53c023f2-415c-4816-aafe-5c5aacb5b862",
+            "population_electors": "3703",
+            "population": "4657",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb720-0944-456a-b00f-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01e64-aaec-455a-86fa-5460acb5b862",
+                    "name": "正順里",
+                    "AreasElection": {
+                        "id": "53c023f2-a028-4755-8065-5c5aacb5b862",
+                        "Election_id": "53c023f2-415c-4816-aafe-5c5aacb5b862",
+                        "Area_id": "53c01e64-aaec-455a-86fa-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023ec-08a0-49ca-ae2b-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "三民區",
+                "lft": "12676",
+                "rght": "12849",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023f2-415c-4816-aafe-5c5aacb5b862",
+                "parent_id": "53c023ec-08a0-49ca-ae2b-5c5aacb5b862",
+                "name": "正順里",
+                "lft": "12753",
+                "rght": "12754",
+                "population": "4657",
+                "population_electors": "3703",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb720-0944-456a-b00f-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,三民區,正順里"
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b552d-9754-47d8-96ad-1926acb5b862",
+            "election_id": "53c021b9-d124-4206-83c8-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "339",
+            "name": "王財樹",
+            "image": "54630096\/abb8\/49f0\/9ff0\/57b58e043389.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "2",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1946-04-28",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:40:45",
+            "modified": "2015-02-08 23:44:48"
+        },
+        "Election": {
+            "id": "53c021b9-d124-4206-83c8-5c5aacb5b862",
+            "population_electors": "1026",
+            "population": "1223",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-7ce0-476d-8e0f-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01cc1-50cc-4497-b64c-5460acb5b862",
+                    "name": "大城村",
+                    "AreasElection": {
+                        "id": "53c021b9-b4c0-47a9-a12a-5c5aacb5b862",
+                        "Election_id": "53c021b9-d124-4206-83c8-5c5aacb5b862",
+                        "Area_id": "53c01cc1-50cc-4497-b64c-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "4417",
+                "rght": "5648",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021b9-0060-42b6-8afb-5c5aacb5b862",
+                "parent_id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "name": "大城鄉",
+                "lft": "5546",
+                "rght": "5577",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021b9-d124-4206-83c8-5c5aacb5b862",
+                "parent_id": "53c021b9-0060-42b6-8afb-5c5aacb5b862",
+                "name": "大城村",
+                "lft": "5549",
+                "rght": "5550",
+                "population": "1223",
+                "population_electors": "1026",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-7ce0-476d-8e0f-74a5cf91e152",
+                "keywords": "2014-11,村里長,彰化縣,大城鄉,大城村"
+            }
+        }
+    ]
+}

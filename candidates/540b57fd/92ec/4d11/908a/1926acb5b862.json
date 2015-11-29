@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b57fd-92ec-4d11-908a-1926acb5b862",
+            "election_id": "53d734dc-7498-4744-8f58-1299acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "509",
+            "name": "陳秀治",
+            "image": "548ed66b\/b9ac\/4e58\/93c3\/606a6ab936af.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "f",
+            "no": "8",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:52:45",
+            "modified": "2015-02-08 23:42:04"
+        },
+        "Election": {
+            "id": "53d734dc-7498-4744-8f58-1299acb5b862",
+            "population_electors": "10039",
+            "population": "11751",
+            "quota": "7",
+            "quota_women": "1",
+            "bulletin_key": "5469b450-9864-47b2-9b7e-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01bd5-b0e8-4640-9e80-5460acb5b862",
+                    "name": "烈嶼鄉",
+                    "AreasElection": {
+                        "id": "53d734dc-fd98-4a61-b387-1299acb5b862",
+                        "Election_id": "53d734dc-7498-4744-8f58-1299acb5b862",
+                        "Area_id": "53c01bd5-b0e8-4640-9e80-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b0-f680-455c-a5b8-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "金門縣",
+                "lft": "1051",
+                "rght": "1076",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b1-d83c-4d3e-8a39-5c5aacb5b862",
+                "parent_id": "53c020b0-f680-455c-a5b8-5c5aacb5b862",
+                "name": "烈嶼鄉",
+                "lft": "1068",
+                "rght": "1071",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d734dc-7498-4744-8f58-1299acb5b862",
+                "parent_id": "53c020b1-d83c-4d3e-8a39-5c5aacb5b862",
+                "name": "第01選舉區[區域]",
+                "lft": "1069",
+                "rght": "1070",
+                "population": "11751",
+                "population_electors": "10039",
+                "quota": "7",
+                "quota_women": "1",
+                "bulletin_key": "5469b450-9864-47b2-9b7e-74a5cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,金門縣,烈嶼鄉,第01選舉區[區域]"
+            }
+        }
+    ]
+}

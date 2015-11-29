@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b547d-64b8-4cdd-9c56-1926acb5b862",
+            "election_id": "53c0241e-7ef8-49e2-b1f3-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "1170",
+            "name": "牛錫華",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "NIU HSI HWA",
+            "birth_place": "高雄市",
+            "birth": "1966-05-12",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:37:49",
+            "modified": "2015-02-08 23:40:45"
+        },
+        "Election": {
+            "id": "53c0241e-7ef8-49e2-b1f3-5c5aacb5b862",
+            "population_electors": "3921",
+            "population": "4923",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb720-5428-478a-aea2-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01e86-6cbc-4f96-b397-5460acb5b862",
+                    "name": "孔宅里",
+                    "AreasElection": {
+                        "id": "53c0241e-fd68-4b12-a922-5c5aacb5b862",
+                        "Election_id": "53c0241e-7ef8-49e2-b1f3-5c5aacb5b862",
+                        "Area_id": "53c01e86-6cbc-4f96-b397-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0241a-711c-4df7-8cb5-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "小港區",
+                "lft": "13246",
+                "rght": "13323",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0241e-7ef8-49e2-b1f3-5c5aacb5b862",
+                "parent_id": "53c0241a-711c-4df7-8cb5-5c5aacb5b862",
+                "name": "孔宅里",
+                "lft": "13295",
+                "rght": "13296",
+                "population": "4923",
+                "population_electors": "3921",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb720-5428-478a-aea2-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,小港區,孔宅里"
+            }
+        }
+    ]
+}

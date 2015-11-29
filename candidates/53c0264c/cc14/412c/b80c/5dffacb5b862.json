@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c0264c-cc14-412c-b80c-5dffacb5b862",
+            "election_id": "53c023cb-d8b8-4afa-8698-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "0",
+            "vote_count": "0",
+            "name": "吳宗人",
+            "image": null,
+            "party": null,
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": null,
+            "no": "0",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "0000-00-00 00:00:00"
+        },
+        "Election": {
+            "id": "53c023cb-d8b8-4afa-8698-5c5aacb5b862",
+            "population_electors": "3761",
+            "population": "4578",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-47d0-4314-85ae-4187cf91e152",
+            "Area": [
+                {
+                    "id": "53c01e3d-916c-4288-bca5-5460acb5b862",
+                    "name": "德行里",
+                    "AreasElection": {
+                        "id": "53c023cb-7134-41b2-920e-5c5aacb5b862",
+                        "Election_id": "53c023cb-d8b8-4afa-8698-5c5aacb5b862",
+                        "Area_id": "53c01e3d-916c-4288-bca5-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023c7-6a3c-4965-a1a6-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "士林區",
+                "lft": "12204",
+                "rght": "12307",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023cb-d8b8-4afa-8698-5c5aacb5b862",
+                "parent_id": "53c023c7-6a3c-4965-a1a6-5c5aacb5b862",
+                "name": "德行里",
+                "lft": "12259",
+                "rght": "12260",
+                "population": "4578",
+                "population_electors": "3761",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-47d0-4314-85ae-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,士林區,德行里"
+            }
+        }
+    ]
+}

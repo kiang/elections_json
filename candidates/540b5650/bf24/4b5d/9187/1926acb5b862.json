@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5650-bf24-4b5d-9187-1926acb5b862",
+            "election_id": "53c02306-cb34-4df0-909e-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "87",
+            "name": "張進忠",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "CHANG CHIN CHUNG",
+            "birth_place": "臺灣省",
+            "birth": "1973-09-17",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:45:36",
+            "modified": "2015-02-08 23:45:31"
+        },
+        "Election": {
+            "id": "53c02306-cb34-4df0-909e-5c5aacb5b862",
+            "population_electors": "1671",
+            "population": "2488",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c8095-5aa4-4c93-9eb9-61a3cf91e152",
+            "Area": [
+                {
+                    "id": "53c01dd8-a6a4-45c5-8b64-5460acb5b862",
+                    "name": "和明里",
+                    "AreasElection": {
+                        "id": "53c02307-9a84-441e-abc4-5c5aacb5b862",
+                        "Election_id": "53c02306-cb34-4df0-909e-5c5aacb5b862",
+                        "Area_id": "53c01dd8-a6a4-45c5-8b64-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "基隆市",
+                "lft": "9683",
+                "rght": "10012",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02305-2ab0-47c6-b70c-5c5aacb5b862",
+                "parent_id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "name": "仁愛區",
+                "lft": "9808",
+                "rght": "9867",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02306-cb34-4df0-909e-5c5aacb5b862",
+                "parent_id": "53c02305-2ab0-47c6-b70c-5c5aacb5b862",
+                "name": "和明里",
+                "lft": "9829",
+                "rght": "9830",
+                "population": "2488",
+                "population_electors": "1671",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c8095-5aa4-4c93-9eb9-61a3cf91e152",
+                "keywords": "2014-11,村里長,基隆市,仁愛區,和明里"
+            }
+        }
+    ]
+}

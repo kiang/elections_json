@@ -1,0 +1,133 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "54069611-04cc-49ec-8e6a-07ecacb5b862",
+            "election_id": "53c4037d-16cc-4e2d-a87e-6d45acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "1969",
+            "name": "黃治東",
+            "image": "5440e67e\/8048\/4814\/b4da\/0a7f8e043389.jpg",
+            "party": "台灣團結聯盟",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "臉書 \\nhttps:\/\/www.facebook.com\/profile.php?id=100001913142191&amp;amp;fref=ts\\n臉書 http:\/\/www.facebook.com\/pages\/%E5%8F%B0%E8%81%AF%E9%BB%A8%E6%8F%90%E5%90%8D%E6%A1%83%E5%9C%92%E5%B8%82%E4%B8%AD%E5%A3%A2%E5%8D%80%E5%B8%82%E8%AD%B0%E5%93%A1%E5%80%99%E9%81%B8%E4%BA%BA%E9%BB%83%E6%B2%BB%E6%9D%B1\/695374143880185\\n臉書 http:\/\/www.facebook.com\/profile.php?id=100001913142191",
+            "gender": "m",
+            "no": "17",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "HUANG CHIH TUNG",
+            "birth_place": "臺灣省",
+            "birth": "1960-05-17",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-03 12:16:17",
+            "modified": "2015-02-08 23:40:27"
+        },
+        "Election": {
+            "id": "53c4037d-16cc-4e2d-a87e-6d45acb5b862",
+            "population_electors": "293834",
+            "population": "380829",
+            "quota": "10",
+            "quota_women": "2",
+            "bulletin_key": "546e068d-00f0-49ad-857f-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c00-e14c-48cd-ad88-5460acb5b862",
+                    "name": "中壢區",
+                    "AreasElection": {
+                        "id": "53c40822-7850-4d78-b58f-6e01acb5b862",
+                        "Election_id": "53c4037d-16cc-4e2d-a87e-6d45acb5b862",
+                        "Area_id": "53c01c00-e14c-48cd-ad88-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54130aa1-b290-463d-9ffd-79a1cb455a61",
+                "name": "2014台灣團結聯盟",
+                "CandidatesTag": {
+                    "id": "54130b3c-e5a4-44b7-bd35-799ccb455a61",
+                    "Candidate_id": "54069611-04cc-49ec-8e6a-07ecacb5b862",
+                    "Tag_id": "54130aa1-b290-463d-9ffd-79a1cb455a61"
+                }
+            },
+            {
+                "id": "54131434-4b14-4c38-9445-2c85cb455a61",
+                "name": "2014台灣獨立建國選舉連線",
+                "CandidatesTag": {
+                    "id": "541315d2-faf0-4107-8471-2c4dcb455a61",
+                    "Candidate_id": "54069611-04cc-49ec-8e6a-07ecacb5b862",
+                    "Tag_id": "54131434-4b14-4c38-9445-2c85cb455a61"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207d-ff5c-4dfe-98b5-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "桃園市",
+                "lft": "17",
+                "rght": "46",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c4037d-16cc-4e2d-a87e-6d45acb5b862",
+                "parent_id": "53c0207d-ff5c-4dfe-98b5-5c5aacb5b862",
+                "name": "第07選區[區域]",
+                "lft": "30",
+                "rght": "31",
+                "population": "380829",
+                "population_electors": "293834",
+                "quota": "10",
+                "quota_women": "2",
+                "bulletin_key": "546e068d-00f0-49ad-857f-1a32cf91e152",
+                "keywords": "2014-11,直轄市議員,桃園市,第07選區[區域]"
+            }
+        }
+    ]
+}

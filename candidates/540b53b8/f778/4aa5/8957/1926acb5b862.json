@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b53b8-f778-4aa5-8957-1926acb5b862",
+            "election_id": "53c02387-0020-4a87-9cb7-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "723",
+            "name": "陳秋雲",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "2",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "CHEN CHIU YUN",
+            "birth_place": "臺灣省",
+            "birth": "1958-01-20",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:34:32",
+            "modified": "2015-02-08 23:41:48"
+        },
+        "Election": {
+            "id": "53c02387-0020-4a87-9cb7-5c5aacb5b862",
+            "population_electors": "4345",
+            "population": "6294",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068e-a184-48c9-bfcf-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c36-a48c-49b5-b27c-5460acb5b862",
+                    "name": "草新里",
+                    "AreasElection": {
+                        "id": "53c02387-cf0c-4372-8b4a-5c5aacb5b862",
+                        "Election_id": "53c02387-0020-4a87-9cb7-5c5aacb5b862",
+                        "Area_id": "53c01c36-a48c-49b5-b27c-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "桃園市",
+                "lft": "10439",
+                "rght": "11456",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02384-8fe4-46d8-ae61-5c5aacb5b862",
+                "parent_id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "name": "觀音區",
+                "lft": "11384",
+                "rght": "11433",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02387-0020-4a87-9cb7-5c5aacb5b862",
+                "parent_id": "53c02384-8fe4-46d8-ae61-5c5aacb5b862",
+                "name": "草新里",
+                "lft": "11427",
+                "rght": "11428",
+                "population": "6294",
+                "population_electors": "4345",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068e-a184-48c9-bfcf-1a32cf91e152",
+                "keywords": "2014-11,村里長,桃園市,觀音區,草新里"
+            }
+        }
+    ]
+}

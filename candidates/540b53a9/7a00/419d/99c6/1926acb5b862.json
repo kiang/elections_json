@@ -1,0 +1,139 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b53a9-7a00-419d-99c6-1926acb5b862",
+            "election_id": "53c02375-2c14-4c5b-9a69-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "615",
+            "name": "陳振國",
+            "image": null,
+            "party": "中華統一促進黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "專科",
+            "is_present": false,
+            "name_english": "CHEN JENN KUO",
+            "birth_place": "臺北市",
+            "birth": "1953-10-13",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:34:17",
+            "modified": "2015-02-08 23:41:46"
+        },
+        "Election": {
+            "id": "53c02375-2c14-4c5b-9a69-5c5aacb5b862",
+            "population_electors": "3682",
+            "population": "4618",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54735d59-d084-4b50-b8fd-21eacf91e152",
+            "Area": [
+                {
+                    "id": "53c01c27-5f18-41b9-9728-5460acb5b862",
+                    "name": "八德里",
+                    "AreasElection": {
+                        "id": "53c02375-7a34-42ae-b876-5c5aacb5b862",
+                        "Election_id": "53c02375-2c14-4c5b-9a69-5c5aacb5b862",
+                        "Area_id": "53c01c27-5f18-41b9-9728-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "541310c4-5fec-4006-abc5-2c88cb455a61",
+                "name": "2014中華統一促進黨",
+                "CandidatesTag": {
+                    "id": "541310f9-4e64-4f19-a776-2c88cb455a61",
+                    "Candidate_id": "540b53a9-7a00-419d-99c6-1926acb5b862",
+                    "Tag_id": "541310c4-5fec-4006-abc5-2c88cb455a61"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "桃園市",
+                "lft": "10439",
+                "rght": "11456",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02374-a550-404f-9e2d-5c5aacb5b862",
+                "parent_id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "name": "龍潭區",
+                "lft": "11180",
+                "rght": "11241",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02375-2c14-4c5b-9a69-5c5aacb5b862",
+                "parent_id": "53c02374-a550-404f-9e2d-5c5aacb5b862",
+                "name": "八德里",
+                "lft": "11191",
+                "rght": "11192",
+                "population": "4618",
+                "population_electors": "3682",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54735d59-d084-4b50-b8fd-21eacf91e152",
+                "keywords": "2014-11,村里長,桃園市,龍潭區,八德里"
+            }
+        }
+    ]
+}

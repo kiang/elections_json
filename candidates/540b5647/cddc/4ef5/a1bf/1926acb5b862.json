@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5647-cddc-4ef5-a1bf-1926acb5b862",
+            "election_id": "53c022fe-96d4-4d57-bfb8-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "670",
+            "name": "陳堃信",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "CHEN KANG HSIN",
+            "birth_place": "臺北市",
+            "birth": "1956-06-26",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:45:27",
+            "modified": "2015-02-08 23:45:30"
+        },
+        "Election": {
+            "id": "53c022fe-96d4-4d57-bfb8-5c5aacb5b862",
+            "population_electors": "1953",
+            "population": "2317",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c8095-b608-4c8b-9faf-61a3cf91e152",
+            "Area": [
+                {
+                    "id": "53c01dd1-77d8-468b-bb87-5460acb5b862",
+                    "name": "建國里",
+                    "AreasElection": {
+                        "id": "53c022fe-322c-41b8-9bd8-5c5aacb5b862",
+                        "Election_id": "53c022fe-96d4-4d57-bfb8-5c5aacb5b862",
+                        "Area_id": "53c01dd1-77d8-468b-bb87-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "基隆市",
+                "lft": "9683",
+                "rght": "10012",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022fb-fc9c-4742-8d91-5c5aacb5b862",
+                "parent_id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "name": "中正區",
+                "lft": "9684",
+                "rght": "9737",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022fe-96d4-4d57-bfb8-5c5aacb5b862",
+                "parent_id": "53c022fb-fc9c-4742-8d91-5c5aacb5b862",
+                "name": "建國里",
+                "lft": "9707",
+                "rght": "9708",
+                "population": "2317",
+                "population_electors": "1953",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c8095-b608-4c8b-9faf-61a3cf91e152",
+                "keywords": "2014-11,村里長,基隆市,中正區,建國里"
+            }
+        }
+    ]
+}

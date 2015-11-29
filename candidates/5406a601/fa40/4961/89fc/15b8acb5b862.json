@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "5406a601-fa40-4961-89fc-15b8acb5b862",
+            "election_id": "53c0208e-2148-4f81-9daa-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "4762",
+            "name": "詹明光",
+            "image": "5495b304\/45cc\/442b\/b85f\/03326ab936af.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "2",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "CHAN MINGKUANG",
+            "birth_place": "臺灣省",
+            "birth": "1950-09-07",
+            "platform": "",
+            "education": "",
+            "experience": "現任卓蘭鎮第16屆 鎮長 國立卓蘭實驗高中校友會理事長 苗栗縣第14.15.16屆縣議員",
+            "created": "2014-09-03 13:24:17",
+            "modified": "2015-02-08 23:41:59"
+        },
+        "Election": {
+            "id": "53c0208e-2148-4f81-9daa-5c5aacb5b862",
+            "population_electors": "15052",
+            "population": "18367",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-1fb0-472c-8e71-4187cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c67-abb0-4229-b1c4-5460acb5b862",
+                    "name": "卓蘭鎮",
+                    "AreasElection": {
+                        "id": "53c0208e-4e54-483d-85c1-5c5aacb5b862",
+                        "Election_id": "53c0208e-2148-4f81-9daa-5c5aacb5b862",
+                        "Area_id": "53c01c67-abb0-4229-b1c4-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市長",
+                "lft": "608",
+                "rght": "1031",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0208d-d5f8-4b58-82e9-5c5aacb5b862",
+                "parent_id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "name": "苗栗縣",
+                "lft": "687",
+                "rght": "724",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0208e-2148-4f81-9daa-5c5aacb5b862",
+                "parent_id": "53c0208d-d5f8-4b58-82e9-5c5aacb5b862",
+                "name": "卓蘭鎮",
+                "lft": "700",
+                "rght": "701",
+                "population": "18367",
+                "population_electors": "15052",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-1fb0-472c-8e71-4187cf91e152",
+                "keywords": "2014-11,鄉鎮市長,苗栗縣,卓蘭鎮"
+            }
+        }
+    ]
+}

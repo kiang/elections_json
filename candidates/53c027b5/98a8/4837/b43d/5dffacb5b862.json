@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c027b5-98a8-4837-b43d-5dffacb5b862",
+            "election_id": "53c02165-a094-4f4e-82b1-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1841",
+            "name": "林連發",
+            "image": "5459e4d4\/92b0\/4311\/8f06\/278e8e043389.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "LIN LIEN FA",
+            "birth_place": "臺灣省",
+            "birth": "1966-10-19",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:44:38"
+        },
+        "Election": {
+            "id": "53c02165-a094-4f4e-82b1-5c5aacb5b862",
+            "population_electors": "3043",
+            "population": "3970",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-b450-4e1c-8d90-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c7b-69a4-4ab9-ad03-5460acb5b862",
+                    "name": "忠權里",
+                    "AreasElection": {
+                        "id": "53c02165-eaa8-4b5f-bc3b-5c5aacb5b862",
+                        "Election_id": "53c02165-a094-4f4e-82b1-5c5aacb5b862",
+                        "Area_id": "53c01c7b-69a4-4ab9-ad03-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "4417",
+                "rght": "5648",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-f384-4c28-9dd3-5c5aacb5b862",
+                "parent_id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "name": "彰化市",
+                "lft": "4418",
+                "rght": "4565",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02165-a094-4f4e-82b1-5c5aacb5b862",
+                "parent_id": "53c02162-f384-4c28-9dd3-5c5aacb5b862",
+                "name": "忠權里",
+                "lft": "4457",
+                "rght": "4458",
+                "population": "3970",
+                "population_electors": "3043",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-b450-4e1c-8d90-74a5cf91e152",
+                "keywords": "2014-11,村里長,彰化縣,彰化市,忠權里"
+            }
+        }
+    ]
+}

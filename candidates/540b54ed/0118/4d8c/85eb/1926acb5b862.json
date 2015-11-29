@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b54ed-0118-4d8c-85eb-1926acb5b862",
+            "election_id": "53c0215f-be74-46a5-9f84-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "231",
+            "name": "古清源",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "3",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "KU CHING YUAN",
+            "birth_place": "臺灣省",
+            "birth": "1949-02-09",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:39:41",
+            "modified": "2015-02-08 23:44:38"
+        },
+        "Election": {
+            "id": "53c0215f-be74-46a5-9f84-5c5aacb5b862",
+            "population_electors": "560",
+            "population": "662",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-6738-4da8-a6e2-4187cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c75-22b8-4645-820c-5460acb5b862",
+                    "name": "北埔村",
+                    "AreasElection": {
+                        "id": "53c0215f-b598-4775-ad10-5c5aacb5b862",
+                        "Election_id": "53c0215f-be74-46a5-9f84-5c5aacb5b862",
+                        "Area_id": "53c01c75-22b8-4645-820c-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02135-5cc8-4f9d-a971-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "苗栗縣",
+                "lft": "3831",
+                "rght": "4416",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0215e-f830-44f2-b196-5c5aacb5b862",
+                "parent_id": "53c02135-5cc8-4f9d-a971-5c5aacb5b862",
+                "name": "三灣鄉",
+                "lft": "4364",
+                "rght": "4381",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0215f-be74-46a5-9f84-5c5aacb5b862",
+                "parent_id": "53c0215e-f830-44f2-b196-5c5aacb5b862",
+                "name": "北埔村",
+                "lft": "4371",
+                "rght": "4372",
+                "population": "662",
+                "population_electors": "560",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-6738-4da8-a6e2-4187cf91e152",
+                "keywords": "2014-11,村里長,苗栗縣,三灣鄉,北埔村"
+            }
+        }
+    ]
+}

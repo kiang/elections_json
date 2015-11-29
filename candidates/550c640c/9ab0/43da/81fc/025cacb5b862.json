@@ -1,0 +1,125 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "550c640c-9ab0-43da-81fc-025cacb5b862",
+            "election_id": "55086591-a3f4-4055-a37e-2f916ab936af",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "0",
+            "name": "盧嘉辰",
+            "image": "55b3790e\/cb50\/4da0\/b568\/07886ab936af.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": null,
+            "education_level": "",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2015-03-21 02:16:44",
+            "modified": "2015-11-29 03:28:35"
+        },
+        "Election": {
+            "id": "55086591-a3f4-4055-a37e-2f916ab936af",
+            "population_electors": "0",
+            "population": "0",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "Area": [
+                {
+                    "id": "55085a7a-92f0-4944-8b99-3584acb5b862",
+                    "name": "三峽區",
+                    "AreasElection": {
+                        "id": "550a3bcd-db10-4393-9b49-47cc6ab936af",
+                        "Election_id": "55086591-a3f4-4055-a37e-2f916ab936af",
+                        "Area_id": "55085a7a-92f0-4944-8b99-3584acb5b862"
+                    }
+                },
+                {
+                    "id": "55085a83-1b90-4b62-8006-3584acb5b862",
+                    "name": "土城區",
+                    "AreasElection": {
+                        "id": "550a3bc3-5bfc-46b7-b80b-47cc6ab936af",
+                        "Election_id": "55086591-a3f4-4055-a37e-2f916ab936af",
+                        "Area_id": "55085a83-1b90-4b62-8006-3584acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "55085db5-2e9c-4cde-8103-23d86ab936af",
+                "parent_id": null,
+                "name": "2016-01",
+                "lft": "40579",
+                "rght": "40780",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "55085e1a-c494-40e0-ba31-2f916ab936af",
+                "parent_id": "55085db5-2e9c-4cde-8103-23d86ab936af",
+                "name": "立法委員",
+                "lft": "40582",
+                "rght": "40779",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "5508629a-b098-4ed2-97b6-2f916ab936af",
+                "parent_id": "55085e1a-c494-40e0-ba31-2f916ab936af",
+                "name": "新北市",
+                "lft": "40601",
+                "rght": "40626",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "55086591-a3f4-4055-a37e-2f916ab936af",
+                "parent_id": "5508629a-b098-4ed2-97b6-2f916ab936af",
+                "name": "第10選區[區域]",
+                "lft": "40620",
+                "rght": "40621",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2016-01,立法委員,新北市,第10選區[區域]"
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5583-a69c-4b3f-a3da-1926acb5b862",
+            "election_id": "53c02227-70e4-4e9e-b49f-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "115",
+            "name": "蔡德陽",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1956-09-10",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:42:11",
+            "modified": "2015-02-08 23:45:06"
+        },
+        "Election": {
+            "id": "53c02227-70e4-4e9e-b49f-5c5aacb5b862",
+            "population_electors": "1212",
+            "population": "1424",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546ec0e1-1758-465b-bb34-2dfbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01d18-d258-49dc-b411-5460acb5b862",
+                    "name": "土厝村",
+                    "AreasElection": {
+                        "id": "53c02227-64c8-40ca-a4cd-5c5aacb5b862",
+                        "Election_id": "53c02227-70e4-4e9e-b49f-5c5aacb5b862",
+                        "Area_id": "53c01d18-d258-49dc-b411-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "6201",
+                "rght": "7018",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02226-58d0-4cd4-9a2e-5c5aacb5b862",
+                "parent_id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "name": "水林鄉",
+                "lft": "6968",
+                "rght": "7017",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02227-70e4-4e9e-b49f-5c5aacb5b862",
+                "parent_id": "53c02226-58d0-4cd4-9a2e-5c5aacb5b862",
+                "name": "土厝村",
+                "lft": "6977",
+                "rght": "6978",
+                "population": "1424",
+                "population_electors": "1212",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546ec0e1-1758-465b-bb34-2dfbcf91e152",
+                "keywords": "2014-11,村里長,雲林縣,水林鄉,土厝村"
+            }
+        }
+    ]
+}

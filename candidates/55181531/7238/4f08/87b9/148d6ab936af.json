@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "55181531-7238-4f08-87b9-148d6ab936af",
+            "election_id": "5508669d-3f70-4828-8cf6-2f916ab936af",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "0",
+            "name": "黃秀龍",
+            "image": "56582619\/1f9c\/4a21\/933c\/19786ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": null,
+            "education_level": "碩士",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1953-05-25",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2015-03-29 23:07:29",
+            "modified": "2015-11-29 03:28:36"
+        },
+        "Election": {
+            "id": "5508669d-3f70-4828-8cf6-2f916ab936af",
+            "population_electors": "0",
+            "population": "0",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "Area": [
+                {
+                    "id": "5508595e-c7cc-46f6-bb05-3584acb5b862",
+                    "name": "新竹縣",
+                    "AreasElection": {
+                        "id": "550a72a1-bec4-4c3a-92ce-47cb6ab936af",
+                        "Election_id": "5508669d-3f70-4828-8cf6-2f916ab936af",
+                        "Area_id": "5508595e-c7cc-46f6-bb05-3584acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "55085db5-2e9c-4cde-8103-23d86ab936af",
+                "parent_id": null,
+                "name": "2016-01",
+                "lft": "40579",
+                "rght": "40780",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "55085e1a-c494-40e0-ba31-2f916ab936af",
+                "parent_id": "55085db5-2e9c-4cde-8103-23d86ab936af",
+                "name": "立法委員",
+                "lft": "40582",
+                "rght": "40779",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "550862e0-b368-4cfd-ba52-23aa6ab936af",
+                "parent_id": "55085e1a-c494-40e0-ba31-2f916ab936af",
+                "name": "新竹縣",
+                "lft": "40691",
+                "rght": "40694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "5508669d-3f70-4828-8cf6-2f916ab936af",
+                "parent_id": "550862e0-b368-4cfd-ba52-23aa6ab936af",
+                "name": "第01選區[區域]",
+                "lft": "40692",
+                "rght": "40693",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2016-01,立法委員,新竹縣,第01選區[區域]"
+            }
+        }
+    ]
+}

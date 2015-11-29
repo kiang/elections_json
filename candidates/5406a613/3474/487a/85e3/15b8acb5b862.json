@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "5406a613-3474-487a-85e3-15b8acb5b862",
+            "election_id": "53c020a5-2cb8-41f4-9823-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "0",
+            "vote_count": "0",
+            "name": "陳昭忠",
+            "image": "549655e4\/4bb8\/4c02\/9ac0\/195b6ab936af.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "0",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "屏東師範學院",
+            "experience": "",
+            "created": "2014-09-03 13:24:35",
+            "modified": "2014-12-21 13:09:05"
+        },
+        "Election": {
+            "id": "53c020a5-2cb8-41f4-9823-5c5aacb5b862",
+            "population_electors": "3723",
+            "population": "4873",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5475673a-2824-419a-a28d-0f78cf91e152",
+            "Area": [
+                {
+                    "id": "53c01d92-f738-4c80-bf1f-5460acb5b862",
+                    "name": "春日鄉",
+                    "AreasElection": {
+                        "id": "53c020a5-ffa8-48a6-9bee-5c5aacb5b862",
+                        "Election_id": "53c020a5-2cb8-41f4-9823-5c5aacb5b862",
+                        "Area_id": "53c01d92-f738-4c80-bf1f-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市長",
+                "lft": "608",
+                "rght": "1031",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020a0-f5a4-4054-836f-5c5aacb5b862",
+                "parent_id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "887",
+                "rght": "954",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020a5-2cb8-41f4-9823-5c5aacb5b862",
+                "parent_id": "53c020a0-f5a4-4054-836f-5c5aacb5b862",
+                "name": "春日鄉",
+                "lft": "948",
+                "rght": "949",
+                "population": "4873",
+                "population_electors": "3723",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5475673a-2824-419a-a28d-0f78cf91e152",
+                "keywords": "2014-11,鄉鎮市長,屏東縣,春日鄉"
+            }
+        }
+    ]
+}

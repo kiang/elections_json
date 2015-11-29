@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b57fc-f54c-433c-84b2-1926acb5b862",
+            "election_id": "53d734db-27a4-4891-b7ea-1299acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "699",
+            "name": "翁文雅",
+            "image": "548d92ac\/e43c\/4add\/88f0\/12e76ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "4",
+            "education_level": "",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:52:44",
+            "modified": "2015-02-08 23:42:04"
+        },
+        "Election": {
+            "id": "53d734db-27a4-4891-b7ea-1299acb5b862",
+            "population_electors": "21893",
+            "population": "26868",
+            "quota": "8",
+            "quota_women": "2",
+            "bulletin_key": "5469b450-b5b0-4d58-95da-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01bd5-0698-4581-bed5-5460acb5b862",
+                    "name": "金寧鄉",
+                    "AreasElection": {
+                        "id": "53d734dc-4f9c-4c25-a573-1299acb5b862",
+                        "Election_id": "53d734db-27a4-4891-b7ea-1299acb5b862",
+                        "Area_id": "53c01bd5-0698-4581-bed5-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b0-f680-455c-a5b8-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "金門縣",
+                "lft": "1051",
+                "rght": "1076",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b0-3d38-45ed-83b1-5c5aacb5b862",
+                "parent_id": "53c020b0-f680-455c-a5b8-5c5aacb5b862",
+                "name": "金寧鄉",
+                "lft": "1064",
+                "rght": "1067",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d734db-27a4-4891-b7ea-1299acb5b862",
+                "parent_id": "53c020b0-3d38-45ed-83b1-5c5aacb5b862",
+                "name": "第01選舉區[區域]",
+                "lft": "1065",
+                "rght": "1066",
+                "population": "26868",
+                "population_electors": "21893",
+                "quota": "8",
+                "quota_women": "2",
+                "bulletin_key": "5469b450-b5b0-4d58-95da-74a5cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,金門縣,金寧鄉,第01選舉區[區域]"
+            }
+        }
+    ]
+}

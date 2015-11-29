@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b564d-81b0-4102-8986-1926acb5b862",
+            "election_id": "53c02304-d588-4114-be56-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "183",
+            "name": "林淑娟",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "2",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1974-03-27",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:45:33",
+            "modified": "2015-02-08 23:45:31"
+        },
+        "Election": {
+            "id": "53c02304-d588-4114-be56-5c5aacb5b862",
+            "population_electors": "431",
+            "population": "539",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546cd3af-05f0-46a7-95c9-78ebcf91e152",
+            "Area": [
+                {
+                    "id": "53c01dd6-c0f8-476d-95ed-5460acb5b862",
+                    "name": "暖東里",
+                    "AreasElection": {
+                        "id": "53c02304-f1a8-49d6-a96b-5c5aacb5b862",
+                        "Election_id": "53c02304-d588-4114-be56-5c5aacb5b862",
+                        "Area_id": "53c01dd6-c0f8-476d-95ed-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "基隆市",
+                "lft": "9683",
+                "rght": "10012",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02303-2eec-4359-b204-5c5aacb5b862",
+                "parent_id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "name": "暖暖區",
+                "lft": "9780",
+                "rght": "9807",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02304-d588-4114-be56-5c5aacb5b862",
+                "parent_id": "53c02303-2eec-4359-b204-5c5aacb5b862",
+                "name": "暖東里",
+                "lft": "9795",
+                "rght": "9796",
+                "population": "539",
+                "population_electors": "431",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546cd3af-05f0-46a7-95c9-78ebcf91e152",
+                "keywords": "2014-11,村里長,基隆市,暖暖區,暖東里"
+            }
+        }
+    ]
+}

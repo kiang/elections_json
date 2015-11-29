@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02789-b0c4-496c-a556-5dffacb5b862",
+            "election_id": "53c0237f-7e70-4c06-b351-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1891",
+            "name": "彭意蘋",
+            "image": "",
+            "party": "中國國民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "f",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "PENG YI PING",
+            "birth_place": "臺灣省",
+            "birth": "1976-06-06",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:41:47"
+        },
+        "Election": {
+            "id": "53c0237f-7e70-4c06-b351-5c5aacb5b862",
+            "population_electors": "3662",
+            "population": "4735",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546f277e-7a80-4221-9d4a-2f28cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c2f-2368-48c2-9793-5460acb5b862",
+                    "name": "平安里",
+                    "AreasElection": {
+                        "id": "53c0237f-3ff0-4fdb-80d7-5c5aacb5b862",
+                        "Election_id": "53c0237f-7e70-4c06-b351-5c5aacb5b862",
+                        "Area_id": "53c01c2f-2368-48c2-9793-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "桃園市",
+                "lft": "10439",
+                "rght": "11456",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02379-7ffc-44da-9134-5c5aacb5b862",
+                "parent_id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "name": "平鎮區",
+                "lft": "11242",
+                "rght": "11335",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0237f-7e70-4c06-b351-5c5aacb5b862",
+                "parent_id": "53c02379-7ffc-44da-9134-5c5aacb5b862",
+                "name": "平安里",
+                "lft": "11325",
+                "rght": "11326",
+                "population": "4735",
+                "population_electors": "3662",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546f277e-7a80-4221-9d4a-2f28cf91e152",
+                "keywords": "2014-11,村里長,桃園市,平鎮區,平安里"
+            }
+        }
+    ]
+}

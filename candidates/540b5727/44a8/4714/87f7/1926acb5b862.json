@@ -1,0 +1,175 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5727-44a8-4714-87f7-1926acb5b862",
+            "election_id": "53d73351-9830-4d3f-8e15-1299acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1983",
+            "name": "洪明麗",
+            "image": "546a1890\/0514\/49af\/a75f\/75678e043389.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "f",
+            "no": "2",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "HUNG MING LI",
+            "birth_place": "臺灣省",
+            "birth": "1960-05-16",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:49:11",
+            "modified": "2015-02-08 23:42:46"
+        },
+        "Election": {
+            "id": "53d73351-9830-4d3f-8e15-1299acb5b862",
+            "population_electors": "11645",
+            "population": "15596",
+            "quota": "3",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-f99c-4968-a7e5-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01cb6-27f4-473a-831d-5460acb5b862",
+                    "name": "西平里",
+                    "AreasElection": {
+                        "id": "53d73352-8cb4-4f7b-a500-1299acb5b862",
+                        "Election_id": "53d73351-9830-4d3f-8e15-1299acb5b862",
+                        "Area_id": "53c01cb6-27f4-473a-831d-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01cb6-447c-4eca-9bdc-5460acb5b862",
+                    "name": "南光里",
+                    "AreasElection": {
+                        "id": "53d73352-e138-4f0a-a0b7-1299acb5b862",
+                        "Election_id": "53d73351-9830-4d3f-8e15-1299acb5b862",
+                        "Area_id": "53c01cb6-447c-4eca-9bdc-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01cb6-8484-4b0f-97f8-5460acb5b862",
+                    "name": "北平里",
+                    "AreasElection": {
+                        "id": "53d73352-f7bc-4841-a173-1299acb5b862",
+                        "Election_id": "53d73351-9830-4d3f-8e15-1299acb5b862",
+                        "Area_id": "53c01cb6-8484-4b0f-97f8-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01cb6-bb20-44c0-92b8-5460acb5b862",
+                    "name": "東和里",
+                    "AreasElection": {
+                        "id": "53d73352-4304-4846-ba9e-1299acb5b862",
+                        "Election_id": "53d73351-9830-4d3f-8e15-1299acb5b862",
+                        "Area_id": "53c01cb6-bb20-44c0-92b8-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01cb7-5e74-46aa-9946-5460acb5b862",
+                    "name": "豐田里",
+                    "AreasElection": {
+                        "id": "53d73352-ef6c-4f42-9a8c-1299acb5b862",
+                        "Election_id": "53d73351-9830-4d3f-8e15-1299acb5b862",
+                        "Area_id": "53c01cb7-5e74-46aa-9946-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54ab2710-ebc4-4db1-923c-29d96ab936af",
+                "name": "2014當選無效之訴-彰化縣",
+                "CandidatesTag": {
+                    "id": "54ab27a4-6c44-4382-ae6a-2a156ab936af",
+                    "Candidate_id": "540b5727-44a8-4714-87f7-1926acb5b862",
+                    "Tag_id": "54ab2710-ebc4-4db1-923c-29d96ab936af"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020bb-fd28-4ab5-ad62-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "1497",
+                "rght": "1738",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020c0-adf4-4ff4-a88a-5c5aacb5b862",
+                "parent_id": "53c020bb-fd28-4ab5-ad62-5c5aacb5b862",
+                "name": "二林鎮",
+                "lft": "1668",
+                "rght": "1677",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d73351-9830-4d3f-8e15-1299acb5b862",
+                "parent_id": "53c020c0-adf4-4ff4-a88a-5c5aacb5b862",
+                "name": "第01選舉區[區域]",
+                "lft": "1669",
+                "rght": "1670",
+                "population": "15596",
+                "population_electors": "11645",
+                "quota": "3",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-f99c-4968-a7e5-74a5cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,彰化縣,二林鎮,第01選舉區[區域]"
+            }
+        }
+    ]
+}

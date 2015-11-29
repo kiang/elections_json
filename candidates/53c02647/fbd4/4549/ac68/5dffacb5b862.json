@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02647-fbd4-4549-ac68-5dffacb5b862",
+            "election_id": "53c023bc-2c7c-4c31-b388-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1703",
+            "name": "邱碧珠",
+            "image": null,
+            "party": "民主進步黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "3",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "新北市",
+            "birth": "1960-04-02",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:40:34"
+        },
+        "Election": {
+            "id": "53c023bc-2c7c-4c31-b388-5c5aacb5b862",
+            "population_electors": "4026",
+            "population": "5047",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-687c-45ad-aee8-4187cf91e152",
+            "Area": [
+                {
+                    "id": "53c01e31-1aa8-4b34-9fb6-5460acb5b862",
+                    "name": "西新里",
+                    "AreasElection": {
+                        "id": "53c023bc-80b4-4a60-9449-5c5aacb5b862",
+                        "Election_id": "53c023bc-2c7c-4c31-b388-5c5aacb5b862",
+                        "Area_id": "53c01e31-1aa8-4b34-9fb6-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023bb-9e20-4a96-90d6-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "南港區",
+                "lft": "12082",
+                "rght": "12123",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023bc-2c7c-4c31-b388-5c5aacb5b862",
+                "parent_id": "53c023bb-9e20-4a96-90d6-5c5aacb5b862",
+                "name": "西新里",
+                "lft": "12087",
+                "rght": "12088",
+                "population": "5047",
+                "population_electors": "4026",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-687c-45ad-aee8-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,南港區,西新里"
+            }
+        }
+    ]
+}

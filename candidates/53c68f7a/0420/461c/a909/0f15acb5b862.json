@@ -1,0 +1,143 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c68f7a-0420-461c-a909-0f15acb5b862",
+            "election_id": "53c41087-9850-447b-9e60-6f55acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "6791",
+            "name": "楊恭林",
+            "image": "5495b1ce\/1ef4\/4d88\/bdc4\/030b6ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "037-326450",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "360苗栗縣苗栗市玉清里玉清路351號",
+            "links": "臉書 http:\/\/www.facebook.com\/people\/%E6%A5%8A%E6%81%AD%E6%9E%97\/100006634116699",
+            "gender": "m",
+            "no": "3",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1961-06-28",
+            "platform": "",
+            "education": "全德高工畢業",
+            "experience": "第17屆苗栗縣議員",
+            "created": "2014-07-16 22:43:06",
+            "modified": "2015-02-08 23:41:51"
+        },
+        "Election": {
+            "id": "53c41087-9850-447b-9e60-6f55acb5b862",
+            "population_electors": "36911",
+            "population": "44855",
+            "quota": "3",
+            "quota_women": "0",
+            "bulletin_key": "546b0806-7a48-4f7d-ae3f-2ff0cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c67-abb0-4229-b1c4-5460acb5b862",
+                    "name": "卓蘭鎮",
+                    "AreasElection": {
+                        "id": "53c41088-db48-4e46-a74e-6f55acb5b862",
+                        "Election_id": "53c41087-9850-447b-9e60-6f55acb5b862",
+                        "Area_id": "53c01c67-abb0-4229-b1c4-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01c68-a478-4fce-bcd2-5460acb5b862",
+                    "name": "大湖鄉",
+                    "AreasElection": {
+                        "id": "53c4108a-6690-4136-acd8-6f55acb5b862",
+                        "Election_id": "53c41087-9850-447b-9e60-6f55acb5b862",
+                        "Area_id": "53c01c68-a478-4fce-bcd2-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01c76-b19c-4129-8031-5460acb5b862",
+                    "name": "獅潭鄉",
+                    "AreasElection": {
+                        "id": "53c4108a-d804-4ed6-92ad-6f55acb5b862",
+                        "Election_id": "53c41087-9850-447b-9e60-6f55acb5b862",
+                        "Area_id": "53c01c76-b19c-4129-8031-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01c78-9978-43bf-96f5-5460acb5b862",
+                    "name": "泰安鄉",
+                    "AreasElection": {
+                        "id": "53c4108b-5588-476c-93dc-6f55acb5b862",
+                        "Election_id": "53c41087-9850-447b-9e60-6f55acb5b862",
+                        "Area_id": "53c01c78-9978-43bf-96f5-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "縣市議員",
+                "lft": "306",
+                "rght": "607",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02083-9f68-4304-a1b8-5c5aacb5b862",
+                "parent_id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "name": "苗栗縣",
+                "lft": "381",
+                "rght": "398",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c41087-9850-447b-9e60-6f55acb5b862",
+                "parent_id": "53c02083-9f68-4304-a1b8-5c5aacb5b862",
+                "name": "第06選區[區域]",
+                "lft": "392",
+                "rght": "393",
+                "population": "44855",
+                "population_electors": "36911",
+                "quota": "3",
+                "quota_women": "0",
+                "bulletin_key": "546b0806-7a48-4f7d-ae3f-2ff0cf91e152",
+                "keywords": "2014-11,縣市議員,苗栗縣,第06選區[區域]"
+            }
+        }
+    ]
+}

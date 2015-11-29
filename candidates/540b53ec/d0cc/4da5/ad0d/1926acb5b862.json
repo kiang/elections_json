@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b53ec-d0cc-4da5-ad0d-1926acb5b862",
+            "election_id": "53c0257e-a9ac-4d3e-89b1-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "676",
+            "name": "楊來成",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "Yang Lai Cheng",
+            "birth_place": "臺中市",
+            "birth": "1957-09-19",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:35:24",
+            "modified": "2015-02-08 23:41:19"
+        },
+        "Election": {
+            "id": "53c0257e-a9ac-4d3e-89b1-5c5aacb5b862",
+            "population_electors": "2379",
+            "population": "2953",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb720-aa68-4fd5-b939-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01fad-63b0-47d3-96a1-5460acb5b862",
+                    "name": "湖日里",
+                    "AreasElection": {
+                        "id": "53c0257e-5290-4410-bf96-5c5aacb5b862",
+                        "Election_id": "53c0257e-a9ac-4d3e-89b1-5c5aacb5b862",
+                        "Area_id": "53c01fad-63b0-47d3-96a1-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0257d-4680-4a5d-8f9e-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "烏日區",
+                "lft": "17394",
+                "rght": "17427",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0257e-a9ac-4d3e-89b1-5c5aacb5b862",
+                "parent_id": "53c0257d-4680-4a5d-8f9e-5c5aacb5b862",
+                "name": "湖日里",
+                "lft": "17397",
+                "rght": "17398",
+                "population": "2953",
+                "population_electors": "2379",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb720-aa68-4fd5-b939-2adbcf91e152",
+                "keywords": "2014-11,村里長,臺中市,烏日區,湖日里"
+            }
+        }
+    ]
+}

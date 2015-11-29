@@ -1,0 +1,140 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b57b2-a5ac-4b9f-a32d-1926acb5b862",
+            "election_id": "53d73481-e51c-401e-8a94-1299acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "299",
+            "name": "蔡天成",
+            "image": "54ca41b4\/f36c\/44cf\/8402\/200a6ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "3",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:51:30",
+            "modified": "2015-02-08 23:44:01"
+        },
+        "Election": {
+            "id": "53d73481-e51c-401e-8a94-1299acb5b862",
+            "population_electors": "1096",
+            "population": "1314",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "5475673a-f300-41c1-9852-0f78cf91e152",
+            "Area": [
+                {
+                    "id": "53c01d94-3ac0-482f-8791-5460acb5b862",
+                    "name": "四林村",
+                    "AreasElection": {
+                        "id": "53d73482-3634-4d91-98a6-1299acb5b862",
+                        "Election_id": "53d73481-e51c-401e-8a94-1299acb5b862",
+                        "Area_id": "53c01d94-3ac0-482f-8791-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01d94-4404-49a3-b186-5460acb5b862",
+                    "name": "高士村",
+                    "AreasElection": {
+                        "id": "53d73481-1840-4e2b-975a-1299acb5b862",
+                        "Election_id": "53d73481-e51c-401e-8a94-1299acb5b862",
+                        "Area_id": "53c01d94-4404-49a3-b186-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ce-0798-4ae9-af49-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "2197",
+                "rght": "2484",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020d9-c7b8-48d4-bc5e-5c5aacb5b862",
+                "parent_id": "53c020ce-0798-4ae9-af49-5c5aacb5b862",
+                "name": "牡丹鄉",
+                "lft": "2478",
+                "rght": "2483",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d73481-e51c-401e-8a94-1299acb5b862",
+                "parent_id": "53c020d9-c7b8-48d4-bc5e-5c5aacb5b862",
+                "name": "第02選舉區[區域]",
+                "lft": "2481",
+                "rght": "2482",
+                "population": "1314",
+                "population_electors": "1096",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "5475673a-f300-41c1-9852-0f78cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,屏東縣,牡丹鄉,第02選舉區[區域]"
+            }
+        }
+    ]
+}

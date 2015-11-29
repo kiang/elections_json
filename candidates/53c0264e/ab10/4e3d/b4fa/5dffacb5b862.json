@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c0264e-ab10-4e3d-b4fa-5dffacb5b862",
+            "election_id": "53c023d0-56a4-4ac0-8434-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1870",
+            "name": "黃滿妹",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "2",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1959-03-25",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:40:36"
+        },
+        "Election": {
+            "id": "53c023d0-56a4-4ac0-8434-5c5aacb5b862",
+            "population_electors": "4671",
+            "population": "5733",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-6110-4850-99a3-4187cf91e152",
+            "Area": [
+                {
+                    "id": "53c01e41-6ed0-4c05-bb44-5460acb5b862",
+                    "name": "石牌里",
+                    "AreasElection": {
+                        "id": "53c023d0-43e4-42a3-b132-5c5aacb5b862",
+                        "Election_id": "53c023d0-56a4-4ac0-8434-5c5aacb5b862",
+                        "Area_id": "53c01e41-6ed0-4c05-bb44-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023cf-48cc-46fc-8762-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "北投區",
+                "lft": "12308",
+                "rght": "12393",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d0-56a4-4ac0-8434-5c5aacb5b862",
+                "parent_id": "53c023cf-48cc-46fc-8762-5c5aacb5b862",
+                "name": "石牌里",
+                "lft": "12315",
+                "rght": "12316",
+                "population": "5733",
+                "population_electors": "4671",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-6110-4850-99a3-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,北投區,石牌里"
+            }
+        }
+    ]
+}

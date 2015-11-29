@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5329-1c98-41be-b33b-1926acb5b862",
+            "election_id": "53c02488-2fdc-49a9-b3d9-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "593",
+            "name": "高廖美容",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "2",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺中市",
+            "birth": "1963-12-22",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:32:09",
+            "modified": "2015-02-08 23:40:56"
+        },
+        "Election": {
+            "id": "53c02488-2fdc-49a9-b3d9-5c5aacb5b862",
+            "population_electors": "1703",
+            "population": "2005",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068c-3658-4161-83ce-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01ee5-16f8-4660-a02a-5460acb5b862",
+                    "name": "錦安里",
+                    "AreasElection": {
+                        "id": "53c02488-6c8c-4f23-95c0-5c5aacb5b862",
+                        "Election_id": "53c02488-2fdc-49a9-b3d9-5c5aacb5b862",
+                        "Area_id": "53c01ee5-16f8-4660-a02a-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新北市",
+                "lft": "14261",
+                "rght": "16384",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02480-1acc-4cf5-8b74-5c5aacb5b862",
+                "parent_id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "name": "三重區",
+                "lft": "14516",
+                "rght": "14755",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02488-2fdc-49a9-b3d9-5c5aacb5b862",
+                "parent_id": "53c02480-1acc-4cf5-8b74-5c5aacb5b862",
+                "name": "錦安里",
+                "lft": "14621",
+                "rght": "14622",
+                "population": "2005",
+                "population_electors": "1703",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068c-3658-4161-83ce-1a32cf91e152",
+                "keywords": "2014-11,村里長,新北市,三重區,錦安里"
+            }
+        }
+    ]
+}

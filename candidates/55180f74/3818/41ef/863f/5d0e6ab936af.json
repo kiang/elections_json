@@ -1,0 +1,124 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "55180f74-3818-41ef-863f-5d0e6ab936af",
+            "election_id": "55086791-6560-42c7-9763-23aa6ab936af",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "0",
+            "name": "楊石城",
+            "image": "55180f74\/ea24\/4d9d\/af06\/5d0e6ab936af.jpg",
+            "party": "民國黨",
+            "contacts_phone": "02-24266135",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "201基隆市信義區仁壽里壽山路5號",
+            "links": "臉書 http:\/\/www.facebook.com\/pages\/%E7%8C%9B%E7%94%B7%E8%AD%B0%E5%93%A1%E6%A5%8A%E7%9F%B3%E5%9F%8E\/119480834735941\\n臉書 http:\/\/www.facebook.com\/people\/%E6%A5%8A%E7%9F%B3%E5%9F%8E\/100003772010757",
+            "gender": "m",
+            "no": null,
+            "education_level": "大學",
+            "is_present": false,
+            "name_english": "YANG SHIH CHENG",
+            "birth_place": "臺灣省",
+            "birth": "1962-08-02",
+            "platform": "",
+            "education": "文化大學觀光系",
+            "experience": "第16屆議員.里長.",
+            "created": "2015-03-29 22:43:00",
+            "modified": "2015-11-29 03:28:36"
+        },
+        "Election": {
+            "id": "55086791-6560-42c7-9763-23aa6ab936af",
+            "population_electors": "0",
+            "population": "0",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "Area": [
+                {
+                    "id": "550859f8-d138-4129-afb5-3584acb5b862",
+                    "name": "基隆市",
+                    "AreasElection": {
+                        "id": "550a754f-7110-4149-8b82-494a6ab936af",
+                        "Election_id": "55086791-6560-42c7-9763-23aa6ab936af",
+                        "Area_id": "550859f8-d138-4129-afb5-3584acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "561362cb-f098-45f3-8571-642d6ab936af",
+                "name": "2016民國黨",
+                "CandidatesTag": {
+                    "id": "561362f9-c618-434f-8ae6-64216ab936af",
+                    "Candidate_id": "55180f74-3818-41ef-863f-5d0e6ab936af",
+                    "Tag_id": "561362cb-f098-45f3-8571-642d6ab936af"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "55085db5-2e9c-4cde-8103-23d86ab936af",
+                "parent_id": null,
+                "name": "2016-01",
+                "lft": "40579",
+                "rght": "40780",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "55085e1a-c494-40e0-ba31-2f916ab936af",
+                "parent_id": "55085db5-2e9c-4cde-8103-23d86ab936af",
+                "name": "立法委員",
+                "lft": "40582",
+                "rght": "40779",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "55086378-1044-4b68-8e17-28956ab936af",
+                "parent_id": "55085e1a-c494-40e0-ba31-2f916ab936af",
+                "name": "基隆市",
+                "lft": "40753",
+                "rght": "40756",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "55086791-6560-42c7-9763-23aa6ab936af",
+                "parent_id": "55086378-1044-4b68-8e17-28956ab936af",
+                "name": "第01選區[區域]",
+                "lft": "40754",
+                "rght": "40755",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2016-01,立法委員,基隆市,第01選區[區域]"
+            }
+        }
+    ]
+}

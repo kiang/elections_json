@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c0289f-d8a4-4528-a67d-5dffacb5b862",
+            "election_id": "53c020e7-02d0-4b56-84df-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "97",
+            "name": "林順雄",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "金馬地區",
+            "birth": "1952-08-27",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:44:23"
+        },
+        "Election": {
+            "id": "53c020e7-02d0-4b56-84df-5c5aacb5b862",
+            "population_electors": "189",
+            "population": "231",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54742648-1b68-4e5e-ab75-2d82cf91e152",
+            "Area": [
+                {
+                    "id": "53c01bd0-8e24-487a-84a5-5460acb5b862",
+                    "name": "田沃村",
+                    "AreasElection": {
+                        "id": "53c020e7-e1bc-4ea8-9670-5c5aacb5b862",
+                        "Election_id": "53c020e7-02d0-4b56-84df-5c5aacb5b862",
+                        "Area_id": "53c01bd0-8e24-487a-84a5-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020e4-541c-4ad6-bd12-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "連江縣",
+                "lft": "2787",
+                "rght": "2840",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020e7-1278-4267-b6a2-5c5aacb5b862",
+                "parent_id": "53c020e4-541c-4ad6-bd12-5c5aacb5b862",
+                "name": "莒光鄉",
+                "lft": "2822",
+                "rght": "2833",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020e7-02d0-4b56-84df-5c5aacb5b862",
+                "parent_id": "53c020e7-1278-4267-b6a2-5c5aacb5b862",
+                "name": "田沃村",
+                "lft": "2825",
+                "rght": "2826",
+                "population": "231",
+                "population_electors": "189",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54742648-1b68-4e5e-ab75-2d82cf91e152",
+                "keywords": "2014-11,村里長,連江縣,莒光鄉,田沃村"
+            }
+        }
+    ]
+}

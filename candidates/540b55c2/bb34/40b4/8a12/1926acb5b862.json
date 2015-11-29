@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b55c2-bb34-40b4-8a12-1926acb5b862",
+            "election_id": "53c0227e-f794-4175-bbc7-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "492",
+            "name": "陳文華",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "3",
+            "education_level": "專科",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1961-03-15",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:43:14",
+            "modified": "2015-02-08 23:45:16"
+        },
+        "Election": {
+            "id": "53c0227e-f794-4175-bbc7-5c5aacb5b862",
+            "population_electors": "1959",
+            "population": "2480",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54773ba1-8a04-46c6-a516-1915cf91e152",
+            "Area": [
+                {
+                    "id": "53c01d66-7cd8-41a3-a985-5460acb5b862",
+                    "name": "新鐘村",
+                    "AreasElection": {
+                        "id": "53c0227e-53c0-4101-9a7d-5c5aacb5b862",
+                        "Election_id": "53c0227e-f794-4175-bbc7-5c5aacb5b862",
+                        "Area_id": "53c01d66-7cd8-41a3-a985-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "7771",
+                "rght": "8766",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0227a-767c-4154-b942-5c5aacb5b862",
+                "parent_id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "name": "萬丹鄉",
+                "lft": "8060",
+                "rght": "8121",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0227e-f794-4175-bbc7-5c5aacb5b862",
+                "parent_id": "53c0227a-767c-4154-b942-5c5aacb5b862",
+                "name": "新鐘村",
+                "lft": "8105",
+                "rght": "8106",
+                "population": "2480",
+                "population_electors": "1959",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54773ba1-8a04-46c6-a516-1915cf91e152",
+                "keywords": "2014-11,村里長,屏東縣,萬丹鄉,新鐘村"
+            }
+        }
+    ]
+}

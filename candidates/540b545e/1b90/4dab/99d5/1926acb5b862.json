@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b545e-1b90-4dab-99d5-1926acb5b862",
+            "election_id": "53c023ec-f428-404f-8466-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1071",
+            "name": "陳慶宏",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "CHEN CHING HUNG",
+            "birth_place": "高雄市",
+            "birth": "1972-01-16",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:37:18",
+            "modified": "2015-02-08 23:40:39"
+        },
+        "Election": {
+            "id": "53c023ec-f428-404f-8466-5c5aacb5b862",
+            "population_electors": "4993",
+            "population": "6579",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb720-2e1c-4855-93ad-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01e60-08b8-4308-9a2c-5460acb5b862",
+                    "name": "本元里",
+                    "AreasElection": {
+                        "id": "53c023ed-0278-45e9-b044-5c5aacb5b862",
+                        "Election_id": "53c023ec-f428-404f-8466-5c5aacb5b862",
+                        "Area_id": "53c01e60-08b8-4308-9a2c-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023ec-08a0-49ca-ae2b-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "三民區",
+                "lft": "12676",
+                "rght": "12849",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023ec-f428-404f-8466-5c5aacb5b862",
+                "parent_id": "53c023ec-08a0-49ca-ae2b-5c5aacb5b862",
+                "name": "本元里",
+                "lft": "12687",
+                "rght": "12688",
+                "population": "6579",
+                "population_electors": "4993",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb720-2e1c-4855-93ad-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,三民區,本元里"
+            }
+        }
+    ]
+}

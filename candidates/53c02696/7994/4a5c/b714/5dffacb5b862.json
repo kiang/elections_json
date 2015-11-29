@@ -1,0 +1,139 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02696-7994-4a5c-b714-5dffacb5b862",
+            "election_id": "53c02464-6300-408d-978d-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "291",
+            "name": "李林萍",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "2",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "LI LIN PING",
+            "birth_place": "臺灣省",
+            "birth": "1936-01-03",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:40:52"
+        },
+        "Election": {
+            "id": "53c02464-6300-408d-978d-5c5aacb5b862",
+            "population_electors": "604",
+            "population": "707",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb721-4d30-49f1-8d23-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01ec0-f924-4f7c-b693-5460acb5b862",
+                    "name": "關山里",
+                    "AreasElection": {
+                        "id": "53c02464-ca20-46f0-8c38-5c5aacb5b862",
+                        "Election_id": "53c02464-6300-408d-978d-5c5aacb5b862",
+                        "Area_id": "53c01ec0-f924-4f7c-b693-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54ab28f9-bbb8-4b4e-9cbd-2a166ab936af",
+                "name": "2014當選無效之訴-高雄市",
+                "CandidatesTag": {
+                    "id": "54abf9a0-4a18-4b5c-a6da-587f6ab936af",
+                    "Candidate_id": "53c02696-7994-4a5c-b714-5dffacb5b862",
+                    "Tag_id": "54ab28f9-bbb8-4b4e-9cbd-2a166ab936af"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02463-4844-4f93-96de-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "甲仙區",
+                "lft": "14154",
+                "rght": "14169",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02464-6300-408d-978d-5c5aacb5b862",
+                "parent_id": "53c02463-4844-4f93-96de-5c5aacb5b862",
+                "name": "關山里",
+                "lft": "14167",
+                "rght": "14168",
+                "population": "707",
+                "population_electors": "604",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb721-4d30-49f1-8d23-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,甲仙區,關山里"
+            }
+        }
+    ]
+}

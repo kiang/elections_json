@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b54e9-f864-4b4c-b4a7-1926acb5b862",
+            "election_id": "53c02158-e5d0-4f3b-a69e-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "461",
+            "name": "傅星妹",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "2",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1956-10-29",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:39:37",
+            "modified": "2015-02-08 23:44:37"
+        },
+        "Election": {
+            "id": "53c02158-e5d0-4f3b-a69e-5c5aacb5b862",
+            "population_electors": "1894",
+            "population": "2304",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-46b8-4e31-98d5-4187cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c70-e7a8-4471-a63d-5460acb5b862",
+                    "name": "象山村",
+                    "AreasElection": {
+                        "id": "53c02158-a3ec-4d92-9d5f-5c5aacb5b862",
+                        "Election_id": "53c02158-e5d0-4f3b-a69e-5c5aacb5b862",
+                        "Area_id": "53c01c70-e7a8-4471-a63d-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02135-5cc8-4f9d-a971-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "苗栗縣",
+                "lft": "3831",
+                "rght": "4416",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02158-4538-46e5-9162-5c5aacb5b862",
+                "parent_id": "53c02135-5cc8-4f9d-a971-5c5aacb5b862",
+                "name": "頭屋鄉",
+                "lft": "4290",
+                "rght": "4307",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02158-e5d0-4f3b-a69e-5c5aacb5b862",
+                "parent_id": "53c02158-4538-46e5-9162-5c5aacb5b862",
+                "name": "象山村",
+                "lft": "4295",
+                "rght": "4296",
+                "population": "2304",
+                "population_electors": "1894",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-46b8-4e31-98d5-4187cf91e152",
+                "keywords": "2014-11,村里長,苗栗縣,頭屋鄉,象山村"
+            }
+        }
+    ]
+}

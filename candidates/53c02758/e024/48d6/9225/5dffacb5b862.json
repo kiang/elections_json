@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02758-e024-48d6-9225-5dffacb5b862",
+            "election_id": "53c020f7-f208-4eb7-a9ad-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "466",
+            "name": "謝茂川",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "大學",
+            "is_present": true,
+            "name_english": "HSIEH MAOCHUAN",
+            "birth_place": "臺灣省",
+            "birth": "1946-12-28",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:44:25"
+        },
+        "Election": {
+            "id": "53c020f7-f208-4eb7-a9ad-5c5aacb5b862",
+            "population_electors": "1133",
+            "population": "1454",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-28a0-4d8e-b3f7-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01bdd-34d4-4a7f-8157-5460acb5b862",
+                    "name": "集祥里",
+                    "AreasElection": {
+                        "id": "53c020f7-b9e8-4e21-b6a8-5c5aacb5b862",
+                        "Election_id": "53c020f7-f208-4eb7-a9ad-5c5aacb5b862",
+                        "Area_id": "53c01bdd-34d4-4a7f-8157-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ef-6268-4b1a-a16d-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "宜蘭縣",
+                "lft": "2929",
+                "rght": "3420",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020f5-b8c8-408e-aeeb-5c5aacb5b862",
+                "parent_id": "53c020ef-6268-4b1a-a16d-5c5aacb5b862",
+                "name": "羅東鎮",
+                "lft": "3008",
+                "rght": "3055",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020f7-f208-4eb7-a9ad-5c5aacb5b862",
+                "parent_id": "53c020f5-b8c8-408e-aeeb-5c5aacb5b862",
+                "name": "集祥里",
+                "lft": "3025",
+                "rght": "3026",
+                "population": "1454",
+                "population_electors": "1133",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-28a0-4d8e-b3f7-2adbcf91e152",
+                "keywords": "2014-11,村里長,宜蘭縣,羅東鎮,集祥里"
+            }
+        }
+    ]
+}

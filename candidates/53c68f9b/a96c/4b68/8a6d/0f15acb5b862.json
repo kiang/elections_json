@@ -1,0 +1,133 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c68f9b-a96c-4b68-8a6d-0f15acb5b862",
+            "election_id": "53c40085-52e0-496c-aa91-6cceacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "18472",
+            "name": "王鴻薇",
+            "image": "5433f516\/5ab8\/4c90\/81d7\/41d7cb455a61.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "02-27297708",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "110台北市信義區仁愛路四段507號611室",
+            "links": "\\n臉書 http:\/\/www.facebook.com\/profile.php?id=100001119397929",
+            "gender": "f",
+            "no": "12",
+            "education_level": "大學",
+            "is_present": true,
+            "name_english": "Wang Hung wei",
+            "birth_place": "臺灣省",
+            "birth": "1964-07-10",
+            "platform": "",
+            "education": "國立政治大學新聞系畢業  北一女中  仁愛國中  民權國小",
+            "experience": "第10、11屆臺北市議員  聯合報大台北中心主任  聯合報經濟組組長  聯合晚報經濟組長  工商時報金融組記者",
+            "created": "2014-07-16 22:43:39",
+            "modified": "2015-02-08 23:40:13"
+        },
+        "Election": {
+            "id": "53c40085-52e0-496c-aa91-6cceacb5b862",
+            "population_electors": "353671",
+            "population": "439221",
+            "quota": "10",
+            "quota_women": "2",
+            "bulletin_key": "5469b450-687c-4800-b79c-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01e05-c5b0-4086-9351-5460acb5b862",
+                    "name": "松山區",
+                    "AreasElection": {
+                        "id": "53c406db-1188-496d-b703-6dacacb5b862",
+                        "Election_id": "53c40085-52e0-496c-aa91-6cceacb5b862",
+                        "Area_id": "53c01e05-c5b0-4086-9351-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01e0a-c5d8-45be-af04-5460acb5b862",
+                    "name": "信義區",
+                    "AreasElection": {
+                        "id": "53c406db-a4f0-46e2-8f53-6dacacb5b862",
+                        "Election_id": "53c40085-52e0-496c-aa91-6cceacb5b862",
+                        "Area_id": "53c01e0a-c5d8-45be-af04-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54df7334-51d0-4472-ad36-6c676ab936af",
+                "name": "2014當選隨即目標轉向立委",
+                "CandidatesTag": {
+                    "id": "551809ca-4adc-4ab3-bf93-12916ab936af",
+                    "Candidate_id": "53c68f9b-a96c-4b68-8a6d-0f15acb5b862",
+                    "Tag_id": "54df7334-51d0-4472-ad36-6c676ab936af"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207e-df00-40ad-b2bd-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "臺北市",
+                "lft": "47",
+                "rght": "64",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c40085-52e0-496c-aa91-6cceacb5b862",
+                "parent_id": "53c0207e-df00-40ad-b2bd-5c5aacb5b862",
+                "name": "第03選區[區域]",
+                "lft": "52",
+                "rght": "53",
+                "population": "439221",
+                "population_electors": "353671",
+                "quota": "10",
+                "quota_women": "2",
+                "bulletin_key": "5469b450-687c-4800-b79c-74a5cf91e152",
+                "keywords": "2014-11,直轄市議員,臺北市,第03選區[區域]"
+            }
+        }
+    ]
+}

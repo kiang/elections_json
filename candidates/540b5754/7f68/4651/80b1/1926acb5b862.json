@@ -1,0 +1,158 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5754-7f68-4651-80b1-1926acb5b862",
+            "election_id": "53d733bd-4eac-4fd8-8313-1299acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "193",
+            "name": "許麗玲",
+            "image": "54be6208\/5bac\/43dc\/a8d9\/166f6ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "f",
+            "no": "2",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "HSU LI LING",
+            "birth_place": "臺灣省",
+            "birth": "1963-07-26",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:49:56",
+            "modified": "2015-02-08 23:43:24"
+        },
+        "Election": {
+            "id": "53d733bd-4eac-4fd8-8313-1299acb5b862",
+            "population_electors": "5507",
+            "population": "6868",
+            "quota": "4",
+            "quota_women": "1",
+            "bulletin_key": "546eb720-e2f8-4915-9303-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01cff-2bcc-49cc-8898-5460acb5b862",
+                    "name": "南和村",
+                    "AreasElection": {
+                        "id": "53d733be-256c-471c-bd86-1299acb5b862",
+                        "Election_id": "53d733bd-4eac-4fd8-8313-1299acb5b862",
+                        "Area_id": "53c01cff-2bcc-49cc-8898-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01cff-8858-47f2-82a0-5460acb5b862",
+                    "name": "松竹村",
+                    "AreasElection": {
+                        "id": "53d733be-a8ec-46e5-b8f8-1299acb5b862",
+                        "Election_id": "53d733bd-4eac-4fd8-8313-1299acb5b862",
+                        "Area_id": "53c01cff-8858-47f2-82a0-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01cff-ae84-4385-9ca1-5460acb5b862",
+                    "name": "大德村",
+                    "AreasElection": {
+                        "id": "53d733be-cd64-46fa-b353-1299acb5b862",
+                        "Election_id": "53d733bd-4eac-4fd8-8313-1299acb5b862",
+                        "Area_id": "53c01cff-ae84-4385-9ca1-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01d00-d668-472b-8f6d-5460acb5b862",
+                    "name": "豐田村",
+                    "AreasElection": {
+                        "id": "53d733be-1200-44a9-9c6f-1299acb5b862",
+                        "Election_id": "53d733bd-4eac-4fd8-8313-1299acb5b862",
+                        "Area_id": "53c01d00-d668-472b-8f6d-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020c5-1718-4aea-8b3b-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "1865",
+                "rght": "2062",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020c6-c73c-4591-a9e4-5c5aacb5b862",
+                "parent_id": "53c020c5-1718-4aea-8b3b-5c5aacb5b862",
+                "name": "大埤鄉",
+                "lft": "1934",
+                "rght": "1943",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d733bd-4eac-4fd8-8313-1299acb5b862",
+                "parent_id": "53c020c6-c73c-4591-a9e4-5c5aacb5b862",
+                "name": "第02選舉區[區域]",
+                "lft": "1937",
+                "rght": "1938",
+                "population": "6868",
+                "population_electors": "5507",
+                "quota": "4",
+                "quota_women": "1",
+                "bulletin_key": "546eb720-e2f8-4915-9303-2adbcf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,雲林縣,大埤鄉,第02選舉區[區域]"
+            }
+        }
+    ]
+}

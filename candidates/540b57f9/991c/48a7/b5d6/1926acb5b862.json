@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b57f9-991c-48a7-b5d6-1926acb5b862",
+            "election_id": "53d734db-f2ac-452c-b0e0-1299acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "556",
+            "name": "陳應超",
+            "image": "548ebf03\/0078\/44e2\/b10b\/5a7d6ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "11",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:52:41",
+            "modified": "2015-02-08 23:42:04"
+        },
+        "Election": {
+            "id": "53d734db-f2ac-452c-b0e0-1299acb5b862",
+            "population_electors": "16225",
+            "population": "19290",
+            "quota": "7",
+            "quota_women": "1",
+            "bulletin_key": "5469b450-beac-493a-bc9d-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01bd2-fe28-4f39-8538-5460acb5b862",
+                    "name": "金沙鎮",
+                    "AreasElection": {
+                        "id": "53d734db-c88c-4e12-b243-1299acb5b862",
+                        "Election_id": "53d734db-f2ac-452c-b0e0-1299acb5b862",
+                        "Area_id": "53c01bd2-fe28-4f39-8538-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b0-f680-455c-a5b8-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "金門縣",
+                "lft": "1051",
+                "rght": "1076",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b0-b5e0-4a04-9376-5c5aacb5b862",
+                "parent_id": "53c020b0-f680-455c-a5b8-5c5aacb5b862",
+                "name": "金沙鎮",
+                "lft": "1056",
+                "rght": "1059",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d734db-f2ac-452c-b0e0-1299acb5b862",
+                "parent_id": "53c020b0-b5e0-4a04-9376-5c5aacb5b862",
+                "name": "第01選舉區[區域]",
+                "lft": "1057",
+                "rght": "1058",
+                "population": "19290",
+                "population_electors": "16225",
+                "quota": "7",
+                "quota_women": "1",
+                "bulletin_key": "5469b450-beac-493a-bc9d-74a5cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,金門縣,金沙鎮,第01選舉區[區域]"
+            }
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c68f73-c1c8-4de2-bf1a-0f15acb5b862",
+            "election_id": "53c40379-0dc4-43f0-b742-6d45acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "16724",
+            "name": "萬美玲",
+            "image": "543fd65b\/7a0c\/440b\/befa\/79678e043389.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "03-2288959",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "330桃園縣桃園市泰昌三街30號",
+            "links": "臉書 http:\/\/www.facebook.com\/pages\/%E8%90%AC%E7%BE%8E%E7%8E%B2%E7%B2%89%E7%B5%B2%E5%9C%98\/119465751469140",
+            "gender": "f",
+            "no": "1",
+            "education_level": "大學",
+            "is_present": false,
+            "name_english": "WAN MEI LING",
+            "birth_place": "臺北市",
+            "birth": "1969-09-25",
+            "platform": "",
+            "education": "銘傳大學公共管理與社區發展研究所",
+            "experience": "桃園縣第十五屆縣議員",
+            "created": "2014-07-16 22:42:59",
+            "modified": "2015-02-08 23:40:26"
+        },
+        "Election": {
+            "id": "53c40379-0dc4-43f0-b742-6d45acb5b862",
+            "population_electors": "315308",
+            "population": "416403",
+            "quota": "11",
+            "quota_women": "2",
+            "bulletin_key": "546e068d-b650-4e40-9da6-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01bf7-358c-42b2-948a-5460acb5b862",
+                    "name": "桃園區",
+                    "AreasElection": {
+                        "id": "53c40821-2da8-402c-8e58-6e01acb5b862",
+                        "Election_id": "53c40379-0dc4-43f0-b742-6d45acb5b862",
+                        "Area_id": "53c01bf7-358c-42b2-948a-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54df7334-51d0-4472-ad36-6c676ab936af",
+                "name": "2014當選隨即目標轉向立委",
+                "CandidatesTag": {
+                    "id": "551813e4-3294-42d5-99f5-17a06ab936af",
+                    "Candidate_id": "53c68f73-c1c8-4de2-bf1a-0f15acb5b862",
+                    "Tag_id": "54df7334-51d0-4472-ad36-6c676ab936af"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207d-ff5c-4dfe-98b5-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "桃園市",
+                "lft": "17",
+                "rght": "46",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c40379-0dc4-43f0-b742-6d45acb5b862",
+                "parent_id": "53c0207d-ff5c-4dfe-98b5-5c5aacb5b862",
+                "name": "第01選區[區域]",
+                "lft": "18",
+                "rght": "19",
+                "population": "416403",
+                "population_electors": "315308",
+                "quota": "11",
+                "quota_women": "2",
+                "bulletin_key": "546e068d-b650-4e40-9da6-1a32cf91e152",
+                "keywords": "2014-11,直轄市議員,桃園市,第01選區[區域]"
+            }
+        }
+    ]
+}

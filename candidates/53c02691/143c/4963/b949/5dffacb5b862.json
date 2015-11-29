@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02691-143c-4963-b949-5dffacb5b862",
+            "election_id": "53c02457-d438-43ab-8421-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1441",
+            "name": "黃文讚",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "高雄市",
+            "birth": "1957-12-24",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:40:51"
+        },
+        "Election": {
+            "id": "53c02457-d438-43ab-8421-5c5aacb5b862",
+            "population_electors": "2760",
+            "population": "3287",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54704b05-46fc-4c8a-b89b-1495cf91e152",
+            "Area": [
+                {
+                    "id": "53c01eb7-3108-4be6-afdb-5460acb5b862",
+                    "name": "智蚵里",
+                    "AreasElection": {
+                        "id": "53c02457-8b4c-4ba5-be4d-5c5aacb5b862",
+                        "Election_id": "53c02457-d438-43ab-8421-5c5aacb5b862",
+                        "Area_id": "53c01eb7-3108-4be6-afdb-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02456-8ce8-493e-9bc3-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "梓官區",
+                "lft": "14012",
+                "rght": "14043",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02457-d438-43ab-8421-5c5aacb5b862",
+                "parent_id": "53c02456-8ce8-493e-9bc3-5c5aacb5b862",
+                "name": "智蚵里",
+                "lft": "14025",
+                "rght": "14026",
+                "population": "3287",
+                "population_electors": "2760",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54704b05-46fc-4c8a-b89b-1495cf91e152",
+                "keywords": "2014-11,村里長,高雄市,梓官區,智蚵里"
+            }
+        }
+    ]
+}

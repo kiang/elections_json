@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b555a-0af4-40de-91ab-1926acb5b862",
+            "election_id": "53c021f6-9858-4cb4-9790-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "944",
+            "name": "黃中輝",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "專科",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1972-11-29",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:41:30",
+            "modified": "2015-02-08 23:45:00"
+        },
+        "Election": {
+            "id": "53c021f6-9858-4cb4-9790-5c5aacb5b862",
+            "population_electors": "2737",
+            "population": "3674",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546edee5-3a48-4fd5-811b-3ce1cf91e152",
+            "Area": [
+                {
+                    "id": "53c01cef-3298-4d40-b912-5460acb5b862",
+                    "name": "公安里",
+                    "AreasElection": {
+                        "id": "53c021f6-37dc-43a4-8c75-5c5aacb5b862",
+                        "Election_id": "53c021f6-9858-4cb4-9790-5c5aacb5b862",
+                        "Area_id": "53c01cef-3298-4d40-b912-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "6201",
+                "rght": "7018",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021f5-c158-4f44-9a45-5c5aacb5b862",
+                "parent_id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "name": "虎尾鎮",
+                "lft": "6326",
+                "rght": "6385",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021f6-9858-4cb4-9790-5c5aacb5b862",
+                "parent_id": "53c021f5-c158-4f44-9a45-5c5aacb5b862",
+                "name": "公安里",
+                "lft": "6335",
+                "rght": "6336",
+                "population": "3674",
+                "population_electors": "2737",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546edee5-3a48-4fd5-811b-3ce1cf91e152",
+                "keywords": "2014-11,村里長,雲林縣,虎尾鎮,公安里"
+            }
+        }
+    ]
+}

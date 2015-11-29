@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b552b-ed7c-4d40-814b-1926acb5b862",
+            "election_id": "53c021b5-b73c-484c-9571-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "334",
+            "name": "陳俊雄",
+            "image": "5471b54c\/6598\/45ed\/a96e\/458a8e043389.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1943-08-08",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:40:43",
+            "modified": "2015-02-08 23:44:47"
+        },
+        "Election": {
+            "id": "53c021b5-b73c-484c-9571-5c5aacb5b862",
+            "population_electors": "958",
+            "population": "1153",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-7554-49eb-80c2-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01cbe-1db0-477a-9a81-5460acb5b862",
+                    "name": "芳苑村",
+                    "AreasElection": {
+                        "id": "53c021b5-817c-4263-a1a1-5c5aacb5b862",
+                        "Election_id": "53c021b5-b73c-484c-9571-5c5aacb5b862",
+                        "Area_id": "53c01cbe-1db0-477a-9a81-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "4417",
+                "rght": "5648",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021b5-ea74-4391-9205-5c5aacb5b862",
+                "parent_id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "name": "芳苑鄉",
+                "lft": "5492",
+                "rght": "5545",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021b5-b73c-484c-9571-5c5aacb5b862",
+                "parent_id": "53c021b5-ea74-4391-9205-5c5aacb5b862",
+                "name": "芳苑村",
+                "lft": "5493",
+                "rght": "5494",
+                "population": "1153",
+                "population_electors": "958",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-7554-49eb-80c2-74a5cf91e152",
+                "keywords": "2014-11,村里長,彰化縣,芳苑鄉,芳苑村"
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5616-a558-479c-8705-1926acb5b862",
+            "election_id": "53c022e1-001c-4a80-b8ab-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "0",
+            "vote_count": "0",
+            "name": "張溫流",
+            "image": "",
+            "party": "中國國民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "0",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:44:38",
+            "modified": "2014-11-27 00:02:46"
+        },
+        "Election": {
+            "id": "53c022e1-001c-4a80-b8ab-5c5aacb5b862",
+            "population_electors": "1765",
+            "population": "2037",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546d8dba-d8cc-46a7-a4c3-0e51cf91e152",
+            "Area": [
+                {
+                    "id": "53c01dbb-8a94-4755-810a-5460acb5b862",
+                    "name": "豐濱村",
+                    "AreasElection": {
+                        "id": "53c022e1-d9d4-42d3-adbd-5c5aacb5b862",
+                        "Election_id": "53c022e1-001c-4a80-b8ab-5c5aacb5b862",
+                        "Area_id": "53c01dbb-8a94-4755-810a-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022cb-ff18-4c61-98a3-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "花蓮縣",
+                "lft": "9095",
+                "rght": "9476",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022e0-b9a0-4b58-90c7-5c5aacb5b862",
+                "parent_id": "53c022cb-ff18-4c61-98a3-5c5aacb5b862",
+                "name": "豐濱鄉",
+                "lft": "9364",
+                "rght": "9375",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022e1-001c-4a80-b8ab-5c5aacb5b862",
+                "parent_id": "53c022e0-b9a0-4b58-90c7-5c5aacb5b862",
+                "name": "豐濱村",
+                "lft": "9371",
+                "rght": "9372",
+                "population": "2037",
+                "population_electors": "1765",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546d8dba-d8cc-46a7-a4c3-0e51cf91e152",
+                "keywords": "2014-11,村里長,花蓮縣,豐濱鄉,豐濱村"
+            }
+        }
+    ]
+}

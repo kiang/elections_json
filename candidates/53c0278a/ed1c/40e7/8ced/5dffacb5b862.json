@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c0278a-ed1c-40e7-8ced-5dffacb5b862",
+            "election_id": "53c02382-5c74-45aa-a83f-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "608",
+            "name": "姜禮德",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "CHIANG LI TE",
+            "birth_place": "臺灣省",
+            "birth": "1955-06-01",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:41:47"
+        },
+        "Election": {
+            "id": "53c02382-5c74-45aa-a83f-5c5aacb5b862",
+            "population_electors": "1354",
+            "population": "1761",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "Area": [
+                {
+                    "id": "53c01c30-84a8-4558-a21e-5460acb5b862",
+                    "name": "後湖里",
+                    "AreasElection": {
+                        "id": "53c02382-682c-4047-afb2-5c5aacb5b862",
+                        "Election_id": "53c02382-5c74-45aa-a83f-5c5aacb5b862",
+                        "Area_id": "53c01c30-84a8-4558-a21e-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "桃園市",
+                "lft": "10439",
+                "rght": "11456",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02380-fef4-4ee1-858d-5c5aacb5b862",
+                "parent_id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "name": "新屋區",
+                "lft": "11336",
+                "rght": "11383",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02382-5c74-45aa-a83f-5c5aacb5b862",
+                "parent_id": "53c02380-fef4-4ee1-858d-5c5aacb5b862",
+                "name": "後湖里",
+                "lft": "11351",
+                "rght": "11352",
+                "population": "1761",
+                "population_electors": "1354",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2014-11,村里長,桃園市,新屋區,後湖里"
+            }
+        }
+    ]
+}

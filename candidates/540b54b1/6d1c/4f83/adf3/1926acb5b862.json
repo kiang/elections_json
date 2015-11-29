@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b54b1-6d1c-4f83-adf3-1926acb5b862",
+            "election_id": "53c02466-bf84-4324-80dc-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "426",
+            "name": "陳价臣",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "Chen Jie Chen",
+            "birth_place": "高雄市",
+            "birth": "1952-01-26",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:38:41",
+            "modified": "2015-02-08 23:40:53"
+        },
+        "Election": {
+            "id": "53c02466-bf84-4324-80dc-5c5aacb5b862",
+            "population_electors": "825",
+            "population": "947",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb721-b254-42bf-a942-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01ec4-1f70-4e53-91f9-5460acb5b862",
+                    "name": "內東里",
+                    "AreasElection": {
+                        "id": "53c02467-312c-4e2e-9c32-5c5aacb5b862",
+                        "Election_id": "53c02466-bf84-4324-80dc-5c5aacb5b862",
+                        "Area_id": "53c01ec4-1f70-4e53-91f9-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02465-a0bc-46fa-9c7d-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "內門區",
+                "lft": "14188",
+                "rght": "14225",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02466-bf84-4324-80dc-5c5aacb5b862",
+                "parent_id": "53c02465-a0bc-46fa-9c7d-5c5aacb5b862",
+                "name": "內東里",
+                "lft": "14205",
+                "rght": "14206",
+                "population": "947",
+                "population_electors": "825",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb721-b254-42bf-a942-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,內門區,內東里"
+            }
+        }
+    ]
+}

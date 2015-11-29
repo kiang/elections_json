@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c026ca-8738-4d4b-bebb-5dffacb5b862",
+            "election_id": "53c024d9-37fc-4d35-a227-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "461",
+            "name": "徐榮樹",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "新北市",
+            "birth": "1950-02-22",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:41:04"
+        },
+        "Election": {
+            "id": "53c024d9-37fc-4d35-a227-5c5aacb5b862",
+            "population_electors": "2004",
+            "population": "2438",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-80a0-4669-a738-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01f2d-ef5c-47eb-94f3-5460acb5b862",
+                    "name": "水源里",
+                    "AreasElection": {
+                        "id": "53c024d9-987c-46c3-ba29-5c5aacb5b862",
+                        "Election_id": "53c024d9-37fc-4d35-a227-5c5aacb5b862",
+                        "Area_id": "53c01f2d-ef5c-47eb-94f3-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新北市",
+                "lft": "14261",
+                "rght": "16384",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c024d7-fe64-4857-a2f6-5c5aacb5b862",
+                "parent_id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "name": "淡水區",
+                "lft": "15566",
+                "rght": "15651",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c024d9-37fc-4d35-a227-5c5aacb5b862",
+                "parent_id": "53c024d7-fe64-4857-a2f6-5c5aacb5b862",
+                "name": "水源里",
+                "lft": "15591",
+                "rght": "15592",
+                "population": "2438",
+                "population_electors": "2004",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-80a0-4669-a738-1a32cf91e152",
+                "keywords": "2014-11,村里長,新北市,淡水區,水源里"
+            }
+        }
+    ]
+}

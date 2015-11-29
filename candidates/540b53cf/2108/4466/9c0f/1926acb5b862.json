@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b53cf-2108-4466-9c0f-1926acb5b862",
+            "election_id": "53c02546-1f68-4e09-bafa-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "2767",
+            "name": "張永漢",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "專科",
+            "is_present": false,
+            "name_english": "CHANG YUNG HAN",
+            "birth_place": "其他省市",
+            "birth": "1966-03-30",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:34:55",
+            "modified": "2015-02-08 23:41:14"
+        },
+        "Election": {
+            "id": "53c02546-1f68-4e09-bafa-5c5aacb5b862",
+            "population_electors": "7954",
+            "population": "10233",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54704b05-35a0-48c0-960d-1495cf91e152",
+            "Area": [
+                {
+                    "id": "53c01f81-93f4-4067-a4d7-5460acb5b862",
+                    "name": "仁和里",
+                    "AreasElection": {
+                        "id": "53c02547-c9fc-4c36-846b-5c5aacb5b862",
+                        "Election_id": "53c02546-1f68-4e09-bafa-5c5aacb5b862",
+                        "Area_id": "53c01f81-93f4-4067-a4d7-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02542-30e8-4080-80d6-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "北屯區",
+                "lft": "16744",
+                "rght": "16829",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02546-1f68-4e09-bafa-5c5aacb5b862",
+                "parent_id": "53c02542-30e8-4080-80d6-5c5aacb5b862",
+                "name": "仁和里",
+                "lft": "16781",
+                "rght": "16782",
+                "population": "10233",
+                "population_electors": "7954",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54704b05-35a0-48c0-960d-1495cf91e152",
+                "keywords": "2014-11,村里長,臺中市,北屯區,仁和里"
+            }
+        }
+    ]
+}

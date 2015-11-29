@@ -1,0 +1,149 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5727-82c4-4cd9-85cd-1926acb5b862",
+            "election_id": "53d73346-d4b0-45d0-8809-1299acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1358",
+            "name": "陳國展",
+            "image": "561a5bef\/0ddc\/444e\/a530\/18d46ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "2",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "CHEN KUO CHAN",
+            "birth_place": "臺灣省",
+            "birth": "1945-11-20",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:49:11",
+            "modified": "2015-10-11 20:54:13"
+        },
+        "Election": {
+            "id": "53d73346-d4b0-45d0-8809-1299acb5b862",
+            "population_electors": "4739",
+            "population": "5940",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-7318-4ea5-a391-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01cb5-9750-4350-9d6d-5460acb5b862",
+                    "name": "中和里",
+                    "AreasElection": {
+                        "id": "53d73347-4f90-485f-9f6b-1299acb5b862",
+                        "Election_id": "53d73346-d4b0-45d0-8809-1299acb5b862",
+                        "Area_id": "53c01cb5-9750-4350-9d6d-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01cb5-e89c-4b93-8243-5460acb5b862",
+                    "name": "新生里",
+                    "AreasElection": {
+                        "id": "53d73347-ac34-425f-838c-1299acb5b862",
+                        "Election_id": "53d73346-d4b0-45d0-8809-1299acb5b862",
+                        "Area_id": "53c01cb5-e89c-4b93-8243-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01cb6-9330-4c4f-aa39-5460acb5b862",
+                    "name": "大新里",
+                    "AreasElection": {
+                        "id": "53d73347-fb80-403f-a62b-1299acb5b862",
+                        "Election_id": "53d73346-d4b0-45d0-8809-1299acb5b862",
+                        "Area_id": "53c01cb6-9330-4c4f-aa39-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020bb-fd28-4ab5-ad62-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "1497",
+                "rght": "1738",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020bf-b5e8-4ec7-99f8-5c5aacb5b862",
+                "parent_id": "53c020bb-fd28-4ab5-ad62-5c5aacb5b862",
+                "name": "北斗鎮",
+                "lft": "1658",
+                "rght": "1667",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d73346-d4b0-45d0-8809-1299acb5b862",
+                "parent_id": "53c020bf-b5e8-4ec7-99f8-5c5aacb5b862",
+                "name": "第04選舉區[區域]",
+                "lft": "1665",
+                "rght": "1666",
+                "population": "5940",
+                "population_electors": "4739",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-7318-4ea5-a391-74a5cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,彰化縣,北斗鎮,第04選舉區[區域]"
+            }
+        }
+    ]
+}

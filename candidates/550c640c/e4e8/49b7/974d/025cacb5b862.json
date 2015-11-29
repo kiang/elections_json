@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "550c640c-e4e8-49b7-974d-025cacb5b862",
+            "election_id": "550867a9-c568-41b7-9ea7-23d86ab936af",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "0",
+            "name": "陳雪生",
+            "image": "55b3b27b\/3724\/44c3\/9688\/09286ab936af.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": null,
+            "education_level": "",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2015-03-21 02:16:44",
+            "modified": "2015-11-29 03:28:36"
+        },
+        "Election": {
+            "id": "550867a9-c568-41b7-9ea7-23d86ab936af",
+            "population_electors": "0",
+            "population": "0",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "Area": [
+                {
+                    "id": "55085939-d85c-4539-9932-3584acb5b862",
+                    "name": "連江縣",
+                    "AreasElection": {
+                        "id": "550a75a2-8dd4-4a25-b7e3-494a6ab936af",
+                        "Election_id": "550867a9-c568-41b7-9ea7-23d86ab936af",
+                        "Area_id": "55085939-d85c-4539-9932-3584acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "55085db5-2e9c-4cde-8103-23d86ab936af",
+                "parent_id": null,
+                "name": "2016-01",
+                "lft": "40579",
+                "rght": "40780",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "55085e1a-c494-40e0-ba31-2f916ab936af",
+                "parent_id": "55085db5-2e9c-4cde-8103-23d86ab936af",
+                "name": "立法委員",
+                "lft": "40582",
+                "rght": "40779",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "55086390-2ce8-47e4-933b-2f916ab936af",
+                "parent_id": "55085e1a-c494-40e0-ba31-2f916ab936af",
+                "name": "連江縣",
+                "lft": "40769",
+                "rght": "40772",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "550867a9-c568-41b7-9ea7-23d86ab936af",
+                "parent_id": "55086390-2ce8-47e4-933b-2f916ab936af",
+                "name": "第01選區[區域]",
+                "lft": "40770",
+                "rght": "40771",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2016-01,立法委員,連江縣,第01選區[區域]"
+            }
+        }
+    ]
+}

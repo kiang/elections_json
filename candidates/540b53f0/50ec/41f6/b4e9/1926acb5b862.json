@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b53f0-50ec-41f6-b4e9-1926acb5b862",
+            "election_id": "53c02582-55e0-4fbd-b968-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "120",
+            "name": "鍾文龍",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "大學",
+            "is_present": false,
+            "name_english": "CHUNG WEN LONG",
+            "birth_place": "臺中市",
+            "birth": "1981-06-25",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:35:28",
+            "modified": "2015-02-08 23:41:20"
+        },
+        "Election": {
+            "id": "53c02582-55e0-4fbd-b968-5c5aacb5b862",
+            "population_electors": "3307",
+            "population": "4050",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c616e-14f0-46ab-8af4-5806cf91e152",
+            "Area": [
+                {
+                    "id": "53c01fb1-0370-4101-84a0-5460acb5b862",
+                    "name": "自強里",
+                    "AreasElection": {
+                        "id": "53c02582-83a4-45e8-89f5-5c5aacb5b862",
+                        "Election_id": "53c02582-55e0-4fbd-b968-5c5aacb5b862",
+                        "Area_id": "53c01fb1-0370-4101-84a0-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02580-0638-4d38-8de6-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "大肚區",
+                "lft": "17428",
+                "rght": "17463",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02582-55e0-4fbd-b968-5c5aacb5b862",
+                "parent_id": "53c02580-0638-4d38-8de6-5c5aacb5b862",
+                "name": "自強里",
+                "lft": "17451",
+                "rght": "17452",
+                "population": "4050",
+                "population_electors": "3307",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c616e-14f0-46ab-8af4-5806cf91e152",
+                "keywords": "2014-11,村里長,臺中市,大肚區,自強里"
+            }
+        }
+    ]
+}

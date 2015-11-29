@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b555c-7e54-4a1c-a72a-1926acb5b862",
+            "election_id": "53c021f7-ad4c-442e-b658-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "781",
+            "name": "郭惠珍",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1974-08-24",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:41:32",
+            "modified": "2015-02-08 23:45:00"
+        },
+        "Election": {
+            "id": "53c021f7-ad4c-442e-b658-5c5aacb5b862",
+            "population_electors": "1866",
+            "population": "2385",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546edee5-8938-4683-8418-3ce1cf91e152",
+            "Area": [
+                {
+                    "id": "53c01cf0-299c-47ea-ac7e-5460acb5b862",
+                    "name": "穎川里",
+                    "AreasElection": {
+                        "id": "53c021f7-7528-46f0-85e5-5c5aacb5b862",
+                        "Election_id": "53c021f7-ad4c-442e-b658-5c5aacb5b862",
+                        "Area_id": "53c01cf0-299c-47ea-ac7e-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "6201",
+                "rght": "7018",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021f5-c158-4f44-9a45-5c5aacb5b862",
+                "parent_id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "name": "虎尾鎮",
+                "lft": "6326",
+                "rght": "6385",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021f7-ad4c-442e-b658-5c5aacb5b862",
+                "parent_id": "53c021f5-c158-4f44-9a45-5c5aacb5b862",
+                "name": "穎川里",
+                "lft": "6347",
+                "rght": "6348",
+                "population": "2385",
+                "population_electors": "1866",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546edee5-8938-4683-8418-3ce1cf91e152",
+                "keywords": "2014-11,村里長,雲林縣,虎尾鎮,穎川里"
+            }
+        }
+    ]
+}

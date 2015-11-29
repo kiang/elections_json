@@ -1,0 +1,139 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b530e-1bf8-48cd-af05-1926acb5b862",
+            "election_id": "53c023d0-7dfc-4c17-94b8-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "438",
+            "name": "林聖峰",
+            "image": null,
+            "party": "天宙和平統一家庭黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "碩士",
+            "is_present": false,
+            "name_english": "Lin Sheng Feng",
+            "birth_place": "新北市",
+            "birth": "1978-03-15",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:31:42",
+            "modified": "2015-02-08 23:40:36"
+        },
+        "Election": {
+            "id": "53c023d0-7dfc-4c17-94b8-5c5aacb5b862",
+            "population_electors": "3644",
+            "population": "4462",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-3ec4-4bfe-9c90-4187cf91e152",
+            "Area": [
+                {
+                    "id": "53c01e41-5e08-4353-9888-5460acb5b862",
+                    "name": "文林里",
+                    "AreasElection": {
+                        "id": "53c023d0-bb74-4bfe-9954-5c5aacb5b862",
+                        "Election_id": "53c023d0-7dfc-4c17-94b8-5c5aacb5b862",
+                        "Area_id": "53c01e41-5e08-4353-9888-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "5413114a-9f6c-472d-a348-2c4dcb455a61",
+                "name": "2014天宙和平統一家庭黨",
+                "CandidatesTag": {
+                    "id": "54131159-984c-4525-8339-2c4dcb455a61",
+                    "Candidate_id": "540b530e-1bf8-48cd-af05-1926acb5b862",
+                    "Tag_id": "5413114a-9f6c-472d-a348-2c4dcb455a61"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023cf-48cc-46fc-8762-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "北投區",
+                "lft": "12308",
+                "rght": "12393",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d0-7dfc-4c17-94b8-5c5aacb5b862",
+                "parent_id": "53c023cf-48cc-46fc-8762-5c5aacb5b862",
+                "name": "文林里",
+                "lft": "12313",
+                "rght": "12314",
+                "population": "4462",
+                "population_electors": "3644",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-3ec4-4bfe-9c90-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,北投區,文林里"
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02781-2ae8-4cdf-bcad-5dffacb5b862",
+            "election_id": "53c02370-cc98-4636-963c-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "925",
+            "name": "陳虹樺",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "CHEN HUNG HUA",
+            "birth_place": "臺灣省",
+            "birth": "1969-07-06",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:41:45"
+        },
+        "Election": {
+            "id": "53c02370-cc98-4636-963c-5c5aacb5b862",
+            "population_electors": "3609",
+            "population": "4307",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-7918-4bca-849f-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c23-9b94-4ad9-8dfd-5460acb5b862",
+                    "name": "大信里",
+                    "AreasElection": {
+                        "id": "53c02370-4a84-4dcc-aaf6-5c5aacb5b862",
+                        "Election_id": "53c02370-cc98-4636-963c-5c5aacb5b862",
+                        "Area_id": "53c01c23-9b94-4ad9-8dfd-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "桃園市",
+                "lft": "10439",
+                "rght": "11456",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0236d-660c-4ea4-aedb-5c5aacb5b862",
+                "parent_id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "name": "八德區",
+                "lft": "11082",
+                "rght": "11179",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02370-cc98-4636-963c-5c5aacb5b862",
+                "parent_id": "53c0236d-660c-4ea4-aedb-5c5aacb5b862",
+                "name": "大信里",
+                "lft": "11129",
+                "rght": "11130",
+                "population": "4307",
+                "population_electors": "3609",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-7918-4bca-849f-1a32cf91e152",
+                "keywords": "2014-11,村里長,桃園市,八德區,大信里"
+            }
+        }
+    ]
+}

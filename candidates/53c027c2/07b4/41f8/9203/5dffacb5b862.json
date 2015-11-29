@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c027c2-07b4-41f8-9203-5dffacb5b862",
+            "election_id": "53c0217e-a9ac-4d69-b962-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "852",
+            "name": "黃耀輝",
+            "image": "54636ff7\/f27c\/4406\/b5ae\/2a2e8e043389.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "HUANG YAO HUI",
+            "birth_place": "臺灣省",
+            "birth": "1961-06-28",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:44:41"
+        },
+        "Election": {
+            "id": "53c0217e-a9ac-4d69-b962-5c5aacb5b862",
+            "population_electors": "1246",
+            "population": "1613",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-2ea8-4155-9ab5-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c90-cd6c-4be5-ba2f-5460acb5b862",
+                    "name": "福寶村",
+                    "AreasElection": {
+                        "id": "53c0217f-6e50-4342-9425-5c5aacb5b862",
+                        "Election_id": "53c0217e-a9ac-4d69-b962-5c5aacb5b862",
+                        "Area_id": "53c01c90-cd6c-4be5-ba2f-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "4417",
+                "rght": "5648",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0217c-67d0-4b5a-b92f-5c5aacb5b862",
+                "parent_id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "name": "福興鄉",
+                "lft": "4740",
+                "rght": "4785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0217e-a9ac-4d69-b962-5c5aacb5b862",
+                "parent_id": "53c0217c-67d0-4b5a-b92f-5c5aacb5b862",
+                "name": "福寶村",
+                "lft": "4781",
+                "rght": "4782",
+                "population": "1613",
+                "population_electors": "1246",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-2ea8-4155-9ab5-74a5cf91e152",
+                "keywords": "2014-11,村里長,彰化縣,福興鄉,福寶村"
+            }
+        }
+    ]
+}

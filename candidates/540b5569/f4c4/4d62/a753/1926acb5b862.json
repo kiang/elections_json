@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5569-f4c4-4d62-a753-1926acb5b862",
+            "election_id": "53c02208-3014-466a-a0c8-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "209",
+            "name": "方新倫",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "3",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1951-05-15",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:41:45",
+            "modified": "2015-02-08 23:45:02"
+        },
+        "Election": {
+            "id": "53c02208-3014-466a-a0c8-5c5aacb5b862",
+            "population_electors": "1792",
+            "population": "2165",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546ebd71-bb0c-4cdd-babf-2c67cf91e152",
+            "Area": [
+                {
+                    "id": "53c01cff-1814-480c-80ff-5460acb5b862",
+                    "name": "尚義村",
+                    "AreasElection": {
+                        "id": "53c02208-bce0-4ca8-8b5f-5c5aacb5b862",
+                        "Election_id": "53c02208-3014-466a-a0c8-5c5aacb5b862",
+                        "Area_id": "53c01cff-1814-480c-80ff-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "6201",
+                "rght": "7018",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02208-b920-42e2-bbdf-5c5aacb5b862",
+                "parent_id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "name": "大埤鄉",
+                "lft": "6578",
+                "rght": "6609",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02208-3014-466a-a0c8-5c5aacb5b862",
+                "parent_id": "53c02208-b920-42e2-bbdf-5c5aacb5b862",
+                "name": "尚義村",
+                "lft": "6579",
+                "rght": "6580",
+                "population": "2165",
+                "population_electors": "1792",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546ebd71-bb0c-4cdd-babf-2c67cf91e152",
+                "keywords": "2014-11,村里長,雲林縣,大埤鄉,尚義村"
+            }
+        }
+    ]
+}

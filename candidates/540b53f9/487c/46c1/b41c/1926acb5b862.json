@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b53f9-487c-46c1-b41c-1926acb5b862",
+            "election_id": "53c02594-b3bc-4b51-a017-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "638",
+            "name": "徐全傑",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺中市",
+            "birth": "1980-02-19",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:35:37",
+            "modified": "2015-02-08 23:41:22"
+        },
+        "Election": {
+            "id": "53c02594-b3bc-4b51-a017-5c5aacb5b862",
+            "population_electors": "4100",
+            "population": "5156",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c8095-bbdc-4875-8f56-61a3cf91e152",
+            "Area": [
+                {
+                    "id": "53c01fbd-8874-42f5-88cc-5460acb5b862",
+                    "name": "健民里",
+                    "AreasElection": {
+                        "id": "53c02594-f604-494c-adfd-5c5aacb5b862",
+                        "Election_id": "53c02594-b3bc-4b51-a017-5c5aacb5b862",
+                        "Area_id": "53c01fbd-8874-42f5-88cc-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02592-6284-46c8-b7fd-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "大里區",
+                "lft": "17620",
+                "rght": "17675",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02594-b3bc-4b51-a017-5c5aacb5b862",
+                "parent_id": "53c02592-6284-46c8-b7fd-5c5aacb5b862",
+                "name": "健民里",
+                "lft": "17643",
+                "rght": "17644",
+                "population": "5156",
+                "population_electors": "4100",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c8095-bbdc-4875-8f56-61a3cf91e152",
+                "keywords": "2014-11,村里長,臺中市,大里區,健民里"
+            }
+        }
+    ]
+}

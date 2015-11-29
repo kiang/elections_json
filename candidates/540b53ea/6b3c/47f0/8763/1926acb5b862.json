@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b53ea-6b3c-47f0-8763-1926acb5b862",
+            "election_id": "53c02577-1380-4117-96d1-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "297",
+            "name": "林鎮城",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺中市",
+            "birth": "1961-07-27",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:35:22",
+            "modified": "2015-02-08 23:41:19"
+        },
+        "Election": {
+            "id": "53c02577-1380-4117-96d1-5c5aacb5b862",
+            "population_electors": "1756",
+            "population": "2184",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c63e0-64ac-4ed8-b43a-5b06cf91e152",
+            "Area": [
+                {
+                    "id": "53c01fa8-2654-467f-92de-5460acb5b862",
+                    "name": "梅子里",
+                    "AreasElection": {
+                        "id": "53c02577-504c-4803-8d11-5c5aacb5b862",
+                        "Election_id": "53c02577-1380-4117-96d1-5c5aacb5b862",
+                        "Area_id": "53c01fa8-2654-467f-92de-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02577-3aa8-4bcd-95b8-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "石岡區",
+                "lft": "17322",
+                "rght": "17343",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02577-1380-4117-96d1-5c5aacb5b862",
+                "parent_id": "53c02577-3aa8-4bcd-95b8-5c5aacb5b862",
+                "name": "梅子里",
+                "lft": "17327",
+                "rght": "17328",
+                "population": "2184",
+                "population_electors": "1756",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c63e0-64ac-4ed8-b43a-5b06cf91e152",
+                "keywords": "2014-11,村里長,臺中市,石岡區,梅子里"
+            }
+        }
+    ]
+}

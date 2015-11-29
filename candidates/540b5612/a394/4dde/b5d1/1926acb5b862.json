@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5612-a394-4dde-b5d1-1926acb5b862",
+            "election_id": "53c022dc-91d0-409b-9251-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "175",
+            "name": "梁錦源",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "4",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "Liang Chin Yuan",
+            "birth_place": "臺中市",
+            "birth": "1952-04-20",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:44:34",
+            "modified": "2015-02-08 23:45:26"
+        },
+        "Election": {
+            "id": "53c022dc-91d0-409b-9251-5c5aacb5b862",
+            "population_electors": "1038",
+            "population": "1221",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546d8db9-5d08-42f0-8a39-0e51cf91e152",
+            "Area": [
+                {
+                    "id": "53c01db6-a578-4785-973d-5460acb5b862",
+                    "name": "溪口村",
+                    "AreasElection": {
+                        "id": "53c022dc-4ab0-4173-b5c7-5c5aacb5b862",
+                        "Election_id": "53c022dc-91d0-409b-9251-5c5aacb5b862",
+                        "Area_id": "53c01db6-a578-4785-973d-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022cb-ff18-4c61-98a3-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "花蓮縣",
+                "lft": "9095",
+                "rght": "9476",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022db-4014-4bc8-abe0-5c5aacb5b862",
+                "parent_id": "53c022cb-ff18-4c61-98a3-5c5aacb5b862",
+                "name": "壽豐鄉",
+                "lft": "9302",
+                "rght": "9333",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022dc-91d0-409b-9251-5c5aacb5b862",
+                "parent_id": "53c022db-4014-4bc8-abe0-5c5aacb5b862",
+                "name": "溪口村",
+                "lft": "9305",
+                "rght": "9306",
+                "population": "1221",
+                "population_electors": "1038",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546d8db9-5d08-42f0-8a39-0e51cf91e152",
+                "keywords": "2014-11,村里長,花蓮縣,壽豐鄉,溪口村"
+            }
+        }
+    ]
+}

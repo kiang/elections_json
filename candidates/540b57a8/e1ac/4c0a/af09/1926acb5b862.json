@@ -1,0 +1,158 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b57a8-e1ac-4c0a-af09-1926acb5b862",
+            "election_id": "53d73470-fef4-46f9-b21a-1299acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "28",
+            "name": "廖文哲",
+            "image": "54cb71a7\/b0c0\/4c6c\/90dc\/43816ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "6",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:51:20",
+            "modified": "2015-02-08 23:44:00"
+        },
+        "Election": {
+            "id": "53d73470-fef4-46f9-b21a-1299acb5b862",
+            "population_electors": "3197",
+            "population": "3944",
+            "quota": "3",
+            "quota_women": "0",
+            "bulletin_key": "5475673a-c5bc-4d8a-b4ae-0f78cf91e152",
+            "Area": [
+                {
+                    "id": "53c01d88-2d08-4e40-bdaf-5460acb5b862",
+                    "name": "福興村",
+                    "AreasElection": {
+                        "id": "53d73470-8634-45dd-b710-1299acb5b862",
+                        "Election_id": "53d73470-fef4-46f9-b21a-1299acb5b862",
+                        "Area_id": "53c01d88-2d08-4e40-bdaf-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01d88-79c4-40e2-b5f9-5460acb5b862",
+                    "name": "統埔村",
+                    "AreasElection": {
+                        "id": "53d73470-6264-477a-9ea1-1299acb5b862",
+                        "Election_id": "53d73470-fef4-46f9-b21a-1299acb5b862",
+                        "Area_id": "53c01d88-79c4-40e2-b5f9-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01d88-d34c-4b32-a725-5460acb5b862",
+                    "name": "福安村",
+                    "AreasElection": {
+                        "id": "53d73470-ba08-4605-8d4d-1299acb5b862",
+                        "Election_id": "53d73470-fef4-46f9-b21a-1299acb5b862",
+                        "Area_id": "53c01d88-d34c-4b32-a725-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01d89-05fc-44f8-a668-5460acb5b862",
+                    "name": "溫泉村",
+                    "AreasElection": {
+                        "id": "53d73470-0cf8-46ef-a0aa-1299acb5b862",
+                        "Election_id": "53d73470-fef4-46f9-b21a-1299acb5b862",
+                        "Area_id": "53c01d89-05fc-44f8-a668-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ce-0798-4ae9-af49-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "2197",
+                "rght": "2484",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020d7-33cc-410d-ac58-5c5aacb5b862",
+                "parent_id": "53c020ce-0798-4ae9-af49-5c5aacb5b862",
+                "name": "車城鄉",
+                "lft": "2408",
+                "rght": "2417",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d73470-fef4-46f9-b21a-1299acb5b862",
+                "parent_id": "53c020d7-33cc-410d-ac58-5c5aacb5b862",
+                "name": "第02選舉區[區域]",
+                "lft": "2411",
+                "rght": "2412",
+                "population": "3944",
+                "population_electors": "3197",
+                "quota": "3",
+                "quota_women": "0",
+                "bulletin_key": "5475673a-c5bc-4d8a-b4ae-0f78cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,屏東縣,車城鄉,第02選舉區[區域]"
+            }
+        }
+    ]
+}

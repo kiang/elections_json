@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b53ab-2d90-4ee4-9883-1926acb5b862",
+            "election_id": "53c02378-afbc-43bb-9800-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "750",
+            "name": "朱龍翔",
+            "image": "",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺南市",
+            "birth": "1964-02-20",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:34:19",
+            "modified": "2015-02-08 23:41:46"
+        },
+        "Election": {
+            "id": "53c02378-afbc-43bb-9800-5c5aacb5b862",
+            "population_electors": "2666",
+            "population": "3385",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54735d59-d338-460e-98da-21eacf91e152",
+            "Area": [
+                {
+                    "id": "53c01c29-e558-4dbe-93ca-5460acb5b862",
+                    "name": "永興里",
+                    "AreasElection": {
+                        "id": "53c02378-cd08-44f0-94ee-5c5aacb5b862",
+                        "Election_id": "53c02378-afbc-43bb-9800-5c5aacb5b862",
+                        "Area_id": "53c01c29-e558-4dbe-93ca-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "桃園市",
+                "lft": "10439",
+                "rght": "11456",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02374-a550-404f-9e2d-5c5aacb5b862",
+                "parent_id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "name": "龍潭區",
+                "lft": "11180",
+                "rght": "11241",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02378-afbc-43bb-9800-5c5aacb5b862",
+                "parent_id": "53c02374-a550-404f-9e2d-5c5aacb5b862",
+                "name": "永興里",
+                "lft": "11225",
+                "rght": "11226",
+                "population": "3385",
+                "population_electors": "2666",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54735d59-d338-460e-98da-21eacf91e152",
+                "keywords": "2014-11,村里長,桃園市,龍潭區,永興里"
+            }
+        }
+    ]
+}

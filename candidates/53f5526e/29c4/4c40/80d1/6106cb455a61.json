@@ -1,0 +1,139 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53f5526e-29c4-4c40-80d1-6106cb455a61",
+            "election_id": "53c024a5-ce4c-477a-8118-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "193",
+            "name": "周素戀",
+            "image": "",
+            "party": "民主進步黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "f",
+            "no": "2",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1961-02-20",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-08-21 09:59:10",
+            "modified": "2015-02-08 23:40:59"
+        },
+        "Election": {
+            "id": "53c024a5-ce4c-477a-8118-5c5aacb5b862",
+            "population_electors": "2591",
+            "population": "3130",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-b1f0-4c5a-82b9-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01f01-31e4-43a5-a17a-5460acb5b862",
+                    "name": "秀成里",
+                    "AreasElection": {
+                        "id": "53c024a5-12ec-45dd-a977-5c5aacb5b862",
+                        "Election_id": "53c024a5-ce4c-477a-8118-5c5aacb5b862",
+                        "Area_id": "53c01f01-31e4-43a5-a17a-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "5413037f-7514-40be-8e73-7204cb455a61",
+                "name": "2014大家來選村里長啟航秀",
+                "CandidatesTag": {
+                    "id": "541303c0-8754-4d06-8ebd-7204cb455a61",
+                    "Candidate_id": "53f5526e-29c4-4c40-80d1-6106cb455a61",
+                    "Tag_id": "5413037f-7514-40be-8e73-7204cb455a61"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新北市",
+                "lft": "14261",
+                "rght": "16384",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c024a3-a5b8-4809-908e-5c5aacb5b862",
+                "parent_id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "name": "永和區",
+                "lft": "14944",
+                "rght": "15069",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c024a5-ce4c-477a-8118-5c5aacb5b862",
+                "parent_id": "53c024a3-a5b8-4809-908e-5c5aacb5b862",
+                "name": "秀成里",
+                "lft": "14975",
+                "rght": "14976",
+                "population": "3130",
+                "population_electors": "2591",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-b1f0-4c5a-82b9-1a32cf91e152",
+                "keywords": "2014-11,村里長,新北市,永和區,秀成里"
+            }
+        }
+    ]
+}

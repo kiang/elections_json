@@ -1,0 +1,124 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b568b-285c-4e95-ae42-1926acb5b862",
+            "election_id": "53c4037f-e47c-4242-84a2-6d45acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "5000",
+            "name": "羅銀珍",
+            "image": "544118a1\/c830\/4dc5\/9808\/542d8e043389.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "臉書 http:\/\/www.facebook.com\/profile.php?id=100004610375033\\n鄉民參政行動聯盟羅銀珍競選座談會 http:\/\/www.ptt.cc\/bbs\/PublicIssue\/M.1410803644.A.D61.html",
+            "gender": "f",
+            "no": "8",
+            "education_level": "專科",
+            "is_present": false,
+            "name_english": "LO YIN CNEN",
+            "birth_place": "臺灣省",
+            "birth": "1956-02-17",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:46:35",
+            "modified": "2015-02-08 23:40:28"
+        },
+        "Election": {
+            "id": "53c4037f-e47c-4242-84a2-6d45acb5b862",
+            "population_electors": "90285",
+            "population": "116150",
+            "quota": "3",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-b650-4e40-9da6-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c26-8000-4911-b127-5460acb5b862",
+                    "name": "龍潭區",
+                    "AreasElection": {
+                        "id": "53c40822-7eb8-490a-8c2b-6e01acb5b862",
+                        "Election_id": "53c4037f-e47c-4242-84a2-6d45acb5b862",
+                        "Area_id": "53c01c26-8000-4911-b127-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54619d23-ee3c-422d-83a8-08ce8e043389",
+                "name": "2014鄉民參政行動聯盟訪談",
+                "CandidatesTag": {
+                    "id": "5466099f-29cc-4523-a313-5cc98e043389",
+                    "Candidate_id": "540b568b-285c-4e95-ae42-1926acb5b862",
+                    "Tag_id": "54619d23-ee3c-422d-83a8-08ce8e043389"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207d-ff5c-4dfe-98b5-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "桃園市",
+                "lft": "17",
+                "rght": "46",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c4037f-e47c-4242-84a2-6d45acb5b862",
+                "parent_id": "53c0207d-ff5c-4dfe-98b5-5c5aacb5b862",
+                "name": "第10選區[區域]",
+                "lft": "36",
+                "rght": "37",
+                "population": "116150",
+                "population_electors": "90285",
+                "quota": "3",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-b650-4e40-9da6-1a32cf91e152",
+                "keywords": "2014-11,直轄市議員,桃園市,第10選區[區域]"
+            }
+        }
+    ]
+}

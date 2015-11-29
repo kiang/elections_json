@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "5406a619-a080-4a0d-a3eb-15b8acb5b862",
+            "election_id": "53c020ac-4154-433c-ad14-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "0",
+            "vote_count": "0",
+            "name": "陳振中",
+            "image": "548afc62\/1870\/4f48\/96b6\/051f6ab936af.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "0",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "文化大學經濟系畢 中山大學公共事務碩士學分班結業",
+            "experience": "澎湖縣政府辦事員 湖西鄉公所村幹事 湖西鄉立中正圖書館管理員 湖西鄉公所秘書",
+            "created": "2014-09-03 13:24:41",
+            "modified": "2014-12-12 22:49:43"
+        },
+        "Election": {
+            "id": "53c020ac-4154-433c-ad14-5c5aacb5b862",
+            "population_electors": "11859",
+            "population": "14260",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068f-e9ac-43a5-b246-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01dc6-b2b4-4b2f-9628-5460acb5b862",
+                    "name": "湖西鄉",
+                    "AreasElection": {
+                        "id": "53c020ac-dfec-4bb6-a17c-5c5aacb5b862",
+                        "Election_id": "53c020ac-4154-433c-ad14-5c5aacb5b862",
+                        "Area_id": "53c01dc6-b2b4-4b2f-9628-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市長",
+                "lft": "608",
+                "rght": "1031",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ab-ea3c-4517-b96b-5c5aacb5b862",
+                "parent_id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "name": "澎湖縣",
+                "lft": "1017",
+                "rght": "1030",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ac-4154-433c-ad14-5c5aacb5b862",
+                "parent_id": "53c020ab-ea3c-4517-b96b-5c5aacb5b862",
+                "name": "湖西鄉",
+                "lft": "1020",
+                "rght": "1021",
+                "population": "14260",
+                "population_electors": "11859",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068f-e9ac-43a5-b246-1a32cf91e152",
+                "keywords": "2014-11,鄉鎮市長,澎湖縣,湖西鄉"
+            }
+        }
+    ]
+}

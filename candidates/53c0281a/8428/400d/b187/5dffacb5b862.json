@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c0281a-8428-400d-b187-5dffacb5b862",
+            "election_id": "53c02225-0940-49ec-95b5-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "483",
+            "name": "曾瑪琍",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1952-06-12",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:45:06"
+        },
+        "Election": {
+            "id": "53c02225-0940-49ec-95b5-5c5aacb5b862",
+            "population_electors": "866",
+            "population": "993",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54744c85-32c8-413b-b1b2-45dccf91e152",
+            "Area": [
+                {
+                    "id": "53c01d16-6d94-48c1-96c2-5460acb5b862",
+                    "name": "港西村",
+                    "AreasElection": {
+                        "id": "53c02225-206c-48ef-8589-5c5aacb5b862",
+                        "Election_id": "53c02225-0940-49ec-95b5-5c5aacb5b862",
+                        "Area_id": "53c01d16-6d94-48c1-96c2-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "6201",
+                "rght": "7018",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02223-dbd4-4252-afb7-5c5aacb5b862",
+                "parent_id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "name": "口湖鄉",
+                "lft": "6924",
+                "rght": "6967",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02225-0940-49ec-95b5-5c5aacb5b862",
+                "parent_id": "53c02223-dbd4-4252-afb7-5c5aacb5b862",
+                "name": "港西村",
+                "lft": "6947",
+                "rght": "6948",
+                "population": "993",
+                "population_electors": "866",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54744c85-32c8-413b-b1b2-45dccf91e152",
+                "keywords": "2014-11,村里長,雲林縣,口湖鄉,港西村"
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c0288d-4e98-4d9a-a1b1-5dffacb5b862",
+            "election_id": "53c02314-9578-4849-981b-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "900",
+            "name": "黃元良",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "專科",
+            "is_present": true,
+            "name_english": "Huang Yuan Liang",
+            "birth_place": "臺灣省",
+            "birth": "1965-05-02",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:45:33"
+        },
+        "Election": {
+            "id": "53c02314-9578-4849-981b-5c5aacb5b862",
+            "population_electors": "1780",
+            "population": "2056",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546cd3af-0268-4551-a10c-78ebcf91e152",
+            "Area": [
+                {
+                    "id": "53c01de4-79d0-4029-8f4b-5460acb5b862",
+                    "name": "東光里",
+                    "AreasElection": {
+                        "id": "53c02314-3c04-4bfb-99c0-5c5aacb5b862",
+                        "Election_id": "53c02314-9578-4849-981b-5c5aacb5b862",
+                        "Area_id": "53c01de4-79d0-4029-8f4b-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "基隆市",
+                "lft": "9683",
+                "rght": "10012",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02311-b468-4eac-a0ef-5c5aacb5b862",
+                "parent_id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "name": "信義區",
+                "lft": "9970",
+                "rght": "10011",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02314-9578-4849-981b-5c5aacb5b862",
+                "parent_id": "53c02311-b468-4eac-a0ef-5c5aacb5b862",
+                "name": "東光里",
+                "lft": "9999",
+                "rght": "10000",
+                "population": "2056",
+                "population_electors": "1780",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546cd3af-0268-4551-a10c-78ebcf91e152",
+                "keywords": "2014-11,村里長,基隆市,信義區,東光里"
+            }
+        }
+    ]
+}

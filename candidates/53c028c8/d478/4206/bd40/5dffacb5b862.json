@@ -1,0 +1,101 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c028c8-d478-4206-bd40-5dffacb5b862",
+            "election_id": "53c02082-c6cc-47ff-9c94-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "101010",
+            "name": "林右昌",
+            "image": "542d6425\/a2cc\/4469\/bc16\/2009cb455a61.jpg",
+            "party": "民主進步黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "\\n臉書 http:\/\/www.facebook.com\/uchange.keelung",
+            "gender": "m",
+            "no": "3",
+            "education_level": "碩士",
+            "is_present": false,
+            "name_english": "LIN YU CHANG",
+            "birth_place": "臺灣省",
+            "birth": "1971-03-10",
+            "platform": "",
+            "education": "基隆市成功國小\\n基隆市建德國小\\n基隆市建德國中\\n基隆高中\\n文化大學造園暨景觀學系\\n國立臺灣大學建築與城鄉研究所",
+            "experience": "民進黨中央黨部發言人\\n立委基隆聯合服務中心督導\\n行政院游錫堃院長辦公室參議\\n總統府游錫堃秘書長專委\\n民進黨主席特助兼辦公室主任\\n民進黨中央黨部社發部主任\\n民進黨第十二屆中央執行委員\\n臺灣城市競爭力發展協會理事長\\n基隆市林姓宗親會副理事長\\n基隆市仁愛國小家長會副會長",
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:41:49"
+        },
+        "Election": {
+            "id": "53c02082-c6cc-47ff-9c94-5c5aacb5b862",
+            "population_electors": "304786",
+            "population": "373597",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-508c-4cd2-9b15-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01dcf-a8d8-47b0-984f-5460acb5b862",
+                    "name": "基隆市",
+                    "AreasElection": {
+                        "id": "53c02082-eae0-486c-90a4-5c5aacb5b862",
+                        "Election_id": "53c02082-c6cc-47ff-9c94-5c5aacb5b862",
+                        "Area_id": "53c01dcf-a8d8-47b0-984f-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-cfc8-4ab5-a63b-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "縣市長",
+                "lft": "272",
+                "rght": "305",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02082-c6cc-47ff-9c94-5c5aacb5b862",
+                "parent_id": "53c0202f-cfc8-4ab5-a63b-5460acb5b862",
+                "name": "基隆市",
+                "lft": "299",
+                "rght": "300",
+                "population": "373597",
+                "population_electors": "304786",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-508c-4cd2-9b15-74a5cf91e152",
+                "keywords": "2014-11,縣市長,基隆市"
+            }
+        }
+    ]
+}

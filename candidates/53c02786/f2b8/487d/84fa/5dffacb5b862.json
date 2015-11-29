@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02786-f2b8-487d-84fa-5dffacb5b862",
+            "election_id": "53c0237c-0de8-464c-a702-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "601",
+            "name": "曾淑梅",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "2",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1955-05-07",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:41:46"
+        },
+        "Election": {
+            "id": "53c0237c-0de8-464c-a702-5c5aacb5b862",
+            "population_electors": "1414",
+            "population": "1929",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546f277e-7a80-4221-9d4a-2f28cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c2c-fce8-470d-80da-5460acb5b862",
+                    "name": "中正里",
+                    "AreasElection": {
+                        "id": "53c0237c-308c-494e-802f-5c5aacb5b862",
+                        "Election_id": "53c0237c-0de8-464c-a702-5c5aacb5b862",
+                        "Area_id": "53c01c2c-fce8-470d-80da-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "桃園市",
+                "lft": "10439",
+                "rght": "11456",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02379-7ffc-44da-9134-5c5aacb5b862",
+                "parent_id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "name": "平鎮區",
+                "lft": "11242",
+                "rght": "11335",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0237c-0de8-464c-a702-5c5aacb5b862",
+                "parent_id": "53c02379-7ffc-44da-9134-5c5aacb5b862",
+                "name": "中正里",
+                "lft": "11285",
+                "rght": "11286",
+                "population": "1929",
+                "population_electors": "1414",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546f277e-7a80-4221-9d4a-2f28cf91e152",
+                "keywords": "2014-11,村里長,桃園市,平鎮區,中正里"
+            }
+        }
+    ]
+}

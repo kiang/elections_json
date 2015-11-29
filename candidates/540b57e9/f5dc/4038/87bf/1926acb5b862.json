@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b57e9-f5dc-4038-87bf-1926acb5b862",
+            "election_id": "53d73497-b95c-4026-b39f-1299acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "475",
+            "name": "林志堅",
+            "image": "54b267e0\/dd0c\/400f\/8f35\/1dbe6ab936af.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "2",
+            "education_level": "",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:52:25",
+            "modified": "2015-02-08 23:44:21"
+        },
+        "Election": {
+            "id": "53d73497-b95c-4026-b39f-1299acb5b862",
+            "population_electors": "9447",
+            "population": "11514",
+            "quota": "4",
+            "quota_women": "1",
+            "bulletin_key": "546eec9d-ccd8-4a3f-97dd-180dcf91e152",
+            "Area": [
+                {
+                    "id": "53c01da4-4b38-4f4f-9dce-5460acb5b862",
+                    "name": "太麻里鄉",
+                    "AreasElection": {
+                        "id": "53d73497-3990-425d-8813-1299acb5b862",
+                        "Election_id": "53d73497-b95c-4026-b39f-1299acb5b862",
+                        "Area_id": "53c01da4-4b38-4f4f-9dce-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020d9-a97c-4d95-809d-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "臺東縣",
+                "lft": "2485",
+                "rght": "2612",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020db-e344-4e9e-95a5-5c5aacb5b862",
+                "parent_id": "53c020d9-a97c-4d95-809d-5c5aacb5b862",
+                "name": "太麻里鄉",
+                "lft": "2552",
+                "rght": "2559",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d73497-b95c-4026-b39f-1299acb5b862",
+                "parent_id": "53c020db-e344-4e9e-95a5-5c5aacb5b862",
+                "name": "第03選舉區[平地]",
+                "lft": "2557",
+                "rght": "2558",
+                "population": "11514",
+                "population_electors": "9447",
+                "quota": "4",
+                "quota_women": "1",
+                "bulletin_key": "546eec9d-ccd8-4a3f-97dd-180dcf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,臺東縣,太麻里鄉,第03選舉區[平地]"
+            }
+        }
+    ]
+}

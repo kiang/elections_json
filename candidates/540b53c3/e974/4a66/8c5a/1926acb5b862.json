@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b53c3-e974-4a66-8c5a-1926acb5b862",
+            "election_id": "53c02532-090c-4621-a2f7-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "796",
+            "name": "陳新亭",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "CHERN SHIN TYNG",
+            "birth_place": "臺中市",
+            "birth": "1954-04-01",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:34:43",
+            "modified": "2015-02-08 23:41:12"
+        },
+        "Election": {
+            "id": "53c02532-090c-4621-a2f7-5c5aacb5b862",
+            "population_electors": "3136",
+            "population": "3845",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068f-ade0-47ec-93a4-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01f71-a71c-41c3-8303-5460acb5b862",
+                    "name": "錦洲里",
+                    "AreasElection": {
+                        "id": "53c02532-8824-4b8b-8463-5c5aacb5b862",
+                        "Election_id": "53c02532-090c-4621-a2f7-5c5aacb5b862",
+                        "Area_id": "53c01f71-a71c-41c3-8303-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02530-1868-453b-afd5-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "北區",
+                "lft": "16538",
+                "rght": "16611",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02532-090c-4621-a2f7-5c5aacb5b862",
+                "parent_id": "53c02530-1868-453b-afd5-5c5aacb5b862",
+                "name": "錦洲里",
+                "lft": "16555",
+                "rght": "16556",
+                "population": "3845",
+                "population_electors": "3136",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068f-ade0-47ec-93a4-1a32cf91e152",
+                "keywords": "2014-11,村里長,臺中市,北區,錦洲里"
+            }
+        }
+    ]
+}

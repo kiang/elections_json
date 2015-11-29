@@ -1,0 +1,124 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c68f92-4368-44cf-890a-0f15acb5b862",
+            "election_id": "53c4122c-4738-406b-8960-6f55acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "7010",
+            "name": "蔡適應",
+            "image": "5602adfd\/232c\/40d5\/81c1\/46a36ab936af.jpg",
+            "party": "民主進步黨",
+            "contacts_phone": "02-24310070",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "204基隆市安樂區新崙里基金一路135巷21弄2-1號",
+            "links": "臉書 http:\/\/www.facebook.com\/tsai.shihying",
+            "gender": "m",
+            "no": "8",
+            "education_level": "碩士",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺北市",
+            "birth": "1973-06-14",
+            "platform": "",
+            "education": "國立台北大學 都市計劃研究所博士班   淡江大學 國際事務與戰略研究所碩士   台灣師範大學 國家發展碩士學分班   東海大學政治系國際關係組 學士   陸軍指職軍官班第一期",
+            "experience": "前立委王拓服務處 副主任   基隆市議會民進黨黨團 召集人   經國管理暨健康學院 講師   基隆市觀光協會理事長   基隆市柯蔡宗親會   淡江大學校友會 理事   基隆市家扶中心，朝陽愛心社 助養人及贊助會員",
+            "created": "2014-07-16 22:43:30",
+            "modified": "2015-09-23 21:50:58"
+        },
+        "Election": {
+            "id": "53c4122c-4738-406b-8960-6f55acb5b862",
+            "population_electors": "65356",
+            "population": "81686",
+            "quota": "7",
+            "quota_women": "1",
+            "bulletin_key": "5469b450-34d0-4a90-a52a-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01ddf-8334-4a4f-839b-5460acb5b862",
+                    "name": "安樂區",
+                    "AreasElection": {
+                        "id": "53c4122d-100c-4b0a-9a85-6f55acb5b862",
+                        "Election_id": "53c4122c-4738-406b-8960-6f55acb5b862",
+                        "Area_id": "53c01ddf-8334-4a4f-839b-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54131434-4b14-4c38-9445-2c85cb455a61",
+                "name": "2014台灣獨立建國選舉連線",
+                "CandidatesTag": {
+                    "id": "541315a0-f588-4388-ae2f-2c89cb455a61",
+                    "Candidate_id": "53c68f92-4368-44cf-890a-0f15acb5b862",
+                    "Tag_id": "54131434-4b14-4c38-9445-2c85cb455a61"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "縣市議員",
+                "lft": "306",
+                "rght": "607",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02085-8764-4425-9d61-5c5aacb5b862",
+                "parent_id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "name": "基隆市",
+                "lft": "569",
+                "rght": "586",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c4122c-4738-406b-8960-6f55acb5b862",
+                "parent_id": "53c02085-8764-4425-9d61-5c5aacb5b862",
+                "name": "第05選區[區域]",
+                "lft": "578",
+                "rght": "579",
+                "population": "81686",
+                "population_electors": "65356",
+                "quota": "7",
+                "quota_women": "1",
+                "bulletin_key": "5469b450-34d0-4a90-a52a-74a5cf91e152",
+                "keywords": "2014-11,縣市議員,基隆市,第05選區[區域]"
+            }
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b56bd-42b4-452f-b3f1-1926acb5b862",
+            "election_id": "53c41021-eae0-4573-bda1-6f55acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "0",
+            "vote_count": "0",
+            "name": "巫紫汝",
+            "image": "",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "f",
+            "no": "0",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": "1993-05-09",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:47:25",
+            "modified": "2014-10-16 14:00:41"
+        },
+        "Election": {
+            "id": "53c41021-eae0-4573-bda1-6f55acb5b862",
+            "population_electors": "29577",
+            "population": "36018",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-e52c-46ec-8206-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01be6-6128-446f-9b49-5460acb5b862",
+                    "name": "礁溪鄉",
+                    "AreasElection": {
+                        "id": "53c41021-5da4-40fc-8036-6f55acb5b862",
+                        "Election_id": "53c41021-eae0-4573-bda1-6f55acb5b862",
+                        "Area_id": "53c01be6-6128-446f-9b49-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "541f0273-6fac-4491-868d-53e8cb455a61",
+                "name": "2014青年佔領政治",
+                "CandidatesTag": {
+                    "id": "541f042c-8508-402c-81c2-53e8cb455a61",
+                    "Candidate_id": "540b56bd-42b4-452f-b3f1-1926acb5b862",
+                    "Tag_id": "541f0273-6fac-4491-868d-53e8cb455a61"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "縣市議員",
+                "lft": "306",
+                "rght": "607",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02082-2c78-4b49-a547-5c5aacb5b862",
+                "parent_id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "name": "宜蘭縣",
+                "lft": "325",
+                "rght": "352",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c41021-eae0-4573-bda1-6f55acb5b862",
+                "parent_id": "53c02082-2c78-4b49-a547-5c5aacb5b862",
+                "name": "第03選區[區域]",
+                "lft": "330",
+                "rght": "331",
+                "population": "36018",
+                "population_electors": "29577",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-e52c-46ec-8206-2adbcf91e152",
+                "keywords": "2014-11,縣市議員,宜蘭縣,第03選區[區域]"
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b566f-1960-4f66-9fc2-1926acb5b862",
+            "election_id": "53c02336-4204-4e1b-a5aa-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "827",
+            "name": "蔡宗坤",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "TSAI TSUNG KUN",
+            "birth_place": "臺灣省",
+            "birth": "1963-12-23",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:46:07",
+            "modified": "2015-02-08 23:45:36"
+        },
+        "Election": {
+            "id": "53c02336-4204-4e1b-a5aa-5c5aacb5b862",
+            "population_electors": "1896",
+            "population": "2341",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546b0806-10f0-45b3-98c6-2ff0cf91e152",
+            "Area": [
+                {
+                    "id": "53c01e02-b1ac-4bc5-b847-5460acb5b862",
+                    "name": "永和里",
+                    "AreasElection": {
+                        "id": "53c02336-5078-4420-ab03-5c5aacb5b862",
+                        "Election_id": "53c02336-4204-4e1b-a5aa-5c5aacb5b862",
+                        "Area_id": "53c01e02-b1ac-4bc5-b847-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0232b-91c8-456a-8388-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "嘉義市",
+                "lft": "10265",
+                "rght": "10438",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02331-37e4-49a2-a7ea-5c5aacb5b862",
+                "parent_id": "53c0232b-91c8-456a-8388-5c5aacb5b862",
+                "name": "西區",
+                "lft": "10346",
+                "rght": "10437",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02336-4204-4e1b-a5aa-5c5aacb5b862",
+                "parent_id": "53c02331-37e4-49a2-a7ea-5c5aacb5b862",
+                "name": "永和里",
+                "lft": "10403",
+                "rght": "10404",
+                "population": "2341",
+                "population_electors": "1896",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546b0806-10f0-45b3-98c6-2ff0cf91e152",
+                "keywords": "2014-11,村里長,嘉義市,西區,永和里"
+            }
+        }
+    ]
+}

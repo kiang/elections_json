@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b538b-b284-4e50-bd5a-1926acb5b862",
+            "election_id": "53c02349-2bd0-45a9-8fae-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "151",
+            "name": "陳正平",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "專科",
+            "is_present": false,
+            "name_english": "CHEN CHENG PING",
+            "birth_place": "臺灣省",
+            "birth": "1951-08-27",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:33:47",
+            "modified": "2015-02-08 23:41:41"
+        },
+        "Election": {
+            "id": "53c02349-2bd0-45a9-8fae-5c5aacb5b862",
+            "population_electors": "977",
+            "population": "1193",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-c184-4529-ab56-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c07-1df8-4289-a3d3-5460acb5b862",
+                    "name": "中建里",
+                    "AreasElection": {
+                        "id": "53c02349-b448-42e4-9a87-5c5aacb5b862",
+                        "Election_id": "53c02349-2bd0-45a9-8fae-5c5aacb5b862",
+                        "Area_id": "53c01c07-1df8-4289-a3d3-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "桃園市",
+                "lft": "10439",
+                "rght": "11456",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02344-9b04-46f5-8e6f-5c5aacb5b862",
+                "parent_id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "name": "中壢區",
+                "lft": "10594",
+                "rght": "10765",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02349-2bd0-45a9-8fae-5c5aacb5b862",
+                "parent_id": "53c02344-9b04-46f5-8e6f-5c5aacb5b862",
+                "name": "中建里",
+                "lft": "10665",
+                "rght": "10666",
+                "population": "1193",
+                "population_electors": "977",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-c184-4529-ab56-1a32cf91e152",
+                "keywords": "2014-11,村里長,桃園市,中壢區,中建里"
+            }
+        }
+    ]
+}

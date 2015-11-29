@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02711-32b8-46c3-a75c-5dffacb5b862",
+            "election_id": "53c02582-1a98-446d-a54a-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "1333",
+            "name": "林銀河",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "LIN YIN HO",
+            "birth_place": "臺中市",
+            "birth": "1947-08-14",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:41:20"
+        },
+        "Election": {
+            "id": "53c02582-1a98-446d-a54a-5c5aacb5b862",
+            "population_electors": "4518",
+            "population": "5718",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c6158-417c-4d05-934c-573fcf91e152",
+            "Area": [
+                {
+                    "id": "53c01fb1-5e3c-4e2e-9627-5460acb5b862",
+                    "name": "瑞井里",
+                    "AreasElection": {
+                        "id": "53c02582-caa4-49a0-8d12-5c5aacb5b862",
+                        "Election_id": "53c02582-1a98-446d-a54a-5c5aacb5b862",
+                        "Area_id": "53c01fb1-5e3c-4e2e-9627-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02580-0638-4d38-8de6-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "大肚區",
+                "lft": "17428",
+                "rght": "17463",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02582-1a98-446d-a54a-5c5aacb5b862",
+                "parent_id": "53c02580-0638-4d38-8de6-5c5aacb5b862",
+                "name": "瑞井里",
+                "lft": "17453",
+                "rght": "17454",
+                "population": "5718",
+                "population_electors": "4518",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c6158-417c-4d05-934c-573fcf91e152",
+                "keywords": "2014-11,村里長,臺中市,大肚區,瑞井里"
+            }
+        }
+    ]
+}

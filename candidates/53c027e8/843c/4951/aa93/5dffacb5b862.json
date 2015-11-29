@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c027e8-843c-4951-aa93-5dffacb5b862",
+            "election_id": "53c021c4-6808-46a0-900b-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "858",
+            "name": "許惠菁",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "1",
+            "education_level": "專科",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1978-04-12",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:44:49"
+        },
+        "Election": {
+            "id": "53c021c4-6808-46a0-900b-5c5aacb5b862",
+            "population_electors": "1830",
+            "population": "2274",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54735d55-96c0-4e84-bde3-21eacf91e152",
+            "Area": [
+                {
+                    "id": "53c01cc9-c770-4cea-a345-5460acb5b862",
+                    "name": "福山里",
+                    "AreasElection": {
+                        "id": "53c021c4-1238-4efe-864e-5c5aacb5b862",
+                        "Election_id": "53c021c4-6808-46a0-900b-5c5aacb5b862",
+                        "Area_id": "53c01cc9-c770-4cea-a345-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "南投縣",
+                "lft": "5649",
+                "rght": "6200",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021c1-69c4-437a-95a1-5c5aacb5b862",
+                "parent_id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "name": "南投市",
+                "lft": "5650",
+                "rght": "5719",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021c4-6808-46a0-900b-5c5aacb5b862",
+                "parent_id": "53c021c1-69c4-437a-95a1-5c5aacb5b862",
+                "name": "福山里",
+                "lft": "5689",
+                "rght": "5690",
+                "population": "2274",
+                "population_electors": "1830",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54735d55-96c0-4e84-bde3-21eacf91e152",
+                "keywords": "2014-11,村里長,南投縣,南投市,福山里"
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5512-fab0-4ef8-a84e-1926acb5b862",
+            "election_id": "53c02194-4d7c-4477-ae30-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "11",
+            "name": "張富榮",
+            "image": "546b418e\/f62c\/4e85\/8446\/70a78e043389.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1954-02-02",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:40:18",
+            "modified": "2015-02-08 23:44:43"
+        },
+        "Election": {
+            "id": "53c02194-4d7c-4477-ae30-5c5aacb5b862",
+            "population_electors": "1298",
+            "population": "1590",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-d1f8-434d-9533-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01ca1-cc80-4fb1-b274-5460acb5b862",
+                    "name": "大崙里",
+                    "AreasElection": {
+                        "id": "53c02194-2c68-42b4-b851-5c5aacb5b862",
+                        "Election_id": "53c02194-4d7c-4477-ae30-5c5aacb5b862",
+                        "Area_id": "53c01ca1-cc80-4fb1-b274-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "4417",
+                "rght": "5648",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02191-0800-4480-84b7-5c5aacb5b862",
+                "parent_id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "name": "田中鎮",
+                "lft": "5022",
+                "rght": "5067",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02194-4d7c-4477-ae30-5c5aacb5b862",
+                "parent_id": "53c02191-0800-4480-84b7-5c5aacb5b862",
+                "name": "大崙里",
+                "lft": "5059",
+                "rght": "5060",
+                "population": "1590",
+                "population_electors": "1298",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-d1f8-434d-9533-74a5cf91e152",
+                "keywords": "2014-11,村里長,彰化縣,田中鎮,大崙里"
+            }
+        }
+    ]
+}

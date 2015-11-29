@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5822-c2a0-4a84-b2e5-1926acb5b862",
+            "election_id": "53c020a6-8c3c-45c9-8b9f-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "2197",
+            "name": "戴文達",
+            "image": "54997b8c\/1f5c\/48e3\/ab44\/4f126ab936af.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "2",
+            "education_level": "專科",
+            "is_present": false,
+            "name_english": "TAI WEN TA",
+            "birth_place": "臺灣省",
+            "birth": "1963-02-23",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:53:22",
+            "modified": "2015-02-08 23:42:02"
+        },
+        "Election": {
+            "id": "53c020a6-8c3c-45c9-8b9f-5c5aacb5b862",
+            "population_electors": "7356",
+            "population": "9188",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546f277f-1ae0-450b-badb-2f28cf91e152",
+            "Area": [
+                {
+                    "id": "53c01d9c-bae4-44f5-b758-5460acb5b862",
+                    "name": "關山鎮",
+                    "AreasElection": {
+                        "id": "53c020a6-cc8c-4b79-bee9-5c5aacb5b862",
+                        "Election_id": "53c020a6-8c3c-45c9-8b9f-5c5aacb5b862",
+                        "Area_id": "53c01d9c-bae4-44f5-b758-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市長",
+                "lft": "608",
+                "rght": "1031",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020a5-ddcc-44df-8d3e-5c5aacb5b862",
+                "parent_id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "name": "臺東縣",
+                "lft": "955",
+                "rght": "988",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020a6-8c3c-45c9-8b9f-5c5aacb5b862",
+                "parent_id": "53c020a5-ddcc-44df-8d3e-5c5aacb5b862",
+                "name": "關山鎮",
+                "lft": "960",
+                "rght": "961",
+                "population": "9188",
+                "population_electors": "7356",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546f277f-1ae0-450b-badb-2f28cf91e152",
+                "keywords": "2014-11,鄉鎮市長,臺東縣,關山鎮"
+            }
+        }
+    ]
+}

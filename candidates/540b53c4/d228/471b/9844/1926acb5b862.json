@@ -1,0 +1,148 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b53c4-d228-471b-9844-1926acb5b862",
+            "election_id": "53c02532-f230-438a-ac09-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "950",
+            "name": "何信昇",
+            "image": "54c3ca40\/5718\/4dbd\/9028\/32116ab936af.jpg",
+            "party": "民主進步黨",
+            "contacts_phone": "0920673629",
+            "contacts_fax": "",
+            "contacts_email": "dangou.hs@gmail.com",
+            "contacts_address": "北區健行路867號",
+            "links": "",
+            "gender": "m",
+            "no": "1",
+            "education_level": "大學",
+            "is_present": false,
+            "name_english": "HO HSIN SHENG",
+            "birth_place": "臺中市",
+            "birth": "1980-11-20",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:34:44",
+            "modified": "2015-02-08 23:41:12"
+        },
+        "Election": {
+            "id": "53c02532-f230-438a-ac09-5c5aacb5b862",
+            "population_electors": "4644",
+            "population": "5822",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068f-5f04-4e92-9aa1-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01f72-1388-43ed-bf98-5460acb5b862",
+                    "name": "淡溝里",
+                    "AreasElection": {
+                        "id": "53c02532-4544-4f8c-874a-5c5aacb5b862",
+                        "Election_id": "53c02532-f230-438a-ac09-5c5aacb5b862",
+                        "Area_id": "53c01f72-1388-43ed-bf98-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "5412ff6f-db88-40fb-a1bb-7204cb455a61",
+                "name": "2014民進黨「民主小草」",
+                "CandidatesTag": {
+                    "id": "54130062-ae6c-4d13-ad39-7205cb455a61",
+                    "Candidate_id": "540b53c4-d228-471b-9844-1926acb5b862",
+                    "Tag_id": "5412ff6f-db88-40fb-a1bb-7204cb455a61"
+                }
+            },
+            {
+                "id": "541f0273-6fac-4491-868d-53e8cb455a61",
+                "name": "2014青年佔領政治",
+                "CandidatesTag": {
+                    "id": "541f059b-f718-4931-a068-53e8cb455a61",
+                    "Candidate_id": "540b53c4-d228-471b-9844-1926acb5b862",
+                    "Tag_id": "541f0273-6fac-4491-868d-53e8cb455a61"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02530-1868-453b-afd5-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "北區",
+                "lft": "16538",
+                "rght": "16611",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02532-f230-438a-ac09-5c5aacb5b862",
+                "parent_id": "53c02530-1868-453b-afd5-5c5aacb5b862",
+                "name": "淡溝里",
+                "lft": "16561",
+                "rght": "16562",
+                "population": "5822",
+                "population_electors": "4644",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068f-5f04-4e92-9aa1-1a32cf91e152",
+                "keywords": "2014-11,村里長,臺中市,北區,淡溝里"
+            }
+        }
+    ]
+}

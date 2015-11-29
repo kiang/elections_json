@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5618-5718-48d5-8750-1926acb5b862",
+            "election_id": "53c022e3-eb60-4447-b599-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "348",
+            "name": "余新德",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1956-01-02",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:44:40",
+            "modified": "2015-02-08 23:45:27"
+        },
+        "Election": {
+            "id": "53c022e3-eb60-4447-b599-5c5aacb5b862",
+            "population_electors": "865",
+            "population": "1021",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546d8db9-5880-4c86-a245-0e51cf91e152",
+            "Area": [
+                {
+                    "id": "53c01dbc-b894-4f8a-928a-5460acb5b862",
+                    "name": "鶴岡村",
+                    "AreasElection": {
+                        "id": "53c022e3-b554-4da5-89a0-5c5aacb5b862",
+                        "Election_id": "53c022e3-eb60-4447-b599-5c5aacb5b862",
+                        "Area_id": "53c01dbc-b894-4f8a-928a-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022cb-ff18-4c61-98a3-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "花蓮縣",
+                "lft": "9095",
+                "rght": "9476",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022e1-9670-453b-9f5c-5c5aacb5b862",
+                "parent_id": "53c022cb-ff18-4c61-98a3-5c5aacb5b862",
+                "name": "瑞穗鄉",
+                "lft": "9376",
+                "rght": "9399",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022e3-eb60-4447-b599-5c5aacb5b862",
+                "parent_id": "53c022e1-9670-453b-9f5c-5c5aacb5b862",
+                "name": "鶴岡村",
+                "lft": "9393",
+                "rght": "9394",
+                "population": "1021",
+                "population_electors": "865",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546d8db9-5880-4c86-a245-0e51cf91e152",
+                "keywords": "2014-11,村里長,花蓮縣,瑞穗鄉,鶴岡村"
+            }
+        }
+    ]
+}

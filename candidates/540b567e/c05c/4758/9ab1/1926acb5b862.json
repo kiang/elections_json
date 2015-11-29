@@ -1,0 +1,133 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b567e-c05c-4758-9ab1-1926acb5b862",
+            "election_id": "53c40087-3c78-4126-a3ae-6cceacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "8623",
+            "name": "潘翰聲",
+            "image": "5435144b\/d6a0\/4e72\/9711\/6b87cb455a61.jpg",
+            "party": "樹黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "\\n臉書 http:\/\/www.facebook.com\/pages\/%E6%BD%98%E7%BF%B0%E8%81%B2\/289170577766745",
+            "gender": "m",
+            "no": "7",
+            "education_level": "碩士",
+            "is_present": false,
+            "name_english": "PAN HAN SHEN",
+            "birth_place": "臺南市",
+            "birth": "1970-07-11",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:46:22",
+            "modified": "2015-02-08 23:40:14"
+        },
+        "Election": {
+            "id": "53c40087-3c78-4126-a3ae-6cceacb5b862",
+            "population_electors": "463337",
+            "population": "586158",
+            "quota": "13",
+            "quota_women": "3",
+            "bulletin_key": "5469b450-8564-4acc-92b7-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01e11-665c-4484-88b0-5460acb5b862",
+                    "name": "大安區",
+                    "AreasElection": {
+                        "id": "53c406dc-df40-4525-816c-6dacacb5b862",
+                        "Election_id": "53c40087-3c78-4126-a3ae-6cceacb5b862",
+                        "Area_id": "53c01e11-665c-4484-88b0-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01e2a-b7c4-4e75-8709-5460acb5b862",
+                    "name": "文山區",
+                    "AreasElection": {
+                        "id": "53c406dc-2b0c-4e86-99fb-6dacacb5b862",
+                        "Election_id": "53c40087-3c78-4126-a3ae-6cceacb5b862",
+                        "Area_id": "53c01e2a-b7c4-4e75-8709-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54130ed6-8a1c-4057-a9aa-799bcb455a61",
+                "name": "2014樹黨",
+                "CandidatesTag": {
+                    "id": "54130eed-3d40-48e8-baed-799bcb455a61",
+                    "Candidate_id": "540b567e-c05c-4758-9ab1-1926acb5b862",
+                    "Tag_id": "54130ed6-8a1c-4057-a9aa-799bcb455a61"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207e-df00-40ad-b2bd-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "臺北市",
+                "lft": "47",
+                "rght": "64",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c40087-3c78-4126-a3ae-6cceacb5b862",
+                "parent_id": "53c0207e-df00-40ad-b2bd-5c5aacb5b862",
+                "name": "第06選區[區域]",
+                "lft": "58",
+                "rght": "59",
+                "population": "586158",
+                "population_electors": "463337",
+                "quota": "13",
+                "quota_women": "3",
+                "bulletin_key": "5469b450-8564-4acc-92b7-74a5cf91e152",
+                "keywords": "2014-11,直轄市議員,臺北市,第06選區[區域]"
+            }
+        }
+    ]
+}

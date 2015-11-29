@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b537d-7288-4933-9d6b-1926acb5b862",
+            "election_id": "53c02520-a77c-4ebb-b3a2-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "197",
+            "name": "郭清標",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "Kuo Ching piao",
+            "birth_place": "新北市",
+            "birth": "1952-07-19",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:33:33",
+            "modified": "2015-02-08 23:41:10"
+        },
+        "Election": {
+            "id": "53c02520-a77c-4ebb-b3a2-5c5aacb5b862",
+            "population_electors": "434",
+            "population": "514",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-dc50-4f9e-a4e7-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01f63-c63c-4b60-9498-5460acb5b862",
+                    "name": "崁脚里",
+                    "AreasElection": {
+                        "id": "53c02521-5168-4efb-9dfc-5c5aacb5b862",
+                        "Election_id": "53c02520-a77c-4ebb-b3a2-5c5aacb5b862",
+                        "Area_id": "53c01f63-c63c-4b60-9498-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新北市",
+                "lft": "14261",
+                "rght": "16384",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02520-bc7c-4349-b658-5c5aacb5b862",
+                "parent_id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "name": "萬里區",
+                "lft": "16350",
+                "rght": "16371",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02520-a77c-4ebb-b3a2-5c5aacb5b862",
+                "parent_id": "53c02520-bc7c-4349-b658-5c5aacb5b862",
+                "name": "崁脚里",
+                "lft": "16361",
+                "rght": "16362",
+                "population": "514",
+                "population_electors": "434",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-dc50-4f9e-a4e7-1a32cf91e152",
+                "keywords": "2014-11,村里長,新北市,萬里區,崁脚里"
+            }
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b56c9-c71c-440a-aa72-1926acb5b862",
+            "election_id": "53c41220-428c-4632-b343-6f55acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "2984",
+            "name": "楊石龍",
+            "image": "548d59d7\/ae5c\/493e\/bf15\/03fb6ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "1",
+            "education_level": "碩士",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1959-12-21",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:47:37",
+            "modified": "2015-02-08 23:41:56"
+        },
+        "Election": {
+            "id": "53c41220-428c-4632-b343-6f55acb5b862",
+            "population_electors": "7104",
+            "population": "8469",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068e-4e00-4caf-bbaf-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01dcb-b73c-4728-b159-5460acb5b862",
+                    "name": "西嶼鄉",
+                    "AreasElection": {
+                        "id": "53c41221-6af8-446a-b36c-6f55acb5b862",
+                        "Election_id": "53c41220-428c-4632-b343-6f55acb5b862",
+                        "Area_id": "53c01dcb-b73c-4728-b159-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "縣市議員",
+                "lft": "306",
+                "rght": "607",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02084-33f0-4618-881e-5c5aacb5b862",
+                "parent_id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "name": "澎湖縣",
+                "lft": "555",
+                "rght": "568",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c41220-428c-4632-b343-6f55acb5b862",
+                "parent_id": "53c02084-33f0-4618-881e-5c5aacb5b862",
+                "name": "第04選區[區域]",
+                "lft": "562",
+                "rght": "563",
+                "population": "8469",
+                "population_electors": "7104",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068e-4e00-4caf-bbaf-1a32cf91e152",
+                "keywords": "2014-11,縣市議員,澎湖縣,第04選區[區域]"
+            }
+        }
+    ]
+}

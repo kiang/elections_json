@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02696-cf68-4e20-a582-5dffacb5b862",
+            "election_id": "53c02463-8834-4049-ac19-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "239",
+            "name": "賴金聰",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "LAI JINCONG",
+            "birth_place": "高雄市",
+            "birth": "1956-07-12",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:40:52"
+        },
+        "Election": {
+            "id": "53c02463-8834-4049-ac19-5c5aacb5b862",
+            "population_electors": "700",
+            "population": "784",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb721-5b24-4eb6-8cc1-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01ec0-0fbc-4180-94b3-5460acb5b862",
+                    "name": "寶隆里",
+                    "AreasElection": {
+                        "id": "53c02463-c148-403e-9d1a-5c5aacb5b862",
+                        "Election_id": "53c02463-8834-4049-ac19-5c5aacb5b862",
+                        "Area_id": "53c01ec0-0fbc-4180-94b3-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02463-4844-4f93-96de-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "甲仙區",
+                "lft": "14154",
+                "rght": "14169",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02463-8834-4049-ac19-5c5aacb5b862",
+                "parent_id": "53c02463-4844-4f93-96de-5c5aacb5b862",
+                "name": "寶隆里",
+                "lft": "14155",
+                "rght": "14156",
+                "population": "784",
+                "population_electors": "700",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb721-5b24-4eb6-8cc1-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,甲仙區,寶隆里"
+            }
+        }
+    ]
+}

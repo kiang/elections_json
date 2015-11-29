@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5655-4734-49a5-a631-1926acb5b862",
+            "election_id": "53c0230e-8ee4-4671-9aed-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "243",
+            "name": "呂淑芬",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "Lu Su Fen",
+            "birth_place": "臺灣省",
+            "birth": "1964-05-15",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:45:41",
+            "modified": "2015-02-08 23:45:32"
+        },
+        "Election": {
+            "id": "53c0230e-8ee4-4671-9aed-5c5aacb5b862",
+            "population_electors": "903",
+            "population": "1093",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c8095-71dc-4452-aea3-61a3cf91e152",
+            "Area": [
+                {
+                    "id": "53c01ddf-ff74-4364-9b1f-5460acb5b862",
+                    "name": "慈仁里",
+                    "AreasElection": {
+                        "id": "53c0230e-8200-4df6-92a6-5c5aacb5b862",
+                        "Election_id": "53c0230e-8ee4-4671-9aed-5c5aacb5b862",
+                        "Area_id": "53c01ddf-ff74-4364-9b1f-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "基隆市",
+                "lft": "9683",
+                "rght": "10012",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0230d-4e50-4e50-b9ba-5c5aacb5b862",
+                "parent_id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "name": "安樂區",
+                "lft": "9918",
+                "rght": "9969",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0230e-8ee4-4671-9aed-5c5aacb5b862",
+                "parent_id": "53c0230d-4e50-4e50-b9ba-5c5aacb5b862",
+                "name": "慈仁里",
+                "lft": "9927",
+                "rght": "9928",
+                "population": "1093",
+                "population_electors": "903",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c8095-71dc-4452-aea3-61a3cf91e152",
+                "keywords": "2014-11,村里長,基隆市,安樂區,慈仁里"
+            }
+        }
+    ]
+}

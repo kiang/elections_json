@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02831-5648-4195-970d-5dffacb5b862",
+            "election_id": "53c0224b-d4c4-454f-9ec5-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "0",
+            "vote_count": "0",
+            "name": "陳清典",
+            "image": null,
+            "party": null,
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": null,
+            "no": "0",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "0000-00-00 00:00:00"
+        },
+        "Election": {
+            "id": "53c0224b-d4c4-454f-9ec5-5c5aacb5b862",
+            "population_electors": "1524",
+            "population": "1764",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-5df0-4874-a8c0-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01d3b-10f0-443e-9392-5460acb5b862",
+                    "name": "新店村",
+                    "AreasElection": {
+                        "id": "53c0224b-88b8-4e29-bd33-5c5aacb5b862",
+                        "Election_id": "53c0224b-d4c4-454f-9ec5-5c5aacb5b862",
+                        "Area_id": "53c01d3b-10f0-443e-9392-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0222a-d5c0-465f-849c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "嘉義縣",
+                "lft": "7019",
+                "rght": "7770",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0224a-3f6c-40aa-8015-5c5aacb5b862",
+                "parent_id": "53c0222a-d5c0-465f-849c-5c5aacb5b862",
+                "name": "義竹鄉",
+                "lft": "7442",
+                "rght": "7487",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0224b-d4c4-454f-9ec5-5c5aacb5b862",
+                "parent_id": "53c0224a-3f6c-40aa-8015-5c5aacb5b862",
+                "name": "新店村",
+                "lft": "7463",
+                "rght": "7464",
+                "population": "1764",
+                "population_electors": "1524",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-5df0-4874-a8c0-2adbcf91e152",
+                "keywords": "2014-11,村里長,嘉義縣,義竹鄉,新店村"
+            }
+        }
+    ]
+}

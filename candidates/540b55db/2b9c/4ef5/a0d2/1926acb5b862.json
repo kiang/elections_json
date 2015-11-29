@@ -1,0 +1,139 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b55db-2b9c-4ef5-a0d2-1926acb5b862",
+            "election_id": "53c0229f-6de4-4935-ba18-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "647",
+            "name": "陳清華",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1955-09-25",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:43:39",
+            "modified": "2015-02-08 23:45:19"
+        },
+        "Election": {
+            "id": "53c0229f-6de4-4935-ba18-5c5aacb5b862",
+            "population_electors": "1574",
+            "population": "1939",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "Area": [
+                {
+                    "id": "53c01d83-cbc4-4f21-b89f-5460acb5b862",
+                    "name": "光林村",
+                    "AreasElection": {
+                        "id": "53c0229f-07ac-43f7-bdad-5c5aacb5b862",
+                        "Election_id": "53c0229f-6de4-4935-ba18-5c5aacb5b862",
+                        "Area_id": "53c01d83-cbc4-4f21-b89f-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54ab2c8d-c50c-4d91-9b43-2a946ab936af",
+                "name": "2014當選無效之訴-屏東縣",
+                "CandidatesTag": {
+                    "id": "54ab2cb5-aff0-4715-9234-2ab16ab936af",
+                    "Candidate_id": "540b55db-2b9c-4ef5-a0d2-1926acb5b862",
+                    "Tag_id": "54ab2c8d-c50c-4d91-9b43-2a946ab936af"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "7771",
+                "rght": "8766",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0229e-0c70-45e8-9a85-5c5aacb5b862",
+                "parent_id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "name": "林邊鄉",
+                "lft": "8500",
+                "rght": "8521",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0229f-6de4-4935-ba18-5c5aacb5b862",
+                "parent_id": "53c0229e-0c70-45e8-9a85-5c5aacb5b862",
+                "name": "光林村",
+                "lft": "8515",
+                "rght": "8516",
+                "population": "1939",
+                "population_electors": "1574",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2014-11,村里長,屏東縣,林邊鄉,光林村"
+            }
+        }
+    ]
+}

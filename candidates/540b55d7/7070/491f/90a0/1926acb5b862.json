@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b55d7-7070-491f-90a0-1926acb5b862",
+            "election_id": "53c02299-0e78-4d7f-bb7c-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "284",
+            "name": "潘水藤",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1947-04-01",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:43:35",
+            "modified": "2015-02-08 23:45:19"
+        },
+        "Election": {
+            "id": "53c02299-0e78-4d7f-bb7c-5c5aacb5b862",
+            "population_electors": "863",
+            "population": "1036",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54773ba1-5cbc-4566-9432-1915cf91e152",
+            "Area": [
+                {
+                    "id": "53c01d7e-19e0-4ba9-abf6-5460acb5b862",
+                    "name": "新開村",
+                    "AreasElection": {
+                        "id": "53c02299-539c-4b80-89f1-5c5aacb5b862",
+                        "Election_id": "53c02299-0e78-4d7f-bb7c-5c5aacb5b862",
+                        "Area_id": "53c01d7e-19e0-4ba9-abf6-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "7771",
+                "rght": "8766",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02297-f35c-4307-9c91-5c5aacb5b862",
+                "parent_id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "name": "枋寮鄉",
+                "lft": "8418",
+                "rght": "8449",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02299-0e78-4d7f-bb7c-5c5aacb5b862",
+                "parent_id": "53c02297-f35c-4307-9c91-5c5aacb5b862",
+                "name": "新開村",
+                "lft": "8437",
+                "rght": "8438",
+                "population": "1036",
+                "population_electors": "863",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54773ba1-5cbc-4566-9432-1915cf91e152",
+                "keywords": "2014-11,村里長,屏東縣,枋寮鄉,新開村"
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5641-ee28-4c4d-bff9-1926acb5b862",
+            "election_id": "53c020ea-0ed4-4ed3-83b8-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "289",
+            "name": "黃文成",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "HUANG WEN CHENG",
+            "birth_place": "金馬地區",
+            "birth": "1970-07-05",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:45:21",
+            "modified": "2015-02-08 23:44:24"
+        },
+        "Election": {
+            "id": "53c020ea-0ed4-4ed3-83b8-5c5aacb5b862",
+            "population_electors": "2015",
+            "population": "2419",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-7d0c-4ac3-a02e-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01bd3-9adc-442d-be2a-5460acb5b862",
+                    "name": "光前里",
+                    "AreasElection": {
+                        "id": "53c020ea-3b7c-43e8-96e6-5c5aacb5b862",
+                        "Election_id": "53c020ea-0ed4-4ed3-83b8-5c5aacb5b862",
+                        "Area_id": "53c01bd3-9adc-442d-be2a-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020e8-2910-4576-94cc-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "金門縣",
+                "lft": "2841",
+                "rght": "2928",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ea-6c88-4954-940a-5c5aacb5b862",
+                "parent_id": "53c020e8-2910-4576-94cc-5c5aacb5b862",
+                "name": "金沙鎮",
+                "lft": "2860",
+                "rght": "2877",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ea-0ed4-4ed3-83b8-5c5aacb5b862",
+                "parent_id": "53c020ea-6c88-4954-940a-5c5aacb5b862",
+                "name": "光前里",
+                "lft": "2867",
+                "rght": "2868",
+                "population": "2419",
+                "population_electors": "2015",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-7d0c-4ac3-a02e-74a5cf91e152",
+                "keywords": "2014-11,村里長,金門縣,金沙鎮,光前里"
+            }
+        }
+    ]
+}

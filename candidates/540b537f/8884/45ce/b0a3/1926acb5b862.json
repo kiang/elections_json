@@ -1,0 +1,139 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b537f-8884-45ce-b0a3-1926acb5b862",
+            "election_id": "53c0233a-e0ec-4862-95f4-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1809",
+            "name": "江慶尚",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "專科",
+            "is_present": false,
+            "name_english": "CHIANG CHING SHANG",
+            "birth_place": "臺灣省",
+            "birth": "1980-03-08",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:33:35",
+            "modified": "2015-02-08 23:41:39"
+        },
+        "Election": {
+            "id": "53c0233a-e0ec-4862-95f4-5c5aacb5b862",
+            "population_electors": "4329",
+            "population": "5540",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54744c85-9fe8-40b3-a891-45dccf91e152",
+            "Area": [
+                {
+                    "id": "53c01bf8-518c-4dfc-89fb-5460acb5b862",
+                    "name": "東埔里",
+                    "AreasElection": {
+                        "id": "53c0233a-034c-4498-9769-5c5aacb5b862",
+                        "Election_id": "53c0233a-e0ec-4862-95f4-5c5aacb5b862",
+                        "Area_id": "53c01bf8-518c-4dfc-89fb-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "5412ff6f-db88-40fb-a1bb-7204cb455a61",
+                "name": "2014民進黨「民主小草」",
+                "CandidatesTag": {
+                    "id": "5412ffd8-aba8-48b6-8bc3-6a8ccb455a61",
+                    "Candidate_id": "540b537f-8884-45ce-b0a3-1926acb5b862",
+                    "Tag_id": "5412ff6f-db88-40fb-a1bb-7204cb455a61"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "桃園市",
+                "lft": "10439",
+                "rght": "11456",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02338-c440-45d1-8313-5c5aacb5b862",
+                "parent_id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "name": "桃園區",
+                "lft": "10440",
+                "rght": "10593",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0233a-e0ec-4862-95f4-5c5aacb5b862",
+                "parent_id": "53c02338-c440-45d1-8313-5c5aacb5b862",
+                "name": "東埔里",
+                "lft": "10463",
+                "rght": "10464",
+                "population": "5540",
+                "population_electors": "4329",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54744c85-9fe8-40b3-a891-45dccf91e152",
+                "keywords": "2014-11,村里長,桃園市,桃園區,東埔里"
+            }
+        }
+    ]
+}

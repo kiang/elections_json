@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "55be5728-6230-4852-a7dc-74616ab936af",
+            "election_id": "5508679f-ef44-47e8-b68b-35296ab936af",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "0",
+            "name": "黃宏成台灣阿成世界偉人財神總統",
+            "image": "5658283b\/3174\/4f31\/bc7d\/19786ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": null,
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2015-08-03 01:45:12",
+            "modified": "2015-11-29 03:28:36"
+        },
+        "Election": {
+            "id": "5508679f-ef44-47e8-b68b-35296ab936af",
+            "population_electors": "0",
+            "population": "0",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "Area": [
+                {
+                    "id": "55085a07-88d0-4605-84d7-3584acb5b862",
+                    "name": "嘉義市",
+                    "AreasElection": {
+                        "id": "550a7576-0ba0-4114-b26e-47cc6ab936af",
+                        "Election_id": "5508679f-ef44-47e8-b68b-35296ab936af",
+                        "Area_id": "55085a07-88d0-4605-84d7-3584acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "55085db5-2e9c-4cde-8103-23d86ab936af",
+                "parent_id": null,
+                "name": "2016-01",
+                "lft": "40579",
+                "rght": "40780",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "55085e1a-c494-40e0-ba31-2f916ab936af",
+                "parent_id": "55085db5-2e9c-4cde-8103-23d86ab936af",
+                "name": "立法委員",
+                "lft": "40582",
+                "rght": "40779",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "55086385-6c54-4f4d-a586-28956ab936af",
+                "parent_id": "55085e1a-c494-40e0-ba31-2f916ab936af",
+                "name": "嘉義市",
+                "lft": "40761",
+                "rght": "40764",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "5508679f-ef44-47e8-b68b-35296ab936af",
+                "parent_id": "55086385-6c54-4f4d-a586-28956ab936af",
+                "name": "第01選區[區域]",
+                "lft": "40762",
+                "rght": "40763",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2016-01,立法委員,嘉義市,第01選區[區域]"
+            }
+        }
+    ]
+}

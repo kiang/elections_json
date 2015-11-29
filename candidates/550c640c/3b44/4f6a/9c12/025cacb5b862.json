@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "550c640c-3b44-4f6a-9c12-025cacb5b862",
+            "election_id": "550867ac-19a8-41ea-bae7-28956ab936af",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "0",
+            "name": "張中法",
+            "image": "",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": null,
+            "education_level": "",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2015-03-21 02:16:44",
+            "modified": "2015-11-29 03:28:36"
+        },
+        "Election": {
+            "id": "550867ac-19a8-41ea-bae7-28956ab936af",
+            "population_electors": "0",
+            "population": "0",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "Area": [
+                {
+                    "id": "5508593a-83cc-4cfa-86eb-3584acb5b862",
+                    "name": "金門縣",
+                    "AreasElection": {
+                        "id": "550a758b-b55c-4c34-a8dc-494a6ab936af",
+                        "Election_id": "550867ac-19a8-41ea-bae7-28956ab936af",
+                        "Area_id": "5508593a-83cc-4cfa-86eb-3584acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "55085db5-2e9c-4cde-8103-23d86ab936af",
+                "parent_id": null,
+                "name": "2016-01",
+                "lft": "40579",
+                "rght": "40780",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "55085e1a-c494-40e0-ba31-2f916ab936af",
+                "parent_id": "55085db5-2e9c-4cde-8103-23d86ab936af",
+                "name": "立法委員",
+                "lft": "40582",
+                "rght": "40779",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "5508638a-4e04-4e77-837b-23aa6ab936af",
+                "parent_id": "55085e1a-c494-40e0-ba31-2f916ab936af",
+                "name": "金門縣",
+                "lft": "40765",
+                "rght": "40768",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "550867ac-19a8-41ea-bae7-28956ab936af",
+                "parent_id": "5508638a-4e04-4e77-837b-23aa6ab936af",
+                "name": "第01選區[區域]",
+                "lft": "40766",
+                "rght": "40767",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2016-01,立法委員,金門縣,第01選區[區域]"
+            }
+        }
+    ]
+}

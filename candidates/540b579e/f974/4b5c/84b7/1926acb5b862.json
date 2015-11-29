@@ -1,0 +1,158 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b579e-f974-4b5c-84b7-1926acb5b862",
+            "election_id": "53d7345f-724c-4f07-99af-1299acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "1074",
+            "name": "蘇能進",
+            "image": "54d638a8\/2c80\/481b\/a77a\/3cbe6ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "2",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1943-10-21",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:51:10",
+            "modified": "2015-02-08 23:43:59"
+        },
+        "Election": {
+            "id": "53d7345f-724c-4f07-99af-1299acb5b862",
+            "population_electors": "7353",
+            "population": "9059",
+            "quota": "3",
+            "quota_women": "0",
+            "bulletin_key": "5475673a-15e4-4338-9cd3-0f78cf91e152",
+            "Area": [
+                {
+                    "id": "53c01d7f-6a38-4080-9999-5460acb5b862",
+                    "name": "新園村",
+                    "AreasElection": {
+                        "id": "53d73460-fb58-4178-b3cd-1299acb5b862",
+                        "Election_id": "53d7345f-724c-4f07-99af-1299acb5b862",
+                        "Area_id": "53c01d7f-6a38-4080-9999-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01d7f-9110-47b9-8441-5460acb5b862",
+                    "name": "內庄村",
+                    "AreasElection": {
+                        "id": "53d73460-4870-445f-b2fc-1299acb5b862",
+                        "Election_id": "53d7345f-724c-4f07-99af-1299acb5b862",
+                        "Area_id": "53c01d7f-9110-47b9-8441-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01d7f-bc24-4f56-bc6e-5460acb5b862",
+                    "name": "新東村",
+                    "AreasElection": {
+                        "id": "53d73460-10d4-413f-9f9d-1299acb5b862",
+                        "Election_id": "53d7345f-724c-4f07-99af-1299acb5b862",
+                        "Area_id": "53c01d7f-bc24-4f56-bc6e-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01d80-20d0-412a-8230-5460acb5b862",
+                    "name": "港西村",
+                    "AreasElection": {
+                        "id": "53d73460-8a50-4ced-a80e-1299acb5b862",
+                        "Election_id": "53d7345f-724c-4f07-99af-1299acb5b862",
+                        "Area_id": "53c01d80-20d0-412a-8230-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ce-0798-4ae9-af49-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "2197",
+                "rght": "2484",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020d4-acf8-4603-90f7-5c5aacb5b862",
+                "parent_id": "53c020ce-0798-4ae9-af49-5c5aacb5b862",
+                "name": "新園鄉",
+                "lft": "2350",
+                "rght": "2359",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d7345f-724c-4f07-99af-1299acb5b862",
+                "parent_id": "53c020d4-acf8-4603-90f7-5c5aacb5b862",
+                "name": "第02選舉區[區域]",
+                "lft": "2353",
+                "rght": "2354",
+                "population": "9059",
+                "population_electors": "7353",
+                "quota": "3",
+                "quota_women": "0",
+                "bulletin_key": "5475673a-15e4-4338-9cd3-0f78cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,屏東縣,新園鄉,第02選舉區[區域]"
+            }
+        }
+    ]
+}

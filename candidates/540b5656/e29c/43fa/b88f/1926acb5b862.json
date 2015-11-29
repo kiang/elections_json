@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5656-e29c-43fa-b88f-1926acb5b862",
+            "election_id": "53c02310-18a4-4934-9517-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "276",
+            "name": "徐旺德",
+            "image": null,
+            "party": "民主進步黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "新北市",
+            "birth": "1949-05-03",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:45:42",
+            "modified": "2015-02-08 23:45:32"
+        },
+        "Election": {
+            "id": "53c02310-18a4-4934-9517-5c5aacb5b862",
+            "population_electors": "3418",
+            "population": "4120",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c8095-9ec8-46dd-a397-61a3cf91e152",
+            "Area": [
+                {
+                    "id": "53c01de1-7014-4b9a-88f6-5460acb5b862",
+                    "name": "五福里",
+                    "AreasElection": {
+                        "id": "53c02310-df38-4cd0-afc1-5c5aacb5b862",
+                        "Election_id": "53c02310-18a4-4934-9517-5c5aacb5b862",
+                        "Area_id": "53c01de1-7014-4b9a-88f6-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "基隆市",
+                "lft": "9683",
+                "rght": "10012",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0230d-4e50-4e50-b9ba-5c5aacb5b862",
+                "parent_id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "name": "安樂區",
+                "lft": "9918",
+                "rght": "9969",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02310-18a4-4934-9517-5c5aacb5b862",
+                "parent_id": "53c0230d-4e50-4e50-b9ba-5c5aacb5b862",
+                "name": "五福里",
+                "lft": "9951",
+                "rght": "9952",
+                "population": "4120",
+                "population_electors": "3418",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c8095-9ec8-46dd-a397-61a3cf91e152",
+                "keywords": "2014-11,村里長,基隆市,安樂區,五福里"
+            }
+        }
+    ]
+}

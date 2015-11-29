@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b55a5-1244-4d4b-94c9-1926acb5b862",
+            "election_id": "53c02258-1a20-44f0-bc90-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "301",
+            "name": "王麗芬",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "2",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1965-06-18",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:42:45",
+            "modified": "2015-02-08 23:45:11"
+        },
+        "Election": {
+            "id": "53c02258-1a20-44f0-bc90-5c5aacb5b862",
+            "population_electors": "760",
+            "population": "908",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546ef559-eb38-4227-9ced-208ecf91e152",
+            "Area": [
+                {
+                    "id": "53c01d45-e8d0-49a4-8422-5460acb5b862",
+                    "name": "坑頭村",
+                    "AreasElection": {
+                        "id": "53c02258-01f4-4c17-b6c3-5c5aacb5b862",
+                        "Election_id": "53c02258-1a20-44f0-bc90-5c5aacb5b862",
+                        "Area_id": "53c01d45-e8d0-49a4-8422-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0222a-d5c0-465f-849c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "嘉義縣",
+                "lft": "7019",
+                "rght": "7770",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02257-a9b8-4b54-b76e-5c5aacb5b862",
+                "parent_id": "53c0222a-d5c0-465f-849c-5c5aacb5b862",
+                "name": "竹崎鄉",
+                "lft": "7620",
+                "rght": "7669",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02258-1a20-44f0-bc90-5c5aacb5b862",
+                "parent_id": "53c02257-a9b8-4b54-b76e-5c5aacb5b862",
+                "name": "坑頭村",
+                "lft": "7625",
+                "rght": "7626",
+                "population": "908",
+                "population_electors": "760",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546ef559-eb38-4227-9ced-208ecf91e152",
+                "keywords": "2014-11,村里長,嘉義縣,竹崎鄉,坑頭村"
+            }
+        }
+    ]
+}

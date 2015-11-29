@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b548d-9a40-4ce2-9307-1926acb5b862",
+            "election_id": "53c02432-c088-4ae8-9be7-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "801",
+            "name": "吳應宗",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "高雄市",
+            "birth": "1961-08-06",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:38:05",
+            "modified": "2015-02-08 23:40:47"
+        },
+        "Election": {
+            "id": "53c02432-c088-4ae8-9be7-5c5aacb5b862",
+            "population_electors": "2343",
+            "population": "2860",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb721-0ae0-4a07-98f4-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01e96-ed58-45c9-8fb1-5460acb5b862",
+                    "name": "過溪里",
+                    "AreasElection": {
+                        "id": "53c02432-18cc-4e64-9c2c-5c5aacb5b862",
+                        "Election_id": "53c02432-c088-4ae8-9be7-5c5aacb5b862",
+                        "Area_id": "53c01e96-ed58-45c9-8fb1-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02430-5608-41de-944d-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "大寮區",
+                "lft": "13532",
+                "rght": "13583",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02432-c088-4ae8-9be7-5c5aacb5b862",
+                "parent_id": "53c02430-5608-41de-944d-5c5aacb5b862",
+                "name": "過溪里",
+                "lft": "13559",
+                "rght": "13560",
+                "population": "2860",
+                "population_electors": "2343",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb721-0ae0-4a07-98f4-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,大寮區,過溪里"
+            }
+        }
+    ]
+}

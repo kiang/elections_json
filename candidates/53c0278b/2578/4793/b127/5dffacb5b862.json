@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c0278b-2578-4793-b127-5dffacb5b862",
+            "election_id": "53c02384-37ec-4fcd-9f03-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "545",
+            "name": "許修斌",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "專科",
+            "is_present": false,
+            "name_english": "HSU HSIU PIN",
+            "birth_place": "臺灣省",
+            "birth": "1968-07-01",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:41:48"
+        },
+        "Election": {
+            "id": "53c02384-37ec-4fcd-9f03-5c5aacb5b862",
+            "population_electors": "1304",
+            "population": "1631",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068e-e990-4ee7-b0cf-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c33-a2e4-40b3-bac7-5460acb5b862",
+                    "name": "廣興里",
+                    "AreasElection": {
+                        "id": "53c02385-4490-4afa-be21-5c5aacb5b862",
+                        "Election_id": "53c02384-37ec-4fcd-9f03-5c5aacb5b862",
+                        "Area_id": "53c01c33-a2e4-40b3-bac7-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "桃園市",
+                "lft": "10439",
+                "rght": "11456",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02384-8fe4-46d8-ae61-5c5aacb5b862",
+                "parent_id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "name": "觀音區",
+                "lft": "11384",
+                "rght": "11433",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02384-37ec-4fcd-9f03-5c5aacb5b862",
+                "parent_id": "53c02384-8fe4-46d8-ae61-5c5aacb5b862",
+                "name": "廣興里",
+                "lft": "11389",
+                "rght": "11390",
+                "population": "1631",
+                "population_electors": "1304",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068e-e990-4ee7-b0cf-1a32cf91e152",
+                "keywords": "2014-11,村里長,桃園市,觀音區,廣興里"
+            }
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c027c8-e920-4ebe-bc55-5dffacb5b862",
+            "election_id": "53c0218b-e9f8-434a-897c-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1171",
+            "name": "張永鑫",
+            "image": "545f5e13\/28a8\/4cdd\/97f2\/51db8e043389.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1952-08-18",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:44:43"
+        },
+        "Election": {
+            "id": "53c0218b-e9f8-434a-897c-5c5aacb5b862",
+            "population_electors": "2335",
+            "population": "2855",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-9b3c-44de-a7c3-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c9a-bed4-4433-b701-5460acb5b862",
+                    "name": "崙雅里",
+                    "AreasElection": {
+                        "id": "53c0218b-a70c-439e-9826-5c5aacb5b862",
+                        "Election_id": "53c0218b-e9f8-434a-897c-5c5aacb5b862",
+                        "Area_id": "53c01c9a-bed4-4433-b701-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54ab2710-ebc4-4db1-923c-29d96ab936af",
+                "name": "2014當選無效之訴-彰化縣",
+                "CandidatesTag": {
+                    "id": "54ab2752-959c-4436-9bb9-29f16ab936af",
+                    "Candidate_id": "53c027c8-e920-4ebe-bc55-5dffacb5b862",
+                    "Tag_id": "54ab2710-ebc4-4db1-923c-29d96ab936af"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "4417",
+                "rght": "5648",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02187-bc24-49db-8512-5c5aacb5b862",
+                "parent_id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "name": "員林鎮",
+                "lft": "4886",
+                "rght": "4969",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0218b-e9f8-434a-897c-5c5aacb5b862",
+                "parent_id": "53c02187-bc24-49db-8512-5c5aacb5b862",
+                "name": "崙雅里",
+                "lft": "4935",
+                "rght": "4936",
+                "population": "2855",
+                "population_electors": "2335",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-9b3c-44de-a7c3-74a5cf91e152",
+                "keywords": "2014-11,村里長,彰化縣,員林鎮,崙雅里"
+            }
+        }
+    ]
+}

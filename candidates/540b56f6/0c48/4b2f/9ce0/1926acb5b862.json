@@ -1,0 +1,158 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b56f6-0c48-4b2f-9ce0-1926acb5b862",
+            "election_id": "53d732e2-97f8-457d-b13e-1299acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "3144",
+            "name": "劉燕祥",
+            "image": "54abe3dd\/a59c\/479f\/ac2b\/538c6ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "2",
+            "education_level": "專科",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1950-02-26",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:48:22",
+            "modified": "2015-02-08 23:42:23"
+        },
+        "Election": {
+            "id": "53d732e2-97f8-457d-b13e-1299acb5b862",
+            "population_electors": "10308",
+            "population": "13002",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "Area": [
+                {
+                    "id": "53c01c61-a8d0-4087-bd61-5460acb5b862",
+                    "name": "民族里",
+                    "AreasElection": {
+                        "id": "53d732e3-5ef0-4a29-b432-1299acb5b862",
+                        "Election_id": "53d732e2-97f8-457d-b13e-1299acb5b862",
+                        "Area_id": "53c01c61-a8d0-4087-bd61-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01c62-ea90-4186-a4b7-5460acb5b862",
+                    "name": "東庄里",
+                    "AreasElection": {
+                        "id": "53d732e3-83a0-489a-9225-1299acb5b862",
+                        "Election_id": "53d732e2-97f8-457d-b13e-1299acb5b862",
+                        "Area_id": "53c01c62-ea90-4186-a4b7-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01c62-edb8-43c9-9082-5460acb5b862",
+                    "name": "田寮里",
+                    "AreasElection": {
+                        "id": "53d732e3-4ebc-40f7-8174-1299acb5b862",
+                        "Election_id": "53d732e2-97f8-457d-b13e-1299acb5b862",
+                        "Area_id": "53c01c62-edb8-43c9-9082-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01c63-5498-4978-9b6d-5460acb5b862",
+                    "name": "民權里",
+                    "AreasElection": {
+                        "id": "53d732e3-42ec-48f6-b4f7-1299acb5b862",
+                        "Election_id": "53d732e2-97f8-457d-b13e-1299acb5b862",
+                        "Area_id": "53c01c63-5498-4978-9b6d-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b7-c5b4-41c9-bda3-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "苗栗縣",
+                "lft": "1323",
+                "rght": "1496",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b7-8070-4437-81bf-5c5aacb5b862",
+                "parent_id": "53c020b7-c5b4-41c9-bda3-5c5aacb5b862",
+                "name": "頭份鎮",
+                "lft": "1362",
+                "rght": "1373",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d732e2-97f8-457d-b13e-1299acb5b862",
+                "parent_id": "53c020b7-8070-4437-81bf-5c5aacb5b862",
+                "name": "第04選舉區[區域]",
+                "lft": "1369",
+                "rght": "1370",
+                "population": "13002",
+                "population_electors": "10308",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2014-11,鄉鎮市民代表,苗栗縣,頭份鎮,第04選舉區[區域]"
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5523-ccc8-4b15-a3e8-1926acb5b862",
+            "election_id": "53c021a9-868c-48c6-8703-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "800",
+            "name": "許俊士",
+            "image": "55ddc46d\/9fd8\/4d25\/b2bf\/4f906ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "2",
+            "education_level": "專科",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1948-11-16",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:40:35",
+            "modified": "2015-08-26 21:51:59"
+        },
+        "Election": {
+            "id": "53c021a9-868c-48c6-8703-5c5aacb5b862",
+            "population_electors": "1568",
+            "population": "2075",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-fb5c-4503-a759-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01cb4-6eb8-4867-b88b-5460acb5b862",
+                    "name": "光復里",
+                    "AreasElection": {
+                        "id": "53c021a9-0e9c-45cb-8cbd-5c5aacb5b862",
+                        "Election_id": "53c021a9-868c-48c6-8703-5c5aacb5b862",
+                        "Area_id": "53c01cb4-6eb8-4867-b88b-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "4417",
+                "rght": "5648",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021a9-17a4-4316-913c-5c5aacb5b862",
+                "parent_id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "name": "北斗鎮",
+                "lft": "5326",
+                "rght": "5357",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021a9-868c-48c6-8703-5c5aacb5b862",
+                "parent_id": "53c021a9-17a4-4316-913c-5c5aacb5b862",
+                "name": "光復里",
+                "lft": "5329",
+                "rght": "5330",
+                "population": "2075",
+                "population_electors": "1568",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-fb5c-4503-a759-74a5cf91e152",
+                "keywords": "2014-11,村里長,彰化縣,北斗鎮,光復里"
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b537d-fe00-4fc8-902c-1926acb5b862",
+            "election_id": "53c02520-2c64-4b82-b527-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "789",
+            "name": "李建才",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "新北市",
+            "birth": "1962-01-10",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:33:33",
+            "modified": "2015-02-08 23:41:10"
+        },
+        "Election": {
+            "id": "53c02520-2c64-4b82-b527-5c5aacb5b862",
+            "population_electors": "2589",
+            "population": "3220",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-dc50-4f9e-a4e7-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01f63-54d4-4069-88b4-5460acb5b862",
+                    "name": "大鵬里",
+                    "AreasElection": {
+                        "id": "53c02520-4288-483e-8ce5-5c5aacb5b862",
+                        "Election_id": "53c02520-2c64-4b82-b527-5c5aacb5b862",
+                        "Area_id": "53c01f63-54d4-4069-88b4-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新北市",
+                "lft": "14261",
+                "rght": "16384",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02520-bc7c-4349-b658-5c5aacb5b862",
+                "parent_id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "name": "萬里區",
+                "lft": "16350",
+                "rght": "16371",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02520-2c64-4b82-b527-5c5aacb5b862",
+                "parent_id": "53c02520-bc7c-4349-b658-5c5aacb5b862",
+                "name": "大鵬里",
+                "lft": "16355",
+                "rght": "16356",
+                "population": "3220",
+                "population_electors": "2589",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-dc50-4f9e-a4e7-1a32cf91e152",
+                "keywords": "2014-11,村里長,新北市,萬里區,大鵬里"
+            }
+        }
+    ]
+}

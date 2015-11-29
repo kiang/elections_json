@@ -1,0 +1,149 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b57ad-f724-4f75-8657-1926acb5b862",
+            "election_id": "53d73479-d274-4570-a92c-1299acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "0",
+            "vote_count": "0",
+            "name": "林永彬",
+            "image": "",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "0",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:51:25",
+            "modified": "2014-11-26 23:41:52"
+        },
+        "Election": {
+            "id": "53d73479-d274-4570-a92c-1299acb5b862",
+            "population_electors": "3106",
+            "population": "3835",
+            "quota": "4",
+            "quota_women": "1",
+            "bulletin_key": "5475673a-eb78-45bb-9c89-0f78cf91e152",
+            "Area": [
+                {
+                    "id": "53c01d8e-7e3c-4149-bb3d-5460acb5b862",
+                    "name": "瑪家村",
+                    "AreasElection": {
+                        "id": "53d7347a-903c-454b-bcc4-1299acb5b862",
+                        "Election_id": "53d73479-d274-4570-a92c-1299acb5b862",
+                        "Area_id": "53c01d8e-7e3c-4149-bb3d-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01d8f-bc14-46bf-bed8-5460acb5b862",
+                    "name": "北葉村",
+                    "AreasElection": {
+                        "id": "53d7347a-ea14-4744-941d-1299acb5b862",
+                        "Election_id": "53d73479-d274-4570-a92c-1299acb5b862",
+                        "Area_id": "53c01d8f-bc14-46bf-bed8-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01d90-b434-40ad-802c-5460acb5b862",
+                    "name": "三和村",
+                    "AreasElection": {
+                        "id": "53d7347a-5d50-4f7c-b0cd-1299acb5b862",
+                        "Election_id": "53d73479-d274-4570-a92c-1299acb5b862",
+                        "Area_id": "53c01d90-b434-40ad-802c-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ce-0798-4ae9-af49-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "2197",
+                "rght": "2484",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020d8-f998-4539-9c05-5c5aacb5b862",
+                "parent_id": "53c020ce-0798-4ae9-af49-5c5aacb5b862",
+                "name": "瑪家鄉",
+                "lft": "2448",
+                "rght": "2453",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d73479-d274-4570-a92c-1299acb5b862",
+                "parent_id": "53c020d8-f998-4539-9c05-5c5aacb5b862",
+                "name": "第01選舉區[區域]",
+                "lft": "2449",
+                "rght": "2450",
+                "population": "3835",
+                "population_electors": "3106",
+                "quota": "4",
+                "quota_women": "1",
+                "bulletin_key": "5475673a-eb78-45bb-9c89-0f78cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,屏東縣,瑪家鄉,第01選舉區[區域]"
+            }
+        }
+    ]
+}

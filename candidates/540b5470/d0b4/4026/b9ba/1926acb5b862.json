@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5470-d0b4-4026-b9ba-1926acb5b862",
+            "election_id": "53c02408-1590-468c-b829-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "349",
+            "name": "陳輝雄",
+            "image": null,
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "1",
+            "education_level": "專科",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "高雄市",
+            "birth": "1944-05-23",
+            "platform": "",
+            "education": "",
+            "experience": "另外，檢察官吳協展指揮高雄市調處前晚查獲苓雅區奏捷里長陳輝雄，涉嫌自九十六年十月初起，陸續以每票1千元至1500元不等代價，替第4選區某市議員候選人向選民買票賄選。",
+            "created": "2014-09-07 02:37:36",
+            "modified": "2015-02-08 23:40:42"
+        },
+        "Election": {
+            "id": "53c02408-1590-468c-b829-5c5aacb5b862",
+            "population_electors": "1548",
+            "population": "1929",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb720-bd3c-4fb7-ae78-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01e76-9224-4d61-951a-5460acb5b862",
+                    "name": "奏捷里",
+                    "AreasElection": {
+                        "id": "53c02408-3fa0-4afa-9368-5c5aacb5b862",
+                        "Election_id": "53c02408-1590-468c-b829-5c5aacb5b862",
+                        "Area_id": "53c01e76-9224-4d61-951a-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02401-a518-4567-b540-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "苓雅區",
+                "lft": "12958",
+                "rght": "13097",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02408-1590-468c-b829-5c5aacb5b862",
+                "parent_id": "53c02401-a518-4567-b540-5c5aacb5b862",
+                "name": "奏捷里",
+                "lft": "13037",
+                "rght": "13038",
+                "population": "1929",
+                "population_electors": "1548",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb720-bd3c-4fb7-ae78-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,苓雅區,奏捷里"
+            }
+        }
+    ]
+}

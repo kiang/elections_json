@@ -1,0 +1,139 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53f5524c-86b8-43f7-88cd-6106cb455a61",
+            "election_id": "53c024d9-99e0-489a-af30-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "443",
+            "name": "盧正忠",
+            "image": "",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "1",
+            "education_level": "專科",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "新北市",
+            "birth": "1963-11-01",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-08-21 09:58:36",
+            "modified": "2015-02-08 23:41:04"
+        },
+        "Election": {
+            "id": "53c024d9-99e0-489a-af30-5c5aacb5b862",
+            "population_electors": "1353",
+            "population": "1678",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-80a0-4669-a738-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01f2d-57e0-469a-b301-5460acb5b862",
+                    "name": "埤島里",
+                    "AreasElection": {
+                        "id": "53c024d9-cc88-4451-b3fa-5c5aacb5b862",
+                        "Election_id": "53c024d9-99e0-489a-af30-5c5aacb5b862",
+                        "Area_id": "53c01f2d-57e0-469a-b301-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "5413037f-7514-40be-8e73-7204cb455a61",
+                "name": "2014大家來選村里長啟航秀",
+                "CandidatesTag": {
+                    "id": "541303f4-0080-4047-b568-79a1cb455a61",
+                    "Candidate_id": "53f5524c-86b8-43f7-88cd-6106cb455a61",
+                    "Tag_id": "5413037f-7514-40be-8e73-7204cb455a61"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新北市",
+                "lft": "14261",
+                "rght": "16384",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c024d7-fe64-4857-a2f6-5c5aacb5b862",
+                "parent_id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "name": "淡水區",
+                "lft": "15566",
+                "rght": "15651",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c024d9-99e0-489a-af30-5c5aacb5b862",
+                "parent_id": "53c024d7-fe64-4857-a2f6-5c5aacb5b862",
+                "name": "埤島里",
+                "lft": "15585",
+                "rght": "15586",
+                "population": "1678",
+                "population_electors": "1353",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-80a0-4669-a738-1a32cf91e152",
+                "keywords": "2014-11,村里長,新北市,淡水區,埤島里"
+            }
+        }
+    ]
+}

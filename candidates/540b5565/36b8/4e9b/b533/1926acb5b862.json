@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5565-36b8-4e9b-b533-1926acb5b862",
+            "election_id": "53c02205-3bdc-43c9-9baf-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "729",
+            "name": "王秀津",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "2",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1960-06-10",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:41:41",
+            "modified": "2015-02-08 23:45:02"
+        },
+        "Election": {
+            "id": "53c02205-3bdc-43c9-9baf-5c5aacb5b862",
+            "population_electors": "2870",
+            "population": "3627",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546ebce3-fb10-4391-b5f8-2b96cf91e152",
+            "Area": [
+                {
+                    "id": "53c01cfc-96b8-4e1f-8e64-5460acb5b862",
+                    "name": "樹腳里",
+                    "AreasElection": {
+                        "id": "53c02205-2258-4048-86d3-5c5aacb5b862",
+                        "Election_id": "53c02205-3bdc-43c9-9baf-5c5aacb5b862",
+                        "Area_id": "53c01cfc-96b8-4e1f-8e64-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "6201",
+                "rght": "7018",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02201-dd10-406f-b04b-5c5aacb5b862",
+                "parent_id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "name": "北港鎮",
+                "lft": "6478",
+                "rght": "6535",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02205-3bdc-43c9-9baf-5c5aacb5b862",
+                "parent_id": "53c02201-dd10-406f-b04b-5c5aacb5b862",
+                "name": "樹腳里",
+                "lft": "6531",
+                "rght": "6532",
+                "population": "3627",
+                "population_electors": "2870",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546ebce3-fb10-4391-b5f8-2b96cf91e152",
+                "keywords": "2014-11,村里長,雲林縣,北港鎮,樹腳里"
+            }
+        }
+    ]
+}

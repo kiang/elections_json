@@ -1,0 +1,139 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02783-983c-48a7-b2b9-5dffacb5b862",
+            "election_id": "53c02374-caf8-46ca-85c9-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "1421",
+            "name": "賴永隆",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "鄉民訪談 http:\/\/www.ptt.cc\/bbs\/PublicIssue\/M.1411001243.A.D5C.html",
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "LAI YUNG JUNG",
+            "birth_place": "臺灣省",
+            "birth": "1950-12-09",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:41:45"
+        },
+        "Election": {
+            "id": "53c02374-caf8-46ca-85c9-5c5aacb5b862",
+            "population_electors": "4463",
+            "population": "5796",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54735d59-d084-4b50-b8fd-21eacf91e152",
+            "Area": [
+                {
+                    "id": "53c01c26-08b0-47a9-a919-5460acb5b862",
+                    "name": "中山里",
+                    "AreasElection": {
+                        "id": "53c02374-cc9c-4700-90c5-5c5aacb5b862",
+                        "Election_id": "53c02374-caf8-46ca-85c9-5c5aacb5b862",
+                        "Area_id": "53c01c26-08b0-47a9-a919-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54619d23-ee3c-422d-83a8-08ce8e043389",
+                "name": "2014鄉民參政行動聯盟訪談",
+                "CandidatesTag": {
+                    "id": "54660bc9-9de8-4885-96f3-5cc78e043389",
+                    "Candidate_id": "53c02783-983c-48a7-b2b9-5dffacb5b862",
+                    "Tag_id": "54619d23-ee3c-422d-83a8-08ce8e043389"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "桃園市",
+                "lft": "10439",
+                "rght": "11456",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02374-a550-404f-9e2d-5c5aacb5b862",
+                "parent_id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "name": "龍潭區",
+                "lft": "11180",
+                "rght": "11241",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02374-caf8-46ca-85c9-5c5aacb5b862",
+                "parent_id": "53c02374-a550-404f-9e2d-5c5aacb5b862",
+                "name": "中山里",
+                "lft": "11181",
+                "rght": "11182",
+                "population": "5796",
+                "population_electors": "4463",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54735d59-d084-4b50-b8fd-21eacf91e152",
+                "keywords": "2014-11,村里長,桃園市,龍潭區,中山里"
+            }
+        }
+    ]
+}

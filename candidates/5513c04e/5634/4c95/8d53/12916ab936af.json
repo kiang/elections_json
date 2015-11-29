@@ -1,0 +1,86 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "5513c04e-5634-4c95-8d53-12916ab936af",
+            "election_id": "55085e00-a45c-4143-af8a-2f916ab936af",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "0",
+            "vote_count": "0",
+            "name": "洪秀柱",
+            "image": "56335762\/ca80\/471f\/ab19\/06136ab936af.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "f",
+            "no": null,
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2015-03-26 16:16:14",
+            "modified": "2015-10-30 19:41:27"
+        },
+        "Election": {
+            "id": "55085e00-a45c-4143-af8a-2f916ab936af",
+            "population_electors": "0",
+            "population": "0",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "Area": [
+                {
+                    "id": "55085939-13ec-4d1e-9ac1-3584acb5b862",
+                    "name": "2016",
+                    "AreasElection": {
+                        "id": "550a384d-1f20-408f-90bc-47cc6ab936af",
+                        "Election_id": "55085e00-a45c-4143-af8a-2f916ab936af",
+                        "Area_id": "55085939-13ec-4d1e-9ac1-3584acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "55085db5-2e9c-4cde-8103-23d86ab936af",
+                "parent_id": null,
+                "name": "2016-01",
+                "lft": "40579",
+                "rght": "40780",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "55085e00-a45c-4143-af8a-2f916ab936af",
+                "parent_id": "55085db5-2e9c-4cde-8103-23d86ab936af",
+                "name": "總統(副總統)",
+                "lft": "40580",
+                "rght": "40581",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2016-01,總統(副總統)"
+            }
+        }
+    ]
+}

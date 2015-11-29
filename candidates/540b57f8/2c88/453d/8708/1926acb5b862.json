@@ -1,0 +1,140 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b57f8-2c88-453d-8708-1926acb5b862",
+            "election_id": "53d734d9-5ce0-4728-9ba2-1299acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "199",
+            "name": "陳吉富",
+            "image": "548d90a9\/3c3c\/4e31\/b272\/12256ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "3",
+            "education_level": "",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:52:40",
+            "modified": "2015-02-08 23:44:21"
+        },
+        "Election": {
+            "id": "53d734d9-5ce0-4728-9ba2-1299acb5b862",
+            "population_electors": "1443",
+            "population": "1759",
+            "quota": "3",
+            "quota_women": "0",
+            "bulletin_key": "546e068f-8704-49f5-ad02-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01dce-cc44-4b55-bd7b-5460acb5b862",
+                    "name": "海豐村",
+                    "AreasElection": {
+                        "id": "53d734d9-7c30-4966-b9f1-1299acb5b862",
+                        "Election_id": "53d734d9-5ce0-4728-9ba2-1299acb5b862",
+                        "Area_id": "53c01dce-cc44-4b55-bd7b-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01dcf-4cd4-49f7-b5c4-5460acb5b862",
+                    "name": "南港村",
+                    "AreasElection": {
+                        "id": "53d734d9-af1c-4cd0-b420-1299acb5b862",
+                        "Election_id": "53d734d9-5ce0-4728-9ba2-1299acb5b862",
+                        "Area_id": "53c01dcf-4cd4-49f7-b5c4-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020df-ed64-4762-aa9a-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "澎湖縣",
+                "lft": "2731",
+                "rght": "2784",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020e2-b210-4e1e-821e-5c5aacb5b862",
+                "parent_id": "53c020df-ed64-4762-aa9a-5c5aacb5b862",
+                "name": "七美鄉",
+                "lft": "2776",
+                "rght": "2783",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d734d9-5ce0-4728-9ba2-1299acb5b862",
+                "parent_id": "53c020e2-b210-4e1e-821e-5c5aacb5b862",
+                "name": "第03選舉區[區域]",
+                "lft": "2781",
+                "rght": "2782",
+                "population": "1759",
+                "population_electors": "1443",
+                "quota": "3",
+                "quota_women": "0",
+                "bulletin_key": "546e068f-8704-49f5-ad02-1a32cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,澎湖縣,七美鄉,第03選舉區[區域]"
+            }
+        }
+    ]
+}

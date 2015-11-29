@@ -1,0 +1,134 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c68fa1-eb8c-461b-9de5-0f15acb5b862",
+            "election_id": "53c4008e-2b7c-4ada-9257-6cceacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "21350",
+            "name": "周玲妏",
+            "image": "5489ae1e\/a1cc\/4a97\/85f4\/35206ab936af.jpg",
+            "party": "民主進步黨",
+            "contacts_phone": "07-7116688",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "802高雄市苓雅區中正一路476號",
+            "links": "臉書 http:\/\/www.facebook.com\/choulingwen",
+            "gender": "f",
+            "no": "8",
+            "education_level": "大學",
+            "is_present": true,
+            "name_english": "CHOU LING WEN",
+            "birth_place": "高雄市",
+            "birth": "1967-12-16",
+            "platform": "",
+            "education": "淡江大學公共行政系畢業",
+            "experience": "第6.7屆高雄市議員  第1屆高雄市議員",
+            "created": "2014-07-16 22:43:45",
+            "modified": "2015-02-08 23:40:23"
+        },
+        "Election": {
+            "id": "53c4008e-2b7c-4ada-9257-6cceacb5b862",
+            "population_electors": "214333",
+            "population": "256526",
+            "quota": "6",
+            "quota_women": "1",
+            "bulletin_key": "546eb720-5f20-421e-9384-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01e6b-a848-40e1-ac01-5460acb5b862",
+                    "name": "新興區",
+                    "AreasElection": {
+                        "id": "53c406de-fd0c-4516-90f3-6dacacb5b862",
+                        "Election_id": "53c4008e-2b7c-4ada-9257-6cceacb5b862",
+                        "Area_id": "53c01e6b-a848-40e1-ac01-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01e6f-24c8-48b3-b995-5460acb5b862",
+                    "name": "前金區",
+                    "AreasElection": {
+                        "id": "53c406de-45c4-4609-8404-6dacacb5b862",
+                        "Election_id": "53c4008e-2b7c-4ada-9257-6cceacb5b862",
+                        "Area_id": "53c01e6f-24c8-48b3-b995-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01e71-3aa4-4586-9611-5460acb5b862",
+                    "name": "苓雅區",
+                    "AreasElection": {
+                        "id": "53c406de-2938-4156-bd81-6dacacb5b862",
+                        "Election_id": "53c4008e-2b7c-4ada-9257-6cceacb5b862",
+                        "Area_id": "53c01e71-3aa4-4586-9611-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207e-117c-4e21-88cf-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "高雄市",
+                "lft": "65",
+                "rght": "96",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c4008e-2b7c-4ada-9257-6cceacb5b862",
+                "parent_id": "53c0207e-117c-4e21-88cf-5c5aacb5b862",
+                "name": "第08選區[區域]",
+                "lft": "80",
+                "rght": "81",
+                "population": "256526",
+                "population_electors": "214333",
+                "quota": "6",
+                "quota_women": "1",
+                "bulletin_key": "546eb720-5f20-421e-9384-2adbcf91e152",
+                "keywords": "2014-11,直轄市議員,高雄市,第08選區[區域]"
+            }
+        }
+    ]
+}

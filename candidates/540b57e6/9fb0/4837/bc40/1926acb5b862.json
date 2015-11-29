@@ -1,0 +1,158 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b57e6-9fb0-4837-bc40-1926acb5b862",
+            "election_id": "53d73492-fcb8-4e0d-a797-1299acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "405",
+            "name": "魏其位",
+            "image": "54a8eaa9\/03c4\/48d9\/8312\/31916ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "2",
+            "education_level": "",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:52:22",
+            "modified": "2015-02-08 23:44:10"
+        },
+        "Election": {
+            "id": "53d73492-fcb8-4e0d-a797-1299acb5b862",
+            "population_electors": "1466",
+            "population": "1756",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546f277f-b894-4ab7-a790-2f28cf91e152",
+            "Area": [
+                {
+                    "id": "53c01da1-05c0-4e0a-b124-5460acb5b862",
+                    "name": "萬安村",
+                    "AreasElection": {
+                        "id": "53d73492-3234-4acf-bbba-1299acb5b862",
+                        "Election_id": "53d73492-fcb8-4e0d-a797-1299acb5b862",
+                        "Area_id": "53c01da1-05c0-4e0a-b124-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01da1-84d4-4603-b0f8-5460acb5b862",
+                    "name": "富興村",
+                    "AreasElection": {
+                        "id": "53d73492-afc0-4d0a-bc9c-1299acb5b862",
+                        "Election_id": "53d73492-fcb8-4e0d-a797-1299acb5b862",
+                        "Area_id": "53c01da1-84d4-4603-b0f8-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01da1-8728-40b2-9bce-5460acb5b862",
+                    "name": "振興村",
+                    "AreasElection": {
+                        "id": "53d73492-1b24-4461-b6bd-1299acb5b862",
+                        "Election_id": "53d73492-fcb8-4e0d-a797-1299acb5b862",
+                        "Area_id": "53c01da1-8728-40b2-9bce-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01da1-bcc0-4c4e-965c-5460acb5b862",
+                    "name": "錦園村",
+                    "AreasElection": {
+                        "id": "53d73492-d274-42f7-915c-1299acb5b862",
+                        "Election_id": "53d73492-fcb8-4e0d-a797-1299acb5b862",
+                        "Area_id": "53c01da1-bcc0-4c4e-965c-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020d9-a97c-4d95-809d-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "臺東縣",
+                "lft": "2485",
+                "rght": "2612",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020da-bfd0-44d1-b804-5c5aacb5b862",
+                "parent_id": "53c020d9-a97c-4d95-809d-5c5aacb5b862",
+                "name": "池上鄉",
+                "lft": "2530",
+                "rght": "2539",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d73492-fcb8-4e0d-a797-1299acb5b862",
+                "parent_id": "53c020da-bfd0-44d1-b804-5c5aacb5b862",
+                "name": "第03選舉區[區域]",
+                "lft": "2535",
+                "rght": "2536",
+                "population": "1756",
+                "population_electors": "1466",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546f277f-b894-4ab7-a790-2f28cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,臺東縣,池上鄉,第03選舉區[區域]"
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5496-b114-43aa-8651-1926acb5b862",
+            "election_id": "53c0243e-1d9c-4e22-bbf3-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1101",
+            "name": "蔡佩玲",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "1",
+            "education_level": "碩士",
+            "is_present": false,
+            "name_english": "TSAI PEI LING",
+            "birth_place": "高雄市",
+            "birth": "1974-09-27",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:38:14",
+            "modified": "2015-02-08 23:40:48"
+        },
+        "Election": {
+            "id": "53c0243e-1d9c-4e22-bbf3-5c5aacb5b862",
+            "population_electors": "2758",
+            "population": "3508",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb721-10b0-427a-8f3c-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01ea0-66f8-40f6-b3c5-5460acb5b862",
+                    "name": "前峰里",
+                    "AreasElection": {
+                        "id": "53c0243e-5000-4539-8f7b-5c5aacb5b862",
+                        "Election_id": "53c0243e-1d9c-4e22-bbf3-5c5aacb5b862",
+                        "Area_id": "53c01ea0-66f8-40f6-b3c5-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0243d-95c4-4cb5-bb05-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "岡山區",
+                "lft": "13692",
+                "rght": "13759",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0243e-1d9c-4e22-bbf3-5c5aacb5b862",
+                "parent_id": "53c0243d-95c4-4cb5-bb05-5c5aacb5b862",
+                "name": "前峰里",
+                "lft": "13711",
+                "rght": "13712",
+                "population": "3508",
+                "population_electors": "2758",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb721-10b0-427a-8f3c-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,岡山區,前峰里"
+            }
+        }
+    ]
+}

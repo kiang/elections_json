@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c0264d-ea54-4ba8-be2b-5dffacb5b862",
+            "election_id": "53c023cb-238c-4faf-9fb6-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "0",
+            "vote_count": "0",
+            "name": "江啟南",
+            "image": null,
+            "party": null,
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": null,
+            "no": "0",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "0000-00-00 00:00:00"
+        },
+        "Election": {
+            "id": "53c023cb-238c-4faf-9fb6-5c5aacb5b862",
+            "population_electors": "5283",
+            "population": "6717",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-de04-4f21-a8e3-4187cf91e152",
+            "Area": [
+                {
+                    "id": "53c01e3e-186c-4f87-832e-5460acb5b862",
+                    "name": "天福里",
+                    "AreasElection": {
+                        "id": "53c023cb-2c88-4b4e-a6fa-5c5aacb5b862",
+                        "Election_id": "53c023cb-238c-4faf-9fb6-5c5aacb5b862",
+                        "Area_id": "53c01e3e-186c-4f87-832e-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023c7-6a3c-4965-a1a6-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "士林區",
+                "lft": "12204",
+                "rght": "12307",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023cb-238c-4faf-9fb6-5c5aacb5b862",
+                "parent_id": "53c023c7-6a3c-4965-a1a6-5c5aacb5b862",
+                "name": "天福里",
+                "lft": "12263",
+                "rght": "12264",
+                "population": "6717",
+                "population_electors": "5283",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-de04-4f21-a8e3-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,士林區,天福里"
+            }
+        }
+    ]
+}

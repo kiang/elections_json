@@ -1,0 +1,139 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b53e1-bb1c-430e-93de-1926acb5b862",
+            "election_id": "53c0256a-42d8-4a0f-8860-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "515",
+            "name": "陳宥任",
+            "image": "54138a65\/20f4\/4e93\/9496\/1611cb455a61.jpg",
+            "party": "無",
+            "contacts_phone": "服務處04-25563936，行動0926-861270",
+            "contacts_fax": "",
+            "contacts_email": "tom6875964@gmail.com",
+            "contacts_address": "后里區舊社里4鄰舊社路56-5號",
+            "links": "",
+            "gender": "m",
+            "no": "2",
+            "education_level": "大學",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺中市",
+            "birth": "1986-11-28",
+            "platform": "1.回饋金透明化，成立執行委員會，\\n資源妥善運用，爭取里民該有的福利與建設。\\n\\n2.定期召開里民大會，有系統的解決里民問題。\\n\\n3.節慶文化活動育樂。\\n關心在地文化，傾聽里民需求。\\n\\n4.溫馨關懷，托育與樂齡。\\n長者送餐到府，急難救助，簡化流程，托育照護一條龍。\\n",
+            "education": "修平科技大學",
+            "experience": "現任：臺中市市議員高基讚服務處助理",
+            "created": "2014-09-07 02:35:13",
+            "modified": "2015-02-08 23:41:17"
+        },
+        "Election": {
+            "id": "53c0256a-42d8-4a0f-8860-5c5aacb5b862",
+            "population_electors": "1834",
+            "population": "2508",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546d8dd3-d584-4c9a-a804-1383cf91e152",
+            "Area": [
+                {
+                    "id": "53c01f9c-2ea0-4769-b466-5460acb5b862",
+                    "name": "舊社里",
+                    "AreasElection": {
+                        "id": "53c0256a-2994-4562-b881-5c5aacb5b862",
+                        "Election_id": "53c0256a-42d8-4a0f-8860-5c5aacb5b862",
+                        "Area_id": "53c01f9c-2ea0-4769-b466-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "5413065c-7a70-4efa-bc54-79a1cb455a61",
+                "name": "2014自己的政治自己救！號召太陽花、鬥陣選里長！",
+                "CandidatesTag": {
+                    "id": "541306f3-31dc-4923-ac50-799bcb455a61",
+                    "Candidate_id": "540b53e1-bb1c-430e-93de-1926acb5b862",
+                    "Tag_id": "5413065c-7a70-4efa-bc54-79a1cb455a61"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02569-4c6c-453c-8ae9-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "后里區",
+                "lft": "17156",
+                "rght": "17193",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0256a-42d8-4a0f-8860-5c5aacb5b862",
+                "parent_id": "53c02569-4c6c-453c-8ae9-5c5aacb5b862",
+                "name": "舊社里",
+                "lft": "17173",
+                "rght": "17174",
+                "population": "2508",
+                "population_electors": "1834",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546d8dd3-d584-4c9a-a804-1383cf91e152",
+                "keywords": "2014-11,村里長,臺中市,后里區,舊社里"
+            }
+        }
+    ]
+}

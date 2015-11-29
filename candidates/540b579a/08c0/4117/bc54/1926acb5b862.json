@@ -1,0 +1,140 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b579a-08c0-4117-bc54-1926acb5b862",
+            "election_id": "53d73459-bf64-422b-86d7-1299acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "221",
+            "name": "鍾貴來",
+            "image": "54cd883d\/5ad8\/44d5\/afc8\/77b76ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1970-06-28",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:51:06",
+            "modified": "2015-02-08 23:43:59"
+        },
+        "Election": {
+            "id": "53d73459-bf64-422b-86d7-1299acb5b862",
+            "population_electors": "3087",
+            "population": "3545",
+            "quota": "4",
+            "quota_women": "1",
+            "bulletin_key": "5475673a-311c-4c76-8d4a-0f78cf91e152",
+            "Area": [
+                {
+                    "id": "53c01d7c-0740-484d-a78d-5460acb5b862",
+                    "name": "新埤村",
+                    "AreasElection": {
+                        "id": "53d73459-4a38-46d1-8726-1299acb5b862",
+                        "Election_id": "53d73459-bf64-422b-86d7-1299acb5b862",
+                        "Area_id": "53c01d7c-0740-484d-a78d-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01d7c-eccc-497d-b262-5460acb5b862",
+                    "name": "建功村",
+                    "AreasElection": {
+                        "id": "53d73459-5d5c-416f-aaf6-1299acb5b862",
+                        "Election_id": "53d73459-bf64-422b-86d7-1299acb5b862",
+                        "Area_id": "53c01d7c-eccc-497d-b262-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ce-0798-4ae9-af49-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "2197",
+                "rght": "2484",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020d4-b89c-4777-817d-5c5aacb5b862",
+                "parent_id": "53c020ce-0798-4ae9-af49-5c5aacb5b862",
+                "name": "新埤鄉",
+                "lft": "2332",
+                "rght": "2341",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d73459-bf64-422b-86d7-1299acb5b862",
+                "parent_id": "53c020d4-b89c-4777-817d-5c5aacb5b862",
+                "name": "第01選舉區[區域]",
+                "lft": "2333",
+                "rght": "2334",
+                "population": "3545",
+                "population_electors": "3087",
+                "quota": "4",
+                "quota_women": "1",
+                "bulletin_key": "5475673a-311c-4c76-8d4a-0f78cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,屏東縣,新埤鄉,第01選舉區[區域]"
+            }
+        }
+    ]
+}

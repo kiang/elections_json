@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b538a-a33c-448e-9ee8-1926acb5b862",
+            "election_id": "53c02349-fa0c-4775-b430-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1470",
+            "name": "溫永達",
+            "image": null,
+            "party": "無",
+            "contacts_phone": "123",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "1",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "Wen Yung Ta",
+            "birth_place": "臺灣省",
+            "birth": "1960-01-01",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:33:46",
+            "modified": "2015-02-08 23:41:41"
+        },
+        "Election": {
+            "id": "53c02349-fa0c-4775-b430-5c5aacb5b862",
+            "population_electors": "3334",
+            "population": "4052",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-c184-4529-ab56-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c06-9e98-4170-8377-5460acb5b862",
+                    "name": "水尾里",
+                    "AreasElection": {
+                        "id": "53c02349-1a14-442e-902b-5c5aacb5b862",
+                        "Election_id": "53c02349-fa0c-4775-b430-5c5aacb5b862",
+                        "Area_id": "53c01c06-9e98-4170-8377-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "桃園市",
+                "lft": "10439",
+                "rght": "11456",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02344-9b04-46f5-8e6f-5c5aacb5b862",
+                "parent_id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "name": "中壢區",
+                "lft": "10594",
+                "rght": "10765",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02349-fa0c-4775-b430-5c5aacb5b862",
+                "parent_id": "53c02344-9b04-46f5-8e6f-5c5aacb5b862",
+                "name": "水尾里",
+                "lft": "10657",
+                "rght": "10658",
+                "population": "4052",
+                "population_electors": "3334",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-c184-4529-ab56-1a32cf91e152",
+                "keywords": "2014-11,村里長,桃園市,中壢區,水尾里"
+            }
+        }
+    ]
+}

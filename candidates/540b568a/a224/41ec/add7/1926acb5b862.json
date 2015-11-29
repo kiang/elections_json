@@ -1,0 +1,124 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b568a-a224-41ec-add7-1926acb5b862",
+            "election_id": "53c4037d-7e34-45be-9f21-6d45acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "81",
+            "name": "黃國華",
+            "image": "561cd7a6\/e6d8\/4068\/a220\/18d46ab936af.jpg",
+            "party": "臺灣建國黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "臉書 http:\/\/www.facebook.com\/pages\/%E6%A1%83%E5%9C%92%E7%B8%A3%E5%B9%B3%E9%8E%AE%E5%B8%82%E5%80%99%E9%81%B8%E4%BA%BA%E9%BB%83%E5%9C%8B%E8%8F%AF\/645826682146439\\n臉書 http:\/\/www.facebook.com\/bonddealer.tw",
+            "gender": "m",
+            "no": "12",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "HWANG KUO HWA",
+            "birth_place": "臺灣省",
+            "birth": "1969-02-03",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:46:34",
+            "modified": "2015-10-13 18:07:07"
+        },
+        "Election": {
+            "id": "53c4037d-7e34-45be-9f21-6d45acb5b862",
+            "population_electors": "162610",
+            "population": "212073",
+            "quota": "6",
+            "quota_women": "1",
+            "bulletin_key": "546e068d-7c58-43cc-a363-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c2a-87fc-480e-94b0-5460acb5b862",
+                    "name": "平鎮區",
+                    "AreasElection": {
+                        "id": "53c40822-7518-4c47-81b6-6e01acb5b862",
+                        "Election_id": "53c4037d-7e34-45be-9f21-6d45acb5b862",
+                        "Area_id": "53c01c2a-87fc-480e-94b0-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "5413101b-fee0-4d1d-b76d-2c89cb455a61",
+                "name": "2014臺灣建國黨",
+                "CandidatesTag": {
+                    "id": "54131028-7574-4e06-a4e6-2c89cb455a61",
+                    "Candidate_id": "540b568a-a224-41ec-add7-1926acb5b862",
+                    "Tag_id": "5413101b-fee0-4d1d-b76d-2c89cb455a61"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207d-ff5c-4dfe-98b5-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "桃園市",
+                "lft": "17",
+                "rght": "46",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c4037d-7e34-45be-9f21-6d45acb5b862",
+                "parent_id": "53c0207d-ff5c-4dfe-98b5-5c5aacb5b862",
+                "name": "第08選區[區域]",
+                "lft": "32",
+                "rght": "33",
+                "population": "212073",
+                "population_electors": "162610",
+                "quota": "6",
+                "quota_women": "1",
+                "bulletin_key": "546e068d-7c58-43cc-a363-1a32cf91e152",
+                "keywords": "2014-11,直轄市議員,桃園市,第08選區[區域]"
+            }
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5680-4b88-4753-b38c-1926acb5b862",
+            "election_id": "53c40094-d20c-4a19-bd2e-6cceacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "614",
+            "name": "蕭榮騰",
+            "image": "543ceb40\/4dc0\/41eb\/a669\/0f0dcb455a61.jpg",
+            "party": "人民最大黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "臉書 http:\/\/www.facebook.com\/pages\/%E8%95%AD%E6%A6%AE%E9%A8%B0-%E9%99%B3%E6%83%85%E9%81%94%E4%BA%BA-2014-%E6%96%B0%E5%8C%97%E5%B8%82%E5%B8%82%E8%AD%B0%E5%93%A1%E5%80%99%E9%81%B8%E4%BA%BA-%E4%B8%89%E9%87%8D%E5%8D%80%E8%98%86%E6%B4%B2%E5%8D%80\/690669640988795\\n臉書 http:\/\/www.facebook.com\/top5168",
+            "gender": "m",
+            "no": "2",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1968-07-01",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:46:24",
+            "modified": "2015-02-08 23:40:24"
+        },
+        "Election": {
+            "id": "53c40094-d20c-4a19-bd2e-6cceacb5b862",
+            "population_electors": "470925",
+            "population": "588640",
+            "quota": "9",
+            "quota_women": "2",
+            "bulletin_key": "5469b450-3fc0-41b5-897c-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01eda-3944-4a0f-b58a-5460acb5b862",
+                    "name": "三重區",
+                    "AreasElection": {
+                        "id": "53c406e2-6000-4d70-8517-6dacacb5b862",
+                        "Election_id": "53c40094-d20c-4a19-bd2e-6cceacb5b862",
+                        "Area_id": "53c01eda-3944-4a0f-b58a-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01f44-6244-4707-b56a-5460acb5b862",
+                    "name": "蘆洲區",
+                    "AreasElection": {
+                        "id": "53c406e2-bef4-4b47-842b-6dacacb5b862",
+                        "Election_id": "53c40094-d20c-4a19-bd2e-6cceacb5b862",
+                        "Area_id": "53c01f44-6244-4707-b56a-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54130fc9-84f8-479c-81b9-2c85cb455a61",
+                "name": "2014人民最大黨",
+                "CandidatesTag": {
+                    "id": "54130fd2-7578-4ff5-b3e8-2c85cb455a61",
+                    "Candidate_id": "540b5680-4b88-4753-b38c-1926acb5b862",
+                    "Tag_id": "54130fc9-84f8-479c-81b9-2c85cb455a61"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207e-1efc-4871-a931-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "新北市",
+                "lft": "97",
+                "rght": "122",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c40094-d20c-4a19-bd2e-6cceacb5b862",
+                "parent_id": "53c0207e-1efc-4871-a931-5c5aacb5b862",
+                "name": "第03選區[區域]",
+                "lft": "102",
+                "rght": "103",
+                "population": "588640",
+                "population_electors": "470925",
+                "quota": "9",
+                "quota_women": "2",
+                "bulletin_key": "5469b450-3fc0-41b5-897c-74a5cf91e152",
+                "keywords": "2014-11,直轄市議員,新北市,第03選區[區域]"
+            }
+        }
+    ]
+}

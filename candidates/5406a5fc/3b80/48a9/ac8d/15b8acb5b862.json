@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "5406a5fc-3b80-48a9-ac8d-15b8acb5b862",
+            "election_id": "53c02088-cb28-4674-96bb-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "0",
+            "vote_count": "0",
+            "name": "林騰煌",
+            "image": "54943025\/b33c\/4d85\/90cb\/3a6f6ab936af.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "0",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "馬賽國小 蘇澳初中 中華工商高級職業學校",
+            "experience": "蘇澳鎮民代表會第14、15、16屆代表。 蘇澳鎮民代表會第17屆副主席。 救國團蘇澳團委會會長。 蘇澳鎮各宮、寺廟管理委員會主委、委員、顧問。 蘇澳鎮隘丁社區發展協會理事長。 國立政治大學地方首長公共管理暨施政行銷研習班結業。 蘇澳鎮第15屆鎮長。",
+            "created": "2014-09-03 13:24:12",
+            "modified": "2014-12-19 22:15:22"
+        },
+        "Election": {
+            "id": "53c02088-cb28-4674-96bb-5c5aacb5b862",
+            "population_electors": "33972",
+            "population": "41143",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-d12c-4eff-bf3c-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01bdf-3458-4d75-a8e7-5460acb5b862",
+                    "name": "蘇澳鎮",
+                    "AreasElection": {
+                        "id": "53c02088-3528-42e1-b8b1-5c5aacb5b862",
+                        "Election_id": "53c02088-cb28-4674-96bb-5c5aacb5b862",
+                        "Area_id": "53c01bdf-3458-4d75-a8e7-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市長",
+                "lft": "608",
+                "rght": "1031",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02087-d634-4ed1-947c-5c5aacb5b862",
+                "parent_id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "name": "宜蘭縣",
+                "lft": "633",
+                "rght": "658",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02088-cb28-4674-96bb-5c5aacb5b862",
+                "parent_id": "53c02087-d634-4ed1-947c-5c5aacb5b862",
+                "name": "蘇澳鎮",
+                "lft": "638",
+                "rght": "639",
+                "population": "41143",
+                "population_electors": "33972",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-d12c-4eff-bf3c-2adbcf91e152",
+                "keywords": "2014-11,鄉鎮市長,宜蘭縣,蘇澳鎮"
+            }
+        }
+    ]
+}

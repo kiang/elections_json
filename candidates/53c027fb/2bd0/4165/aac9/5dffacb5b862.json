@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c027fb-2bd0-4165-aac9-5dffacb5b862",
+            "election_id": "53c021e9-73c8-4b28-b36b-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "0",
+            "vote_count": "0",
+            "name": "林忠正",
+            "image": null,
+            "party": null,
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": null,
+            "no": "0",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "0000-00-00 00:00:00"
+        },
+        "Election": {
+            "id": "53c021e9-73c8-4b28-b36b-5c5aacb5b862",
+            "population_electors": "470",
+            "population": "644",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54735d55-0af4-4c80-a747-21eacf91e152",
+            "Area": [
+                {
+                    "id": "53c01ce6-6a40-4157-8416-5460acb5b862",
+                    "name": "力行村",
+                    "AreasElection": {
+                        "id": "53c021e9-eb70-401a-a0bf-5c5aacb5b862",
+                        "Election_id": "53c021e9-73c8-4b28-b36b-5c5aacb5b862",
+                        "Area_id": "53c01ce6-6a40-4157-8416-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "南投縣",
+                "lft": "5649",
+                "rght": "6200",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021e9-84c0-45bf-8daf-5c5aacb5b862",
+                "parent_id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "name": "仁愛鄉",
+                "lft": "6166",
+                "rght": "6199",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021e9-73c8-4b28-b36b-5c5aacb5b862",
+                "parent_id": "53c021e9-84c0-45bf-8daf-5c5aacb5b862",
+                "name": "力行村",
+                "lft": "6169",
+                "rght": "6170",
+                "population": "644",
+                "population_electors": "470",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54735d55-0af4-4c80-a747-21eacf91e152",
+                "keywords": "2014-11,村里長,南投縣,仁愛鄉,力行村"
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b54b2-51f8-46bd-900f-1926acb5b862",
+            "election_id": "53c02469-ce94-4a1a-abbe-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "211",
+            "name": "拉瑪達．伊斯瑪哈善 Lamata．Ismahasan",
+            "image": "",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "1",
+            "education_level": "大學",
+            "is_present": false,
+            "name_english": "Ismahasan Lamada",
+            "birth_place": "高雄市",
+            "birth": "1981-12-28",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:38:42",
+            "modified": "2015-02-08 23:40:53"
+        },
+        "Election": {
+            "id": "53c02469-ce94-4a1a-abbe-5c5aacb5b862",
+            "population_electors": "710",
+            "population": "981",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb721-073c-4440-8efd-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01ec5-9264-4ab0-8650-5460acb5b862",
+                    "name": "桃源里",
+                    "AreasElection": {
+                        "id": "53c0246a-4808-4fe8-b2a5-5c5aacb5b862",
+                        "Election_id": "53c02469-ce94-4a1a-abbe-5c5aacb5b862",
+                        "Area_id": "53c01ec5-9264-4ab0-8650-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02469-435c-4144-bda7-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "桃源區",
+                "lft": "14234",
+                "rght": "14251",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02469-ce94-4a1a-abbe-5c5aacb5b862",
+                "parent_id": "53c02469-435c-4144-bda7-5c5aacb5b862",
+                "name": "桃源里",
+                "lft": "14235",
+                "rght": "14236",
+                "population": "981",
+                "population_electors": "710",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb721-073c-4440-8efd-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,桃源區,桃源里"
+            }
+        }
+    ]
+}

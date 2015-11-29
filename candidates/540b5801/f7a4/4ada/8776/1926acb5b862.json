@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5801-f7a4-4ada-8776-1926acb5b862",
+            "election_id": "53c0208b-73f0-4bce-a515-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "8126",
+            "name": "羅世洞",
+            "image": "549acaa5\/20bc\/45bb\/bbf4\/18366ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "3",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1945-05-15",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:52:49",
+            "modified": "2015-02-08 23:41:59"
+        },
+        "Election": {
+            "id": "53c0208b-73f0-4bce-a515-5c5aacb5b862",
+            "population_electors": "58950",
+            "population": "77098",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-5d64-4c99-9dd8-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c44-7e64-457f-ac69-5460acb5b862",
+                    "name": "湖口鄉",
+                    "AreasElection": {
+                        "id": "53c0208b-91a0-4c56-bdde-5c5aacb5b862",
+                        "Election_id": "53c0208b-73f0-4bce-a515-5c5aacb5b862",
+                        "Area_id": "53c01c44-7e64-457f-ac69-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市長",
+                "lft": "608",
+                "rght": "1031",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0208a-29e0-490b-94ba-5c5aacb5b862",
+                "parent_id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "name": "新竹縣",
+                "lft": "659",
+                "rght": "686",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0208b-73f0-4bce-a515-5c5aacb5b862",
+                "parent_id": "53c0208a-29e0-490b-94ba-5c5aacb5b862",
+                "name": "湖口鄉",
+                "lft": "668",
+                "rght": "669",
+                "population": "77098",
+                "population_electors": "58950",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-5d64-4c99-9dd8-1a32cf91e152",
+                "keywords": "2014-11,鄉鎮市長,新竹縣,湖口鄉"
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02898-3dd4-43de-8e2d-5dffacb5b862",
+            "election_id": "53c0232d-676c-4499-8839-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "783",
+            "name": "邱奕賓",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "CHIU YI PIN",
+            "birth_place": "臺灣省",
+            "birth": "1954-03-04",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:45:35"
+        },
+        "Election": {
+            "id": "53c0232d-676c-4499-8839-5c5aacb5b862",
+            "population_electors": "1950",
+            "population": "2355",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546b0806-6bb0-4bdd-98f5-2ff0cf91e152",
+            "Area": [
+                {
+                    "id": "53c01dfb-576c-436c-99c8-5460acb5b862",
+                    "name": "新開里",
+                    "AreasElection": {
+                        "id": "53c0232d-d530-4edd-8940-5c5aacb5b862",
+                        "Election_id": "53c0232d-676c-4499-8839-5c5aacb5b862",
+                        "Area_id": "53c01dfb-576c-436c-99c8-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0232b-91c8-456a-8388-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "嘉義市",
+                "lft": "10265",
+                "rght": "10438",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0232b-8cc0-4e90-8f01-5c5aacb5b862",
+                "parent_id": "53c0232b-91c8-456a-8388-5c5aacb5b862",
+                "name": "東區",
+                "lft": "10266",
+                "rght": "10345",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0232d-676c-4499-8839-5c5aacb5b862",
+                "parent_id": "53c0232b-8cc0-4e90-8f01-5c5aacb5b862",
+                "name": "新開里",
+                "lft": "10297",
+                "rght": "10298",
+                "population": "2355",
+                "population_electors": "1950",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546b0806-6bb0-4bdd-98f5-2ff0cf91e152",
+                "keywords": "2014-11,村里長,嘉義市,東區,新開里"
+            }
+        }
+    ]
+}

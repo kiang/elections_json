@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "5406a615-8b20-42e7-996c-15b8acb5b862",
+            "election_id": "53c020a7-9bb8-455f-819b-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "2137",
+            "name": "趙宏翰",
+            "image": "549980c0\/e924\/4fd2\/a5d4\/51036ab936af.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "1",
+            "education_level": "專科",
+            "is_present": true,
+            "name_english": "JHAO HUNGHAN",
+            "birth_place": "臺灣省",
+            "birth": "1971-01-11",
+            "platform": "",
+            "education": "東方工商專科學校",
+            "experience": "（一）台東區漁會代表 （二）大武國小９７、９８學年度家長會長 （三）大武義警分隊書記",
+            "created": "2014-09-03 13:24:37",
+            "modified": "2015-02-08 23:42:03"
+        },
+        "Election": {
+            "id": "53c020a7-9bb8-455f-819b-5c5aacb5b862",
+            "population_electors": "5436",
+            "population": "6623",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546f277f-eaa4-4fb0-952b-2f28cf91e152",
+            "Area": [
+                {
+                    "id": "53c01da5-e294-4c16-ae88-5460acb5b862",
+                    "name": "大武鄉",
+                    "AreasElection": {
+                        "id": "53c020a7-69b4-4cb1-909d-5c5aacb5b862",
+                        "Election_id": "53c020a7-9bb8-455f-819b-5c5aacb5b862",
+                        "Area_id": "53c01da5-e294-4c16-ae88-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市長",
+                "lft": "608",
+                "rght": "1031",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020a5-ddcc-44df-8d3e-5c5aacb5b862",
+                "parent_id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "name": "臺東縣",
+                "lft": "955",
+                "rght": "988",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020a7-9bb8-455f-819b-5c5aacb5b862",
+                "parent_id": "53c020a5-ddcc-44df-8d3e-5c5aacb5b862",
+                "name": "大武鄉",
+                "lft": "974",
+                "rght": "975",
+                "population": "6623",
+                "population_electors": "5436",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546f277f-eaa4-4fb0-952b-2f28cf91e152",
+                "keywords": "2014-11,鄉鎮市長,臺東縣,大武鄉"
+            }
+        }
+    ]
+}

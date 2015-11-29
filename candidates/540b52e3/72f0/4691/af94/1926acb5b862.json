@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b52e3-72f0-4691-af94-1926acb5b862",
+            "election_id": "53c02392-1ffc-4fc9-a1f6-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "935",
+            "name": "陳運炘",
+            "image": null,
+            "party": "民主進步黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "3",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "CHEN YUN SIN",
+            "birth_place": "臺灣省",
+            "birth": "1966-09-24",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:30:59",
+            "modified": "2015-02-08 23:40:29"
+        },
+        "Election": {
+            "id": "53c02392-1ffc-4fc9-a1f6-5c5aacb5b862",
+            "population_electors": "4961",
+            "population": "5914",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-c0e4-4fea-b9df-4187cf91e152",
+            "Area": [
+                {
+                    "id": "53c01e0d-4994-4766-afc1-5460acb5b862",
+                    "name": "四育里",
+                    "AreasElection": {
+                        "id": "53c02392-5710-49d8-be11-5c5aacb5b862",
+                        "Election_id": "53c02392-1ffc-4fc9-a1f6-5c5aacb5b862",
+                        "Area_id": "53c01e0d-4994-4766-afc1-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02390-47d0-4ee3-8b34-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "信義區",
+                "lft": "11526",
+                "rght": "11609",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02392-1ffc-4fc9-a1f6-5c5aacb5b862",
+                "parent_id": "53c02390-47d0-4ee3-8b34-5c5aacb5b862",
+                "name": "四育里",
+                "lft": "11555",
+                "rght": "11556",
+                "population": "5914",
+                "population_electors": "4961",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-c0e4-4fea-b9df-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,信義區,四育里"
+            }
+        }
+    ]
+}

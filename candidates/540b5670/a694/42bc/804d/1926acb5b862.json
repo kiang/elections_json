@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5670-a694-42bc-804d-1926acb5b862",
+            "election_id": "53c02337-8d7c-4635-9f72-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "493",
+            "name": "黃崑榮",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1947-06-28",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:46:08",
+            "modified": "2015-02-08 23:45:36"
+        },
+        "Election": {
+            "id": "53c02337-8d7c-4635-9f72-5c5aacb5b862",
+            "population_electors": "1642",
+            "population": "2066",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "Area": [
+                {
+                    "id": "53c01e04-4534-45be-8a79-5460acb5b862",
+                    "name": "慶安里",
+                    "AreasElection": {
+                        "id": "53c02337-6c28-495c-9b60-5c5aacb5b862",
+                        "Election_id": "53c02337-8d7c-4635-9f72-5c5aacb5b862",
+                        "Area_id": "53c01e04-4534-45be-8a79-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0232b-91c8-456a-8388-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "嘉義市",
+                "lft": "10265",
+                "rght": "10438",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02331-37e4-49a2-a7ea-5c5aacb5b862",
+                "parent_id": "53c0232b-91c8-456a-8388-5c5aacb5b862",
+                "name": "西區",
+                "lft": "10346",
+                "rght": "10437",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02337-8d7c-4635-9f72-5c5aacb5b862",
+                "parent_id": "53c02331-37e4-49a2-a7ea-5c5aacb5b862",
+                "name": "慶安里",
+                "lft": "10427",
+                "rght": "10428",
+                "population": "2066",
+                "population_electors": "1642",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2014-11,村里長,嘉義市,西區,慶安里"
+            }
+        }
+    ]
+}

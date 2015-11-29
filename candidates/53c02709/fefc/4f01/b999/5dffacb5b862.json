@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02709-fefc-4f01-b999-5dffacb5b862",
+            "election_id": "53c02572-0b04-4651-9a78-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1527",
+            "name": "林義木",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "LIN YI NU",
+            "birth_place": "臺中市",
+            "birth": "1972-10-27",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:41:18"
+        },
+        "Election": {
+            "id": "53c02572-0b04-4651-9a78-5c5aacb5b862",
+            "population_electors": "3481",
+            "population": "4426",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e0691-1184-4c69-adef-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01fa4-3018-4671-af8e-5460acb5b862",
+                    "name": "忠義里",
+                    "AreasElection": {
+                        "id": "53c02573-b74c-4abc-bb3b-5c5aacb5b862",
+                        "Election_id": "53c02572-0b04-4651-9a78-5c5aacb5b862",
+                        "Area_id": "53c01fa4-3018-4671-af8e-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02572-8c28-4e05-8d65-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "大雅區",
+                "lft": "17262",
+                "rght": "17293",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02572-0b04-4651-9a78-5c5aacb5b862",
+                "parent_id": "53c02572-8c28-4e05-8d65-5c5aacb5b862",
+                "name": "忠義里",
+                "lft": "17267",
+                "rght": "17268",
+                "population": "4426",
+                "population_electors": "3481",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e0691-1184-4c69-adef-1a32cf91e152",
+                "keywords": "2014-11,村里長,臺中市,大雅區,忠義里"
+            }
+        }
+    ]
+}

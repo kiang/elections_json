@@ -1,0 +1,125 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c68f9b-2c28-4148-9b69-0f15acb5b862",
+            "election_id": "53c40085-c804-4fc1-a3b3-6cceacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "25102",
+            "name": "王世堅",
+            "image": "56473923\/16f8\/4af8\/93e6\/0ed66ab936af.jpg",
+            "party": "民主進步黨",
+            "contacts_phone": "02-27297708",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "110台北市信義區仁愛路四段507號625室",
+            "links": "臉書 http:\/\/www.facebook.com\/shihchien888",
+            "gender": "m",
+            "no": "8",
+            "education_level": "碩士",
+            "is_present": true,
+            "name_english": "Wang shih Chien",
+            "birth_place": "臺北市",
+            "birth": "1960-01-01",
+            "platform": "",
+            "education": "文化大學應用化學研究所碩士  再興高中  新興國中  中山國小  協進幼稚園",
+            "experience": "第8、9、11屆臺北市議員  第六屆立法委員  江鵬堅競選立委總幹事  二二八和平促進會執行長  「台北之音」創辦人  「鄉情重奏團」小提琴手  自立晚報董事長",
+            "created": "2014-07-16 22:43:39",
+            "modified": "2015-11-14 21:39:47"
+        },
+        "Election": {
+            "id": "53c40085-c804-4fc1-a3b3-6cceacb5b862",
+            "population_electors": "294667",
+            "population": "360499",
+            "quota": "8",
+            "quota_women": "2",
+            "bulletin_key": "5469b450-72a4-4536-8506-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01e18-0e00-4da5-aa2f-5460acb5b862",
+                    "name": "中山區",
+                    "AreasElection": {
+                        "id": "53c406dc-beb8-48de-b3f9-6dacacb5b862",
+                        "Election_id": "53c40085-c804-4fc1-a3b3-6cceacb5b862",
+                        "Area_id": "53c01e18-0e00-4da5-aa2f-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01e22-e884-420a-b12a-5460acb5b862",
+                    "name": "大同區",
+                    "AreasElection": {
+                        "id": "53c406dc-c368-475c-a2ba-6dacacb5b862",
+                        "Election_id": "53c40085-c804-4fc1-a3b3-6cceacb5b862",
+                        "Area_id": "53c01e22-e884-420a-b12a-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207e-df00-40ad-b2bd-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "臺北市",
+                "lft": "47",
+                "rght": "64",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c40085-c804-4fc1-a3b3-6cceacb5b862",
+                "parent_id": "53c0207e-df00-40ad-b2bd-5c5aacb5b862",
+                "name": "第04選區[區域]",
+                "lft": "54",
+                "rght": "55",
+                "population": "360499",
+                "population_electors": "294667",
+                "quota": "8",
+                "quota_women": "2",
+                "bulletin_key": "5469b450-72a4-4536-8506-74a5cf91e152",
+                "keywords": "2014-11,直轄市議員,臺北市,第04選區[區域]"
+            }
+        }
+    ]
+}

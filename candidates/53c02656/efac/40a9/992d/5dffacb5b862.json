@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02656-efac-40a9-992d-5dffacb5b862",
+            "election_id": "53c023e0-e64c-42ef-9303-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "326",
+            "name": "康明義",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "3",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "高雄市",
+            "birth": "1954-02-08",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:40:38"
+        },
+        "Election": {
+            "id": "53c023e0-e64c-42ef-9303-5c5aacb5b862",
+            "population_electors": "2509",
+            "population": "2793",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb720-354c-410a-b38e-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01e55-65dc-40e0-9b59-5460acb5b862",
+                    "name": "進學里",
+                    "AreasElection": {
+                        "id": "53c023e0-649c-465b-84da-5c5aacb5b862",
+                        "Election_id": "53c023e0-e64c-42ef-9303-5c5aacb5b862",
+                        "Area_id": "53c01e55-65dc-40e0-9b59-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023df-4f50-4faf-8ff2-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "左營區",
+                "lft": "12518",
+                "rght": "12599",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023e0-e64c-42ef-9303-5c5aacb5b862",
+                "parent_id": "53c023df-4f50-4faf-8ff2-5c5aacb5b862",
+                "name": "進學里",
+                "lft": "12523",
+                "rght": "12524",
+                "population": "2793",
+                "population_electors": "2509",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb720-354c-410a-b38e-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,左營區,進學里"
+            }
+        }
+    ]
+}

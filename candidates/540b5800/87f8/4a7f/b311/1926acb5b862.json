@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5800-87f8-4a7f-b311-1926acb5b862",
+            "election_id": "53c0208a-48e8-4ae5-8e13-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "8409",
+            "name": "陳英樓",
+            "image": "549c1f0c\/088c\/4883\/ade9\/77c76ab936af.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "臉書 http:\/\/www.facebook.com\/pages\/%E9%99%B3%E8%8B%B1%E6%A8%93\/327154544134258",
+            "gender": "m",
+            "no": "1",
+            "education_level": "大學",
+            "is_present": false,
+            "name_english": "CHEN YING LOU",
+            "birth_place": "臺灣省",
+            "birth": "1956-09-08",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:52:48",
+            "modified": "2015-02-08 23:41:59"
+        },
+        "Election": {
+            "id": "53c0208a-48e8-4ae5-8e13-5c5aacb5b862",
+            "population_electors": "28405",
+            "population": "34522",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-b2ac-41db-9b2b-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c40-81b8-4996-8ff3-5460acb5b862",
+                    "name": "新埔鎮",
+                    "AreasElection": {
+                        "id": "53c0208b-3498-4df1-9d84-5c5aacb5b862",
+                        "Election_id": "53c0208a-48e8-4ae5-8e13-5c5aacb5b862",
+                        "Area_id": "53c01c40-81b8-4996-8ff3-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市長",
+                "lft": "608",
+                "rght": "1031",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0208a-29e0-490b-94ba-5c5aacb5b862",
+                "parent_id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "name": "新竹縣",
+                "lft": "659",
+                "rght": "686",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0208a-48e8-4ae5-8e13-5c5aacb5b862",
+                "parent_id": "53c0208a-29e0-490b-94ba-5c5aacb5b862",
+                "name": "新埔鎮",
+                "lft": "664",
+                "rght": "665",
+                "population": "34522",
+                "population_electors": "28405",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-b2ac-41db-9b2b-1a32cf91e152",
+                "keywords": "2014-11,鄉鎮市長,新竹縣,新埔鎮"
+            }
+        }
+    ]
+}

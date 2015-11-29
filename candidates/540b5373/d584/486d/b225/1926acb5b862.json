@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5373-d584-486d-b225-1926acb5b862",
+            "election_id": "53c0250b-dc48-4a91-aa5d-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "82",
+            "name": "王財源",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "新北市",
+            "birth": "1960-09-03",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:33:23",
+            "modified": "2015-02-08 23:41:09"
+        },
+        "Election": {
+            "id": "53c0250b-dc48-4a91-aa5d-5c5aacb5b862",
+            "population_electors": "400",
+            "population": "468",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-3480-4229-8159-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01f53-1a8c-4097-b8e7-5460acb5b862",
+                    "name": "石碇里",
+                    "AreasElection": {
+                        "id": "53c0250b-0b80-49f0-9cc2-5c5aacb5b862",
+                        "Election_id": "53c0250b-dc48-4a91-aa5d-5c5aacb5b862",
+                        "Area_id": "53c01f53-1a8c-4097-b8e7-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新北市",
+                "lft": "14261",
+                "rght": "16384",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0250b-8b64-4768-afee-5c5aacb5b862",
+                "parent_id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "name": "石碇區",
+                "lft": "16130",
+                "rght": "16155",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0250b-dc48-4a91-aa5d-5c5aacb5b862",
+                "parent_id": "53c0250b-8b64-4768-afee-5c5aacb5b862",
+                "name": "石碇里",
+                "lft": "16131",
+                "rght": "16132",
+                "population": "468",
+                "population_electors": "400",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-3480-4229-8159-1a32cf91e152",
+                "keywords": "2014-11,村里長,新北市,石碇區,石碇里"
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5651-07e0-4b77-95aa-1926acb5b862",
+            "election_id": "53c02309-0f70-433c-b1eb-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "211",
+            "name": "于鴻成",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "YU HUNG CHEN",
+            "birth_place": "臺灣省",
+            "birth": "1953-12-29",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:45:37",
+            "modified": "2015-02-08 23:45:31"
+        },
+        "Election": {
+            "id": "53c02309-0f70-433c-b1eb-5c5aacb5b862",
+            "population_electors": "727",
+            "population": "842",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c8095-9088-4c7c-8d7f-61a3cf91e152",
+            "Area": [
+                {
+                    "id": "53c01dda-e974-42aa-a2e3-5460acb5b862",
+                    "name": "兆連里",
+                    "AreasElection": {
+                        "id": "53c02309-9144-4806-9660-5c5aacb5b862",
+                        "Election_id": "53c02309-0f70-433c-b1eb-5c5aacb5b862",
+                        "Area_id": "53c01dda-e974-42aa-a2e3-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "基隆市",
+                "lft": "9683",
+                "rght": "10012",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02305-2ab0-47c6-b70c-5c5aacb5b862",
+                "parent_id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "name": "仁愛區",
+                "lft": "9808",
+                "rght": "9867",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02309-0f70-433c-b1eb-5c5aacb5b862",
+                "parent_id": "53c02305-2ab0-47c6-b70c-5c5aacb5b862",
+                "name": "兆連里",
+                "lft": "9853",
+                "rght": "9854",
+                "population": "842",
+                "population_electors": "727",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c8095-9088-4c7c-8d7f-61a3cf91e152",
+                "keywords": "2014-11,村里長,基隆市,仁愛區,兆連里"
+            }
+        }
+    ]
+}

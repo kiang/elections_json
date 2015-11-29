@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c027b6-3aa4-4aec-b8c2-5dffacb5b862",
+            "election_id": "53c02168-f904-4e4f-8302-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "824",
+            "name": "沈宗益",
+            "image": "5458e61e\/22e0\/44b7\/8f3c\/14bf8e043389.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1938-12-02",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:44:39"
+        },
+        "Election": {
+            "id": "53c02168-f904-4e4f-8302-5c5aacb5b862",
+            "population_electors": "2365",
+            "population": "2969",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-b450-4e1c-8d90-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c7d-bd04-4015-8fe4-5460acb5b862",
+                    "name": "卦山里",
+                    "AreasElection": {
+                        "id": "53c02168-4bf8-4e4f-aaa9-5c5aacb5b862",
+                        "Election_id": "53c02168-f904-4e4f-8302-5c5aacb5b862",
+                        "Area_id": "53c01c7d-bd04-4015-8fe4-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "4417",
+                "rght": "5648",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-f384-4c28-9dd3-5c5aacb5b862",
+                "parent_id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "name": "彰化市",
+                "lft": "4418",
+                "rght": "4565",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02168-f904-4e4f-8302-5c5aacb5b862",
+                "parent_id": "53c02162-f384-4c28-9dd3-5c5aacb5b862",
+                "name": "卦山里",
+                "lft": "4495",
+                "rght": "4496",
+                "population": "2969",
+                "population_electors": "2365",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-b450-4e1c-8d90-74a5cf91e152",
+                "keywords": "2014-11,村里長,彰化縣,彰化市,卦山里"
+            }
+        }
+    ]
+}

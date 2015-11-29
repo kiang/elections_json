@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b55a9-c0c0-4d28-978f-1926acb5b862",
+            "election_id": "53c0225c-38b0-48fa-8e90-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1071",
+            "name": "劉邦能",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "3",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "Liu Bang neng",
+            "birth_place": "臺灣省",
+            "birth": "1958-10-16",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:42:49",
+            "modified": "2015-02-08 23:45:12"
+        },
+        "Election": {
+            "id": "53c0225c-38b0-48fa-8e90-5c5aacb5b862",
+            "population_electors": "4258",
+            "population": "5214",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546ef559-8740-48a8-9654-208ecf91e152",
+            "Area": [
+                {
+                    "id": "53c01d49-7ac8-4a36-aa98-5460acb5b862",
+                    "name": "梅北村",
+                    "AreasElection": {
+                        "id": "53c0225c-4404-4f4f-82a4-5c5aacb5b862",
+                        "Election_id": "53c0225c-38b0-48fa-8e90-5c5aacb5b862",
+                        "Area_id": "53c01d49-7ac8-4a36-aa98-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0222a-d5c0-465f-849c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "嘉義縣",
+                "lft": "7019",
+                "rght": "7770",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0225b-e980-453c-93e3-5c5aacb5b862",
+                "parent_id": "53c0222a-d5c0-465f-849c-5c5aacb5b862",
+                "name": "梅山鄉",
+                "lft": "7670",
+                "rght": "7707",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0225c-38b0-48fa-8e90-5c5aacb5b862",
+                "parent_id": "53c0225b-e980-453c-93e3-5c5aacb5b862",
+                "name": "梅北村",
+                "lft": "7679",
+                "rght": "7680",
+                "population": "5214",
+                "population_electors": "4258",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546ef559-8740-48a8-9654-208ecf91e152",
+                "keywords": "2014-11,村里長,嘉義縣,梅山鄉,梅北村"
+            }
+        }
+    ]
+}

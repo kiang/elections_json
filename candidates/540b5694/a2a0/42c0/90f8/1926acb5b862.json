@@ -1,0 +1,125 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5694-a2a0-42c0-90f8-1926acb5b862",
+            "election_id": "53c400ab-69e8-49a5-9610-6cceacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "11569",
+            "name": "林阳乙",
+            "image": "548ae8cd\/5e38\/4c2d\/bae8\/7e7d6ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "臉書 http:\/\/www.facebook.com\/pages\/%E6%9E%97%E9%98%B3%E4%B9%99\/413354042138395",
+            "gender": "m",
+            "no": "11",
+            "education_level": "大學",
+            "is_present": false,
+            "name_english": "Lin Yang I",
+            "birth_place": "臺南市",
+            "birth": "1961-04-16",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:46:44",
+            "modified": "2015-02-08 23:40:26"
+        },
+        "Election": {
+            "id": "53c400ab-69e8-49a5-9610-6cceacb5b862",
+            "population_electors": "206971",
+            "population": "263727",
+            "quota": "8",
+            "quota_women": "2",
+            "bulletin_key": "5469b450-f3f0-44bf-830a-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01ff2-177c-42aa-8f5a-5460acb5b862",
+                    "name": "新市區",
+                    "AreasElection": {
+                        "id": "53c406eb-0bac-4a6f-af7f-6dacacb5b862",
+                        "Election_id": "53c400ab-69e8-49a5-9610-6cceacb5b862",
+                        "Area_id": "53c01ff2-177c-42aa-8f5a-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c02007-c954-40d5-a01e-5460acb5b862",
+                    "name": "永康區",
+                    "AreasElection": {
+                        "id": "53c406eb-df64-42d5-b60b-6dacacb5b862",
+                        "Election_id": "53c400ab-69e8-49a5-9610-6cceacb5b862",
+                        "Area_id": "53c02007-c954-40d5-a01e-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207f-29bc-4258-90c0-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "臺南市",
+                "lft": "157",
+                "rght": "194",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c400ab-69e8-49a5-9610-6cceacb5b862",
+                "parent_id": "53c0207f-29bc-4258-90c0-5c5aacb5b862",
+                "name": "第09選區[區域]",
+                "lft": "174",
+                "rght": "175",
+                "population": "263727",
+                "population_electors": "206971",
+                "quota": "8",
+                "quota_women": "2",
+                "bulletin_key": "5469b450-f3f0-44bf-830a-74a5cf91e152",
+                "keywords": "2014-11,直轄市議員,臺南市,第09選區[區域]"
+            }
+        }
+    ]
+}

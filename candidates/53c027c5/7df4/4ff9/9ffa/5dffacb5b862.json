@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c027c5-7df4-4ff9-9ffa-5dffacb5b862",
+            "election_id": "53c02184-7f00-4cde-922f-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "0",
+            "vote_count": "0",
+            "name": "蔡福富",
+            "image": "546363df\/a0c8\/4eb6\/8ef6\/22888e043389.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "0",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "0000-00-00 00:00:00",
+            "modified": "2014-11-26 23:22:58"
+        },
+        "Election": {
+            "id": "53c02184-7f00-4cde-922f-5c5aacb5b862",
+            "population_electors": "1737",
+            "population": "2096",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-e810-4c6a-85d5-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c94-2210-494e-a7a4-5460acb5b862",
+                    "name": "舊社村",
+                    "AreasElection": {
+                        "id": "53c02184-ca44-4fec-b4ac-5c5aacb5b862",
+                        "Election_id": "53c02184-7f00-4cde-922f-5c5aacb5b862",
+                        "Area_id": "53c01c94-2210-494e-a7a4-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "4417",
+                "rght": "5648",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02184-a7d0-44ee-866a-5c5aacb5b862",
+                "parent_id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "name": "芬園鄉",
+                "lft": "4854",
+                "rght": "4885",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02184-7f00-4cde-922f-5c5aacb5b862",
+                "parent_id": "53c02184-a7d0-44ee-866a-5c5aacb5b862",
+                "name": "舊社村",
+                "lft": "4855",
+                "rght": "4856",
+                "population": "2096",
+                "population_electors": "1737",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-e810-4c6a-85d5-74a5cf91e152",
+                "keywords": "2014-11,村里長,彰化縣,芬園鄉,舊社村"
+            }
+        }
+    ]
+}

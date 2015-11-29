@@ -1,0 +1,152 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "550c640c-fa38-4e1b-a22f-025cacb5b862",
+            "election_id": "55086597-23e4-4544-8b80-23aa6ab936af",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "0",
+            "name": "羅明才",
+            "image": "55ab7adc\/6f68\/46be\/9ff0\/49e76ab936af.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": null,
+            "education_level": "",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2015-03-21 02:16:44",
+            "modified": "2015-11-29 03:28:35"
+        },
+        "Election": {
+            "id": "55086597-23e4-4544-8b80-23aa6ab936af",
+            "population_electors": "0",
+            "population": "0",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "Area": [
+                {
+                    "id": "55085a73-2728-4930-945c-3584acb5b862",
+                    "name": "新店區",
+                    "AreasElection": {
+                        "id": "550a3c10-cea8-43ca-861f-494a6ab936af",
+                        "Election_id": "55086597-23e4-4544-8b80-23aa6ab936af",
+                        "Area_id": "55085a73-2728-4930-945c-3584acb5b862"
+                    }
+                },
+                {
+                    "id": "55085a8b-2c08-489c-b258-3584acb5b862",
+                    "name": "石碇區",
+                    "AreasElection": {
+                        "id": "550a3c1b-c330-48e5-b416-494a6ab936af",
+                        "Election_id": "55086597-23e4-4544-8b80-23aa6ab936af",
+                        "Area_id": "55085a8b-2c08-489c-b258-3584acb5b862"
+                    }
+                },
+                {
+                    "id": "55085a8b-de0c-4df8-95a1-3584acb5b862",
+                    "name": "深坑區",
+                    "AreasElection": {
+                        "id": "550a3c16-87c4-443d-85c8-494a6ab936af",
+                        "Election_id": "55086597-23e4-4544-8b80-23aa6ab936af",
+                        "Area_id": "55085a8b-de0c-4df8-95a1-3584acb5b862"
+                    }
+                },
+                {
+                    "id": "55085a8c-9680-4c15-8016-3584acb5b862",
+                    "name": "坪林區",
+                    "AreasElection": {
+                        "id": "550a3c20-849c-441e-bec0-47cc6ab936af",
+                        "Election_id": "55086597-23e4-4544-8b80-23aa6ab936af",
+                        "Area_id": "55085a8c-9680-4c15-8016-3584acb5b862"
+                    }
+                },
+                {
+                    "id": "55085a92-5c8c-46d4-8fe1-3584acb5b862",
+                    "name": "烏來區",
+                    "AreasElection": {
+                        "id": "550a3c25-5270-41d9-9a5a-47cc6ab936af",
+                        "Election_id": "55086597-23e4-4544-8b80-23aa6ab936af",
+                        "Area_id": "55085a92-5c8c-46d4-8fe1-3584acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "55085db5-2e9c-4cde-8103-23d86ab936af",
+                "parent_id": null,
+                "name": "2016-01",
+                "lft": "40579",
+                "rght": "40780",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "55085e1a-c494-40e0-ba31-2f916ab936af",
+                "parent_id": "55085db5-2e9c-4cde-8103-23d86ab936af",
+                "name": "立法委員",
+                "lft": "40582",
+                "rght": "40779",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "5508629a-b098-4ed2-97b6-2f916ab936af",
+                "parent_id": "55085e1a-c494-40e0-ba31-2f916ab936af",
+                "name": "新北市",
+                "lft": "40601",
+                "rght": "40626",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "55086597-23e4-4544-8b80-23aa6ab936af",
+                "parent_id": "5508629a-b098-4ed2-97b6-2f916ab936af",
+                "name": "第11選區[區域]",
+                "lft": "40622",
+                "rght": "40623",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2016-01,立法委員,新北市,第11選區[區域]"
+            }
+        }
+    ]
+}

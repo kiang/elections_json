@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c026a8-c734-41e3-a476-5dffacb5b862",
+            "election_id": "53c0248e-b410-4750-b9e4-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1176",
+            "name": "謝蕙鎂",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "新北市",
+            "birth": "1953-10-07",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:40:57"
+        },
+        "Election": {
+            "id": "53c0248e-b410-4750-b9e4-5c5aacb5b862",
+            "population_electors": "3239",
+            "population": "4022",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068c-9ca0-4711-ab0e-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01eeb-4570-4c47-b106-5460acb5b862",
+                    "name": "培德里",
+                    "AreasElection": {
+                        "id": "53c0248e-02f8-4106-87ec-5c5aacb5b862",
+                        "Election_id": "53c0248e-b410-4750-b9e4-5c5aacb5b862",
+                        "Area_id": "53c01eeb-4570-4c47-b106-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新北市",
+                "lft": "14261",
+                "rght": "16384",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02480-1acc-4cf5-8b74-5c5aacb5b862",
+                "parent_id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "name": "三重區",
+                "lft": "14516",
+                "rght": "14755",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0248e-b410-4750-b9e4-5c5aacb5b862",
+                "parent_id": "53c02480-1acc-4cf5-8b74-5c5aacb5b862",
+                "name": "培德里",
+                "lft": "14683",
+                "rght": "14684",
+                "population": "4022",
+                "population_electors": "3239",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068c-9ca0-4711-ab0e-1a32cf91e152",
+                "keywords": "2014-11,村里長,新北市,三重區,培德里"
+            }
+        }
+    ]
+}

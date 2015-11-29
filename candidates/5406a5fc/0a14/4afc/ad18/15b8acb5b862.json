@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "5406a5fc-0a14-4afc-ad18-15b8acb5b862",
+            "election_id": "53c02088-de3c-499a-ae2e-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "11867",
+            "name": "林錫忠",
+            "image": "54941d94\/1e58\/402a\/b9ed\/355a6ab936af.jpg",
+            "party": "民主進步黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "1",
+            "education_level": "大學",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1953-05-25",
+            "platform": "",
+            "education": "國立中興大學法律系畢業",
+            "experience": "宜蘭縣政府科員 法制股股長 秘書室副主任 消費者保護官 宜蘭縣政府勞工處處長 秘書處處長",
+            "created": "2014-09-03 13:24:12",
+            "modified": "2015-02-08 23:41:59"
+        },
+        "Election": {
+            "id": "53c02088-de3c-499a-ae2e-5c5aacb5b862",
+            "population_electors": "29577",
+            "population": "36018",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-a824-4efd-af3b-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01be6-6128-446f-9b49-5460acb5b862",
+                    "name": "礁溪鄉",
+                    "AreasElection": {
+                        "id": "53c02089-fd84-48ca-a8e4-5c5aacb5b862",
+                        "Election_id": "53c02088-de3c-499a-ae2e-5c5aacb5b862",
+                        "Area_id": "53c01be6-6128-446f-9b49-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市長",
+                "lft": "608",
+                "rght": "1031",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02087-d634-4ed1-947c-5c5aacb5b862",
+                "parent_id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "name": "宜蘭縣",
+                "lft": "633",
+                "rght": "658",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02088-de3c-499a-ae2e-5c5aacb5b862",
+                "parent_id": "53c02087-d634-4ed1-947c-5c5aacb5b862",
+                "name": "礁溪鄉",
+                "lft": "642",
+                "rght": "643",
+                "population": "36018",
+                "population_electors": "29577",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-a824-4efd-af3b-2adbcf91e152",
+                "keywords": "2014-11,鄉鎮市長,宜蘭縣,礁溪鄉"
+            }
+        }
+    ]
+}

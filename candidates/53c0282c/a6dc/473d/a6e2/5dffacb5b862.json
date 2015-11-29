@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c0282c-a6dc-473d-a6e2-5dffacb5b862",
+            "election_id": "53c02242-0ef0-4e59-a316-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "356",
+            "name": "杜徐灑",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1944-12-21",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:45:09"
+        },
+        "Election": {
+            "id": "53c02242-0ef0-4e59-a316-5c5aacb5b862",
+            "population_electors": "545",
+            "population": "671",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-cbbc-45df-948f-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01d32-be48-4ba5-ae8b-5460acb5b862",
+                    "name": "板頭村",
+                    "AreasElection": {
+                        "id": "53c02243-c9cc-4656-97a0-5c5aacb5b862",
+                        "Election_id": "53c02242-0ef0-4e59-a316-5c5aacb5b862",
+                        "Area_id": "53c01d32-be48-4ba5-ae8b-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0222a-d5c0-465f-849c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "嘉義縣",
+                "lft": "7019",
+                "rght": "7770",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0223f-d4dc-4ca4-a9e9-5c5aacb5b862",
+                "parent_id": "53c0222a-d5c0-465f-849c-5c5aacb5b862",
+                "name": "新港鄉",
+                "lft": "7294",
+                "rght": "7341",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02242-0ef0-4e59-a316-5c5aacb5b862",
+                "parent_id": "53c0223f-d4dc-4ca4-a9e9-5c5aacb5b862",
+                "name": "板頭村",
+                "lft": "7337",
+                "rght": "7338",
+                "population": "671",
+                "population_electors": "545",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-cbbc-45df-948f-2adbcf91e152",
+                "keywords": "2014-11,村里長,嘉義縣,新港鄉,板頭村"
+            }
+        }
+    ]
+}

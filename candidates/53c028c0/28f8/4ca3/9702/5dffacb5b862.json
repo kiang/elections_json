@@ -1,0 +1,101 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c028c0-28f8-4ca3-9702-5dffacb5b862",
+            "election_id": "53c0207f-2254-4fe5-b566-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "90320",
+            "name": "邱淑媞",
+            "image": "542eafa0\/6f60\/4f90\/acb1\/574dcb455a61.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "f",
+            "no": "2",
+            "education_level": "博士",
+            "is_present": false,
+            "name_english": "Chiou Shu Ti",
+            "birth_place": "臺南市",
+            "birth": "1962-10-17",
+            "platform": "",
+            "education": "北一女中\\n陽明醫學院醫學士\\n臺灣大學公共衛生研究所預防醫學組碩士\\n臺灣大學流行病學博士",
+            "experience": "臺北榮民總醫院家庭醫學科住院醫師\\n1993至1994年臺北市立和平醫院家庭醫學科住院總醫師\\n1994至1995年臺北市立和平醫院家庭醫學科主治醫師\\n1995至1997年宜蘭市衛生所主任兼醫師\\n1996至1997年兼代宜蘭縣衛生局局長\\n1997至2001年宜蘭縣衛生局局長\\n2001至2001年臺北市政府衛生局副局長\\n2001至2003年臺北市政府衛生局局長（台北市第一位女性衛生局長）\\n2003任國立陽明大學醫學院醫學系社會醫學科助理教授\\n國立陽明大學公共衛生學科暨研究所助理教授\\n2007年馬英九競選總部辦公室義工兼新聞發言人\\n2007至2009年臺灣健康醫院學會理事長\\n2009年至2013衛生署國民健康局局長\\n2013年福部國民健康署署長",
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:41:48"
+        },
+        "Election": {
+            "id": "53c0207f-2254-4fe5-b566-5c5aacb5b862",
+            "population_electors": "366402",
+            "population": "458784",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-60a4-454d-ae9e-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01bd7-27c8-4328-bc85-5460acb5b862",
+                    "name": "宜蘭縣",
+                    "AreasElection": {
+                        "id": "53c0207f-9464-4073-8d1b-5c5aacb5b862",
+                        "Election_id": "53c0207f-2254-4fe5-b566-5c5aacb5b862",
+                        "Area_id": "53c01bd7-27c8-4328-bc85-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-cfc8-4ab5-a63b-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "縣市長",
+                "lft": "272",
+                "rght": "305",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207f-2254-4fe5-b566-5c5aacb5b862",
+                "parent_id": "53c0202f-cfc8-4ab5-a63b-5460acb5b862",
+                "name": "宜蘭縣",
+                "lft": "277",
+                "rght": "278",
+                "population": "458784",
+                "population_electors": "366402",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-60a4-454d-ae9e-2adbcf91e152",
+                "keywords": "2014-11,縣市長,宜蘭縣"
+            }
+        }
+    ]
+}

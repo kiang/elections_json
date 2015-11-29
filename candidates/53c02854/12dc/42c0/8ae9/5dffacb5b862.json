@@ -1,0 +1,139 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02854-12dc-42c0-8ae9-5dffacb5b862",
+            "election_id": "53c02294-5238-490b-8677-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "265",
+            "name": "李錦絨",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "2",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1968-08-17",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:45:18"
+        },
+        "Election": {
+            "id": "53c02294-5238-490b-8677-5c5aacb5b862",
+            "population_electors": "482",
+            "population": "558",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "Area": [
+                {
+                    "id": "53c01d7b-6e64-4fd0-a0f2-5460acb5b862",
+                    "name": "福田村",
+                    "AreasElection": {
+                        "id": "53c02294-7688-40ac-90be-5c5aacb5b862",
+                        "Election_id": "53c02294-5238-490b-8677-5c5aacb5b862",
+                        "Area_id": "53c01d7b-6e64-4fd0-a0f2-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54ab2c8d-c50c-4d91-9b43-2a946ab936af",
+                "name": "2014當選無效之訴-屏東縣",
+                "CandidatesTag": {
+                    "id": "54ab2cbc-f87c-481d-97a0-2aa96ab936af",
+                    "Candidate_id": "53c02854-12dc-42c0-8ae9-5dffacb5b862",
+                    "Tag_id": "54ab2c8d-c50c-4d91-9b43-2a946ab936af"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "7771",
+                "rght": "8766",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02293-ec1c-45af-bb90-5c5aacb5b862",
+                "parent_id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "name": "竹田鄉",
+                "lft": "8370",
+                "rght": "8401",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02294-5238-490b-8677-5c5aacb5b862",
+                "parent_id": "53c02293-ec1c-45af-bb90-5c5aacb5b862",
+                "name": "福田村",
+                "lft": "8389",
+                "rght": "8390",
+                "population": "558",
+                "population_electors": "482",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2014-11,村里長,屏東縣,竹田鄉,福田村"
+            }
+        }
+    ]
+}

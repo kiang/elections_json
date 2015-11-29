@@ -1,0 +1,142 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b56b0-d4fc-4b44-944e-1926acb5b862",
+            "election_id": "53c41122-79a0-4493-aeec-6f55acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "3570",
+            "name": "林樹山",
+            "image": "5430d865\/17e8\/4674\/bb3c\/7e2bcb455a61.jpg",
+            "party": "民主進步黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "\\n臉書 http:\/\/www.facebook.com\/people\/%E6%9E%97%E6%A8%B9%E5%B1%B1\/100002533096740\\n臉書 http:\/\/www.facebook.com\/pages\/%E6%9E%97%E6%A8%B9%E5%B1%B1%E8%A1%8C%E5%8B%95%E6%9C%8D%E5%8B%99%E7%AB%99\/722358027824137",
+            "gender": "m",
+            "no": "6",
+            "education_level": "大學",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1958-12-01",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:47:12",
+            "modified": "2015-02-08 23:41:53"
+        },
+        "Election": {
+            "id": "53c41122-79a0-4493-aeec-6f55acb5b862",
+            "population_electors": "80165",
+            "population": "98788",
+            "quota": "6",
+            "quota_women": "1",
+            "bulletin_key": "546eb720-9894-43f7-8882-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01cec-f6c8-4ab3-827c-5460acb5b862",
+                    "name": "斗南鎮",
+                    "AreasElection": {
+                        "id": "53c41122-bde0-4197-a956-6f55acb5b862",
+                        "Election_id": "53c41122-79a0-4493-aeec-6f55acb5b862",
+                        "Area_id": "53c01cec-f6c8-4ab3-827c-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01cfc-2fe0-4b62-bb8f-5460acb5b862",
+                    "name": "古坑鄉",
+                    "AreasElection": {
+                        "id": "53c41124-aa58-48f2-955a-6f55acb5b862",
+                        "Election_id": "53c41122-79a0-4493-aeec-6f55acb5b862",
+                        "Area_id": "53c01cfc-2fe0-4b62-bb8f-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01cff-0f94-4974-9424-5460acb5b862",
+                    "name": "大埤鄉",
+                    "AreasElection": {
+                        "id": "53c41126-6d2c-47d4-ae66-6f55acb5b862",
+                        "Election_id": "53c41122-79a0-4493-aeec-6f55acb5b862",
+                        "Area_id": "53c01cff-0f94-4974-9424-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54131434-4b14-4c38-9445-2c85cb455a61",
+                "name": "2014台灣獨立建國選舉連線",
+                "CandidatesTag": {
+                    "id": "5473502b-2d44-41a3-9397-21ac8e043389",
+                    "Candidate_id": "540b56b0-d4fc-4b44-944e-1926acb5b862",
+                    "Tag_id": "54131434-4b14-4c38-9445-2c85cb455a61"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "縣市議員",
+                "lft": "306",
+                "rght": "607",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02083-52b8-44a3-a5a0-5c5aacb5b862",
+                "parent_id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "437",
+                "rght": "450",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c41122-79a0-4493-aeec-6f55acb5b862",
+                "parent_id": "53c02083-52b8-44a3-a5a0-5c5aacb5b862",
+                "name": "第02選區[區域]",
+                "lft": "440",
+                "rght": "441",
+                "population": "98788",
+                "population_electors": "80165",
+                "quota": "6",
+                "quota_women": "1",
+                "bulletin_key": "546eb720-9894-43f7-8882-2adbcf91e152",
+                "keywords": "2014-11,縣市議員,雲林縣,第02選區[區域]"
+            }
+        }
+    ]
+}

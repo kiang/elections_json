@@ -1,0 +1,133 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c68fa9-b4bc-4928-aeac-0f15acb5b862",
+            "election_id": "53c4009c-26a8-429f-ba1d-6cceacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "21648",
+            "name": "謝志忠",
+            "image": "55c60acc\/af98\/4663\/8726\/42c46ab936af.jpg",
+            "party": "民主進步黨",
+            "contacts_phone": "04-25269406",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "420台中市豐原區南陽里保康路55號",
+            "links": "",
+            "gender": "m",
+            "no": "3",
+            "education_level": "碩士",
+            "is_present": true,
+            "name_english": "HSIEH CHIH CHUNG",
+            "birth_place": "臺南市",
+            "birth": "1969-04-06",
+            "platform": "",
+            "education": "東海大學歷史系學士  東海大學公共事務碩士",
+            "experience": "臺中縣議會第十六屆議員  臺中縣體育會軟式網球委員會主任委員  臺中縣身心障礙藝文體育推展協會理事長  臺中縣政府工策會總幹事  立委邱太三、郭俊銘、簡肇棟、劉世芳服務處主任  行政院機要秘書  2004立委蔡其昌競選總部總幹事  2008長昌競選總部執行總幹事  2010簡肇棟立委補選競選執行總幹事  第一屆臺中市議員",
+            "created": "2014-07-16 22:43:53",
+            "modified": "2015-08-08 21:59:04"
+        },
+        "Election": {
+            "id": "53c4009c-26a8-429f-ba1d-6cceacb5b862",
+            "population_electors": "170216",
+            "population": "220389",
+            "quota": "5",
+            "quota_women": "1",
+            "bulletin_key": "546e068f-dabc-408e-a765-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01f84-2900-48b9-897e-5460acb5b862",
+                    "name": "豐原區",
+                    "AreasElection": {
+                        "id": "53c406e7-9d54-4986-875b-6dacacb5b862",
+                        "Election_id": "53c4009c-26a8-429f-ba1d-6cceacb5b862",
+                        "Area_id": "53c01f84-2900-48b9-897e-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01f9b-f848-4af9-9251-5460acb5b862",
+                    "name": "后里區",
+                    "AreasElection": {
+                        "id": "53c406e7-2d90-4a2d-b1ac-6dacacb5b862",
+                        "Election_id": "53c4009c-26a8-429f-ba1d-6cceacb5b862",
+                        "Area_id": "53c01f9b-f848-4af9-9251-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54df7334-51d0-4472-ad36-6c676ab936af",
+                "name": "2014當選隨即目標轉向立委",
+                "CandidatesTag": {
+                    "id": "54df771c-f1ac-4f31-908e-12dc6ab936af",
+                    "Candidate_id": "53c68fa9-b4bc-4928-aeac-0f15acb5b862",
+                    "Tag_id": "54df7334-51d0-4472-ad36-6c676ab936af"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207e-b9a4-405f-abaf-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "臺中市",
+                "lft": "123",
+                "rght": "156",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c4009c-26a8-429f-ba1d-6cceacb5b862",
+                "parent_id": "53c0207e-b9a4-405f-abaf-5c5aacb5b862",
+                "name": "第04選區[區域]",
+                "lft": "130",
+                "rght": "131",
+                "population": "220389",
+                "population_electors": "170216",
+                "quota": "5",
+                "quota_women": "1",
+                "bulletin_key": "546e068f-dabc-408e-a765-1a32cf91e152",
+                "keywords": "2014-11,直轄市議員,臺中市,第04選區[區域]"
+            }
+        }
+    ]
+}

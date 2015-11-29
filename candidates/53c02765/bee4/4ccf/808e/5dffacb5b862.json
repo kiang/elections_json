@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02765-bee4-4ccf-808e-5dffacb5b862",
+            "election_id": "53c02113-dfd0-4f3d-abee-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "585",
+            "name": "黃金海",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "專科",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1967-12-02",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:44:28"
+        },
+        "Election": {
+            "id": "53c02113-dfd0-4f3d-abee-5c5aacb5b862",
+            "population_electors": "726",
+            "population": "1018",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-8e44-42ed-9125-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01bf5-eb60-4c6b-9694-5460acb5b862",
+                    "name": "四季村",
+                    "AreasElection": {
+                        "id": "53c02113-a1f8-49e5-85c6-5c5aacb5b862",
+                        "Election_id": "53c02113-dfd0-4f3d-abee-5c5aacb5b862",
+                        "Area_id": "53c01bf5-eb60-4c6b-9694-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ef-6268-4b1a-a16d-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "宜蘭縣",
+                "lft": "2929",
+                "rght": "3420",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02112-e754-4788-9563-5c5aacb5b862",
+                "parent_id": "53c020ef-6268-4b1a-a16d-5c5aacb5b862",
+                "name": "大同鄉",
+                "lft": "3382",
+                "rght": "3403",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02113-dfd0-4f3d-abee-5c5aacb5b862",
+                "parent_id": "53c02112-e754-4788-9563-5c5aacb5b862",
+                "name": "四季村",
+                "lft": "3399",
+                "rght": "3400",
+                "population": "1018",
+                "population_electors": "726",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-8e44-42ed-9125-2adbcf91e152",
+                "keywords": "2014-11,村里長,宜蘭縣,大同鄉,四季村"
+            }
+        }
+    ]
+}

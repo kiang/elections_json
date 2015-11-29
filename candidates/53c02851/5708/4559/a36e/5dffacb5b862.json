@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02851-5708-4559-a36e-5dffacb5b862",
+            "election_id": "53c0228e-d5f0-438a-8fd4-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "377",
+            "name": "張金川",
+            "image": null,
+            "party": "民主進步黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1953-11-13",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:45:18"
+        },
+        "Election": {
+            "id": "53c0228e-d5f0-438a-8fd4-5c5aacb5b862",
+            "population_electors": "1153",
+            "population": "1470",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54773ba1-e4d0-4089-a8ad-1915cf91e152",
+            "Area": [
+                {
+                    "id": "53c01d75-a518-438e-8c8f-5460acb5b862",
+                    "name": "新厝村",
+                    "AreasElection": {
+                        "id": "53c0228e-a21c-410e-aba9-5c5aacb5b862",
+                        "Election_id": "53c0228e-d5f0-438a-8fd4-5c5aacb5b862",
+                        "Area_id": "53c01d75-a518-438e-8c8f-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "7771",
+                "rght": "8766",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0228c-3150-4b82-941b-5c5aacb5b862",
+                "parent_id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "name": "萬巒鄉",
+                "lft": "8292",
+                "rght": "8321",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0228e-d5f0-438a-8fd4-5c5aacb5b862",
+                "parent_id": "53c0228c-3150-4b82-941b-5c5aacb5b862",
+                "name": "新厝村",
+                "lft": "8319",
+                "rght": "8320",
+                "population": "1470",
+                "population_electors": "1153",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54773ba1-e4d0-4089-a8ad-1915cf91e152",
+                "keywords": "2014-11,村里長,屏東縣,萬巒鄉,新厝村"
+            }
+        }
+    ]
+}

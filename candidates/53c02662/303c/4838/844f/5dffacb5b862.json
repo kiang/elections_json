@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02662-303c-4838-844f-5dffacb5b862",
+            "election_id": "53c023f7-7f34-481f-b12f-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "1023",
+            "name": "洪耀斌",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1953-09-01",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:40:41"
+        },
+        "Election": {
+            "id": "53c023f7-7f34-481f-b12f-5c5aacb5b862",
+            "population_electors": "4012",
+            "population": "4950",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb720-92f4-4d65-baaf-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01e68-8794-42bd-9782-5460acb5b862",
+                    "name": "博惠里",
+                    "AreasElection": {
+                        "id": "53c023f7-c458-4360-ab52-5c5aacb5b862",
+                        "Election_id": "53c023f7-7f34-481f-b12f-5c5aacb5b862",
+                        "Area_id": "53c01e68-8794-42bd-9782-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023ec-08a0-49ca-ae2b-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "三民區",
+                "lft": "12676",
+                "rght": "12849",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023f7-7f34-481f-b12f-5c5aacb5b862",
+                "parent_id": "53c023ec-08a0-49ca-ae2b-5c5aacb5b862",
+                "name": "博惠里",
+                "lft": "12817",
+                "rght": "12818",
+                "population": "4950",
+                "population_electors": "4012",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb720-92f4-4d65-baaf-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,三民區,博惠里"
+            }
+        }
+    ]
+}

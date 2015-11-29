@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5645-9794-476a-98a6-1926acb5b862",
+            "election_id": "53c020e5-7cf8-4df0-a7cf-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "726",
+            "name": "陳美貴",
+            "image": "5486fc00\/0a08\/4258\/8b81\/6dac6ab936af.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "金馬地區",
+            "birth": "1963-06-30",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:45:25",
+            "modified": "2015-02-08 23:44:23"
+        },
+        "Election": {
+            "id": "53c020e5-7cf8-4df0-a7cf-5c5aacb5b862",
+            "population_electors": "1861",
+            "population": "2384",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54742647-d77c-48a0-9356-2d82cf91e152",
+            "Area": [
+                {
+                    "id": "53c01bce-16a4-4719-bbc8-5460acb5b862",
+                    "name": "介壽村",
+                    "AreasElection": {
+                        "id": "53c020e5-c0d4-4b71-91e9-5c5aacb5b862",
+                        "Election_id": "53c020e5-7cf8-4df0-a7cf-5c5aacb5b862",
+                        "Area_id": "53c01bce-16a4-4719-bbc8-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020e4-541c-4ad6-bd12-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "連江縣",
+                "lft": "2787",
+                "rght": "2840",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020e5-2110-4cd5-b7ca-5c5aacb5b862",
+                "parent_id": "53c020e4-541c-4ad6-bd12-5c5aacb5b862",
+                "name": "南竿鄉",
+                "lft": "2788",
+                "rght": "2807",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020e5-7cf8-4df0-a7cf-5c5aacb5b862",
+                "parent_id": "53c020e5-2110-4cd5-b7ca-5c5aacb5b862",
+                "name": "介壽村",
+                "lft": "2789",
+                "rght": "2790",
+                "population": "2384",
+                "population_electors": "1861",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54742647-d77c-48a0-9356-2d82cf91e152",
+                "keywords": "2014-11,村里長,連江縣,南竿鄉,介壽村"
+            }
+        }
+    ]
+}

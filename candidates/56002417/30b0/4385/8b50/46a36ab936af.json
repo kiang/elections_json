@@ -1,0 +1,109 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "56002417-30b0-4385-8b50-46a36ab936af",
+            "election_id": "5508641c-f4e0-4b63-8354-28956ab936af",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "0",
+            "name": "伊藍．明基努安",
+            "image": "563357f5\/8830\/4326\/ae20\/06136ab936af.jpg",
+            "party": "信心希望聯盟",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": null,
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2015-09-21 23:36:55",
+            "modified": "2015-11-29 03:28:35"
+        },
+        "Election": {
+            "id": "5508641c-f4e0-4b63-8354-28956ab936af",
+            "population_electors": "0",
+            "population": "0",
+            "quota": "3",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "Area": [
+                {
+                    "id": "55085939-13ec-4d1e-9ac1-3584acb5b862",
+                    "name": "2016",
+                    "AreasElection": {
+                        "id": "550a3868-4be4-4a8a-8417-47cc6ab936af",
+                        "Election_id": "5508641c-f4e0-4b63-8354-28956ab936af",
+                        "Area_id": "55085939-13ec-4d1e-9ac1-3584acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "56002550-5518-4952-a32d-2b3e6ab936af",
+                "name": "2016信心希望聯盟",
+                "CandidatesTag": {
+                    "id": "5600257a-9a24-4731-841b-461f6ab936af",
+                    "Candidate_id": "56002417-30b0-4385-8b50-46a36ab936af",
+                    "Tag_id": "56002550-5518-4952-a32d-2b3e6ab936af"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "55085db5-2e9c-4cde-8103-23d86ab936af",
+                "parent_id": null,
+                "name": "2016-01",
+                "lft": "40579",
+                "rght": "40780",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "55085e1a-c494-40e0-ba31-2f916ab936af",
+                "parent_id": "55085db5-2e9c-4cde-8103-23d86ab936af",
+                "name": "立法委員",
+                "lft": "40582",
+                "rght": "40779",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "5508641c-f4e0-4b63-8354-28956ab936af",
+                "parent_id": "55085e1a-c494-40e0-ba31-2f916ab936af",
+                "name": "全國[山原]",
+                "lft": "40773",
+                "rght": "40774",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "3",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2016-01,立法委員,全國[山原]"
+            }
+        }
+    ]
+}

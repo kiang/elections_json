@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02715-a670-43cd-bca5-5dffacb5b862",
+            "election_id": "53c0258d-1638-4f08-b3ec-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1616",
+            "name": "閻泰利",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "專科",
+            "is_present": true,
+            "name_english": "YEN TAI LI",
+            "birth_place": "臺灣省",
+            "birth": "1974-08-09",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:41:21"
+        },
+        "Election": {
+            "id": "53c0258d-1638-4f08-b3ec-5c5aacb5b862",
+            "population_electors": "3449",
+            "population": "4202",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546d8db9-d000-4656-9103-0e51cf91e152",
+            "Area": [
+                {
+                    "id": "53c01fb8-d95c-4a74-86ad-5460acb5b862",
+                    "name": "中山里",
+                    "AreasElection": {
+                        "id": "53c0258d-7930-4a30-8b7c-5c5aacb5b862",
+                        "Election_id": "53c0258d-1638-4f08-b3ec-5c5aacb5b862",
+                        "Area_id": "53c01fb8-d95c-4a74-86ad-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0258b-49bc-4301-a0fe-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "太平區",
+                "lft": "17540",
+                "rght": "17619",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0258d-1638-4f08-b3ec-5c5aacb5b862",
+                "parent_id": "53c0258b-49bc-4301-a0fe-5c5aacb5b862",
+                "name": "中山里",
+                "lft": "17563",
+                "rght": "17564",
+                "population": "4202",
+                "population_electors": "3449",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546d8db9-d000-4656-9103-0e51cf91e152",
+                "keywords": "2014-11,村里長,臺中市,太平區,中山里"
+            }
+        }
+    ]
+}

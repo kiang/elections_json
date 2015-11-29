@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b57e0-1740-4537-b565-1926acb5b862",
+            "election_id": "53d73486-44f8-4ae2-97ec-1299acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1928",
+            "name": "賴秀星",
+            "image": "54b22066\/93e0\/4b22\/b5c5\/0c706ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "f",
+            "no": "1",
+            "education_level": "",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:52:16",
+            "modified": "2015-02-08 23:44:21"
+        },
+        "Election": {
+            "id": "53d73486-44f8-4ae2-97ec-1299acb5b862",
+            "population_electors": "83254",
+            "population": "106992",
+            "quota": "3",
+            "quota_women": "0",
+            "bulletin_key": "546f277f-3cd4-4bd4-9cb7-2f28cf91e152",
+            "Area": [
+                {
+                    "id": "53c01d95-57a0-4235-a698-5460acb5b862",
+                    "name": "臺東市",
+                    "AreasElection": {
+                        "id": "53d73487-7a04-48b7-8aea-1299acb5b862",
+                        "Election_id": "53d73486-44f8-4ae2-97ec-1299acb5b862",
+                        "Area_id": "53c01d95-57a0-4235-a698-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020d9-a97c-4d95-809d-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "臺東縣",
+                "lft": "2485",
+                "rght": "2612",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020d9-bf70-4e0f-b7c4-5c5aacb5b862",
+                "parent_id": "53c020d9-a97c-4d95-809d-5c5aacb5b862",
+                "name": "臺東市",
+                "lft": "2486",
+                "rght": "2497",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d73486-44f8-4ae2-97ec-1299acb5b862",
+                "parent_id": "53c020d9-bf70-4e0f-b7c4-5c5aacb5b862",
+                "name": "第05選舉區[平地]",
+                "lft": "2495",
+                "rght": "2496",
+                "population": "106992",
+                "population_electors": "83254",
+                "quota": "3",
+                "quota_women": "0",
+                "bulletin_key": "546f277f-3cd4-4bd4-9cb7-2f28cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,臺東縣,臺東市,第05選舉區[平地]"
+            }
+        }
+    ]
+}

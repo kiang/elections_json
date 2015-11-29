@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b55fb-ccb4-4547-8b4f-1926acb5b862",
+            "election_id": "53c02104-cc50-4a68-8ce9-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "753",
+            "name": "吳正二",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1944-03-19",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:44:11",
+            "modified": "2015-02-08 23:44:27"
+        },
+        "Election": {
+            "id": "53c02104-cc50-4a68-8ce9-5c5aacb5b862",
+            "population_electors": "2384",
+            "population": "2912",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-8b2c-4906-9567-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01be8-2598-4999-b35b-5460acb5b862",
+                    "name": "吳沙村",
+                    "AreasElection": {
+                        "id": "53c02104-4a1c-4e10-81e3-5c5aacb5b862",
+                        "Election_id": "53c02104-cc50-4a68-8ce9-5c5aacb5b862",
+                        "Area_id": "53c01be8-2598-4999-b35b-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ef-6268-4b1a-a16d-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "宜蘭縣",
+                "lft": "2929",
+                "rght": "3420",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02102-2d2c-4ab1-80e7-5c5aacb5b862",
+                "parent_id": "53c020ef-6268-4b1a-a16d-5c5aacb5b862",
+                "name": "礁溪鄉",
+                "lft": "3160",
+                "rght": "3197",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02104-cc50-4a68-8ce9-5c5aacb5b862",
+                "parent_id": "53c02102-2d2c-4ab1-80e7-5c5aacb5b862",
+                "name": "吳沙村",
+                "lft": "3189",
+                "rght": "3190",
+                "population": "2912",
+                "population_electors": "2384",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-8b2c-4906-9567-2adbcf91e152",
+                "keywords": "2014-11,村里長,宜蘭縣,礁溪鄉,吳沙村"
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b52ea-4918-4096-8d84-1926acb5b862",
+            "election_id": "53c0239b-7878-4ba7-ab3c-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "161",
+            "name": "趙木森",
+            "image": null,
+            "party": "民主進步黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "3",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "CHAO MU SEN",
+            "birth_place": "新北市",
+            "birth": "1949-08-15",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:31:06",
+            "modified": "2015-02-08 23:40:30"
+        },
+        "Election": {
+            "id": "53c0239b-7878-4ba7-ab3c-5c5aacb5b862",
+            "population_electors": "3559",
+            "population": "4320",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-ce50-449c-ace4-4187cf91e152",
+            "Area": [
+                {
+                    "id": "53c01e15-bf34-4e49-a7d4-5460acb5b862",
+                    "name": "臨江里",
+                    "AreasElection": {
+                        "id": "53c0239b-044c-47ed-ade3-5c5aacb5b862",
+                        "Election_id": "53c0239b-7878-4ba7-ab3c-5c5aacb5b862",
+                        "Area_id": "53c01e15-bf34-4e49-a7d4-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02396-dd04-4dbc-a350-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "大安區",
+                "lft": "11610",
+                "rght": "11717",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0239b-7878-4ba7-ab3c-5c5aacb5b862",
+                "parent_id": "53c02396-dd04-4dbc-a350-5c5aacb5b862",
+                "name": "臨江里",
+                "lft": "11675",
+                "rght": "11676",
+                "population": "4320",
+                "population_electors": "3559",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-ce50-449c-ace4-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,大安區,臨江里"
+            }
+        }
+    ]
+}

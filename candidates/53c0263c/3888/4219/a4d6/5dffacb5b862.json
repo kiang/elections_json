@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c0263c-3888-4219-a4d6-5dffacb5b862",
+            "election_id": "53c023a5-9dc8-42ea-8cf2-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "2789",
+            "name": "沈銀德",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "SHEN YIN TE",
+            "birth_place": "臺灣省",
+            "birth": "1942-11-28",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:40:31"
+        },
+        "Election": {
+            "id": "53c023a5-9dc8-42ea-8cf2-5c5aacb5b862",
+            "population_electors": "5088",
+            "population": "6058",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-917c-4656-9e0f-4187cf91e152",
+            "Area": [
+                {
+                    "id": "53c01e1e-216c-4592-8e02-5460acb5b862",
+                    "name": "力行里",
+                    "AreasElection": {
+                        "id": "53c023a5-ea58-424a-a87a-5c5aacb5b862",
+                        "Election_id": "53c023a5-9dc8-42ea-8cf2-5c5aacb5b862",
+                        "Area_id": "53c01e1e-216c-4592-8e02-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0239e-cac0-446a-8756-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "中山區",
+                "lft": "11718",
+                "rght": "11803",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023a5-9dc8-42ea-8cf2-5c5aacb5b862",
+                "parent_id": "53c0239e-cac0-446a-8756-5c5aacb5b862",
+                "name": "力行里",
+                "lft": "11795",
+                "rght": "11796",
+                "population": "6058",
+                "population_electors": "5088",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-917c-4656-9e0f-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,中山區,力行里"
+            }
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c68fa9-3da8-4d73-abbe-0f15acb5b862",
+            "election_id": "53c4009b-bd4c-4654-b74a-6cceacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "20219",
+            "name": "陳世凱",
+            "image": "5487e9e5\/8534\/410f\/b185\/49256ab936af.jpg",
+            "party": "民主進步黨",
+            "contacts_phone": "04-23371011",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "414台中市烏日區中華路498號",
+            "links": "臉書 http:\/\/www.facebook.com\/chenshihkai.taichung\\n臉書 http:\/\/www.facebook.com\/TaiZhongShiYiYuanChenShiKaiFuWuChu\\n臉書 http:\/\/www.facebook.com\/goodskychen",
+            "gender": "m",
+            "no": "4",
+            "education_level": "大學",
+            "is_present": true,
+            "name_english": "CHEN SHIH KAI",
+            "birth_place": "臺灣省",
+            "birth": "1977-05-12",
+            "platform": "",
+            "education": "東海大學政治系畢業",
+            "experience": "民主進步黨臺中縣黨部執行委員  立法委員簡肇棟、邱太三、蔡其昌聯合服務處主任  立委蔡其昌國會辦公室主任  邱太三縣長競選總部副執行長  民主進步黨臺中縣黨部副執行長  2004年總統大選民主進步黨中區青年競選總部執行長  民主進步黨臺中市黨部青年組組長  2000年總統大選民主進步黨臺中青年軍秘書長  第一屆臺中市議員",
+            "created": "2014-07-16 22:43:53",
+            "modified": "2015-02-08 23:40:25"
+        },
+        "Election": {
+            "id": "53c4009b-bd4c-4654-b74a-6cceacb5b862",
+            "population_electors": "157514",
+            "population": "203284",
+            "quota": "5",
+            "quota_women": "1",
+            "bulletin_key": "546e068f-03fc-44c2-bda7-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01fad-1ce4-4dfa-8184-5460acb5b862",
+                    "name": "烏日區",
+                    "AreasElection": {
+                        "id": "53c406e7-2478-46f0-a7e0-6dacacb5b862",
+                        "Election_id": "53c4009b-bd4c-4654-b74a-6cceacb5b862",
+                        "Area_id": "53c01fad-1ce4-4dfa-8184-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01faf-2864-4396-8aa5-5460acb5b862",
+                    "name": "大肚區",
+                    "AreasElection": {
+                        "id": "53c406e7-4cdc-4ceb-8aa5-6dacacb5b862",
+                        "Election_id": "53c4009b-bd4c-4654-b74a-6cceacb5b862",
+                        "Area_id": "53c01faf-2864-4396-8aa5-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01fb1-be04-4414-a64b-5460acb5b862",
+                    "name": "龍井區",
+                    "AreasElection": {
+                        "id": "53c406e7-56ec-42b1-893b-6dacacb5b862",
+                        "Election_id": "53c4009b-bd4c-4654-b74a-6cceacb5b862",
+                        "Area_id": "53c01fb1-be04-4414-a64b-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54df7334-51d0-4472-ad36-6c676ab936af",
+                "name": "2014當選隨即目標轉向立委",
+                "CandidatesTag": {
+                    "id": "54df7758-0068-42b7-a840-12dc6ab936af",
+                    "Candidate_id": "53c68fa9-3da8-4d73-abbe-0f15acb5b862",
+                    "Tag_id": "54df7334-51d0-4472-ad36-6c676ab936af"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207e-b9a4-405f-abaf-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "臺中市",
+                "lft": "123",
+                "rght": "156",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c4009b-bd4c-4654-b74a-6cceacb5b862",
+                "parent_id": "53c0207e-b9a4-405f-abaf-5c5aacb5b862",
+                "name": "第03選區[區域]",
+                "lft": "128",
+                "rght": "129",
+                "population": "203284",
+                "population_electors": "157514",
+                "quota": "5",
+                "quota_women": "1",
+                "bulletin_key": "546e068f-03fc-44c2-bda7-1a32cf91e152",
+                "keywords": "2014-11,直轄市議員,臺中市,第03選區[區域]"
+            }
+        }
+    ]
+}

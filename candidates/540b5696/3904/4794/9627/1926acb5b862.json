@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5696-3904-4794-9627-1926acb5b862",
+            "election_id": "53c400af-9b80-4f92-87ea-6cceacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "279",
+            "name": "陳肇元",
+            "image": "5489ba36\/8328\/4252\/9403\/38616ab936af.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "2",
+            "education_level": "大學",
+            "is_present": false,
+            "name_english": "Chen Chao Yuan",
+            "birth_place": "臺南市",
+            "birth": "1978-08-16",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:46:46",
+            "modified": "2015-02-08 23:40:28"
+        },
+        "Election": {
+            "id": "53c400af-9b80-4f92-87ea-6cceacb5b862",
+            "population_electors": "1516489",
+            "population": "1883493",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-401c-46d0-945d-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01fc0-f25c-4a13-ab18-5460acb5b862",
+                    "name": "臺南市",
+                    "AreasElection": {
+                        "id": "53fb79dc-2718-4c8a-b6aa-7f66acb5b862",
+                        "Election_id": "53c400af-9b80-4f92-87ea-6cceacb5b862",
+                        "Area_id": "53c01fc0-f25c-4a13-ab18-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207f-29bc-4258-90c0-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "臺南市",
+                "lft": "157",
+                "rght": "194",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c400af-9b80-4f92-87ea-6cceacb5b862",
+                "parent_id": "53c0207f-29bc-4258-90c0-5c5aacb5b862",
+                "name": "第17選區[平地]",
+                "lft": "190",
+                "rght": "191",
+                "population": "1883493",
+                "population_electors": "1516489",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-401c-46d0-945d-74a5cf91e152",
+                "keywords": "2014-11,直轄市議員,臺南市,第17選區[平地]"
+            }
+        }
+    ]
+}

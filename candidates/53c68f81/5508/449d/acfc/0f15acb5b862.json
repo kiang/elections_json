@@ -1,0 +1,143 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c68f81-5508-449d-acfc-0f15acb5b862",
+            "election_id": "53c410fd-dba8-414a-9879-6f55acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "6888",
+            "name": "謝明謀",
+            "image": "5447a5c1\/f41c\/4860\/ad2b\/09928e043389.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "049-2855308",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "555南投縣魚池鄉水社村中山路128號",
+            "links": "",
+            "gender": "m",
+            "no": "3",
+            "education_level": "專科",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1950-04-15",
+            "platform": "",
+            "education": "高中",
+            "experience": "南投縣第15屆議員",
+            "created": "2014-07-16 22:43:13",
+            "modified": "2015-02-08 23:41:52"
+        },
+        "Election": {
+            "id": "53c410fd-dba8-414a-9879-6f55acb5b862",
+            "population_electors": "51851",
+            "population": "63595",
+            "quota": "4",
+            "quota_women": "1",
+            "bulletin_key": "54735d55-966c-4936-972f-21eacf91e152",
+            "Area": [
+                {
+                    "id": "53c01cd5-8c00-4402-a014-5460acb5b862",
+                    "name": "集集鎮",
+                    "AreasElection": {
+                        "id": "53c410fe-dce4-430b-8375-6f55acb5b862",
+                        "Election_id": "53c410fd-dba8-414a-9879-6f55acb5b862",
+                        "Area_id": "53c01cd5-8c00-4402-a014-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01cde-5da4-45a7-be64-5460acb5b862",
+                    "name": "魚池鄉",
+                    "AreasElection": {
+                        "id": "53c410ff-5b28-4c05-80f1-6f55acb5b862",
+                        "Election_id": "53c410fd-dba8-414a-9879-6f55acb5b862",
+                        "Area_id": "53c01cde-5da4-45a7-be64-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01ce1-0af4-4ce8-8559-5460acb5b862",
+                    "name": "水里鄉",
+                    "AreasElection": {
+                        "id": "53c410ff-b710-4823-9268-6f55acb5b862",
+                        "Election_id": "53c410fd-dba8-414a-9879-6f55acb5b862",
+                        "Area_id": "53c01ce1-0af4-4ce8-8559-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01ce3-91e8-4a4c-888b-5460acb5b862",
+                    "name": "信義鄉",
+                    "AreasElection": {
+                        "id": "53c41100-0de0-4f62-9bc2-6f55acb5b862",
+                        "Election_id": "53c410fd-dba8-414a-9879-6f55acb5b862",
+                        "Area_id": "53c01ce3-91e8-4a4c-888b-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "縣市議員",
+                "lft": "306",
+                "rght": "607",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02083-aa04-4a0e-96bb-5c5aacb5b862",
+                "parent_id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "name": "南投縣",
+                "lft": "419",
+                "rght": "436",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c410fd-dba8-414a-9879-6f55acb5b862",
+                "parent_id": "53c02083-aa04-4a0e-96bb-5c5aacb5b862",
+                "name": "第03選區[區域]",
+                "lft": "424",
+                "rght": "425",
+                "population": "63595",
+                "population_electors": "51851",
+                "quota": "4",
+                "quota_women": "1",
+                "bulletin_key": "54735d55-966c-4936-972f-21eacf91e152",
+                "keywords": "2014-11,縣市議員,南投縣,第03選區[區域]"
+            }
+        }
+    ]
+}

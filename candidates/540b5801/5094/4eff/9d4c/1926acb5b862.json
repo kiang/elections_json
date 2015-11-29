@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5801-5094-4eff-9d4c-1926acb5b862",
+            "election_id": "53c0208b-6ba4-4e0f-a488-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "8333",
+            "name": "陳耀湘",
+            "image": "549e8874\/9d2c\/4e9e\/bb79\/10bd6ab936af.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "臉書 http:\/\/www.facebook.com\/people\/%E9%99%B3%E8%80%80%E6%B9%98\/100008190814164",
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "CHEN YAO HSIANG",
+            "birth_place": "臺灣省",
+            "birth": "1946-12-01",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:52:49",
+            "modified": "2015-02-08 23:41:59"
+        },
+        "Election": {
+            "id": "53c0208b-6ba4-4e0f-a488-5c5aacb5b862",
+            "population_electors": "24779",
+            "population": "30790",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-d420-4a6b-9769-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c42-4e4c-42bc-b24f-5460acb5b862",
+                    "name": "關西鎮",
+                    "AreasElection": {
+                        "id": "53c0208b-8ff4-4dcc-b4e7-5c5aacb5b862",
+                        "Election_id": "53c0208b-6ba4-4e0f-a488-5c5aacb5b862",
+                        "Area_id": "53c01c42-4e4c-42bc-b24f-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市長",
+                "lft": "608",
+                "rght": "1031",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0208a-29e0-490b-94ba-5c5aacb5b862",
+                "parent_id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "name": "新竹縣",
+                "lft": "659",
+                "rght": "686",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0208b-6ba4-4e0f-a488-5c5aacb5b862",
+                "parent_id": "53c0208a-29e0-490b-94ba-5c5aacb5b862",
+                "name": "關西鎮",
+                "lft": "666",
+                "rght": "667",
+                "population": "30790",
+                "population_electors": "24779",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-d420-4a6b-9769-1a32cf91e152",
+                "keywords": "2014-11,鄉鎮市長,新竹縣,關西鎮"
+            }
+        }
+    ]
+}

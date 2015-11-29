@@ -1,0 +1,140 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b56ea-8764-49d2-91e6-1926acb5b862",
+            "election_id": "53d732cd-858c-494a-aa5a-1299acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "247",
+            "name": "高忠正",
+            "image": "54c4a378\/3ecc\/43c3\/acf6\/50a06ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "3",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1969-10-31",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:48:10",
+            "modified": "2015-02-08 23:42:08"
+        },
+        "Election": {
+            "id": "53d732cd-858c-494a-aa5a-1299acb5b862",
+            "population_electors": "2004",
+            "population": "2657",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-f338-4116-9d47-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c51-7600-4830-ab40-5460acb5b862",
+                    "name": "新樂村",
+                    "AreasElection": {
+                        "id": "53d732ce-deec-4f3d-b50b-1299acb5b862",
+                        "Election_id": "53d732cd-858c-494a-aa5a-1299acb5b862",
+                        "Area_id": "53c01c51-7600-4830-ab40-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01c51-947c-40f3-ab5d-5460acb5b862",
+                    "name": "嘉樂村",
+                    "AreasElection": {
+                        "id": "53d732ce-cf4c-4877-8bc7-1299acb5b862",
+                        "Election_id": "53d732cd-858c-494a-aa5a-1299acb5b862",
+                        "Area_id": "53c01c51-947c-40f3-ab5d-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b3-e33c-4fee-aa9e-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "新竹縣",
+                "lft": "1201",
+                "rght": "1322",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b6-4b20-484f-9df6-5c5aacb5b862",
+                "parent_id": "53c020b3-e33c-4fee-aa9e-5c5aacb5b862",
+                "name": "尖石鄉",
+                "lft": "1306",
+                "rght": "1313",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d732cd-858c-494a-aa5a-1299acb5b862",
+                "parent_id": "53c020b6-4b20-484f-9df6-5c5aacb5b862",
+                "name": "第01選舉區[區域]",
+                "lft": "1307",
+                "rght": "1308",
+                "population": "2657",
+                "population_electors": "2004",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-f338-4116-9d47-1a32cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,新竹縣,尖石鄉,第01選舉區[區域]"
+            }
+        }
+    ]
+}

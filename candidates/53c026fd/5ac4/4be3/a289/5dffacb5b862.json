@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c026fd-5ac4-4be3-a289-5dffacb5b862",
+            "election_id": "53c0255a-39d4-43d7-92df-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "554",
+            "name": "黃火塗",
+            "image": "",
+            "party": "中國國民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "1",
+            "education_level": "專科",
+            "is_present": true,
+            "name_english": "HUANG HUO TU",
+            "birth_place": "臺中市",
+            "birth": "1942-11-22",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:41:16"
+        },
+        "Election": {
+            "id": "53c0255a-39d4-43d7-92df-5c5aacb5b862",
+            "population_electors": "803",
+            "population": "998",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c6157-febc-414b-964d-573fcf91e152",
+            "Area": [
+                {
+                    "id": "53c01f8f-a114-441e-abaa-5460acb5b862",
+                    "name": "南陽里",
+                    "AreasElection": {
+                        "id": "53c0255a-26d0-47fc-b044-5c5aacb5b862",
+                        "Election_id": "53c0255a-39d4-43d7-92df-5c5aacb5b862",
+                        "Area_id": "53c01f8f-a114-441e-abaa-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02557-f2ec-4bd9-8f8c-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "大甲區",
+                "lft": "16956",
+                "rght": "17015",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0255a-39d4-43d7-92df-5c5aacb5b862",
+                "parent_id": "53c02557-f2ec-4bd9-8f8c-5c5aacb5b862",
+                "name": "南陽里",
+                "lft": "16985",
+                "rght": "16986",
+                "population": "998",
+                "population_electors": "803",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c6157-febc-414b-964d-573fcf91e152",
+                "keywords": "2014-11,村里長,臺中市,大甲區,南陽里"
+            }
+        }
+    ]
+}

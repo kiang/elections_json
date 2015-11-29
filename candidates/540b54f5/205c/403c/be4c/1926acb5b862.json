@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b54f5-205c-403c-be4c-1926acb5b862",
+            "election_id": "53c02169-6f64-4311-ae0c-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "2019",
+            "name": "陳雯嘉",
+            "image": "5459fd85\/d9cc\/447f\/b618\/3d8e8e043389.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "f",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "CHEN WEN CHIA",
+            "birth_place": "臺灣省",
+            "birth": "1957-12-05",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:39:49",
+            "modified": "2015-02-08 23:44:39"
+        },
+        "Election": {
+            "id": "53c02169-6f64-4311-ae0c-5c5aacb5b862",
+            "population_electors": "7777",
+            "population": "10646",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-b450-4e1c-8d90-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c7e-9e44-43c8-b12b-5460acb5b862",
+                    "name": "延平里",
+                    "AreasElection": {
+                        "id": "53c02169-6110-4864-b5b5-5c5aacb5b862",
+                        "Election_id": "53c02169-6f64-4311-ae0c-5c5aacb5b862",
+                        "Area_id": "53c01c7e-9e44-43c8-b12b-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "4417",
+                "rght": "5648",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-f384-4c28-9dd3-5c5aacb5b862",
+                "parent_id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "name": "彰化市",
+                "lft": "4418",
+                "rght": "4565",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02169-6f64-4311-ae0c-5c5aacb5b862",
+                "parent_id": "53c02162-f384-4c28-9dd3-5c5aacb5b862",
+                "name": "延平里",
+                "lft": "4507",
+                "rght": "4508",
+                "population": "10646",
+                "population_electors": "7777",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-b450-4e1c-8d90-74a5cf91e152",
+                "keywords": "2014-11,村里長,彰化縣,彰化市,延平里"
+            }
+        }
+    ]
+}

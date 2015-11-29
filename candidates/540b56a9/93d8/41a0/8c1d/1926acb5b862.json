@@ -1,0 +1,143 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b56a9-93d8-41a0-8c1d-1926acb5b862",
+            "election_id": "53c410c7-57e0-4aec-9eb7-6f55acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "0",
+            "vote_count": "0",
+            "name": "蘇逸凱",
+            "image": "54734578\/dde4\/4a9c\/b379\/19f08e043389.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "0",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:47:05",
+            "modified": "2014-11-24 22:54:18"
+        },
+        "Election": {
+            "id": "53c410c7-57e0-4aec-9eb7-6f55acb5b862",
+            "population_electors": "97833",
+            "population": "122889",
+            "quota": "5",
+            "quota_women": "1",
+            "bulletin_key": "5469b450-e740-4a91-b7b5-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01cb4-4aa8-4d36-9412-5460acb5b862",
+                    "name": "北斗鎮",
+                    "AreasElection": {
+                        "id": "53c410c7-60a8-4f0a-aed9-6f55acb5b862",
+                        "Election_id": "53c410c7-57e0-4aec-9eb7-6f55acb5b862",
+                        "Area_id": "53c01cb4-4aa8-4d36-9412-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01cb9-5534-40f1-8409-5460acb5b862",
+                    "name": "田尾鄉",
+                    "AreasElection": {
+                        "id": "53c410c8-99ec-459b-b9ab-6f55acb5b862",
+                        "Election_id": "53c410c7-57e0-4aec-9eb7-6f55acb5b862",
+                        "Area_id": "53c01cb9-5534-40f1-8409-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01cbc-38b8-43ad-87e3-5460acb5b862",
+                    "name": "埤頭鄉",
+                    "AreasElection": {
+                        "id": "53c410c9-5aec-4dd1-8858-6f55acb5b862",
+                        "Election_id": "53c410c7-57e0-4aec-9eb7-6f55acb5b862",
+                        "Area_id": "53c01cbc-38b8-43ad-87e3-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01cc4-a7e8-4d78-bd1a-5460acb5b862",
+                    "name": "溪州鄉",
+                    "AreasElection": {
+                        "id": "53c410ca-7fa0-49bb-991e-6f55acb5b862",
+                        "Election_id": "53c410c7-57e0-4aec-9eb7-6f55acb5b862",
+                        "Area_id": "53c01cc4-a7e8-4d78-bd1a-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "縣市議員",
+                "lft": "306",
+                "rght": "607",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02083-6290-44f4-8dab-5c5aacb5b862",
+                "parent_id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "399",
+                "rght": "418",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c410c7-57e0-4aec-9eb7-6f55acb5b862",
+                "parent_id": "53c02083-6290-44f4-8dab-5c5aacb5b862",
+                "name": "第07選區[區域]",
+                "lft": "412",
+                "rght": "413",
+                "population": "122889",
+                "population_electors": "97833",
+                "quota": "5",
+                "quota_women": "1",
+                "bulletin_key": "5469b450-e740-4a91-b7b5-74a5cf91e152",
+                "keywords": "2014-11,縣市議員,彰化縣,第07選區[區域]"
+            }
+        }
+    ]
+}

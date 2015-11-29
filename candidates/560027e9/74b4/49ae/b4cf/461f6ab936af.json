@@ -1,0 +1,124 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "560027e9-74b4-49ae-b4cf-461f6ab936af",
+            "election_id": "5508664a-6e84-44b5-914a-2f916ab936af",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "0",
+            "name": "劉義雄",
+            "image": "",
+            "party": "軍公教聯盟黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": null,
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2015-09-21 23:53:13",
+            "modified": "2015-11-29 03:28:36"
+        },
+        "Election": {
+            "id": "5508664a-6e84-44b5-914a-2f916ab936af",
+            "population_electors": "0",
+            "population": "0",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "Area": [
+                {
+                    "id": "55085a3e-97b8-46b6-b4a4-3584acb5b862",
+                    "name": "鳳山區",
+                    "AreasElection": {
+                        "id": "550a70d3-ba5c-4cbd-95ab-47cc6ab936af",
+                        "Election_id": "5508664a-6e84-44b5-914a-2f916ab936af",
+                        "Area_id": "55085a3e-97b8-46b6-b4a4-3584acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "560026c1-9ec0-4321-9d87-46a36ab936af",
+                "name": "2016軍公教聯盟黨",
+                "CandidatesTag": {
+                    "id": "56002807-d034-42f4-b1d5-466d6ab936af",
+                    "Candidate_id": "560027e9-74b4-49ae-b4cf-461f6ab936af",
+                    "Tag_id": "560026c1-9ec0-4321-9d87-46a36ab936af"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "55085db5-2e9c-4cde-8103-23d86ab936af",
+                "parent_id": null,
+                "name": "2016-01",
+                "lft": "40579",
+                "rght": "40780",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "55085e1a-c494-40e0-ba31-2f916ab936af",
+                "parent_id": "55085db5-2e9c-4cde-8103-23d86ab936af",
+                "name": "立法委員",
+                "lft": "40582",
+                "rght": "40779",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "550862c1-4b2c-491f-8736-35296ab936af",
+                "parent_id": "55085e1a-c494-40e0-ba31-2f916ab936af",
+                "name": "高雄市",
+                "lft": "40657",
+                "rght": "40676",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "5508664a-6e84-44b5-914a-2f916ab936af",
+                "parent_id": "550862c1-4b2c-491f-8736-35296ab936af",
+                "name": "第08選區[區域]",
+                "lft": "40672",
+                "rght": "40673",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2016-01,立法委員,高雄市,第08選區[區域]"
+            }
+        }
+    ]
+}

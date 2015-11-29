@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "5406a613-b10c-4b21-a765-15b8acb5b862",
+            "election_id": "53c020a4-f920-4d76-b423-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "0",
+            "vote_count": "0",
+            "name": "陳生明",
+            "image": "549666d7\/3e48\/45a8\/8699\/1c5e6ab936af.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "0",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "國立屏東師範學院語文教育研究所",
+            "experience": "1.國小教師2.教務主任",
+            "created": "2014-09-03 13:24:35",
+            "modified": "2014-12-21 14:43:11"
+        },
+        "Election": {
+            "id": "53c020a4-f920-4d76-b423-5c5aacb5b862",
+            "population_electors": "5386",
+            "population": "6711",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5475673a-069c-42dc-9c1c-0f78cf91e152",
+            "Area": [
+                {
+                    "id": "53c01d8e-0aa0-4b23-8d26-5460acb5b862",
+                    "name": "瑪家鄉",
+                    "AreasElection": {
+                        "id": "53c020a4-4378-4626-9530-5c5aacb5b862",
+                        "Election_id": "53c020a4-f920-4d76-b423-5c5aacb5b862",
+                        "Area_id": "53c01d8e-0aa0-4b23-8d26-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市長",
+                "lft": "608",
+                "rght": "1031",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020a0-f5a4-4054-836f-5c5aacb5b862",
+                "parent_id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "887",
+                "rght": "954",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020a4-f920-4d76-b423-5c5aacb5b862",
+                "parent_id": "53c020a0-f5a4-4054-836f-5c5aacb5b862",
+                "name": "瑪家鄉",
+                "lft": "942",
+                "rght": "943",
+                "population": "6711",
+                "population_electors": "5386",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5475673a-069c-42dc-9c1c-0f78cf91e152",
+                "keywords": "2014-11,鄉鎮市長,屏東縣,瑪家鄉"
+            }
+        }
+    ]
+}

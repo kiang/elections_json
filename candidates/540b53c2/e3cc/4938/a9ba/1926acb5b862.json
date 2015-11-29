@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b53c2-e3cc-4938-a9ba-1926acb5b862",
+            "election_id": "53c02530-1404-498c-aee8-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "1067",
+            "name": "詹穎政",
+            "image": null,
+            "party": "民主進步黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "專科",
+            "is_present": false,
+            "name_english": "Chan Yin Cheng",
+            "birth_place": "臺灣省",
+            "birth": "1974-10-03",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:34:42",
+            "modified": "2015-02-08 23:41:12"
+        },
+        "Election": {
+            "id": "53c02530-1404-498c-aee8-5c5aacb5b862",
+            "population_electors": "3926",
+            "population": "5036",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e0696-def8-4015-a71b-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01f70-83e4-4b7a-9ca9-5460acb5b862",
+                    "name": "公德里",
+                    "AreasElection": {
+                        "id": "53c02530-621c-4d7f-9e32-5c5aacb5b862",
+                        "Election_id": "53c02530-1404-498c-aee8-5c5aacb5b862",
+                        "Area_id": "53c01f70-83e4-4b7a-9ca9-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0252b-11a4-488d-aa14-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "西區",
+                "lft": "16486",
+                "rght": "16537",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02530-1404-498c-aee8-5c5aacb5b862",
+                "parent_id": "53c0252b-11a4-488d-aa14-5c5aacb5b862",
+                "name": "公德里",
+                "lft": "16533",
+                "rght": "16534",
+                "population": "5036",
+                "population_electors": "3926",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e0696-def8-4015-a71b-1a32cf91e152",
+                "keywords": "2014-11,村里長,臺中市,西區,公德里"
+            }
+        }
+    ]
+}

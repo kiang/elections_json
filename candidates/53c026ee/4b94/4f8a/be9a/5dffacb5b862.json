@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c026ee-4b94-4f8a-be9a-5dffacb5b862",
+            "election_id": "53c02534-bc2c-4fc0-b5e2-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "2740",
+            "name": "林麗芬",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "1",
+            "education_level": "碩士",
+            "is_present": true,
+            "name_english": "LIN LI FEN",
+            "birth_place": "臺中市",
+            "birth": "1960-02-07",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:41:12"
+        },
+        "Election": {
+            "id": "53c02534-bc2c-4fc0-b5e2-5c5aacb5b862",
+            "population_electors": "4939",
+            "population": "6163",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068f-0614-4712-b17d-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01f73-cd20-4898-a474-5460acb5b862",
+                    "name": "明德里",
+                    "AreasElection": {
+                        "id": "53c02534-cfd4-4604-b40b-5c5aacb5b862",
+                        "Election_id": "53c02534-bc2c-4fc0-b5e2-5c5aacb5b862",
+                        "Area_id": "53c01f73-cd20-4898-a474-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02530-1868-453b-afd5-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "北區",
+                "lft": "16538",
+                "rght": "16611",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02534-bc2c-4fc0-b5e2-5c5aacb5b862",
+                "parent_id": "53c02530-1868-453b-afd5-5c5aacb5b862",
+                "name": "明德里",
+                "lft": "16585",
+                "rght": "16586",
+                "population": "6163",
+                "population_electors": "4939",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068f-0614-4712-b17d-1a32cf91e152",
+                "keywords": "2014-11,村里長,臺中市,北區,明德里"
+            }
+        }
+    ]
+}

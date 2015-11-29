@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02777-6780-4320-a66d-5dffacb5b862",
+            "election_id": "53c02356-9eb4-48c5-bdd8-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "2469",
+            "name": "游秋蓉",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "YU CHIU JUNG",
+            "birth_place": "臺灣省",
+            "birth": "1960-06-15",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:41:42"
+        },
+        "Election": {
+            "id": "53c02356-9eb4-48c5-bdd8-5c5aacb5b862",
+            "population_electors": "4223",
+            "population": "5545",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-3ab0-47fc-aa4f-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c0f-c8ec-4789-aa44-5460acb5b862",
+                    "name": "田心里",
+                    "AreasElection": {
+                        "id": "53c02356-b9a8-4ca1-8ac0-5c5aacb5b862",
+                        "Election_id": "53c02356-9eb4-48c5-bdd8-5c5aacb5b862",
+                        "Area_id": "53c01c0f-c8ec-4789-aa44-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "桃園市",
+                "lft": "10439",
+                "rght": "11456",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02351-abac-4dc1-b5b3-5c5aacb5b862",
+                "parent_id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "name": "大溪區",
+                "lft": "10766",
+                "rght": "10821",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02356-9eb4-48c5-bdd8-5c5aacb5b862",
+                "parent_id": "53c02351-abac-4dc1-b5b3-5c5aacb5b862",
+                "name": "田心里",
+                "lft": "10817",
+                "rght": "10818",
+                "population": "5545",
+                "population_electors": "4223",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-3ab0-47fc-aa4f-1a32cf91e152",
+                "keywords": "2014-11,村里長,桃園市,大溪區,田心里"
+            }
+        }
+    ]
+}

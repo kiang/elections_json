@@ -1,0 +1,142 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b567c-6988-4160-9afa-1926acb5b862",
+            "election_id": "53c40085-dd50-4cf2-9c73-6cceacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "3527",
+            "name": "余筱菁",
+            "image": "5433ec44\/6f94\/4d1f\/8868\/41d7cb455a61.jpg",
+            "party": "樹黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "f",
+            "no": "9",
+            "education_level": "碩士",
+            "is_present": false,
+            "name_english": "Yu Hsiao ching",
+            "birth_place": "臺灣省",
+            "birth": "1980-12-02",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:46:20",
+            "modified": "2015-02-08 23:40:13"
+        },
+        "Election": {
+            "id": "53c40085-dd50-4cf2-9c73-6cceacb5b862",
+            "population_electors": "321003",
+            "population": "405511",
+            "quota": "9",
+            "quota_women": "2",
+            "bulletin_key": "5469b450-5f1c-4577-83d3-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01e30-5c3c-4271-b52e-5460acb5b862",
+                    "name": "南港區",
+                    "AreasElection": {
+                        "id": "53c406db-334c-418d-9ca9-6dacacb5b862",
+                        "Election_id": "53c40085-dd50-4cf2-9c73-6cceacb5b862",
+                        "Area_id": "53c01e30-5c3c-4271-b52e-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01e34-1ba0-4525-8730-5460acb5b862",
+                    "name": "內湖區",
+                    "AreasElection": {
+                        "id": "53c406db-2fd0-4c2b-95ae-6dacacb5b862",
+                        "Election_id": "53c40085-dd50-4cf2-9c73-6cceacb5b862",
+                        "Area_id": "53c01e34-1ba0-4525-8730-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54130ed6-8a1c-4057-a9aa-799bcb455a61",
+                "name": "2014樹黨",
+                "CandidatesTag": {
+                    "id": "54130edd-5fac-4be5-b6b5-799bcb455a61",
+                    "Candidate_id": "540b567c-6988-4160-9afa-1926acb5b862",
+                    "Tag_id": "54130ed6-8a1c-4057-a9aa-799bcb455a61"
+                }
+            },
+            {
+                "id": "541f0273-6fac-4491-868d-53e8cb455a61",
+                "name": "2014青年佔領政治",
+                "CandidatesTag": {
+                    "id": "541f0554-8bf0-42ea-a2bb-53e8cb455a61",
+                    "Candidate_id": "540b567c-6988-4160-9afa-1926acb5b862",
+                    "Tag_id": "541f0273-6fac-4491-868d-53e8cb455a61"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207e-df00-40ad-b2bd-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "臺北市",
+                "lft": "47",
+                "rght": "64",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c40085-dd50-4cf2-9c73-6cceacb5b862",
+                "parent_id": "53c0207e-df00-40ad-b2bd-5c5aacb5b862",
+                "name": "第02選區[區域]",
+                "lft": "50",
+                "rght": "51",
+                "population": "405511",
+                "population_electors": "321003",
+                "quota": "9",
+                "quota_women": "2",
+                "bulletin_key": "5469b450-5f1c-4577-83d3-74a5cf91e152",
+                "keywords": "2014-11,直轄市議員,臺北市,第02選區[區域]"
+            }
+        }
+    ]
+}

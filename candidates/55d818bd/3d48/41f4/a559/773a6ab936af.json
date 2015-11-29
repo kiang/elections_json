@@ -1,0 +1,101 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "55d818bd-3d48-41f4-a559-773a6ab936af",
+            "election_id": "55086422-2e64-4827-9712-23d86ab936af",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "0",
+            "name": "林昊宜",
+            "image": "56016746\/7bcc\/47e9\/a073\/46a36ab936af.jpg",
+            "party": "親民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "f",
+            "no": null,
+            "education_level": "碩士",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺東縣",
+            "birth": "0000-00-00",
+            "platform": "",
+            "education": "德霖技術學院土木工程系",
+            "experience": "",
+            "created": "2015-08-22 14:37:49",
+            "modified": "2015-11-29 03:28:35"
+        },
+        "Election": {
+            "id": "55086422-2e64-4827-9712-23d86ab936af",
+            "population_electors": "0",
+            "population": "0",
+            "quota": "3",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "Area": [
+                {
+                    "id": "55085939-13ec-4d1e-9ac1-3584acb5b862",
+                    "name": "2016",
+                    "AreasElection": {
+                        "id": "550a3870-7728-4624-9709-47cb6ab936af",
+                        "Election_id": "55086422-2e64-4827-9712-23d86ab936af",
+                        "Area_id": "55085939-13ec-4d1e-9ac1-3584acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "55085db5-2e9c-4cde-8103-23d86ab936af",
+                "parent_id": null,
+                "name": "2016-01",
+                "lft": "40579",
+                "rght": "40780",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "55085e1a-c494-40e0-ba31-2f916ab936af",
+                "parent_id": "55085db5-2e9c-4cde-8103-23d86ab936af",
+                "name": "立法委員",
+                "lft": "40582",
+                "rght": "40779",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "55086422-2e64-4827-9712-23d86ab936af",
+                "parent_id": "55085e1a-c494-40e0-ba31-2f916ab936af",
+                "name": "全國[平原]",
+                "lft": "40775",
+                "rght": "40776",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "3",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2016-01,立法委員,全國[平原]"
+            }
+        }
+    ]
+}

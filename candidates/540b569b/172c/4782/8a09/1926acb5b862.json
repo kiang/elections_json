@@ -1,0 +1,125 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b569b-172c-4782-8a09-1926acb5b862",
+            "election_id": "53c4008f-f314-40a8-97f9-6cceacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "24649",
+            "name": "吳銘賜",
+            "image": "548991f8\/0f58\/4cbf\/ba5d\/2dca6ab936af.jpg",
+            "party": "民主進步黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "臉書 http:\/\/www.facebook.com\/pages\/%E5%90%B3%E9%8A%98%E8%B3%9C%E9%98%BF%E8%B3%9C%E4%BB%94-%E6%95%A2%E8%AC%9B%E6%95%A2%E5%81%9A%E6%95%A2%E6%93%94%E7%95%B6\/139668169417617\\n臉書 http:\/\/www.facebook.com\/as073303385",
+            "gender": "m",
+            "no": "11",
+            "education_level": "專科",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "高雄市",
+            "birth": "1965-12-02",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:46:51",
+            "modified": "2015-02-08 23:40:23"
+        },
+        "Election": {
+            "id": "53c4008f-f314-40a8-97f9-6cceacb5b862",
+            "population_electors": "281745",
+            "population": "349973",
+            "quota": "8",
+            "quota_women": "2",
+            "bulletin_key": "546eb720-3974-4ef9-8ce9-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01e79-d34c-4dc0-8d85-5460acb5b862",
+                    "name": "前鎮區",
+                    "AreasElection": {
+                        "id": "53c406de-175c-4628-af61-6dacacb5b862",
+                        "Election_id": "53c4008f-f314-40a8-97f9-6cceacb5b862",
+                        "Area_id": "53c01e79-d34c-4dc0-8d85-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01e83-76c8-4b6c-bdc8-5460acb5b862",
+                    "name": "小港區",
+                    "AreasElection": {
+                        "id": "53c406df-4ed0-4208-883f-6dacacb5b862",
+                        "Election_id": "53c4008f-f314-40a8-97f9-6cceacb5b862",
+                        "Area_id": "53c01e83-76c8-4b6c-bdc8-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207e-117c-4e21-88cf-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "高雄市",
+                "lft": "65",
+                "rght": "96",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c4008f-f314-40a8-97f9-6cceacb5b862",
+                "parent_id": "53c0207e-117c-4e21-88cf-5c5aacb5b862",
+                "name": "第10選區[區域]",
+                "lft": "84",
+                "rght": "85",
+                "population": "349973",
+                "population_electors": "281745",
+                "quota": "8",
+                "quota_women": "2",
+                "bulletin_key": "546eb720-3974-4ef9-8ce9-2adbcf91e152",
+                "keywords": "2014-11,直轄市議員,高雄市,第10選區[區域]"
+            }
+        }
+    ]
+}

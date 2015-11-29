@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02631-00c4-498c-91d2-5dffacb5b862",
+            "election_id": "53c0238d-a640-45c6-bce4-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "3061",
+            "name": "游吉興",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺中市",
+            "birth": "1967-11-27",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:40:28"
+        },
+        "Election": {
+            "id": "53c0238d-a640-45c6-bce4-5c5aacb5b862",
+            "population_electors": "5218",
+            "population": "6909",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-add8-494f-97de-4187cf91e152",
+            "Area": [
+                {
+                    "id": "53c01e08-bb24-45eb-b475-5460acb5b862",
+                    "name": "中華里",
+                    "AreasElection": {
+                        "id": "53c0238d-0270-4bb3-b17c-5c5aacb5b862",
+                        "Election_id": "53c0238d-a640-45c6-bce4-5c5aacb5b862",
+                        "Area_id": "53c01e08-bb24-45eb-b475-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-2b2c-4b71-a7e2-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "松山區",
+                "lft": "11458",
+                "rght": "11525",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238d-a640-45c6-bce4-5c5aacb5b862",
+                "parent_id": "53c0238a-2b2c-4b71-a7e2-5c5aacb5b862",
+                "name": "中華里",
+                "lft": "11493",
+                "rght": "11494",
+                "population": "6909",
+                "population_electors": "5218",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-add8-494f-97de-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,松山區,中華里"
+            }
+        }
+    ]
+}

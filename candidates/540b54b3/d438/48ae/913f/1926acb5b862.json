@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b54b3-d438-48ae-913f-1926acb5b862",
+            "election_id": "53c0246a-b5e8-4f9c-af82-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "88",
+            "name": "吳光宇",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "高雄市",
+            "birth": "1971-07-02",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:38:43",
+            "modified": "2015-02-08 23:40:53"
+        },
+        "Election": {
+            "id": "53c0246a-b5e8-4f9c-af82-5c5aacb5b862",
+            "population_electors": "234",
+            "population": "305",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb721-073c-4440-8efd-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01ec6-8268-4d94-8e7c-5460acb5b862",
+                    "name": "拉芙蘭里",
+                    "AreasElection": {
+                        "id": "53c0246a-58f0-4bdd-91ad-5c5aacb5b862",
+                        "Election_id": "53c0246a-b5e8-4f9c-af82-5c5aacb5b862",
+                        "Area_id": "53c01ec6-8268-4d94-8e7c-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02469-435c-4144-bda7-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "桃源區",
+                "lft": "14234",
+                "rght": "14251",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0246a-b5e8-4f9c-af82-5c5aacb5b862",
+                "parent_id": "53c02469-435c-4144-bda7-5c5aacb5b862",
+                "name": "拉芙蘭里",
+                "lft": "14245",
+                "rght": "14246",
+                "population": "305",
+                "population_electors": "234",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb721-073c-4440-8efd-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,桃源區,拉芙蘭里"
+            }
+        }
+    ]
+}

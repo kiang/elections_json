@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c0264a-cc3c-4b45-b2f0-5dffacb5b862",
+            "election_id": "53c023c5-bec0-427f-88b7-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "2274",
+            "name": "尤樹旺",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "3",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "YU SHU WANG",
+            "birth_place": "臺灣省",
+            "birth": "1962-09-19",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:40:35"
+        },
+        "Election": {
+            "id": "53c023c5-bec0-427f-88b7-5c5aacb5b862",
+            "population_electors": "6249",
+            "population": "8443",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-0968-4d72-8f38-4187cf91e152",
+            "Area": [
+                {
+                    "id": "53c01e37-f604-4c38-931f-5460acb5b862",
+                    "name": "安湖里",
+                    "AreasElection": {
+                        "id": "53c023c5-6c94-4e97-b11d-5c5aacb5b862",
+                        "Election_id": "53c023c5-bec0-427f-88b7-5c5aacb5b862",
+                        "Area_id": "53c01e37-f604-4c38-931f-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023c0-6e24-4314-83f8-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "內湖區",
+                "lft": "12124",
+                "rght": "12203",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023c5-bec0-427f-88b7-5c5aacb5b862",
+                "parent_id": "53c023c0-6e24-4314-83f8-5c5aacb5b862",
+                "name": "安湖里",
+                "lft": "12181",
+                "rght": "12182",
+                "population": "8443",
+                "population_electors": "6249",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-0968-4d72-8f38-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,內湖區,安湖里"
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b52eb-a4fc-43f0-bb0d-1926acb5b862",
+            "election_id": "53c0239c-9398-427d-84ed-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "1739",
+            "name": "許玥禪",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "1",
+            "education_level": "專科",
+            "is_present": false,
+            "name_english": "Hsu Yueh Chan",
+            "birth_place": "臺灣省",
+            "birth": "1945-11-24",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:31:07",
+            "modified": "2015-02-08 23:40:30"
+        },
+        "Election": {
+            "id": "53c0239c-9398-427d-84ed-5c5aacb5b862",
+            "population_electors": "7063",
+            "population": "8952",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-0708-43bb-98bf-4187cf91e152",
+            "Area": [
+                {
+                    "id": "53c01e16-4248-453d-83fc-5460acb5b862",
+                    "name": "大學里",
+                    "AreasElection": {
+                        "id": "53c0239c-ada4-46ca-8d33-5c5aacb5b862",
+                        "Election_id": "53c0239c-9398-427d-84ed-5c5aacb5b862",
+                        "Area_id": "53c01e16-4248-453d-83fc-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02396-dd04-4dbc-a350-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "大安區",
+                "lft": "11610",
+                "rght": "11717",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0239c-9398-427d-84ed-5c5aacb5b862",
+                "parent_id": "53c02396-dd04-4dbc-a350-5c5aacb5b862",
+                "name": "大學里",
+                "lft": "11681",
+                "rght": "11682",
+                "population": "8952",
+                "population_electors": "7063",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-0708-43bb-98bf-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,大安區,大學里"
+            }
+        }
+    ]
+}

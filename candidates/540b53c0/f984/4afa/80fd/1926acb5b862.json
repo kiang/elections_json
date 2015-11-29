@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b53c0-f984-4afa-80fd-1926acb5b862",
+            "election_id": "53c0252c-f0cc-4454-91de-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "593",
+            "name": "周孟美",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "1",
+            "education_level": "專科",
+            "is_present": false,
+            "name_english": "Chou Meng Mei",
+            "birth_place": "臺中市",
+            "birth": "1960-08-13",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:34:40",
+            "modified": "2015-02-08 23:41:11"
+        },
+        "Election": {
+            "id": "53c0252c-f0cc-4454-91de-5c5aacb5b862",
+            "population_electors": "4440",
+            "population": "5441",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e0696-e964-4ce2-90f0-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01f6e-01e0-4c3e-b151-5460acb5b862",
+                    "name": "公民里",
+                    "AreasElection": {
+                        "id": "53c0252c-14e0-44e9-a9d4-5c5aacb5b862",
+                        "Election_id": "53c0252c-f0cc-4454-91de-5c5aacb5b862",
+                        "Area_id": "53c01f6e-01e0-4c3e-b151-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0252b-11a4-488d-aa14-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "西區",
+                "lft": "16486",
+                "rght": "16537",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0252c-f0cc-4454-91de-5c5aacb5b862",
+                "parent_id": "53c0252b-11a4-488d-aa14-5c5aacb5b862",
+                "name": "公民里",
+                "lft": "16499",
+                "rght": "16500",
+                "population": "5441",
+                "population_electors": "4440",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e0696-e964-4ce2-90f0-1a32cf91e152",
+                "keywords": "2014-11,村里長,臺中市,西區,公民里"
+            }
+        }
+    ]
+}

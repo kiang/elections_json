@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02674-489c-413b-acde-5dffacb5b862",
+            "election_id": "53c0241c-a8c4-4df2-992c-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "0",
+            "vote_count": "0",
+            "name": "宋景源",
+            "image": null,
+            "party": null,
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": null,
+            "no": "0",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "0000-00-00 00:00:00"
+        },
+        "Election": {
+            "id": "53c0241c-a8c4-4df2-992c-5c5aacb5b862",
+            "population_electors": "2269",
+            "population": "2764",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb720-9654-4c8f-aa55-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01e84-b1e8-4587-8097-5460acb5b862",
+                    "name": "港南里",
+                    "AreasElection": {
+                        "id": "53c0241c-3864-414e-9d07-5c5aacb5b862",
+                        "Election_id": "53c0241c-a8c4-4df2-992c-5c5aacb5b862",
+                        "Area_id": "53c01e84-b1e8-4587-8097-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0241a-711c-4df7-8cb5-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "小港區",
+                "lft": "13246",
+                "rght": "13323",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0241c-a8c4-4df2-992c-5c5aacb5b862",
+                "parent_id": "53c0241a-711c-4df7-8cb5-5c5aacb5b862",
+                "name": "港南里",
+                "lft": "13275",
+                "rght": "13276",
+                "population": "2764",
+                "population_electors": "2269",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb720-9654-4c8f-aa55-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,小港區,港南里"
+            }
+        }
+    ]
+}

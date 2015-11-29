@@ -1,0 +1,140 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5672-1c1c-4b7e-bf5d-1926acb5b862",
+            "election_id": "53c423a3-a2fc-4d66-bf0d-72c8acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "199",
+            "name": "黃萬益",
+            "image": "548ee5eb\/0438\/4136\/814e\/649c6ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "7",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "新北市",
+            "birth": "1951-06-14",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:46:10",
+            "modified": "2015-02-08 23:44:23"
+        },
+        "Election": {
+            "id": "53c423a3-a2fc-4d66-bf0d-72c8acb5b862",
+            "population_electors": "2343",
+            "population": "2949",
+            "quota": "3",
+            "quota_women": "0",
+            "bulletin_key": "546edee5-3418-4b24-8e72-3ce1cf91e152",
+            "Area": [
+                {
+                    "id": "53c01f64-584c-4a62-af48-5460acb5b862",
+                    "name": "孝義里",
+                    "AreasElection": {
+                        "id": "53c423a3-d304-4865-a9b6-72c8acb5b862",
+                        "Election_id": "53c423a3-a2fc-4d66-bf0d-72c8acb5b862",
+                        "Area_id": "53c01f64-584c-4a62-af48-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01f64-e47c-44d6-b916-5460acb5b862",
+                    "name": "烏來里",
+                    "AreasElection": {
+                        "id": "53c423a3-e004-4755-8e81-72c8acb5b862",
+                        "Election_id": "53c423a3-a2fc-4d66-bf0d-72c8acb5b862",
+                        "Area_id": "53c01f64-e47c-44d6-b916-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-96ac-4ca2-b338-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市山地原住民區民代表",
+                "lft": "218",
+                "rght": "271",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c42064-5764-4a0f-a857-7258acb5b862",
+                "parent_id": "53c0202f-96ac-4ca2-b338-5460acb5b862",
+                "name": "新北市",
+                "lft": "249",
+                "rght": "260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c42064-5f28-4549-b2fa-7258acb5b862",
+                "parent_id": "53c42064-5764-4a0f-a857-7258acb5b862",
+                "name": "烏來區",
+                "lft": "250",
+                "rght": "259",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c423a3-a2fc-4d66-bf0d-72c8acb5b862",
+                "parent_id": "53c42064-5f28-4549-b2fa-7258acb5b862",
+                "name": "第02選舉區",
+                "lft": "253",
+                "rght": "254",
+                "population": "2949",
+                "population_electors": "2343",
+                "quota": "3",
+                "quota_women": "0",
+                "bulletin_key": "546edee5-3418-4b24-8e72-3ce1cf91e152",
+                "keywords": "2014-11,直轄市山地原住民區民代表,新北市,烏來區,第02選舉區"
+            }
+        }
+    ]
+}

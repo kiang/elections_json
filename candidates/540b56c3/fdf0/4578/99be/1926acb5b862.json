@@ -1,0 +1,134 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b56c3-fdf0-4578-99be-1926acb5b862",
+            "election_id": "53c41217-b0e0-4522-8c17-6f55acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "209",
+            "name": "余秀珠",
+            "image": "549ab2e0\/5000\/4991\/b0ab\/12a16ab936af.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "f",
+            "no": "1",
+            "education_level": "專科",
+            "is_present": false,
+            "name_english": "YU HSIU CHU",
+            "birth_place": "臺灣省",
+            "birth": "1948-11-25",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:47:31",
+            "modified": "2015-02-08 23:41:58"
+        },
+        "Election": {
+            "id": "53c41217-b0e0-4522-8c17-6f55acb5b862",
+            "population_electors": "34819",
+            "population": "42631",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-1174-4021-9d8a-4187cf91e152",
+            "Area": [
+                {
+                    "id": "53c01db1-fd78-4ffd-8614-5460acb5b862",
+                    "name": "玉里鎮",
+                    "AreasElection": {
+                        "id": "53c41218-bcb0-4951-a74b-6f55acb5b862",
+                        "Election_id": "53c41217-b0e0-4522-8c17-6f55acb5b862",
+                        "Area_id": "53c01db1-fd78-4ffd-8614-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01dbd-d62c-488f-a3ab-5460acb5b862",
+                    "name": "富里鄉",
+                    "AreasElection": {
+                        "id": "53c41218-0c24-4271-b284-6f55acb5b862",
+                        "Election_id": "53c41217-b0e0-4522-8c17-6f55acb5b862",
+                        "Area_id": "53c01dbd-d62c-488f-a3ab-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01dc0-4824-4b15-b246-5460acb5b862",
+                    "name": "卓溪鄉",
+                    "AreasElection": {
+                        "id": "53c4121a-1f74-43cb-84d1-6f55acb5b862",
+                        "Election_id": "53c41217-b0e0-4522-8c17-6f55acb5b862",
+                        "Area_id": "53c01dc0-4824-4b15-b246-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "縣市議員",
+                "lft": "306",
+                "rght": "607",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02084-5b54-43be-89be-5c5aacb5b862",
+                "parent_id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "name": "花蓮縣",
+                "lft": "533",
+                "rght": "554",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c41217-b0e0-4522-8c17-6f55acb5b862",
+                "parent_id": "53c02084-5b54-43be-89be-5c5aacb5b862",
+                "name": "第10選區[山地]",
+                "lft": "552",
+                "rght": "553",
+                "population": "42631",
+                "population_electors": "34819",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-1174-4021-9d8a-4187cf91e152",
+                "keywords": "2014-11,縣市議員,花蓮縣,第10選區[山地]"
+            }
+        }
+    ]
+}

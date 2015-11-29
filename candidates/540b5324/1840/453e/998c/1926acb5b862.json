@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5324-1840-453e-998c-1926acb5b862",
+            "election_id": "53c02481-b9d8-42ce-8d5a-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1861",
+            "name": "鐘林美珠",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺南市",
+            "birth": "1956-06-21",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:32:04",
+            "modified": "2015-02-08 23:40:55"
+        },
+        "Election": {
+            "id": "53c02481-b9d8-42ce-8d5a-5c5aacb5b862",
+            "population_electors": "4642",
+            "population": "5585",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068c-58f8-4b2b-bfa0-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01eda-c174-493e-adb9-5460acb5b862",
+                    "name": "大有里",
+                    "AreasElection": {
+                        "id": "53c02481-7a4c-4035-9ba7-5c5aacb5b862",
+                        "Election_id": "53c02481-b9d8-42ce-8d5a-5c5aacb5b862",
+                        "Area_id": "53c01eda-c174-493e-adb9-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新北市",
+                "lft": "14261",
+                "rght": "16384",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02480-1acc-4cf5-8b74-5c5aacb5b862",
+                "parent_id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "name": "三重區",
+                "lft": "14516",
+                "rght": "14755",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02481-b9d8-42ce-8d5a-5c5aacb5b862",
+                "parent_id": "53c02480-1acc-4cf5-8b74-5c5aacb5b862",
+                "name": "大有里",
+                "lft": "14529",
+                "rght": "14530",
+                "population": "5585",
+                "population_electors": "4642",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068c-58f8-4b2b-bfa0-1a32cf91e152",
+                "keywords": "2014-11,村里長,新北市,三重區,大有里"
+            }
+        }
+    ]
+}

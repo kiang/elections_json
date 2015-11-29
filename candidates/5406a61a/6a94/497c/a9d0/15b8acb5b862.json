@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "5406a61a-6a94-497c-a9d0-15b8acb5b862",
+            "election_id": "53c02085-6840-47ee-926b-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "0",
+            "vote_count": "0",
+            "name": "朱秀平",
+            "image": "5486ef66\/4d74\/4c8e\/84d2\/65d66ab936af.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "0",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "台灣省立基隆高級海事職業學校畢業",
+            "experience": "1、連江縣南竿鄉第八屆鄉長 2、中華民國鄉鎮市長聯合總會副總會長 3、國立馬祖高中家長會會長 4、連江縣木球委員會主任委員 5、連江縣南竿鄉第七屆鄉民代表會主席 6、中華民國鄉鎮市民代表會聯合總會連江縣會長 7、連江縣後備軍人輔導中心主任 8、連江縣青溪協會理事長 9、連江縣計程車駕駛員工會理事長",
+            "created": "2014-09-03 13:24:42",
+            "modified": "2014-12-09 12:49:17"
+        },
+        "Election": {
+            "id": "53c02085-6840-47ee-926b-5c5aacb5b862",
+            "population_electors": "6028",
+            "population": "7509",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54742647-d77c-48a0-9356-2d82cf91e152",
+            "Area": [
+                {
+                    "id": "53c01bce-efb8-433d-816a-5460acb5b862",
+                    "name": "南竿鄉",
+                    "AreasElection": {
+                        "id": "53c02085-aab0-4bf6-9e23-5c5aacb5b862",
+                        "Election_id": "53c02085-6840-47ee-926b-5c5aacb5b862",
+                        "Area_id": "53c01bce-efb8-433d-816a-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市長",
+                "lft": "608",
+                "rght": "1031",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02085-5740-45e5-af98-5c5aacb5b862",
+                "parent_id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "name": "連江縣",
+                "lft": "609",
+                "rght": "618",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02085-6840-47ee-926b-5c5aacb5b862",
+                "parent_id": "53c02085-5740-45e5-af98-5c5aacb5b862",
+                "name": "南竿鄉",
+                "lft": "610",
+                "rght": "611",
+                "population": "7509",
+                "population_electors": "6028",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54742647-d77c-48a0-9356-2d82cf91e152",
+                "keywords": "2014-11,鄉鎮市長,連江縣,南竿鄉"
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b53f0-82a8-4d2d-a313-1926acb5b862",
+            "election_id": "53c02583-d054-4308-974c-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "682",
+            "name": "邵玉明",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "碩士",
+            "is_present": false,
+            "name_english": "Shao Yu Ming",
+            "birth_place": "臺中市",
+            "birth": "1968-10-12",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:35:28",
+            "modified": "2015-02-08 23:41:20"
+        },
+        "Election": {
+            "id": "53c02583-d054-4308-974c-5c5aacb5b862",
+            "population_electors": "2775",
+            "population": "3616",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546d8db9-5070-40f9-90da-0e51cf91e152",
+            "Area": [
+                {
+                    "id": "53c01fb1-9a50-4787-8210-5460acb5b862",
+                    "name": "竹坑里",
+                    "AreasElection": {
+                        "id": "53c02583-b170-44b8-aedd-5c5aacb5b862",
+                        "Election_id": "53c02583-d054-4308-974c-5c5aacb5b862",
+                        "Area_id": "53c01fb1-9a50-4787-8210-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02583-39cc-4071-a546-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "龍井區",
+                "lft": "17464",
+                "rght": "17497",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02583-d054-4308-974c-5c5aacb5b862",
+                "parent_id": "53c02583-39cc-4071-a546-5c5aacb5b862",
+                "name": "竹坑里",
+                "lft": "17465",
+                "rght": "17466",
+                "population": "3616",
+                "population_electors": "2775",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546d8db9-5070-40f9-90da-0e51cf91e152",
+                "keywords": "2014-11,村里長,臺中市,龍井區,竹坑里"
+            }
+        }
+    ]
+}

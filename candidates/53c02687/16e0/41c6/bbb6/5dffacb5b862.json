@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02687-16e0-41c6-bbb6-5dffacb5b862",
+            "election_id": "53c02441-11bc-4ac1-be8f-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "614",
+            "name": "楊明峰",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "Ming Feng Yang",
+            "birth_place": "高雄市",
+            "birth": "1956-01-16",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:40:49"
+        },
+        "Election": {
+            "id": "53c02441-11bc-4ac1-be8f-5c5aacb5b862",
+            "population_electors": "2082",
+            "population": "2509",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb721-8128-44c6-8731-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01ea3-c1dc-40cf-8c4b-5460acb5b862",
+                    "name": "協榮里",
+                    "AreasElection": {
+                        "id": "53c02441-8604-4f41-b561-5c5aacb5b862",
+                        "Election_id": "53c02441-11bc-4ac1-be8f-5c5aacb5b862",
+                        "Area_id": "53c01ea3-c1dc-40cf-8c4b-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0243d-95c4-4cb5-bb05-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "岡山區",
+                "lft": "13692",
+                "rght": "13759",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02441-11bc-4ac1-be8f-5c5aacb5b862",
+                "parent_id": "53c0243d-95c4-4cb5-bb05-5c5aacb5b862",
+                "name": "協榮里",
+                "lft": "13753",
+                "rght": "13754",
+                "population": "2509",
+                "population_electors": "2082",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb721-8128-44c6-8731-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,岡山區,協榮里"
+            }
+        }
+    ]
+}

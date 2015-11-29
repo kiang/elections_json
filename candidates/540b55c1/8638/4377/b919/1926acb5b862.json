@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b55c1-8638-4377-b919-1926acb5b862",
+            "election_id": "53c0227c-f328-40a1-8d33-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "316",
+            "name": "洪黃明好",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1952-08-02",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:43:13",
+            "modified": "2015-02-08 23:45:16"
+        },
+        "Election": {
+            "id": "53c0227c-f328-40a1-8d33-5c5aacb5b862",
+            "population_electors": "1803",
+            "population": "2241",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54773ba1-70f0-4c06-93b7-1915cf91e152",
+            "Area": [
+                {
+                    "id": "53c01d65-8218-4b96-a733-5460acb5b862",
+                    "name": "崙頂村",
+                    "AreasElection": {
+                        "id": "53c0227c-85e8-43cf-9624-5c5aacb5b862",
+                        "Election_id": "53c0227c-f328-40a1-8d33-5c5aacb5b862",
+                        "Area_id": "53c01d65-8218-4b96-a733-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "7771",
+                "rght": "8766",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0227a-767c-4154-b942-5c5aacb5b862",
+                "parent_id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "name": "萬丹鄉",
+                "lft": "8060",
+                "rght": "8121",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0227c-f328-40a1-8d33-5c5aacb5b862",
+                "parent_id": "53c0227a-767c-4154-b942-5c5aacb5b862",
+                "name": "崙頂村",
+                "lft": "8087",
+                "rght": "8088",
+                "population": "2241",
+                "population_electors": "1803",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54773ba1-70f0-4c06-93b7-1915cf91e152",
+                "keywords": "2014-11,村里長,屏東縣,萬丹鄉,崙頂村"
+            }
+        }
+    ]
+}

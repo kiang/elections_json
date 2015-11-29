@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02684-e92c-48f0-a552-5dffacb5b862",
+            "election_id": "53c02439-6bec-49e1-8ebf-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "2900",
+            "name": "江瑞鴻",
+            "image": "544c9bd2\/7664\/40a9\/93d4\/62698e043389.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "1",
+            "education_level": "專科",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "高雄市",
+            "birth": "1964-02-14",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:40:48"
+        },
+        "Election": {
+            "id": "53c02439-6bec-49e1-8ebf-5c5aacb5b862",
+            "population_electors": "5037",
+            "population": "6274",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb721-2ed4-4380-8f21-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01e9c-4ef8-4dc0-9963-5460acb5b862",
+                    "name": "仁武里",
+                    "AreasElection": {
+                        "id": "53c02439-e930-4cbc-a154-5c5aacb5b862",
+                        "Election_id": "53c02439-6bec-49e1-8ebf-5c5aacb5b862",
+                        "Area_id": "53c01e9c-4ef8-4dc0-9963-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02438-6ab4-4c5b-b04a-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "仁武區",
+                "lft": "13642",
+                "rght": "13675",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02439-6bec-49e1-8ebf-5c5aacb5b862",
+                "parent_id": "53c02438-6ab4-4c5b-b04a-5c5aacb5b862",
+                "name": "仁武里",
+                "lft": "13649",
+                "rght": "13650",
+                "population": "6274",
+                "population_electors": "5037",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb721-2ed4-4380-8f21-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,仁武區,仁武里"
+            }
+        }
+    ]
+}

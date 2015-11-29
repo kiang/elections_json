@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "5406a5fe-cb80-4c39-9caa-15b8acb5b862",
+            "election_id": "53c0208b-21f4-48b0-a090-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "7336",
+            "name": "古榮耀",
+            "image": "549e7e4f\/a520\/405b\/beb1\/0e476ab936af.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "1",
+            "education_level": "碩士",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1952-01-02",
+            "platform": "",
+            "education": "碩士",
+            "experience": "",
+            "created": "2014-09-03 13:24:14",
+            "modified": "2015-02-08 23:41:59"
+        },
+        "Election": {
+            "id": "53c0208b-21f4-48b0-a090-5c5aacb5b862",
+            "population_electors": "11405",
+            "population": "13859",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-cc88-4263-969c-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c4b-4c5c-426d-a341-5460acb5b862",
+                    "name": "橫山鄉",
+                    "AreasElection": {
+                        "id": "53c0208b-60d8-47ea-a47c-5c5aacb5b862",
+                        "Election_id": "53c0208b-21f4-48b0-a090-5c5aacb5b862",
+                        "Area_id": "53c01c4b-4c5c-426d-a341-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市長",
+                "lft": "608",
+                "rght": "1031",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0208a-29e0-490b-94ba-5c5aacb5b862",
+                "parent_id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "name": "新竹縣",
+                "lft": "659",
+                "rght": "686",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0208b-21f4-48b0-a090-5c5aacb5b862",
+                "parent_id": "53c0208a-29e0-490b-94ba-5c5aacb5b862",
+                "name": "橫山鄉",
+                "lft": "674",
+                "rght": "675",
+                "population": "13859",
+                "population_electors": "11405",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-cc88-4263-969c-1a32cf91e152",
+                "keywords": "2014-11,鄉鎮市長,新竹縣,橫山鄉"
+            }
+        }
+    ]
+}

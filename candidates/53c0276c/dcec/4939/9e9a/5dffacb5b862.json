@@ -1,0 +1,139 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c0276c-dcec-4939-9e9a-5dffacb5b862",
+            "election_id": "53c02345-96fc-4f64-90c9-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "876",
+            "name": "謝享益",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "專科",
+            "is_present": false,
+            "name_english": "Hsieh hsiang Yi",
+            "birth_place": "臺灣省",
+            "birth": "1953-02-02",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:41:40"
+        },
+        "Election": {
+            "id": "53c02345-96fc-4f64-90c9-5c5aacb5b862",
+            "population_electors": "2855",
+            "population": "3629",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-9c94-4ba5-825d-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c00-c83c-4a89-a43a-5460acb5b862",
+                    "name": "仁德里",
+                    "AreasElection": {
+                        "id": "53c02345-9184-4633-87fd-5c5aacb5b862",
+                        "Election_id": "53c02345-96fc-4f64-90c9-5c5aacb5b862",
+                        "Area_id": "53c01c00-c83c-4a89-a43a-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54ab2a5a-dc1c-41d1-9520-2a2d6ab936af",
+                "name": "2014當選無效之訴-桃園市",
+                "CandidatesTag": {
+                    "id": "54abf912-b064-42c0-8830-58706ab936af",
+                    "Candidate_id": "53c0276c-dcec-4939-9e9a-5dffacb5b862",
+                    "Tag_id": "54ab2a5a-dc1c-41d1-9520-2a2d6ab936af"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "桃園市",
+                "lft": "10439",
+                "rght": "11456",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02344-9b04-46f5-8e6f-5c5aacb5b862",
+                "parent_id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "name": "中壢區",
+                "lft": "10594",
+                "rght": "10765",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02345-96fc-4f64-90c9-5c5aacb5b862",
+                "parent_id": "53c02344-9b04-46f5-8e6f-5c5aacb5b862",
+                "name": "仁德里",
+                "lft": "10605",
+                "rght": "10606",
+                "population": "3629",
+                "population_electors": "2855",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-9c94-4ba5-825d-1a32cf91e152",
+                "keywords": "2014-11,村里長,桃園市,中壢區,仁德里"
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b534c-a608-452f-a5df-1926acb5b862",
+            "election_id": "53c024c6-05bc-4c1a-89a7-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "692",
+            "name": "汪小心",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "專科",
+            "is_present": false,
+            "name_english": "WANG HSIAO HSIN",
+            "birth_place": "臺北市",
+            "birth": "1956-06-20",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:32:44",
+            "modified": "2015-02-08 23:41:02"
+        },
+        "Election": {
+            "id": "53c024c6-05bc-4c1a-89a7-5c5aacb5b862",
+            "population_electors": "2933",
+            "population": "3549",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068c-f448-49dc-986a-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01f1e-7bb0-4deb-ae33-5460acb5b862",
+                    "name": "復興里",
+                    "AreasElection": {
+                        "id": "53c024c7-a608-4f15-b53d-5c5aacb5b862",
+                        "Election_id": "53c024c6-05bc-4c1a-89a7-5c5aacb5b862",
+                        "Area_id": "53c01f1e-7bb0-4deb-ae33-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新北市",
+                "lft": "14261",
+                "rght": "16384",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c024bc-13d0-4b51-8a12-5c5aacb5b862",
+                "parent_id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "name": "新店區",
+                "lft": "15240",
+                "rght": "15379",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c024c6-05bc-4c1a-89a7-5c5aacb5b862",
+                "parent_id": "53c024bc-13d0-4b51-8a12-5c5aacb5b862",
+                "name": "復興里",
+                "lft": "15363",
+                "rght": "15364",
+                "population": "3549",
+                "population_electors": "2933",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068c-f448-49dc-986a-1a32cf91e152",
+                "keywords": "2014-11,村里長,新北市,新店區,復興里"
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b55e9-f3c0-43b4-84f6-1926acb5b862",
+            "election_id": "53c022b2-e69c-488b-a47d-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "473",
+            "name": "葉德生",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "專科",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1961-07-16",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:43:53",
+            "modified": "2015-02-08 23:45:22"
+        },
+        "Election": {
+            "id": "53c022b2-e69c-488b-a47d-5c5aacb5b862",
+            "population_electors": "657",
+            "population": "780",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54773ba1-4350-4b0c-adde-1915cf91e152",
+            "Area": [
+                {
+                    "id": "53c01d94-fd3c-4561-a2c8-5460acb5b862",
+                    "name": "牡丹村",
+                    "AreasElection": {
+                        "id": "53c022b2-b6b4-4f64-8f95-5c5aacb5b862",
+                        "Election_id": "53c022b2-e69c-488b-a47d-5c5aacb5b862",
+                        "Area_id": "53c01d94-fd3c-4561-a2c8-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "7771",
+                "rght": "8766",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022b1-eeb8-426a-b1e0-5c5aacb5b862",
+                "parent_id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "name": "牡丹鄉",
+                "lft": "8752",
+                "rght": "8765",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022b2-e69c-488b-a47d-5c5aacb5b862",
+                "parent_id": "53c022b1-eeb8-426a-b1e0-5c5aacb5b862",
+                "name": "牡丹村",
+                "lft": "8763",
+                "rght": "8764",
+                "population": "780",
+                "population_electors": "657",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54773ba1-4350-4b0c-adde-1915cf91e152",
+                "keywords": "2014-11,村里長,屏東縣,牡丹鄉,牡丹村"
+            }
+        }
+    ]
+}

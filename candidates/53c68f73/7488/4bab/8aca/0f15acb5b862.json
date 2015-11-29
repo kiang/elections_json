@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c68f73-7488-4bab-8aca-0f15acb5b862",
+            "election_id": "53c4037a-1020-44f3-8b71-6d45acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "0",
+            "vote_count": "0",
+            "name": "劉茂群",
+            "image": "54411031\/dac0\/4abf\/a894\/3c848e043389.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "03-3755831",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "334桃園縣八德市桃德路427巷13號",
+            "links": "",
+            "gender": "f",
+            "no": "0",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "美國南加大企業管理碩士",
+            "experience": "桃園縣第十三、十四、十五、十六屆縣議員  黃國園黨部小組長、委員",
+            "created": "2014-07-16 22:42:59",
+            "modified": "2014-10-17 21:11:18"
+        },
+        "Election": {
+            "id": "53c4037a-1020-44f3-8b71-6d45acb5b862",
+            "population_electors": "141963",
+            "population": "180999",
+            "quota": "5",
+            "quota_women": "1",
+            "bulletin_key": "546e068d-c628-485c-92c1-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c21-d6a8-4ecc-ab4c-5460acb5b862",
+                    "name": "八德區",
+                    "AreasElection": {
+                        "id": "53c40821-8388-4528-b105-6e01acb5b862",
+                        "Election_id": "53c4037a-1020-44f3-8b71-6d45acb5b862",
+                        "Area_id": "53c01c21-d6a8-4ecc-ab4c-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207d-ff5c-4dfe-98b5-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "桃園市",
+                "lft": "17",
+                "rght": "46",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c4037a-1020-44f3-8b71-6d45acb5b862",
+                "parent_id": "53c0207d-ff5c-4dfe-98b5-5c5aacb5b862",
+                "name": "第03選區[區域]",
+                "lft": "22",
+                "rght": "23",
+                "population": "180999",
+                "population_electors": "141963",
+                "quota": "5",
+                "quota_women": "1",
+                "bulletin_key": "546e068d-c628-485c-92c1-1a32cf91e152",
+                "keywords": "2014-11,直轄市議員,桃園市,第03選區[區域]"
+            }
+        }
+    ]
+}

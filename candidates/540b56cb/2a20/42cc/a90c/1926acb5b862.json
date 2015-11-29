@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b56cb-2a20-42cc-a90c-1926acb5b862",
+            "election_id": "53c67387-2c48-4535-8d52-087cacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "321",
+            "name": "洪輝榮",
+            "image": "5492c2a7\/7df8\/4240\/a219\/66b16ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "2",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "金馬地區",
+            "birth": "1977-03-09",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:47:39",
+            "modified": "2015-02-08 23:41:49"
+        },
+        "Election": {
+            "id": "53c67387-2c48-4535-8d52-087cacb5b862",
+            "population_electors": "10039",
+            "population": "11751",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-8f04-406b-8e35-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01bd5-b0e8-4640-9e80-5460acb5b862",
+                    "name": "烈嶼鄉",
+                    "AreasElection": {
+                        "id": "53c67387-5a30-4b97-a2af-087cacb5b862",
+                        "Election_id": "53c67387-2c48-4535-8d52-087cacb5b862",
+                        "Area_id": "53c01bd5-b0e8-4640-9e80-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "縣市議員",
+                "lft": "306",
+                "rght": "607",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02082-6740-4ca0-bd10-5c5aacb5b862",
+                "parent_id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "name": "金門縣",
+                "lft": "317",
+                "rght": "324",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c67387-2c48-4535-8d52-087cacb5b862",
+                "parent_id": "53c02082-6740-4ca0-bd10-5c5aacb5b862",
+                "name": "第03選區[區域]",
+                "lft": "322",
+                "rght": "323",
+                "population": "11751",
+                "population_electors": "10039",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-8f04-406b-8e35-74a5cf91e152",
+                "keywords": "2014-11,縣市議員,金門縣,第03選區[區域]"
+            }
+        }
+    ]
+}

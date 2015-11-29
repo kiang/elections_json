@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02870-d7a4-42ab-b96f-5dffacb5b862",
+            "election_id": "53c022db-3f9c-48ea-a759-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1387",
+            "name": "賴明章",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "LAI MING CHANG",
+            "birth_place": "其他省市",
+            "birth": "1947-08-30",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:45:26"
+        },
+        "Election": {
+            "id": "53c022db-3f9c-48ea-a759-5c5aacb5b862",
+            "population_electors": "4127",
+            "population": "4992",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546d8db9-ae04-4022-86ce-0e51cf91e152",
+            "Area": [
+                {
+                    "id": "53c01db6-abec-40f0-988c-5460acb5b862",
+                    "name": "仁和村",
+                    "AreasElection": {
+                        "id": "53c022db-1828-4eee-be81-5c5aacb5b862",
+                        "Election_id": "53c022db-3f9c-48ea-a759-5c5aacb5b862",
+                        "Area_id": "53c01db6-abec-40f0-988c-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022cb-ff18-4c61-98a3-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "花蓮縣",
+                "lft": "9095",
+                "rght": "9476",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022d8-ac24-4363-ab09-5c5aacb5b862",
+                "parent_id": "53c022cb-ff18-4c61-98a3-5c5aacb5b862",
+                "name": "吉安鄉",
+                "lft": "9264",
+                "rght": "9301",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022db-3f9c-48ea-a759-5c5aacb5b862",
+                "parent_id": "53c022d8-ac24-4363-ab09-5c5aacb5b862",
+                "name": "仁和村",
+                "lft": "9297",
+                "rght": "9298",
+                "population": "4992",
+                "population_electors": "4127",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546d8db9-ae04-4022-86ce-0e51cf91e152",
+                "keywords": "2014-11,村里長,花蓮縣,吉安鄉,仁和村"
+            }
+        }
+    ]
+}

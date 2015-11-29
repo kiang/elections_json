@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b556d-c1f0-4a2b-9f54-1926acb5b862",
+            "election_id": "53c0220e-1ab8-42e4-8d0f-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "782",
+            "name": "張孟雲",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "2",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1960-05-01",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:41:49",
+            "modified": "2015-02-08 23:45:03"
+        },
+        "Election": {
+            "id": "53c0220e-1ab8-42e4-8d0f-5c5aacb5b862",
+            "population_electors": "1797",
+            "population": "2189",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546ec076-dee4-4606-91b1-2d4fcf91e152",
+            "Area": [
+                {
+                    "id": "53c01d04-eb38-4330-9bb8-5460acb5b862",
+                    "name": "重興村",
+                    "AreasElection": {
+                        "id": "53c0220e-7efc-4620-8abc-5c5aacb5b862",
+                        "Election_id": "53c0220e-1ab8-42e4-8d0f-5c5aacb5b862",
+                        "Area_id": "53c01d04-eb38-4330-9bb8-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "6201",
+                "rght": "7018",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0220d-eb50-4079-b424-5c5aacb5b862",
+                "parent_id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "name": "林內鄉",
+                "lft": "6640",
+                "rght": "6661",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0220e-1ab8-42e4-8d0f-5c5aacb5b862",
+                "parent_id": "53c0220d-eb50-4079-b424-5c5aacb5b862",
+                "name": "重興村",
+                "lft": "6659",
+                "rght": "6660",
+                "population": "2189",
+                "population_electors": "1797",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546ec076-dee4-4606-91b1-2d4fcf91e152",
+                "keywords": "2014-11,村里長,雲林縣,林內鄉,重興村"
+            }
+        }
+    ]
+}

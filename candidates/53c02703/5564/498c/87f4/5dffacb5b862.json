@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02703-5564-498c-87f4-5dffacb5b862",
+            "election_id": "53c02565-c640-417d-9078-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "2200",
+            "name": "黃瑤桐",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺中市",
+            "birth": "1950-08-22",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:41:17"
+        },
+        "Election": {
+            "id": "53c02565-c640-417d-9078-5c5aacb5b862",
+            "population_electors": "4107",
+            "population": "5572",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546d921a-36fc-4ed9-a6df-175dcf91e152",
+            "Area": [
+                {
+                    "id": "53c01f98-e870-4182-842d-5460acb5b862",
+                    "name": "六路里",
+                    "AreasElection": {
+                        "id": "53c02565-8014-4658-826a-5c5aacb5b862",
+                        "Election_id": "53c02565-c640-417d-9078-5c5aacb5b862",
+                        "Area_id": "53c01f98-e870-4182-842d-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02562-d788-4eeb-93d8-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "沙鹿區",
+                "lft": "17082",
+                "rght": "17125",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02565-c640-417d-9078-5c5aacb5b862",
+                "parent_id": "53c02562-d788-4eeb-93d8-5c5aacb5b862",
+                "name": "六路里",
+                "lft": "17117",
+                "rght": "17118",
+                "population": "5572",
+                "population_electors": "4107",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546d921a-36fc-4ed9-a6df-175dcf91e152",
+                "keywords": "2014-11,村里長,臺中市,沙鹿區,六路里"
+            }
+        }
+    ]
+}

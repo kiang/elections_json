@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c026ef-3a10-4f78-972b-5dffacb5b862",
+            "election_id": "53c02538-14ac-4ee7-a0e2-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "0",
+            "vote_count": "0",
+            "name": "何茂進",
+            "image": null,
+            "party": null,
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": null,
+            "no": "0",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "0000-00-00 00:00:00"
+        },
+        "Election": {
+            "id": "53c02538-14ac-4ee7-a0e2-5c5aacb5b862",
+            "population_electors": "2962",
+            "population": "3806",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e0697-2b64-4d35-a658-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01f77-1508-4e41-b08f-5460acb5b862",
+                    "name": "何厝里",
+                    "AreasElection": {
+                        "id": "53c02538-ef04-49b1-a806-5c5aacb5b862",
+                        "Election_id": "53c02538-14ac-4ee7-a0e2-5c5aacb5b862",
+                        "Area_id": "53c01f77-1508-4e41-b08f-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02536-cbf0-4e8a-9a56-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "西屯區",
+                "lft": "16612",
+                "rght": "16691",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02538-14ac-4ee7-a0e2-5c5aacb5b862",
+                "parent_id": "53c02536-cbf0-4e8a-9a56-5c5aacb5b862",
+                "name": "何厝里",
+                "lft": "16627",
+                "rght": "16628",
+                "population": "3806",
+                "population_electors": "2962",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e0697-2b64-4d35-a658-1a32cf91e152",
+                "keywords": "2014-11,村里長,臺中市,西屯區,何厝里"
+            }
+        }
+    ]
+}

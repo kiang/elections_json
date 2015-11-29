@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c0266a-c960-44f7-912c-5dffacb5b862",
+            "election_id": "53c02406-08cc-43a5-9720-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "776",
+            "name": "黃茂森",
+            "image": null,
+            "party": "民主進步黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1949-01-10",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:40:42"
+        },
+        "Election": {
+            "id": "53c02406-08cc-43a5-9720-5c5aacb5b862",
+            "population_electors": "1332",
+            "population": "1597",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb720-51e0-4077-8ef7-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01e74-0910-4b3a-bb66-5460acb5b862",
+                    "name": "林興里",
+                    "AreasElection": {
+                        "id": "53c02406-314c-4636-b3af-5c5aacb5b862",
+                        "Election_id": "53c02406-08cc-43a5-9720-5c5aacb5b862",
+                        "Area_id": "53c01e74-0910-4b3a-bb66-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02401-a518-4567-b540-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "苓雅區",
+                "lft": "12958",
+                "rght": "13097",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02406-08cc-43a5-9720-5c5aacb5b862",
+                "parent_id": "53c02401-a518-4567-b540-5c5aacb5b862",
+                "name": "林興里",
+                "lft": "13005",
+                "rght": "13006",
+                "population": "1597",
+                "population_electors": "1332",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb720-51e0-4077-8ef7-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,苓雅區,林興里"
+            }
+        }
+    ]
+}

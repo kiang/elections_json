@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b562e-6914-458b-b6f6-1926acb5b862",
+            "election_id": "53c022c4-ee2c-4ef1-a379-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "243",
+            "name": "陳宏信",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1981-10-25",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:45:02",
+            "modified": "2015-02-08 23:45:24"
+        },
+        "Election": {
+            "id": "53c022c4-ee2c-4ef1-a379-5c5aacb5b862",
+            "population_electors": "610",
+            "population": "735",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546f277f-410c-4dd5-9994-2f28cf91e152",
+            "Area": [
+                {
+                    "id": "53c01da4-cda8-4d5e-b24d-5460acb5b862",
+                    "name": "三和村",
+                    "AreasElection": {
+                        "id": "53c022c4-d338-446b-89d3-5c5aacb5b862",
+                        "Election_id": "53c022c4-ee2c-4ef1-a379-5c5aacb5b862",
+                        "Area_id": "53c01da4-cda8-4d5e-b24d-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022b2-b9f0-4517-825f-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺東縣",
+                "lft": "8767",
+                "rght": "9094",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022c3-a8fc-440b-876e-5c5aacb5b862",
+                "parent_id": "53c022b2-b9f0-4517-825f-5c5aacb5b862",
+                "name": "太麻里鄉",
+                "lft": "8992",
+                "rght": "9011",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022c4-ee2c-4ef1-a379-5c5aacb5b862",
+                "parent_id": "53c022c3-a8fc-440b-876e-5c5aacb5b862",
+                "name": "三和村",
+                "lft": "8995",
+                "rght": "8996",
+                "population": "735",
+                "population_electors": "610",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546f277f-410c-4dd5-9994-2f28cf91e152",
+                "keywords": "2014-11,村里長,臺東縣,太麻里鄉,三和村"
+            }
+        }
+    ]
+}

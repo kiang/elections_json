@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "5406a5fc-6b10-46c2-b61b-15b8acb5b862",
+            "election_id": "53c02088-3b84-4da0-b4a6-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "0",
+            "vote_count": "0",
+            "name": "陳秀暖",
+            "image": "549419ad\/456c\/4a11\/aa3a\/34746ab936af.jpg",
+            "party": "無政黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "f",
+            "no": "0",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "蘭陽技術學院",
+            "experience": "頭城鎮第13、14屆鎮民代表 宜蘭縣第13、14、15屆議員 頭城鎮第15屆鎮長 頭城鎮調解會主席連任三屆 頭城區漁會理事事",
+            "created": "2014-09-03 13:24:12",
+            "modified": "2014-12-19 20:38:30"
+        },
+        "Election": {
+            "id": "53c02088-3b84-4da0-b4a6-5c5aacb5b862",
+            "population_electors": "24410",
+            "population": "29925",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-efb8-4d76-b707-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01be2-e62c-4ddd-9339-5460acb5b862",
+                    "name": "頭城鎮",
+                    "AreasElection": {
+                        "id": "53c02088-0598-4012-9f36-5c5aacb5b862",
+                        "Election_id": "53c02088-3b84-4da0-b4a6-5c5aacb5b862",
+                        "Area_id": "53c01be2-e62c-4ddd-9339-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市長",
+                "lft": "608",
+                "rght": "1031",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02087-d634-4ed1-947c-5c5aacb5b862",
+                "parent_id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "name": "宜蘭縣",
+                "lft": "633",
+                "rght": "658",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02088-3b84-4da0-b4a6-5c5aacb5b862",
+                "parent_id": "53c02087-d634-4ed1-947c-5c5aacb5b862",
+                "name": "頭城鎮",
+                "lft": "640",
+                "rght": "641",
+                "population": "29925",
+                "population_electors": "24410",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-efb8-4d76-b707-2adbcf91e152",
+                "keywords": "2014-11,鄉鎮市長,宜蘭縣,頭城鎮"
+            }
+        }
+    ]
+}

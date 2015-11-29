@@ -1,0 +1,125 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "565939fc-29a8-4236-9649-19786ab936af",
+            "election_id": "55086684-cf84-47e5-8e8f-23d86ab936af",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "0",
+            "name": "羅文欽",
+            "image": "565939fc\/fc80\/496b\/9282\/19786ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": null,
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": "0000-00-00",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2015-11-28 13:22:04",
+            "modified": "2015-11-29 03:28:36"
+        },
+        "Election": {
+            "id": "55086684-cf84-47e5-8e8f-23d86ab936af",
+            "population_electors": "0",
+            "population": "0",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "Area": [
+                {
+                    "id": "55085958-e288-4b5e-847b-3584acb5b862",
+                    "name": "龍潭區",
+                    "AreasElection": {
+                        "id": "550a723e-c19c-4444-a6b2-47cc6ab936af",
+                        "Election_id": "55086684-cf84-47e5-8e8f-23d86ab936af",
+                        "Area_id": "55085958-e288-4b5e-847b-3584acb5b862"
+                    }
+                },
+                {
+                    "id": "55085959-a7a4-4527-b0d6-3584acb5b862",
+                    "name": "平鎮區",
+                    "AreasElection": {
+                        "id": "550a7236-67c4-43cd-ba41-70006ab936af",
+                        "Election_id": "55086684-cf84-47e5-8e8f-23d86ab936af",
+                        "Area_id": "55085959-a7a4-4527-b0d6-3584acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "55085db5-2e9c-4cde-8103-23d86ab936af",
+                "parent_id": null,
+                "name": "2016-01",
+                "lft": "40579",
+                "rght": "40780",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "55085e1a-c494-40e0-ba31-2f916ab936af",
+                "parent_id": "55085db5-2e9c-4cde-8103-23d86ab936af",
+                "name": "立法委員",
+                "lft": "40582",
+                "rght": "40779",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "550862d2-b97c-44cb-bf02-35296ab936af",
+                "parent_id": "55085e1a-c494-40e0-ba31-2f916ab936af",
+                "name": "桃園市",
+                "lft": "40677",
+                "rght": "40690",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "55086684-cf84-47e5-8e8f-23d86ab936af",
+                "parent_id": "550862d2-b97c-44cb-bf02-35296ab936af",
+                "name": "第05選區[區域]",
+                "lft": "40686",
+                "rght": "40687",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2016-01,立法委員,桃園市,第05選區[區域]"
+            }
+        }
+    ]
+}

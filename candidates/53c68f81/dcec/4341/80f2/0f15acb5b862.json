@@ -1,0 +1,125 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c68f81-dcec-4341-80f2-0f15acb5b862",
+            "election_id": "53c410fa-b1bc-4d34-8f22-6f55acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "0",
+            "vote_count": "0",
+            "name": "張經魁",
+            "image": "54479d5f\/c110\/4e0d\/a44f\/72098e043389.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "049-2565706",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "542南投縣草屯鎮御史里玉屏路150之2號",
+            "links": "",
+            "gender": "m",
+            "no": "0",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "陸軍官校肄業",
+            "experience": "台中市議員  第15.16屆南投縣議員",
+            "created": "2014-07-16 22:43:13",
+            "modified": "2014-10-22 20:29:06"
+        },
+        "Election": {
+            "id": "53c410fa-b1bc-4d34-8f22-6f55acb5b862",
+            "population_electors": "92447",
+            "population": "114880",
+            "quota": "8",
+            "quota_women": "2",
+            "bulletin_key": "54735d55-4304-4264-8254-21eacf91e152",
+            "Area": [
+                {
+                    "id": "53c01cce-7e88-4e74-bd6f-5460acb5b862",
+                    "name": "草屯鎮",
+                    "AreasElection": {
+                        "id": "53c410fa-1dcc-42ba-b434-6f55acb5b862",
+                        "Election_id": "53c410fa-b1bc-4d34-8f22-6f55acb5b862",
+                        "Area_id": "53c01cce-7e88-4e74-bd6f-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01cdb-2c98-458e-abe8-5460acb5b862",
+                    "name": "中寮鄉",
+                    "AreasElection": {
+                        "id": "53c410fc-c284-40ab-8222-6f55acb5b862",
+                        "Election_id": "53c410fa-b1bc-4d34-8f22-6f55acb5b862",
+                        "Area_id": "53c01cdb-2c98-458e-abe8-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "縣市議員",
+                "lft": "306",
+                "rght": "607",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02083-aa04-4a0e-96bb-5c5aacb5b862",
+                "parent_id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "name": "南投縣",
+                "lft": "419",
+                "rght": "436",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c410fa-b1bc-4d34-8f22-6f55acb5b862",
+                "parent_id": "53c02083-aa04-4a0e-96bb-5c5aacb5b862",
+                "name": "第02選區[區域]",
+                "lft": "422",
+                "rght": "423",
+                "population": "114880",
+                "population_electors": "92447",
+                "quota": "8",
+                "quota_women": "2",
+                "bulletin_key": "54735d55-4304-4264-8254-21eacf91e152",
+                "keywords": "2014-11,縣市議員,南投縣,第02選區[區域]"
+            }
+        }
+    ]
+}

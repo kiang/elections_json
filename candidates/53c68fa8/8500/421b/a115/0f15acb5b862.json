@@ -1,0 +1,143 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c68fa8-8500-421b-a115-0f15acb5b862",
+            "election_id": "53c40098-9394-4891-afa6-6cceacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "10684",
+            "name": "廖秀雄",
+            "image": "561fa4aa\/d870\/415b\/9dd5\/4bd66ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "02-24978585",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "224新北市瑞芳區民生路36號2樓",
+            "links": "臉書 http:\/\/www.facebook.com\/lssiy",
+            "gender": "m",
+            "no": "6",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "新北市",
+            "birth": "1944-02-15",
+            "platform": "",
+            "education": "",
+            "experience": "瑞芳鎮第12、13屆鎮長  .台北縣議會第11、12、15、16屆議員  .瑞芳鎮第10、11屆鎮民代表  .瑞芳鎮調解委員會主席  .台灣區煤礦業同業公會理事長  台灣省礦工福利委員會主任委員  .重光煤礦總經理  .八堵礦工醫院董事長  .考試院公職候選人檢覈合格（動公覈縣字第１３８２號）",
+            "created": "2014-07-16 22:43:52",
+            "modified": "2015-10-15 21:05:53"
+        },
+        "Election": {
+            "id": "53c40098-9394-4891-afa6-6cceacb5b862",
+            "population_electors": "58460",
+            "population": "68923",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-76d4-492d-9e8c-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01f38-00d8-43ad-b200-5460acb5b862",
+                    "name": "瑞芳區",
+                    "AreasElection": {
+                        "id": "53c406e3-70d8-4d7f-b22f-6dacacb5b862",
+                        "Election_id": "53c40098-9394-4891-afa6-6cceacb5b862",
+                        "Area_id": "53c01f38-00d8-43ad-b200-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01f5b-f340-4a21-9551-5460acb5b862",
+                    "name": "平溪區",
+                    "AreasElection": {
+                        "id": "53c406e3-fea8-4e07-9470-6dacacb5b862",
+                        "Election_id": "53c40098-9394-4891-afa6-6cceacb5b862",
+                        "Area_id": "53c01f5b-f340-4a21-9551-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01f5c-b9d0-4aa5-839d-5460acb5b862",
+                    "name": "雙溪區",
+                    "AreasElection": {
+                        "id": "53c406e3-c384-43bc-9c23-6dacacb5b862",
+                        "Election_id": "53c40098-9394-4891-afa6-6cceacb5b862",
+                        "Area_id": "53c01f5c-b9d0-4aa5-839d-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01f5f-3768-43f6-b316-5460acb5b862",
+                    "name": "貢寮區",
+                    "AreasElection": {
+                        "id": "53c406e3-61d8-4e9f-89a9-6dacacb5b862",
+                        "Election_id": "53c40098-9394-4891-afa6-6cceacb5b862",
+                        "Area_id": "53c01f5f-3768-43f6-b316-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207e-1efc-4871-a931-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "新北市",
+                "lft": "97",
+                "rght": "122",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c40098-9394-4891-afa6-6cceacb5b862",
+                "parent_id": "53c0207e-1efc-4871-a931-5c5aacb5b862",
+                "name": "第09選區[區域]",
+                "lft": "114",
+                "rght": "115",
+                "population": "68923",
+                "population_electors": "58460",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-76d4-492d-9e8c-74a5cf91e152",
+                "keywords": "2014-11,直轄市議員,新北市,第09選區[區域]"
+            }
+        }
+    ]
+}

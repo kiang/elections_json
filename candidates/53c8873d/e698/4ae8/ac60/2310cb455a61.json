@@ -1,0 +1,133 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c8873d-e698-4ae8-ac60-2310cb455a61",
+            "election_id": "53c40084-1e1c-468b-b56c-6cceacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "8551",
+            "name": "王奕凱",
+            "image": "5433ca66\/2750\/4572\/a72a\/1eb7cb455a61.jpg",
+            "party": "無",
+            "contacts_phone": "手機0989787573",
+            "contacts_fax": "",
+            "contacts_email": "iamsiusa1@gmail.com",
+            "contacts_address": "",
+            "links": "王奕凱臉書 https:\/\/zh-tw.facebook.com\/xiao.s.feng\\n臉書 http:\/\/www.facebook.com\/xiao.s.feng",
+            "gender": "m",
+            "no": "7",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "Wang Yi Kai",
+            "birth_place": "臺北市",
+            "birth": "1985-06-29",
+            "platform": "爭取預算公平分配，振興士林夜市，天母，石牌商圈以及基層發展協會串聯合作，促使基層民意政策完成。\\n提撥資源給予青年參與政治，一同協助社區發展。",
+            "education": "華梵大學哲學系",
+            "experience": "現任為凱基證卷業務副理，士林夜市攤商。\\n曾任職兆銀資訊工程師，餐廳廚助，頂好賣場工作人員，電子產業生產線人員，士林觀光發展協會辦公室助理。\\n\\n",
+            "created": "2014-07-18 10:32:29",
+            "modified": "2015-02-08 23:40:13"
+        },
+        "Election": {
+            "id": "53c40084-1e1c-468b-b56c-6cceacb5b862",
+            "population_electors": "440693",
+            "population": "546811",
+            "quota": "13",
+            "quota_women": "3",
+            "bulletin_key": "5469b450-5620-4bac-8bac-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01e39-2d08-427e-a810-5460acb5b862",
+                    "name": "士林區",
+                    "AreasElection": {
+                        "id": "53c406db-80cc-434d-a77a-6dacacb5b862",
+                        "Election_id": "53c40084-1e1c-468b-b56c-6cceacb5b862",
+                        "Area_id": "53c01e39-2d08-427e-a810-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01e41-502c-4685-89eb-5460acb5b862",
+                    "name": "北投區",
+                    "AreasElection": {
+                        "id": "53c406db-2044-4a8c-9a64-6dacacb5b862",
+                        "Election_id": "53c40084-1e1c-468b-b56c-6cceacb5b862",
+                        "Area_id": "53c01e41-502c-4685-89eb-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54131434-4b14-4c38-9445-2c85cb455a61",
+                "name": "2014台灣獨立建國選舉連線",
+                "CandidatesTag": {
+                    "id": "541314f5-7510-41ba-8de7-2c4dcb455a61",
+                    "Candidate_id": "53c8873d-e698-4ae8-ac60-2310cb455a61",
+                    "Tag_id": "54131434-4b14-4c38-9445-2c85cb455a61"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207e-df00-40ad-b2bd-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "臺北市",
+                "lft": "47",
+                "rght": "64",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c40084-1e1c-468b-b56c-6cceacb5b862",
+                "parent_id": "53c0207e-df00-40ad-b2bd-5c5aacb5b862",
+                "name": "第01選區[區域]",
+                "lft": "48",
+                "rght": "49",
+                "population": "546811",
+                "population_electors": "440693",
+                "quota": "13",
+                "quota_women": "3",
+                "bulletin_key": "5469b450-5620-4bac-8bac-74a5cf91e152",
+                "keywords": "2014-11,直轄市議員,臺北市,第01選區[區域]"
+            }
+        }
+    ]
+}

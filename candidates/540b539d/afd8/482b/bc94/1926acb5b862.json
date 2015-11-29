@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b539d-afd8-482b-bc94-1926acb5b862",
+            "election_id": "53c02362-397c-46e3-a312-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "572",
+            "name": "羅梅枝",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "2",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "Lo Mei Chih",
+            "birth_place": "臺灣省",
+            "birth": "1957-07-20",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:34:05",
+            "modified": "2015-02-08 23:41:44"
+        },
+        "Election": {
+            "id": "53c02362-397c-46e3-a312-5c5aacb5b862",
+            "population_electors": "2416",
+            "population": "3412",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546f277f-5ce8-4a3e-816b-2f28cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c1a-1a54-4873-a3bb-5460acb5b862",
+                    "name": "興榮里",
+                    "AreasElection": {
+                        "id": "53c02362-be4c-4967-a9de-5c5aacb5b862",
+                        "Election_id": "53c02362-397c-46e3-a312-5c5aacb5b862",
+                        "Area_id": "53c01c1a-1a54-4873-a3bb-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "桃園市",
+                "lft": "10439",
+                "rght": "11456",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0235c-0b1c-400f-aebf-5c5aacb5b862",
+                "parent_id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "name": "蘆竹區",
+                "lft": "10906",
+                "rght": "10981",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02362-397c-46e3-a312-5c5aacb5b862",
+                "parent_id": "53c0235c-0b1c-400f-aebf-5c5aacb5b862",
+                "name": "興榮里",
+                "lft": "10971",
+                "rght": "10972",
+                "population": "3412",
+                "population_electors": "2416",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546f277f-5ce8-4a3e-816b-2f28cf91e152",
+                "keywords": "2014-11,村里長,桃園市,蘆竹區,興榮里"
+            }
+        }
+    ]
+}

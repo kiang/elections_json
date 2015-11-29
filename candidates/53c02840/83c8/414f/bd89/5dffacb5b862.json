@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02840-83c8-414f-bd89-5dffacb5b862",
+            "election_id": "53c0226e-9a78-4812-ac4d-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "0",
+            "vote_count": "0",
+            "name": "王芬里",
+            "image": null,
+            "party": null,
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": null,
+            "no": "0",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "0000-00-00 00:00:00"
+        },
+        "Election": {
+            "id": "53c0226e-9a78-4812-ac4d-5c5aacb5b862",
+            "population_electors": "4746",
+            "population": "6212",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54773ba1-e860-4567-80cb-1915cf91e152",
+            "Area": [
+                {
+                    "id": "53c01d58-d074-40de-8226-5460acb5b862",
+                    "name": "華山里",
+                    "AreasElection": {
+                        "id": "53c0226e-c8e8-402a-adc5-5c5aacb5b862",
+                        "Election_id": "53c0226e-9a78-4812-ac4d-5c5aacb5b862",
+                        "Area_id": "53c01d58-d074-40de-8226-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "7771",
+                "rght": "8766",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02265-2468-4454-be9d-5c5aacb5b862",
+                "parent_id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "name": "屏東市",
+                "lft": "7772",
+                "rght": "7931",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0226e-9a78-4812-ac4d-5c5aacb5b862",
+                "parent_id": "53c02265-2468-4454-be9d-5c5aacb5b862",
+                "name": "華山里",
+                "lft": "7899",
+                "rght": "7900",
+                "population": "6212",
+                "population_electors": "4746",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54773ba1-e860-4567-80cb-1915cf91e152",
+                "keywords": "2014-11,村里長,屏東縣,屏東市,華山里"
+            }
+        }
+    ]
+}

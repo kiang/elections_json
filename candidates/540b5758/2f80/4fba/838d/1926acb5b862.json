@@ -1,0 +1,149 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5758-2f80-4fba-838d-1926acb5b862",
+            "election_id": "53d733c6-7e54-4aa9-95b4-1299acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1218",
+            "name": "王信傑",
+            "image": "54c240c3\/8f28\/446e\/a7a5\/6a366ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "2",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1955-09-22",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:50:00",
+            "modified": "2015-02-08 23:43:25"
+        },
+        "Election": {
+            "id": "53d733c6-7e54-4aa9-95b4-1299acb5b862",
+            "population_electors": "4692",
+            "population": "5842",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "546eb720-1520-4bb1-b918-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01d04-23e8-4017-bf18-5460acb5b862",
+                    "name": "崙西村",
+                    "AreasElection": {
+                        "id": "53d733c7-5004-4520-94cb-1299acb5b862",
+                        "Election_id": "53d733c6-7e54-4aa9-95b4-1299acb5b862",
+                        "Area_id": "53c01d04-23e8-4017-bf18-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01d04-6b0c-4fa6-aa7d-5460acb5b862",
+                    "name": "崙東村",
+                    "AreasElection": {
+                        "id": "53d733c7-d1d8-40aa-b6bc-1299acb5b862",
+                        "Election_id": "53d733c6-7e54-4aa9-95b4-1299acb5b862",
+                        "Area_id": "53c01d04-6b0c-4fa6-aa7d-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01d04-9434-475f-87b4-5460acb5b862",
+                    "name": "來惠村",
+                    "AreasElection": {
+                        "id": "53d733c7-8fb0-4311-b2c4-1299acb5b862",
+                        "Election_id": "53d733c6-7e54-4aa9-95b4-1299acb5b862",
+                        "Area_id": "53c01d04-9434-475f-87b4-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020c5-1718-4aea-8b3b-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "1865",
+                "rght": "2062",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020c7-7c1c-4523-8064-5c5aacb5b862",
+                "parent_id": "53c020c5-1718-4aea-8b3b-5c5aacb5b862",
+                "name": "二崙鄉",
+                "lft": "1962",
+                "rght": "1973",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d733c6-7e54-4aa9-95b4-1299acb5b862",
+                "parent_id": "53c020c7-7c1c-4523-8064-5c5aacb5b862",
+                "name": "第01選舉區[區域]",
+                "lft": "1963",
+                "rght": "1964",
+                "population": "5842",
+                "population_electors": "4692",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "546eb720-1520-4bb1-b918-2adbcf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,雲林縣,二崙鄉,第01選舉區[區域]"
+            }
+        }
+    ]
+}

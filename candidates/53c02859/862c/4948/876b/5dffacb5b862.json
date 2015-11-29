@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02859-862c-4948-876b-5dffacb5b862",
+            "election_id": "53c022a0-ad38-4832-ba40-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "763",
+            "name": "傅永遠",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1954-12-12",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:45:20"
+        },
+        "Election": {
+            "id": "53c022a0-ad38-4832-ba40-5c5aacb5b862",
+            "population_electors": "986",
+            "population": "1170",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54773ba1-8ca0-4135-82b9-1915cf91e152",
+            "Area": [
+                {
+                    "id": "53c01d84-6324-4380-979e-5460acb5b862",
+                    "name": "萬華村",
+                    "AreasElection": {
+                        "id": "53c022a0-7ebc-4589-8e6f-5c5aacb5b862",
+                        "Election_id": "53c022a0-ad38-4832-ba40-5c5aacb5b862",
+                        "Area_id": "53c01d84-6324-4380-979e-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "7771",
+                "rght": "8766",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0229f-1de0-42f8-934c-5c5aacb5b862",
+                "parent_id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "name": "南州鄉",
+                "lft": "8522",
+                "rght": "8543",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022a0-ad38-4832-ba40-5c5aacb5b862",
+                "parent_id": "53c0229f-1de0-42f8-934c-5c5aacb5b862",
+                "name": "萬華村",
+                "lft": "8533",
+                "rght": "8534",
+                "population": "1170",
+                "population_electors": "986",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54773ba1-8ca0-4135-82b9-1915cf91e152",
+                "keywords": "2014-11,村里長,屏東縣,南州鄉,萬華村"
+            }
+        }
+    ]
+}

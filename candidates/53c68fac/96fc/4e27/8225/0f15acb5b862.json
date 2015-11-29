@@ -1,0 +1,125 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c68fac-96fc-4e27-8225-0f15acb5b862",
+            "election_id": "53c400a1-07d0-4177-9775-6cceacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "14274",
+            "name": "林珮涵",
+            "image": "5448fde9\/f128\/44ea\/9b10\/13b58e043389.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "04-22850955",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "402台中市南區德義里國光路148號",
+            "links": "臉書 http:\/\/www.facebook.com\/pages\/%E5%8F%B0%E4%B8%AD%E5%B8%82%E8%AD%B0%E5%93%A1-%E6%9E%97%E7%8F%AE%E6%B6%B5\/166289909966",
+            "gender": "f",
+            "no": "6",
+            "education_level": "大學",
+            "is_present": true,
+            "name_english": "LIN PEI HAN",
+            "birth_place": "臺中市",
+            "birth": "1964-12-25",
+            "platform": "",
+            "education": "台中國小  東峰國中  立人高中  靜宜大學商學系學士",
+            "experience": "臺中市議會第十六屆議員  國家地政士考試合格  中國國民黨臺中市黨部副主委  臺中市議員林張久美、林佩樂特別助理  臺中市東區義警副中隊長  臺中市南區公所第一屆志工隊長  中華民國臺灣愛心關懷協會榮譽理事長  臺中市富仁長青會榮譽理事長  臺中市地政士公會顧問  臺中市議會第一屆議員",
+            "created": "2014-07-16 22:43:56",
+            "modified": "2015-02-08 23:40:25"
+        },
+        "Election": {
+            "id": "53c400a1-07d0-4177-9775-6cceacb5b862",
+            "population_electors": "153308",
+            "population": "194403",
+            "quota": "4",
+            "quota_women": "1",
+            "bulletin_key": "546e068f-fdc8-4c57-a010-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01f66-0be0-4946-b4d8-5460acb5b862",
+                    "name": "東區",
+                    "AreasElection": {
+                        "id": "53c406e7-f80c-4ce3-9308-6dacacb5b862",
+                        "Election_id": "53c400a1-07d0-4177-9775-6cceacb5b862",
+                        "Area_id": "53c01f66-0be0-4946-b4d8-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01f6a-ed08-4546-ae64-5460acb5b862",
+                    "name": "南區",
+                    "AreasElection": {
+                        "id": "53c406e7-9554-4b4d-abbc-6dacacb5b862",
+                        "Election_id": "53c400a1-07d0-4177-9775-6cceacb5b862",
+                        "Area_id": "53c01f6a-ed08-4546-ae64-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207e-b9a4-405f-abaf-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "臺中市",
+                "lft": "123",
+                "rght": "156",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c400a1-07d0-4177-9775-6cceacb5b862",
+                "parent_id": "53c0207e-b9a4-405f-abaf-5c5aacb5b862",
+                "name": "第11選區[區域]",
+                "lft": "144",
+                "rght": "145",
+                "population": "194403",
+                "population_electors": "153308",
+                "quota": "4",
+                "quota_women": "1",
+                "bulletin_key": "546e068f-fdc8-4c57-a010-1a32cf91e152",
+                "keywords": "2014-11,直轄市議員,臺中市,第11選區[區域]"
+            }
+        }
+    ]
+}

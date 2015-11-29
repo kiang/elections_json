@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02704-0fb8-484b-aa95-5dffacb5b862",
+            "election_id": "53c02567-bae0-40f5-a1b1-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "382",
+            "name": "林淑貞",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺中市",
+            "birth": "1950-02-26",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:41:17"
+        },
+        "Election": {
+            "id": "53c02567-bae0-40f5-a1b1-5c5aacb5b862",
+            "population_electors": "526",
+            "population": "664",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb720-b5fc-451d-9802-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01f99-7774-4392-a1fe-5460acb5b862",
+                    "name": "中和里",
+                    "AreasElection": {
+                        "id": "53c02567-7c80-4620-b3ed-5c5aacb5b862",
+                        "Election_id": "53c02567-bae0-40f5-a1b1-5c5aacb5b862",
+                        "Area_id": "53c01f99-7774-4392-a1fe-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02566-0488-4fa9-99e8-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "梧棲區",
+                "lft": "17126",
+                "rght": "17155",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02567-bae0-40f5-a1b1-5c5aacb5b862",
+                "parent_id": "53c02566-0488-4fa9-99e8-5c5aacb5b862",
+                "name": "中和里",
+                "lft": "17133",
+                "rght": "17134",
+                "population": "664",
+                "population_electors": "526",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb720-b5fc-451d-9802-2adbcf91e152",
+                "keywords": "2014-11,村里長,臺中市,梧棲區,中和里"
+            }
+        }
+    ]
+}

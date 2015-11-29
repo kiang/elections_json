@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5562-d298-40c4-a841-1926acb5b862",
+            "election_id": "53c02200-c40c-4791-bea7-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "309",
+            "name": "李學傑",
+            "image": null,
+            "party": "民主進步黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "LEE HSUEH CHIEH",
+            "birth_place": "臺灣省",
+            "birth": "1965-06-06",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:41:38",
+            "modified": "2015-02-08 23:45:01"
+        },
+        "Election": {
+            "id": "53c02200-c40c-4791-bea7-5c5aacb5b862",
+            "population_electors": "905",
+            "population": "1117",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546ebd71-2570-482b-b493-2c67cf91e152",
+            "Area": [
+                {
+                    "id": "53c01cf7-7ac8-4439-a5fb-5460acb5b862",
+                    "name": "大荖里",
+                    "AreasElection": {
+                        "id": "53c02200-0f1c-4dea-8890-5c5aacb5b862",
+                        "Election_id": "53c02200-c40c-4791-bea7-5c5aacb5b862",
+                        "Area_id": "53c01cf7-7ac8-4439-a5fb-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "6201",
+                "rght": "7018",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021fe-0d04-4f0d-b02a-5c5aacb5b862",
+                "parent_id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "name": "土庫鎮",
+                "lft": "6442",
+                "rght": "6477",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02200-c40c-4791-bea7-5c5aacb5b862",
+                "parent_id": "53c021fe-0d04-4f0d-b02a-5c5aacb5b862",
+                "name": "大荖里",
+                "lft": "6463",
+                "rght": "6464",
+                "population": "1117",
+                "population_electors": "905",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546ebd71-2570-482b-b493-2c67cf91e152",
+                "keywords": "2014-11,村里長,雲林縣,土庫鎮,大荖里"
+            }
+        }
+    ]
+}

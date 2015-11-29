@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5489-bb8c-4d36-bfd6-1926acb5b862",
+            "election_id": "53c0242d-5d58-40fc-9d0a-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "260",
+            "name": "黃清居",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "高雄市",
+            "birth": "1959-09-09",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:38:01",
+            "modified": "2015-02-08 23:40:46"
+        },
+        "Election": {
+            "id": "53c0242d-5d58-40fc-9d0a-5c5aacb5b862",
+            "population_electors": "1682",
+            "population": "2058",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb721-00c8-4dc3-b5bd-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01e92-8ce4-436d-9b91-5460acb5b862",
+                    "name": "港埔里",
+                    "AreasElection": {
+                        "id": "53c0242d-ecf8-4ce2-81b5-5c5aacb5b862",
+                        "Election_id": "53c0242d-5d58-40fc-9d0a-5c5aacb5b862",
+                        "Area_id": "53c01e92-8ce4-436d-9b91-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0242c-ed2c-4d8f-885b-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "林園區",
+                "lft": "13482",
+                "rght": "13531",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0242d-5d58-40fc-9d0a-5c5aacb5b862",
+                "parent_id": "53c0242c-ed2c-4d8f-885b-5c5aacb5b862",
+                "name": "港埔里",
+                "lft": "13489",
+                "rght": "13490",
+                "population": "2058",
+                "population_electors": "1682",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb721-00c8-4dc3-b5bd-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,林園區,港埔里"
+            }
+        }
+    ]
+}

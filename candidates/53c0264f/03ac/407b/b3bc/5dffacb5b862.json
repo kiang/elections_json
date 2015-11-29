@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c0264f-03ac-407b-b3bc-5dffacb5b862",
+            "election_id": "53c023d0-5050-4779-b316-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "3487",
+            "name": "潘萬生",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "PAN WAN SHEN",
+            "birth_place": "臺北市",
+            "birth": "1957-09-25",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:40:36"
+        },
+        "Election": {
+            "id": "53c023d0-5050-4779-b316-5c5aacb5b862",
+            "population_electors": "6444",
+            "population": "8162",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-3fac-41e2-86ad-4187cf91e152",
+            "Area": [
+                {
+                    "id": "53c01e42-63bc-4e9c-acc1-5460acb5b862",
+                    "name": "永欣里",
+                    "AreasElection": {
+                        "id": "53c023d0-f440-4f72-9a97-5c5aacb5b862",
+                        "Election_id": "53c023d0-5050-4779-b316-5c5aacb5b862",
+                        "Area_id": "53c01e42-63bc-4e9c-acc1-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023cf-48cc-46fc-8762-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "北投區",
+                "lft": "12308",
+                "rght": "12393",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d0-5050-4779-b316-5c5aacb5b862",
+                "parent_id": "53c023cf-48cc-46fc-8762-5c5aacb5b862",
+                "name": "永欣里",
+                "lft": "12321",
+                "rght": "12322",
+                "population": "8162",
+                "population_electors": "6444",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-3fac-41e2-86ad-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,北投區,永欣里"
+            }
+        }
+    ]
+}

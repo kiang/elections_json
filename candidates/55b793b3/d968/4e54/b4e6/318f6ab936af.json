@@ -1,0 +1,124 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "55b793b3-d968-4e54-b4e6-318f6ab936af",
+            "election_id": "55086798-c350-4d0c-a197-35296ab936af",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "0",
+            "name": "魏揚",
+            "image": null,
+            "party": "軍公教聯盟黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": null,
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2015-07-28 22:37:39",
+            "modified": "2015-11-29 03:28:36"
+        },
+        "Election": {
+            "id": "55086798-c350-4d0c-a197-35296ab936af",
+            "population_electors": "0",
+            "population": "0",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "Area": [
+                {
+                    "id": "55085a01-147c-46fd-b491-3584acb5b862",
+                    "name": "新竹市",
+                    "AreasElection": {
+                        "id": "550a7563-6c68-4948-bd40-47cc6ab936af",
+                        "Election_id": "55086798-c350-4d0c-a197-35296ab936af",
+                        "Area_id": "55085a01-147c-46fd-b491-3584acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "560026c1-9ec0-4321-9d87-46a36ab936af",
+                "name": "2016軍公教聯盟黨",
+                "CandidatesTag": {
+                    "id": "5600275d-88c4-40b4-a258-2b3e6ab936af",
+                    "Candidate_id": "55b793b3-d968-4e54-b4e6-318f6ab936af",
+                    "Tag_id": "560026c1-9ec0-4321-9d87-46a36ab936af"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "55085db5-2e9c-4cde-8103-23d86ab936af",
+                "parent_id": null,
+                "name": "2016-01",
+                "lft": "40579",
+                "rght": "40780",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "55085e1a-c494-40e0-ba31-2f916ab936af",
+                "parent_id": "55085db5-2e9c-4cde-8103-23d86ab936af",
+                "name": "立法委員",
+                "lft": "40582",
+                "rght": "40779",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "5508637e-f24c-4047-97bd-28956ab936af",
+                "parent_id": "55085e1a-c494-40e0-ba31-2f916ab936af",
+                "name": "新竹市",
+                "lft": "40757",
+                "rght": "40760",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "55086798-c350-4d0c-a197-35296ab936af",
+                "parent_id": "5508637e-f24c-4047-97bd-28956ab936af",
+                "name": "第01選區[區域]",
+                "lft": "40758",
+                "rght": "40759",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2016-01,立法委員,新竹市,第01選區[區域]"
+            }
+        }
+    ]
+}

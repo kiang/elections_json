@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b560c-9ef4-4fea-a180-1926acb5b862",
+            "election_id": "53c022d3-7760-40f0-af82-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "476",
+            "name": "翁林瑞蘭",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "2",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "WENG LIN JUI LAN",
+            "birth_place": "臺灣省",
+            "birth": "1960-05-12",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:44:28",
+            "modified": "2015-02-08 23:45:25"
+        },
+        "Election": {
+            "id": "53c022d3-7760-40f0-af82-5c5aacb5b862",
+            "population_electors": "1121",
+            "population": "1374",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546d8dba-1b90-43a2-a881-0e51cf91e152",
+            "Area": [
+                {
+                    "id": "53c01db0-8410-439d-ad59-5460acb5b862",
+                    "name": "鳳智里",
+                    "AreasElection": {
+                        "id": "53c022d3-ea9c-4a19-9580-5c5aacb5b862",
+                        "Election_id": "53c022d3-7760-40f0-af82-5c5aacb5b862",
+                        "Area_id": "53c01db0-8410-439d-ad59-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022cb-ff18-4c61-98a3-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "花蓮縣",
+                "lft": "9095",
+                "rght": "9476",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022d3-3e90-43c2-9047-5c5aacb5b862",
+                "parent_id": "53c022cb-ff18-4c61-98a3-5c5aacb5b862",
+                "name": "鳳林鎮",
+                "lft": "9188",
+                "rght": "9213",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022d3-7760-40f0-af82-5c5aacb5b862",
+                "parent_id": "53c022d3-3e90-43c2-9047-5c5aacb5b862",
+                "name": "鳳智里",
+                "lft": "9195",
+                "rght": "9196",
+                "population": "1374",
+                "population_electors": "1121",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546d8dba-1b90-43a2-a881-0e51cf91e152",
+                "keywords": "2014-11,村里長,花蓮縣,鳳林鎮,鳳智里"
+            }
+        }
+    ]
+}

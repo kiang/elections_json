@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b53a2-b3b4-4414-a81c-1926acb5b862",
+            "election_id": "53c0236b-7740-4f10-aaee-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "567",
+            "name": "呂傳亮",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1948-12-20",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:34:10",
+            "modified": "2015-02-08 23:41:44"
+        },
+        "Election": {
+            "id": "53c0236b-7740-4f10-aaee-5c5aacb5b862",
+            "population_electors": "1882",
+            "population": "2359",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546f277f-714c-4045-8193-2f28cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c20-b0c0-45c0-aec7-5460acb5b862",
+                    "name": "福源里",
+                    "AreasElection": {
+                        "id": "53c0236c-eb90-4e74-ac4f-5c5aacb5b862",
+                        "Election_id": "53c0236b-7740-4f10-aaee-5c5aacb5b862",
+                        "Area_id": "53c01c20-b0c0-45c0-aec7-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "桃園市",
+                "lft": "10439",
+                "rght": "11456",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02365-de64-458c-9c1c-5c5aacb5b862",
+                "parent_id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "name": "龜山區",
+                "lft": "11020",
+                "rght": "11081",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0236b-7740-4f10-aaee-5c5aacb5b862",
+                "parent_id": "53c02365-de64-458c-9c1c-5c5aacb5b862",
+                "name": "福源里",
+                "lft": "11071",
+                "rght": "11072",
+                "population": "2359",
+                "population_electors": "1882",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546f277f-714c-4045-8193-2f28cf91e152",
+                "keywords": "2014-11,村里長,桃園市,龜山區,福源里"
+            }
+        }
+    ]
+}

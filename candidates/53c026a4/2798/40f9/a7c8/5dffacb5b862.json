@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c026a4-2798-40f9-a7c8-5dffacb5b862",
+            "election_id": "53c02483-f5ac-45d4-8dcd-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "685",
+            "name": "蔡蕙如",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1953-12-08",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:40:56"
+        },
+        "Election": {
+            "id": "53c02483-f5ac-45d4-8dcd-5c5aacb5b862",
+            "population_electors": "1309",
+            "population": "1522",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068c-a714-4be2-95ee-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01edd-5d94-4e83-91e8-5460acb5b862",
+                    "name": "吉利里",
+                    "AreasElection": {
+                        "id": "53c02484-259c-4557-ae90-5c5aacb5b862",
+                        "Election_id": "53c02483-f5ac-45d4-8dcd-5c5aacb5b862",
+                        "Area_id": "53c01edd-5d94-4e83-91e8-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新北市",
+                "lft": "14261",
+                "rght": "16384",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02480-1acc-4cf5-8b74-5c5aacb5b862",
+                "parent_id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "name": "三重區",
+                "lft": "14516",
+                "rght": "14755",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02483-f5ac-45d4-8dcd-5c5aacb5b862",
+                "parent_id": "53c02480-1acc-4cf5-8b74-5c5aacb5b862",
+                "name": "吉利里",
+                "lft": "14561",
+                "rght": "14562",
+                "population": "1522",
+                "population_electors": "1309",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068c-a714-4be2-95ee-1a32cf91e152",
+                "keywords": "2014-11,村里長,新北市,三重區,吉利里"
+            }
+        }
+    ]
+}

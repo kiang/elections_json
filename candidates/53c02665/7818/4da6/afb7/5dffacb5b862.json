@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02665-7818-4da6-afb7-5dffacb5b862",
+            "election_id": "53c023fd-e3c4-432a-81c0-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "480",
+            "name": "葉智陽",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "高雄市",
+            "birth": "1961-06-05",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:40:41"
+        },
+        "Election": {
+            "id": "53c023fd-e3c4-432a-81c0-5c5aacb5b862",
+            "population_electors": "922",
+            "population": "1087",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb720-1298-4100-9d53-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01e6e-3848-4110-8322-5460acb5b862",
+                    "name": "長驛里",
+                    "AreasElection": {
+                        "id": "53c023fd-9c04-4878-9334-5c5aacb5b862",
+                        "Election_id": "53c023fd-e3c4-432a-81c0-5c5aacb5b862",
+                        "Area_id": "53c01e6e-3848-4110-8322-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023f9-e5f4-4a32-9d59-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "新興區",
+                "lft": "12850",
+                "rght": "12915",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023fd-e3c4-432a-81c0-5c5aacb5b862",
+                "parent_id": "53c023f9-e5f4-4a32-9d59-5c5aacb5b862",
+                "name": "長驛里",
+                "lft": "12901",
+                "rght": "12902",
+                "population": "1087",
+                "population_electors": "922",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb720-1298-4100-9d53-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,新興區,長驛里"
+            }
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c68fb1-df3c-4633-ba7d-0f15acb5b862",
+            "election_id": "53c400af-ccb0-488d-93d5-6cceacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "14462",
+            "name": "杜素吟",
+            "image": "548abb6f\/3648\/4f1a\/a0c1\/72db6ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "06-2664080",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "717台南市仁德區上崙里上崙街352號",
+            "links": "臉書 http:\/\/www.facebook.com\/people\/du-su-yin\/100000802546495\\n臉書 http:\/\/www.facebook.com\/pages\/%E5%8F%B0%E5%8D%97%E5%B8%82%E8%AD%B0%E5%93%A1-%E6%9D%9C%E7%B4%A0%E5%90%9F\/170045896345606",
+            "gender": "f",
+            "no": "2",
+            "education_level": "大學",
+            "is_present": true,
+            "name_english": "Tu Su Ying",
+            "birth_place": "臺南市",
+            "birth": "1956-06-06",
+            "platform": "",
+            "education": "國立新豊高中",
+            "experience": "第16屆臺南縣議員  第1屆直轄市臺南市議員",
+            "created": "2014-07-16 22:44:01",
+            "modified": "2015-02-08 23:40:26"
+        },
+        "Election": {
+            "id": "53c400af-ccb0-488d-93d5-6cceacb5b862",
+            "population_electors": "146070",
+            "population": "179550",
+            "quota": "5",
+            "quota_women": "1",
+            "bulletin_key": "5469b450-3720-41b4-b1c8-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01ffc-3160-4fff-8761-5460acb5b862",
+                    "name": "仁德區",
+                    "AreasElection": {
+                        "id": "53c406eb-8a6c-4bdc-adc0-6dacacb5b862",
+                        "Election_id": "53c400af-ccb0-488d-93d5-6cceacb5b862",
+                        "Area_id": "53c01ffc-3160-4fff-8761-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c02000-09c4-4078-a5a2-5460acb5b862",
+                    "name": "歸仁區",
+                    "AreasElection": {
+                        "id": "53c406eb-d484-4af2-b1bf-6dacacb5b862",
+                        "Election_id": "53c400af-ccb0-488d-93d5-6cceacb5b862",
+                        "Area_id": "53c02000-09c4-4078-a5a2-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c02003-2078-4be3-b344-5460acb5b862",
+                    "name": "關廟區",
+                    "AreasElection": {
+                        "id": "53c406eb-9a78-4672-bd60-6dacacb5b862",
+                        "Election_id": "53c400af-ccb0-488d-93d5-6cceacb5b862",
+                        "Area_id": "53c02003-2078-4be3-b344-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c02006-2270-49a4-ba23-5460acb5b862",
+                    "name": "龍崎區",
+                    "AreasElection": {
+                        "id": "53c406eb-03e8-4fe4-aec6-6dacacb5b862",
+                        "Election_id": "53c400af-ccb0-488d-93d5-6cceacb5b862",
+                        "Area_id": "53c02006-2270-49a4-ba23-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207f-29bc-4258-90c0-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "臺南市",
+                "lft": "157",
+                "rght": "194",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c400af-ccb0-488d-93d5-6cceacb5b862",
+                "parent_id": "53c0207f-29bc-4258-90c0-5c5aacb5b862",
+                "name": "第16選區[區域]",
+                "lft": "188",
+                "rght": "189",
+                "population": "179550",
+                "population_electors": "146070",
+                "quota": "5",
+                "quota_women": "1",
+                "bulletin_key": "5469b450-3720-41b4-b1c8-74a5cf91e152",
+                "keywords": "2014-11,直轄市議員,臺南市,第16選區[區域]"
+            }
+        }
+    ]
+}

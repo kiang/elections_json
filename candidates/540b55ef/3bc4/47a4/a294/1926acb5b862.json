@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b55ef-3bc4-47a4-a294-1926acb5b862",
+            "election_id": "53c020f5-e8a8-48f0-8279-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "800",
+            "name": "許文川",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "專科",
+            "is_present": false,
+            "name_english": "HSU WEN CHUAN",
+            "birth_place": "臺灣省",
+            "birth": "1960-04-15",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:43:59",
+            "modified": "2015-02-08 23:44:25"
+        },
+        "Election": {
+            "id": "53c020f5-e8a8-48f0-8279-5c5aacb5b862",
+            "population_electors": "2772",
+            "population": "3514",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-9f70-45cc-8a4e-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01bdc-1efc-4001-966d-5460acb5b862",
+                    "name": "羅莊里",
+                    "AreasElection": {
+                        "id": "53c020f5-1534-4b07-b5d5-5c5aacb5b862",
+                        "Election_id": "53c020f5-e8a8-48f0-8279-5c5aacb5b862",
+                        "Area_id": "53c01bdc-1efc-4001-966d-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ef-6268-4b1a-a16d-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "宜蘭縣",
+                "lft": "2929",
+                "rght": "3420",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020f5-b8c8-408e-aeeb-5c5aacb5b862",
+                "parent_id": "53c020ef-6268-4b1a-a16d-5c5aacb5b862",
+                "name": "羅東鎮",
+                "lft": "3008",
+                "rght": "3055",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020f5-e8a8-48f0-8279-5c5aacb5b862",
+                "parent_id": "53c020f5-b8c8-408e-aeeb-5c5aacb5b862",
+                "name": "羅莊里",
+                "lft": "3011",
+                "rght": "3012",
+                "population": "3514",
+                "population_electors": "2772",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-9f70-45cc-8a4e-2adbcf91e152",
+                "keywords": "2014-11,村里長,宜蘭縣,羅東鎮,羅莊里"
+            }
+        }
+    ]
+}

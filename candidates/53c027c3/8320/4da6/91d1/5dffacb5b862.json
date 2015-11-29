@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c027c3-8320-4da6-91d1-5dffacb5b862",
+            "election_id": "53c02180-8824-4cba-8acd-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1559",
+            "name": "黃本興",
+            "image": "5458a176\/344c\/4882\/a1f9\/21c58e043389.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1943-02-16",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:44:41"
+        },
+        "Election": {
+            "id": "53c02180-8824-4cba-8acd-5c5aacb5b862",
+            "population_electors": "2961",
+            "population": "3761",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-ab44-4973-93af-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c91-b93c-4cd4-be19-5460acb5b862",
+                    "name": "鶴鳴村",
+                    "AreasElection": {
+                        "id": "53c02180-171c-4f68-a7f0-5c5aacb5b862",
+                        "Election_id": "53c02180-8824-4cba-8acd-5c5aacb5b862",
+                        "Area_id": "53c01c91-b93c-4cd4-be19-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "4417",
+                "rght": "5648",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0217f-4ab8-40b6-a08f-5c5aacb5b862",
+                "parent_id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "name": "秀水鄉",
+                "lft": "4786",
+                "rght": "4815",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02180-8824-4cba-8acd-5c5aacb5b862",
+                "parent_id": "53c0217f-4ab8-40b6-a08f-5c5aacb5b862",
+                "name": "鶴鳴村",
+                "lft": "4797",
+                "rght": "4798",
+                "population": "3761",
+                "population_electors": "2961",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-ab44-4973-93af-74a5cf91e152",
+                "keywords": "2014-11,村里長,彰化縣,秀水鄉,鶴鳴村"
+            }
+        }
+    ]
+}

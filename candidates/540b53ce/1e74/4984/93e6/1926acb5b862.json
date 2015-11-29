@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b53ce-1e74-4984-93e6-1926acb5b862",
+            "election_id": "53c02543-2efc-4136-9030-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "1007",
+            "name": "王美竹",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺中市",
+            "birth": "1960-09-01",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:34:54",
+            "modified": "2015-02-08 23:41:14"
+        },
+        "Election": {
+            "id": "53c02543-2efc-4136-9030-5c5aacb5b862",
+            "population_electors": "6453",
+            "population": "8145",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54704b05-47c4-402a-89cd-1495cf91e152",
+            "Area": [
+                {
+                    "id": "53c01f7e-e5b8-49d8-81d9-5460acb5b862",
+                    "name": "三光里",
+                    "AreasElection": {
+                        "id": "53c02543-cc40-41b5-9d20-5c5aacb5b862",
+                        "Election_id": "53c02543-2efc-4136-9030-5c5aacb5b862",
+                        "Area_id": "53c01f7e-e5b8-49d8-81d9-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02542-30e8-4080-80d6-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "北屯區",
+                "lft": "16744",
+                "rght": "16829",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02543-2efc-4136-9030-5c5aacb5b862",
+                "parent_id": "53c02542-30e8-4080-80d6-5c5aacb5b862",
+                "name": "三光里",
+                "lft": "16755",
+                "rght": "16756",
+                "population": "8145",
+                "population_electors": "6453",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54704b05-47c4-402a-89cd-1495cf91e152",
+                "keywords": "2014-11,村里長,臺中市,北屯區,三光里"
+            }
+        }
+    ]
+}

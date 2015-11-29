@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c0281c-f148-450c-b8d0-5dffacb5b862",
+            "election_id": "53c0222a-fe50-4f97-bc54-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "173",
+            "name": "楊明卿",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "YANG MING CHING",
+            "birth_place": "臺灣省",
+            "birth": "1954-01-01",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:45:06"
+        },
+        "Election": {
+            "id": "53c0222a-fe50-4f97-bc54-5c5aacb5b862",
+            "population_electors": "483",
+            "population": "600",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5473fb11-0280-4c0f-a71f-1b6ecf91e152",
+            "Area": [
+                {
+                    "id": "53c01d1b-2b9c-43db-a592-5460acb5b862",
+                    "name": "後庄里",
+                    "AreasElection": {
+                        "id": "53c0222a-0790-4f4e-8095-5c5aacb5b862",
+                        "Election_id": "53c0222a-fe50-4f97-bc54-5c5aacb5b862",
+                        "Area_id": "53c01d1b-2b9c-43db-a592-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0222a-d5c0-465f-849c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "嘉義縣",
+                "lft": "7019",
+                "rght": "7770",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0222a-ed24-4ce5-ae43-5c5aacb5b862",
+                "parent_id": "53c0222a-d5c0-465f-849c-5c5aacb5b862",
+                "name": "太保市",
+                "lft": "7020",
+                "rght": "7057",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0222a-fe50-4f97-bc54-5c5aacb5b862",
+                "parent_id": "53c0222a-ed24-4ce5-ae43-5c5aacb5b862",
+                "name": "後庄里",
+                "lft": "7023",
+                "rght": "7024",
+                "population": "600",
+                "population_electors": "483",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5473fb11-0280-4c0f-a71f-1b6ecf91e152",
+                "keywords": "2014-11,村里長,嘉義縣,太保市,後庄里"
+            }
+        }
+    ]
+}

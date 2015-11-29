@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02651-5ac4-4e88-9edd-5dffacb5b862",
+            "election_id": "53c023d5-de24-47be-b4e9-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1263",
+            "name": "陳志成",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "專科",
+            "is_present": true,
+            "name_english": "CHEN CHIH CHEN",
+            "birth_place": "臺北市",
+            "birth": "1964-02-10",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:40:37"
+        },
+        "Election": {
+            "id": "53c023d5-de24-47be-b4e9-5c5aacb5b862",
+            "population_electors": "2129",
+            "population": "2530",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-fd84-4f78-9623-4187cf91e152",
+            "Area": [
+                {
+                    "id": "53c01e47-4458-4b64-a845-5460acb5b862",
+                    "name": "泉源里",
+                    "AreasElection": {
+                        "id": "53c023d5-8810-40f5-a377-5c5aacb5b862",
+                        "Election_id": "53c023d5-de24-47be-b4e9-5c5aacb5b862",
+                        "Area_id": "53c01e47-4458-4b64-a845-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023cf-48cc-46fc-8762-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "北投區",
+                "lft": "12308",
+                "rght": "12393",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d5-de24-47be-b4e9-5c5aacb5b862",
+                "parent_id": "53c023cf-48cc-46fc-8762-5c5aacb5b862",
+                "name": "泉源里",
+                "lft": "12383",
+                "rght": "12384",
+                "population": "2530",
+                "population_electors": "2129",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-fd84-4f78-9623-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,北投區,泉源里"
+            }
+        }
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5794-bad0-48b2-aa18-1926acb5b862",
+            "election_id": "53d7344f-ffcc-4fb9-a8ce-1299acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "834",
+            "name": "張太山",
+            "image": "54d4b78d\/0278\/4c46\/a78f\/2a6c6ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "4",
+            "education_level": "大學",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1966-05-08",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:51:00",
+            "modified": "2015-02-08 23:43:58"
+        },
+        "Election": {
+            "id": "53d7344f-ffcc-4fb9-a8ce-1299acb5b862",
+            "population_electors": "5126",
+            "population": "6142",
+            "quota": "3",
+            "quota_women": "0",
+            "bulletin_key": "5475673a-747c-4dfa-ac99-0f78cf91e152",
+            "Area": [
+                {
+                    "id": "53c01d72-13d8-46ec-bfdd-5460acb5b862",
+                    "name": "泰山村",
+                    "AreasElection": {
+                        "id": "53d7344f-a164-4854-8de2-1299acb5b862",
+                        "Election_id": "53d7344f-ffcc-4fb9-a8ce-1299acb5b862",
+                        "Area_id": "53c01d72-13d8-46ec-bfdd-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01d72-2174-448c-8b09-5460acb5b862",
+                    "name": "南華村",
+                    "AreasElection": {
+                        "id": "53d7344f-b700-48fd-9fca-1299acb5b862",
+                        "Election_id": "53d7344f-ffcc-4fb9-a8ce-1299acb5b862",
+                        "Area_id": "53c01d72-2174-448c-8b09-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01d72-2328-43f3-a0c4-5460acb5b862",
+                    "name": "廣福村",
+                    "AreasElection": {
+                        "id": "53d7344f-7c24-4f9a-97d2-1299acb5b862",
+                        "Election_id": "53d7344f-ffcc-4fb9-a8ce-1299acb5b862",
+                        "Area_id": "53c01d72-2328-43f3-a0c4-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01d73-5a7c-493b-8a01-5460acb5b862",
+                    "name": "廣興村",
+                    "AreasElection": {
+                        "id": "53d7344f-5854-400b-ad10-1299acb5b862",
+                        "Election_id": "53d7344f-ffcc-4fb9-a8ce-1299acb5b862",
+                        "Area_id": "53c01d73-5a7c-493b-8a01-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ce-0798-4ae9-af49-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "2197",
+                "rght": "2484",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020d3-7484-436f-bbae-5c5aacb5b862",
+                "parent_id": "53c020ce-0798-4ae9-af49-5c5aacb5b862",
+                "name": "高樹鄉",
+                "lft": "2294",
+                "rght": "2303",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d7344f-ffcc-4fb9-a8ce-1299acb5b862",
+                "parent_id": "53c020d3-7484-436f-bbae-5c5aacb5b862",
+                "name": "第03選舉區[區域]",
+                "lft": "2299",
+                "rght": "2300",
+                "population": "6142",
+                "population_electors": "5126",
+                "quota": "3",
+                "quota_women": "0",
+                "bulletin_key": "5475673a-747c-4dfa-ac99-0f78cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,屏東縣,高樹鄉,第03選舉區[區域]"
+            }
+        }
+    ]
+}

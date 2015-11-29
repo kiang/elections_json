@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02690-b800-4988-b61b-5dffacb5b862",
+            "election_id": "53c02454-d8e8-4218-837e-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "801",
+            "name": "林清火",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "高雄市",
+            "birth": "1951-02-23",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:40:50"
+        },
+        "Election": {
+            "id": "53c02454-d8e8-4218-837e-5c5aacb5b862",
+            "population_electors": "1203",
+            "population": "1505",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb721-07f4-4f77-89cb-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01eb4-2d1c-4bd4-813c-5460acb5b862",
+                    "name": "光和里",
+                    "AreasElection": {
+                        "id": "53c02454-ec64-4cfc-9389-5c5aacb5b862",
+                        "Election_id": "53c02454-d8e8-4218-837e-5c5aacb5b862",
+                        "Area_id": "53c01eb4-2d1c-4bd4-813c-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02454-5b7c-429d-a3cf-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "彌陀區",
+                "lft": "13986",
+                "rght": "14011",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02454-d8e8-4218-837e-5c5aacb5b862",
+                "parent_id": "53c02454-5b7c-429d-a3cf-5c5aacb5b862",
+                "name": "光和里",
+                "lft": "13987",
+                "rght": "13988",
+                "population": "1505",
+                "population_electors": "1203",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb721-07f4-4f77-89cb-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,彌陀區,光和里"
+            }
+        }
+    ]
+}

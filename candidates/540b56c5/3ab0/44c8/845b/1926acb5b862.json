@@ -1,0 +1,124 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b56c5-3ab0-44c8-845b-1926acb5b862",
+            "election_id": "53c411dc-654c-4177-8fed-6f55acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "521",
+            "name": "郭秋孜",
+            "image": "5499724c\/0898\/47b8\/b30c\/4b966ab936af.jpg",
+            "party": "台灣第一民族黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "臉書 http:\/\/www.facebook.com\/falangaw",
+            "gender": "f",
+            "no": "3",
+            "education_level": "專科",
+            "is_present": false,
+            "name_english": "Guo Qiuzi",
+            "birth_place": "臺灣省",
+            "birth": "1963-08-03",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:47:33",
+            "modified": "2015-02-08 23:41:57"
+        },
+        "Election": {
+            "id": "53c411dc-654c-4177-8fed-6f55acb5b862",
+            "population_electors": "83254",
+            "population": "106992",
+            "quota": "3",
+            "quota_women": "2",
+            "bulletin_key": "546f277f-6318-40fa-86f8-2f28cf91e152",
+            "Area": [
+                {
+                    "id": "53c01d95-57a0-4235-a698-5460acb5b862",
+                    "name": "臺東市",
+                    "AreasElection": {
+                        "id": "53c64289-33dc-425e-a50d-72eeacb5b862",
+                        "Election_id": "53c411dc-654c-4177-8fed-6f55acb5b862",
+                        "Area_id": "53c01d95-57a0-4235-a698-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "5413108f-c178-4e11-811e-2c4dcb455a61",
+                "name": "2014台灣第一民族黨",
+                "CandidatesTag": {
+                    "id": "5413109c-8280-41fe-a315-2c88cb455a61",
+                    "Candidate_id": "540b56c5-3ab0-44c8-845b-1926acb5b862",
+                    "Tag_id": "5413108f-c178-4e11-811e-2c4dcb455a61"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "縣市議員",
+                "lft": "306",
+                "rght": "607",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02084-62a4-4027-a661-5c5aacb5b862",
+                "parent_id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "name": "臺東縣",
+                "lft": "501",
+                "rght": "532",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c411dc-654c-4177-8fed-6f55acb5b862",
+                "parent_id": "53c02084-62a4-4027-a661-5c5aacb5b862",
+                "name": "第07選區[平地]",
+                "lft": "512",
+                "rght": "513",
+                "population": "106992",
+                "population_electors": "83254",
+                "quota": "3",
+                "quota_women": "2",
+                "bulletin_key": "546f277f-6318-40fa-86f8-2f28cf91e152",
+                "keywords": "2014-11,縣市議員,臺東縣,第07選區[平地]"
+            }
+        }
+    ]
+}

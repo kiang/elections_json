@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02791-68b8-45d7-8a77-5dffacb5b862",
+            "election_id": "53c0211d-9df0-4528-ae22-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "444",
+            "name": "林青山",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1970-04-12",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:44:30"
+        },
+        "Election": {
+            "id": "53c0211d-9df0-4528-ae22-5c5aacb5b862",
+            "population_electors": "1058",
+            "population": "1287",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-b3c8-41b8-8312-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c3f-1080-4f70-bdf9-5460acb5b862",
+                    "name": "南華里",
+                    "AreasElection": {
+                        "id": "53c0211d-7250-4642-ab04-5c5aacb5b862",
+                        "Election_id": "53c0211d-9df0-4528-ae22-5c5aacb5b862",
+                        "Area_id": "53c01c3f-1080-4f70-bdf9-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02114-c1a0-4545-bc6f-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新竹縣",
+                "lft": "3421",
+                "rght": "3830",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0211a-b2e0-40f5-9744-5c5aacb5b862",
+                "parent_id": "53c02114-c1a0-4545-bc6f-5c5aacb5b862",
+                "name": "竹東鎮",
+                "lft": "3484",
+                "rght": "3535",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0211d-9df0-4528-ae22-5c5aacb5b862",
+                "parent_id": "53c0211a-b2e0-40f5-9744-5c5aacb5b862",
+                "name": "南華里",
+                "lft": "3517",
+                "rght": "3518",
+                "population": "1287",
+                "population_electors": "1058",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-b3c8-41b8-8312-1a32cf91e152",
+                "keywords": "2014-11,村里長,新竹縣,竹東鎮,南華里"
+            }
+        }
+    ]
+}

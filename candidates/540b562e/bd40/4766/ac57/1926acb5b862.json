@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b562e-bd40-4766-ac57-1926acb5b862",
+            "election_id": "53c022c3-25c4-4afe-82e1-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "355",
+            "name": "王進成 Namoh．Potal",
+            "image": "",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "1",
+            "education_level": "大學",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1953-02-18",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:45:02",
+            "modified": "2015-02-08 23:45:24"
+        },
+        "Election": {
+            "id": "53c022c3-25c4-4afe-82e1-5c5aacb5b862",
+            "population_electors": "1344",
+            "population": "1485",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "Area": [
+                {
+                    "id": "53c01da4-78d0-41a5-8460-5460acb5b862",
+                    "name": "寧埔村",
+                    "AreasElection": {
+                        "id": "53c022c3-3f08-4675-b15b-5c5aacb5b862",
+                        "Election_id": "53c022c3-25c4-4afe-82e1-5c5aacb5b862",
+                        "Area_id": "53c01da4-78d0-41a5-8460-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022b2-b9f0-4517-825f-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺東縣",
+                "lft": "8767",
+                "rght": "9094",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022c2-6484-442d-8ded-5c5aacb5b862",
+                "parent_id": "53c022b2-b9f0-4517-825f-5c5aacb5b862",
+                "name": "長濱鄉",
+                "lft": "8978",
+                "rght": "8991",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022c3-25c4-4afe-82e1-5c5aacb5b862",
+                "parent_id": "53c022c2-6484-442d-8ded-5c5aacb5b862",
+                "name": "寧埔村",
+                "lft": "8987",
+                "rght": "8988",
+                "population": "1485",
+                "population_electors": "1344",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2014-11,村里長,臺東縣,長濱鄉,寧埔村"
+            }
+        }
+    ]
+}

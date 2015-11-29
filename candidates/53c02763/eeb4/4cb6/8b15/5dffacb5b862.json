@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02763-eeb4-4cb6-8b15-5dffacb5b862",
+            "election_id": "53c0210f-86e4-4008-8023-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "364",
+            "name": "鄭玉寅",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1958-02-12",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:44:28"
+        },
+        "Election": {
+            "id": "53c0210f-86e4-4008-8023-5c5aacb5b862",
+            "population_electors": "541",
+            "population": "633",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-9a7c-49fd-aa56-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01bf1-33c8-4ecc-bdf5-5460acb5b862",
+                    "name": "天山村",
+                    "AreasElection": {
+                        "id": "53c0210f-1e18-4847-bb6e-5c5aacb5b862",
+                        "Election_id": "53c0210f-86e4-4008-8023-5c5aacb5b862",
+                        "Area_id": "53c01bf1-33c8-4ecc-bdf5-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ef-6268-4b1a-a16d-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "宜蘭縣",
+                "lft": "2929",
+                "rght": "3420",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0210f-df58-473a-855c-5c5aacb5b862",
+                "parent_id": "53c020ef-6268-4b1a-a16d-5c5aacb5b862",
+                "name": "三星鄉",
+                "lft": "3344",
+                "rght": "3381",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0210f-86e4-4008-8023-5c5aacb5b862",
+                "parent_id": "53c0210f-df58-473a-855c-5c5aacb5b862",
+                "name": "天山村",
+                "lft": "3345",
+                "rght": "3346",
+                "population": "633",
+                "population_electors": "541",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-9a7c-49fd-aa56-2adbcf91e152",
+                "keywords": "2014-11,村里長,宜蘭縣,三星鄉,天山村"
+            }
+        }
+    ]
+}

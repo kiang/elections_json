@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02763-04f8-4f68-8d07-5dffacb5b862",
+            "election_id": "53c0210d-f5b0-4043-88da-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "737",
+            "name": "陳鋕淮",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "CHEN CHIH HUAI",
+            "birth_place": "臺灣省",
+            "birth": "1935-07-17",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:44:28"
+        },
+        "Election": {
+            "id": "53c0210d-f5b0-4043-88da-5c5aacb5b862",
+            "population_electors": "2343",
+            "population": "2743",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-3b7c-4739-a28b-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01bf0-0330-443d-9e5b-5460acb5b862",
+                    "name": "四結村",
+                    "AreasElection": {
+                        "id": "53c0210e-0d24-43fb-bfa0-5c5aacb5b862",
+                        "Election_id": "53c0210d-f5b0-4043-88da-5c5aacb5b862",
+                        "Area_id": "53c01bf0-0330-443d-9e5b-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ef-6268-4b1a-a16d-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "宜蘭縣",
+                "lft": "2929",
+                "rght": "3420",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0210d-0b80-4441-826f-5c5aacb5b862",
+                "parent_id": "53c020ef-6268-4b1a-a16d-5c5aacb5b862",
+                "name": "五結鄉",
+                "lft": "3312",
+                "rght": "3343",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0210d-f5b0-4043-88da-5c5aacb5b862",
+                "parent_id": "53c0210d-0b80-4441-826f-5c5aacb5b862",
+                "name": "四結村",
+                "lft": "3317",
+                "rght": "3318",
+                "population": "2743",
+                "population_electors": "2343",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-3b7c-4739-a28b-2adbcf91e152",
+                "keywords": "2014-11,村里長,宜蘭縣,五結鄉,四結村"
+            }
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c68f70-f17c-4bb9-bc84-0f15acb5b862",
+            "election_id": "53c41027-088c-4588-8623-6f55acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "3835",
+            "name": "林朝旺",
+            "image": "549425f1\/d3d0\/429b\/95fe\/37256ab936af.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "03-9657028",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "268宜蘭縣五結鄉二結村學進路82-16號",
+            "links": "",
+            "gender": "m",
+            "no": "4",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "Lin Chao Wang",
+            "birth_place": "臺灣省",
+            "birth": "1950-05-20",
+            "platform": "",
+            "education": "五結初級中學",
+            "experience": "第17屆宜蘭縣議員  五結鄉民代表會主席  五結鄉兵役協會主任委員  五結鄉體育會理事長  學進國小家長會會長  學進國小文教基金會董事長  五結國際獅子會會長  國民黨五結鄉黨部常委  五結民眾服務社理事長。  五結鄉二三四結社巡守隊大隊長。  興中國中獎學基金會副主委。  二結社區發展協會理事。",
+            "created": "2014-07-16 22:42:56",
+            "modified": "2015-02-08 23:41:50"
+        },
+        "Election": {
+            "id": "53c41027-088c-4588-8623-6f55acb5b862",
+            "population_electors": "32513",
+            "population": "39332",
+            "quota": "3",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-519c-4493-b867-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01bef-fbfc-41ab-8f6e-5460acb5b862",
+                    "name": "五結鄉",
+                    "AreasElection": {
+                        "id": "53c41028-f64c-47b6-ac89-6f55acb5b862",
+                        "Election_id": "53c41027-088c-4588-8623-6f55acb5b862",
+                        "Area_id": "53c01bef-fbfc-41ab-8f6e-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "縣市議員",
+                "lft": "306",
+                "rght": "607",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02082-2c78-4b49-a547-5c5aacb5b862",
+                "parent_id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "name": "宜蘭縣",
+                "lft": "325",
+                "rght": "352",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c41027-088c-4588-8623-6f55acb5b862",
+                "parent_id": "53c02082-2c78-4b49-a547-5c5aacb5b862",
+                "name": "第07選區[區域]",
+                "lft": "338",
+                "rght": "339",
+                "population": "39332",
+                "population_electors": "32513",
+                "quota": "3",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-519c-4493-b867-2adbcf91e152",
+                "keywords": "2014-11,縣市議員,宜蘭縣,第07選區[區域]"
+            }
+        }
+    ]
+}

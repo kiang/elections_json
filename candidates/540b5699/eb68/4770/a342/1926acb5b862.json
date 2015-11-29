@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5699-eb68-4770-a342-1926acb5b862",
+            "election_id": "53c4008d-3e38-4446-b0d5-6cceacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "16801",
+            "name": "黃香菽",
+            "image": "5489a9bb\/9ad0\/4d68\/b209\/34406ab936af.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "臉書 http:\/\/www.facebook.com\/tammy.huang.5895\\n臉書 http:\/\/www.facebook.com\/banana1023",
+            "gender": "f",
+            "no": "2",
+            "education_level": "專科",
+            "is_present": false,
+            "name_english": "HUANG HSIANG SHU",
+            "birth_place": "高雄市",
+            "birth": "1981-10-23",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:46:49",
+            "modified": "2015-02-08 23:40:23"
+        },
+        "Election": {
+            "id": "53c4008d-3e38-4446-b0d5-6cceacb5b862",
+            "population_electors": "280095",
+            "population": "347451",
+            "quota": "8",
+            "quota_women": "2",
+            "bulletin_key": "546eb720-4e38-4298-9ed5-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01e5f-58c8-4543-93bb-5460acb5b862",
+                    "name": "三民區",
+                    "AreasElection": {
+                        "id": "53c406de-2a80-4e46-a6da-6dacacb5b862",
+                        "Election_id": "53c4008d-3e38-4446-b0d5-6cceacb5b862",
+                        "Area_id": "53c01e5f-58c8-4543-93bb-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207e-117c-4e21-88cf-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "高雄市",
+                "lft": "65",
+                "rght": "96",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c4008d-3e38-4446-b0d5-6cceacb5b862",
+                "parent_id": "53c0207e-117c-4e21-88cf-5c5aacb5b862",
+                "name": "第07選區[區域]",
+                "lft": "78",
+                "rght": "79",
+                "population": "347451",
+                "population_electors": "280095",
+                "quota": "8",
+                "quota_women": "2",
+                "bulletin_key": "546eb720-4e38-4298-9ed5-2adbcf91e152",
+                "keywords": "2014-11,直轄市議員,高雄市,第07選區[區域]"
+            }
+        }
+    ]
+}

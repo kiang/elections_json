@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5578-3d28-46f7-bf85-1926acb5b862",
+            "election_id": "53c0221b-dc94-4545-8de6-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "230",
+            "name": "丁金獅",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "3",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1953-07-11",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:42:00",
+            "modified": "2015-02-08 23:45:04"
+        },
+        "Election": {
+            "id": "53c0221b-dc94-4545-8de6-5c5aacb5b862",
+            "population_electors": "640",
+            "population": "747",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546edee5-0ccc-4910-ad88-3ce1cf91e152",
+            "Area": [
+                {
+                    "id": "53c01d0d-be10-46b0-a520-5460acb5b862",
+                    "name": "泉州村",
+                    "AreasElection": {
+                        "id": "53c0221b-b414-4dcb-a89b-5c5aacb5b862",
+                        "Election_id": "53c0221b-dc94-4545-8de6-5c5aacb5b862",
+                        "Area_id": "53c01d0d-be10-46b0-a520-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "6201",
+                "rght": "7018",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0221a-b938-49e0-9bfa-5c5aacb5b862",
+                "parent_id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "name": "臺西鄉",
+                "lft": "6804",
+                "rght": "6835",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0221b-dc94-4545-8de6-5c5aacb5b862",
+                "parent_id": "53c0221a-b938-49e0-9bfa-5c5aacb5b862",
+                "name": "泉州村",
+                "lft": "6819",
+                "rght": "6820",
+                "population": "747",
+                "population_electors": "640",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546edee5-0ccc-4910-ad88-3ce1cf91e152",
+                "keywords": "2014-11,村里長,雲林縣,臺西鄉,泉州村"
+            }
+        }
+    ]
+}

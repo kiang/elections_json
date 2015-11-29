@@ -1,0 +1,139 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c0267e-8e5c-4275-bf68-5dffacb5b862",
+            "election_id": "53c0242f-9268-4fb0-826e-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1102",
+            "name": "黃揚文",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "HUANG YANGWEN",
+            "birth_place": "高雄市",
+            "birth": "1968-09-01",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:40:47"
+        },
+        "Election": {
+            "id": "53c0242f-9268-4fb0-826e-5c5aacb5b862",
+            "population_electors": "2437",
+            "population": "3124",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb721-762c-45eb-a107-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01e94-5a98-448c-aae0-5460acb5b862",
+                    "name": "五福里",
+                    "AreasElection": {
+                        "id": "53c0242f-a3bc-4e26-9231-5c5aacb5b862",
+                        "Election_id": "53c0242f-9268-4fb0-826e-5c5aacb5b862",
+                        "Area_id": "53c01e94-5a98-448c-aae0-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54ab28f9-bbb8-4b4e-9cbd-2a166ab936af",
+                "name": "2014當選無效之訴-高雄市",
+                "CandidatesTag": {
+                    "id": "54abf9b8-3ae0-440d-a41a-58856ab936af",
+                    "Candidate_id": "53c0267e-8e5c-4275-bf68-5dffacb5b862",
+                    "Tag_id": "54ab28f9-bbb8-4b4e-9cbd-2a166ab936af"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0242c-ed2c-4d8f-885b-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "林園區",
+                "lft": "13482",
+                "rght": "13531",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0242f-9268-4fb0-826e-5c5aacb5b862",
+                "parent_id": "53c0242c-ed2c-4d8f-885b-5c5aacb5b862",
+                "name": "五福里",
+                "lft": "13525",
+                "rght": "13526",
+                "population": "3124",
+                "population_electors": "2437",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb721-762c-45eb-a107-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,林園區,五福里"
+            }
+        }
+    ]
+}

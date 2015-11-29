@@ -1,0 +1,143 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b567f-a0c4-4762-a1d3-1926acb5b862",
+            "election_id": "53c40093-1d90-48f8-973d-6cceacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "16421",
+            "name": "蔡葉偉",
+            "image": "56225f76\/90e0\/431b\/9793\/66bf6ab936af.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "臉書 http:\/\/www.facebook.com\/2014awei",
+            "gender": "m",
+            "no": "5",
+            "education_level": "博士",
+            "is_present": false,
+            "name_english": "Tsai Yeh Wei",
+            "birth_place": "新北市",
+            "birth": "1954-01-24",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:46:23",
+            "modified": "2015-10-17 22:47:32"
+        },
+        "Election": {
+            "id": "53c40093-1d90-48f8-973d-6cceacb5b862",
+            "population_electors": "187543",
+            "population": "231343",
+            "quota": "4",
+            "quota_women": "1",
+            "bulletin_key": "5469b450-88cc-41b1-8684-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01f2c-cbb0-417b-bcf0-5460acb5b862",
+                    "name": "淡水區",
+                    "AreasElection": {
+                        "id": "53c406e2-8098-47f2-b92c-6dacacb5b862",
+                        "Election_id": "53c40093-1d90-48f8-973d-6cceacb5b862",
+                        "Area_id": "53c01f2c-cbb0-417b-bcf0-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01f56-38ac-4049-a241-5460acb5b862",
+                    "name": "三芝區",
+                    "AreasElection": {
+                        "id": "53c406e2-cebc-40cf-b4f2-6dacacb5b862",
+                        "Election_id": "53c40093-1d90-48f8-973d-6cceacb5b862",
+                        "Area_id": "53c01f56-38ac-4049-a241-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01f58-af40-45f5-a66d-5460acb5b862",
+                    "name": "石門區",
+                    "AreasElection": {
+                        "id": "53c406e2-0504-425d-a48c-6dacacb5b862",
+                        "Election_id": "53c40093-1d90-48f8-973d-6cceacb5b862",
+                        "Area_id": "53c01f58-af40-45f5-a66d-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01f59-ec14-4673-a802-5460acb5b862",
+                    "name": "八里區",
+                    "AreasElection": {
+                        "id": "53c406e2-5024-4b09-9ff0-6dacacb5b862",
+                        "Election_id": "53c40093-1d90-48f8-973d-6cceacb5b862",
+                        "Area_id": "53c01f59-ec14-4673-a802-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207e-1efc-4871-a931-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "新北市",
+                "lft": "97",
+                "rght": "122",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c40093-1d90-48f8-973d-6cceacb5b862",
+                "parent_id": "53c0207e-1efc-4871-a931-5c5aacb5b862",
+                "name": "第01選區[區域]",
+                "lft": "98",
+                "rght": "99",
+                "population": "231343",
+                "population_electors": "187543",
+                "quota": "4",
+                "quota_women": "1",
+                "bulletin_key": "5469b450-88cc-41b1-8684-74a5cf91e152",
+                "keywords": "2014-11,直轄市議員,新北市,第01選區[區域]"
+            }
+        }
+    ]
+}

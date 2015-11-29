@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c0288f-2014-48d2-b715-5dffacb5b862",
+            "election_id": "53c0231b-e770-4f5e-b38d-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "0",
+            "vote_count": "0",
+            "name": "程澎澎",
+            "image": null,
+            "party": null,
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": null,
+            "no": "0",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "0000-00-00 00:00:00"
+        },
+        "Election": {
+            "id": "53c0231b-e770-4f5e-b38d-5c5aacb5b862",
+            "population_electors": "3771",
+            "population": "5151",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546b0806-c3a0-4dac-b80f-2ff0cf91e152",
+            "Area": [
+                {
+                    "id": "53c01dea-4fa4-446a-91e9-5460acb5b862",
+                    "name": "武功里",
+                    "AreasElection": {
+                        "id": "53c0231b-465c-4bd8-bd17-5c5aacb5b862",
+                        "Election_id": "53c0231b-e770-4f5e-b38d-5c5aacb5b862",
+                        "Area_id": "53c01dea-4fa4-446a-91e9-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02315-1360-4e37-94d3-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新竹市",
+                "lft": "10013",
+                "rght": "10264",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02315-8c84-4b8b-86c3-5c5aacb5b862",
+                "parent_id": "53c02315-1360-4e37-94d3-5c5aacb5b862",
+                "name": "東區",
+                "lft": "10014",
+                "rght": "10121",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0231b-e770-4f5e-b38d-5c5aacb5b862",
+                "parent_id": "53c02315-8c84-4b8b-86c3-5c5aacb5b862",
+                "name": "武功里",
+                "lft": "10057",
+                "rght": "10058",
+                "population": "5151",
+                "population_electors": "3771",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546b0806-c3a0-4dac-b80f-2ff0cf91e152",
+                "keywords": "2014-11,村里長,新竹市,東區,武功里"
+            }
+        }
+    ]
+}

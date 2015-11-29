@@ -1,0 +1,139 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b55c3-d46c-4cdb-afd2-1926acb5b862",
+            "election_id": "53c02280-4918-4fa2-92a9-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "501",
+            "name": "邱永光",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1958-06-21",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:43:15",
+            "modified": "2015-02-08 23:45:16"
+        },
+        "Election": {
+            "id": "53c02280-4918-4fa2-92a9-5c5aacb5b862",
+            "population_electors": "1415",
+            "population": "1663",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54773ba1-f6f8-40e7-b6c8-1915cf91e152",
+            "Area": [
+                {
+                    "id": "53c01d68-894c-4a16-9809-5460acb5b862",
+                    "name": "復興村",
+                    "AreasElection": {
+                        "id": "53c02280-62c0-40f7-80c9-5c5aacb5b862",
+                        "Election_id": "53c02280-4918-4fa2-92a9-5c5aacb5b862",
+                        "Area_id": "53c01d68-894c-4a16-9809-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54ab2c8d-c50c-4d91-9b43-2a946ab936af",
+                "name": "2014當選無效之訴-屏東縣",
+                "CandidatesTag": {
+                    "id": "54ab2cc2-1fa4-45ec-b4ab-2aaa6ab936af",
+                    "Candidate_id": "540b55c3-d46c-4cdb-afd2-1926acb5b862",
+                    "Tag_id": "54ab2c8d-c50c-4d91-9b43-2a946ab936af"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "7771",
+                "rght": "8766",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0227f-cf00-4020-bada-5c5aacb5b862",
+                "parent_id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "name": "長治鄉",
+                "lft": "8122",
+                "rght": "8155",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02280-4918-4fa2-92a9-5c5aacb5b862",
+                "parent_id": "53c0227f-cf00-4020-bada-5c5aacb5b862",
+                "name": "復興村",
+                "lft": "8135",
+                "rght": "8136",
+                "population": "1663",
+                "population_electors": "1415",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54773ba1-f6f8-40e7-b6c8-1915cf91e152",
+                "keywords": "2014-11,村里長,屏東縣,長治鄉,復興村"
+            }
+        }
+    ]
+}

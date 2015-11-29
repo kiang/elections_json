@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c027ac-b844-4e57-befa-5dffacb5b862",
+            "election_id": "53c02152-39c0-4300-8e33-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "281",
+            "name": "許松宏",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "專科",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1954-01-18",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:44:36"
+        },
+        "Election": {
+            "id": "53c02152-39c0-4300-8e33-5c5aacb5b862",
+            "population_electors": "681",
+            "population": "805",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546d8dba-e6b0-4d0a-8b7d-0e51cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c69-b5e8-458e-b9ce-5460acb5b862",
+                    "name": "南湖村",
+                    "AreasElection": {
+                        "id": "53c02152-ecec-49d1-91fa-5c5aacb5b862",
+                        "Election_id": "53c02152-39c0-4300-8e33-5c5aacb5b862",
+                        "Area_id": "53c01c69-b5e8-458e-b9ce-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02135-5cc8-4f9d-a971-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "苗栗縣",
+                "lft": "3831",
+                "rght": "4416",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02150-4ee4-4a2a-b413-5c5aacb5b862",
+                "parent_id": "53c02135-5cc8-4f9d-a971-5c5aacb5b862",
+                "name": "大湖鄉",
+                "lft": "4182",
+                "rght": "4207",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02152-39c0-4300-8e33-5c5aacb5b862",
+                "parent_id": "53c02150-4ee4-4a2a-b413-5c5aacb5b862",
+                "name": "南湖村",
+                "lft": "4197",
+                "rght": "4198",
+                "population": "805",
+                "population_electors": "681",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546d8dba-e6b0-4d0a-8b7d-0e51cf91e152",
+                "keywords": "2014-11,村里長,苗栗縣,大湖鄉,南湖村"
+            }
+        }
+    ]
+}

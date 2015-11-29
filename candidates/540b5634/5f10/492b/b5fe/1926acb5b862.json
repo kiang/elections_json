@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5634-5f10-492b-b5fe-1926acb5b862",
+            "election_id": "53c022cb-bce4-4b85-8450-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "153",
+            "name": "曾佑雄",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1973-08-03",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:45:08",
+            "modified": "2015-02-08 23:45:25"
+        },
+        "Election": {
+            "id": "53c022cb-bce4-4b85-8450-5c5aacb5b862",
+            "population_electors": "1087",
+            "population": "1469",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546f277f-8708-454b-8e5f-2f28cf91e152",
+            "Area": [
+                {
+                    "id": "53c01da9-1bf0-4331-a9b4-5460acb5b862",
+                    "name": "東清村",
+                    "AreasElection": {
+                        "id": "53c022cb-9c78-4f31-b59f-5c5aacb5b862",
+                        "Election_id": "53c022cb-bce4-4b85-8450-5c5aacb5b862",
+                        "Area_id": "53c01da9-1bf0-4331-a9b4-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022b2-b9f0-4517-825f-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺東縣",
+                "lft": "8767",
+                "rght": "9094",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022cb-c47c-4915-a96e-5c5aacb5b862",
+                "parent_id": "53c022b2-b9f0-4517-825f-5c5aacb5b862",
+                "name": "蘭嶼鄉",
+                "lft": "9084",
+                "rght": "9093",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022cb-bce4-4b85-8450-5c5aacb5b862",
+                "parent_id": "53c022cb-c47c-4915-a96e-5c5aacb5b862",
+                "name": "東清村",
+                "lft": "9087",
+                "rght": "9088",
+                "population": "1469",
+                "population_electors": "1087",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546f277f-8708-454b-8e5f-2f28cf91e152",
+                "keywords": "2014-11,村里長,臺東縣,蘭嶼鄉,東清村"
+            }
+        }
+    ]
+}

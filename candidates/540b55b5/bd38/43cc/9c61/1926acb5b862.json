@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b55b5-bd38-43cc-9c61-1926acb5b862",
+            "election_id": "53c0226c-5534-47e1-9b33-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "643",
+            "name": "楊義光",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1944-11-12",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:43:01",
+            "modified": "2015-02-08 23:45:14"
+        },
+        "Election": {
+            "id": "53c0226c-5534-47e1-9b33-5c5aacb5b862",
+            "population_electors": "1888",
+            "population": "2300",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54773ba1-2950-454e-b888-1915cf91e152",
+            "Area": [
+                {
+                    "id": "53c01d57-0f48-47ac-b957-5460acb5b862",
+                    "name": "長安里",
+                    "AreasElection": {
+                        "id": "53c0226c-ffa8-4d24-b1ae-5c5aacb5b862",
+                        "Election_id": "53c0226c-5534-47e1-9b33-5c5aacb5b862",
+                        "Area_id": "53c01d57-0f48-47ac-b957-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "7771",
+                "rght": "8766",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02265-2468-4454-be9d-5c5aacb5b862",
+                "parent_id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "name": "屏東市",
+                "lft": "7772",
+                "rght": "7931",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0226c-5534-47e1-9b33-5c5aacb5b862",
+                "parent_id": "53c02265-2468-4454-be9d-5c5aacb5b862",
+                "name": "長安里",
+                "lft": "7869",
+                "rght": "7870",
+                "population": "2300",
+                "population_electors": "1888",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54773ba1-2950-454e-b888-1915cf91e152",
+                "keywords": "2014-11,村里長,屏東縣,屏東市,長安里"
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b54fa-8f08-4209-b654-1926acb5b862",
+            "election_id": "53c02171-adc4-4f7d-be4f-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "58",
+            "name": "許惠華",
+            "image": "545a2bd0\/cce4\/406f\/872f\/143a8e043389.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "f",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1952-07-12",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:39:54",
+            "modified": "2015-02-08 23:44:40"
+        },
+        "Election": {
+            "id": "53c02171-adc4-4f7d-be4f-5c5aacb5b862",
+            "population_electors": "2465",
+            "population": "3262",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-a668-4c6a-a8ac-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c85-c2c0-4805-b909-5460acb5b862",
+                    "name": "頭崙里",
+                    "AreasElection": {
+                        "id": "53c02171-3a68-442e-8220-5c5aacb5b862",
+                        "Election_id": "53c02171-adc4-4f7d-be4f-5c5aacb5b862",
+                        "Area_id": "53c01c85-c2c0-4805-b909-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "4417",
+                "rght": "5648",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0216d-4580-46df-876a-5c5aacb5b862",
+                "parent_id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "name": "鹿港鎮",
+                "lft": "4566",
+                "rght": "4625",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02171-adc4-4f7d-be4f-5c5aacb5b862",
+                "parent_id": "53c0216d-4580-46df-876a-5c5aacb5b862",
+                "name": "頭崙里",
+                "lft": "4609",
+                "rght": "4610",
+                "population": "3262",
+                "population_electors": "2465",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-a668-4c6a-a8ac-74a5cf91e152",
+                "keywords": "2014-11,村里長,彰化縣,鹿港鎮,頭崙里"
+            }
+        }
+    ]
+}

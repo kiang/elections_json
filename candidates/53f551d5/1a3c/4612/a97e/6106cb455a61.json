@@ -1,0 +1,139 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53f551d5-1a3c-4612-a97e-6106cb455a61",
+            "election_id": "53c02474-c1bc-44f3-adf8-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "0",
+            "vote_count": "0",
+            "name": "許志賢",
+            "image": "53ff5db5\/fe34\/43a1\/9486\/1e70cb455a61.jpg",
+            "party": "",
+            "contacts_phone": "0986641891",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "0",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": "0000-00-00",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-08-21 09:56:37",
+            "modified": "2014-08-29 11:53:12"
+        },
+        "Election": {
+            "id": "53c02474-c1bc-44f3-adf8-5c5aacb5b862",
+            "population_electors": "5362",
+            "population": "6521",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54704b05-fd7c-4fed-bc06-1495cf91e152",
+            "Area": [
+                {
+                    "id": "53c01ece-5aa8-44b3-8994-5460acb5b862",
+                    "name": "埔墘里",
+                    "AreasElection": {
+                        "id": "53c02474-fff8-483c-82c0-5c5aacb5b862",
+                        "Election_id": "53c02474-c1bc-44f3-adf8-5c5aacb5b862",
+                        "Area_id": "53c01ece-5aa8-44b3-8994-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "5413037f-7514-40be-8e73-7204cb455a61",
+                "name": "2014大家來選村里長啟航秀",
+                "CandidatesTag": {
+                    "id": "541303b3-75e4-4952-a49f-7204cb455a61",
+                    "Candidate_id": "53f551d5-1a3c-4612-a97e-6106cb455a61",
+                    "Tag_id": "5413037f-7514-40be-8e73-7204cb455a61"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新北市",
+                "lft": "14261",
+                "rght": "16384",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0246c-3a14-4586-8271-5c5aacb5b862",
+                "parent_id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "name": "板橋區",
+                "lft": "14262",
+                "rght": "14515",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02474-c1bc-44f3-adf8-5c5aacb5b862",
+                "parent_id": "53c0246c-3a14-4586-8271-5c5aacb5b862",
+                "name": "埔墘里",
+                "lft": "14359",
+                "rght": "14360",
+                "population": "6521",
+                "population_electors": "5362",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54704b05-fd7c-4fed-bc06-1495cf91e152",
+                "keywords": "2014-11,村里長,新北市,板橋區,埔墘里"
+            }
+        }
+    ]
+}

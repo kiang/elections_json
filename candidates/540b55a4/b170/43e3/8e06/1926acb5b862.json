@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b55a4-b170-43e3-8e06-1926acb5b862",
+            "election_id": "53c02255-8a30-4ac5-94aa-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "600",
+            "name": "張石彈",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1954-05-04",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:42:44",
+            "modified": "2015-02-08 23:45:11"
+        },
+        "Election": {
+            "id": "53c02255-8a30-4ac5-94aa-5c5aacb5b862",
+            "population_electors": "1374",
+            "population": "1729",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-3678-46a3-aae6-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01d43-ca94-4e5d-8d12-5460acb5b862",
+                    "name": "金蘭村",
+                    "AreasElection": {
+                        "id": "53c02255-a90c-4284-bd97-5c5aacb5b862",
+                        "Election_id": "53c02255-8a30-4ac5-94aa-5c5aacb5b862",
+                        "Area_id": "53c01d43-ca94-4e5d-8d12-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0222a-d5c0-465f-849c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "嘉義縣",
+                "lft": "7019",
+                "rght": "7770",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02254-4e34-47e2-9345-5c5aacb5b862",
+                "parent_id": "53c0222a-d5c0-465f-849c-5c5aacb5b862",
+                "name": "中埔鄉",
+                "lft": "7574",
+                "rght": "7619",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02255-8a30-4ac5-94aa-5c5aacb5b862",
+                "parent_id": "53c02254-4e34-47e2-9345-5c5aacb5b862",
+                "name": "金蘭村",
+                "lft": "7589",
+                "rght": "7590",
+                "population": "1729",
+                "population_electors": "1374",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-3678-46a3-aae6-2adbcf91e152",
+                "keywords": "2014-11,村里長,嘉義縣,中埔鄉,金蘭村"
+            }
+        }
+    ]
+}

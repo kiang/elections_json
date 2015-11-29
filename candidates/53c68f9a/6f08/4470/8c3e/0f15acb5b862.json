@@ -1,0 +1,133 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c68f9a-6f08-4470-8c3e-0f15acb5b862",
+            "election_id": "53c40085-dd50-4cf2-9c73-6cceacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "18223",
+            "name": "吳世正",
+            "image": "5433eef1\/fba4\/456b\/bfb8\/3e91cb455a61.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "02-27297708",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "110台北市信義區仁愛路四段507號606室",
+            "links": "\\n臉書 http:\/\/www.facebook.com\/daochingcw",
+            "gender": "m",
+            "no": "12",
+            "education_level": "碩士",
+            "is_present": true,
+            "name_english": "Wu Shih Cheng",
+            "birth_place": "臺灣省",
+            "birth": "1963-04-11",
+            "platform": "",
+            "education": "美國紐約州立大學石溪分校管理所碩士  國立政治大學政治學系學士、政治研究所碩士  建國中學  介壽國中  民生國小",
+            "experience": "第8、9、10、11屆臺北市議員  步兵排長  中華電視臺記（1988-1989）  企管顧問公司企劃部經理（1991-1993）  中國電視公司記者及主播（1993-1998）  臺北市體育總會手球協會理事長  內湖區體育會跆拳道委員會主委",
+            "created": "2014-07-16 22:43:38",
+            "modified": "2015-02-08 23:40:13"
+        },
+        "Election": {
+            "id": "53c40085-dd50-4cf2-9c73-6cceacb5b862",
+            "population_electors": "321003",
+            "population": "405511",
+            "quota": "9",
+            "quota_women": "2",
+            "bulletin_key": "5469b450-5f1c-4577-83d3-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01e30-5c3c-4271-b52e-5460acb5b862",
+                    "name": "南港區",
+                    "AreasElection": {
+                        "id": "53c406db-334c-418d-9ca9-6dacacb5b862",
+                        "Election_id": "53c40085-dd50-4cf2-9c73-6cceacb5b862",
+                        "Area_id": "53c01e30-5c3c-4271-b52e-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01e34-1ba0-4525-8730-5460acb5b862",
+                    "name": "內湖區",
+                    "AreasElection": {
+                        "id": "53c406db-2fd0-4c2b-95ae-6dacacb5b862",
+                        "Election_id": "53c40085-dd50-4cf2-9c73-6cceacb5b862",
+                        "Area_id": "53c01e34-1ba0-4525-8730-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54df7334-51d0-4472-ad36-6c676ab936af",
+                "name": "2014當選隨即目標轉向立委",
+                "CandidatesTag": {
+                    "id": "55180a95-a62c-4125-903c-12916ab936af",
+                    "Candidate_id": "53c68f9a-6f08-4470-8c3e-0f15acb5b862",
+                    "Tag_id": "54df7334-51d0-4472-ad36-6c676ab936af"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207e-df00-40ad-b2bd-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "臺北市",
+                "lft": "47",
+                "rght": "64",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c40085-dd50-4cf2-9c73-6cceacb5b862",
+                "parent_id": "53c0207e-df00-40ad-b2bd-5c5aacb5b862",
+                "name": "第02選區[區域]",
+                "lft": "50",
+                "rght": "51",
+                "population": "405511",
+                "population_electors": "321003",
+                "quota": "9",
+                "quota_women": "2",
+                "bulletin_key": "5469b450-5f1c-4577-83d3-74a5cf91e152",
+                "keywords": "2014-11,直轄市議員,臺北市,第02選區[區域]"
+            }
+        }
+    ]
+}

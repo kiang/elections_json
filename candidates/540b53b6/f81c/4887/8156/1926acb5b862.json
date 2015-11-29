@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b53b6-f81c-4887-8156-1926acb5b862",
+            "election_id": "53c02386-346c-4430-ab27-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "653",
+            "name": "姜仁新",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "CHIANG JEN HSIN",
+            "birth_place": "臺灣省",
+            "birth": "1952-02-20",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:34:30",
+            "modified": "2015-02-08 23:41:48"
+        },
+        "Election": {
+            "id": "53c02386-346c-4430-ab27-5c5aacb5b862",
+            "population_electors": "1462",
+            "population": "1852",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068e-e990-4ee7-b0cf-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c35-87a8-4c26-b9dc-5460acb5b862",
+                    "name": "坑尾里",
+                    "AreasElection": {
+                        "id": "53c02386-1658-4d5e-91be-5c5aacb5b862",
+                        "Election_id": "53c02386-346c-4430-ab27-5c5aacb5b862",
+                        "Area_id": "53c01c35-87a8-4c26-b9dc-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "桃園市",
+                "lft": "10439",
+                "rght": "11456",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02384-8fe4-46d8-ae61-5c5aacb5b862",
+                "parent_id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "name": "觀音區",
+                "lft": "11384",
+                "rght": "11433",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02386-346c-4430-ab27-5c5aacb5b862",
+                "parent_id": "53c02384-8fe4-46d8-ae61-5c5aacb5b862",
+                "name": "坑尾里",
+                "lft": "11409",
+                "rght": "11410",
+                "population": "1852",
+                "population_electors": "1462",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068e-e990-4ee7-b0cf-1a32cf91e152",
+                "keywords": "2014-11,村里長,桃園市,觀音區,坑尾里"
+            }
+        }
+    ]
+}

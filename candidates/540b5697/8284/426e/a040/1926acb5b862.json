@@ -1,0 +1,125 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5697-8284-426e-a040-1926acb5b862",
+            "election_id": "53c4008b-bbcc-430c-8dc6-6cceacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "30571",
+            "name": "李柏毅",
+            "image": "5489952b\/305c\/41d6\/9228\/2ea56ab936af.jpg",
+            "party": "民主進步黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "臉書 http:\/\/www.facebook.com\/po2014",
+            "gender": "m",
+            "no": "9",
+            "education_level": "碩士",
+            "is_present": false,
+            "name_english": "Lee Po Yi",
+            "birth_place": "高雄市",
+            "birth": "1977-04-08",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:46:47",
+            "modified": "2015-02-08 23:40:22"
+        },
+        "Election": {
+            "id": "53c4008b-bbcc-430c-8dc6-6cceacb5b862",
+            "population_electors": "288897",
+            "population": "373909",
+            "quota": "8",
+            "quota_women": "2",
+            "bulletin_key": "546eb720-2240-43c6-a6f6-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01e55-f0d0-477b-afa5-5460acb5b862",
+                    "name": "左營區",
+                    "AreasElection": {
+                        "id": "53c406de-a59c-4146-aa25-6dacacb5b862",
+                        "Election_id": "53c4008b-bbcc-430c-8dc6-6cceacb5b862",
+                        "Area_id": "53c01e55-f0d0-477b-afa5-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01e5a-cb6c-4270-9baa-5460acb5b862",
+                    "name": "楠梓區",
+                    "AreasElection": {
+                        "id": "53c406de-8428-4d97-9a83-6dacacb5b862",
+                        "Election_id": "53c4008b-bbcc-430c-8dc6-6cceacb5b862",
+                        "Area_id": "53c01e5a-cb6c-4270-9baa-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207e-117c-4e21-88cf-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "高雄市",
+                "lft": "65",
+                "rght": "96",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c4008b-bbcc-430c-8dc6-6cceacb5b862",
+                "parent_id": "53c0207e-117c-4e21-88cf-5c5aacb5b862",
+                "name": "第04選區[區域]",
+                "lft": "72",
+                "rght": "73",
+                "population": "373909",
+                "population_electors": "288897",
+                "quota": "8",
+                "quota_women": "2",
+                "bulletin_key": "546eb720-2240-43c6-a6f6-2adbcf91e152",
+                "keywords": "2014-11,直轄市議員,高雄市,第04選區[區域]"
+            }
+        }
+    ]
+}

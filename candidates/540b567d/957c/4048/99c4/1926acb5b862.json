@@ -1,0 +1,133 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b567d-957c-4048-99c4-1926acb5b862",
+            "election_id": "53c40087-5ba0-4f8c-8c1b-6cceacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "2887",
+            "name": "陳蓋武",
+            "image": "54367ef5\/66e8\/497f\/bcdd\/2997cb455a61.jpg",
+            "party": "親民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "\\n臉書 http:\/\/www.facebook.com\/ckw.pfp\\n臉書 http:\/\/www.facebook.com\/pfp.ckw",
+            "gender": "m",
+            "no": "14",
+            "education_level": "碩士",
+            "is_present": false,
+            "name_english": "Chen Kai Wu",
+            "birth_place": "臺灣省",
+            "birth": "1974-04-19",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:46:21",
+            "modified": "2015-02-08 23:40:14"
+        },
+        "Election": {
+            "id": "53c40087-5ba0-4f8c-8c1b-6cceacb5b862",
+            "population_electors": "288709",
+            "population": "357449",
+            "quota": "8",
+            "quota_women": "2",
+            "bulletin_key": "5469b450-7c04-4a1d-a05c-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01e1e-bd54-4968-a434-5460acb5b862",
+                    "name": "中正區",
+                    "AreasElection": {
+                        "id": "53c406dc-88b4-4878-8390-6dacacb5b862",
+                        "Election_id": "53c40087-5ba0-4f8c-8c1b-6cceacb5b862",
+                        "Area_id": "53c01e1e-bd54-4968-a434-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01e25-b984-45a0-8172-5460acb5b862",
+                    "name": "萬華區",
+                    "AreasElection": {
+                        "id": "53c406dc-abd8-40e7-a7e0-6dacacb5b862",
+                        "Election_id": "53c40087-5ba0-4f8c-8c1b-6cceacb5b862",
+                        "Area_id": "53c01e25-b984-45a0-8172-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54130d54-9e9c-4000-a3b7-79a1cb455a61",
+                "name": "2014親民黨",
+                "CandidatesTag": {
+                    "id": "54130d6d-7348-4a10-8704-79a1cb455a61",
+                    "Candidate_id": "540b567d-957c-4048-99c4-1926acb5b862",
+                    "Tag_id": "54130d54-9e9c-4000-a3b7-79a1cb455a61"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207e-df00-40ad-b2bd-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "臺北市",
+                "lft": "47",
+                "rght": "64",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c40087-5ba0-4f8c-8c1b-6cceacb5b862",
+                "parent_id": "53c0207e-df00-40ad-b2bd-5c5aacb5b862",
+                "name": "第05選區[區域]",
+                "lft": "56",
+                "rght": "57",
+                "population": "357449",
+                "population_electors": "288709",
+                "quota": "8",
+                "quota_women": "2",
+                "bulletin_key": "5469b450-7c04-4a1d-a05c-74a5cf91e152",
+                "keywords": "2014-11,直轄市議員,臺北市,第05選區[區域]"
+            }
+        }
+    ]
+}

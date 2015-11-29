@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5565-8078-4c78-b3a0-1926acb5b862",
+            "election_id": "53c02204-ad60-439e-8459-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "630",
+            "name": "蔡清泉",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1958-04-06",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:41:41",
+            "modified": "2015-02-08 23:45:02"
+        },
+        "Election": {
+            "id": "53c02204-ad60-439e-8459-5c5aacb5b862",
+            "population_electors": "1627",
+            "population": "1968",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546ebce3-a620-4566-a8b5-2b96cf91e152",
+            "Area": [
+                {
+                    "id": "53c01cfc-2444-4ca5-94cf-5460acb5b862",
+                    "name": "好收里",
+                    "AreasElection": {
+                        "id": "53c02204-8d14-4dac-98d9-5c5aacb5b862",
+                        "Election_id": "53c02204-ad60-439e-8459-5c5aacb5b862",
+                        "Area_id": "53c01cfc-2444-4ca5-94cf-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "6201",
+                "rght": "7018",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02201-dd10-406f-b04b-5c5aacb5b862",
+                "parent_id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "name": "北港鎮",
+                "lft": "6478",
+                "rght": "6535",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02204-ad60-439e-8459-5c5aacb5b862",
+                "parent_id": "53c02201-dd10-406f-b04b-5c5aacb5b862",
+                "name": "好收里",
+                "lft": "6525",
+                "rght": "6526",
+                "population": "1968",
+                "population_electors": "1627",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546ebce3-a620-4566-a8b5-2b96cf91e152",
+                "keywords": "2014-11,村里長,雲林縣,北港鎮,好收里"
+            }
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "563715e0-8410-47b3-bbe8-2f596ab936af",
+            "election_id": "5508642a-7e4c-41bf-a0cd-23d86ab936af",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "0",
+            "name": "綠黨社會民主黨聯盟",
+            "image": "56374d6e\/80fc\/4e17\/80f3\/2f616ab936af.jpg",
+            "party": "綠黨社會民主黨聯盟",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": null,
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2015-11-02 15:50:56",
+            "modified": "2015-11-29 03:28:35"
+        },
+        "Election": {
+            "id": "5508642a-7e4c-41bf-a0cd-23d86ab936af",
+            "population_electors": "0",
+            "population": "0",
+            "quota": "34",
+            "quota_women": "17",
+            "bulletin_key": null,
+            "Area": [
+                {
+                    "id": "55085939-13ec-4d1e-9ac1-3584acb5b862",
+                    "name": "2016",
+                    "AreasElection": {
+                        "id": "550a385e-3188-4439-833a-47cc6ab936af",
+                        "Election_id": "5508642a-7e4c-41bf-a0cd-23d86ab936af",
+                        "Area_id": "55085939-13ec-4d1e-9ac1-3584acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "55085db5-2e9c-4cde-8103-23d86ab936af",
+                "parent_id": null,
+                "name": "2016-01",
+                "lft": "40579",
+                "rght": "40780",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "55085e1a-c494-40e0-ba31-2f916ab936af",
+                "parent_id": "55085db5-2e9c-4cde-8103-23d86ab936af",
+                "name": "立法委員",
+                "lft": "40582",
+                "rght": "40779",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "5508642a-7e4c-41bf-a0cd-23d86ab936af",
+                "parent_id": "55085e1a-c494-40e0-ba31-2f916ab936af",
+                "name": "全國[不分區政黨]",
+                "lft": "40777",
+                "rght": "40778",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "34",
+                "quota_women": "17",
+                "bulletin_key": null,
+                "keywords": "2016-01,立法委員,全國[不分區政黨]"
+            }
+        }
+    ]
+}

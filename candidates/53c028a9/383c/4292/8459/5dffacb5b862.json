@@ -1,0 +1,109 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c028a9-383c-4292-8459-5dffacb5b862",
+            "election_id": "53c0207b-ab3c-4808-bb79-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "492414",
+            "name": "鄭文燦",
+            "image": "5613cc4e\/0d44\/40db\/ab44\/64046ab936af.jpg",
+            "party": "民主進步黨",
+            "contacts_phone": "[競選辦公室]03-335-7255",
+            "contacts_fax": "[競選辦公室傳真]03-335-2611",
+            "contacts_email": "[候選人]chengwentsan@gmail.com",
+            "contacts_address": "[競選辦公室]桃園縣桃園市自強路224號",
+            "links": "鄭文燦臉書粉絲專頁 https:\/\/www.facebook.com\/chengwentsan\\n臉書 http:\/\/www.facebook.com\/chengwentsan\\n鄉民訪談 http:\/\/www.ptt.cc\/bbs\/PublicIssue\/M.1413797884.A.618.html\\n競選首頁 http:\/\/www.chengwentsan.com.tw",
+            "gender": "m",
+            "no": "1",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": "1967-07-06",
+            "platform": "警消人力超勤津貼\\n30幾個都市計畫要整合為一個「大桃園市」的都市計畫\\n每一個分區都應該發展特色，能夠讓城鄉平衡\\n比照雙北由中央編列百分之八十五的預算，把綠線捷運完成\\n台鐵地下化\\n65歲以上老人健保費由政府負擔\\n生育津貼，每胎三萬塊\\n3歲以下發放3千塊育兒津貼\\n托兒育嬰中心應該普設，親子館也應該要普設\\n興建社會住宅\\n老街溪、南崁溪能夠推動全流域整治，能夠讓下水道的接管率提高\\n航空城計畫透明化\\n",
+            "education": "大安國小\\n八德國中\\n建國中學\\n台灣大學電機系\\n台灣大學社會系\\n台灣大學國家發展研究所碩士",
+            "experience": "台灣大學學生會副會長\\n桃園縣議員\\n民主進步黨文宣部主任\\n行政院新聞局局長\\n行政院發言人\\n海基會副秘書長\\n2004年、2008年總統大選發言人",
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-10-06 21:32:33"
+        },
+        "Election": {
+            "id": "53c0207b-ab3c-4808-bb79-5c5aacb5b862",
+            "population_electors": "1575900",
+            "population": "2054260",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-ef98-432d-be0d-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01bf7-57f0-4e3e-bbb6-5460acb5b862",
+                    "name": "桃園市",
+                    "AreasElection": {
+                        "id": "53c0207b-ce18-4c3e-aba4-5c5aacb5b862",
+                        "Election_id": "53c0207b-ab3c-4808-bb79-5c5aacb5b862",
+                        "Area_id": "53c01bf7-57f0-4e3e-bbb6-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54619d23-ee3c-422d-83a8-08ce8e043389",
+                "name": "2014鄉民參政行動聯盟訪談",
+                "CandidatesTag": {
+                    "id": "54660c51-b53c-4aa7-b191-5cd08e043389",
+                    "Candidate_id": "53c028a9-383c-4292-8459-5dffacb5b862",
+                    "Tag_id": "54619d23-ee3c-422d-83a8-08ce8e043389"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202e-ed38-44bb-8e78-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市長",
+                "lft": "2",
+                "rght": "15",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207b-ab3c-4808-bb79-5c5aacb5b862",
+                "parent_id": "53c0202e-ed38-44bb-8e78-5460acb5b862",
+                "name": "桃園市",
+                "lft": "3",
+                "rght": "4",
+                "population": "2054260",
+                "population_electors": "1575900",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-ef98-432d-be0d-1a32cf91e152",
+                "keywords": "2014-11,直轄市長,桃園市"
+            }
+        }
+    ]
+}

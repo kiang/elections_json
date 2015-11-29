@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02861-4d88-418a-aa44-5dffacb5b862",
+            "election_id": "53c022ba-8be4-4368-a8d6-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "0",
+            "vote_count": "0",
+            "name": "王信隆",
+            "image": null,
+            "party": null,
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": null,
+            "no": "0",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "0000-00-00 00:00:00"
+        },
+        "Election": {
+            "id": "53c022ba-8be4-4368-a8d6-5c5aacb5b862",
+            "population_electors": "1397",
+            "population": "1679",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546f277f-75b0-4dac-9c83-2f28cf91e152",
+            "Area": [
+                {
+                    "id": "53c01d9b-69d0-4b79-b601-5460acb5b862",
+                    "name": "三仙里",
+                    "AreasElection": {
+                        "id": "53c022ba-8ba0-4f70-921a-5c5aacb5b862",
+                        "Election_id": "53c022ba-8be4-4368-a8d6-5c5aacb5b862",
+                        "Area_id": "53c01d9b-69d0-4b79-b601-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022b2-b9f0-4517-825f-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺東縣",
+                "lft": "8767",
+                "rght": "9094",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022b9-5f64-4a6c-b03e-5c5aacb5b862",
+                "parent_id": "53c022b2-b9f0-4517-825f-5c5aacb5b862",
+                "name": "成功鎮",
+                "lft": "8862",
+                "rght": "8879",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022ba-8be4-4368-a8d6-5c5aacb5b862",
+                "parent_id": "53c022b9-5f64-4a6c-b03e-5c5aacb5b862",
+                "name": "三仙里",
+                "lft": "8865",
+                "rght": "8866",
+                "population": "1679",
+                "population_electors": "1397",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546f277f-75b0-4dac-9c83-2f28cf91e152",
+                "keywords": "2014-11,村里長,臺東縣,成功鎮,三仙里"
+            }
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b533a-83f4-4245-b65a-1926acb5b862",
+            "election_id": "53c024a4-bc74-4a1f-881e-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "67",
+            "name": "李易靜",
+            "image": null,
+            "party": "人民民主陣線",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "https:\/\/www.facebook.com\/profile.php?id=100000591984603&amp;fref=ts\\n\\nhttps:\/\/www.facebook.com\/pages\/%E6%B0%B8%E5%92%8C%E4%BA%BA%E6%B0%91%E5%8F%83%E6%94%BF-%E8%80%81%E5%A4%A7%E5%8F%83%E9%81%B8-%E6%B0%91%E9%99%A3-%E9%9B%99%E5%92%8C%E5%B7%A5%E4%BD%9C%E7%AB%99\/168689576494926?fref=ts",
+            "gender": "f",
+            "no": "4",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "新北市",
+            "birth": "1961-09-25",
+            "platform": "1. 推動里民政治參與，以「里」作為基層地方自治單位，組織里民進行『事務共決會議』：里民共同討論年度計畫、共同編列經費用途。\\n\\n2. 『社區共生互助網』: 工作太忙沒空管孩子只能讓他打電腦？長輩孤單在家缺乏陪伴？照顧身心障礙的家人，需要喘息？被要求加班總是錯過倒垃圾時間？一個人住想煮菜，但買菜總是放在冰箱等著壞掉？想參與社區服務不知從哪開始？調查社區生活的各種難題與需求，我們主張以里民活動中心為據點，推動社區共生、互助合作。",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:32:26",
+            "modified": "2015-02-08 23:40:59"
+        },
+        "Election": {
+            "id": "53c024a4-bc74-4a1f-881e-5c5aacb5b862",
+            "population_electors": "3022",
+            "population": "3710",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-c45c-4e0f-abf1-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01f00-46c0-4be0-bd86-5460acb5b862",
+                    "name": "永貞里",
+                    "AreasElection": {
+                        "id": "53c024a4-bb20-4ce4-8114-5c5aacb5b862",
+                        "Election_id": "53c024a4-bc74-4a1f-881e-5c5aacb5b862",
+                        "Area_id": "53c01f00-46c0-4be0-bd86-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54130e32-8348-4521-9e6a-799ccb455a61",
+                "name": "2014人民民主陣線",
+                "CandidatesTag": {
+                    "id": "54130e9e-b4f0-46df-8782-79a1cb455a61",
+                    "Candidate_id": "540b533a-83f4-4245-b65a-1926acb5b862",
+                    "Tag_id": "54130e32-8348-4521-9e6a-799ccb455a61"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新北市",
+                "lft": "14261",
+                "rght": "16384",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c024a3-a5b8-4809-908e-5c5aacb5b862",
+                "parent_id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "name": "永和區",
+                "lft": "14944",
+                "rght": "15069",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c024a4-bc74-4a1f-881e-5c5aacb5b862",
+                "parent_id": "53c024a3-a5b8-4809-908e-5c5aacb5b862",
+                "name": "永貞里",
+                "lft": "14957",
+                "rght": "14958",
+                "population": "3710",
+                "population_electors": "3022",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-c45c-4e0f-abf1-1a32cf91e152",
+                "keywords": "2014-11,村里長,新北市,永和區,永貞里"
+            }
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b56c5-c428-4a29-a1ce-1926acb5b862",
+            "election_id": "53c411dc-654c-4177-8fed-6f55acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "746",
+            "name": "方賢仁",
+            "image": "549971ec\/60cc\/4d6c\/a6c2\/4ba36ab936af.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "7",
+            "education_level": "大學",
+            "is_present": false,
+            "name_english": "FANG HSIENJEN",
+            "birth_place": "臺灣省",
+            "birth": "1956-09-03",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:47:33",
+            "modified": "2015-06-26 23:50:39"
+        },
+        "Election": {
+            "id": "53c411dc-654c-4177-8fed-6f55acb5b862",
+            "population_electors": "83254",
+            "population": "106992",
+            "quota": "3",
+            "quota_women": "2",
+            "bulletin_key": "546f277f-6318-40fa-86f8-2f28cf91e152",
+            "Area": [
+                {
+                    "id": "53c01d95-57a0-4235-a698-5460acb5b862",
+                    "name": "臺東市",
+                    "AreasElection": {
+                        "id": "53c64289-33dc-425e-a50d-72eeacb5b862",
+                        "Election_id": "53c411dc-654c-4177-8fed-6f55acb5b862",
+                        "Area_id": "53c01d95-57a0-4235-a698-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "縣市議員",
+                "lft": "306",
+                "rght": "607",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02084-62a4-4027-a661-5c5aacb5b862",
+                "parent_id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "name": "臺東縣",
+                "lft": "501",
+                "rght": "532",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c411dc-654c-4177-8fed-6f55acb5b862",
+                "parent_id": "53c02084-62a4-4027-a661-5c5aacb5b862",
+                "name": "第07選區[平地]",
+                "lft": "512",
+                "rght": "513",
+                "population": "106992",
+                "population_electors": "83254",
+                "quota": "3",
+                "quota_women": "2",
+                "bulletin_key": "546f277f-6318-40fa-86f8-2f28cf91e152",
+                "keywords": "2014-11,縣市議員,臺東縣,第07選區[平地]"
+            }
+        }
+    ]
+}

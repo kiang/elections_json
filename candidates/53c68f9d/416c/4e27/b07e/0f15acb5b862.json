@@ -1,0 +1,133 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c68f9d-416c-4e27-b07e-0f15acb5b862",
+            "election_id": "53c40087-3c78-4126-a3ae-6cceacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "24348",
+            "name": "李慶元",
+            "image": "564da85a\/9fc8\/409c\/9594\/4a326ab936af.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "02-27297708",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "110台北市信義區仁愛路四段507號623室",
+            "links": "個人臉書 https:\/\/www.facebook.com\/chingyuan.tw\\n",
+            "gender": "m",
+            "no": "22",
+            "education_level": "碩士",
+            "is_present": true,
+            "name_english": "CHING YUAN LEE",
+            "birth_place": "高雄市",
+            "birth": "1958-08-29",
+            "platform": "",
+            "education": "國立臺灣師範大學教育碩士  臺師大社會教育系畢業  國立臺灣師大附中畢業  實踐國中、永建國小畢業",
+            "experience": "第8、9、10、11屆臺北市議員  第三屆國大代表  新聞媒體工作約20年  世新大學、救總職訓班講師  假日市場攤商經驗近八年  臺北市山西同鄉會理事  臺北市警安聯防協會總會榮譽理事長",
+            "created": "2014-07-16 22:43:41",
+            "modified": "2015-11-19 18:46:13"
+        },
+        "Election": {
+            "id": "53c40087-3c78-4126-a3ae-6cceacb5b862",
+            "population_electors": "463337",
+            "population": "586158",
+            "quota": "13",
+            "quota_women": "3",
+            "bulletin_key": "5469b450-8564-4acc-92b7-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01e11-665c-4484-88b0-5460acb5b862",
+                    "name": "大安區",
+                    "AreasElection": {
+                        "id": "53c406dc-df40-4525-816c-6dacacb5b862",
+                        "Election_id": "53c40087-3c78-4126-a3ae-6cceacb5b862",
+                        "Area_id": "53c01e11-665c-4484-88b0-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01e2a-b7c4-4e75-8709-5460acb5b862",
+                    "name": "文山區",
+                    "AreasElection": {
+                        "id": "53c406dc-2b0c-4e86-99fb-6dacacb5b862",
+                        "Election_id": "53c40087-3c78-4126-a3ae-6cceacb5b862",
+                        "Area_id": "53c01e2a-b7c4-4e75-8709-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54df7334-51d0-4472-ad36-6c676ab936af",
+                "name": "2014當選隨即目標轉向立委",
+                "CandidatesTag": {
+                    "id": "551d532b-bd24-4e0e-955a-77736ab936af",
+                    "Candidate_id": "53c68f9d-416c-4e27-b07e-0f15acb5b862",
+                    "Tag_id": "54df7334-51d0-4472-ad36-6c676ab936af"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207e-df00-40ad-b2bd-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "臺北市",
+                "lft": "47",
+                "rght": "64",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c40087-3c78-4126-a3ae-6cceacb5b862",
+                "parent_id": "53c0207e-df00-40ad-b2bd-5c5aacb5b862",
+                "name": "第06選區[區域]",
+                "lft": "58",
+                "rght": "59",
+                "population": "586158",
+                "population_electors": "463337",
+                "quota": "13",
+                "quota_women": "3",
+                "bulletin_key": "5469b450-8564-4acc-92b7-74a5cf91e152",
+                "keywords": "2014-11,直轄市議員,臺北市,第06選區[區域]"
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c0287c-6eec-4ea0-9809-5dffacb5b862",
+            "election_id": "53c022f6-aba4-4205-b168-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "115",
+            "name": "陳志勇",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1953-02-26",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:45:29"
+        },
+        "Election": {
+            "id": "53c022f6-aba4-4205-b168-5c5aacb5b862",
+            "population_electors": "235",
+            "population": "264",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068e-6fcc-440d-8319-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01dca-7800-4afc-9ba7-5460acb5b862",
+                    "name": "岐頭村",
+                    "AreasElection": {
+                        "id": "53c022f6-e0c4-4399-9d19-5c5aacb5b862",
+                        "Election_id": "53c022f6-aba4-4205-b168-5c5aacb5b862",
+                        "Area_id": "53c01dca-7800-4afc-9ba7-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022eb-48d4-448e-b49d-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "澎湖縣",
+                "lft": "9477",
+                "rght": "9682",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022f4-ff88-4dd8-9bf2-5c5aacb5b862",
+                "parent_id": "53c022eb-48d4-448e-b49d-5c5aacb5b862",
+                "name": "白沙鄉",
+                "lft": "9592",
+                "rght": "9623",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022f6-aba4-4205-b168-5c5aacb5b862",
+                "parent_id": "53c022f4-ff88-4dd8-9bf2-5c5aacb5b862",
+                "name": "岐頭村",
+                "lft": "9613",
+                "rght": "9614",
+                "population": "264",
+                "population_electors": "235",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068e-6fcc-440d-8319-1a32cf91e152",
+                "keywords": "2014-11,村里長,澎湖縣,白沙鄉,岐頭村"
+            }
+        }
+    ]
+}

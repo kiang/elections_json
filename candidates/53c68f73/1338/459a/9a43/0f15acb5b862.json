@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c68f73-1338-459a-9a43-0f15acb5b862",
+            "election_id": "53c40379-dfd4-45d2-9366-6d45acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "4990",
+            "name": "許森能",
+            "image": "544114a4\/d5f0\/4015\/9ab9\/4fb98e043389.jpg",
+            "party": "無",
+            "contacts_phone": "03-3192377",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "333桃園縣龜山鄉自強東路152號",
+            "links": "",
+            "gender": "m",
+            "no": "4",
+            "education_level": "大學",
+            "is_present": false,
+            "name_english": "HSU SEN NENG",
+            "birth_place": "臺北市",
+            "birth": "1963-08-15",
+            "platform": "",
+            "education": "銘傳大學公共事務學研究所  碩士",
+            "experience": "龜山鄉第十七、十八屆鄉民代表",
+            "created": "2014-07-16 22:42:59",
+            "modified": "2015-02-08 23:40:27"
+        },
+        "Election": {
+            "id": "53c40379-dfd4-45d2-9366-6d45acb5b862",
+            "population_electors": "110567",
+            "population": "141565",
+            "quota": "4",
+            "quota_women": "1",
+            "bulletin_key": "546e068d-21d8-40c5-bfe9-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c1d-6618-4705-96c2-5460acb5b862",
+                    "name": "龜山區",
+                    "AreasElection": {
+                        "id": "53c40821-3728-4710-932f-6e01acb5b862",
+                        "Election_id": "53c40379-dfd4-45d2-9366-6d45acb5b862",
+                        "Area_id": "53c01c1d-6618-4705-96c2-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207d-ff5c-4dfe-98b5-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "桃園市",
+                "lft": "17",
+                "rght": "46",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c40379-dfd4-45d2-9366-6d45acb5b862",
+                "parent_id": "53c0207d-ff5c-4dfe-98b5-5c5aacb5b862",
+                "name": "第02選區[區域]",
+                "lft": "20",
+                "rght": "21",
+                "population": "141565",
+                "population_electors": "110567",
+                "quota": "4",
+                "quota_women": "1",
+                "bulletin_key": "546e068d-21d8-40c5-bfe9-1a32cf91e152",
+                "keywords": "2014-11,直轄市議員,桃園市,第02選區[區域]"
+            }
+        }
+    ]
+}

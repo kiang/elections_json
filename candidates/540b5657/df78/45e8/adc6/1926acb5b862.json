@@ -1,0 +1,139 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5657-df78-45e8-adc6-1926acb5b862",
+            "election_id": "53c02311-6334-422c-a81a-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "333",
+            "name": "張之豪",
+            "image": null,
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "https:\/\/www.facebook.com\/jihoc\\nhttp:\/\/buzzorange.com\/2014\/09\/18\/keelung-jiho-chang\/",
+            "gender": "m",
+            "no": "3",
+            "education_level": "碩士",
+            "is_present": false,
+            "name_english": "CHANG CHIH HAO JIHO",
+            "birth_place": "臺北市",
+            "birth": "1981-02-25",
+            "platform": "",
+            "education": "",
+            "experience": "臺灣加入WHA加拿大國會遊說團\\n反反分裂法靜坐\\n野草莓學運\\n基隆西二三碼頭倉庫保留運動\\n318學運\\n反核黃絲帶運動發起人\\n溫哥華臺灣同鄉會\\n臺加文化協會\\nUBC臺灣聯誼會文化部\\n建國會\\n臺大濁水溪社社長（2005）\\n反媒體巨獸青年聯盟（2011）\\n基隆西二三聯盟媒體聯絡人（2014-）\\n臺左維新顧問（2014）\\n雞籠霧雨文化協會發起人",
+            "created": "2014-09-07 02:45:43",
+            "modified": "2015-02-08 23:45:32"
+        },
+        "Election": {
+            "id": "53c02311-6334-422c-a81a-5c5aacb5b862",
+            "population_electors": "2736",
+            "population": "3694",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c8095-138c-4c6c-8bf9-61a3cf91e152",
+            "Area": [
+                {
+                    "id": "53c01de2-bb78-4c2a-afb1-5460acb5b862",
+                    "name": "鶯安里",
+                    "AreasElection": {
+                        "id": "53c02311-6b04-47ad-bb96-5c5aacb5b862",
+                        "Election_id": "53c02311-6334-422c-a81a-5c5aacb5b862",
+                        "Area_id": "53c01de2-bb78-4c2a-afb1-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "5412ff6f-db88-40fb-a1bb-7204cb455a61",
+                "name": "2014民進黨「民主小草」",
+                "CandidatesTag": {
+                    "id": "5412ff82-bdc0-4f35-9336-7205cb455a61",
+                    "Candidate_id": "540b5657-df78-45e8-adc6-1926acb5b862",
+                    "Tag_id": "5412ff6f-db88-40fb-a1bb-7204cb455a61"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "基隆市",
+                "lft": "9683",
+                "rght": "10012",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0230d-4e50-4e50-b9ba-5c5aacb5b862",
+                "parent_id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "name": "安樂區",
+                "lft": "9918",
+                "rght": "9969",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02311-6334-422c-a81a-5c5aacb5b862",
+                "parent_id": "53c0230d-4e50-4e50-b9ba-5c5aacb5b862",
+                "name": "鶯安里",
+                "lft": "9965",
+                "rght": "9966",
+                "population": "3694",
+                "population_electors": "2736",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c8095-138c-4c6c-8bf9-61a3cf91e152",
+                "keywords": "2014-11,村里長,基隆市,安樂區,鶯安里"
+            }
+        }
+    ]
+}

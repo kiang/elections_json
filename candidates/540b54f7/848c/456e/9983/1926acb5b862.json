@@ -1,0 +1,139 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b54f7-848c-456e-9983-1926acb5b862",
+            "election_id": "53c0216c-fc18-46a0-8328-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "438",
+            "name": "廖金楨",
+            "image": "546c7b33\/eb54\/45d5\/95fb\/3bcb8e043389.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "LIAO CHIN CHEN",
+            "birth_place": "臺灣省",
+            "birth": "1954-10-28",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:39:51",
+            "modified": "2015-02-08 23:44:39"
+        },
+        "Election": {
+            "id": "53c0216c-fc18-46a0-8328-5c5aacb5b862",
+            "population_electors": "845",
+            "population": "1041",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-b450-4e1c-8d90-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c82-2a70-48d3-9652-5460acb5b862",
+                    "name": "田中里",
+                    "AreasElection": {
+                        "id": "53c0216c-208c-4674-b5a9-5c5aacb5b862",
+                        "Election_id": "53c0216c-fc18-46a0-8328-5c5aacb5b862",
+                        "Area_id": "53c01c82-2a70-48d3-9652-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54ab2710-ebc4-4db1-923c-29d96ab936af",
+                "name": "2014當選無效之訴-彰化縣",
+                "CandidatesTag": {
+                    "id": "54ab2766-1460-4b54-b229-29f46ab936af",
+                    "Candidate_id": "540b54f7-848c-456e-9983-1926acb5b862",
+                    "Tag_id": "54ab2710-ebc4-4db1-923c-29d96ab936af"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "4417",
+                "rght": "5648",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-f384-4c28-9dd3-5c5aacb5b862",
+                "parent_id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "name": "彰化市",
+                "lft": "4418",
+                "rght": "4565",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0216c-fc18-46a0-8328-5c5aacb5b862",
+                "parent_id": "53c02162-f384-4c28-9dd3-5c5aacb5b862",
+                "name": "田中里",
+                "lft": "4551",
+                "rght": "4552",
+                "population": "1041",
+                "population_electors": "845",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-b450-4e1c-8d90-74a5cf91e152",
+                "keywords": "2014-11,村里長,彰化縣,彰化市,田中里"
+            }
+        }
+    ]
+}

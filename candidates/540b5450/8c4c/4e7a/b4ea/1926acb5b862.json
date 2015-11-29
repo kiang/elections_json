@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5450-8c4c-4e7a-b4ea-1926acb5b862",
+            "election_id": "53c023db-135c-47c3-a94d-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "998",
+            "name": "陳文世",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "CHEN WEN SHIH",
+            "birth_place": "高雄市",
+            "birth": "1965-04-07",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:37:04",
+            "modified": "2015-02-08 23:40:37"
+        },
+        "Election": {
+            "id": "53c023db-135c-47c3-a94d-5c5aacb5b862",
+            "population_electors": "3413",
+            "population": "4035",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb720-16c8-4238-96d2-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01e51-55a8-4442-8710-5460acb5b862",
+                    "name": "平和里",
+                    "AreasElection": {
+                        "id": "53c023db-dcd0-4812-93be-5c5aacb5b862",
+                        "Election_id": "53c023db-135c-47c3-a94d-5c5aacb5b862",
+                        "Area_id": "53c01e51-55a8-4442-8710-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d9-deb4-411d-9232-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "鼓山區",
+                "lft": "12440",
+                "rght": "12517",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023db-135c-47c3-a94d-5c5aacb5b862",
+                "parent_id": "53c023d9-deb4-411d-9232-5c5aacb5b862",
+                "name": "平和里",
+                "lft": "12459",
+                "rght": "12460",
+                "population": "4035",
+                "population_electors": "3413",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb720-16c8-4238-96d2-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,鼓山區,平和里"
+            }
+        }
+    ]
+}

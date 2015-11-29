@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02674-8674-4d1d-8fd6-5dffacb5b862",
+            "election_id": "53c0241d-a260-4446-8518-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1384",
+            "name": "宋震寶",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "SUNG CHEN PAO",
+            "birth_place": "高雄市",
+            "birth": "1961-07-06",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:40:44"
+        },
+        "Election": {
+            "id": "53c0241d-a260-4446-8518-5c5aacb5b862",
+            "population_electors": "3161",
+            "population": "4166",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb720-34c4-466f-80ea-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01e85-b580-4734-bd85-5460acb5b862",
+                    "name": "宏亮里",
+                    "AreasElection": {
+                        "id": "53c0241d-1108-4b48-89a3-5c5aacb5b862",
+                        "Election_id": "53c0241d-a260-4446-8518-5c5aacb5b862",
+                        "Area_id": "53c01e85-b580-4734-bd85-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0241a-711c-4df7-8cb5-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "小港區",
+                "lft": "13246",
+                "rght": "13323",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0241d-a260-4446-8518-5c5aacb5b862",
+                "parent_id": "53c0241a-711c-4df7-8cb5-5c5aacb5b862",
+                "name": "宏亮里",
+                "lft": "13287",
+                "rght": "13288",
+                "population": "4166",
+                "population_electors": "3161",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb720-34c4-466f-80ea-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,小港區,宏亮里"
+            }
+        }
+    ]
+}

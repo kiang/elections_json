@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b549f-021c-4d0a-b7e9-1926acb5b862",
+            "election_id": "53c0244c-b890-4915-bba6-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "747",
+            "name": "林達成",
+            "image": null,
+            "party": "民主進步黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "高雄市",
+            "birth": "1943-02-02",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:38:23",
+            "modified": "2015-02-08 23:40:50"
+        },
+        "Election": {
+            "id": "53c0244c-b890-4915-bba6-5c5aacb5b862",
+            "population_electors": "2202",
+            "population": "2898",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb721-634c-4d39-a426-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01eae-298c-40e7-aec3-5460acb5b862",
+                    "name": "竹西里",
+                    "AreasElection": {
+                        "id": "53c0244c-5dac-4157-b621-5c5aacb5b862",
+                        "Election_id": "53c0244c-b890-4915-bba6-5c5aacb5b862",
+                        "Area_id": "53c01eae-298c-40e7-aec3-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0244a-e630-4cf1-9eb0-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "路竹區",
+                "lft": "13868",
+                "rght": "13909",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0244c-b890-4915-bba6-5c5aacb5b862",
+                "parent_id": "53c0244a-e630-4cf1-9eb0-5c5aacb5b862",
+                "name": "竹西里",
+                "lft": "13893",
+                "rght": "13894",
+                "population": "2898",
+                "population_electors": "2202",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb721-634c-4d39-a426-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,路竹區,竹西里"
+            }
+        }
+    ]
+}

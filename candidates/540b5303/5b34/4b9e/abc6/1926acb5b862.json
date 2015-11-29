@@ -1,0 +1,139 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5303-5b34-4b9e-abc6-1926acb5b862",
+            "election_id": "53c023c0-c838-4b8a-93a4-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "1436",
+            "name": "王友信",
+            "image": null,
+            "party": "無",
+            "contacts_phone": "0979 711 291",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "臉書 https:\/\/www.facebook.com\/nkjj115",
+            "gender": "m",
+            "no": "1",
+            "education_level": "碩士",
+            "is_present": false,
+            "name_english": "WANG YOU HSIN",
+            "birth_place": "新北市",
+            "birth": "1980-10-04",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:31:31",
+            "modified": "2015-02-08 23:40:34"
+        },
+        "Election": {
+            "id": "53c023c0-c838-4b8a-93a4-5c5aacb5b862",
+            "population_electors": "7795",
+            "population": "9804",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-1128-4597-beff-4187cf91e152",
+            "Area": [
+                {
+                    "id": "53c01e33-8300-4e53-9375-5460acb5b862",
+                    "name": "舊莊里",
+                    "AreasElection": {
+                        "id": "53c023c0-e7dc-4572-87d4-5c5aacb5b862",
+                        "Election_id": "53c023c0-c838-4b8a-93a4-5c5aacb5b862",
+                        "Area_id": "53c01e33-8300-4e53-9375-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "5412ff6f-db88-40fb-a1bb-7204cb455a61",
+                "name": "2014民進黨「民主小草」",
+                "CandidatesTag": {
+                    "id": "5412ff8e-1864-478b-bc49-7205cb455a61",
+                    "Candidate_id": "540b5303-5b34-4b9e-abc6-1926acb5b862",
+                    "Tag_id": "5412ff6f-db88-40fb-a1bb-7204cb455a61"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023bb-9e20-4a96-90d6-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "南港區",
+                "lft": "12082",
+                "rght": "12123",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023c0-c838-4b8a-93a4-5c5aacb5b862",
+                "parent_id": "53c023bb-9e20-4a96-90d6-5c5aacb5b862",
+                "name": "舊莊里",
+                "lft": "12115",
+                "rght": "12116",
+                "population": "9804",
+                "population_electors": "7795",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-1128-4597-beff-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,南港區,舊莊里"
+            }
+        }
+    ]
+}

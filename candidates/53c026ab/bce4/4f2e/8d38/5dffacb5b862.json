@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c026ab-bce4-4f2e-8d38-5dffacb5b862",
+            "election_id": "53c02492-e2d0-4321-a147-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1467",
+            "name": "黃冬茂",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺北市",
+            "birth": "1952-03-01",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:40:57"
+        },
+        "Election": {
+            "id": "53c02492-e2d0-4321-a147-5c5aacb5b862",
+            "population_electors": "4721",
+            "population": "6272",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068c-ebb4-437f-9b2d-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01eef-3ab0-4a62-b64f-5460acb5b862",
+                    "name": "永豐里",
+                    "AreasElection": {
+                        "id": "53c02492-b474-4070-9586-5c5aacb5b862",
+                        "Election_id": "53c02492-e2d0-4321-a147-5c5aacb5b862",
+                        "Area_id": "53c01eef-3ab0-4a62-b64f-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新北市",
+                "lft": "14261",
+                "rght": "16384",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02480-1acc-4cf5-8b74-5c5aacb5b862",
+                "parent_id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "name": "三重區",
+                "lft": "14516",
+                "rght": "14755",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02492-e2d0-4321-a147-5c5aacb5b862",
+                "parent_id": "53c02480-1acc-4cf5-8b74-5c5aacb5b862",
+                "name": "永豐里",
+                "lft": "14741",
+                "rght": "14742",
+                "population": "6272",
+                "population_electors": "4721",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068c-ebb4-437f-9b2d-1a32cf91e152",
+                "keywords": "2014-11,村里長,新北市,三重區,永豐里"
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5481-f758-4b36-bba4-1926acb5b862",
+            "election_id": "53c02422-a9c4-4377-8918-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1703",
+            "name": "楊三吉",
+            "image": null,
+            "party": "民主進步黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "YANG SAN CHI",
+            "birth_place": "高雄市",
+            "birth": "1953-06-18",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:37:53",
+            "modified": "2015-02-08 23:40:45"
+        },
+        "Election": {
+            "id": "53c02422-a9c4-4377-8918-5c5aacb5b862",
+            "population_electors": "4460",
+            "population": "5484",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb721-4e64-46cf-9fda-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01e89-9414-4b02-8f82-5460acb5b862",
+                    "name": "鎮南里",
+                    "AreasElection": {
+                        "id": "53c02422-7b48-46d2-8dfb-5c5aacb5b862",
+                        "Election_id": "53c02422-a9c4-4377-8918-5c5aacb5b862",
+                        "Area_id": "53c01e89-9414-4b02-8f82-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02420-e624-4780-8ebc-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "鳳山區",
+                "lft": "13324",
+                "rght": "13481",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02422-a9c4-4377-8918-5c5aacb5b862",
+                "parent_id": "53c02420-e624-4780-8ebc-5c5aacb5b862",
+                "name": "鎮南里",
+                "lft": "13351",
+                "rght": "13352",
+                "population": "5484",
+                "population_electors": "4460",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb721-4e64-46cf-9fda-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,鳳山區,鎮南里"
+            }
+        }
+    ]
+}

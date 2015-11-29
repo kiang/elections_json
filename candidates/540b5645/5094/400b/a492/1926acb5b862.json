@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5645-5094-400b-a492-1926acb5b862",
+            "election_id": "53c020e5-807c-4f0b-abac-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "89",
+            "name": "劉用順",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "金馬地區",
+            "birth": "1962-03-04",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:45:25",
+            "modified": "2015-02-08 23:44:23"
+        },
+        "Election": {
+            "id": "53c020e5-807c-4f0b-abac-5c5aacb5b862",
+            "population_electors": "326",
+            "population": "373",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54742647-d77c-48a0-9356-2d82cf91e152",
+            "Area": [
+                {
+                    "id": "53c01bcf-caa0-47b4-82f5-5460acb5b862",
+                    "name": "津沙村",
+                    "AreasElection": {
+                        "id": "53c020e5-08d4-42fc-b8ea-5c5aacb5b862",
+                        "Election_id": "53c020e5-807c-4f0b-abac-5c5aacb5b862",
+                        "Area_id": "53c01bcf-caa0-47b4-82f5-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020e4-541c-4ad6-bd12-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "連江縣",
+                "lft": "2787",
+                "rght": "2840",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020e5-2110-4cd5-b7ca-5c5aacb5b862",
+                "parent_id": "53c020e4-541c-4ad6-bd12-5c5aacb5b862",
+                "name": "南竿鄉",
+                "lft": "2788",
+                "rght": "2807",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020e5-807c-4f0b-abac-5c5aacb5b862",
+                "parent_id": "53c020e5-2110-4cd5-b7ca-5c5aacb5b862",
+                "name": "津沙村",
+                "lft": "2801",
+                "rght": "2802",
+                "population": "373",
+                "population_electors": "326",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54742647-d77c-48a0-9356-2d82cf91e152",
+                "keywords": "2014-11,村里長,連江縣,南竿鄉,津沙村"
+            }
+        }
+    ]
+}

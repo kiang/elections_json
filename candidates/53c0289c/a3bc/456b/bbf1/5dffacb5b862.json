@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c0289c-a3bc-456b-bbf1-5dffacb5b862",
+            "election_id": "53c02338-5570-4497-8522-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1611",
+            "name": "吳名城",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "大學",
+            "is_present": true,
+            "name_english": "WU MIN CHEN",
+            "birth_place": "臺灣省",
+            "birth": "1966-02-28",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:45:36"
+        },
+        "Election": {
+            "id": "53c02338-5570-4497-8522-5c5aacb5b862",
+            "population_electors": "2569",
+            "population": "3517",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546b0806-dad8-4371-be91-2ff0cf91e152",
+            "Area": [
+                {
+                    "id": "53c01e04-e704-4118-a0a1-5460acb5b862",
+                    "name": "獅子里",
+                    "AreasElection": {
+                        "id": "53c02338-ac8c-4353-af6e-5c5aacb5b862",
+                        "Election_id": "53c02338-5570-4497-8522-5c5aacb5b862",
+                        "Area_id": "53c01e04-e704-4118-a0a1-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0232b-91c8-456a-8388-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "嘉義市",
+                "lft": "10265",
+                "rght": "10438",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02331-37e4-49a2-a7ea-5c5aacb5b862",
+                "parent_id": "53c0232b-91c8-456a-8388-5c5aacb5b862",
+                "name": "西區",
+                "lft": "10346",
+                "rght": "10437",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02338-5570-4497-8522-5c5aacb5b862",
+                "parent_id": "53c02331-37e4-49a2-a7ea-5c5aacb5b862",
+                "name": "獅子里",
+                "lft": "10433",
+                "rght": "10434",
+                "population": "3517",
+                "population_electors": "2569",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546b0806-dad8-4371-be91-2ff0cf91e152",
+                "keywords": "2014-11,村里長,嘉義市,西區,獅子里"
+            }
+        }
+    ]
+}

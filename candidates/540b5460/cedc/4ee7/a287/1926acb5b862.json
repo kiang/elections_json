@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5460-cedc-4ee7-a287-1926acb5b862",
+            "election_id": "53c023ef-2604-4ebe-ae77-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "925",
+            "name": "朱祖勤",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "碩士",
+            "is_present": false,
+            "name_english": "CHU TSU CHIN",
+            "birth_place": "高雄市",
+            "birth": "1975-08-16",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:37:20",
+            "modified": "2015-02-08 23:40:40"
+        },
+        "Election": {
+            "id": "53c023ef-2604-4ebe-ae77-5c5aacb5b862",
+            "population_electors": "4577",
+            "population": "6041",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb720-f8c8-4564-a069-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01e62-513c-47af-b624-5460acb5b862",
+                    "name": "寶業里",
+                    "AreasElection": {
+                        "id": "53c023ef-d61c-4298-aa6e-5c5aacb5b862",
+                        "Election_id": "53c023ef-2604-4ebe-ae77-5c5aacb5b862",
+                        "Area_id": "53c01e62-513c-47af-b624-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023ec-08a0-49ca-ae2b-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "三民區",
+                "lft": "12676",
+                "rght": "12849",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023ef-2604-4ebe-ae77-5c5aacb5b862",
+                "parent_id": "53c023ec-08a0-49ca-ae2b-5c5aacb5b862",
+                "name": "寶業里",
+                "lft": "12719",
+                "rght": "12720",
+                "population": "6041",
+                "population_electors": "4577",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb720-f8c8-4564-a069-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,三民區,寶業里"
+            }
+        }
+    ]
+}

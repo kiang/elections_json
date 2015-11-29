@@ -1,0 +1,139 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b530f-eb7c-4a66-9901-1926acb5b862",
+            "election_id": "53c023d0-2b7c-4e20-b1ab-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "900",
+            "name": "蔡瑞崇",
+            "image": null,
+            "party": "親民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "Tsai Jur chung",
+            "birth_place": "臺南市",
+            "birth": "1953-03-27",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:31:43",
+            "modified": "2015-02-08 23:40:36"
+        },
+        "Election": {
+            "id": "53c023d0-2b7c-4e20-b1ab-5c5aacb5b862",
+            "population_electors": "3756",
+            "population": "4750",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-d068-4728-bd3e-4187cf91e152",
+            "Area": [
+                {
+                    "id": "53c01e42-4c7c-4e6f-81dd-5460acb5b862",
+                    "name": "東華里",
+                    "AreasElection": {
+                        "id": "53c023d0-2e58-4252-ba00-5c5aacb5b862",
+                        "Election_id": "53c023d0-2b7c-4e20-b1ab-5c5aacb5b862",
+                        "Area_id": "53c01e42-4c7c-4e6f-81dd-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54130d54-9e9c-4000-a3b7-79a1cb455a61",
+                "name": "2014親民黨",
+                "CandidatesTag": {
+                    "id": "54130e1a-bae4-4176-a7e7-799bcb455a61",
+                    "Candidate_id": "540b530f-eb7c-4a66-9901-1926acb5b862",
+                    "Tag_id": "54130d54-9e9c-4000-a3b7-79a1cb455a61"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023cf-48cc-46fc-8762-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "北投區",
+                "lft": "12308",
+                "rght": "12393",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d0-2b7c-4e20-b1ab-5c5aacb5b862",
+                "parent_id": "53c023cf-48cc-46fc-8762-5c5aacb5b862",
+                "name": "東華里",
+                "lft": "12319",
+                "rght": "12320",
+                "population": "4750",
+                "population_electors": "3756",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-d068-4728-bd3e-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,北投區,東華里"
+            }
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "54d9c647-db50-49b3-933c-6b30acb5b862",
+            "election_id": "54d9c646-28ac-47b0-be70-6b30acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "10842",
+            "name": "楊永昌",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "7",
+            "education_level": "",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2015-02-10 16:50:15",
+            "modified": "2015-02-10 16:50:15"
+        },
+        "Election": {
+            "id": "54d9c646-28ac-47b0-be70-6b30acb5b862",
+            "population_electors": "0",
+            "population": "0",
+            "quota": "0",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "Area": [
+
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "54d9c63c-ebbc-4266-ba24-6b30acb5b862",
+                "parent_id": null,
+                "name": "2002-01",
+                "lft": "30047",
+                "rght": "31124",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "54d9c63c-256c-4049-94af-6b30acb5b862",
+                "parent_id": "54d9c63c-ebbc-4266-ba24-6b30acb5b862",
+                "name": "縣市議員",
+                "lft": "30048",
+                "rght": "30483",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "550bce62-1ad0-43e6-9cbf-379bacb5b862",
+                "parent_id": "54d9c63c-256c-4049-94af-6b30acb5b862",
+                "name": "臺中縣",
+                "lft": "30175",
+                "rght": "30196",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "54d9c646-28ac-47b0-be70-6b30acb5b862",
+                "parent_id": "550bce62-1ad0-43e6-9cbf-379bacb5b862",
+                "name": "第四選區[區域]",
+                "lft": "30176",
+                "rght": "30177",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2002-01,縣市議員,臺中縣第四選區[區域]"
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c0283e-61b0-4db6-93f9-5dffacb5b862",
+            "election_id": "53c02268-3c6c-4ab7-bf97-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "538",
+            "name": "陳文財",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1951-11-01",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:45:13"
+        },
+        "Election": {
+            "id": "53c02268-3c6c-4ab7-bf97-5c5aacb5b862",
+            "population_electors": "1097",
+            "population": "1357",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54773ba1-748c-4389-81da-1915cf91e152",
+            "Area": [
+                {
+                    "id": "53c01d53-3488-4739-94ed-5460acb5b862",
+                    "name": "歸心里",
+                    "AreasElection": {
+                        "id": "53c02268-5f50-4262-8a0d-5c5aacb5b862",
+                        "Election_id": "53c02268-3c6c-4ab7-bf97-5c5aacb5b862",
+                        "Area_id": "53c01d53-3488-4739-94ed-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "7771",
+                "rght": "8766",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02265-2468-4454-be9d-5c5aacb5b862",
+                "parent_id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "name": "屏東市",
+                "lft": "7772",
+                "rght": "7931",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02268-3c6c-4ab7-bf97-5c5aacb5b862",
+                "parent_id": "53c02265-2468-4454-be9d-5c5aacb5b862",
+                "name": "歸心里",
+                "lft": "7821",
+                "rght": "7822",
+                "population": "1357",
+                "population_electors": "1097",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54773ba1-748c-4389-81da-1915cf91e152",
+                "keywords": "2014-11,村里長,屏東縣,屏東市,歸心里"
+            }
+        }
+    ]
+}

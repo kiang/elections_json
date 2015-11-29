@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b53ab-42ec-48ea-9c0a-1926acb5b862",
+            "election_id": "53c02378-26c8-44e7-8078-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "138",
+            "name": "吳昀璟",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "3",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "WU YUN CHING",
+            "birth_place": "臺灣省",
+            "birth": "1964-04-01",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:34:19",
+            "modified": "2015-02-08 23:41:46"
+        },
+        "Election": {
+            "id": "53c02378-26c8-44e7-8078-5c5aacb5b862",
+            "population_electors": "2474",
+            "population": "3212",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "Area": [
+                {
+                    "id": "53c01c2a-7bb0-4ecb-8f83-5460acb5b862",
+                    "name": "武漢里",
+                    "AreasElection": {
+                        "id": "53c02378-2c18-4e66-a3f6-5c5aacb5b862",
+                        "Election_id": "53c02378-26c8-44e7-8078-5c5aacb5b862",
+                        "Area_id": "53c01c2a-7bb0-4ecb-8f83-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "桃園市",
+                "lft": "10439",
+                "rght": "11456",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02374-a550-404f-9e2d-5c5aacb5b862",
+                "parent_id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "name": "龍潭區",
+                "lft": "11180",
+                "rght": "11241",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02378-26c8-44e7-8078-5c5aacb5b862",
+                "parent_id": "53c02374-a550-404f-9e2d-5c5aacb5b862",
+                "name": "武漢里",
+                "lft": "11233",
+                "rght": "11234",
+                "population": "3212",
+                "population_electors": "2474",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2014-11,村里長,桃園市,龍潭區,武漢里"
+            }
+        }
+    ]
+}

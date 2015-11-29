@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02636-a0a4-4733-bbcf-5dffacb5b862",
+            "election_id": "53c02399-1eb4-47bc-970e-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1007",
+            "name": "黃學貴",
+            "image": null,
+            "party": "中國國民黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "HUANG HSUEH KUEI",
+            "birth_place": "臺北市",
+            "birth": "1952-02-28",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:40:30"
+        },
+        "Election": {
+            "id": "53c02399-1eb4-47bc-970e-5c5aacb5b862",
+            "population_electors": "3021",
+            "population": "4050",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-345c-4ed5-ba1f-4187cf91e152",
+            "Area": [
+                {
+                    "id": "53c01e14-0520-4906-913a-5460acb5b862",
+                    "name": "永康里",
+                    "AreasElection": {
+                        "id": "53c02399-1574-44d9-ab58-5c5aacb5b862",
+                        "Election_id": "53c02399-1eb4-47bc-970e-5c5aacb5b862",
+                        "Area_id": "53c01e14-0520-4906-913a-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02396-dd04-4dbc-a350-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "大安區",
+                "lft": "11610",
+                "rght": "11717",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02399-1eb4-47bc-970e-5c5aacb5b862",
+                "parent_id": "53c02396-dd04-4dbc-a350-5c5aacb5b862",
+                "name": "永康里",
+                "lft": "11647",
+                "rght": "11648",
+                "population": "4050",
+                "population_electors": "3021",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-345c-4ed5-ba1f-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,大安區,永康里"
+            }
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5814-e1c0-4dd2-b89e-1926acb5b862",
+            "election_id": "53c020a0-4294-4c2f-9e5f-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "12640",
+            "name": "劉昭相",
+            "image": "54967d99\/888c\/441c\/a087\/20b96ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1952-10-13",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:53:08",
+            "modified": "2015-02-08 23:42:01"
+        },
+        "Election": {
+            "id": "53c020a0-4294-4c2f-9e5f-5c5aacb5b862",
+            "population_electors": "41739",
+            "population": "52151",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5475673a-ecac-4e54-896a-0f78cf91e152",
+            "Area": [
+                {
+                    "id": "53c01d63-7c10-4077-825f-5460acb5b862",
+                    "name": "萬丹鄉",
+                    "AreasElection": {
+                        "id": "53c020a1-81e0-42a6-8a5f-5c5aacb5b862",
+                        "Election_id": "53c020a0-4294-4c2f-9e5f-5c5aacb5b862",
+                        "Area_id": "53c01d63-7c10-4077-825f-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市長",
+                "lft": "608",
+                "rght": "1031",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020a0-f5a4-4054-836f-5c5aacb5b862",
+                "parent_id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "887",
+                "rght": "954",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020a0-4294-4c2f-9e5f-5c5aacb5b862",
+                "parent_id": "53c020a0-f5a4-4054-836f-5c5aacb5b862",
+                "name": "萬丹鄉",
+                "lft": "896",
+                "rght": "897",
+                "population": "52151",
+                "population_electors": "41739",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5475673a-ecac-4e54-896a-0f78cf91e152",
+                "keywords": "2014-11,鄉鎮市長,屏東縣,萬丹鄉"
+            }
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b555a-5120-432a-ba37-1926acb5b862",
+            "election_id": "53c021f6-e49c-4bf6-9421-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "329",
+            "name": "林宏燦",
+            "image": null,
+            "party": "民主進步黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "大學",
+            "is_present": false,
+            "name_english": "Lin Hung Tsan",
+            "birth_place": "臺灣省",
+            "birth": "1982-08-07",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:41:30",
+            "modified": "2015-02-08 23:45:00"
+        },
+        "Election": {
+            "id": "53c021f6-e49c-4bf6-9421-5c5aacb5b862",
+            "population_electors": "2494",
+            "population": "3447",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546edee5-7360-4ee4-97d2-3ce1cf91e152",
+            "Area": [
+                {
+                    "id": "53c01cef-c710-4868-9c89-5460acb5b862",
+                    "name": "東仁里",
+                    "AreasElection": {
+                        "id": "53c021f7-a810-4251-b2e4-5c5aacb5b862",
+                        "Election_id": "53c021f6-e49c-4bf6-9421-5c5aacb5b862",
+                        "Area_id": "53c01cef-c710-4868-9c89-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "5412ff6f-db88-40fb-a1bb-7204cb455a61",
+                "name": "2014民進黨「民主小草」",
+                "CandidatesTag": {
+                    "id": "54130093-15e4-43e2-a202-7205cb455a61",
+                    "Candidate_id": "540b555a-5120-432a-ba37-1926acb5b862",
+                    "Tag_id": "5412ff6f-db88-40fb-a1bb-7204cb455a61"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "6201",
+                "rght": "7018",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021f5-c158-4f44-9a45-5c5aacb5b862",
+                "parent_id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "name": "虎尾鎮",
+                "lft": "6326",
+                "rght": "6385",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021f6-e49c-4bf6-9421-5c5aacb5b862",
+                "parent_id": "53c021f5-c158-4f44-9a45-5c5aacb5b862",
+                "name": "東仁里",
+                "lft": "6339",
+                "rght": "6340",
+                "population": "3447",
+                "population_electors": "2494",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546edee5-7360-4ee4-97d2-3ce1cf91e152",
+                "keywords": "2014-11,村里長,雲林縣,虎尾鎮,東仁里"
+            }
+        }
+    ]
+}

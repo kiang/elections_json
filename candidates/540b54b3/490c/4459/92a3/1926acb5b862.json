@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b54b3-490c-4459-92a3-1926acb5b862",
+            "election_id": "53c0246a-e158-4c71-b23e-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "74",
+            "name": "陳世輝",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "大學",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "高雄市",
+            "birth": "1971-07-03",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:38:43",
+            "modified": "2015-02-08 23:40:53"
+        },
+        "Election": {
+            "id": "53c0246a-e158-4c71-b23e-5c5aacb5b862",
+            "population_electors": "561",
+            "population": "755",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb721-073c-4440-8efd-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01ec6-6f74-4fb6-a08d-5460acb5b862",
+                    "name": "高中里",
+                    "AreasElection": {
+                        "id": "53c0246a-0dfc-4403-b336-5c5aacb5b862",
+                        "Election_id": "53c0246a-e158-4c71-b23e-5c5aacb5b862",
+                        "Area_id": "53c01ec6-6f74-4fb6-a08d-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02469-435c-4144-bda7-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "桃源區",
+                "lft": "14234",
+                "rght": "14251",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0246a-e158-4c71-b23e-5c5aacb5b862",
+                "parent_id": "53c02469-435c-4144-bda7-5c5aacb5b862",
+                "name": "高中里",
+                "lft": "14241",
+                "rght": "14242",
+                "population": "755",
+                "population_electors": "561",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb721-073c-4440-8efd-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,桃源區,高中里"
+            }
+        }
+    ]
+}

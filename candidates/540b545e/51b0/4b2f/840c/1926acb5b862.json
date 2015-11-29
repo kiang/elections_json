@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b545e-51b0-4b2f-840c-1926acb5b862",
+            "election_id": "53c023ee-1e88-4347-9e39-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "690",
+            "name": "傅櫻美",
+            "image": null,
+            "party": "民主進步黨",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "f",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "FU YING MEI",
+            "birth_place": "高雄市",
+            "birth": "1951-01-30",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:37:18",
+            "modified": "2015-02-08 23:40:40"
+        },
+        "Election": {
+            "id": "53c023ee-1e88-4347-9e39-5c5aacb5b862",
+            "population_electors": "3487",
+            "population": "4149",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb720-f9e4-4596-9797-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01e61-c48c-4f75-b960-5460acb5b862",
+                    "name": "寶獅里",
+                    "AreasElection": {
+                        "id": "53c023ef-dce8-4427-b495-5c5aacb5b862",
+                        "Election_id": "53c023ee-1e88-4347-9e39-5c5aacb5b862",
+                        "Area_id": "53c01e61-c48c-4f75-b960-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023ec-08a0-49ca-ae2b-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "三民區",
+                "lft": "12676",
+                "rght": "12849",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023ee-1e88-4347-9e39-5c5aacb5b862",
+                "parent_id": "53c023ec-08a0-49ca-ae2b-5c5aacb5b862",
+                "name": "寶獅里",
+                "lft": "12713",
+                "rght": "12714",
+                "population": "4149",
+                "population_electors": "3487",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb720-f9e4-4596-9797-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,三民區,寶獅里"
+            }
+        }
+    ]
+}

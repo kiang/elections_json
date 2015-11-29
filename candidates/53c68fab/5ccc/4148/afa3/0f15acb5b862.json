@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c68fab-5ccc-4148-afa3-0f15acb5b862",
+            "election_id": "53c4009e-0c74-4928-a173-6cceacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "12441",
+            "name": "劉士州",
+            "image": "544a3842\/ecdc\/4829\/8f84\/53af8e043389.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "04-23868878",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "408台中市南屯區向心里向心南路959號2樓",
+            "links": "臉書 http:\/\/www.facebook.com\/liushihchou",
+            "gender": "m",
+            "no": "5",
+            "education_level": "大學",
+            "is_present": true,
+            "name_english": "LIU SHIH CHOU",
+            "birth_place": "臺中市",
+            "birth": "1962-09-07",
+            "platform": "",
+            "education": "南屯國小畢業  崇倫國中畢業  臺中第二高級中學畢業  臺灣大學政治系學士",
+            "experience": "市議員秘書  省議員秘書  立法委員秘書  臺中市議會第十五屆、第十六屆議員  慈蓮愛心協會理事  青山獅子會會員  吾愛鄰同濟會理事  葉心慈善會委員  臺中市議會第一屆議員",
+            "created": "2014-07-16 22:43:55",
+            "modified": "2015-02-08 23:40:25"
+        },
+        "Election": {
+            "id": "53c4009e-0c74-4928-a173-6cceacb5b862",
+            "population_electors": "119001",
+            "population": "161472",
+            "quota": "4",
+            "quota_women": "1",
+            "bulletin_key": "546e068f-38b8-45ad-9d89-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01f7a-b884-47f9-9562-5460acb5b862",
+                    "name": "南屯區",
+                    "AreasElection": {
+                        "id": "53c406e7-1728-4a76-9bec-6dacacb5b862",
+                        "Election_id": "53c4009e-0c74-4928-a173-6cceacb5b862",
+                        "Area_id": "53c01f7a-b884-47f9-9562-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207e-b9a4-405f-abaf-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "臺中市",
+                "lft": "123",
+                "rght": "156",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c4009e-0c74-4928-a173-6cceacb5b862",
+                "parent_id": "53c0207e-b9a4-405f-abaf-5c5aacb5b862",
+                "name": "第07選區[區域]",
+                "lft": "136",
+                "rght": "137",
+                "population": "161472",
+                "population_electors": "119001",
+                "quota": "4",
+                "quota_women": "1",
+                "bulletin_key": "546e068f-38b8-45ad-9d89-1a32cf91e152",
+                "keywords": "2014-11,直轄市議員,臺中市,第07選區[區域]"
+            }
+        }
+    ]
+}

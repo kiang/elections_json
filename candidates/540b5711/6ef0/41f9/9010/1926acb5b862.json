@@ -1,0 +1,158 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5711-6ef0-41f9-9010-1926acb5b862",
+            "election_id": "53d73329-cd84-4070-9eeb-1299acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1682",
+            "name": "黃素月",
+            "image": "541ab097\/a94c\/4500\/9af9\/13dacb455a61.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "f",
+            "no": "3",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1960-08-08",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:48:49",
+            "modified": "2015-02-08 23:42:35"
+        },
+        "Election": {
+            "id": "53d73329-cd84-4070-9eeb-1299acb5b862",
+            "population_electors": "10911",
+            "population": "14218",
+            "quota": "4",
+            "quota_women": "1",
+            "bulletin_key": "5469b450-575c-4bb7-8dba-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01c8c-616c-49b7-8857-5460acb5b862",
+                    "name": "埤墘村",
+                    "AreasElection": {
+                        "id": "53d73329-e240-4d13-8fb2-1299acb5b862",
+                        "Election_id": "53d73329-cd84-4070-9eeb-1299acb5b862",
+                        "Area_id": "53c01c8c-616c-49b7-8857-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01c8d-0858-419d-a5dc-5460acb5b862",
+                    "name": "新港村",
+                    "AreasElection": {
+                        "id": "53d73329-a128-42fa-9425-1299acb5b862",
+                        "Election_id": "53d73329-cd84-4070-9eeb-1299acb5b862",
+                        "Area_id": "53c01c8d-0858-419d-a5dc-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01c8e-94a4-4241-85a2-5460acb5b862",
+                    "name": "汴頭村",
+                    "AreasElection": {
+                        "id": "53d7332a-3e6c-47c6-b5c5-1299acb5b862",
+                        "Election_id": "53d73329-cd84-4070-9eeb-1299acb5b862",
+                        "Area_id": "53c01c8e-94a4-4241-85a2-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01c8e-bb54-42a3-9c5a-5460acb5b862",
+                    "name": "七嘉村",
+                    "AreasElection": {
+                        "id": "53d7332a-0844-499c-95af-1299acb5b862",
+                        "Election_id": "53d73329-cd84-4070-9eeb-1299acb5b862",
+                        "Area_id": "53c01c8e-bb54-42a3-9c5a-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020bb-fd28-4ab5-ad62-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "1497",
+                "rght": "1738",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020bc-79ec-4eb4-8f42-5c5aacb5b862",
+                "parent_id": "53c020bb-fd28-4ab5-ad62-5c5aacb5b862",
+                "name": "伸港鄉",
+                "lft": "1536",
+                "rght": "1545",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d73329-cd84-4070-9eeb-1299acb5b862",
+                "parent_id": "53c020bc-79ec-4eb4-8f42-5c5aacb5b862",
+                "name": "第04選舉區[區域]",
+                "lft": "1543",
+                "rght": "1544",
+                "population": "14218",
+                "population_electors": "10911",
+                "quota": "4",
+                "quota_women": "1",
+                "bulletin_key": "5469b450-575c-4bb7-8dba-74a5cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,彰化縣,伸港鄉,第04選舉區[區域]"
+            }
+        }
+    ]
+}

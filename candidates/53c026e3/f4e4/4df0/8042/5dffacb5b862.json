@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c026e3-f4e4-4df0-8042-5dffacb5b862",
+            "election_id": "53c0251d-f578-4f19-9fe5-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "998",
+            "name": "趙瑞昌",
+            "image": "",
+            "party": "民主進步黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "新北市",
+            "birth": "1957-07-28",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:41:10"
+        },
+        "Election": {
+            "id": "53c0251d-f578-4f19-9fe5-5c5aacb5b862",
+            "population_electors": "2072",
+            "population": "2444",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-77e4-43b6-aa3c-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01f60-4958-4f59-9c66-5460acb5b862",
+                    "name": "真理里",
+                    "AreasElection": {
+                        "id": "53c0251d-d6dc-45ee-b48a-5c5aacb5b862",
+                        "Election_id": "53c0251d-f578-4f19-9fe5-5c5aacb5b862",
+                        "Area_id": "53c01f60-4958-4f59-9c66-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新北市",
+                "lft": "14261",
+                "rght": "16384",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0251a-7588-435e-8792-5c5aacb5b862",
+                "parent_id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "name": "貢寮區",
+                "lft": "16294",
+                "rght": "16317",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0251d-f578-4f19-9fe5-5c5aacb5b862",
+                "parent_id": "53c0251a-7588-435e-8792-5c5aacb5b862",
+                "name": "真理里",
+                "lft": "16311",
+                "rght": "16312",
+                "population": "2444",
+                "population_electors": "2072",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-77e4-43b6-aa3c-1a32cf91e152",
+                "keywords": "2014-11,村里長,新北市,貢寮區,真理里"
+            }
+        }
+    ]
+}

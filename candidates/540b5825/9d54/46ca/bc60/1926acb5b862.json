@@ -1,0 +1,116 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5825-9d54-46ca-bc60-1926acb5b862",
+            "election_id": "53c02086-5fdc-4750-8a5a-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "5547",
+            "name": "陳其德",
+            "image": "5492cac6\/cad0\/45b2\/a798\/68d46ab936af.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "1",
+            "education_level": "碩士",
+            "is_present": false,
+            "name_english": "CHEN CHI TE",
+            "birth_place": "金馬地區",
+            "birth": "1969-03-01",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:53:25",
+            "modified": "2015-02-08 23:41:58"
+        },
+        "Election": {
+            "id": "53c02086-5fdc-4750-8a5a-5c5aacb5b862",
+            "population_electors": "16225",
+            "population": "19290",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-f55c-4ba2-adc5-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01bd2-fe28-4f39-8538-5460acb5b862",
+                    "name": "金沙鎮",
+                    "AreasElection": {
+                        "id": "53c02087-a1a0-4e75-a94a-5c5aacb5b862",
+                        "Election_id": "53c02086-5fdc-4750-8a5a-5c5aacb5b862",
+                        "Area_id": "53c01bd2-fe28-4f39-8538-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市長",
+                "lft": "608",
+                "rght": "1031",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02086-e5ec-40f0-9b9f-5c5aacb5b862",
+                "parent_id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "name": "金門縣",
+                "lft": "619",
+                "rght": "632",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02086-5fdc-4750-8a5a-5c5aacb5b862",
+                "parent_id": "53c02086-e5ec-40f0-9b9f-5c5aacb5b862",
+                "name": "金沙鎮",
+                "lft": "622",
+                "rght": "623",
+                "population": "19290",
+                "population_electors": "16225",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-f55c-4ba2-adc5-74a5cf91e152",
+                "keywords": "2014-11,鄉鎮市長,金門縣,金沙鎮"
+            }
+        }
+    ]
+}

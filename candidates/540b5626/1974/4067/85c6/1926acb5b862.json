@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5626-1974-4067-85c6-1926acb5b862",
+            "election_id": "53c022b9-3dac-44bc-ad15-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "422",
+            "name": "尤增雲",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "其他",
+            "is_present": true,
+            "name_english": "You Zeng Yun",
+            "birth_place": "臺灣省",
+            "birth": "1952-03-07",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:44:54",
+            "modified": "2015-02-08 23:45:22"
+        },
+        "Election": {
+            "id": "53c022b9-3dac-44bc-ad15-5c5aacb5b862",
+            "population_electors": "1155",
+            "population": "1413",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546f277f-877c-4715-8a90-2f28cf91e152",
+            "Area": [
+                {
+                    "id": "53c01d9a-9f04-4965-b85e-5460acb5b862",
+                    "name": "豐原里",
+                    "AreasElection": {
+                        "id": "53c022b9-f7dc-48c7-91be-5c5aacb5b862",
+                        "Election_id": "53c022b9-3dac-44bc-ad15-5c5aacb5b862",
+                        "Area_id": "53c01d9a-9f04-4965-b85e-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022b2-b9f0-4517-825f-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺東縣",
+                "lft": "8767",
+                "rght": "9094",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022b3-e81c-475c-96e8-5c5aacb5b862",
+                "parent_id": "53c022b2-b9f0-4517-825f-5c5aacb5b862",
+                "name": "臺東市",
+                "lft": "8768",
+                "rght": "8861",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022b9-3dac-44bc-ad15-5c5aacb5b862",
+                "parent_id": "53c022b3-e81c-475c-96e8-5c5aacb5b862",
+                "name": "豐原里",
+                "lft": "8851",
+                "rght": "8852",
+                "population": "1413",
+                "population_electors": "1155",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546f277f-877c-4715-8a90-2f28cf91e152",
+                "keywords": "2014-11,村里長,臺東縣,臺東市,豐原里"
+            }
+        }
+    ]
+}

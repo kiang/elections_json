@@ -1,0 +1,133 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c68f81-25d4-4357-bdae-0f15acb5b862",
+            "election_id": "53c410fa-b1bc-4d34-8f22-6f55acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "7007",
+            "name": "廖梓佑",
+            "image": "54479f2c\/e594\/486c\/b0e3\/71ac8e043389.jpg",
+            "party": "民主進步黨",
+            "contacts_phone": "049-2320709",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "542南投縣草屯鎮新豐里新豐路593號",
+            "links": "臉書 http:\/\/www.facebook.com\/ziyou.liao\\n臉書 http:\/\/www.facebook.com\/pages\/%E5%8D%97%E6%8A%95%E7%B8%A3%E8%AD%B0%E5%93%A1%E5%BB%96%E6%A2%93%E4%BD%91\/1474729249471187",
+            "gender": "f",
+            "no": "10",
+            "education_level": "大學",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1958-11-30",
+            "platform": "",
+            "education": "大專",
+            "experience": "南投縣第16屆議員",
+            "created": "2014-07-16 22:43:13",
+            "modified": "2015-02-08 23:41:52"
+        },
+        "Election": {
+            "id": "53c410fa-b1bc-4d34-8f22-6f55acb5b862",
+            "population_electors": "92447",
+            "population": "114880",
+            "quota": "8",
+            "quota_women": "2",
+            "bulletin_key": "54735d55-4304-4264-8254-21eacf91e152",
+            "Area": [
+                {
+                    "id": "53c01cce-7e88-4e74-bd6f-5460acb5b862",
+                    "name": "草屯鎮",
+                    "AreasElection": {
+                        "id": "53c410fa-1dcc-42ba-b434-6f55acb5b862",
+                        "Election_id": "53c410fa-b1bc-4d34-8f22-6f55acb5b862",
+                        "Area_id": "53c01cce-7e88-4e74-bd6f-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01cdb-2c98-458e-abe8-5460acb5b862",
+                    "name": "中寮鄉",
+                    "AreasElection": {
+                        "id": "53c410fc-c284-40ab-8222-6f55acb5b862",
+                        "Election_id": "53c410fa-b1bc-4d34-8f22-6f55acb5b862",
+                        "Area_id": "53c01cdb-2c98-458e-abe8-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+            {
+                "id": "54131434-4b14-4c38-9445-2c85cb455a61",
+                "name": "2014台灣獨立建國選舉連線",
+                "CandidatesTag": {
+                    "id": "5473500c-9d3c-4ed6-b74b-2fe38e043389",
+                    "Candidate_id": "53c68f81-25d4-4357-bdae-0f15acb5b862",
+                    "Tag_id": "54131434-4b14-4c38-9445-2c85cb455a61"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "縣市議員",
+                "lft": "306",
+                "rght": "607",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02083-aa04-4a0e-96bb-5c5aacb5b862",
+                "parent_id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "name": "南投縣",
+                "lft": "419",
+                "rght": "436",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c410fa-b1bc-4d34-8f22-6f55acb5b862",
+                "parent_id": "53c02083-aa04-4a0e-96bb-5c5aacb5b862",
+                "name": "第02選區[區域]",
+                "lft": "422",
+                "rght": "423",
+                "population": "114880",
+                "population_electors": "92447",
+                "quota": "8",
+                "quota_women": "2",
+                "bulletin_key": "54735d55-4304-4264-8254-21eacf91e152",
+                "keywords": "2014-11,縣市議員,南投縣,第02選區[區域]"
+            }
+        }
+    ]
+}

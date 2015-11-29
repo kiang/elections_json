@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b534d-ce88-4fca-9999-1926acb5b862",
+            "election_id": "53c024c8-8668-45ef-b0a9-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "1112",
+            "name": "藍添樹",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "新北市",
+            "birth": "1950-09-22",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:32:45",
+            "modified": "2015-02-08 23:41:02"
+        },
+        "Election": {
+            "id": "53c024c8-8668-45ef-b0a9-5c5aacb5b862",
+            "population_electors": "3433",
+            "population": "4444",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546f277e-b70c-4122-ac66-2f28cf91e152",
+            "Area": [
+                {
+                    "id": "53c01f1f-8454-4fb2-b49d-5460acb5b862",
+                    "name": "三福里",
+                    "AreasElection": {
+                        "id": "53c024c8-8b18-4e36-9a53-5c5aacb5b862",
+                        "Election_id": "53c024c8-8668-45ef-b0a9-5c5aacb5b862",
+                        "Area_id": "53c01f1f-8454-4fb2-b49d-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新北市",
+                "lft": "14261",
+                "rght": "16384",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c024c8-9590-4906-886d-5c5aacb5b862",
+                "parent_id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "name": "樹林區",
+                "lft": "15380",
+                "rght": "15465",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c024c8-8668-45ef-b0a9-5c5aacb5b862",
+                "parent_id": "53c024c8-9590-4906-886d-5c5aacb5b862",
+                "name": "三福里",
+                "lft": "15383",
+                "rght": "15384",
+                "population": "4444",
+                "population_electors": "3433",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546f277e-b70c-4122-ac66-2f28cf91e152",
+                "keywords": "2014-11,村里長,新北市,樹林區,三福里"
+            }
+        }
+    ]
+}

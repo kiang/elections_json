@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c02868-089c-4488-a018-5dffacb5b862",
+            "election_id": "53c022c7-74b0-4823-9229-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "0",
+            "vote_count": "0",
+            "name": "古振英",
+            "image": null,
+            "party": null,
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": null,
+            "no": "0",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "0000-00-00 00:00:00",
+            "modified": "0000-00-00 00:00:00"
+        },
+        "Election": {
+            "id": "53c022c7-74b0-4823-9229-5c5aacb5b862",
+            "population_electors": "274",
+            "population": "354",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546f277f-8b18-45e0-89fd-2f28cf91e152",
+            "Area": [
+                {
+                    "id": "53c01da6-34f0-4ceb-9a94-5460acb5b862",
+                    "name": "霧鹿村",
+                    "AreasElection": {
+                        "id": "53c022c7-9318-4d7f-8b6c-5c5aacb5b862",
+                        "Election_id": "53c022c7-74b0-4823-9229-5c5aacb5b862",
+                        "Area_id": "53c01da6-34f0-4ceb-9a94-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022b2-b9f0-4517-825f-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺東縣",
+                "lft": "8767",
+                "rght": "9094",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022c7-33ec-4fbe-aa36-5c5aacb5b862",
+                "parent_id": "53c022b2-b9f0-4517-825f-5c5aacb5b862",
+                "name": "海端鄉",
+                "lft": "9032",
+                "rght": "9045",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022c7-74b0-4823-9229-5c5aacb5b862",
+                "parent_id": "53c022c7-33ec-4fbe-aa36-5c5aacb5b862",
+                "name": "霧鹿村",
+                "lft": "9033",
+                "rght": "9034",
+                "population": "354",
+                "population_electors": "274",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546f277f-8b18-45e0-89fd-2f28cf91e152",
+                "keywords": "2014-11,村里長,臺東縣,海端鄉,霧鹿村"
+            }
+        }
+    ]
+}

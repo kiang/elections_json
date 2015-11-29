@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5593-2f50-42b2-864b-1926acb5b862",
+            "election_id": "53c0223b-3244-4b30-829a-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "610",
+            "name": "劉文明",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "大學",
+            "is_present": false,
+            "name_english": "LIUWENMING",
+            "birth_place": "臺灣省",
+            "birth": "1958-12-10",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:42:27",
+            "modified": "2015-02-08 23:45:08"
+        },
+        "Election": {
+            "id": "53c0223b-3244-4b30-829a-5c5aacb5b862",
+            "population_electors": "1294",
+            "population": "1603",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-1b88-4b7d-8c53-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01d2a-64f8-43ac-a9e8-5460acb5b862",
+                    "name": "中央村",
+                    "AreasElection": {
+                        "id": "53c0223b-dbac-4658-b83b-5c5aacb5b862",
+                        "Election_id": "53c0223b-3244-4b30-829a-5c5aacb5b862",
+                        "Area_id": "53c01d2a-64f8-43ac-a9e8-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0222a-d5c0-465f-849c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "嘉義縣",
+                "lft": "7019",
+                "rght": "7770",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02238-4244-4635-9cd8-5c5aacb5b862",
+                "parent_id": "53c0222a-d5c0-465f-849c-5c5aacb5b862",
+                "name": "民雄鄉",
+                "lft": "7206",
+                "rght": "7263",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0223b-3244-4b30-829a-5c5aacb5b862",
+                "parent_id": "53c02238-4244-4635-9cd8-5c5aacb5b862",
+                "name": "中央村",
+                "lft": "7249",
+                "rght": "7250",
+                "population": "1603",
+                "population_electors": "1294",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-1b88-4b7d-8c53-2adbcf91e152",
+                "keywords": "2014-11,村里長,嘉義縣,民雄鄉,中央村"
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "53c026f9-9f2c-46d7-9070-5dffacb5b862",
+            "election_id": "53c02550-811c-4fbf-8f6a-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "3039",
+            "name": "劉瑞銓",
+            "image": "",
+            "party": "中國國民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "3",
+            "education_level": "專科",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺中市",
+            "birth": "1967-03-29",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "0000-00-00 00:00:00",
+            "modified": "2015-02-08 23:41:15"
+        },
+        "Election": {
+            "id": "53c02550-811c-4fbf-8f6a-5c5aacb5b862",
+            "population_electors": "9461",
+            "population": "12327",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c8095-aa94-4077-ac34-61a3cf91e152",
+            "Area": [
+                {
+                    "id": "53c01f87-9ca0-4e18-8912-5460acb5b862",
+                    "name": "豐田里",
+                    "AreasElection": {
+                        "id": "53c02551-bdfc-40f5-82f3-5c5aacb5b862",
+                        "Election_id": "53c02550-811c-4fbf-8f6a-5c5aacb5b862",
+                        "Area_id": "53c01f87-9ca0-4e18-8912-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0254a-5b94-49bd-8036-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "豐原區",
+                "lft": "16830",
+                "rght": "16903",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02550-811c-4fbf-8f6a-5c5aacb5b862",
+                "parent_id": "53c0254a-5b94-49bd-8036-5c5aacb5b862",
+                "name": "豐田里",
+                "lft": "16875",
+                "rght": "16876",
+                "population": "12327",
+                "population_electors": "9461",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c8095-aa94-4077-ac34-61a3cf91e152",
+                "keywords": "2014-11,村里長,臺中市,豐原區,豐田里"
+            }
+        }
+    ]
+}

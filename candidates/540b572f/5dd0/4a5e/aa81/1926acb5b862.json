@@ -1,0 +1,149 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b572f-5dd0-4a5e-aa81-1926acb5b862",
+            "election_id": "53d7335d-a144-43bc-adbe-1299acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "785",
+            "name": "紀宗成",
+            "image": "55ebf3d9\/3274\/4527\/a642\/0c156ab936af.jpg",
+            "party": "中國國民黨",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "1",
+            "education_level": "高中",
+            "is_present": true,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1965-11-27",
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:49:19",
+            "modified": "2015-09-06 16:05:51"
+        },
+        "Election": {
+            "id": "53d7335d-a144-43bc-adbe-1299acb5b862",
+            "population_electors": "3663",
+            "population": "4753",
+            "quota": "3",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-726c-4258-88fb-74a5cf91e152",
+            "Area": [
+                {
+                    "id": "53c01cc2-a944-4a49-bdd6-5460acb5b862",
+                    "name": "竹元村",
+                    "AreasElection": {
+                        "id": "53d7335e-b138-42c0-b86f-1299acb5b862",
+                        "Election_id": "53d7335d-a144-43bc-adbe-1299acb5b862",
+                        "Area_id": "53c01cc2-a944-4a49-bdd6-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01cc3-dc28-4de9-b64b-5460acb5b862",
+                    "name": "小西村",
+                    "AreasElection": {
+                        "id": "53d7335e-096c-4bd6-98ce-1299acb5b862",
+                        "Election_id": "53d7335d-a144-43bc-adbe-1299acb5b862",
+                        "Area_id": "53c01cc3-dc28-4de9-b64b-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01cc3-dc4c-4414-b4a1-5460acb5b862",
+                    "name": "竹塘村",
+                    "AreasElection": {
+                        "id": "53d7335e-ca18-4db3-82bc-1299acb5b862",
+                        "Election_id": "53d7335d-a144-43bc-adbe-1299acb5b862",
+                        "Area_id": "53c01cc3-dc4c-4414-b4a1-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020bb-fd28-4ab5-ad62-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "1497",
+                "rght": "1738",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020c2-53dc-4791-bf4f-5c5aacb5b862",
+                "parent_id": "53c020bb-fd28-4ab5-ad62-5c5aacb5b862",
+                "name": "竹塘鄉",
+                "lft": "1718",
+                "rght": "1727",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d7335d-a144-43bc-adbe-1299acb5b862",
+                "parent_id": "53c020c2-53dc-4791-bf4f-5c5aacb5b862",
+                "name": "第01選舉區[區域]",
+                "lft": "1719",
+                "rght": "1720",
+                "population": "4753",
+                "population_electors": "3663",
+                "quota": "3",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-726c-4258-88fb-74a5cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,彰化縣,竹塘鄉,第01選舉區[區域]"
+            }
+        }
+    ]
+}

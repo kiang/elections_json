@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5360-4d78-46b7-9d67-1926acb5b862",
+            "election_id": "53c024e8-1294-4692-bb6b-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "234",
+            "name": "劉聰德",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "2",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "新北市",
+            "birth": "1962-11-25",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:33:04",
+            "modified": "2015-02-08 23:41:06"
+        },
+        "Election": {
+            "id": "53c024e8-1294-4692-bb6b-5c5aacb5b862",
+            "population_electors": "1297",
+            "population": "1563",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-cb58-48a6-9f4b-1a32cf91e152",
+            "Area": [
+                {
+                    "id": "53c01f39-41f8-4152-a731-5460acb5b862",
+                    "name": "龍山里",
+                    "AreasElection": {
+                        "id": "53c024e8-c604-4291-b04d-5c5aacb5b862",
+                        "Election_id": "53c024e8-1294-4692-bb6b-5c5aacb5b862",
+                        "Area_id": "53c01f39-41f8-4152-a731-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新北市",
+                "lft": "14261",
+                "rght": "16384",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c024e7-1b70-4594-a42f-5c5aacb5b862",
+                "parent_id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "name": "瑞芳區",
+                "lft": "15754",
+                "rght": "15823",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c024e8-1294-4692-bb6b-5c5aacb5b862",
+                "parent_id": "53c024e7-1b70-4594-a42f-5c5aacb5b862",
+                "name": "龍山里",
+                "lft": "15763",
+                "rght": "15764",
+                "population": "1563",
+                "population_electors": "1297",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-cb58-48a6-9f4b-1a32cf91e152",
+                "keywords": "2014-11,村里長,新北市,瑞芳區,龍山里"
+            }
+        }
+    ]
+}

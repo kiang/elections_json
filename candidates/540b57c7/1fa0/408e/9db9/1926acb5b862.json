@@ -1,0 +1,149 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b57c7-1fa0-408e-9db9-1926acb5b862",
+            "election_id": "53d732a5-7f6c-4c67-ba62-1299acb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "256",
+            "name": "謝耀寬",
+            "image": "54b21884\/51f8\/4126\/8dec\/0adc6ab936af.jpg",
+            "party": "無",
+            "contacts_phone": "",
+            "contacts_fax": "",
+            "contacts_email": "",
+            "contacts_address": "",
+            "links": "",
+            "gender": "m",
+            "no": "2",
+            "education_level": "",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "",
+            "birth": null,
+            "platform": "",
+            "education": "",
+            "experience": "",
+            "created": "2014-09-07 02:51:51",
+            "modified": "2015-02-08 23:42:06"
+        },
+        "Election": {
+            "id": "53d732a5-7f6c-4c67-ba62-1299acb5b862",
+            "population_electors": "1434",
+            "population": "1915",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-ce88-48b5-824d-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01bf5-0fd0-479e-83cd-5460acb5b862",
+                    "name": "復興村",
+                    "AreasElection": {
+                        "id": "53d732a6-8b40-457b-aaab-1299acb5b862",
+                        "Election_id": "53d732a5-7f6c-4c67-ba62-1299acb5b862",
+                        "Area_id": "53c01bf5-0fd0-479e-83cd-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01bf5-3e14-4f02-98e7-5460acb5b862",
+                    "name": "崙埤村",
+                    "AreasElection": {
+                        "id": "53d732a6-4b54-45c1-9159-1299acb5b862",
+                        "Election_id": "53d732a5-7f6c-4c67-ba62-1299acb5b862",
+                        "Area_id": "53c01bf5-3e14-4f02-98e7-5460acb5b862"
+                    }
+                },
+                {
+                    "id": "53c01bf5-5c00-4dfd-bccd-5460acb5b862",
+                    "name": "松羅村",
+                    "AreasElection": {
+                        "id": "53d732a6-c2dc-4225-9648-1299acb5b862",
+                        "Election_id": "53d732a5-7f6c-4c67-ba62-1299acb5b862",
+                        "Area_id": "53c01bf5-5c00-4dfd-bccd-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b1-2260-44dc-a0bc-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "宜蘭縣",
+                "lft": "1077",
+                "rght": "1200",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b3-e008-439b-a611-5c5aacb5b862",
+                "parent_id": "53c020b1-2260-44dc-a0bc-5c5aacb5b862",
+                "name": "大同鄉",
+                "lft": "1180",
+                "rght": "1189",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d732a5-7f6c-4c67-ba62-1299acb5b862",
+                "parent_id": "53c020b3-e008-439b-a611-5c5aacb5b862",
+                "name": "第02選舉區[區域]",
+                "lft": "1183",
+                "rght": "1184",
+                "population": "1915",
+                "population_electors": "1434",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-ce88-48b5-824d-2adbcf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,宜蘭縣,大同鄉,第02選舉區[區域]"
+            }
+        }
+    ]
+}

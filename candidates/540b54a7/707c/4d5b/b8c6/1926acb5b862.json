@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b54a7-707c-4d5b-b8c6-1926acb5b862",
+            "election_id": "53c0245a-153c-490f-b474-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "1",
+            "vote_count": "60",
+            "name": "謝文權",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "3",
+            "education_level": "高中",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "高雄市",
+            "birth": "1957-05-22",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:38:31",
+            "modified": "2015-02-08 23:40:51"
+        },
+        "Election": {
+            "id": "53c0245a-153c-490f-b474-5c5aacb5b862",
+            "population_electors": "1705",
+            "population": "2041",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb721-5d74-4e4b-ba39-2adbcf91e152",
+            "Area": [
+                {
+                    "id": "53c01eb9-fd9c-4139-b2f6-5460acb5b862",
+                    "name": "湄洲里",
+                    "AreasElection": {
+                        "id": "53c0245a-c2ac-415d-8471-5c5aacb5b862",
+                        "Election_id": "53c0245a-153c-490f-b474-5c5aacb5b862",
+                        "Area_id": "53c01eb9-fd9c-4139-b2f6-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02458-b564-48a9-ba5d-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "旗山區",
+                "lft": "14044",
+                "rght": "14087",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0245a-153c-490f-b474-5c5aacb5b862",
+                "parent_id": "53c02458-b564-48a9-ba5d-5c5aacb5b862",
+                "name": "湄洲里",
+                "lft": "14065",
+                "rght": "14066",
+                "population": "2041",
+                "population_electors": "1705",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb721-5d74-4e4b-ba39-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,旗山區,湄洲里"
+            }
+        }
+    ]
+}

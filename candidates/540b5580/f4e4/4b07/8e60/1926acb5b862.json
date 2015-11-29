@@ -1,0 +1,131 @@
+{
+    "candidate": {
+        "Candidate": {
+            "id": "540b5580-f4e4-4b07-8e60-1926acb5b862",
+            "election_id": "53c02224-fc88-4bed-85f7-5c5aacb5b862",
+            "is_reviewed": true,
+            "active_id": null,
+            "stage": "2",
+            "vote_count": "275",
+            "name": "蔡溪煌",
+            "image": null,
+            "party": "無",
+            "contacts_phone": null,
+            "contacts_fax": null,
+            "contacts_email": null,
+            "contacts_address": null,
+            "links": null,
+            "gender": "m",
+            "no": "1",
+            "education_level": "其他",
+            "is_present": false,
+            "name_english": "",
+            "birth_place": "臺灣省",
+            "birth": "1956-05-27",
+            "platform": "",
+            "education": null,
+            "experience": null,
+            "created": "2014-09-07 02:42:08",
+            "modified": "2015-02-08 23:45:05"
+        },
+        "Election": {
+            "id": "53c02224-fc88-4bed-85f7-5c5aacb5b862",
+            "population_electors": "869",
+            "population": "1046",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54744c85-3c88-4c11-9d44-45dccf91e152",
+            "Area": [
+                {
+                    "id": "53c01d15-efb4-419c-b816-5460acb5b862",
+                    "name": "埔北村",
+                    "AreasElection": {
+                        "id": "53c02224-7e9c-4c12-a119-5c5aacb5b862",
+                        "Election_id": "53c02224-fc88-4bed-85f7-5c5aacb5b862",
+                        "Area_id": "53c01d15-efb4-419c-b816-5460acb5b862"
+                    }
+                }
+            ]
+        },
+        "Tag": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "6201",
+                "rght": "7018",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02223-dbd4-4252-afb7-5c5aacb5b862",
+                "parent_id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "name": "口湖鄉",
+                "lft": "6924",
+                "rght": "6967",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02224-fc88-4bed-85f7-5c5aacb5b862",
+                "parent_id": "53c02223-dbd4-4252-afb7-5c5aacb5b862",
+                "name": "埔北村",
+                "lft": "6933",
+                "rght": "6934",
+                "population": "1046",
+                "population_electors": "869",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54744c85-3c88-4c11-9d44-45dccf91e152",
+                "keywords": "2014-11,村里長,雲林縣,口湖鄉,埔北村"
+            }
+        }
+    ]
+}
