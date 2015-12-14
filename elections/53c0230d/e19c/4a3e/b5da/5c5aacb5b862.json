@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0230d-e19c-4a3e-b5da-5c5aacb5b862",
+            "parent_id": "53c0230a-853c-462a-94fe-5c5aacb5b862",
+            "name": "和平里",
+            "lft": "9915",
+            "rght": "9916",
+            "population": "531",
+            "population_electors": "458",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546cd3af-77b8-4bd6-95b5-78ebcf91e152",
+            "keywords": "2014-11,村里長,基隆市,中山區,和平里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0288a-e62c-4b81-8a4b-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "張和妹",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c0230d-e19c-4a3e-b5da-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01ddf-d954-430b-a915-5460acb5b862",
+                "name": "和平里",
+                "is_area": true,
+                "keywords": "2014,基隆市,中山區,和平里",
+                "AreasElection": {
+                    "id": "53c0230d-c5e0-441f-95ab-5c5aacb5b862",
+                    "Election_id": "53c0230d-e19c-4a3e-b5da-5c5aacb5b862",
+                    "Area_id": "53c01ddf-d954-430b-a915-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "基隆市",
+                "lft": "9683",
+                "rght": "10012",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0230a-853c-462a-94fe-5c5aacb5b862",
+                "parent_id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "name": "中山區",
+                "lft": "9868",
+                "rght": "9917",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0230d-e19c-4a3e-b5da-5c5aacb5b862",
+                "parent_id": "53c0230a-853c-462a-94fe-5c5aacb5b862",
+                "name": "和平里",
+                "lft": "9915",
+                "rght": "9916",
+                "population": "531",
+                "population_electors": "458",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546cd3af-77b8-4bd6-95b5-78ebcf91e152",
+                "keywords": "2014-11,村里長,基隆市,中山區,和平里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

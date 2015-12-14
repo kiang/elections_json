@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c024b1-119c-4b06-b460-5c5aacb5b862",
+            "parent_id": "53c024ae-aed4-4408-9bc7-5c5aacb5b862",
+            "name": "中誠里",
+            "lft": "15115",
+            "rght": "15116",
+            "population": "2336",
+            "population_electors": "1898",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068c-4e90-45c6-9f96-1a32cf91e152",
+            "keywords": "2014-11,村里長,新北市,新莊區,中誠里"
+        },
+        "Candidate": [
+            {
+                "id": "53c026b9-69a0-40f8-98f5-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "沈丁子",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c024b1-119c-4b06-b460-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01f0a-e360-4421-b477-5460acb5b862",
+                "name": "中誠里",
+                "is_area": true,
+                "keywords": "2014,新北市,新莊區,中誠里",
+                "AreasElection": {
+                    "id": "53c024b1-4e48-4693-ae21-5c5aacb5b862",
+                    "Election_id": "53c024b1-119c-4b06-b460-5c5aacb5b862",
+                    "Area_id": "53c01f0a-e360-4421-b477-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新北市",
+                "lft": "14261",
+                "rght": "16384",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c024ae-aed4-4408-9bc7-5c5aacb5b862",
+                "parent_id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "name": "新莊區",
+                "lft": "15070",
+                "rght": "15239",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c024b1-119c-4b06-b460-5c5aacb5b862",
+                "parent_id": "53c024ae-aed4-4408-9bc7-5c5aacb5b862",
+                "name": "中誠里",
+                "lft": "15115",
+                "rght": "15116",
+                "population": "2336",
+                "population_electors": "1898",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068c-4e90-45c6-9f96-1a32cf91e152",
+                "keywords": "2014-11,村里長,新北市,新莊區,中誠里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,178 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d734d7-09b0-48c9-a623-1299acb5b862",
+            "parent_id": "53c020e1-8740-40f8-ae71-5c5aacb5b862",
+            "name": "第03選舉區[區域]",
+            "lft": "2773",
+            "rght": "2774",
+            "population": "1502",
+            "population_electors": "1193",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "546e068f-b704-4b3c-970f-1a32cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,澎湖縣,望安鄉,第03選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b57f7-4460-42ed-9cf9-1926acb5b862",
+                "image": "548d0a3d\/d068\/41ca\/b682\/70e56ab936af.jpg",
+                "stage": "2",
+                "name": "陳董金針",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53d734d7-09b0-48c9-a623-1299acb5b862"
+            },
+            {
+                "id": "540b57f7-b628-461d-99c9-1926acb5b862",
+                "image": "548d0a12\/8b84\/429f\/9fe0\/709f6ab936af.jpg",
+                "stage": "1",
+                "name": "陳明現",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d734d7-09b0-48c9-a623-1299acb5b862"
+            },
+            {
+                "id": "540b57f7-f808-4cbc-ac58-1926acb5b862",
+                "image": "548d0a62\/d9e0\/4e7c\/9b7c\/70d06ab936af.jpg",
+                "stage": "2",
+                "name": "呂福肯",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53d734d7-09b0-48c9-a623-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01dcd-4f88-4bea-baf9-5460acb5b862",
+                "name": "花嶼村",
+                "is_area": true,
+                "keywords": "2014,澎湖縣,望安鄉,花嶼村",
+                "AreasElection": {
+                    "id": "53d734d7-a8e4-4a90-b68d-1299acb5b862",
+                    "Election_id": "53d734d7-09b0-48c9-a623-1299acb5b862",
+                    "Area_id": "53c01dcd-4f88-4bea-baf9-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01dcd-7bf4-420a-9aa3-5460acb5b862",
+                "name": "東吉村",
+                "is_area": true,
+                "keywords": "2014,澎湖縣,望安鄉,東吉村",
+                "AreasElection": {
+                    "id": "53d734d7-0c64-46a2-b7b1-1299acb5b862",
+                    "Election_id": "53d734d7-09b0-48c9-a623-1299acb5b862",
+                    "Area_id": "53c01dcd-7bf4-420a-9aa3-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01dcd-9cc8-41d7-8c37-5460acb5b862",
+                "name": "西坪村",
+                "is_area": true,
+                "keywords": "2014,澎湖縣,望安鄉,西坪村",
+                "AreasElection": {
+                    "id": "53d734d7-7040-4a80-8ade-1299acb5b862",
+                    "Election_id": "53d734d7-09b0-48c9-a623-1299acb5b862",
+                    "Area_id": "53c01dcd-9cc8-41d7-8c37-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01dcd-c9c4-466e-a273-5460acb5b862",
+                "name": "東坪村",
+                "is_area": true,
+                "keywords": "2014,澎湖縣,望安鄉,東坪村",
+                "AreasElection": {
+                    "id": "53d734d7-8388-4adf-85d4-1299acb5b862",
+                    "Election_id": "53d734d7-09b0-48c9-a623-1299acb5b862",
+                    "Area_id": "53c01dcd-c9c4-466e-a273-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020df-ed64-4762-aa9a-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "澎湖縣",
+                "lft": "2731",
+                "rght": "2784",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020e1-8740-40f8-ae71-5c5aacb5b862",
+                "parent_id": "53c020df-ed64-4762-aa9a-5c5aacb5b862",
+                "name": "望安鄉",
+                "lft": "2768",
+                "rght": "2775",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d734d7-09b0-48c9-a623-1299acb5b862",
+                "parent_id": "53c020e1-8740-40f8-ae71-5c5aacb5b862",
+                "name": "第03選舉區[區域]",
+                "lft": "2773",
+                "rght": "2774",
+                "population": "1502",
+                "population_electors": "1193",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "546e068f-b704-4b3c-970f-1a32cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,澎湖縣,望安鄉,第03選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

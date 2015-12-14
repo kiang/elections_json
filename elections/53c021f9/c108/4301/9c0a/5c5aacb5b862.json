@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c021f9-c108-4301-9c0a-5c5aacb5b862",
+            "parent_id": "53c021f5-c158-4f44-9a45-5c5aacb5b862",
+            "name": "興中里",
+            "lft": "6375",
+            "rght": "6376",
+            "population": "1901",
+            "population_electors": "1574",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546edee5-28b4-4189-8f20-3ce1cf91e152",
+            "keywords": "2014-11,村里長,雲林縣,虎尾鎮,興中里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02804-f074-455a-a849-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "蔡忠化",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "TSAI Chung Hha",
+                "election_id": "53c021f9-c108-4301-9c0a-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01cf2-943c-4311-a272-5460acb5b862",
+                "name": "興中里",
+                "is_area": true,
+                "keywords": "2014,雲林縣,虎尾鎮,興中里",
+                "AreasElection": {
+                    "id": "53c021f9-c894-472e-b721-5c5aacb5b862",
+                    "Election_id": "53c021f9-c108-4301-9c0a-5c5aacb5b862",
+                    "Area_id": "53c01cf2-943c-4311-a272-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "6201",
+                "rght": "7018",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021f5-c158-4f44-9a45-5c5aacb5b862",
+                "parent_id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "name": "虎尾鎮",
+                "lft": "6326",
+                "rght": "6385",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021f9-c108-4301-9c0a-5c5aacb5b862",
+                "parent_id": "53c021f5-c158-4f44-9a45-5c5aacb5b862",
+                "name": "興中里",
+                "lft": "6375",
+                "rght": "6376",
+                "population": "1901",
+                "population_electors": "1574",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546edee5-28b4-4189-8f20-3ce1cf91e152",
+                "keywords": "2014-11,村里長,雲林縣,虎尾鎮,興中里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

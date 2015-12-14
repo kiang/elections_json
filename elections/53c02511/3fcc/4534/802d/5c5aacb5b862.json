@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02511-3fcc-4534-802d-5c5aacb5b862",
+            "parent_id": "53c0250f-b134-42c5-a24e-5c5aacb5b862",
+            "name": "錫板里",
+            "lft": "16189",
+            "rght": "16190",
+            "population": "838",
+            "population_electors": "730",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068c-1458-428b-821b-1a32cf91e152",
+            "keywords": "2014-11,村里長,新北市,三芝區,錫板里"
+        },
+        "Candidate": [
+            {
+                "id": "53c026dd-17c0-4fed-b050-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "陳燕國",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "CHEN YEN KUO",
+                "election_id": "53c02511-3fcc-4534-802d-5c5aacb5b862"
+            },
+            {
+                "id": "540b5375-99d8-418b-b7e6-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "鍾棟良",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02511-3fcc-4534-802d-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01f57-fdc0-41c4-9352-5460acb5b862",
+                "name": "錫板里",
+                "is_area": true,
+                "keywords": "2014,新北市,三芝區,錫板里",
+                "AreasElection": {
+                    "id": "53c02512-2434-4d1d-9990-5c5aacb5b862",
+                    "Election_id": "53c02511-3fcc-4534-802d-5c5aacb5b862",
+                    "Area_id": "53c01f57-fdc0-41c4-9352-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新北市",
+                "lft": "14261",
+                "rght": "16384",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0250f-b134-42c5-a24e-5c5aacb5b862",
+                "parent_id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "name": "三芝區",
+                "lft": "16172",
+                "rght": "16199",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02511-3fcc-4534-802d-5c5aacb5b862",
+                "parent_id": "53c0250f-b134-42c5-a24e-5c5aacb5b862",
+                "name": "錫板里",
+                "lft": "16189",
+                "rght": "16190",
+                "population": "838",
+                "population_electors": "730",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068c-1458-428b-821b-1a32cf91e152",
+                "keywords": "2014-11,村里長,新北市,三芝區,錫板里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,189 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d733c3-3434-4f48-97f3-1299acb5b862",
+            "parent_id": "53c020c7-4ad4-402b-9855-5c5aacb5b862",
+            "name": "第01選舉區[區域]",
+            "lft": "1953",
+            "rght": "1954",
+            "population": "5796",
+            "population_electors": "4557",
+            "quota": "3",
+            "quota_women": "0",
+            "bulletin_key": "546ebce3-fea4-4da0-817b-2b96cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,雲林縣,林內鄉,第01選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b5757-04b0-40ce-984f-1926acb5b862",
+                "image": "54c0fd8d\/f398\/43e5\/bf70\/2f6f6ab936af.jpg",
+                "stage": "1",
+                "name": "詹天銘",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "CHAN TIEN MING",
+                "election_id": "53d733c3-3434-4f48-97f3-1299acb5b862"
+            },
+            {
+                "id": "540b5757-961c-4ac2-bf43-1926acb5b862",
+                "image": "54c0fce1\/9eb0\/454c\/a06f\/2f386ab936af.jpg",
+                "stage": "2",
+                "name": "李松謄",
+                "party": "無",
+                "gender": "m",
+                "no": "4",
+                "name_english": "",
+                "election_id": "53d733c3-3434-4f48-97f3-1299acb5b862"
+            },
+            {
+                "id": "540b5757-b02c-48bb-8db8-1926acb5b862",
+                "image": "54c0fd10\/cae0\/4a5b\/87f0\/2f416ab936af.jpg",
+                "stage": "2",
+                "name": "許林玉琴",
+                "party": "無",
+                "gender": "f",
+                "no": "5",
+                "name_english": "",
+                "election_id": "53d733c3-3434-4f48-97f3-1299acb5b862"
+            },
+            {
+                "id": "540b5757-dd1c-41e2-8803-1926acb5b862",
+                "image": "54c0fc97\/f450\/456d\/80aa\/2f056ab936af.jpg",
+                "stage": "2",
+                "name": "鄭惟仁",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "CHENG WEI JEN",
+                "election_id": "53d733c3-3434-4f48-97f3-1299acb5b862"
+            },
+            {
+                "id": "540b5757-e5a8-45dd-9d13-1926acb5b862",
+                "image": "54c0fdd4\/ee34\/4713\/a8d3\/2f966ab936af.jpg",
+                "stage": "1",
+                "name": "陳漢世",
+                "party": "無",
+                "gender": "m",
+                "no": "6",
+                "name_english": "CHEN HAN SHIH",
+                "election_id": "53d733c3-3434-4f48-97f3-1299acb5b862"
+            },
+            {
+                "id": "540b5757-eed8-4549-849e-1926acb5b862",
+                "image": "54c0fd4c\/0c24\/41fc\/9daa\/2f606ab936af.jpg",
+                "stage": "1",
+                "name": "蔡學坤",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d733c3-3434-4f48-97f3-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d02-cfe8-42b1-b4c2-5460acb5b862",
+                "name": "林南村",
+                "is_area": true,
+                "keywords": "2014,雲林縣,林內鄉,林南村",
+                "AreasElection": {
+                    "id": "53d733c4-ceac-4fc0-b4c1-1299acb5b862",
+                    "Election_id": "53d733c3-3434-4f48-97f3-1299acb5b862",
+                    "Area_id": "53c01d02-cfe8-42b1-b4c2-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d03-9338-40b1-958b-5460acb5b862",
+                "name": "林中村",
+                "is_area": true,
+                "keywords": "2014,雲林縣,林內鄉,林中村",
+                "AreasElection": {
+                    "id": "53d733c4-6fc0-4146-a649-1299acb5b862",
+                    "Election_id": "53d733c3-3434-4f48-97f3-1299acb5b862",
+                    "Area_id": "53c01d03-9338-40b1-958b-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020c5-1718-4aea-8b3b-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "1865",
+                "rght": "2062",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020c7-4ad4-402b-9855-5c5aacb5b862",
+                "parent_id": "53c020c5-1718-4aea-8b3b-5c5aacb5b862",
+                "name": "林內鄉",
+                "lft": "1952",
+                "rght": "1961",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d733c3-3434-4f48-97f3-1299acb5b862",
+                "parent_id": "53c020c7-4ad4-402b-9855-5c5aacb5b862",
+                "name": "第01選舉區[區域]",
+                "lft": "1953",
+                "rght": "1954",
+                "population": "5796",
+                "population_electors": "4557",
+                "quota": "3",
+                "quota_women": "0",
+                "bulletin_key": "546ebce3-fea4-4da0-817b-2b96cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,雲林縣,林內鄉,第01選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

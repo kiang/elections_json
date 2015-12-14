@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c023ae-7f98-49ec-abf6-5c5aacb5b862",
+            "parent_id": "53c023aa-4d98-4ee9-bb4e-5c5aacb5b862",
+            "name": "重慶里",
+            "lft": "11911",
+            "rght": "11912",
+            "population": "7298",
+            "population_electors": "5782",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-46d4-4d2b-9a3c-4187cf91e152",
+            "keywords": "2014-11,村里長,臺北市,大同區,重慶里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02640-fd48-41a7-a017-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "莊俊王",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c023ae-7f98-49ec-abf6-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01e25-8bd8-40a4-b3b9-5460acb5b862",
+                "name": "重慶里",
+                "is_area": true,
+                "keywords": "2014,臺北市,大同區,重慶里",
+                "AreasElection": {
+                    "id": "53c023ae-1d68-4f52-8bcb-5c5aacb5b862",
+                    "Election_id": "53c023ae-7f98-49ec-abf6-5c5aacb5b862",
+                    "Area_id": "53c01e25-8bd8-40a4-b3b9-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023aa-4d98-4ee9-bb4e-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "大同區",
+                "lft": "11868",
+                "rght": "11919",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023ae-7f98-49ec-abf6-5c5aacb5b862",
+                "parent_id": "53c023aa-4d98-4ee9-bb4e-5c5aacb5b862",
+                "name": "重慶里",
+                "lft": "11911",
+                "rght": "11912",
+                "population": "7298",
+                "population_electors": "5782",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-46d4-4d2b-9a3c-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,大同區,重慶里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

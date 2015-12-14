@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02106-6144-455c-88a1-5c5aacb5b862",
+            "parent_id": "53c02105-f500-4659-a9d1-5c5aacb5b862",
+            "name": "古結村",
+            "lft": "3223",
+            "rght": "3224",
+            "population": "1216",
+            "population_electors": "1012",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-d624-4619-bce5-2adbcf91e152",
+            "keywords": "2014-11,村里長,宜蘭縣,壯圍鄉,古結村"
+        },
+        "Candidate": [
+            {
+                "id": "53c0275f-9cc0-44aa-a98f-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "賴建國",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02106-6144-455c-88a1-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01bea-5f8c-4df4-bd3c-5460acb5b862",
+                "name": "古結村",
+                "is_area": true,
+                "keywords": "2014,宜蘭縣,壯圍鄉,古結村",
+                "AreasElection": {
+                    "id": "53c02107-c930-4702-b52f-5c5aacb5b862",
+                    "Election_id": "53c02106-6144-455c-88a1-5c5aacb5b862",
+                    "Area_id": "53c01bea-5f8c-4df4-bd3c-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ef-6268-4b1a-a16d-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "宜蘭縣",
+                "lft": "2929",
+                "rght": "3420",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02105-f500-4659-a9d1-5c5aacb5b862",
+                "parent_id": "53c020ef-6268-4b1a-a16d-5c5aacb5b862",
+                "name": "壯圍鄉",
+                "lft": "3198",
+                "rght": "3227",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02106-6144-455c-88a1-5c5aacb5b862",
+                "parent_id": "53c02105-f500-4659-a9d1-5c5aacb5b862",
+                "name": "古結村",
+                "lft": "3223",
+                "rght": "3224",
+                "population": "1216",
+                "population_electors": "1012",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-d624-4619-bce5-2adbcf91e152",
+                "keywords": "2014-11,村里長,宜蘭縣,壯圍鄉,古結村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0258c-1500-4bef-b5b3-5c5aacb5b862",
+            "parent_id": "53c0258b-49bc-4301-a0fe-5c5aacb5b862",
+            "name": "建國里",
+            "lft": "17549",
+            "rght": "17550",
+            "population": "3471",
+            "population_electors": "2764",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546d8db9-eaf4-43d2-805d-0e51cf91e152",
+            "keywords": "2014-11,村里長,臺中市,太平區,建國里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02715-f968-41ee-a2b2-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "江德海",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c0258c-1500-4bef-b5b3-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01fb7-8b64-4551-a5c5-5460acb5b862",
+                "name": "建國里",
+                "is_area": true,
+                "keywords": "2014,臺中市,太平區,建國里",
+                "AreasElection": {
+                    "id": "53c0258c-2540-436a-a90f-5c5aacb5b862",
+                    "Election_id": "53c0258c-1500-4bef-b5b3-5c5aacb5b862",
+                    "Area_id": "53c01fb7-8b64-4551-a5c5-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0258b-49bc-4301-a0fe-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "太平區",
+                "lft": "17540",
+                "rght": "17619",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0258c-1500-4bef-b5b3-5c5aacb5b862",
+                "parent_id": "53c0258b-49bc-4301-a0fe-5c5aacb5b862",
+                "name": "建國里",
+                "lft": "17549",
+                "rght": "17550",
+                "population": "3471",
+                "population_electors": "2764",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546d8db9-eaf4-43d2-805d-0e51cf91e152",
+                "keywords": "2014-11,村里長,臺中市,太平區,建國里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02453-46e4-499b-973c-5c5aacb5b862",
+            "parent_id": "53c02453-5720-42cb-879c-5c5aacb5b862",
+            "name": "鹽田里",
+            "lft": "13979",
+            "rght": "13980",
+            "population": "440",
+            "population_electors": "374",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54704b05-3d60-43e9-9ede-1495cf91e152",
+            "keywords": "2014-11,村里長,高雄市,永安區,鹽田里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0268f-7434-4390-8f8e-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "黃福來",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02453-46e4-499b-973c-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01eb3-a7f8-4169-a035-5460acb5b862",
+                "name": "鹽田里",
+                "is_area": true,
+                "keywords": "2014,高雄市,永安區,鹽田里",
+                "AreasElection": {
+                    "id": "53c02453-f68c-4c90-9f4a-5c5aacb5b862",
+                    "Election_id": "53c02453-46e4-499b-973c-5c5aacb5b862",
+                    "Area_id": "53c01eb3-a7f8-4169-a035-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02453-5720-42cb-879c-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "永安區",
+                "lft": "13972",
+                "rght": "13985",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02453-46e4-499b-973c-5c5aacb5b862",
+                "parent_id": "53c02453-5720-42cb-879c-5c5aacb5b862",
+                "name": "鹽田里",
+                "lft": "13979",
+                "rght": "13980",
+                "population": "440",
+                "population_electors": "374",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54704b05-3d60-43e9-9ede-1495cf91e152",
+                "keywords": "2014-11,村里長,高雄市,永安區,鹽田里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

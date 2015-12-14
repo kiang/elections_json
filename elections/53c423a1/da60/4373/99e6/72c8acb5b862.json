@@ -1,0 +1,167 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c423a1-da60-4373-99e6-72c8acb5b862",
+            "parent_id": "53c42063-a664-4ec8-b81b-7258acb5b862",
+            "name": "第02選舉區",
+            "lft": "245",
+            "rght": "246",
+            "population": "1458",
+            "population_electors": "1082",
+            "quota": "3",
+            "quota_women": "0",
+            "bulletin_key": "54704b05-3f20-4065-aa59-1495cf91e152",
+            "keywords": "2014-11,直轄市山地原住民區民代表,高雄市,那瑪夏區,第02選舉區"
+        },
+        "Candidate": [
+            {
+                "id": "540b5678-3abc-4f6f-8d5c-1926acb5b862",
+                "image": "548ef5d0\/6af8\/469c\/a5d9\/687c6ab936af.jpg",
+                "stage": "2",
+                "name": "李惠民",
+                "party": "無",
+                "gender": "m",
+                "no": "4",
+                "name_english": "",
+                "election_id": "53c423a1-da60-4373-99e6-72c8acb5b862"
+            },
+            {
+                "id": "540b5678-9f98-49ea-92dc-1926acb5b862",
+                "image": "548ef573\/1468\/47a4\/a587\/689e6ab936af.jpg",
+                "stage": "1",
+                "name": "許齡銘 Lumu Takisdahuan",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c423a1-da60-4373-99e6-72c8acb5b862"
+            },
+            {
+                "id": "540b5678-d9b0-47fb-8b36-1926acb5b862",
+                "image": "548ef5b3\/ac6c\/4874\/99fd\/68b06ab936af.jpg",
+                "stage": "2",
+                "name": "孫榮貴 Istanda．Vachi",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53c423a1-da60-4373-99e6-72c8acb5b862"
+            },
+            {
+                "id": "540b5678-f3fc-4cd7-af5b-1926acb5b862",
+                "image": "548ef590\/0d04\/430b\/b77d\/68b06ab936af.jpg",
+                "stage": "2",
+                "name": "趙文彬 Umas．Sukluman",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "CHAO WEN PIN",
+                "election_id": "53c423a1-da60-4373-99e6-72c8acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01ec7-1fc0-4254-be0b-5460acb5b862",
+                "name": "瑪雅里",
+                "is_area": true,
+                "keywords": "2014,高雄市,那瑪夏區,瑪雅里",
+                "AreasElection": {
+                    "id": "53c423a2-fe34-4ab7-98fa-72c8acb5b862",
+                    "Election_id": "53c423a1-da60-4373-99e6-72c8acb5b862",
+                    "Area_id": "53c01ec7-1fc0-4254-be0b-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01ec7-cd68-4988-b2aa-5460acb5b862",
+                "name": "南沙魯里",
+                "is_area": true,
+                "keywords": "2014,高雄市,那瑪夏區,南沙魯里",
+                "AreasElection": {
+                    "id": "53c423a2-70c4-412f-ac95-72c8acb5b862",
+                    "Election_id": "53c423a1-da60-4373-99e6-72c8acb5b862",
+                    "Area_id": "53c01ec7-cd68-4988-b2aa-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-96ac-4ca2-b338-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市山地原住民區民代表",
+                "lft": "218",
+                "rght": "271",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c42061-12a4-4a1b-b564-7258acb5b862",
+                "parent_id": "53c0202f-96ac-4ca2-b338-5460acb5b862",
+                "name": "高雄市",
+                "lft": "229",
+                "rght": "248",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c42063-a664-4ec8-b81b-7258acb5b862",
+                "parent_id": "53c42061-12a4-4a1b-b564-7258acb5b862",
+                "name": "那瑪夏區",
+                "lft": "242",
+                "rght": "247",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c423a1-da60-4373-99e6-72c8acb5b862",
+                "parent_id": "53c42063-a664-4ec8-b81b-7258acb5b862",
+                "name": "第02選舉區",
+                "lft": "245",
+                "rght": "246",
+                "population": "1458",
+                "population_electors": "1082",
+                "quota": "3",
+                "quota_women": "0",
+                "bulletin_key": "54704b05-3f20-4065-aa59-1495cf91e152",
+                "keywords": "2014-11,直轄市山地原住民區民代表,高雄市,那瑪夏區,第02選舉區"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

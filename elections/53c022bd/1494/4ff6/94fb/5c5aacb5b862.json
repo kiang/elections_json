@@ -1,0 +1,145 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c022bd-1494-4ff6-94fb-5c5aacb5b862",
+            "parent_id": "53c022bd-6800-4739-a358-5c5aacb5b862",
+            "name": "嘉豐村",
+            "lft": "8897",
+            "rght": "8898",
+            "population": "596",
+            "population_electors": "494",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546f277f-5314-4608-b8b6-2f28cf91e152",
+            "keywords": "2014-11,村里長,臺東縣,卑南鄉,嘉豐村"
+        },
+        "Candidate": [
+            {
+                "id": "53c02862-b4bc-4f2f-a097-5dffacb5b862",
+                "image": null,
+                "stage": "0",
+                "name": "沈藤参",
+                "party": null,
+                "gender": null,
+                "no": "0",
+                "name_english": "",
+                "election_id": "53c022bd-1494-4ff6-94fb-5c5aacb5b862"
+            },
+            {
+                "id": "540b5628-f13c-4b99-8f95-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "林智郎",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c022bd-1494-4ff6-94fb-5c5aacb5b862"
+            },
+            {
+                "id": "540b5629-82e4-40ee-be08-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "沈藤叁",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c022bd-1494-4ff6-94fb-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d9d-b068-4b20-91d9-5460acb5b862",
+                "name": "嘉豐村",
+                "is_area": true,
+                "keywords": "2014,臺東縣,卑南鄉,嘉豐村",
+                "AreasElection": {
+                    "id": "53c022bd-9ac4-40fc-9cd8-5c5aacb5b862",
+                    "Election_id": "53c022bd-1494-4ff6-94fb-5c5aacb5b862",
+                    "Area_id": "53c01d9d-b068-4b20-91d9-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022b2-b9f0-4517-825f-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺東縣",
+                "lft": "8767",
+                "rght": "9094",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022bd-6800-4739-a358-5c5aacb5b862",
+                "parent_id": "53c022b2-b9f0-4517-825f-5c5aacb5b862",
+                "name": "卑南鄉",
+                "lft": "8896",
+                "rght": "8923",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022bd-1494-4ff6-94fb-5c5aacb5b862",
+                "parent_id": "53c022bd-6800-4739-a358-5c5aacb5b862",
+                "name": "嘉豐村",
+                "lft": "8897",
+                "rght": "8898",
+                "population": "596",
+                "population_electors": "494",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546f277f-5314-4608-b8b6-2f28cf91e152",
+                "keywords": "2014-11,村里長,臺東縣,卑南鄉,嘉豐村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c021ae-2f8c-45e7-bd3f-5c5aacb5b862",
+            "parent_id": "53c021ab-ac18-4535-883c-5c5aacb5b862",
+            "name": "梅芳里",
+            "lft": "5407",
+            "rght": "5408",
+            "population": "1289",
+            "population_electors": "1083",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-57d4-4a42-930f-74a5cf91e152",
+            "keywords": "2014-11,村里長,彰化縣,二林鎮,梅芳里"
+        },
+        "Candidate": [
+            {
+                "id": "53c027db-a674-4781-bb1f-5dffacb5b862",
+                "image": "54609a5c\/9580\/4f70\/ae78\/61ad8e043389.jpg",
+                "stage": "2",
+                "name": "吳坤哲",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "WU KUN CHE",
+                "election_id": "53c021ae-2f8c-45e7-bd3f-5c5aacb5b862"
+            },
+            {
+                "id": "540b5527-f8f0-4323-a641-1926acb5b862",
+                "image": "546dca00\/6058\/4cd2\/889d\/17f48e043389.jpg",
+                "stage": "1",
+                "name": "吳朝堅",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "WU CHAO CHIEN",
+                "election_id": "53c021ae-2f8c-45e7-bd3f-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01cb8-b980-482c-a11d-5460acb5b862",
+                "name": "梅芳里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,二林鎮,梅芳里",
+                "AreasElection": {
+                    "id": "53c021af-e91c-4c63-b7f5-5c5aacb5b862",
+                    "Election_id": "53c021ae-2f8c-45e7-bd3f-5c5aacb5b862",
+                    "Area_id": "53c01cb8-b980-482c-a11d-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "4417",
+                "rght": "5648",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ab-ac18-4535-883c-5c5aacb5b862",
+                "parent_id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "name": "二林鎮",
+                "lft": "5358",
+                "rght": "5413",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ae-2f8c-45e7-bd3f-5c5aacb5b862",
+                "parent_id": "53c021ab-ac18-4535-883c-5c5aacb5b862",
+                "name": "梅芳里",
+                "lft": "5407",
+                "rght": "5408",
+                "population": "1289",
+                "population_electors": "1083",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-57d4-4a42-930f-74a5cf91e152",
+                "keywords": "2014-11,村里長,彰化縣,二林鎮,梅芳里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

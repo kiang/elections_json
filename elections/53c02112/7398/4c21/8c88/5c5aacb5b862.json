@@ -1,0 +1,145 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02112-7398-4c21-8c88-5c5aacb5b862",
+            "parent_id": "53c02112-e754-4788-9563-5c5aacb5b862",
+            "name": "松羅村",
+            "lft": "3389",
+            "rght": "3390",
+            "population": "845",
+            "population_electors": "627",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-488c-4eab-a2ac-2adbcf91e152",
+            "keywords": "2014-11,村里長,宜蘭縣,大同鄉,松羅村"
+        },
+        "Candidate": [
+            {
+                "id": "53c02764-9824-495e-8a34-5dffacb5b862",
+                "image": null,
+                "stage": "0",
+                "name": "鄧李阿菊",
+                "party": null,
+                "gender": null,
+                "no": "0",
+                "name_english": "",
+                "election_id": "53c02112-7398-4c21-8c88-5c5aacb5b862"
+            },
+            {
+                "id": "540b5606-d114-4293-b5a5-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "何傳正",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c02112-7398-4c21-8c88-5c5aacb5b862"
+            },
+            {
+                "id": "540b5606-d4e8-47a2-8de6-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "高國華",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02112-7398-4c21-8c88-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01bf5-5c00-4dfd-bccd-5460acb5b862",
+                "name": "松羅村",
+                "is_area": true,
+                "keywords": "2014,宜蘭縣,大同鄉,松羅村",
+                "AreasElection": {
+                    "id": "53c02112-4a98-4532-b740-5c5aacb5b862",
+                    "Election_id": "53c02112-7398-4c21-8c88-5c5aacb5b862",
+                    "Area_id": "53c01bf5-5c00-4dfd-bccd-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ef-6268-4b1a-a16d-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "宜蘭縣",
+                "lft": "2929",
+                "rght": "3420",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02112-e754-4788-9563-5c5aacb5b862",
+                "parent_id": "53c020ef-6268-4b1a-a16d-5c5aacb5b862",
+                "name": "大同鄉",
+                "lft": "3382",
+                "rght": "3403",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02112-7398-4c21-8c88-5c5aacb5b862",
+                "parent_id": "53c02112-e754-4788-9563-5c5aacb5b862",
+                "name": "松羅村",
+                "lft": "3389",
+                "rght": "3390",
+                "population": "845",
+                "population_electors": "627",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-488c-4eab-a2ac-2adbcf91e152",
+                "keywords": "2014-11,村里長,宜蘭縣,大同鄉,松羅村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

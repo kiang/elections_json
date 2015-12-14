@@ -1,0 +1,185 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c400a7-430c-42cc-bc1d-6cceacb5b862",
+            "parent_id": "53c0207f-29bc-4258-90c0-5c5aacb5b862",
+            "name": "第04選區[區域]",
+            "lft": "164",
+            "rght": "165",
+            "population": "114888",
+            "population_electors": "94461",
+            "quota": "3",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-bd40-424b-b8ee-74a5cf91e152",
+            "keywords": "2014-11,直轄市議員,臺南市,第04選區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "53c68fae-5504-4c24-a796-0f15acb5b862",
+                "image": "548adb1d\/5ed4\/4cbf\/8002\/7adf6ab936af.jpg",
+                "stage": "2",
+                "name": "吳通龍",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "Wu Tung Lung",
+                "election_id": "53c400a7-430c-42cc-bc1d-6cceacb5b862"
+            },
+            {
+                "id": "53c68fae-9cc0-46cf-b779-0f15acb5b862",
+                "image": "548ada96\/6db0\/47ec\/82e5\/7ada6ab936af.jpg",
+                "stage": "1",
+                "name": "楊麗玉",
+                "party": "民主進步黨",
+                "gender": "f",
+                "no": "1",
+                "name_english": "Yang Teresa",
+                "election_id": "53c400a7-430c-42cc-bc1d-6cceacb5b862"
+            },
+            {
+                "id": "53c68fae-de44-4097-be3a-0f15acb5b862",
+                "image": "548adc5d\/4c40\/4a13\/9e83\/7b536ab936af.jpg",
+                "stage": "2",
+                "name": "郭秀珠",
+                "party": "無",
+                "gender": "f",
+                "no": "4",
+                "name_english": "Kuo Hsiu Chu",
+                "election_id": "53c400a7-430c-42cc-bc1d-6cceacb5b862"
+            },
+            {
+                "id": "53c68fae-f9dc-40ff-a937-0f15acb5b862",
+                "image": "548adbfc\/8eb8\/4ace\/b672\/7b306ab936af.jpg",
+                "stage": "2",
+                "name": "陳文賢",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "3",
+                "name_english": "Chen Wen Hsien",
+                "election_id": "53c400a7-430c-42cc-bc1d-6cceacb5b862"
+            },
+            {
+                "id": "540b5693-1be8-486b-906d-1926acb5b862",
+                "image": "548ada5e\/9860\/4ed9\/9517\/7adb6ab936af.jpg",
+                "stage": "1",
+                "name": "尤榮智",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "5",
+                "name_english": "",
+                "election_id": "53c400a7-430c-42cc-bc1d-6cceacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01fd2-1124-46ae-9e28-5460acb5b862",
+                "name": "麻豆區",
+                "is_area": true,
+                "keywords": "2014,臺南市,麻豆區",
+                "AreasElection": {
+                    "id": "53c406ea-1a38-456a-8b88-6dacacb5b862",
+                    "Election_id": "53c400a7-430c-42cc-bc1d-6cceacb5b862",
+                    "Area_id": "53c01fd2-1124-46ae-9e28-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01fd6-a7cc-4590-8f7e-5460acb5b862",
+                "name": "下營區",
+                "is_area": true,
+                "keywords": "2014,臺南市,下營區",
+                "AreasElection": {
+                    "id": "53c406ea-470c-4308-ab0b-6dacacb5b862",
+                    "Election_id": "53c400a7-430c-42cc-bc1d-6cceacb5b862",
+                    "Area_id": "53c01fd6-a7cc-4590-8f7e-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01fd8-2a68-461d-9c7d-5460acb5b862",
+                "name": "六甲區",
+                "is_area": true,
+                "keywords": "2014,臺南市,六甲區",
+                "AreasElection": {
+                    "id": "53c406ea-91e4-46b9-89d5-6dacacb5b862",
+                    "Election_id": "53c400a7-430c-42cc-bc1d-6cceacb5b862",
+                    "Area_id": "53c01fd8-2a68-461d-9c7d-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01fda-b514-40b6-86a9-5460acb5b862",
+                "name": "官田區",
+                "is_area": true,
+                "keywords": "2014,臺南市,官田區",
+                "AreasElection": {
+                    "id": "53c406ea-47e4-4da3-9513-6dacacb5b862",
+                    "Election_id": "53c400a7-430c-42cc-bc1d-6cceacb5b862",
+                    "Area_id": "53c01fda-b514-40b6-86a9-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207f-29bc-4258-90c0-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "臺南市",
+                "lft": "157",
+                "rght": "194",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c400a7-430c-42cc-bc1d-6cceacb5b862",
+                "parent_id": "53c0207f-29bc-4258-90c0-5c5aacb5b862",
+                "name": "第04選區[區域]",
+                "lft": "164",
+                "rght": "165",
+                "population": "114888",
+                "population_electors": "94461",
+                "quota": "3",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-bd40-424b-b8ee-74a5cf91e152",
+                "keywords": "2014-11,直轄市議員,臺南市,第04選區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

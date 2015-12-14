@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02342-3c84-48d9-bd9c-5c5aacb5b862",
+            "parent_id": "53c02338-c440-45d1-8313-5c5aacb5b862",
+            "name": "長德里",
+            "lft": "10559",
+            "rght": "10560",
+            "population": "5437",
+            "population_electors": "4362",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "keywords": "2014-11,村里長,桃園市,桃園區,長德里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0276b-a690-4e01-85dc-5dffacb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "林李福",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "LIN LEE FU",
+                "election_id": "53c02342-3c84-48d9-bd9c-5c5aacb5b862"
+            },
+            {
+                "id": "540b5385-d8e4-43d0-9743-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "黃平達",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "HUANG PING TA",
+                "election_id": "53c02342-3c84-48d9-bd9c-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01bfe-4334-45a1-a3e9-5460acb5b862",
+                "name": "長德里",
+                "is_area": true,
+                "keywords": "2014,桃園市,桃園區,長德里",
+                "AreasElection": {
+                    "id": "53c02342-7c94-45b1-9424-5c5aacb5b862",
+                    "Election_id": "53c02342-3c84-48d9-bd9c-5c5aacb5b862",
+                    "Area_id": "53c01bfe-4334-45a1-a3e9-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "桃園市",
+                "lft": "10439",
+                "rght": "11456",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02338-c440-45d1-8313-5c5aacb5b862",
+                "parent_id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "name": "桃園區",
+                "lft": "10440",
+                "rght": "10593",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02342-3c84-48d9-bd9c-5c5aacb5b862",
+                "parent_id": "53c02338-c440-45d1-8313-5c5aacb5b862",
+                "name": "長德里",
+                "lft": "10559",
+                "rght": "10560",
+                "population": "5437",
+                "population_electors": "4362",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2014-11,村里長,桃園市,桃園區,長德里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,167 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02412-aadc-4d71-a92e-5c5aacb5b862",
+            "parent_id": "53c0240c-9e90-4444-95a6-5c5aacb5b862",
+            "name": "忠純里",
+            "lft": "13147",
+            "rght": "13148",
+            "population": "5635",
+            "population_electors": "4790",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb720-c720-4c7d-af7c-2adbcf91e152",
+            "keywords": "2014-11,村里長,高雄市,前鎮區,忠純里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0266f-9844-44f8-9429-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "艾台民",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "5",
+                "name_english": "I Taimin",
+                "election_id": "53c02412-aadc-4d71-a92e-5c5aacb5b862"
+            },
+            {
+                "id": "540b5476-1aa0-4e2f-9069-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "胡慶明",
+                "party": "無",
+                "gender": "m",
+                "no": "4",
+                "name_english": "HU CHIN MING",
+                "election_id": "53c02412-aadc-4d71-a92e-5c5aacb5b862"
+            },
+            {
+                "id": "540b5476-47e8-482e-bdee-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "黃素芬",
+                "party": "無",
+                "gender": "f",
+                "no": "3",
+                "name_english": "HUANG SU FEN",
+                "election_id": "53c02412-aadc-4d71-a92e-5c5aacb5b862"
+            },
+            {
+                "id": "540b5476-a924-4907-8a2c-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "孫道明",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "SUN TAO MING",
+                "election_id": "53c02412-aadc-4d71-a92e-5c5aacb5b862"
+            },
+            {
+                "id": "540b5476-da4c-47ac-9efc-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "白美芸",
+                "party": "無",
+                "gender": "f",
+                "no": "2",
+                "name_english": "Pai meiyun",
+                "election_id": "53c02412-aadc-4d71-a92e-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01e7c-e490-45a9-ad4f-5460acb5b862",
+                "name": "忠純里",
+                "is_area": true,
+                "keywords": "2014,高雄市,前鎮區,忠純里",
+                "AreasElection": {
+                    "id": "53c02412-5784-4858-9997-5c5aacb5b862",
+                    "Election_id": "53c02412-aadc-4d71-a92e-5c5aacb5b862",
+                    "Area_id": "53c01e7c-e490-45a9-ad4f-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0240c-9e90-4444-95a6-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "前鎮區",
+                "lft": "13098",
+                "rght": "13217",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02412-aadc-4d71-a92e-5c5aacb5b862",
+                "parent_id": "53c0240c-9e90-4444-95a6-5c5aacb5b862",
+                "name": "忠純里",
+                "lft": "13147",
+                "rght": "13148",
+                "population": "5635",
+                "population_electors": "4790",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb720-c720-4c7d-af7c-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,前鎮區,忠純里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

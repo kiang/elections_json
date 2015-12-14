@@ -1,0 +1,145 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c022dd-db98-410c-a089-5c5aacb5b862",
+            "parent_id": "53c022db-4014-4bc8-abe0-5c5aacb5b862",
+            "name": "豐裡村",
+            "lft": "9313",
+            "rght": "9314",
+            "population": "1625",
+            "population_electors": "1342",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546d8db9-5d08-42f0-8a39-0e51cf91e152",
+            "keywords": "2014-11,村里長,花蓮縣,壽豐鄉,豐裡村"
+        },
+        "Candidate": [
+            {
+                "id": "53c02871-7448-4b09-aa02-5dffacb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "張瑞源",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c022dd-db98-410c-a089-5c5aacb5b862"
+            },
+            {
+                "id": "540b5613-5788-42a6-adf6-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "曾漢清",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c022dd-db98-410c-a089-5c5aacb5b862"
+            },
+            {
+                "id": "540b5613-c110-4572-8c4f-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "鍾曜宇",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53c022dd-db98-410c-a089-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01db7-4364-44f9-9626-5460acb5b862",
+                "name": "豐裡村",
+                "is_area": true,
+                "keywords": "2014,花蓮縣,壽豐鄉,豐裡村",
+                "AreasElection": {
+                    "id": "53c022dd-d2d8-42fb-9fe6-5c5aacb5b862",
+                    "Election_id": "53c022dd-db98-410c-a089-5c5aacb5b862",
+                    "Area_id": "53c01db7-4364-44f9-9626-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022cb-ff18-4c61-98a3-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "花蓮縣",
+                "lft": "9095",
+                "rght": "9476",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022db-4014-4bc8-abe0-5c5aacb5b862",
+                "parent_id": "53c022cb-ff18-4c61-98a3-5c5aacb5b862",
+                "name": "壽豐鄉",
+                "lft": "9302",
+                "rght": "9333",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022dd-db98-410c-a089-5c5aacb5b862",
+                "parent_id": "53c022db-4014-4bc8-abe0-5c5aacb5b862",
+                "name": "豐裡村",
+                "lft": "9313",
+                "rght": "9314",
+                "population": "1625",
+                "population_electors": "1342",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546d8db9-5d08-42f0-8a39-0e51cf91e152",
+                "keywords": "2014-11,村里長,花蓮縣,壽豐鄉,豐裡村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

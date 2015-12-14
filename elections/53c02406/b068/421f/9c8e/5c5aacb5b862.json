@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02406-b068-421f-9c8e-5c5aacb5b862",
+            "parent_id": "53c02401-a518-4567-b540-5c5aacb5b862",
+            "name": "林富里",
+            "lft": "13003",
+            "rght": "13004",
+            "population": "2396",
+            "population_electors": "1778",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb720-a860-4843-b763-2adbcf91e152",
+            "keywords": "2014-11,村里長,高雄市,苓雅區,林富里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0266a-06a8-4538-8de8-5dffacb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "羅賢昌",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "LO HSIEN CHANG",
+                "election_id": "53c02406-b068-421f-9c8e-5c5aacb5b862"
+            },
+            {
+                "id": "540b546f-e304-4ae4-a603-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "林進安",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "LIN CHIN AN",
+                "election_id": "53c02406-b068-421f-9c8e-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01e73-e8d8-467b-99b2-5460acb5b862",
+                "name": "林富里",
+                "is_area": true,
+                "keywords": "2014,高雄市,苓雅區,林富里",
+                "AreasElection": {
+                    "id": "53c02406-ab34-4d01-aeaa-5c5aacb5b862",
+                    "Election_id": "53c02406-b068-421f-9c8e-5c5aacb5b862",
+                    "Area_id": "53c01e73-e8d8-467b-99b2-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02401-a518-4567-b540-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "苓雅區",
+                "lft": "12958",
+                "rght": "13097",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02406-b068-421f-9c8e-5c5aacb5b862",
+                "parent_id": "53c02401-a518-4567-b540-5c5aacb5b862",
+                "name": "林富里",
+                "lft": "13003",
+                "rght": "13004",
+                "population": "2396",
+                "population_electors": "1778",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb720-a860-4843-b763-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,苓雅區,林富里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

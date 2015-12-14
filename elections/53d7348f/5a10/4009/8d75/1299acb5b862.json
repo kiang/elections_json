@@ -1,0 +1,156 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d7348f-5a10-4009-8d75-1299acb5b862",
+            "parent_id": "53c020da-6538-482f-99f3-5c5aacb5b862",
+            "name": "第03選舉區[平地]",
+            "lft": "2527",
+            "rght": "2528",
+            "population": "8229",
+            "population_electors": "6898",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "546f277f-9364-47ca-8343-2f28cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,臺東縣,鹿野鄉,第03選舉區[平地]"
+        },
+        "Candidate": [
+            {
+                "id": "540b57e5-2198-4f7d-962c-1926acb5b862",
+                "image": "54b24e5e\/80d4\/4ca0\/9cda\/17656ab936af.jpg",
+                "stage": "1",
+                "name": "李鴻斌",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53d7348f-5a10-4009-8d75-1299acb5b862"
+            },
+            {
+                "id": "540b57e5-a4d8-4096-8575-1926acb5b862",
+                "image": "54b24e92\/faec\/4e3a\/9420\/17736ab936af.jpg",
+                "stage": "2",
+                "name": "陽志明",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "4",
+                "name_english": "",
+                "election_id": "53d7348f-5a10-4009-8d75-1299acb5b862"
+            },
+            {
+                "id": "540b57e5-a714-42ee-8507-1926acb5b862",
+                "image": "54b24e42\/6eec\/4b5d\/94a8\/17436ab936af.jpg",
+                "stage": "2",
+                "name": "陽勝榮",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d7348f-5a10-4009-8d75-1299acb5b862"
+            },
+            {
+                "id": "540b57e5-f924-4f82-93f1-1926acb5b862",
+                "image": "54b24e7a\/b584\/4264\/81a1\/17636ab936af.jpg",
+                "stage": "1",
+                "name": "周菊英",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53d7348f-5a10-4009-8d75-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d9f-dcac-46ef-826f-5460acb5b862",
+                "name": "鹿野鄉",
+                "is_area": true,
+                "keywords": "2014,臺東縣,鹿野鄉",
+                "AreasElection": {
+                    "id": "53d73490-6794-4e2d-830e-1299acb5b862",
+                    "Election_id": "53d7348f-5a10-4009-8d75-1299acb5b862",
+                    "Area_id": "53c01d9f-dcac-46ef-826f-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020d9-a97c-4d95-809d-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "臺東縣",
+                "lft": "2485",
+                "rght": "2612",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020da-6538-482f-99f3-5c5aacb5b862",
+                "parent_id": "53c020d9-a97c-4d95-809d-5c5aacb5b862",
+                "name": "鹿野鄉",
+                "lft": "2522",
+                "rght": "2529",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d7348f-5a10-4009-8d75-1299acb5b862",
+                "parent_id": "53c020da-6538-482f-99f3-5c5aacb5b862",
+                "name": "第03選舉區[平地]",
+                "lft": "2527",
+                "rght": "2528",
+                "population": "8229",
+                "population_electors": "6898",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "546f277f-9364-47ca-8343-2f28cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,臺東縣,鹿野鄉,第03選舉區[平地]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,159 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02080-28ec-4fb4-a830-5c5aacb5b862",
+            "parent_id": "53c0202f-cfc8-4ab5-a63b-5460acb5b862",
+            "name": "苗栗縣",
+            "lft": "281",
+            "rght": "282",
+            "population": "566918",
+            "population_electors": "447721",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546b0806-f3d8-4476-ad21-2ff0cf91e152",
+            "keywords": "2014-11,縣市長,苗栗縣"
+        },
+        "Candidate": [
+            {
+                "id": "53c028a3-5b5c-4972-9966-5dffacb5b862",
+                "image": "5602a5b4\/e4e0\/4298\/a7cb\/46a36ab936af.jpg",
+                "stage": "2",
+                "name": "徐耀昌",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02080-28ec-4fb4-a830-5c5aacb5b862"
+            },
+            {
+                "id": "53c028ae-9094-4f56-97b6-5dffacb5b862",
+                "image": "5465d48d\/98f4\/49a1\/b6fc\/7d3b8e043389.jpg",
+                "stage": "1",
+                "name": "江明修",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53c02080-28ec-4fb4-a830-5c5aacb5b862"
+            },
+            {
+                "id": "53c028bb-70c8-4058-a3de-5dffacb5b862",
+                "image": null,
+                "stage": "0",
+                "name": "劉衡真",
+                "party": null,
+                "gender": null,
+                "no": "0",
+                "name_english": "",
+                "election_id": "53c02080-28ec-4fb4-a830-5c5aacb5b862"
+            },
+            {
+                "id": "53c028bd-a314-4ca5-9a3f-5dffacb5b862",
+                "image": "54ad39f9\/0820\/475f\/b376\/14ea6ab936af.jpg",
+                "stage": "1",
+                "name": "吳宜臻",
+                "party": "民主進步黨",
+                "gender": "f",
+                "no": "6",
+                "name_english": "",
+                "election_id": "53c02080-28ec-4fb4-a830-5c5aacb5b862"
+            },
+            {
+                "id": "53c7dbf9-4e30-42b8-9697-7ce9cb455a61",
+                "image": "5602a0f0\/ff14\/4a38\/b03e\/2b3e6ab936af.jpg",
+                "stage": "1",
+                "name": "康世儒",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c02080-28ec-4fb4-a830-5c5aacb5b862"
+            },
+            {
+                "id": "53c92910-a64c-4027-9520-628fcb455a61",
+                "image": "5465d4ca\/a3f4\/4d36\/8b7f\/082c8e043389.jpg",
+                "stage": "1",
+                "name": "曾國良",
+                "party": "無",
+                "gender": "m",
+                "no": "5",
+                "name_english": "",
+                "election_id": "53c02080-28ec-4fb4-a830-5c5aacb5b862"
+            },
+            {
+                "id": "540b56d6-9794-48a4-a89e-1926acb5b862",
+                "image": "560a9459\/c5c4\/4668\/ba99\/42256ab936af.jpg",
+                "stage": "1",
+                "name": "陳淑芬",
+                "party": "無",
+                "gender": "f",
+                "no": "4",
+                "name_english": "",
+                "election_id": "53c02080-28ec-4fb4-a830-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c52-a780-46b4-bc34-5460acb5b862",
+                "name": "苗栗縣",
+                "is_area": true,
+                "keywords": "2014,苗栗縣",
+                "AreasElection": {
+                    "id": "53c02080-9ccc-45c4-9090-5c5aacb5b862",
+                    "Election_id": "53c02080-28ec-4fb4-a830-5c5aacb5b862",
+                    "Area_id": "53c01c52-a780-46b4-bc34-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-cfc8-4ab5-a63b-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "縣市長",
+                "lft": "272",
+                "rght": "305",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02080-28ec-4fb4-a830-5c5aacb5b862",
+                "parent_id": "53c0202f-cfc8-4ab5-a63b-5460acb5b862",
+                "name": "苗栗縣",
+                "lft": "281",
+                "rght": "282",
+                "population": "566918",
+                "population_electors": "447721",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546b0806-f3d8-4476-ad21-2ff0cf91e152",
+                "keywords": "2014-11,縣市長,苗栗縣"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

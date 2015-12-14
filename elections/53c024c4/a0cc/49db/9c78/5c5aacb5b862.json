@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c024c4-a0cc-49db-9c78-5c5aacb5b862",
+            "parent_id": "53c024bc-13d0-4b51-8a12-5c5aacb5b862",
+            "name": "忠誠里",
+            "lft": "15327",
+            "rght": "15328",
+            "population": "2619",
+            "population_electors": "2212",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068c-f448-49dc-986a-1a32cf91e152",
+            "keywords": "2014-11,村里長,新北市,新店區,忠誠里"
+        },
+        "Candidate": [
+            {
+                "id": "53c026c1-ca5c-400f-92b8-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "許浩榛",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "Hsu Hao cheng",
+                "election_id": "53c024c4-a0cc-49db-9c78-5c5aacb5b862"
+            },
+            {
+                "id": "540b534b-0040-4a58-b686-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "陳弘銘",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c024c4-a0cc-49db-9c78-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01f1b-ed28-4062-899d-5460acb5b862",
+                "name": "忠誠里",
+                "is_area": true,
+                "keywords": "2014,新北市,新店區,忠誠里",
+                "AreasElection": {
+                    "id": "53c024c4-b774-4f9d-b1e4-5c5aacb5b862",
+                    "Election_id": "53c024c4-a0cc-49db-9c78-5c5aacb5b862",
+                    "Area_id": "53c01f1b-ed28-4062-899d-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新北市",
+                "lft": "14261",
+                "rght": "16384",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c024bc-13d0-4b51-8a12-5c5aacb5b862",
+                "parent_id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "name": "新店區",
+                "lft": "15240",
+                "rght": "15379",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c024c4-a0cc-49db-9c78-5c5aacb5b862",
+                "parent_id": "53c024bc-13d0-4b51-8a12-5c5aacb5b862",
+                "name": "忠誠里",
+                "lft": "15327",
+                "rght": "15328",
+                "population": "2619",
+                "population_electors": "2212",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068c-f448-49dc-986a-1a32cf91e152",
+                "keywords": "2014-11,村里長,新北市,新店區,忠誠里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

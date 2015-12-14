@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02308-6848-4b9a-9bfa-5c5aacb5b862",
+            "parent_id": "53c02305-2ab0-47c6-b70c-5c5aacb5b862",
+            "name": "書院里",
+            "lft": "9847",
+            "rght": "9848",
+            "population": "1290",
+            "population_electors": "1086",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c8095-2ac4-4e76-b179-61a3cf91e152",
+            "keywords": "2014-11,村里長,基隆市,仁愛區,書院里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02886-0d7c-42d0-a9ce-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "林文肯",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "LIN WEN KEN",
+                "election_id": "53c02308-6848-4b9a-9bfa-5c5aacb5b862"
+            },
+            {
+                "id": "540b5651-8684-408a-9d97-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "許睿雅",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "HSU JUI YA",
+                "election_id": "53c02308-6848-4b9a-9bfa-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01dda-294c-45ed-8ec6-5460acb5b862",
+                "name": "書院里",
+                "is_area": true,
+                "keywords": "2014,基隆市,仁愛區,書院里",
+                "AreasElection": {
+                    "id": "53c02309-62dc-455c-a787-5c5aacb5b862",
+                    "Election_id": "53c02308-6848-4b9a-9bfa-5c5aacb5b862",
+                    "Area_id": "53c01dda-294c-45ed-8ec6-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "基隆市",
+                "lft": "9683",
+                "rght": "10012",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02305-2ab0-47c6-b70c-5c5aacb5b862",
+                "parent_id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "name": "仁愛區",
+                "lft": "9808",
+                "rght": "9867",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02308-6848-4b9a-9bfa-5c5aacb5b862",
+                "parent_id": "53c02305-2ab0-47c6-b70c-5c5aacb5b862",
+                "name": "書院里",
+                "lft": "9847",
+                "rght": "9848",
+                "population": "1290",
+                "population_electors": "1086",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c8095-2ac4-4e76-b179-61a3cf91e152",
+                "keywords": "2014-11,村里長,基隆市,仁愛區,書院里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

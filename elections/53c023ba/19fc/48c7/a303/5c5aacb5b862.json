@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c023ba-19fc-48c7-a303-5c5aacb5b862",
+            "parent_id": "53c023b4-de88-4969-afaa-5c5aacb5b862",
+            "name": "指南里",
+            "lft": "12061",
+            "rght": "12062",
+            "population": "3812",
+            "population_electors": "3071",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-ad98-420b-8582-4187cf91e152",
+            "keywords": "2014-11,村里長,臺北市,文山區,指南里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02645-ef54-4153-b72c-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "張佳南",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "1",
+                "name_english": "Chang chia nan",
+                "election_id": "53c023ba-19fc-48c7-a303-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01e2f-be2c-4006-9880-5460acb5b862",
+                "name": "指南里",
+                "is_area": true,
+                "keywords": "2014,臺北市,文山區,指南里",
+                "AreasElection": {
+                    "id": "53c023ba-8d38-4205-addb-5c5aacb5b862",
+                    "Election_id": "53c023ba-19fc-48c7-a303-5c5aacb5b862",
+                    "Area_id": "53c01e2f-be2c-4006-9880-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023b4-de88-4969-afaa-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "文山區",
+                "lft": "11994",
+                "rght": "12081",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023ba-19fc-48c7-a303-5c5aacb5b862",
+                "parent_id": "53c023b4-de88-4969-afaa-5c5aacb5b862",
+                "name": "指南里",
+                "lft": "12061",
+                "rght": "12062",
+                "population": "3812",
+                "population_electors": "3071",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-ad98-420b-8582-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,文山區,指南里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

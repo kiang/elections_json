@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02239-3994-4938-8493-5c5aacb5b862",
+            "parent_id": "53c02238-4244-4635-9cd8-5c5aacb5b862",
+            "name": "中樂村",
+            "lft": "7215",
+            "rght": "7216",
+            "population": "2008",
+            "population_electors": "1598",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-e7ec-4f42-a303-2adbcf91e152",
+            "keywords": "2014-11,村里長,嘉義縣,民雄鄉,中樂村"
+        },
+        "Candidate": [
+            {
+                "id": "53c02823-9744-4889-b009-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "洪源漳",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02239-3994-4938-8493-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d27-a544-432c-b605-5460acb5b862",
+                "name": "中樂村",
+                "is_area": true,
+                "keywords": "2014,嘉義縣,民雄鄉,中樂村",
+                "AreasElection": {
+                    "id": "53c02239-f238-4770-b07b-5c5aacb5b862",
+                    "Election_id": "53c02239-3994-4938-8493-5c5aacb5b862",
+                    "Area_id": "53c01d27-a544-432c-b605-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0222a-d5c0-465f-849c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "嘉義縣",
+                "lft": "7019",
+                "rght": "7770",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02238-4244-4635-9cd8-5c5aacb5b862",
+                "parent_id": "53c0222a-d5c0-465f-849c-5c5aacb5b862",
+                "name": "民雄鄉",
+                "lft": "7206",
+                "rght": "7263",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02239-3994-4938-8493-5c5aacb5b862",
+                "parent_id": "53c02238-4244-4635-9cd8-5c5aacb5b862",
+                "name": "中樂村",
+                "lft": "7215",
+                "rght": "7216",
+                "population": "2008",
+                "population_electors": "1598",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-e7ec-4f42-a303-2adbcf91e152",
+                "keywords": "2014-11,村里長,嘉義縣,民雄鄉,中樂村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

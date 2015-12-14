@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02561-2704-448a-a01d-5c5aacb5b862",
+            "parent_id": "53c0255d-a6c0-4aad-a7c7-5c5aacb5b862",
+            "name": "橋頭里",
+            "lft": "17071",
+            "rght": "17072",
+            "population": "8815",
+            "population_electors": "6814",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e0692-ea54-4295-ab4b-1a32cf91e152",
+            "keywords": "2014-11,村里長,臺中市,清水區,橋頭里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02701-a784-47dd-bb32-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "劉國川",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "LIU KUO CHUAN",
+                "election_id": "53c02561-2704-448a-a01d-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01f95-2734-4bc0-95cd-5460acb5b862",
+                "name": "橋頭里",
+                "is_area": true,
+                "keywords": "2014,臺中市,清水區,橋頭里",
+                "AreasElection": {
+                    "id": "53c02562-33c0-47f2-a991-5c5aacb5b862",
+                    "Election_id": "53c02561-2704-448a-a01d-5c5aacb5b862",
+                    "Area_id": "53c01f95-2734-4bc0-95cd-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0255d-a6c0-4aad-a7c7-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "清水區",
+                "lft": "17016",
+                "rght": "17081",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02561-2704-448a-a01d-5c5aacb5b862",
+                "parent_id": "53c0255d-a6c0-4aad-a7c7-5c5aacb5b862",
+                "name": "橋頭里",
+                "lft": "17071",
+                "rght": "17072",
+                "population": "8815",
+                "population_electors": "6814",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e0692-ea54-4295-ab4b-1a32cf91e152",
+                "keywords": "2014-11,村里長,臺中市,清水區,橋頭里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

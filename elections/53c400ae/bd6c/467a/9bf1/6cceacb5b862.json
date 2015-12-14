@@ -1,0 +1,163 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c400ae-bd6c-467a-9bf1-6cceacb5b862",
+            "parent_id": "53c0207f-29bc-4258-90c0-5c5aacb5b862",
+            "name": "第15選區[區域]",
+            "lft": "186",
+            "rght": "187",
+            "population": "125650",
+            "population_electors": "104781",
+            "quota": "4",
+            "quota_women": "1",
+            "bulletin_key": "5469b450-3720-41b4-b1c8-74a5cf91e152",
+            "keywords": "2014-11,直轄市議員,臺南市,第15選區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "53c68fb0-c0cc-4a69-b096-0f15acb5b862",
+                "image": "548af985\/2a74\/4a87\/a7c5\/041b6ab936af.jpg",
+                "stage": "2",
+                "name": "林美燕",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "3",
+                "name_english": "Lin Meng Yuan",
+                "election_id": "53c400ae-bd6c-467a-9bf1-6cceacb5b862"
+            },
+            {
+                "id": "53c68fb1-6118-47bb-a6fe-0f15acb5b862",
+                "image": "548af9aa\/2fe8\/4d8a\/8bed\/04206ab936af.jpg",
+                "stage": "2",
+                "name": "莊玉珠",
+                "party": "民主進步黨",
+                "gender": "f",
+                "no": "5",
+                "name_english": "",
+                "election_id": "53c400ae-bd6c-467a-9bf1-6cceacb5b862"
+            },
+            {
+                "id": "53c68fb1-6ab8-463b-9454-0f15acb5b862",
+                "image": "548af444\/d7c0\/4d52\/9670\/02d76ab936af.jpg",
+                "stage": "1",
+                "name": "陳進益",
+                "party": "無",
+                "gender": "m",
+                "no": "4",
+                "name_english": "Chen Chin Yi",
+                "election_id": "53c400ae-bd6c-467a-9bf1-6cceacb5b862"
+            },
+            {
+                "id": "53c68fb1-e178-4f07-b403-0f15acb5b862",
+                "image": "548af93f\/9830\/4229\/8188\/04036ab936af.jpg",
+                "stage": "2",
+                "name": "蔡淑惠",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c400ae-bd6c-467a-9bf1-6cceacb5b862"
+            },
+            {
+                "id": "53c719ea-9554-4fa4-ba40-2fa2cb455a61",
+                "image": "548af2b3\/979c\/4d22\/b9c4\/02676ab936af.jpg",
+                "stage": "2",
+                "name": "呂維胤",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "6",
+                "name_english": "Lu Wei Yin",
+                "election_id": "53c400ae-bd6c-467a-9bf1-6cceacb5b862"
+            },
+            {
+                "id": "540b5695-d4e0-4f74-99c0-1926acb5b862",
+                "image": "548af3f0\/aaa0\/4a69\/8a6e\/02be6ab936af.jpg",
+                "stage": "1",
+                "name": "周明德",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "Chou Ming De",
+                "election_id": "53c400ae-bd6c-467a-9bf1-6cceacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c02013-dcbc-4710-ab10-5460acb5b862",
+                "name": "南區",
+                "is_area": true,
+                "keywords": "2014,臺南市,南區",
+                "AreasElection": {
+                    "id": "53c406eb-e0a0-463a-b8ce-6dacacb5b862",
+                    "Election_id": "53c400ae-bd6c-467a-9bf1-6cceacb5b862",
+                    "Area_id": "53c02013-dcbc-4710-ab10-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207f-29bc-4258-90c0-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "臺南市",
+                "lft": "157",
+                "rght": "194",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c400ae-bd6c-467a-9bf1-6cceacb5b862",
+                "parent_id": "53c0207f-29bc-4258-90c0-5c5aacb5b862",
+                "name": "第15選區[區域]",
+                "lft": "186",
+                "rght": "187",
+                "population": "125650",
+                "population_electors": "104781",
+                "quota": "4",
+                "quota_women": "1",
+                "bulletin_key": "5469b450-3720-41b4-b1c8-74a5cf91e152",
+                "keywords": "2014-11,直轄市議員,臺南市,第15選區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,163 @@
+{
+    "election": {
+        "Election": {
+            "id": "55086635-833c-4733-88d2-23d86ab936af",
+            "parent_id": "550862c1-4b2c-491f-8736-35296ab936af",
+            "name": "第03選區[區域]",
+            "lft": "40662",
+            "rght": "40663",
+            "population": "0",
+            "population_electors": "0",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "keywords": "2016-01,立法委員,高雄市,第03選區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "550c640c-f4f0-40dc-a315-025cacb5b862",
+                "image": "5602acb6\/d418\/4088\/9d4e\/461f6ab936af.jpg",
+                "stage": "1",
+                "name": "張顯耀",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": null,
+                "name_english": "",
+                "election_id": "55086635-833c-4733-88d2-23d86ab936af"
+            },
+            {
+                "id": "550ce725-c5ec-43bc-bb09-126d6ab936af",
+                "image": "56587259\/79d0\/490a\/87a1\/094e6ab936af.jpg",
+                "stage": "1",
+                "name": "柳淑芳",
+                "party": "無",
+                "gender": "f",
+                "no": null,
+                "name_english": "",
+                "election_id": "55086635-833c-4733-88d2-23d86ab936af"
+            },
+            {
+                "id": "550da514-14e0-4b27-ba00-1b7f6ab936af",
+                "image": "55c62bec\/9834\/4dae\/a287\/42c86ab936af.jpg",
+                "stage": "1",
+                "name": "劉世芳",
+                "party": "民主進步黨",
+                "gender": "f",
+                "no": null,
+                "name_english": "",
+                "election_id": "55086635-833c-4733-88d2-23d86ab936af"
+            },
+            {
+                "id": "56002433-5f50-43ca-8c30-469c6ab936af",
+                "image": null,
+                "stage": "1",
+                "name": "梁蓓禎",
+                "party": "信心希望聯盟",
+                "gender": "f",
+                "no": null,
+                "name_english": "",
+                "election_id": "55086635-833c-4733-88d2-23d86ab936af"
+            },
+            {
+                "id": "5659429a-1e98-4343-ab07-197f6ab936af",
+                "image": null,
+                "stage": "1",
+                "name": "莊明憲",
+                "party": "大愛憲改聯盟",
+                "gender": "m",
+                "no": null,
+                "name_english": "",
+                "election_id": "55086635-833c-4733-88d2-23d86ab936af"
+            }
+        ],
+        "Area": [
+            {
+                "id": "55085a28-905c-4863-83dd-3584acb5b862",
+                "name": "左營區",
+                "is_area": true,
+                "keywords": "2016,高雄市,左營區",
+                "AreasElection": {
+                    "id": "550a6fe8-8510-46f2-9ef2-64196ab936af",
+                    "Election_id": "55086635-833c-4733-88d2-23d86ab936af",
+                    "Area_id": "55085a28-905c-4863-83dd-3584acb5b862"
+                }
+            },
+            {
+                "id": "55085a2b-5294-44a0-a702-3584acb5b862",
+                "name": "楠梓區",
+                "is_area": true,
+                "keywords": "2016,高雄市,楠梓區",
+                "AreasElection": {
+                    "id": "550a6fe0-eaa4-434c-b68d-494a6ab936af",
+                    "Election_id": "55086635-833c-4733-88d2-23d86ab936af",
+                    "Area_id": "55085a2b-5294-44a0-a702-3584acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "55085db5-2e9c-4cde-8103-23d86ab936af",
+                "parent_id": null,
+                "name": "2016-01",
+                "lft": "40579",
+                "rght": "40780",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "55085e1a-c494-40e0-ba31-2f916ab936af",
+                "parent_id": "55085db5-2e9c-4cde-8103-23d86ab936af",
+                "name": "立法委員",
+                "lft": "40582",
+                "rght": "40779",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "550862c1-4b2c-491f-8736-35296ab936af",
+                "parent_id": "55085e1a-c494-40e0-ba31-2f916ab936af",
+                "name": "高雄市",
+                "lft": "40657",
+                "rght": "40676",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "55086635-833c-4733-88d2-23d86ab936af",
+                "parent_id": "550862c1-4b2c-491f-8736-35296ab936af",
+                "name": "第03選區[區域]",
+                "lft": "40662",
+                "rght": "40663",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2016-01,立法委員,高雄市,第03選區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

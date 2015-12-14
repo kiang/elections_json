@@ -1,0 +1,178 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d73494-be28-4db5-8d63-1299acb5b862",
+            "parent_id": "53c020db-b2b8-4ce4-afd9-5c5aacb5b862",
+            "name": "第01選舉區[區域]",
+            "lft": "2547",
+            "rght": "2548",
+            "population": "7789",
+            "population_electors": "6782",
+            "quota": "3",
+            "quota_women": "0",
+            "bulletin_key": "546f277f-4488-4293-95fa-2f28cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,臺東縣,長濱鄉,第01選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b57e7-4384-4601-9640-1926acb5b862",
+                "image": "54b263a9\/473c\/4754\/9c7b\/1ce16ab936af.jpg",
+                "stage": "1",
+                "name": "張順盛",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d73494-be28-4db5-8d63-1299acb5b862"
+            },
+            {
+                "id": "540b57e7-5aa8-4977-a906-1926acb5b862",
+                "image": "54b265aa\/40f8\/4440\/8aa3\/1d346ab936af.jpg",
+                "stage": "2",
+                "name": "李健吉",
+                "party": "無",
+                "gender": "m",
+                "no": "4",
+                "name_english": "",
+                "election_id": "53d73494-be28-4db5-8d63-1299acb5b862"
+            },
+            {
+                "id": "540b57e7-5cc4-4b18-a29b-1926acb5b862",
+                "image": "54b26621\/26d4\/455c\/861e\/1d2b6ab936af.jpg",
+                "stage": "1",
+                "name": "潘泰宏",
+                "party": "無",
+                "gender": "m",
+                "no": "6",
+                "name_english": "",
+                "election_id": "53d73494-be28-4db5-8d63-1299acb5b862"
+            },
+            {
+                "id": "540b57e7-a060-42fc-a312-1926acb5b862",
+                "image": "54b26502\/c1bc\/4d26\/bb8f\/1cf36ab936af.jpg",
+                "stage": "2",
+                "name": "林修正",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53d73494-be28-4db5-8d63-1299acb5b862"
+            },
+            {
+                "id": "540b57e7-b28c-49fa-a0a3-1926acb5b862",
+                "image": "54b2658b\/5d30\/46e3\/a817\/1d306ab936af.jpg",
+                "stage": "2",
+                "name": "梁秀貞",
+                "party": "無",
+                "gender": "f",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53d73494-be28-4db5-8d63-1299acb5b862"
+            },
+            {
+                "id": "540b57e7-cf2c-43c8-9c94-1926acb5b862",
+                "image": "54b265ed\/fc28\/474f\/8c30\/1d2e6ab936af.jpg",
+                "stage": "1",
+                "name": "潘經裕",
+                "party": "無",
+                "gender": "m",
+                "no": "5",
+                "name_english": "",
+                "election_id": "53d73494-be28-4db5-8d63-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01da3-2d44-4897-b1b8-5460acb5b862",
+                "name": "長濱鄉",
+                "is_area": true,
+                "keywords": "2014,臺東縣,長濱鄉",
+                "AreasElection": {
+                    "id": "53d73495-fd68-45c2-8a76-1299acb5b862",
+                    "Election_id": "53d73494-be28-4db5-8d63-1299acb5b862",
+                    "Area_id": "53c01da3-2d44-4897-b1b8-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020d9-a97c-4d95-809d-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "臺東縣",
+                "lft": "2485",
+                "rght": "2612",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020db-b2b8-4ce4-afd9-5c5aacb5b862",
+                "parent_id": "53c020d9-a97c-4d95-809d-5c5aacb5b862",
+                "name": "長濱鄉",
+                "lft": "2546",
+                "rght": "2551",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d73494-be28-4db5-8d63-1299acb5b862",
+                "parent_id": "53c020db-b2b8-4ce4-afd9-5c5aacb5b862",
+                "name": "第01選舉區[區域]",
+                "lft": "2547",
+                "rght": "2548",
+                "population": "7789",
+                "population_electors": "6782",
+                "quota": "3",
+                "quota_women": "0",
+                "bulletin_key": "546f277f-4488-4293-95fa-2f28cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,臺東縣,長濱鄉,第01選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02582-55e0-4fbd-b968-5c5aacb5b862",
+            "parent_id": "53c02580-0638-4d38-8de6-5c5aacb5b862",
+            "name": "自強里",
+            "lft": "17451",
+            "rght": "17452",
+            "population": "4050",
+            "population_electors": "3307",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c616e-14f0-46ab-8af4-5806cf91e152",
+            "keywords": "2014-11,村里長,臺中市,大肚區,自強里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02712-aff8-416c-9ea9-5dffacb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "林榮璽",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "3",
+                "name_english": "LIN JUNG HSI",
+                "election_id": "53c02582-55e0-4fbd-b968-5c5aacb5b862"
+            },
+            {
+                "id": "540b53f0-50ec-41f6-b4e9-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "鍾文龍",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "CHUNG WEN LONG",
+                "election_id": "53c02582-55e0-4fbd-b968-5c5aacb5b862"
+            },
+            {
+                "id": "540b53f0-ae0c-4ea8-93c1-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "林順安",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "LIN SHUN AN",
+                "election_id": "53c02582-55e0-4fbd-b968-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01fb1-0370-4101-84a0-5460acb5b862",
+                "name": "自強里",
+                "is_area": true,
+                "keywords": "2014,臺中市,大肚區,自強里",
+                "AreasElection": {
+                    "id": "53c02582-83a4-45e8-89f5-5c5aacb5b862",
+                    "Election_id": "53c02582-55e0-4fbd-b968-5c5aacb5b862",
+                    "Area_id": "53c01fb1-0370-4101-84a0-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02580-0638-4d38-8de6-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "大肚區",
+                "lft": "17428",
+                "rght": "17463",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02582-55e0-4fbd-b968-5c5aacb5b862",
+                "parent_id": "53c02580-0638-4d38-8de6-5c5aacb5b862",
+                "name": "自強里",
+                "lft": "17451",
+                "rght": "17452",
+                "population": "4050",
+                "population_electors": "3307",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c616e-14f0-46ab-8af4-5806cf91e152",
+                "keywords": "2014-11,村里長,臺中市,大肚區,自強里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

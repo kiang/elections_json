@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0260e-f9c0-453b-9e99-5c5aacb5b862",
+            "parent_id": "53c0260a-ed0c-4497-942e-5c5aacb5b862",
+            "name": "正風里",
+            "lft": "19009",
+            "rght": "19010",
+            "population": "1680",
+            "population_electors": "1412",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "keywords": "2014-11,村里長,臺南市,北區,正風里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0274b-8a34-4202-ab71-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "陳雍明",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c0260e-f9c0-453b-9e99-5c5aacb5b862"
+            },
+            {
+                "id": "540b543f-f3c4-48bb-a81c-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "許至柔",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "HSU CHIH JOU",
+                "election_id": "53c0260e-f9c0-453b-9e99-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c0201a-f184-4e1d-b5ef-5460acb5b862",
+                "name": "正風里",
+                "is_area": true,
+                "keywords": "2014,臺南市,北區,正風里",
+                "AreasElection": {
+                    "id": "53c0260e-5034-4ca7-9110-5c5aacb5b862",
+                    "Election_id": "53c0260e-f9c0-453b-9e99-5c5aacb5b862",
+                    "Area_id": "53c0201a-f184-4e1d-b5ef-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02598-fc40-4dee-aec0-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺南市",
+                "lft": "17695",
+                "rght": "19274",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0260a-ed0c-4497-942e-5c5aacb5b862",
+                "parent_id": "53c02598-fc40-4dee-aec0-5c5aacb5b862",
+                "name": "北區",
+                "lft": "18972",
+                "rght": "19059",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0260e-f9c0-453b-9e99-5c5aacb5b862",
+                "parent_id": "53c0260a-ed0c-4497-942e-5c5aacb5b862",
+                "name": "正風里",
+                "lft": "19009",
+                "rght": "19010",
+                "population": "1680",
+                "population_electors": "1412",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2014-11,村里長,臺南市,北區,正風里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

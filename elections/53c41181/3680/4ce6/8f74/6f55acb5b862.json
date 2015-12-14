@@ -1,0 +1,185 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c41181-3680-4ce6-8f74-6f55acb5b862",
+            "parent_id": "53c02084-c98c-49f1-8e3f-5c5aacb5b862",
+            "name": "第05選區[區域]",
+            "lft": "476",
+            "rght": "477",
+            "population": "67019",
+            "population_electors": "54327",
+            "quota": "4",
+            "quota_women": "1",
+            "bulletin_key": "54742654-b70c-4248-8031-2d82cf91e152",
+            "keywords": "2014-11,縣市議員,屏東縣,第05選區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "53c68f8b-1900-423b-b2b3-0f15acb5b862",
+                "image": "5496939c\/730c\/46b1\/b706\/25946ab936af.jpg",
+                "stage": "2",
+                "name": "林玉花",
+                "party": "民主進步黨",
+                "gender": "f",
+                "no": "1",
+                "name_english": "Lin Yu HuA",
+                "election_id": "53c41181-3680-4ce6-8f74-6f55acb5b862"
+            },
+            {
+                "id": "53c68f8b-4f1c-417a-90b9-0f15acb5b862",
+                "image": "549692e8\/48f0\/4ff0\/8dbb\/25666ab936af.jpg",
+                "stage": "2",
+                "name": "王啟敏",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "3",
+                "name_english": "Wang CHI Ming",
+                "election_id": "53c41181-3680-4ce6-8f74-6f55acb5b862"
+            },
+            {
+                "id": "53c68f8b-7764-4220-9088-0f15acb5b862",
+                "image": "549690bb\/3398\/402d\/af80\/24f16ab936af.jpg",
+                "stage": "1",
+                "name": "楊嘉慶",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "5",
+                "name_english": "",
+                "election_id": "53c41181-3680-4ce6-8f74-6f55acb5b862"
+            },
+            {
+                "id": "53c68f8b-d5dc-4d6a-b9ce-0f15acb5b862",
+                "image": "5496912b\/d184\/4fdb\/801d\/24f86ab936af.jpg",
+                "stage": "2",
+                "name": "周碧雲",
+                "party": "民主進步黨",
+                "gender": "f",
+                "no": "4",
+                "name_english": "Chou Biwin",
+                "election_id": "53c41181-3680-4ce6-8f74-6f55acb5b862"
+            },
+            {
+                "id": "540b56ba-796c-4b0d-8907-1926acb5b862",
+                "image": "5496932e\/dc94\/44ac\/a75b\/25756ab936af.jpg",
+                "stage": "2",
+                "name": "羅平道",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c41181-3680-4ce6-8f74-6f55acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d81-0754-4ebb-af8d-5460acb5b862",
+                "name": "崁頂鄉",
+                "is_area": true,
+                "keywords": "2014,屏東縣,崁頂鄉",
+                "AreasElection": {
+                    "id": "53c41182-9ca4-4ba6-92f4-6f55acb5b862",
+                    "Election_id": "53c41181-3680-4ce6-8f74-6f55acb5b862",
+                    "Area_id": "53c01d81-0754-4ebb-af8d-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d82-8620-4055-b090-5460acb5b862",
+                "name": "林邊鄉",
+                "is_area": true,
+                "keywords": "2014,屏東縣,林邊鄉",
+                "AreasElection": {
+                    "id": "53c41182-a604-4051-bead-6f55acb5b862",
+                    "Election_id": "53c41181-3680-4ce6-8f74-6f55acb5b862",
+                    "Area_id": "53c01d82-8620-4055-b090-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d84-1310-4f26-b0d4-5460acb5b862",
+                "name": "南州鄉",
+                "is_area": true,
+                "keywords": "2014,屏東縣,南州鄉",
+                "AreasElection": {
+                    "id": "53c41183-4008-4df9-9aa3-6f55acb5b862",
+                    "Election_id": "53c41181-3680-4ce6-8f74-6f55acb5b862",
+                    "Area_id": "53c01d84-1310-4f26-b0d4-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d85-f754-4b7f-91c3-5460acb5b862",
+                "name": "佳冬鄉",
+                "is_area": true,
+                "keywords": "2014,屏東縣,佳冬鄉",
+                "AreasElection": {
+                    "id": "53c41183-2a80-41ff-b525-6f55acb5b862",
+                    "Election_id": "53c41181-3680-4ce6-8f74-6f55acb5b862",
+                    "Area_id": "53c01d85-f754-4b7f-91c3-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "縣市議員",
+                "lft": "306",
+                "rght": "607",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02084-c98c-49f1-8e3f-5c5aacb5b862",
+                "parent_id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "467",
+                "rght": "500",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c41181-3680-4ce6-8f74-6f55acb5b862",
+                "parent_id": "53c02084-c98c-49f1-8e3f-5c5aacb5b862",
+                "name": "第05選區[區域]",
+                "lft": "476",
+                "rght": "477",
+                "population": "67019",
+                "population_electors": "54327",
+                "quota": "4",
+                "quota_women": "1",
+                "bulletin_key": "54742654-b70c-4248-8031-2d82cf91e152",
+                "keywords": "2014-11,縣市議員,屏東縣,第05選區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

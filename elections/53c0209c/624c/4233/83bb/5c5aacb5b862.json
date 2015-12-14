@@ -1,0 +1,119 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0209c-624c-4233-83bb-5c5aacb5b862",
+            "parent_id": "53c0209c-b3c0-4999-93a6-5c5aacb5b862",
+            "name": "朴子市",
+            "lft": "852",
+            "rght": "853",
+            "population": "43256",
+            "population_electors": "33834",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-8d10-4039-8903-2adbcf91e152",
+            "keywords": "2014-11,鄉鎮市長,嘉義縣,朴子市"
+        },
+        "Candidate": [
+            {
+                "id": "5406a60d-ed04-4d8c-8fb9-15b8acb5b862",
+                "image": "549e8cf0\/294c\/4322\/8678\/11f96ab936af.jpg",
+                "stage": "2",
+                "name": "王如經",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "Wang Ju Ching",
+                "election_id": "53c0209c-624c-4233-83bb-5c5aacb5b862"
+            },
+            {
+                "id": "540b580f-f7d8-46fc-8a22-1926acb5b862",
+                "image": "549e8c94\/2898\/40d8\/8171\/11ea6ab936af.jpg",
+                "stage": "1",
+                "name": "郭灯村",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "Kuo TENG TSUN",
+                "election_id": "53c0209c-624c-4233-83bb-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d1e-fd7c-412e-be12-5460acb5b862",
+                "name": "朴子市",
+                "is_area": true,
+                "keywords": "2014,嘉義縣,朴子市",
+                "AreasElection": {
+                    "id": "53c0209c-8d44-4673-a579-5c5aacb5b862",
+                    "Election_id": "53c0209c-624c-4233-83bb-5c5aacb5b862",
+                    "Area_id": "53c01d1e-fd7c-412e-be12-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市長",
+                "lft": "608",
+                "rght": "1031",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0209c-b3c0-4999-93a6-5c5aacb5b862",
+                "parent_id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "name": "嘉義縣",
+                "lft": "849",
+                "rght": "886",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0209c-624c-4233-83bb-5c5aacb5b862",
+                "parent_id": "53c0209c-b3c0-4999-93a6-5c5aacb5b862",
+                "name": "朴子市",
+                "lft": "852",
+                "rght": "853",
+                "population": "43256",
+                "population_electors": "33834",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-8d10-4039-8903-2adbcf91e152",
+                "keywords": "2014-11,鄉鎮市長,嘉義縣,朴子市"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

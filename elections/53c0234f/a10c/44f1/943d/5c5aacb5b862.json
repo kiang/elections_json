@@ -1,0 +1,156 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0234f-a10c-44f1-943d-5c5aacb5b862",
+            "parent_id": "53c02344-9b04-46f5-8e6f-5c5aacb5b862",
+            "name": "龍安里",
+            "lft": "10737",
+            "rght": "10738",
+            "population": "2584",
+            "population_electors": "2037",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-9c94-4ba5-825d-1a32cf91e152",
+            "keywords": "2014-11,村里長,桃園市,中壢區,龍安里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02772-11c4-4067-801f-5dffacb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "楊正亞",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "YANG CHENG YU",
+                "election_id": "53c0234f-a10c-44f1-943d-5c5aacb5b862"
+            },
+            {
+                "id": "540b538e-0874-4529-a0bb-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "章光榮",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "Chang Kuang Jung",
+                "election_id": "53c0234f-a10c-44f1-943d-5c5aacb5b862"
+            },
+            {
+                "id": "540b538e-7098-4e5b-b1d2-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "高銀祝",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "3",
+                "name_english": "KAO YIN CHU",
+                "election_id": "53c0234f-a10c-44f1-943d-5c5aacb5b862"
+            },
+            {
+                "id": "540b538e-9f30-400e-83d1-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "許祿禎",
+                "party": "無",
+                "gender": "m",
+                "no": "4",
+                "name_english": "HSU GEORGE",
+                "election_id": "53c0234f-a10c-44f1-943d-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c0a-d508-44cb-aa18-5460acb5b862",
+                "name": "龍安里",
+                "is_area": true,
+                "keywords": "2014,桃園市,中壢區,龍安里",
+                "AreasElection": {
+                    "id": "53c02350-8c18-4e8a-b130-5c5aacb5b862",
+                    "Election_id": "53c0234f-a10c-44f1-943d-5c5aacb5b862",
+                    "Area_id": "53c01c0a-d508-44cb-aa18-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "桃園市",
+                "lft": "10439",
+                "rght": "11456",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02344-9b04-46f5-8e6f-5c5aacb5b862",
+                "parent_id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "name": "中壢區",
+                "lft": "10594",
+                "rght": "10765",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0234f-a10c-44f1-943d-5c5aacb5b862",
+                "parent_id": "53c02344-9b04-46f5-8e6f-5c5aacb5b862",
+                "name": "龍安里",
+                "lft": "10737",
+                "rght": "10738",
+                "population": "2584",
+                "population_electors": "2037",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-9c94-4ba5-825d-1a32cf91e152",
+                "keywords": "2014-11,村里長,桃園市,中壢區,龍安里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c022e9-808c-4165-823d-5c5aacb5b862",
+            "parent_id": "53c022e8-8438-4707-bd3c-5c5aacb5b862",
+            "name": "萬榮村",
+            "lft": "9453",
+            "rght": "9454",
+            "population": "941",
+            "population_electors": "681",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546d8db9-c080-4708-8d56-0e51cf91e152",
+            "keywords": "2014-11,村里長,花蓮縣,萬榮鄉,萬榮村"
+        },
+        "Candidate": [
+            {
+                "id": "53c02877-aecc-4db6-be77-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "伍曉凌",
+                "party": "無",
+                "gender": "f",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c022e9-808c-4165-823d-5c5aacb5b862"
+            },
+            {
+                "id": "540b561c-0464-48e6-a042-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "張良",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c022e9-808c-4165-823d-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01dc0-2818-47e6-945d-5460acb5b862",
+                "name": "萬榮村",
+                "is_area": true,
+                "keywords": "2014,花蓮縣,萬榮鄉,萬榮村",
+                "AreasElection": {
+                    "id": "53c022e9-fdc4-4c1f-8d90-5c5aacb5b862",
+                    "Election_id": "53c022e9-808c-4165-823d-5c5aacb5b862",
+                    "Area_id": "53c01dc0-2818-47e6-945d-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022cb-ff18-4c61-98a3-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "花蓮縣",
+                "lft": "9095",
+                "rght": "9476",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022e8-8438-4707-bd3c-5c5aacb5b862",
+                "parent_id": "53c022cb-ff18-4c61-98a3-5c5aacb5b862",
+                "name": "萬榮鄉",
+                "lft": "9448",
+                "rght": "9461",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022e9-808c-4165-823d-5c5aacb5b862",
+                "parent_id": "53c022e8-8438-4707-bd3c-5c5aacb5b862",
+                "name": "萬榮村",
+                "lft": "9453",
+                "rght": "9454",
+                "population": "941",
+                "population_electors": "681",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546d8db9-c080-4708-8d56-0e51cf91e152",
+                "keywords": "2014-11,村里長,花蓮縣,萬榮鄉,萬榮村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

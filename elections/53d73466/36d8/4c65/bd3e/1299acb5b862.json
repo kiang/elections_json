@@ -1,0 +1,156 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d73466-36d8-4c65-bd3e-1299acb5b862",
+            "parent_id": "53c020d6-1348-49b6-9cad-5c5aacb5b862",
+            "name": "第03選舉區[區域]",
+            "lft": "2375",
+            "rght": "2376",
+            "population": "3990",
+            "population_electors": "3374",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "keywords": "2014-11,鄉鎮市民代表,屏東縣,林邊鄉,第03選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b57a3-0ba0-49f3-847f-1926acb5b862",
+                "image": "54c796de\/eb48\/4193\/bbbd\/4c0d6ab936af.jpg",
+                "stage": "2",
+                "name": "鄭文彬",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53d73466-36d8-4c65-bd3e-1299acb5b862"
+            },
+            {
+                "id": "540b57a3-3038-46ef-9fdd-1926acb5b862",
+                "image": "54c796fb\/ce5c\/4503\/9ad6\/4c256ab936af.jpg",
+                "stage": "2",
+                "name": "阮茂益",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53d73466-36d8-4c65-bd3e-1299acb5b862"
+            },
+            {
+                "id": "540b57a3-f1d4-49fb-bd92-1926acb5b862",
+                "image": "54c7969b\/d58c\/47cb\/87a9\/4c276ab936af.jpg",
+                "stage": "1",
+                "name": "阮百靈",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d73466-36d8-4c65-bd3e-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d84-3368-4e74-ac77-5460acb5b862",
+                "name": "竹林村",
+                "is_area": true,
+                "keywords": "2014,屏東縣,林邊鄉,竹林村",
+                "AreasElection": {
+                    "id": "53d73466-b334-4826-980c-1299acb5b862",
+                    "Election_id": "53d73466-36d8-4c65-bd3e-1299acb5b862",
+                    "Area_id": "53c01d84-3368-4e74-ac77-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d84-cc84-44b7-aef0-5460acb5b862",
+                "name": "鎮安村",
+                "is_area": true,
+                "keywords": "2014,屏東縣,林邊鄉,鎮安村",
+                "AreasElection": {
+                    "id": "53d73466-9478-4f2a-b4e6-1299acb5b862",
+                    "Election_id": "53d73466-36d8-4c65-bd3e-1299acb5b862",
+                    "Area_id": "53c01d84-cc84-44b7-aef0-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ce-0798-4ae9-af49-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "2197",
+                "rght": "2484",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020d6-1348-49b6-9cad-5c5aacb5b862",
+                "parent_id": "53c020ce-0798-4ae9-af49-5c5aacb5b862",
+                "name": "林邊鄉",
+                "lft": "2370",
+                "rght": "2377",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d73466-36d8-4c65-bd3e-1299acb5b862",
+                "parent_id": "53c020d6-1348-49b6-9cad-5c5aacb5b862",
+                "name": "第03選舉區[區域]",
+                "lft": "2375",
+                "rght": "2376",
+                "population": "3990",
+                "population_electors": "3374",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2014-11,鄉鎮市民代表,屏東縣,林邊鄉,第03選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

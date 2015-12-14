@@ -1,0 +1,167 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c021f6-e49c-4bf6-9421-5c5aacb5b862",
+            "parent_id": "53c021f5-c158-4f44-9a45-5c5aacb5b862",
+            "name": "東仁里",
+            "lft": "6339",
+            "rght": "6340",
+            "population": "3447",
+            "population_electors": "2494",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546edee5-7360-4ee4-97d2-3ce1cf91e152",
+            "keywords": "2014-11,村里長,雲林縣,虎尾鎮,東仁里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02801-c564-4cdf-a3ca-5dffacb5b862",
+                "image": null,
+                "stage": "0",
+                "name": "陳俊歉",
+                "party": null,
+                "gender": null,
+                "no": "0",
+                "name_english": "",
+                "election_id": "53c021f6-e49c-4bf6-9421-5c5aacb5b862"
+            },
+            {
+                "id": "540b555a-0244-4717-b8f5-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "鄭蔡雪娥",
+                "party": "無",
+                "gender": "f",
+                "no": "2",
+                "name_english": "Jeng Tsai Shueh E",
+                "election_id": "53c021f6-e49c-4bf6-9421-5c5aacb5b862"
+            },
+            {
+                "id": "540b555a-5120-432a-ba37-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "林宏燦",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "Lin Hung Tsan",
+                "election_id": "53c021f6-e49c-4bf6-9421-5c5aacb5b862"
+            },
+            {
+                "id": "540b555a-960c-4c3e-a7e8-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "陳嘉宏",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53c021f6-e49c-4bf6-9421-5c5aacb5b862"
+            },
+            {
+                "id": "540b555a-f94c-4adf-ab36-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "林登立",
+                "party": "無",
+                "gender": "m",
+                "no": "4",
+                "name_english": "",
+                "election_id": "53c021f6-e49c-4bf6-9421-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01cef-c710-4868-9c89-5460acb5b862",
+                "name": "東仁里",
+                "is_area": true,
+                "keywords": "2014,雲林縣,虎尾鎮,東仁里",
+                "AreasElection": {
+                    "id": "53c021f7-a810-4251-b2e4-5c5aacb5b862",
+                    "Election_id": "53c021f6-e49c-4bf6-9421-5c5aacb5b862",
+                    "Area_id": "53c01cef-c710-4868-9c89-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "6201",
+                "rght": "7018",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021f5-c158-4f44-9a45-5c5aacb5b862",
+                "parent_id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "name": "虎尾鎮",
+                "lft": "6326",
+                "rght": "6385",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021f6-e49c-4bf6-9421-5c5aacb5b862",
+                "parent_id": "53c021f5-c158-4f44-9a45-5c5aacb5b862",
+                "name": "東仁里",
+                "lft": "6339",
+                "rght": "6340",
+                "population": "3447",
+                "population_electors": "2494",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546edee5-7360-4ee4-97d2-3ce1cf91e152",
+                "keywords": "2014-11,村里長,雲林縣,虎尾鎮,東仁里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c4105a-0b38-4059-b492-6f55acb5b862",
+            "parent_id": "53c02083-89f4-4101-8fe1-5c5aacb5b862",
+            "name": "第10選區[區域]",
+            "lft": "372",
+            "rght": "373",
+            "population": "15593",
+            "population_electors": "12991",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-1af4-47c9-bf56-1a32cf91e152",
+            "keywords": "2014-11,縣市議員,新竹縣,第10選區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "53c68f78-6ff8-4e4e-a601-0f15acb5b862",
+                "image": "549c23b7\/1948\/4024\/a300\/796a6ab936af.jpg",
+                "stage": "2",
+                "name": "陳正順",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "CHEN CHENG SHUN",
+                "election_id": "53c4105a-0b38-4059-b492-6f55acb5b862"
+            },
+            {
+                "id": "540b56a0-2dfc-45f0-9d4c-1926acb5b862",
+                "image": "549c235c\/46ac\/4678\/b357\/79436ab936af.jpg",
+                "stage": "1",
+                "name": "彭進添",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "PENG CHIN TIEN",
+                "election_id": "53c4105a-0b38-4059-b492-6f55acb5b862"
+            },
+            {
+                "id": "540b56a0-7c54-4a2d-8eac-1926acb5b862",
+                "image": "549c238a\/00fc\/40c5\/a66b\/794d6ab936af.jpg",
+                "stage": "1",
+                "name": "彭紹松",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "PENG SHAO SUNG",
+                "election_id": "53c4105a-0b38-4059-b492-6f55acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c4e-263c-4167-ba0e-5460acb5b862",
+                "name": "北埔鄉",
+                "is_area": true,
+                "keywords": "2014,新竹縣,北埔鄉",
+                "AreasElection": {
+                    "id": "53c4105b-ae78-498d-806e-6f55acb5b862",
+                    "Election_id": "53c4105a-0b38-4059-b492-6f55acb5b862",
+                    "Area_id": "53c01c4e-263c-4167-ba0e-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c50-e4dc-4c3c-b8f3-5460acb5b862",
+                "name": "峨眉鄉",
+                "is_area": true,
+                "keywords": "2014,新竹縣,峨眉鄉",
+                "AreasElection": {
+                    "id": "53c4105b-0334-43d1-b4b7-6f55acb5b862",
+                    "Election_id": "53c4105a-0b38-4059-b492-6f55acb5b862",
+                    "Area_id": "53c01c50-e4dc-4c3c-b8f3-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "縣市議員",
+                "lft": "306",
+                "rght": "607",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02083-89f4-4101-8fe1-5c5aacb5b862",
+                "parent_id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "name": "新竹縣",
+                "lft": "353",
+                "rght": "380",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c4105a-0b38-4059-b492-6f55acb5b862",
+                "parent_id": "53c02083-89f4-4101-8fe1-5c5aacb5b862",
+                "name": "第10選區[區域]",
+                "lft": "372",
+                "rght": "373",
+                "population": "15593",
+                "population_electors": "12991",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-1af4-47c9-bf56-1a32cf91e152",
+                "keywords": "2014-11,縣市議員,新竹縣,第10選區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c020a0-cc50-4425-8685-5c5aacb5b862",
+            "parent_id": "53c020a0-f5a4-4054-836f-5c5aacb5b862",
+            "name": "潮州鎮",
+            "lft": "890",
+            "rght": "891",
+            "population": "54812",
+            "population_electors": "44282",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5475673a-954c-418b-a622-0f78cf91e152",
+            "keywords": "2014-11,鄉鎮市長,屏東縣,潮州鎮"
+        },
+        "Candidate": [
+            {
+                "id": "5406a60f-478c-4a24-b7ff-15b8acb5b862",
+                "image": "54967d13\/41dc\/4cf3\/9cbd\/20926ab936af.jpg",
+                "stage": "2",
+                "name": "洪明江",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53c020a0-cc50-4425-8685-5c5aacb5b862"
+            },
+            {
+                "id": "540b5813-a71c-4210-8cc0-1926acb5b862",
+                "image": "54967c30\/d0e8\/4763\/9d72\/20796ab936af.jpg",
+                "stage": "1",
+                "name": "張云鎮",
+                "party": "台灣團結聯盟",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c020a0-cc50-4425-8685-5c5aacb5b862"
+            },
+            {
+                "id": "540b5813-d4a8-4d75-8559-1926acb5b862",
+                "image": "54967c93\/a818\/458f\/aac1\/20906ab936af.jpg",
+                "stage": "1",
+                "name": "潘連周",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c020a0-cc50-4425-8685-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d5a-9ef4-4768-9708-5460acb5b862",
+                "name": "潮州鎮",
+                "is_area": true,
+                "keywords": "2014,屏東縣,潮州鎮",
+                "AreasElection": {
+                    "id": "53c020a0-de04-4ff3-9d78-5c5aacb5b862",
+                    "Election_id": "53c020a0-cc50-4425-8685-5c5aacb5b862",
+                    "Area_id": "53c01d5a-9ef4-4768-9708-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市長",
+                "lft": "608",
+                "rght": "1031",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020a0-f5a4-4054-836f-5c5aacb5b862",
+                "parent_id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "887",
+                "rght": "954",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020a0-cc50-4425-8685-5c5aacb5b862",
+                "parent_id": "53c020a0-f5a4-4054-836f-5c5aacb5b862",
+                "name": "潮州鎮",
+                "lft": "890",
+                "rght": "891",
+                "population": "54812",
+                "population_electors": "44282",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5475673a-954c-418b-a622-0f78cf91e152",
+                "keywords": "2014-11,鄉鎮市長,屏東縣,潮州鎮"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

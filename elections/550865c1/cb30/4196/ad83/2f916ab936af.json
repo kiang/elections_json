@@ -1,0 +1,163 @@
+{
+    "election": {
+        "Election": {
+            "id": "550865c1-cb30-4196-ad83-2f916ab936af",
+            "parent_id": "550862aa-1e38-4362-a667-28956ab936af",
+            "name": "第03選區[區域]",
+            "lft": "40632",
+            "rght": "40633",
+            "population": "0",
+            "population_electors": "0",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "keywords": "2016-01,立法委員,臺中市,第03選區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "550c640c-6788-42fa-adfa-025cacb5b862",
+                "image": "5639fe6d\/946c\/4cb7\/a931\/2f616ab936af.jpg",
+                "stage": "1",
+                "name": "楊瓊瓔",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": null,
+                "name_english": "",
+                "election_id": "550865c1-cb30-4196-ad83-2f916ab936af"
+            },
+            {
+                "id": "550da01d-3bbc-41dc-acca-0af26ab936af",
+                "image": "55b3b838\/1f7c\/479a\/a79e\/30506ab936af.jpg",
+                "stage": "1",
+                "name": "洪慈庸",
+                "party": "時代力量黨",
+                "gender": "f",
+                "no": null,
+                "name_english": "",
+                "election_id": "550865c1-cb30-4196-ad83-2f916ab936af"
+            },
+            {
+                "id": "55b793ce-de08-46c5-85bc-318c6ab936af",
+                "image": "566af8e4\/1da0\/49cc\/b80a\/41db6ab936af.jpg",
+                "stage": "1",
+                "name": "黃信吉",
+                "party": "軍公教聯盟黨",
+                "gender": "m",
+                "no": null,
+                "name_english": "",
+                "election_id": "550865c1-cb30-4196-ad83-2f916ab936af"
+            }
+        ],
+        "Area": [
+            {
+                "id": "55085aa8-0d80-44da-8818-3584acb5b862",
+                "name": "后里區",
+                "is_area": true,
+                "keywords": "2016,臺中市,后里區",
+                "AreasElection": {
+                    "id": "550a3d17-cbb0-4e58-9013-494a6ab936af",
+                    "Election_id": "550865c1-cb30-4196-ad83-2f916ab936af",
+                    "Area_id": "55085aa8-0d80-44da-8818-3584acb5b862"
+                }
+            },
+            {
+                "id": "55085aa9-1f34-41db-94d9-3584acb5b862",
+                "name": "神岡區",
+                "is_area": true,
+                "keywords": "2016,臺中市,神岡區",
+                "AreasElection": {
+                    "id": "550a3d1d-0444-4588-9981-47cb6ab936af",
+                    "Election_id": "550865c1-cb30-4196-ad83-2f916ab936af",
+                    "Area_id": "55085aa9-1f34-41db-94d9-3584acb5b862"
+                }
+            },
+            {
+                "id": "55085aaa-94f4-4463-934a-3584acb5b862",
+                "name": "潭子區",
+                "is_area": true,
+                "keywords": "2016,臺中市,潭子區",
+                "AreasElection": {
+                    "id": "550a3d2a-bfa8-4164-9168-47cb6ab936af",
+                    "Election_id": "550865c1-cb30-4196-ad83-2f916ab936af",
+                    "Area_id": "55085aaa-94f4-4463-934a-3584acb5b862"
+                }
+            },
+            {
+                "id": "55085aab-0ae0-4ef0-925b-3584acb5b862",
+                "name": "大雅區",
+                "is_area": true,
+                "keywords": "2016,臺中市,大雅區",
+                "AreasElection": {
+                    "id": "550a3d24-2ea0-4e38-9395-47cb6ab936af",
+                    "Election_id": "550865c1-cb30-4196-ad83-2f916ab936af",
+                    "Area_id": "55085aab-0ae0-4ef0-925b-3584acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "55085db5-2e9c-4cde-8103-23d86ab936af",
+                "parent_id": null,
+                "name": "2016-01",
+                "lft": "40579",
+                "rght": "40780",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "55085e1a-c494-40e0-ba31-2f916ab936af",
+                "parent_id": "55085db5-2e9c-4cde-8103-23d86ab936af",
+                "name": "立法委員",
+                "lft": "40582",
+                "rght": "40779",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "550862aa-1e38-4362-a667-28956ab936af",
+                "parent_id": "55085e1a-c494-40e0-ba31-2f916ab936af",
+                "name": "臺中市",
+                "lft": "40627",
+                "rght": "40644",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "550865c1-cb30-4196-ad83-2f916ab936af",
+                "parent_id": "550862aa-1e38-4362-a667-28956ab936af",
+                "name": "第03選區[區域]",
+                "lft": "40632",
+                "rght": "40633",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2016-01,立法委員,臺中市,第03選區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

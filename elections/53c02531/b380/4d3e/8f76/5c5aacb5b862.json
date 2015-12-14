@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02531-b380-4d3e-8f76-5c5aacb5b862",
+            "parent_id": "53c02530-1868-453b-afd5-5c5aacb5b862",
+            "name": "新北里",
+            "lft": "16539",
+            "rght": "16540",
+            "population": "2071",
+            "population_electors": "1767",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068f-c7f4-4b15-9327-1a32cf91e152",
+            "keywords": "2014-11,村里長,臺中市,北區,新北里"
+        },
+        "Candidate": [
+            {
+                "id": "53c026ed-2388-4bd0-8f78-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "陳信志",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "CHEN HSIN CHIN",
+                "election_id": "53c02531-b380-4d3e-8f76-5c5aacb5b862"
+            },
+            {
+                "id": "540b53c3-7648-4510-a0ce-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "蔡鴻龍",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c02531-b380-4d3e-8f76-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01f70-09d8-4936-b6d7-5460acb5b862",
+                "name": "新北里",
+                "is_area": true,
+                "keywords": "2014,臺中市,北區,新北里",
+                "AreasElection": {
+                    "id": "53c02531-f4f8-4f9a-b19e-5c5aacb5b862",
+                    "Election_id": "53c02531-b380-4d3e-8f76-5c5aacb5b862",
+                    "Area_id": "53c01f70-09d8-4936-b6d7-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02530-1868-453b-afd5-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "北區",
+                "lft": "16538",
+                "rght": "16611",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02531-b380-4d3e-8f76-5c5aacb5b862",
+                "parent_id": "53c02530-1868-453b-afd5-5c5aacb5b862",
+                "name": "新北里",
+                "lft": "16539",
+                "rght": "16540",
+                "population": "2071",
+                "population_electors": "1767",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068f-c7f4-4b15-9327-1a32cf91e152",
+                "keywords": "2014-11,村里長,臺中市,北區,新北里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

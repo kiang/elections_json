@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c021e8-02dc-4ef2-a04e-5c5aacb5b862",
+            "parent_id": "53c021e7-dea4-4923-950b-5c5aacb5b862",
+            "name": "雙龍村",
+            "lft": "6159",
+            "rght": "6160",
+            "population": "828",
+            "population_electors": "576",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54735d55-60b4-46d3-a49b-21eacf91e152",
+            "keywords": "2014-11,村里長,南投縣,信義鄉,雙龍村"
+        },
+        "Candidate": [
+            {
+                "id": "53c027fb-1004-4468-bc80-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "全得民",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c021e8-02dc-4ef2-a04e-5c5aacb5b862"
+            },
+            {
+                "id": "540b554f-60f4-40a6-860a-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "申石貴",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c021e8-02dc-4ef2-a04e-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01ce5-387c-49b9-a669-5460acb5b862",
+                "name": "雙龍村",
+                "is_area": true,
+                "keywords": "2014,南投縣,信義鄉,雙龍村",
+                "AreasElection": {
+                    "id": "53c021e8-04f0-4c2e-9af4-5c5aacb5b862",
+                    "Election_id": "53c021e8-02dc-4ef2-a04e-5c5aacb5b862",
+                    "Area_id": "53c01ce5-387c-49b9-a669-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "南投縣",
+                "lft": "5649",
+                "rght": "6200",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021e7-dea4-4923-950b-5c5aacb5b862",
+                "parent_id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "name": "信義鄉",
+                "lft": "6136",
+                "rght": "6165",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021e8-02dc-4ef2-a04e-5c5aacb5b862",
+                "parent_id": "53c021e7-dea4-4923-950b-5c5aacb5b862",
+                "name": "雙龍村",
+                "lft": "6159",
+                "rght": "6160",
+                "population": "828",
+                "population_electors": "576",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54735d55-60b4-46d3-a49b-21eacf91e152",
+                "keywords": "2014-11,村里長,南投縣,信義鄉,雙龍村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

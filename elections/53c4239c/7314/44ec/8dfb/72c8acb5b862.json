@@ -1,0 +1,200 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c4239c-7314-44ec-8dfb-72c8acb5b862",
+            "parent_id": "53c42060-a36c-402d-a566-7258acb5b862",
+            "name": "第02選舉區",
+            "lft": "223",
+            "rght": "224",
+            "population": "2608",
+            "population_electors": "2012",
+            "quota": "3",
+            "quota_women": "0",
+            "bulletin_key": "54744c84-7f58-4a91-a930-45dccf91e152",
+            "keywords": "2014-11,直轄市山地原住民區民代表,桃園市,復興區,第02選舉區"
+        },
+        "Candidate": [
+            {
+                "id": "540b5673-3a1c-410d-9bef-1926acb5b862",
+                "image": "548ee1cc\/1838\/4c98\/b60c\/63a16ab936af.jpg",
+                "stage": "2",
+                "name": "楊苔英",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "6",
+                "name_english": "Yang Tai Ying",
+                "election_id": "53c4239c-7314-44ec-8dfb-72c8acb5b862"
+            },
+            {
+                "id": "540b5673-70e0-421a-af4e-1926acb5b862",
+                "image": "548ee283\/cef0\/4c3e\/813e\/63d66ab936af.jpg",
+                "stage": "1",
+                "name": "柯玉明",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53c4239c-7314-44ec-8dfb-72c8acb5b862"
+            },
+            {
+                "id": "540b5673-7880-47e8-996f-1926acb5b862",
+                "image": "548ee26a\/37b8\/4392\/aac5\/63da6ab936af.jpg",
+                "stage": "2",
+                "name": "楊春樹",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "4",
+                "name_english": "Yang Chun Shu",
+                "election_id": "53c4239c-7314-44ec-8dfb-72c8acb5b862"
+            },
+            {
+                "id": "540b5673-a290-40eb-a1e6-1926acb5b862",
+                "image": "548ee24b\/caa0\/4258\/a9c0\/63b56ab936af.jpg",
+                "stage": "2",
+                "name": "王光榮",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c4239c-7314-44ec-8dfb-72c8acb5b862"
+            },
+            {
+                "id": "540b5673-cfe4-4180-8153-1926acb5b862",
+                "image": "548ee233\/784c\/4aa8\/9fae\/63b16ab936af.jpg",
+                "stage": "1",
+                "name": "黃義有",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c4239c-7314-44ec-8dfb-72c8acb5b862"
+            },
+            {
+                "id": "540b5673-d0d8-4b3b-b917-1926acb5b862",
+                "image": "548ee219\/1cfc\/404f\/ab3c\/63b56ab936af.jpg",
+                "stage": "1",
+                "name": "簡清安",
+                "party": "無",
+                "gender": "m",
+                "no": "5",
+                "name_english": "",
+                "election_id": "53c4239c-7314-44ec-8dfb-72c8acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c37-6964-41a7-a5ca-5460acb5b862",
+                "name": "奎輝里",
+                "is_area": true,
+                "keywords": "2014,桃園市,復興區,奎輝里",
+                "AreasElection": {
+                    "id": "53c4239d-309c-4dde-81b7-72c8acb5b862",
+                    "Election_id": "53c4239c-7314-44ec-8dfb-72c8acb5b862",
+                    "Area_id": "53c01c37-6964-41a7-a5ca-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c37-c23c-4c03-ac20-5460acb5b862",
+                "name": "長興里",
+                "is_area": true,
+                "keywords": "2014,桃園市,復興區,長興里",
+                "AreasElection": {
+                    "id": "53c4239d-63cc-42bb-bd50-72c8acb5b862",
+                    "Election_id": "53c4239c-7314-44ec-8dfb-72c8acb5b862",
+                    "Area_id": "53c01c37-c23c-4c03-ac20-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c37-c374-4ea2-bbed-5460acb5b862",
+                "name": "羅浮里",
+                "is_area": true,
+                "keywords": "2014,桃園市,復興區,羅浮里",
+                "AreasElection": {
+                    "id": "53c4239d-b594-426e-9b19-72c8acb5b862",
+                    "Election_id": "53c4239c-7314-44ec-8dfb-72c8acb5b862",
+                    "Area_id": "53c01c37-c374-4ea2-bbed-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-96ac-4ca2-b338-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市山地原住民區民代表",
+                "lft": "218",
+                "rght": "271",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c42060-3658-40fe-91c8-7258acb5b862",
+                "parent_id": "53c0202f-96ac-4ca2-b338-5460acb5b862",
+                "name": "桃園市",
+                "lft": "219",
+                "rght": "228",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c42060-a36c-402d-a566-7258acb5b862",
+                "parent_id": "53c42060-3658-40fe-91c8-7258acb5b862",
+                "name": "復興區",
+                "lft": "220",
+                "rght": "227",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c4239c-7314-44ec-8dfb-72c8acb5b862",
+                "parent_id": "53c42060-a36c-402d-a566-7258acb5b862",
+                "name": "第02選舉區",
+                "lft": "223",
+                "rght": "224",
+                "population": "2608",
+                "population_electors": "2012",
+                "quota": "3",
+                "quota_women": "0",
+                "bulletin_key": "54744c84-7f58-4a91-a930-45dccf91e152",
+                "keywords": "2014-11,直轄市山地原住民區民代表,桃園市,復興區,第02選舉區"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

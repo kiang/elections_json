@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02545-8084-4fe2-a31a-5c5aacb5b862",
+            "parent_id": "53c02542-30e8-4080-80d6-5c5aacb5b862",
+            "name": "和平里",
+            "lft": "16769",
+            "rght": "16770",
+            "population": "9732",
+            "population_electors": "7047",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c6157-bf80-45c0-b1d8-573fcf91e152",
+            "keywords": "2014-11,村里長,臺中市,北屯區,和平里"
+        },
+        "Candidate": [
+            {
+                "id": "53c026f4-35f4-4611-a584-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "林標權",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c02545-8084-4fe2-a31a-5c5aacb5b862"
+            },
+            {
+                "id": "540b53ce-1818-46a3-8245-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "鐘碧珠",
+                "party": "民主進步黨",
+                "gender": "f",
+                "no": "1",
+                "name_english": "CHUNG PI CHU",
+                "election_id": "53c02545-8084-4fe2-a31a-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01f80-c2fc-4c2d-ba5d-5460acb5b862",
+                "name": "和平里",
+                "is_area": true,
+                "keywords": "2014,臺中市,北屯區,和平里",
+                "AreasElection": {
+                    "id": "53c02545-3d54-4287-9d33-5c5aacb5b862",
+                    "Election_id": "53c02545-8084-4fe2-a31a-5c5aacb5b862",
+                    "Area_id": "53c01f80-c2fc-4c2d-ba5d-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02542-30e8-4080-80d6-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "北屯區",
+                "lft": "16744",
+                "rght": "16829",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02545-8084-4fe2-a31a-5c5aacb5b862",
+                "parent_id": "53c02542-30e8-4080-80d6-5c5aacb5b862",
+                "name": "和平里",
+                "lft": "16769",
+                "rght": "16770",
+                "population": "9732",
+                "population_electors": "7047",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c6157-bf80-45c0-b1d8-573fcf91e152",
+                "keywords": "2014-11,村里長,臺中市,北屯區,和平里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

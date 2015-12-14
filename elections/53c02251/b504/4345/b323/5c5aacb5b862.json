@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02251-b504-4345-b323-5c5aacb5b862",
+            "parent_id": "53c02250-dcf0-4160-9a48-5c5aacb5b862",
+            "name": "大堀村",
+            "lft": "7527",
+            "rght": "7528",
+            "population": "1868",
+            "population_electors": "1546",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-c5fc-4236-8431-2adbcf91e152",
+            "keywords": "2014-11,村里長,嘉義縣,水上鄉,大堀村"
+        },
+        "Candidate": [
+            {
+                "id": "53c02833-fcbc-4b3b-ba3a-5dffacb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "黃三倧",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c02251-b504-4345-b323-5c5aacb5b862"
+            },
+            {
+                "id": "540b55a0-c210-4c5a-b3cd-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "黃存吉",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "HUANG TSUN CHI",
+                "election_id": "53c02251-b504-4345-b323-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d3f-bfb8-4863-809c-5460acb5b862",
+                "name": "大堀村",
+                "is_area": true,
+                "keywords": "2014,嘉義縣,水上鄉,大堀村",
+                "AreasElection": {
+                    "id": "53c02251-6a24-414d-b03e-5c5aacb5b862",
+                    "Election_id": "53c02251-b504-4345-b323-5c5aacb5b862",
+                    "Area_id": "53c01d3f-bfb8-4863-809c-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0222a-d5c0-465f-849c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "嘉義縣",
+                "lft": "7019",
+                "rght": "7770",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02250-dcf0-4160-9a48-5c5aacb5b862",
+                "parent_id": "53c0222a-d5c0-465f-849c-5c5aacb5b862",
+                "name": "水上鄉",
+                "lft": "7520",
+                "rght": "7573",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02251-b504-4345-b323-5c5aacb5b862",
+                "parent_id": "53c02250-dcf0-4160-9a48-5c5aacb5b862",
+                "name": "大堀村",
+                "lft": "7527",
+                "rght": "7528",
+                "population": "1868",
+                "population_electors": "1546",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-c5fc-4236-8431-2adbcf91e152",
+                "keywords": "2014-11,村里長,嘉義縣,水上鄉,大堀村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,152 @@
+{
+    "election": {
+        "Election": {
+            "id": "550865c9-8efc-4aaa-9c8d-2f916ab936af",
+            "parent_id": "550862aa-1e38-4362-a667-28956ab936af",
+            "name": "第05選區[區域]",
+            "lft": "40636",
+            "rght": "40637",
+            "population": "0",
+            "population_electors": "0",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "keywords": "2016-01,立法委員,臺中市,第05選區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "550c640c-82b4-4913-87ce-025cacb5b862",
+                "image": "55c609d4\/ec84\/4bb0\/b737\/03126ab936af.jpg",
+                "stage": "1",
+                "name": "盧秀燕",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": null,
+                "name_english": "",
+                "election_id": "550865c9-8efc-4aaa-9c8d-2f916ab936af"
+            },
+            {
+                "id": "550da05f-2d78-42a5-804a-084b6ab936af",
+                "image": "5655763e\/b5c0\/4300\/9813\/094e6ab936af.jpg",
+                "stage": "1",
+                "name": "苗豐隆",
+                "party": "無",
+                "gender": "m",
+                "no": null,
+                "name_english": "",
+                "election_id": "550865c9-8efc-4aaa-9c8d-2f916ab936af"
+            },
+            {
+                "id": "55c60965-bf94-405e-8c01-6e0c6ab936af",
+                "image": "55c60965\/7e48\/4e66\/8b1a\/6e0c6ab936af.jpg",
+                "stage": "1",
+                "name": "劉國隆",
+                "party": "台灣團結聯盟",
+                "gender": "m",
+                "no": null,
+                "name_english": "",
+                "election_id": "550865c9-8efc-4aaa-9c8d-2f916ab936af"
+            },
+            {
+                "id": "560024c0-0254-4ad3-9c32-46a36ab936af",
+                "image": null,
+                "stage": "1",
+                "name": "簡孟軒",
+                "party": "信心希望聯盟",
+                "gender": "m",
+                "no": null,
+                "name_english": "",
+                "election_id": "550865c9-8efc-4aaa-9c8d-2f916ab936af"
+            }
+        ],
+        "Area": [
+            {
+                "id": "55085a97-abec-4f5a-8d9e-3584acb5b862",
+                "name": "北區",
+                "is_area": true,
+                "keywords": "2016,臺中市,北區",
+                "AreasElection": {
+                    "id": "550a3d4f-e16c-4fc9-9a35-47cb6ab936af",
+                    "Election_id": "550865c9-8efc-4aaa-9c8d-2f916ab936af",
+                    "Area_id": "55085a97-abec-4f5a-8d9e-3584acb5b862"
+                }
+            },
+            {
+                "id": "55085a9d-a378-4594-a9f6-3584acb5b862",
+                "name": "北屯區",
+                "is_area": true,
+                "keywords": "2016,臺中市,北屯區",
+                "AreasElection": {
+                    "id": "550a3d49-aa88-4c9b-a383-47cb6ab936af",
+                    "Election_id": "550865c9-8efc-4aaa-9c8d-2f916ab936af",
+                    "Area_id": "55085a9d-a378-4594-a9f6-3584acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "55085db5-2e9c-4cde-8103-23d86ab936af",
+                "parent_id": null,
+                "name": "2016-01",
+                "lft": "40579",
+                "rght": "40780",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "55085e1a-c494-40e0-ba31-2f916ab936af",
+                "parent_id": "55085db5-2e9c-4cde-8103-23d86ab936af",
+                "name": "立法委員",
+                "lft": "40582",
+                "rght": "40779",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "550862aa-1e38-4362-a667-28956ab936af",
+                "parent_id": "55085e1a-c494-40e0-ba31-2f916ab936af",
+                "name": "臺中市",
+                "lft": "40627",
+                "rght": "40644",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "550865c9-8efc-4aaa-9c8d-2f916ab936af",
+                "parent_id": "550862aa-1e38-4362-a667-28956ab936af",
+                "name": "第05選區[區域]",
+                "lft": "40636",
+                "rght": "40637",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2016-01,立法委員,臺中市,第05選區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

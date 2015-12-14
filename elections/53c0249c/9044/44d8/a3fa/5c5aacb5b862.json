@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0249c-9044-44d8-a3fa-5c5aacb5b862",
+            "parent_id": "53c02493-e710-4be9-9de8-5c5aacb5b862",
+            "name": "景文里",
+            "lft": "14865",
+            "rght": "14866",
+            "population": "3368",
+            "population_electors": "2811",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546f277e-2a64-4758-9423-2f28cf91e152",
+            "keywords": "2014-11,村里長,新北市,中和區,景文里"
+        },
+        "Candidate": [
+            {
+                "id": "53c026ae-012c-4ef2-980e-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "林東銘",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "LIN TUNG NMING",
+                "election_id": "53c0249c-9044-44d8-a3fa-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01ef7-cb74-440c-bd9b-5460acb5b862",
+                "name": "景文里",
+                "is_area": true,
+                "keywords": "2014,新北市,中和區,景文里",
+                "AreasElection": {
+                    "id": "53c0249c-a7f8-48e0-a11c-5c5aacb5b862",
+                    "Election_id": "53c0249c-9044-44d8-a3fa-5c5aacb5b862",
+                    "Area_id": "53c01ef7-cb74-440c-bd9b-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新北市",
+                "lft": "14261",
+                "rght": "16384",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02493-e710-4be9-9de8-5c5aacb5b862",
+                "parent_id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "name": "中和區",
+                "lft": "14756",
+                "rght": "14943",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0249c-9044-44d8-a3fa-5c5aacb5b862",
+                "parent_id": "53c02493-e710-4be9-9de8-5c5aacb5b862",
+                "name": "景文里",
+                "lft": "14865",
+                "rght": "14866",
+                "population": "3368",
+                "population_electors": "2811",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546f277e-2a64-4758-9423-2f28cf91e152",
+                "keywords": "2014-11,村里長,新北市,中和區,景文里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02312-d0c8-499a-9e9c-5c5aacb5b862",
+            "parent_id": "53c02311-b468-4eac-a0ef-5c5aacb5b862",
+            "name": "義和里",
+            "lft": "9981",
+            "rght": "9982",
+            "population": "1759",
+            "population_electors": "1571",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546cd3af-fed8-401e-afa8-78ebcf91e152",
+            "keywords": "2014-11,村里長,基隆市,信義區,義和里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0288c-457c-4516-ac0d-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "蔡麗月",
+                "party": "無",
+                "gender": "f",
+                "no": "2",
+                "name_english": "Tsai Li Yue",
+                "election_id": "53c02312-d0c8-499a-9e9c-5c5aacb5b862"
+            },
+            {
+                "id": "540b5657-785c-42f6-b442-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "吳永靖",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "Wu Yung Ching",
+                "election_id": "53c02312-d0c8-499a-9e9c-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01de3-10b8-4ad9-b357-5460acb5b862",
+                "name": "義和里",
+                "is_area": true,
+                "keywords": "2014,基隆市,信義區,義和里",
+                "AreasElection": {
+                    "id": "53c02312-76cc-4e98-8428-5c5aacb5b862",
+                    "Election_id": "53c02312-d0c8-499a-9e9c-5c5aacb5b862",
+                    "Area_id": "53c01de3-10b8-4ad9-b357-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "基隆市",
+                "lft": "9683",
+                "rght": "10012",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02311-b468-4eac-a0ef-5c5aacb5b862",
+                "parent_id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "name": "信義區",
+                "lft": "9970",
+                "rght": "10011",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02312-d0c8-499a-9e9c-5c5aacb5b862",
+                "parent_id": "53c02311-b468-4eac-a0ef-5c5aacb5b862",
+                "name": "義和里",
+                "lft": "9981",
+                "rght": "9982",
+                "population": "1759",
+                "population_electors": "1571",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546cd3af-fed8-401e-afa8-78ebcf91e152",
+                "keywords": "2014-11,村里長,基隆市,信義區,義和里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

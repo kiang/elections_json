@@ -1,0 +1,108 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0208a-b500-4a1b-a1f6-5c5aacb5b862",
+            "parent_id": "53c0208a-29e0-490b-94ba-5c5aacb5b862",
+            "name": "竹東鎮",
+            "lft": "662",
+            "rght": "663",
+            "population": "95989",
+            "population_electors": "72972",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-c6f8-4cc4-b113-1a32cf91e152",
+            "keywords": "2014-11,鄉鎮市長,新竹縣,竹東鎮"
+        },
+        "Candidate": [
+            {
+                "id": "5406a5fe-b0ac-4490-ad22-15b8acb5b862",
+                "image": "549e7f09\/4b5c\/4311\/9530\/0e936ab936af.jpg",
+                "stage": "2",
+                "name": "徐兆璋",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c0208a-b500-4a1b-a1f6-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c3c-949c-4db4-bf6d-5460acb5b862",
+                "name": "竹東鎮",
+                "is_area": true,
+                "keywords": "2014,新竹縣,竹東鎮",
+                "AreasElection": {
+                    "id": "53c0208a-6e4c-481c-bcbd-5c5aacb5b862",
+                    "Election_id": "53c0208a-b500-4a1b-a1f6-5c5aacb5b862",
+                    "Area_id": "53c01c3c-949c-4db4-bf6d-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市長",
+                "lft": "608",
+                "rght": "1031",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0208a-29e0-490b-94ba-5c5aacb5b862",
+                "parent_id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "name": "新竹縣",
+                "lft": "659",
+                "rght": "686",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0208a-b500-4a1b-a1f6-5c5aacb5b862",
+                "parent_id": "53c0208a-29e0-490b-94ba-5c5aacb5b862",
+                "name": "竹東鎮",
+                "lft": "662",
+                "rght": "663",
+                "population": "95989",
+                "population_electors": "72972",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-c6f8-4cc4-b113-1a32cf91e152",
+                "keywords": "2014-11,鄉鎮市長,新竹縣,竹東鎮"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

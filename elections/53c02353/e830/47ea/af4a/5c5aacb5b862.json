@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02353-e830-47ea-af4a-5c5aacb5b862",
+            "parent_id": "53c02351-abac-4dc1-b5b3-5c5aacb5b862",
+            "name": "仁愛里",
+            "lft": "10787",
+            "rght": "10788",
+            "population": "5825",
+            "population_electors": "4259",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-e904-4505-a0ca-1a32cf91e152",
+            "keywords": "2014-11,村里長,桃園市,大溪區,仁愛里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02776-2e94-4c1a-b0e4-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "藍英中",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "LAN YING CHUNG",
+                "election_id": "53c02353-e830-47ea-af4a-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c0e-4438-422c-93a8-5460acb5b862",
+                "name": "仁愛里",
+                "is_area": true,
+                "keywords": "2014,桃園市,大溪區,仁愛里",
+                "AreasElection": {
+                    "id": "53c02353-79e8-4be2-87e5-5c5aacb5b862",
+                    "Election_id": "53c02353-e830-47ea-af4a-5c5aacb5b862",
+                    "Area_id": "53c01c0e-4438-422c-93a8-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "桃園市",
+                "lft": "10439",
+                "rght": "11456",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02351-abac-4dc1-b5b3-5c5aacb5b862",
+                "parent_id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "name": "大溪區",
+                "lft": "10766",
+                "rght": "10821",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02353-e830-47ea-af4a-5c5aacb5b862",
+                "parent_id": "53c02351-abac-4dc1-b5b3-5c5aacb5b862",
+                "name": "仁愛里",
+                "lft": "10787",
+                "rght": "10788",
+                "population": "5825",
+                "population_electors": "4259",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-e904-4505-a0ca-1a32cf91e152",
+                "keywords": "2014-11,村里長,桃園市,大溪區,仁愛里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

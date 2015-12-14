@@ -1,0 +1,178 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d7347e-fd64-4621-a867-1299acb5b862",
+            "parent_id": "53c020d9-f7d0-4bc7-bdc1-5c5aacb5b862",
+            "name": "第02選舉區[區域]",
+            "lft": "2469",
+            "rght": "2470",
+            "population": "2473",
+            "population_electors": "1938",
+            "quota": "4",
+            "quota_women": "1",
+            "bulletin_key": "5475673a-1234-4a15-a1af-0f78cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,屏東縣,春日鄉,第02選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b57b0-04ac-48a9-93be-1926acb5b862",
+                "image": "54ca2e13\/8e90\/4023\/8520\/1d326ab936af.jpg",
+                "stage": "2",
+                "name": "宋文聖",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53d7347e-fd64-4621-a867-1299acb5b862"
+            },
+            {
+                "id": "540b57b0-a4ac-40c7-96c8-1926acb5b862",
+                "image": "54ca2e9b\/5f24\/4cd2\/9dca\/1d3b6ab936af.jpg",
+                "stage": "2",
+                "name": "呂秀蘭",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "4",
+                "name_english": "",
+                "election_id": "53d7347e-fd64-4621-a867-1299acb5b862"
+            },
+            {
+                "id": "540b57b0-c940-4575-9e14-1926acb5b862",
+                "image": "54ca2e60\/2764\/4508\/b3ac\/1d4a6ab936af.jpg",
+                "stage": "2",
+                "name": "黃連 Sauniyaw Ruveljeng",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53d7347e-fd64-4621-a867-1299acb5b862"
+            },
+            {
+                "id": "540b57b0-df58-4abe-8b4a-1926acb5b862",
+                "image": "54ca2de3\/5110\/4807\/ba0d\/1d436ab936af.jpg",
+                "stage": "2",
+                "name": "周陳文彬",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d7347e-fd64-4621-a867-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d92-8898-4f65-b995-5460acb5b862",
+                "name": "七佳村",
+                "is_area": true,
+                "keywords": "2014,屏東縣,春日鄉,七佳村",
+                "AreasElection": {
+                    "id": "53d7347f-962c-469d-981a-1299acb5b862",
+                    "Election_id": "53d7347e-fd64-4621-a867-1299acb5b862",
+                    "Area_id": "53c01d92-8898-4f65-b995-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d93-4028-49b6-80d2-5460acb5b862",
+                "name": "歸崇村",
+                "is_area": true,
+                "keywords": "2014,屏東縣,春日鄉,歸崇村",
+                "AreasElection": {
+                    "id": "53d7347f-55b8-4996-b103-1299acb5b862",
+                    "Election_id": "53d7347e-fd64-4621-a867-1299acb5b862",
+                    "Area_id": "53c01d93-4028-49b6-80d2-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d93-aa68-40e8-b1cc-5460acb5b862",
+                "name": "力里村",
+                "is_area": true,
+                "keywords": "2014,屏東縣,春日鄉,力里村",
+                "AreasElection": {
+                    "id": "53d7347f-5f58-433c-be45-1299acb5b862",
+                    "Election_id": "53d7347e-fd64-4621-a867-1299acb5b862",
+                    "Area_id": "53c01d93-aa68-40e8-b1cc-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ce-0798-4ae9-af49-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "2197",
+                "rght": "2484",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020d9-f7d0-4bc7-bdc1-5c5aacb5b862",
+                "parent_id": "53c020ce-0798-4ae9-af49-5c5aacb5b862",
+                "name": "春日鄉",
+                "lft": "2466",
+                "rght": "2471",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d7347e-fd64-4621-a867-1299acb5b862",
+                "parent_id": "53c020d9-f7d0-4bc7-bdc1-5c5aacb5b862",
+                "name": "第02選舉區[區域]",
+                "lft": "2469",
+                "rght": "2470",
+                "population": "2473",
+                "population_electors": "1938",
+                "quota": "4",
+                "quota_women": "1",
+                "bulletin_key": "5475673a-1234-4a15-a1af-0f78cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,屏東縣,春日鄉,第02選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02182-e2f8-4b5f-9b4b-5c5aacb5b862",
+            "parent_id": "53c02181-a8f8-4975-ba61-5c5aacb5b862",
+            "name": "長沙村",
+            "lft": "4829",
+            "rght": "4830",
+            "population": "6063",
+            "population_electors": "4672",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-a8a4-4a60-b0ce-74a5cf91e152",
+            "keywords": "2014-11,村里長,彰化縣,花壇鄉,長沙村"
+        },
+        "Candidate": [
+            {
+                "id": "53c027c5-d598-46b9-b56d-5dffacb5b862",
+                "image": "54635696\/294c\/47ef\/acf8\/077d8e043389.jpg",
+                "stage": "2",
+                "name": "柯金地",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02182-e2f8-4b5f-9b4b-5c5aacb5b862"
+            },
+            {
+                "id": "540b5506-5a20-4834-b723-1926acb5b862",
+                "image": "54635717\/08fc\/4ef5\/9390\/077d8e043389.jpg",
+                "stage": "1",
+                "name": "李翊瑋",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "Lee Yi wei",
+                "election_id": "53c02182-e2f8-4b5f-9b4b-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c93-3544-489e-b4fd-5460acb5b862",
+                "name": "長沙村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,花壇鄉,長沙村",
+                "AreasElection": {
+                    "id": "53c02182-39d4-4e80-8ec5-5c5aacb5b862",
+                    "Election_id": "53c02182-e2f8-4b5f-9b4b-5c5aacb5b862",
+                    "Area_id": "53c01c93-3544-489e-b4fd-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "4417",
+                "rght": "5648",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02181-a8f8-4975-ba61-5c5aacb5b862",
+                "parent_id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "name": "花壇鄉",
+                "lft": "4816",
+                "rght": "4853",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02182-e2f8-4b5f-9b4b-5c5aacb5b862",
+                "parent_id": "53c02181-a8f8-4975-ba61-5c5aacb5b862",
+                "name": "長沙村",
+                "lft": "4829",
+                "rght": "4830",
+                "population": "6063",
+                "population_electors": "4672",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-a8a4-4a60-b0ce-74a5cf91e152",
+                "keywords": "2014-11,村里長,彰化縣,花壇鄉,長沙村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

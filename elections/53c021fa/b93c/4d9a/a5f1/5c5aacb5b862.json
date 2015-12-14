@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c021fa-b93c-4d9a-a5f1-5c5aacb5b862",
+            "parent_id": "53c021fa-3c78-4b2a-8256-5c5aacb5b862",
+            "name": "大園里",
+            "lft": "6395",
+            "rght": "6396",
+            "population": "2154",
+            "population_electors": "1630",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546edee5-a1d4-4062-a420-3ce1cf91e152",
+            "keywords": "2014-11,村里長,雲林縣,西螺鎮,大園里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02804-b258-4e2e-bc7b-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "鍾進利",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c021fa-b93c-4d9a-a5f1-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01cf3-6cf8-406b-bce8-5460acb5b862",
+                "name": "大園里",
+                "is_area": true,
+                "keywords": "2014,雲林縣,西螺鎮,大園里",
+                "AreasElection": {
+                    "id": "53c021fa-6178-433c-9408-5c5aacb5b862",
+                    "Election_id": "53c021fa-b93c-4d9a-a5f1-5c5aacb5b862",
+                    "Area_id": "53c01cf3-6cf8-406b-bce8-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "6201",
+                "rght": "7018",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021fa-3c78-4b2a-8256-5c5aacb5b862",
+                "parent_id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "name": "西螺鎮",
+                "lft": "6386",
+                "rght": "6441",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021fa-b93c-4d9a-a5f1-5c5aacb5b862",
+                "parent_id": "53c021fa-3c78-4b2a-8256-5c5aacb5b862",
+                "name": "大園里",
+                "lft": "6395",
+                "rght": "6396",
+                "population": "2154",
+                "population_electors": "1630",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546edee5-a1d4-4062-a420-3ce1cf91e152",
+                "keywords": "2014-11,村里長,雲林縣,西螺鎮,大園里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

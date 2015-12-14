@@ -1,0 +1,152 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c40380-3d34-4f83-9e42-6d45acb5b862",
+            "parent_id": "53c0207d-ff5c-4dfe-98b5-5c5aacb5b862",
+            "name": "第12選區[區域]",
+            "lft": "40",
+            "rght": "41",
+            "population": "63491",
+            "population_electors": "48663",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-06ac-4d31-8d41-1a32cf91e152",
+            "keywords": "2014-11,直轄市議員,桃園市,第12選區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "53c68f76-3290-459a-b70a-0f15acb5b862",
+                "image": "54411bd8\/cc84\/46be\/be29\/542f8e043389.jpg",
+                "stage": "1",
+                "name": "吳宗憲",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "WU TSUNG HSIEN",
+                "election_id": "53c40380-3d34-4f83-9e42-6d45acb5b862"
+            },
+            {
+                "id": "53c68f76-8fec-4a24-af31-0f15acb5b862",
+                "image": "54411c21\/f2cc\/45d8\/a6cc\/53df8e043389.jpg",
+                "stage": "0",
+                "name": "郭蔡美英",
+                "party": "民主進步黨",
+                "gender": "f",
+                "no": "0",
+                "name_english": "",
+                "election_id": "53c40380-3d34-4f83-9e42-6d45acb5b862"
+            },
+            {
+                "id": "540b568b-7d3c-4e43-9d5b-1926acb5b862",
+                "image": "54412820\/6460\/4184\/adbe\/6a898e043389.jpg",
+                "stage": "2",
+                "name": "郭榮宗",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "KUO JUNG CHUNG",
+                "election_id": "53c40380-3d34-4f83-9e42-6d45acb5b862"
+            },
+            {
+                "id": "540b568b-7e84-40df-8a8c-1926acb5b862",
+                "image": "544128a8\/492c\/4c8d\/9862\/6b7e8e043389.jpg",
+                "stage": "2",
+                "name": "歐炳辰",
+                "party": "無",
+                "gender": "m",
+                "no": "4",
+                "name_english": "OU PING CHEN",
+                "election_id": "53c40380-3d34-4f83-9e42-6d45acb5b862"
+            },
+            {
+                "id": "540b568b-b6b0-43f0-ad01-1926acb5b862",
+                "image": "54412850\/6358\/4dfc\/a9b5\/6a898e043389.jpg",
+                "stage": "1",
+                "name": "廖薛文",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "LIAO HSUEN WEN",
+                "election_id": "53c40380-3d34-4f83-9e42-6d45acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c33-44a0-4589-ab86-5460acb5b862",
+                "name": "觀音區",
+                "is_area": true,
+                "keywords": "2014,桃園市,觀音區",
+                "AreasElection": {
+                    "id": "53c40823-3d00-432e-bf43-6e01acb5b862",
+                    "Election_id": "53c40380-3d34-4f83-9e42-6d45acb5b862",
+                    "Area_id": "53c01c33-44a0-4589-ab86-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207d-ff5c-4dfe-98b5-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "桃園市",
+                "lft": "17",
+                "rght": "46",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c40380-3d34-4f83-9e42-6d45acb5b862",
+                "parent_id": "53c0207d-ff5c-4dfe-98b5-5c5aacb5b862",
+                "name": "第12選區[區域]",
+                "lft": "40",
+                "rght": "41",
+                "population": "63491",
+                "population_electors": "48663",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-06ac-4d31-8d41-1a32cf91e152",
+                "keywords": "2014-11,直轄市議員,桃園市,第12選區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

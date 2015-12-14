@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c025fc-87c0-4142-8704-5c5aacb5b862",
+            "parent_id": "53c025fa-db10-4a34-b2da-5c5aacb5b862",
+            "name": "崇學里",
+            "lft": "18817",
+            "rght": "18818",
+            "population": "3539",
+            "population_electors": "2812",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "keywords": "2014-11,村里長,臺南市,東區,崇學里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02745-16e4-42a6-9ad9-5dffacb5b862",
+                "image": "",
+                "stage": "2",
+                "name": "陳長提",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "CHEN CHANG TI",
+                "election_id": "53c025fc-87c0-4142-8704-5c5aacb5b862"
+            },
+            {
+                "id": "540b5435-9288-4a47-8575-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "巫世仁",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "WU SHIH JEN",
+                "election_id": "53c025fc-87c0-4142-8704-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c0200d-a618-4d29-9786-5460acb5b862",
+                "name": "崇學里",
+                "is_area": true,
+                "keywords": "2014,臺南市,東區,崇學里",
+                "AreasElection": {
+                    "id": "53c025fc-045c-449f-b705-5c5aacb5b862",
+                    "Election_id": "53c025fc-87c0-4142-8704-5c5aacb5b862",
+                    "Area_id": "53c0200d-a618-4d29-9786-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02598-fc40-4dee-aec0-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺南市",
+                "lft": "17695",
+                "rght": "19274",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c025fa-db10-4a34-b2da-5c5aacb5b862",
+                "parent_id": "53c02598-fc40-4dee-aec0-5c5aacb5b862",
+                "name": "東區",
+                "lft": "18800",
+                "rght": "18891",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c025fc-87c0-4142-8704-5c5aacb5b862",
+                "parent_id": "53c025fa-db10-4a34-b2da-5c5aacb5b862",
+                "name": "崇學里",
+                "lft": "18817",
+                "rght": "18818",
+                "population": "3539",
+                "population_electors": "2812",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2014-11,村里長,臺南市,東區,崇學里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,163 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c40099-ad64-4035-899e-6cceacb5b862",
+            "parent_id": "53c0207e-1efc-4871-a931-5c5aacb5b862",
+            "name": "第11選區[平地]",
+            "lft": "118",
+            "rght": "119",
+            "population": "3961374",
+            "population_electors": "3173136",
+            "quota": "3",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-88cc-41b1-8684-74a5cf91e152",
+            "keywords": "2014-11,直轄市議員,新北市,第11選區[平地]"
+        },
+        "Candidate": [
+            {
+                "id": "53c68fa8-65d0-4a2d-b7bb-0f15acb5b862",
+                "image": "53da60aa\/7650\/4dca\/9aa4\/0491cb455a61.jpg",
+                "stage": "1",
+                "name": "忠仁．達祿斯",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "6",
+                "name_english": "Chung Jen Da Lu Sih",
+                "election_id": "53c40099-ad64-4035-899e-6cceacb5b862"
+            },
+            {
+                "id": "53c68fa8-d2a4-463b-b1ad-0f15acb5b862",
+                "image": "548ee469\/08c4\/4fc9\/86ee\/648b6ab936af.jpg",
+                "stage": "2",
+                "name": "楊春妹",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "3",
+                "name_english": "Yang Chun Mei",
+                "election_id": "53c40099-ad64-4035-899e-6cceacb5b862"
+            },
+            {
+                "id": "53c68fa8-f784-4f61-98dc-0f15acb5b862",
+                "image": "56337e52\/c658\/4c81\/80fd\/06136ab936af.jpg",
+                "stage": "2",
+                "name": "夷將．拔路兒Icyang．Parod",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "Parod Icyang",
+                "election_id": "53c40099-ad64-4035-899e-6cceacb5b862"
+            },
+            {
+                "id": "540b5683-4104-4332-8bc0-1926acb5b862",
+                "image": "56337f4b\/5974\/46cf\/9a7e\/06136ab936af.jpg",
+                "stage": "1",
+                "name": "陳家梅",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "5",
+                "name_english": "",
+                "election_id": "53c40099-ad64-4035-899e-6cceacb5b862"
+            },
+            {
+                "id": "540b5683-6ffc-4937-ab7e-1926acb5b862",
+                "image": "5438e310\/3fb0\/4e94\/8570\/27ffcb455a61.jpg",
+                "stage": "2",
+                "name": "宋雨蓁Nikar．Falong",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "1",
+                "name_english": "Sung Yu Chen",
+                "election_id": "53c40099-ad64-4035-899e-6cceacb5b862"
+            },
+            {
+                "id": "540b5683-d234-4479-9b11-1926acb5b862",
+                "image": "562a19ea\/1f68\/452f\/8d46\/0f756ab936af.jpg",
+                "stage": "1",
+                "name": "張天明",
+                "party": "無",
+                "gender": "m",
+                "no": "4",
+                "name_english": "",
+                "election_id": "53c40099-ad64-4035-899e-6cceacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01ec7-67b4-4aa7-92a1-5460acb5b862",
+                "name": "新北市",
+                "is_area": true,
+                "keywords": "2014,新北市",
+                "AreasElection": {
+                    "id": "53fb79eb-acfc-41fd-b618-7f66acb5b862",
+                    "Election_id": "53c40099-ad64-4035-899e-6cceacb5b862",
+                    "Area_id": "53c01ec7-67b4-4aa7-92a1-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207e-1efc-4871-a931-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "新北市",
+                "lft": "97",
+                "rght": "122",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c40099-ad64-4035-899e-6cceacb5b862",
+                "parent_id": "53c0207e-1efc-4871-a931-5c5aacb5b862",
+                "name": "第11選區[平地]",
+                "lft": "118",
+                "rght": "119",
+                "population": "3961374",
+                "population_electors": "3173136",
+                "quota": "3",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-88cc-41b1-8684-74a5cf91e152",
+                "keywords": "2014-11,直轄市議員,新北市,第11選區[平地]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

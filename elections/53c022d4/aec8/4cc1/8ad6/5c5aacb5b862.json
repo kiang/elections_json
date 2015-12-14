@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c022d4-aec8-4cc1-8ad6-5c5aacb5b862",
+            "parent_id": "53c022d3-3e90-43c2-9047-5c5aacb5b862",
+            "name": "長橋里",
+            "lft": "9209",
+            "rght": "9210",
+            "population": "1141",
+            "population_electors": "962",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546d8dba-1b90-43a2-a881-0e51cf91e152",
+            "keywords": "2014-11,村里長,花蓮縣,鳳林鎮,長橋里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0286d-fb58-444a-9ec4-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "周清豪",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c022d4-aec8-4cc1-8ad6-5c5aacb5b862"
+            },
+            {
+                "id": "540b560d-d6d4-48cf-982d-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "張慧萍",
+                "party": "無",
+                "gender": "f",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c022d4-aec8-4cc1-8ad6-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01db1-7dc4-4282-bc4c-5460acb5b862",
+                "name": "長橋里",
+                "is_area": true,
+                "keywords": "2014,花蓮縣,鳳林鎮,長橋里",
+                "AreasElection": {
+                    "id": "53c022d5-273c-4c87-b0a4-5c5aacb5b862",
+                    "Election_id": "53c022d4-aec8-4cc1-8ad6-5c5aacb5b862",
+                    "Area_id": "53c01db1-7dc4-4282-bc4c-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022cb-ff18-4c61-98a3-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "花蓮縣",
+                "lft": "9095",
+                "rght": "9476",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022d3-3e90-43c2-9047-5c5aacb5b862",
+                "parent_id": "53c022cb-ff18-4c61-98a3-5c5aacb5b862",
+                "name": "鳳林鎮",
+                "lft": "9188",
+                "rght": "9213",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022d4-aec8-4cc1-8ad6-5c5aacb5b862",
+                "parent_id": "53c022d3-3e90-43c2-9047-5c5aacb5b862",
+                "name": "長橋里",
+                "lft": "9209",
+                "rght": "9210",
+                "population": "1141",
+                "population_electors": "962",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546d8dba-1b90-43a2-a881-0e51cf91e152",
+                "keywords": "2014-11,村里長,花蓮縣,鳳林鎮,長橋里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

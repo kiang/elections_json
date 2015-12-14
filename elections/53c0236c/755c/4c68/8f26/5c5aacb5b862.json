@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0236c-755c-4c68-8f26-5c5aacb5b862",
+            "parent_id": "53c02365-de64-458c-9c1c-5c5aacb5b862",
+            "name": "迴龍里",
+            "lft": "11073",
+            "rght": "11074",
+            "population": "5896",
+            "population_electors": "4954",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546f277f-6470-4566-9b8a-2f28cf91e152",
+            "keywords": "2014-11,村里長,桃園市,龜山區,迴龍里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0277e-afc4-4e63-b418-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "江清萬",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c0236c-755c-4c68-8f26-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c20-cac8-4b6c-ad24-5460acb5b862",
+                "name": "迴龍里",
+                "is_area": true,
+                "keywords": "2014,桃園市,龜山區,迴龍里",
+                "AreasElection": {
+                    "id": "53c0236c-3454-499c-8892-5c5aacb5b862",
+                    "Election_id": "53c0236c-755c-4c68-8f26-5c5aacb5b862",
+                    "Area_id": "53c01c20-cac8-4b6c-ad24-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "桃園市",
+                "lft": "10439",
+                "rght": "11456",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02365-de64-458c-9c1c-5c5aacb5b862",
+                "parent_id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "name": "龜山區",
+                "lft": "11020",
+                "rght": "11081",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0236c-755c-4c68-8f26-5c5aacb5b862",
+                "parent_id": "53c02365-de64-458c-9c1c-5c5aacb5b862",
+                "name": "迴龍里",
+                "lft": "11073",
+                "rght": "11074",
+                "population": "5896",
+                "population_electors": "4954",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546f277f-6470-4566-9b8a-2f28cf91e152",
+                "keywords": "2014-11,村里長,桃園市,龜山區,迴龍里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

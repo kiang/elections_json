@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0256e-aadc-421e-90db-5c5aacb5b862",
+            "parent_id": "53c0256e-9bdc-4114-8942-5c5aacb5b862",
+            "name": "潭秀里",
+            "lft": "17229",
+            "rght": "17230",
+            "population": "1646",
+            "population_electors": "1302",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e0694-641c-4486-a0b3-1a32cf91e152",
+            "keywords": "2014-11,村里長,臺中市,潭子區,潭秀里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02708-37d8-4214-a987-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "楊明智",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "YANG MING CHIH",
+                "election_id": "53c0256e-aadc-421e-90db-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01f9f-55e4-4911-98a9-5460acb5b862",
+                "name": "潭秀里",
+                "is_area": true,
+                "keywords": "2014,臺中市,潭子區,潭秀里",
+                "AreasElection": {
+                    "id": "53c0256e-d19c-4533-8c91-5c5aacb5b862",
+                    "Election_id": "53c0256e-aadc-421e-90db-5c5aacb5b862",
+                    "Area_id": "53c01f9f-55e4-4911-98a9-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0256e-9bdc-4114-8942-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "潭子區",
+                "lft": "17228",
+                "rght": "17261",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0256e-aadc-421e-90db-5c5aacb5b862",
+                "parent_id": "53c0256e-9bdc-4114-8942-5c5aacb5b862",
+                "name": "潭秀里",
+                "lft": "17229",
+                "rght": "17230",
+                "population": "1646",
+                "population_electors": "1302",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e0694-641c-4486-a0b3-1a32cf91e152",
+                "keywords": "2014-11,村里長,臺中市,潭子區,潭秀里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

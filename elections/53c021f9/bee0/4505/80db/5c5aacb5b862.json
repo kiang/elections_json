@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c021f9-bee0-4505-80db-5c5aacb5b862",
+            "parent_id": "53c021f5-c158-4f44-9a45-5c5aacb5b862",
+            "name": "廉使里",
+            "lft": "6379",
+            "rght": "6380",
+            "population": "3773",
+            "population_electors": "2964",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546edee5-49ac-4b09-bb40-3ce1cf91e152",
+            "keywords": "2014-11,村里長,雲林縣,虎尾鎮,廉使里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02804-76f4-44ce-9ef5-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "戴國華",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c021f9-bee0-4505-80db-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01cf2-b86c-418f-9139-5460acb5b862",
+                "name": "廉使里",
+                "is_area": true,
+                "keywords": "2014,雲林縣,虎尾鎮,廉使里",
+                "AreasElection": {
+                    "id": "53c021f9-ae78-477d-989b-5c5aacb5b862",
+                    "Election_id": "53c021f9-bee0-4505-80db-5c5aacb5b862",
+                    "Area_id": "53c01cf2-b86c-418f-9139-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "6201",
+                "rght": "7018",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021f5-c158-4f44-9a45-5c5aacb5b862",
+                "parent_id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "name": "虎尾鎮",
+                "lft": "6326",
+                "rght": "6385",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021f9-bee0-4505-80db-5c5aacb5b862",
+                "parent_id": "53c021f5-c158-4f44-9a45-5c5aacb5b862",
+                "name": "廉使里",
+                "lft": "6379",
+                "rght": "6380",
+                "population": "3773",
+                "population_electors": "2964",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546edee5-49ac-4b09-bb40-3ce1cf91e152",
+                "keywords": "2014-11,村里長,雲林縣,虎尾鎮,廉使里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

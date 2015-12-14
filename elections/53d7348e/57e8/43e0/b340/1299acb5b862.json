@@ -1,0 +1,178 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d7348e-57e8-43e0-b340-1299acb5b862",
+            "parent_id": "53c020da-6538-482f-99f3-5c5aacb5b862",
+            "name": "第02選舉區[區域]",
+            "lft": "2525",
+            "rght": "2526",
+            "population": "3955",
+            "population_electors": "3324",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "546f277f-9364-47ca-8343-2f28cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,臺東縣,鹿野鄉,第02選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b57e4-e020-4674-8d8f-1926acb5b862",
+                "image": "54b24ed3\/7b24\/4351\/ab38\/17976ab936af.jpg",
+                "stage": "2",
+                "name": "黎萬和",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d7348e-57e8-43e0-b340-1299acb5b862"
+            },
+            {
+                "id": "540b57e5-1370-4f91-b673-1926acb5b862",
+                "image": "54b24f48\/be80\/4e14\/b953\/179a6ab936af.jpg",
+                "stage": "1",
+                "name": "林金真",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53d7348e-57e8-43e0-b340-1299acb5b862"
+            },
+            {
+                "id": "540b57e5-1e30-475d-98d6-1926acb5b862",
+                "image": "54b24f77\/3318\/403e\/b190\/17ca6ab936af.jpg",
+                "stage": "2",
+                "name": "葉建興",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53d7348e-57e8-43e0-b340-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d9f-6a0c-4d3d-801d-5460acb5b862",
+                "name": "瑞和村",
+                "is_area": true,
+                "keywords": "2014,臺東縣,鹿野鄉,瑞和村",
+                "AreasElection": {
+                    "id": "53d7348f-db4c-4b05-8861-1299acb5b862",
+                    "Election_id": "53d7348e-57e8-43e0-b340-1299acb5b862",
+                    "Area_id": "53c01d9f-6a0c-4d3d-801d-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d9f-82e0-432a-aab3-5460acb5b862",
+                "name": "瑞源村",
+                "is_area": true,
+                "keywords": "2014,臺東縣,鹿野鄉,瑞源村",
+                "AreasElection": {
+                    "id": "53d7348f-71b0-43fb-855a-1299acb5b862",
+                    "Election_id": "53d7348e-57e8-43e0-b340-1299acb5b862",
+                    "Area_id": "53c01d9f-82e0-432a-aab3-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d9f-b22c-4212-9b44-5460acb5b862",
+                "name": "瑞豐村",
+                "is_area": true,
+                "keywords": "2014,臺東縣,鹿野鄉,瑞豐村",
+                "AreasElection": {
+                    "id": "53d7348f-d3bc-47d4-8861-1299acb5b862",
+                    "Election_id": "53d7348e-57e8-43e0-b340-1299acb5b862",
+                    "Area_id": "53c01d9f-b22c-4212-9b44-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01da0-0894-414e-8a9b-5460acb5b862",
+                "name": "瑞隆村",
+                "is_area": true,
+                "keywords": "2014,臺東縣,鹿野鄉,瑞隆村",
+                "AreasElection": {
+                    "id": "53d7348e-84d4-4811-86a4-1299acb5b862",
+                    "Election_id": "53d7348e-57e8-43e0-b340-1299acb5b862",
+                    "Area_id": "53c01da0-0894-414e-8a9b-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020d9-a97c-4d95-809d-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "臺東縣",
+                "lft": "2485",
+                "rght": "2612",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020da-6538-482f-99f3-5c5aacb5b862",
+                "parent_id": "53c020d9-a97c-4d95-809d-5c5aacb5b862",
+                "name": "鹿野鄉",
+                "lft": "2522",
+                "rght": "2529",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d7348e-57e8-43e0-b340-1299acb5b862",
+                "parent_id": "53c020da-6538-482f-99f3-5c5aacb5b862",
+                "name": "第02選舉區[區域]",
+                "lft": "2525",
+                "rght": "2526",
+                "population": "3955",
+                "population_electors": "3324",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "546f277f-9364-47ca-8343-2f28cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,臺東縣,鹿野鄉,第02選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

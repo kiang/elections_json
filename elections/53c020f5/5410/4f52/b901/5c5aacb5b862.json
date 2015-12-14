@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c020f5-5410-4f52-b901-5c5aacb5b862",
+            "parent_id": "53c020f0-d280-4a34-8646-5c5aacb5b862",
+            "name": "成功里",
+            "lft": "3003",
+            "rght": "3004",
+            "population": "3803",
+            "population_electors": "2784",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-aff0-4944-9860-2adbcf91e152",
+            "keywords": "2014-11,村里長,宜蘭縣,宜蘭市,成功里"
+        },
+        "Candidate": [
+            {
+                "id": "540b55ee-2540-42b8-89a8-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "楊振乾",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c020f5-5410-4f52-b901-5c5aacb5b862"
+            },
+            {
+                "id": "540b55ee-50ac-49df-8a4f-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "薛龍翔",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c020f5-5410-4f52-b901-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01bdb-ef6c-476c-8ccc-5460acb5b862",
+                "name": "成功里",
+                "is_area": true,
+                "keywords": "2014,宜蘭縣,宜蘭市,成功里",
+                "AreasElection": {
+                    "id": "53c020f5-33e4-4e1b-852c-5c5aacb5b862",
+                    "Election_id": "53c020f5-5410-4f52-b901-5c5aacb5b862",
+                    "Area_id": "53c01bdb-ef6c-476c-8ccc-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ef-6268-4b1a-a16d-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "宜蘭縣",
+                "lft": "2929",
+                "rght": "3420",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020f0-d280-4a34-8646-5c5aacb5b862",
+                "parent_id": "53c020ef-6268-4b1a-a16d-5c5aacb5b862",
+                "name": "宜蘭市",
+                "lft": "2930",
+                "rght": "3007",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020f5-5410-4f52-b901-5c5aacb5b862",
+                "parent_id": "53c020f0-d280-4a34-8646-5c5aacb5b862",
+                "name": "成功里",
+                "lft": "3003",
+                "rght": "3004",
+                "population": "3803",
+                "population_electors": "2784",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-aff0-4944-9860-2adbcf91e152",
+                "keywords": "2014-11,村里長,宜蘭縣,宜蘭市,成功里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

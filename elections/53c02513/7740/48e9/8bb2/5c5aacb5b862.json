@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02513-7740-48e9-8bb2-5c5aacb5b862",
+            "parent_id": "53c02512-5dc0-4028-bfc6-5c5aacb5b862",
+            "name": "山溪里",
+            "lft": "16213",
+            "rght": "16214",
+            "population": "1051",
+            "population_electors": "846",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-a158-44f8-9d6b-1a32cf91e152",
+            "keywords": "2014-11,村里長,新北市,石門區,山溪里"
+        },
+        "Candidate": [
+            {
+                "id": "53c026de-4ca4-4ac6-92bb-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "許阿煌",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02513-7740-48e9-8bb2-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01f59-866c-4050-905a-5460acb5b862",
+                "name": "山溪里",
+                "is_area": true,
+                "keywords": "2014,新北市,石門區,山溪里",
+                "AreasElection": {
+                    "id": "53c02513-b794-40bd-8ec6-5c5aacb5b862",
+                    "Election_id": "53c02513-7740-48e9-8bb2-5c5aacb5b862",
+                    "Area_id": "53c01f59-866c-4050-905a-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新北市",
+                "lft": "14261",
+                "rght": "16384",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02512-5dc0-4028-bfc6-5c5aacb5b862",
+                "parent_id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "name": "石門區",
+                "lft": "16200",
+                "rght": "16219",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02513-7740-48e9-8bb2-5c5aacb5b862",
+                "parent_id": "53c02512-5dc0-4028-bfc6-5c5aacb5b862",
+                "name": "山溪里",
+                "lft": "16213",
+                "rght": "16214",
+                "population": "1051",
+                "population_electors": "846",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-a158-44f8-9d6b-1a32cf91e152",
+                "keywords": "2014-11,村里長,新北市,石門區,山溪里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c021ce-dba0-4864-9c70-5c5aacb5b862",
+            "parent_id": "53c021cd-cfbc-47ba-93e0-5c5aacb5b862",
+            "name": "炎峰里",
+            "lft": "5795",
+            "rght": "5796",
+            "population": "2659",
+            "population_electors": "2080",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54735d55-1ba8-4103-ab4b-21eacf91e152",
+            "keywords": "2014-11,村里長,南投縣,草屯鎮,炎峰里"
+        },
+        "Candidate": [
+            {
+                "id": "53c027ec-1bd0-4841-adfd-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "洪慶文",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c021ce-dba0-4864-9c70-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01ccf-4cc4-4945-a298-5460acb5b862",
+                "name": "炎峰里",
+                "is_area": true,
+                "keywords": "2014,南投縣,草屯鎮,炎峰里",
+                "AreasElection": {
+                    "id": "53c021ce-0ac4-4266-85b3-5c5aacb5b862",
+                    "Election_id": "53c021ce-dba0-4864-9c70-5c5aacb5b862",
+                    "Area_id": "53c01ccf-4cc4-4945-a298-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "南投縣",
+                "lft": "5649",
+                "rght": "6200",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021cd-cfbc-47ba-93e0-5c5aacb5b862",
+                "parent_id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "name": "草屯鎮",
+                "lft": "5788",
+                "rght": "5843",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ce-dba0-4864-9c70-5c5aacb5b862",
+                "parent_id": "53c021cd-cfbc-47ba-93e0-5c5aacb5b862",
+                "name": "炎峰里",
+                "lft": "5795",
+                "rght": "5796",
+                "population": "2659",
+                "population_electors": "2080",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54735d55-1ba8-4103-ab4b-21eacf91e152",
+                "keywords": "2014-11,村里長,南投縣,草屯鎮,炎峰里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

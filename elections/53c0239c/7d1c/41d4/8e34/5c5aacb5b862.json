@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0239c-7d1c-41d4-8e34-5c5aacb5b862",
+            "parent_id": "53c02396-dd04-4dbc-a350-5c5aacb5b862",
+            "name": "臥龍里",
+            "lft": "11689",
+            "rght": "11690",
+            "population": "1974",
+            "population_electors": "1592",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-f778-4a13-93a0-4187cf91e152",
+            "keywords": "2014-11,村里長,臺北市,大安區,臥龍里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02638-185c-453b-ae3b-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "張枝鉦",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "Chang Chih Chen",
+                "election_id": "53c0239c-7d1c-41d4-8e34-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01e16-b46c-462d-ae8d-5460acb5b862",
+                "name": "臥龍里",
+                "is_area": true,
+                "keywords": "2014,臺北市,大安區,臥龍里",
+                "AreasElection": {
+                    "id": "53c0239c-07a8-449f-8732-5c5aacb5b862",
+                    "Election_id": "53c0239c-7d1c-41d4-8e34-5c5aacb5b862",
+                    "Area_id": "53c01e16-b46c-462d-ae8d-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02396-dd04-4dbc-a350-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "大安區",
+                "lft": "11610",
+                "rght": "11717",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0239c-7d1c-41d4-8e34-5c5aacb5b862",
+                "parent_id": "53c02396-dd04-4dbc-a350-5c5aacb5b862",
+                "name": "臥龍里",
+                "lft": "11689",
+                "rght": "11690",
+                "population": "1974",
+                "population_electors": "1592",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-f778-4a13-93a0-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,大安區,臥龍里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

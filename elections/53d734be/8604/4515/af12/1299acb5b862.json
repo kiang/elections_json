@@ -1,0 +1,189 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d734be-8604-4515-af12-1299acb5b862",
+            "parent_id": "53c020de-0d60-4eaa-820b-5c5aacb5b862",
+            "name": "第04選舉區[平地]",
+            "lft": "2683",
+            "rght": "2684",
+            "population": "4272",
+            "population_electors": "3629",
+            "quota": "3",
+            "quota_women": "0",
+            "bulletin_key": "546d8dba-27e4-47d8-a052-0e51cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,花蓮縣,光復鄉,第04選舉區[平地]"
+        },
+        "Candidate": [
+            {
+                "id": "540b57d5-0438-4262-834c-1926acb5b862",
+                "image": "54b51e4f\/b548\/484f\/ac0b\/2d166ab936af.jpg",
+                "stage": "2",
+                "name": "林金城 Fono ． Namoh",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53d734be-8604-4515-af12-1299acb5b862"
+            },
+            {
+                "id": "540b57d5-1120-44fe-a2c1-1926acb5b862",
+                "image": "54b51e69\/22cc\/48a0\/a6e4\/2d196ab936af.jpg",
+                "stage": "2",
+                "name": "吳輝明",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "4",
+                "name_english": "",
+                "election_id": "53d734be-8604-4515-af12-1299acb5b862"
+            },
+            {
+                "id": "540b57d5-5ce0-4fe2-8411-1926acb5b862",
+                "image": "54b51e0f\/9ee0\/4c51\/a9b2\/2cff6ab936af.jpg",
+                "stage": "1",
+                "name": "楊天明",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53d734be-8604-4515-af12-1299acb5b862"
+            },
+            {
+                "id": "540b57d5-dc18-4ae4-8103-1926acb5b862",
+                "image": "54b51df7\/f400\/44d1\/b999\/2cf36ab936af.jpg",
+                "stage": "2",
+                "name": "楊秀梅 Cihek ． Kaleting",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d734be-8604-4515-af12-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01dba-0b30-499b-95e1-5460acb5b862",
+                "name": "東富村",
+                "is_area": true,
+                "keywords": "2014,花蓮縣,光復鄉,東富村",
+                "AreasElection": {
+                    "id": "53d734be-a608-45d8-ab4e-1299acb5b862",
+                    "Election_id": "53d734be-8604-4515-af12-1299acb5b862",
+                    "Area_id": "53c01dba-0b30-499b-95e1-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01dba-2ab0-44a5-9080-5460acb5b862",
+                "name": "西富村",
+                "is_area": true,
+                "keywords": "2014,花蓮縣,光復鄉,西富村",
+                "AreasElection": {
+                    "id": "53d734be-5100-4315-b934-1299acb5b862",
+                    "Election_id": "53d734be-8604-4515-af12-1299acb5b862",
+                    "Area_id": "53c01dba-2ab0-44a5-9080-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01dba-bca4-40c7-aae6-5460acb5b862",
+                "name": "南富村",
+                "is_area": true,
+                "keywords": "2014,花蓮縣,光復鄉,南富村",
+                "AreasElection": {
+                    "id": "53d734be-1c64-4cb8-bd18-1299acb5b862",
+                    "Election_id": "53d734be-8604-4515-af12-1299acb5b862",
+                    "Area_id": "53c01dba-bca4-40c7-aae6-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01dbb-b874-471e-9d9b-5460acb5b862",
+                "name": "北富村",
+                "is_area": true,
+                "keywords": "2014,花蓮縣,光復鄉,北富村",
+                "AreasElection": {
+                    "id": "53d734be-2af8-4a66-96c9-1299acb5b862",
+                    "Election_id": "53d734be-8604-4515-af12-1299acb5b862",
+                    "Area_id": "53c01dbb-b874-471e-9d9b-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020dc-5200-4b0d-8494-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "花蓮縣",
+                "lft": "2613",
+                "rght": "2730",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020de-0d60-4eaa-820b-5c5aacb5b862",
+                "parent_id": "53c020dc-5200-4b0d-8494-5c5aacb5b862",
+                "name": "光復鄉",
+                "lft": "2676",
+                "rght": "2685",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d734be-8604-4515-af12-1299acb5b862",
+                "parent_id": "53c020de-0d60-4eaa-820b-5c5aacb5b862",
+                "name": "第04選舉區[平地]",
+                "lft": "2683",
+                "rght": "2684",
+                "population": "4272",
+                "population_electors": "3629",
+                "quota": "3",
+                "quota_women": "0",
+                "bulletin_key": "546d8dba-27e4-47d8-a052-0e51cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,花蓮縣,光復鄉,第04選舉區[平地]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

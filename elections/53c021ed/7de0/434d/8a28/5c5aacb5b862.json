@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c021ed-7de0-434d-8a28-5c5aacb5b862",
+            "parent_id": "53c021ec-e218-48e1-a17c-5c5aacb5b862",
+            "name": "龍潭里",
+            "lft": "6221",
+            "rght": "6222",
+            "population": "2128",
+            "population_electors": "1595",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546ec076-d2c8-4743-a15f-2d4fcf91e152",
+            "keywords": "2014-11,村里長,雲林縣,斗六市,龍潭里"
+        },
+        "Candidate": [
+            {
+                "id": "53c027fd-7a74-411d-b17f-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "關紋舜",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "KUAN WEN SHUN",
+                "election_id": "53c021ed-7de0-434d-8a28-5c5aacb5b862"
+            },
+            {
+                "id": "540b5553-ff70-4f02-8f9c-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "劉景順",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "Liu Ching Shun",
+                "election_id": "53c021ed-7de0-434d-8a28-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01ce9-8804-466e-aac1-5460acb5b862",
+                "name": "龍潭里",
+                "is_area": true,
+                "keywords": "2014,雲林縣,斗六市,龍潭里",
+                "AreasElection": {
+                    "id": "53c021ed-3620-436c-b875-5c5aacb5b862",
+                    "Election_id": "53c021ed-7de0-434d-8a28-5c5aacb5b862",
+                    "Area_id": "53c01ce9-8804-466e-aac1-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "6201",
+                "rght": "7018",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e218-48e1-a17c-5c5aacb5b862",
+                "parent_id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "name": "斗六市",
+                "lft": "6202",
+                "rght": "6279",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ed-7de0-434d-8a28-5c5aacb5b862",
+                "parent_id": "53c021ec-e218-48e1-a17c-5c5aacb5b862",
+                "name": "龍潭里",
+                "lft": "6221",
+                "rght": "6222",
+                "population": "2128",
+                "population_electors": "1595",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546ec076-d2c8-4743-a15f-2d4fcf91e152",
+                "keywords": "2014-11,村里長,雲林縣,斗六市,龍潭里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

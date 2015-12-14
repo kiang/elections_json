@@ -1,0 +1,156 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d7334f-d5c8-4c8d-b8a4-1299acb5b862",
+            "parent_id": "53c020c1-f1f4-46a2-9956-5c5aacb5b862",
+            "name": "第03選舉區[區域]",
+            "lft": "1693",
+            "rght": "1694",
+            "population": "3867",
+            "population_electors": "3189",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-f4c8-4ccd-a88f-74a5cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,彰化縣,埤頭鄉,第03選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b572b-3df8-4a31-8004-1926acb5b862",
+                "image": "546a1056\/3040\/42c0\/9c0b\/6c2e8e043389.jpg",
+                "stage": "1",
+                "name": "黃永成",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53d7334f-d5c8-4c8d-b8a4-1299acb5b862"
+            },
+            {
+                "id": "540b572b-6f3c-4ddc-ab74-1926acb5b862",
+                "image": "54264e2b\/6284\/42d2\/aae8\/7c5dcb455a61.jpg",
+                "stage": "2",
+                "name": "鄭良錕",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d7334f-d5c8-4c8d-b8a4-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01cbd-1664-44c3-98fe-5460acb5b862",
+                "name": "芙朝村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,埤頭鄉,芙朝村",
+                "AreasElection": {
+                    "id": "53d73350-4430-408c-9666-1299acb5b862",
+                    "Election_id": "53d7334f-d5c8-4c8d-b8a4-1299acb5b862",
+                    "Area_id": "53c01cbd-1664-44c3-98fe-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cbd-5e08-4d03-81c1-5460acb5b862",
+                "name": "元埔村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,埤頭鄉,元埔村",
+                "AreasElection": {
+                    "id": "53d73350-7290-47c2-aec5-1299acb5b862",
+                    "Election_id": "53d7334f-d5c8-4c8d-b8a4-1299acb5b862",
+                    "Area_id": "53c01cbd-5e08-4d03-81c1-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cbd-da14-4b06-87fc-5460acb5b862",
+                "name": "新庄村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,埤頭鄉,新庄村",
+                "AreasElection": {
+                    "id": "53d73350-1c34-4806-b7ba-1299acb5b862",
+                    "Election_id": "53d7334f-d5c8-4c8d-b8a4-1299acb5b862",
+                    "Area_id": "53c01cbd-da14-4b06-87fc-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020bb-fd28-4ab5-ad62-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "1497",
+                "rght": "1738",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020c1-f1f4-46a2-9956-5c5aacb5b862",
+                "parent_id": "53c020bb-fd28-4ab5-ad62-5c5aacb5b862",
+                "name": "埤頭鄉",
+                "lft": "1688",
+                "rght": "1697",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d7334f-d5c8-4c8d-b8a4-1299acb5b862",
+                "parent_id": "53c020c1-f1f4-46a2-9956-5c5aacb5b862",
+                "name": "第03選舉區[區域]",
+                "lft": "1693",
+                "rght": "1694",
+                "population": "3867",
+                "population_electors": "3189",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-f4c8-4ccd-a88f-74a5cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,彰化縣,埤頭鄉,第03選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

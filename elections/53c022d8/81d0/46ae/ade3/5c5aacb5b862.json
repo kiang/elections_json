@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c022d8-81d0-46ae-ade3-5c5aacb5b862",
+            "parent_id": "53c022d7-cc68-48da-8b76-5c5aacb5b862",
+            "name": "佳林村",
+            "lft": "9255",
+            "rght": "9256",
+            "population": "1100",
+            "population_electors": "875",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546d8db9-0378-4f17-bf17-0e51cf91e152",
+            "keywords": "2014-11,村里長,花蓮縣,新城鄉,佳林村"
+        },
+        "Candidate": [
+            {
+                "id": "53c0286f-5814-4370-a397-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "何禮飛",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c022d8-81d0-46ae-ade3-5c5aacb5b862"
+            },
+            {
+                "id": "540b5610-a9c0-42fa-8d14-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "潘榮桑",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c022d8-81d0-46ae-ade3-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01db4-2b2c-4f98-88ff-5460acb5b862",
+                "name": "佳林村",
+                "is_area": true,
+                "keywords": "2014,花蓮縣,新城鄉,佳林村",
+                "AreasElection": {
+                    "id": "53c022d8-bd54-458f-94ec-5c5aacb5b862",
+                    "Election_id": "53c022d8-81d0-46ae-ade3-5c5aacb5b862",
+                    "Area_id": "53c01db4-2b2c-4f98-88ff-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022cb-ff18-4c61-98a3-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "花蓮縣",
+                "lft": "9095",
+                "rght": "9476",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022d7-cc68-48da-8b76-5c5aacb5b862",
+                "parent_id": "53c022cb-ff18-4c61-98a3-5c5aacb5b862",
+                "name": "新城鄉",
+                "lft": "9246",
+                "rght": "9263",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022d8-81d0-46ae-ade3-5c5aacb5b862",
+                "parent_id": "53c022d7-cc68-48da-8b76-5c5aacb5b862",
+                "name": "佳林村",
+                "lft": "9255",
+                "rght": "9256",
+                "population": "1100",
+                "population_electors": "875",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546d8db9-0378-4f17-bf17-0e51cf91e152",
+                "keywords": "2014-11,村里長,花蓮縣,新城鄉,佳林村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

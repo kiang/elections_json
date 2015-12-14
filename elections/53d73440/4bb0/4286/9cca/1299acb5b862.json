@@ -1,0 +1,200 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d73440-4bb0-4286-9cca-1299acb5b862",
+            "parent_id": "53c020d2-83e0-4c1a-8bd5-5c5aacb5b862",
+            "name": "第03選舉區[區域]",
+            "lft": "2251",
+            "rght": "2252",
+            "population": "8704",
+            "population_electors": "7150",
+            "quota": "3",
+            "quota_women": "0",
+            "bulletin_key": "5475673a-d1e0-4513-b67e-0f78cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,屏東縣,長治鄉,第03選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b578c-268c-4e2e-b70d-1926acb5b862",
+                "image": "54d37f8c\/0c8c\/4157\/a04a\/6fd56ab936af.jpg",
+                "stage": "2",
+                "name": "董寶達",
+                "party": "無",
+                "gender": "m",
+                "no": "4",
+                "name_english": "",
+                "election_id": "53d73440-4bb0-4286-9cca-1299acb5b862"
+            },
+            {
+                "id": "540b578c-3190-4444-9697-1926acb5b862",
+                "image": "54d3817c\/e2f4\/4dab\/9d00\/756b6ab936af.jpg",
+                "stage": "1",
+                "name": "董平和",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "TUNG PING HO",
+                "election_id": "53d73440-4bb0-4286-9cca-1299acb5b862"
+            },
+            {
+                "id": "540b578c-d6dc-440a-a2ff-1926acb5b862",
+                "image": "54d3821a\/c84c\/406d\/b090\/7a106ab936af.jpg",
+                "stage": "2",
+                "name": "張永彰",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "3",
+                "name_english": "ZHANG YOHG ZHANG",
+                "election_id": "53d73440-4bb0-4286-9cca-1299acb5b862"
+            },
+            {
+                "id": "540b578c-e92c-4563-9a80-1926acb5b862",
+                "image": "54d381e4\/13ac\/4c06\/a7ae\/02546ab936af.jpg",
+                "stage": "2",
+                "name": "王憲政",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d73440-4bb0-4286-9cca-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d69-27c8-4613-a505-5460acb5b862",
+                "name": "繁榮村",
+                "is_area": true,
+                "keywords": "2014,屏東縣,長治鄉,繁榮村",
+                "AreasElection": {
+                    "id": "53d73441-95c0-44c4-a253-1299acb5b862",
+                    "Election_id": "53d73440-4bb0-4286-9cca-1299acb5b862",
+                    "Area_id": "53c01d69-27c8-4613-a505-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d69-3b98-49f9-8859-5460acb5b862",
+                "name": "繁昌村",
+                "is_area": true,
+                "keywords": "2014,屏東縣,長治鄉,繁昌村",
+                "AreasElection": {
+                    "id": "53d73441-5740-463b-b430-1299acb5b862",
+                    "Election_id": "53d73440-4bb0-4286-9cca-1299acb5b862",
+                    "Area_id": "53c01d69-3b98-49f9-8859-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d69-5318-42f0-a855-5460acb5b862",
+                "name": "繁華村",
+                "is_area": true,
+                "keywords": "2014,屏東縣,長治鄉,繁華村",
+                "AreasElection": {
+                    "id": "53d73441-d658-4a57-9abd-1299acb5b862",
+                    "Election_id": "53d73440-4bb0-4286-9cca-1299acb5b862",
+                    "Area_id": "53c01d69-5318-42f0-a855-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d6a-510c-44ec-819b-5460acb5b862",
+                "name": "繁隆村",
+                "is_area": true,
+                "keywords": "2014,屏東縣,長治鄉,繁隆村",
+                "AreasElection": {
+                    "id": "53d73441-d954-46d5-93b0-1299acb5b862",
+                    "Election_id": "53d73440-4bb0-4286-9cca-1299acb5b862",
+                    "Area_id": "53c01d6a-510c-44ec-819b-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d6a-dce0-44da-9d59-5460acb5b862",
+                "name": "榮華村",
+                "is_area": true,
+                "keywords": "2014,屏東縣,長治鄉,榮華村",
+                "AreasElection": {
+                    "id": "53d73441-6c98-4085-b556-1299acb5b862",
+                    "Election_id": "53d73440-4bb0-4286-9cca-1299acb5b862",
+                    "Area_id": "53c01d6a-dce0-44da-9d59-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ce-0798-4ae9-af49-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "2197",
+                "rght": "2484",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020d2-83e0-4c1a-8bd5-5c5aacb5b862",
+                "parent_id": "53c020ce-0798-4ae9-af49-5c5aacb5b862",
+                "name": "長治鄉",
+                "lft": "2246",
+                "rght": "2253",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d73440-4bb0-4286-9cca-1299acb5b862",
+                "parent_id": "53c020d2-83e0-4c1a-8bd5-5c5aacb5b862",
+                "name": "第03選舉區[區域]",
+                "lft": "2251",
+                "rght": "2252",
+                "population": "8704",
+                "population_electors": "7150",
+                "quota": "3",
+                "quota_women": "0",
+                "bulletin_key": "5475673a-d1e0-4513-b67e-0f78cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,屏東縣,長治鄉,第03選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

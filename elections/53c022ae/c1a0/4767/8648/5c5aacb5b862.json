@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c022ae-c1a0-4767-8648-5c5aacb5b862",
+            "parent_id": "53c022ad-13fc-4e9c-9331-5c5aacb5b862",
+            "name": "來義村",
+            "lft": "8709",
+            "rght": "8710",
+            "population": "1139",
+            "population_electors": "874",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54773ba1-9760-416a-a1ef-1915cf91e152",
+            "keywords": "2014-11,村里長,屏東縣,來義鄉,來義村"
+        },
+        "Candidate": [
+            {
+                "id": "53c0285f-8f8c-41c3-950a-5dffacb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "洪嘉明",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c022ae-c1a0-4767-8648-5c5aacb5b862"
+            },
+            {
+                "id": "540b55e7-124c-42bf-bda7-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "高國光",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c022ae-c1a0-4767-8648-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d91-b274-43f6-9ecc-5460acb5b862",
+                "name": "來義村",
+                "is_area": true,
+                "keywords": "2014,屏東縣,來義鄉,來義村",
+                "AreasElection": {
+                    "id": "53c022ae-d184-4aca-92b2-5c5aacb5b862",
+                    "Election_id": "53c022ae-c1a0-4767-8648-5c5aacb5b862",
+                    "Area_id": "53c01d91-b274-43f6-9ecc-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "7771",
+                "rght": "8766",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022ad-13fc-4e9c-9331-5c5aacb5b862",
+                "parent_id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "name": "來義鄉",
+                "lft": "8704",
+                "rght": "8719",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022ae-c1a0-4767-8648-5c5aacb5b862",
+                "parent_id": "53c022ad-13fc-4e9c-9331-5c5aacb5b862",
+                "name": "來義村",
+                "lft": "8709",
+                "rght": "8710",
+                "population": "1139",
+                "population_electors": "874",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54773ba1-9760-416a-a1ef-1915cf91e152",
+                "keywords": "2014-11,村里長,屏東縣,來義鄉,來義村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

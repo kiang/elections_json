@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c021c2-f8a8-4897-945e-5c5aacb5b862",
+            "parent_id": "53c021c1-69c4-437a-95a1-5c5aacb5b862",
+            "name": "漳興里",
+            "lft": "5667",
+            "rght": "5668",
+            "population": "3112",
+            "population_electors": "2548",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54735d55-ae34-449d-90d5-21eacf91e152",
+            "keywords": "2014-11,村里長,南投縣,南投市,漳興里"
+        },
+        "Candidate": [
+            {
+                "id": "53c027e7-0808-4aa4-95f3-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "謝慶同",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c021c2-f8a8-4897-945e-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01cc8-868c-4493-8240-5460acb5b862",
+                "name": "漳興里",
+                "is_area": true,
+                "keywords": "2014,南投縣,南投市,漳興里",
+                "AreasElection": {
+                    "id": "53c021c2-3600-4653-9f7d-5c5aacb5b862",
+                    "Election_id": "53c021c2-f8a8-4897-945e-5c5aacb5b862",
+                    "Area_id": "53c01cc8-868c-4493-8240-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "南投縣",
+                "lft": "5649",
+                "rght": "6200",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021c1-69c4-437a-95a1-5c5aacb5b862",
+                "parent_id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "name": "南投市",
+                "lft": "5650",
+                "rght": "5719",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021c2-f8a8-4897-945e-5c5aacb5b862",
+                "parent_id": "53c021c1-69c4-437a-95a1-5c5aacb5b862",
+                "name": "漳興里",
+                "lft": "5667",
+                "rght": "5668",
+                "population": "3112",
+                "population_electors": "2548",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54735d55-ae34-449d-90d5-21eacf91e152",
+                "keywords": "2014-11,村里長,南投縣,南投市,漳興里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

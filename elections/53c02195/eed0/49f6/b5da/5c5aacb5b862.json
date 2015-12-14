@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02195-eed0-49f6-b5da-5c5aacb5b862",
+            "parent_id": "53c02195-d764-425c-b682-5c5aacb5b862",
+            "name": "新興村",
+            "lft": "5079",
+            "rght": "5080",
+            "population": "1323",
+            "population_electors": "1132",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-0bd8-4162-bf3c-74a5cf91e152",
+            "keywords": "2014-11,村里長,彰化縣,大村鄉,新興村"
+        },
+        "Candidate": [
+            {
+                "id": "53c027d0-6920-454b-8283-5dffacb5b862",
+                "image": "5460c6ee\/8fd8\/4714\/92ce\/3a3e8e043389.jpg",
+                "stage": "2",
+                "name": "黃世昌",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02195-eed0-49f6-b5da-5c5aacb5b862"
+            },
+            {
+                "id": "540b5514-0e10-45f8-a776-1926acb5b862",
+                "image": "5471409f\/98e0\/464c\/8d29\/671e8e043389.jpg",
+                "stage": "1",
+                "name": "陳錦章",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c02195-eed0-49f6-b5da-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01ca3-c764-4892-9fdb-5460acb5b862",
+                "name": "新興村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,大村鄉,新興村",
+                "AreasElection": {
+                    "id": "53c02196-7bd8-4376-93ed-5c5aacb5b862",
+                    "Election_id": "53c02195-eed0-49f6-b5da-5c5aacb5b862",
+                    "Area_id": "53c01ca3-c764-4892-9fdb-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "4417",
+                "rght": "5648",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02195-d764-425c-b682-5c5aacb5b862",
+                "parent_id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "name": "大村鄉",
+                "lft": "5068",
+                "rght": "5101",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02195-eed0-49f6-b5da-5c5aacb5b862",
+                "parent_id": "53c02195-d764-425c-b682-5c5aacb5b862",
+                "name": "新興村",
+                "lft": "5079",
+                "rght": "5080",
+                "population": "1323",
+                "population_electors": "1132",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-0bd8-4162-bf3c-74a5cf91e152",
+                "keywords": "2014-11,村里長,彰化縣,大村鄉,新興村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

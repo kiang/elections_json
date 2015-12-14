@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0255e-c20c-43d7-b6ea-5c5aacb5b862",
+            "parent_id": "53c0255d-a6c0-4aad-a7c7-5c5aacb5b862",
+            "name": "西社里",
+            "lft": "17027",
+            "rght": "17028",
+            "population": "2846",
+            "population_electors": "2134",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e0692-fdfc-4014-81d9-1a32cf91e152",
+            "keywords": "2014-11,村里長,臺中市,清水區,西社里"
+        },
+        "Candidate": [
+            {
+                "id": "53c026ff-4dd8-43e0-b961-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "楊茂雄",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "YANG MAO HSIUNG",
+                "election_id": "53c0255e-c20c-43d7-b6ea-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01f92-6570-4671-a372-5460acb5b862",
+                "name": "西社里",
+                "is_area": true,
+                "keywords": "2014,臺中市,清水區,西社里",
+                "AreasElection": {
+                    "id": "53c0255e-ef1c-4b33-a166-5c5aacb5b862",
+                    "Election_id": "53c0255e-c20c-43d7-b6ea-5c5aacb5b862",
+                    "Area_id": "53c01f92-6570-4671-a372-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0255d-a6c0-4aad-a7c7-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "清水區",
+                "lft": "17016",
+                "rght": "17081",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0255e-c20c-43d7-b6ea-5c5aacb5b862",
+                "parent_id": "53c0255d-a6c0-4aad-a7c7-5c5aacb5b862",
+                "name": "西社里",
+                "lft": "17027",
+                "rght": "17028",
+                "population": "2846",
+                "population_electors": "2134",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e0692-fdfc-4014-81d9-1a32cf91e152",
+                "keywords": "2014-11,村里長,臺中市,清水區,西社里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

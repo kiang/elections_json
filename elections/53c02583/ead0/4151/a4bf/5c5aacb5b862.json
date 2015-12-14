@@ -1,0 +1,145 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02583-ead0-4151-a4bf-5c5aacb5b862",
+            "parent_id": "53c02580-0638-4d38-8de6-5c5aacb5b862",
+            "name": "蔗廍里",
+            "lft": "17459",
+            "rght": "17460",
+            "population": "5560",
+            "population_electors": "4310",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "keywords": "2014-11,村里長,臺中市,大肚區,蔗廍里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02711-ceb4-4133-b762-5dffacb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "童麗香",
+                "party": "無",
+                "gender": "f",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c02583-ead0-4151-a4bf-5c5aacb5b862"
+            },
+            {
+                "id": "540b53ef-3904-4724-ba12-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "林麗莉",
+                "party": "民主進步黨",
+                "gender": "f",
+                "no": "3",
+                "name_english": "Lin Lily",
+                "election_id": "53c02583-ead0-4151-a4bf-5c5aacb5b862"
+            },
+            {
+                "id": "540b53ef-7164-450c-9f62-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "林進朝",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02583-ead0-4151-a4bf-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01fb1-c878-4ced-a628-5460acb5b862",
+                "name": "蔗廍里",
+                "is_area": true,
+                "keywords": "2014,臺中市,大肚區,蔗廍里",
+                "AreasElection": {
+                    "id": "53c02583-efc4-456c-b8d8-5c5aacb5b862",
+                    "Election_id": "53c02583-ead0-4151-a4bf-5c5aacb5b862",
+                    "Area_id": "53c01fb1-c878-4ced-a628-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02580-0638-4d38-8de6-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "大肚區",
+                "lft": "17428",
+                "rght": "17463",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02583-ead0-4151-a4bf-5c5aacb5b862",
+                "parent_id": "53c02580-0638-4d38-8de6-5c5aacb5b862",
+                "name": "蔗廍里",
+                "lft": "17459",
+                "rght": "17460",
+                "population": "5560",
+                "population_electors": "4310",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2014-11,村里長,臺中市,大肚區,蔗廍里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

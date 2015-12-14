@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c020f7-b5d8-41b9-bce4-5c5aacb5b862",
+            "parent_id": "53c020f5-b8c8-408e-aeeb-5c5aacb5b862",
+            "name": "西安里",
+            "lft": "3027",
+            "rght": "3028",
+            "population": "3367",
+            "population_electors": "2671",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-192c-44ee-9d86-2adbcf91e152",
+            "keywords": "2014-11,村里長,宜蘭縣,羅東鎮,西安里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02758-859c-4e58-95eb-5dffacb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "林忠文",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c020f7-b5d8-41b9-bce4-5c5aacb5b862"
+            },
+            {
+                "id": "540b55f0-fea4-407b-b4fa-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "劉文富",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c020f7-b5d8-41b9-bce4-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01bdd-4a9c-4ce5-8aa4-5460acb5b862",
+                "name": "西安里",
+                "is_area": true,
+                "keywords": "2014,宜蘭縣,羅東鎮,西安里",
+                "AreasElection": {
+                    "id": "53c020f7-9ae4-4565-892d-5c5aacb5b862",
+                    "Election_id": "53c020f7-b5d8-41b9-bce4-5c5aacb5b862",
+                    "Area_id": "53c01bdd-4a9c-4ce5-8aa4-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ef-6268-4b1a-a16d-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "宜蘭縣",
+                "lft": "2929",
+                "rght": "3420",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020f5-b8c8-408e-aeeb-5c5aacb5b862",
+                "parent_id": "53c020ef-6268-4b1a-a16d-5c5aacb5b862",
+                "name": "羅東鎮",
+                "lft": "3008",
+                "rght": "3055",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020f7-b5d8-41b9-bce4-5c5aacb5b862",
+                "parent_id": "53c020f5-b8c8-408e-aeeb-5c5aacb5b862",
+                "name": "西安里",
+                "lft": "3027",
+                "rght": "3028",
+                "population": "3367",
+                "population_electors": "2671",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-192c-44ee-9d86-2adbcf91e152",
+                "keywords": "2014-11,村里長,宜蘭縣,羅東鎮,西安里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

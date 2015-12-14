@@ -1,0 +1,156 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c022b3-a5fc-42a4-bb4c-5c5aacb5b862",
+            "parent_id": "53c022b3-e81c-475c-96e8-5c5aacb5b862",
+            "name": "南王里",
+            "lft": "8779",
+            "rght": "8780",
+            "population": "3057",
+            "population_electors": "2494",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546f277f-7824-462f-9519-2f28cf91e152",
+            "keywords": "2014-11,村里長,臺東縣,臺東市,南王里"
+        },
+        "Candidate": [
+            {
+                "id": "540b561f-2cd8-4a5b-b2e8-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "陳聰智",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "CHEN TSUNG CHiH",
+                "election_id": "53c022b3-a5fc-42a4-bb4c-5c5aacb5b862"
+            },
+            {
+                "id": "540b561f-2d74-4923-99a4-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "賴俊傳",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53c022b3-a5fc-42a4-bb4c-5c5aacb5b862"
+            },
+            {
+                "id": "540b561f-54b8-4772-b863-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "鄭聖賢",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "CHENG SHENG HSIEN",
+                "election_id": "53c022b3-a5fc-42a4-bb4c-5c5aacb5b862"
+            },
+            {
+                "id": "540b561f-b630-4e60-91b0-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "陳建隆",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "4",
+                "name_english": "",
+                "election_id": "53c022b3-a5fc-42a4-bb4c-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d95-f348-4875-be8a-5460acb5b862",
+                "name": "南王里",
+                "is_area": true,
+                "keywords": "2014,臺東縣,臺東市,南王里",
+                "AreasElection": {
+                    "id": "53c022b3-9b94-4b0c-8216-5c5aacb5b862",
+                    "Election_id": "53c022b3-a5fc-42a4-bb4c-5c5aacb5b862",
+                    "Area_id": "53c01d95-f348-4875-be8a-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022b2-b9f0-4517-825f-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺東縣",
+                "lft": "8767",
+                "rght": "9094",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022b3-e81c-475c-96e8-5c5aacb5b862",
+                "parent_id": "53c022b2-b9f0-4517-825f-5c5aacb5b862",
+                "name": "臺東市",
+                "lft": "8768",
+                "rght": "8861",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022b3-a5fc-42a4-bb4c-5c5aacb5b862",
+                "parent_id": "53c022b3-e81c-475c-96e8-5c5aacb5b862",
+                "name": "南王里",
+                "lft": "8779",
+                "rght": "8780",
+                "population": "3057",
+                "population_electors": "2494",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546f277f-7824-462f-9519-2f28cf91e152",
+                "keywords": "2014-11,村里長,臺東縣,臺東市,南王里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

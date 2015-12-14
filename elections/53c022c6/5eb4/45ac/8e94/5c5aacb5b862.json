@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c022c6-5eb4-45ac-8e94-5c5aacb5b862",
+            "parent_id": "53c022c6-96e0-4dd2-b8af-5c5aacb5b862",
+            "name": "南寮村",
+            "lft": "9027",
+            "rght": "9028",
+            "population": "1599",
+            "population_electors": "1347",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546f277f-02d0-49e3-aeb3-2f28cf91e152",
+            "keywords": "2014-11,村里長,臺東縣,綠島鄉,南寮村"
+        },
+        "Candidate": [
+            {
+                "id": "53c02868-9afc-477c-8181-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "蘇振茂",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c022c6-5eb4-45ac-8e94-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01da6-3d74-4239-939c-5460acb5b862",
+                "name": "南寮村",
+                "is_area": true,
+                "keywords": "2014,臺東縣,綠島鄉,南寮村",
+                "AreasElection": {
+                    "id": "53c022c7-00b4-46e6-b839-5c5aacb5b862",
+                    "Election_id": "53c022c6-5eb4-45ac-8e94-5c5aacb5b862",
+                    "Area_id": "53c01da6-3d74-4239-939c-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022b2-b9f0-4517-825f-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺東縣",
+                "lft": "8767",
+                "rght": "9094",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022c6-96e0-4dd2-b8af-5c5aacb5b862",
+                "parent_id": "53c022b2-b9f0-4517-825f-5c5aacb5b862",
+                "name": "綠島鄉",
+                "lft": "9024",
+                "rght": "9031",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022c6-5eb4-45ac-8e94-5c5aacb5b862",
+                "parent_id": "53c022c6-96e0-4dd2-b8af-5c5aacb5b862",
+                "name": "南寮村",
+                "lft": "9027",
+                "rght": "9028",
+                "population": "1599",
+                "population_electors": "1347",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546f277f-02d0-49e3-aeb3-2f28cf91e152",
+                "keywords": "2014-11,村里長,臺東縣,綠島鄉,南寮村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

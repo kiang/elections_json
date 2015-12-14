@@ -1,0 +1,167 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02172-3064-422d-b255-5c5aacb5b862",
+            "parent_id": "53c0216d-4580-46df-876a-5c5aacb5b862",
+            "name": "山崙里",
+            "lft": "4621",
+            "rght": "4622",
+            "population": "3725",
+            "population_electors": "2933",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-a668-4c6a-a8ac-74a5cf91e152",
+            "keywords": "2014-11,村里長,彰化縣,鹿港鎮,山崙里"
+        },
+        "Candidate": [
+            {
+                "id": "53c027bb-b01c-4cfe-88bd-5dffacb5b862",
+                "image": "545a2832\/1510\/4982\/9c6f\/0d058e043389.jpg",
+                "stage": "0",
+                "name": "黃乃木",
+                "party": "",
+                "gender": "m",
+                "no": "0",
+                "name_english": "",
+                "election_id": "53c02172-3064-422d-b255-5c5aacb5b862"
+            },
+            {
+                "id": "540b54fa-06b8-4302-b626-1926acb5b862",
+                "image": "545a28b0\/f3a4\/4168\/9a7a\/0b5c8e043389.jpg",
+                "stage": "2",
+                "name": "吳順和",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "Wu shun he",
+                "election_id": "53c02172-3064-422d-b255-5c5aacb5b862"
+            },
+            {
+                "id": "540b54fa-4048-42f3-89c8-1926acb5b862",
+                "image": "546b4294\/6d80\/4281\/ad34\/703b8e043389.jpg",
+                "stage": "1",
+                "name": "黃達宗",
+                "party": "無",
+                "gender": "m",
+                "no": "4",
+                "name_english": "",
+                "election_id": "53c02172-3064-422d-b255-5c5aacb5b862"
+            },
+            {
+                "id": "540b54fa-6e54-44ab-a5f8-1926acb5b862",
+                "image": "546b4256\/48ec\/49bf\/bee1\/6e288e043389.jpg",
+                "stage": "1",
+                "name": "陳明福",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02172-3064-422d-b255-5c5aacb5b862"
+            },
+            {
+                "id": "540b54fa-b5a0-4adb-a8ec-1926acb5b862",
+                "image": "546b4274\/fe24\/489c\/b92a\/703b8e043389.jpg",
+                "stage": "1",
+                "name": "黃安標",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53c02172-3064-422d-b255-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c86-bbfc-48b6-bc74-5460acb5b862",
+                "name": "山崙里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,鹿港鎮,山崙里",
+                "AreasElection": {
+                    "id": "53c02172-3534-49c7-86ac-5c5aacb5b862",
+                    "Election_id": "53c02172-3064-422d-b255-5c5aacb5b862",
+                    "Area_id": "53c01c86-bbfc-48b6-bc74-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "4417",
+                "rght": "5648",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0216d-4580-46df-876a-5c5aacb5b862",
+                "parent_id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "name": "鹿港鎮",
+                "lft": "4566",
+                "rght": "4625",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02172-3064-422d-b255-5c5aacb5b862",
+                "parent_id": "53c0216d-4580-46df-876a-5c5aacb5b862",
+                "name": "山崙里",
+                "lft": "4621",
+                "rght": "4622",
+                "population": "3725",
+                "population_electors": "2933",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-a668-4c6a-a8ac-74a5cf91e152",
+                "keywords": "2014-11,村里長,彰化縣,鹿港鎮,山崙里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

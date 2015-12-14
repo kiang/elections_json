@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d732fd-3794-48fa-a622-1299acb5b862",
+            "parent_id": "53c020b9-c1f0-454e-911d-5c5aacb5b862",
+            "name": "第04選舉區[區域]",
+            "lft": "1441",
+            "rght": "1442",
+            "population": "2452",
+            "population_electors": "2072",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-8004-4412-8bed-4187cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,苗栗縣,頭屋鄉,第04選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b5701-0a2c-4d41-a50d-1926acb5b862",
+                "image": "54ba3f95\/a234\/401a\/97f2\/43006ab936af.jpg",
+                "stage": "2",
+                "name": "劉家鈞",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "LIU CHIA CHUN",
+                "election_id": "53d732fd-3794-48fa-a622-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c71-a7c4-41f3-bc5a-5460acb5b862",
+                "name": "明德村",
+                "is_area": true,
+                "keywords": "2014,苗栗縣,頭屋鄉,明德村",
+                "AreasElection": {
+                    "id": "53d73c6b-4ac0-4160-9d10-16c7acb5b862",
+                    "Election_id": "53d732fd-3794-48fa-a622-1299acb5b862",
+                    "Area_id": "53c01c71-a7c4-41f3-bc5a-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c71-a7c4-41f3-bc5a-5460acb5b862",
+                "name": "明德村",
+                "is_area": true,
+                "keywords": "2014,苗栗縣,頭屋鄉,明德村",
+                "AreasElection": {
+                    "id": "53d73c79-1380-45a4-97ef-16ceacb5b862",
+                    "Election_id": "53d732fd-3794-48fa-a622-1299acb5b862",
+                    "Area_id": "53c01c71-a7c4-41f3-bc5a-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b7-c5b4-41c9-bda3-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "苗栗縣",
+                "lft": "1323",
+                "rght": "1496",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b9-c1f0-454e-911d-5c5aacb5b862",
+                "parent_id": "53c020b7-c5b4-41c9-bda3-5c5aacb5b862",
+                "name": "頭屋鄉",
+                "lft": "1434",
+                "rght": "1445",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d732fd-3794-48fa-a622-1299acb5b862",
+                "parent_id": "53c020b9-c1f0-454e-911d-5c5aacb5b862",
+                "name": "第04選舉區[區域]",
+                "lft": "1441",
+                "rght": "1442",
+                "population": "2452",
+                "population_electors": "2072",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-8004-4412-8bed-4187cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,苗栗縣,頭屋鄉,第04選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c021e0-7540-4b01-8dee-5c5aacb5b862",
+            "parent_id": "53c021e0-f37c-4ee8-93e1-5c5aacb5b862",
+            "name": "東池村",
+            "lft": "6045",
+            "rght": "6046",
+            "population": "1884",
+            "population_electors": "1553",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "keywords": "2014-11,村里長,南投縣,魚池鄉,東池村"
+        },
+        "Candidate": [
+            {
+                "id": "53c027f6-c218-4fa7-933e-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "王燕聰",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c021e0-7540-4b01-8dee-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01cde-b5a4-498f-9349-5460acb5b862",
+                "name": "東池村",
+                "is_area": true,
+                "keywords": "2014,南投縣,魚池鄉,東池村",
+                "AreasElection": {
+                    "id": "53c021e1-40c0-4261-8063-5c5aacb5b862",
+                    "Election_id": "53c021e0-7540-4b01-8dee-5c5aacb5b862",
+                    "Area_id": "53c01cde-b5a4-498f-9349-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "南投縣",
+                "lft": "5649",
+                "rght": "6200",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021e0-f37c-4ee8-93e1-5c5aacb5b862",
+                "parent_id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "name": "魚池鄉",
+                "lft": "6040",
+                "rght": "6067",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021e0-7540-4b01-8dee-5c5aacb5b862",
+                "parent_id": "53c021e0-f37c-4ee8-93e1-5c5aacb5b862",
+                "name": "東池村",
+                "lft": "6045",
+                "rght": "6046",
+                "population": "1884",
+                "population_electors": "1553",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2014-11,村里長,南投縣,魚池鄉,東池村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

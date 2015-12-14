@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c022a0-99a4-469c-9dc3-5c5aacb5b862",
+            "parent_id": "53c0229f-1de0-42f8-934c-5c5aacb5b862",
+            "name": "溪南村",
+            "lft": "8523",
+            "rght": "8524",
+            "population": "1079",
+            "population_electors": "925",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54773ba1-8ca0-4135-82b9-1915cf91e152",
+            "keywords": "2014-11,村里長,屏東縣,南州鄉,溪南村"
+        },
+        "Candidate": [
+            {
+                "id": "53c02858-68a8-4613-aa39-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "周劉寶貴",
+                "party": "無",
+                "gender": "f",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c022a0-99a4-469c-9dc3-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d84-12a4-4cf5-bb4f-5460acb5b862",
+                "name": "溪南村",
+                "is_area": true,
+                "keywords": "2014,屏東縣,南州鄉,溪南村",
+                "AreasElection": {
+                    "id": "53c022a0-3e68-4ade-ba23-5c5aacb5b862",
+                    "Election_id": "53c022a0-99a4-469c-9dc3-5c5aacb5b862",
+                    "Area_id": "53c01d84-12a4-4cf5-bb4f-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "7771",
+                "rght": "8766",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0229f-1de0-42f8-934c-5c5aacb5b862",
+                "parent_id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "name": "南州鄉",
+                "lft": "8522",
+                "rght": "8543",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022a0-99a4-469c-9dc3-5c5aacb5b862",
+                "parent_id": "53c0229f-1de0-42f8-934c-5c5aacb5b862",
+                "name": "溪南村",
+                "lft": "8523",
+                "rght": "8524",
+                "population": "1079",
+                "population_electors": "925",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54773ba1-8ca0-4135-82b9-1915cf91e152",
+                "keywords": "2014-11,村里長,屏東縣,南州鄉,溪南村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

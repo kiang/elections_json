@@ -1,0 +1,156 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d73497-63cc-4449-a1e6-1299acb5b862",
+            "parent_id": "53c020db-2df8-4b9d-aaf4-5c5aacb5b862",
+            "name": "第01選舉區[區域]",
+            "lft": "2561",
+            "rght": "2562",
+            "population": "2533",
+            "population_electors": "2160",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "546f277f-292c-429c-89b6-2f28cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,臺東縣,大武鄉,第01選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b57e9-4950-47f8-b150-1926acb5b862",
+                "image": "54b25f9d\/6590\/4b73\/88f4\/1b6a6ab936af.jpg",
+                "stage": "2",
+                "name": "鄭義成",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d73497-63cc-4449-a1e6-1299acb5b862"
+            },
+            {
+                "id": "540b57e9-6d80-4c8e-9a72-1926acb5b862",
+                "image": "54b26009\/1dc8\/455b\/9b05\/1ba46ab936af.jpg",
+                "stage": "1",
+                "name": "王景昌",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53d73497-63cc-4449-a1e6-1299acb5b862"
+            },
+            {
+                "id": "540b57e9-cf60-43a0-ae65-1926acb5b862",
+                "image": "54b25fdc\/30a8\/4a21\/80ff\/1b826ab936af.jpg",
+                "stage": "2",
+                "name": "黃建賓",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53d73497-63cc-4449-a1e6-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01da6-bd64-4418-bb65-5460acb5b862",
+                "name": "南興村",
+                "is_area": true,
+                "keywords": "2014,臺東縣,大武鄉,南興村",
+                "AreasElection": {
+                    "id": "53d73498-d018-40d5-886d-1299acb5b862",
+                    "Election_id": "53d73497-63cc-4449-a1e6-1299acb5b862",
+                    "Area_id": "53c01da6-bd64-4418-bb65-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01da6-dd70-44fd-bf4c-5460acb5b862",
+                "name": "尚武村",
+                "is_area": true,
+                "keywords": "2014,臺東縣,大武鄉,尚武村",
+                "AreasElection": {
+                    "id": "53d73498-7514-4521-959a-1299acb5b862",
+                    "Election_id": "53d73497-63cc-4449-a1e6-1299acb5b862",
+                    "Area_id": "53c01da6-dd70-44fd-bf4c-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020d9-a97c-4d95-809d-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "臺東縣",
+                "lft": "2485",
+                "rght": "2612",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020db-2df8-4b9d-aaf4-5c5aacb5b862",
+                "parent_id": "53c020d9-a97c-4d95-809d-5c5aacb5b862",
+                "name": "大武鄉",
+                "lft": "2560",
+                "rght": "2567",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d73497-63cc-4449-a1e6-1299acb5b862",
+                "parent_id": "53c020db-2df8-4b9d-aaf4-5c5aacb5b862",
+                "name": "第01選舉區[區域]",
+                "lft": "2561",
+                "rght": "2562",
+                "population": "2533",
+                "population_electors": "2160",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "546f277f-292c-429c-89b6-2f28cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,臺東縣,大武鄉,第01選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

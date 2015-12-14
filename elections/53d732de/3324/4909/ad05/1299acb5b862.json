@@ -1,0 +1,178 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d732de-3324-4909-ad05-1299acb5b862",
+            "parent_id": "53c020b7-fea4-45b7-9b08-5c5aacb5b862",
+            "name": "第04選舉區[區域]",
+            "lft": "1359",
+            "rght": "1360",
+            "population": "12208",
+            "population_electors": "9881",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-4944-4b52-b581-4187cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,苗栗縣,竹南鎮,第04選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b56f4-1f3c-4a22-b299-1926acb5b862",
+                "image": "54b7b9e6\/fca4\/4265\/b4fb\/35586ab936af.jpg",
+                "stage": "2",
+                "name": "曾金龍",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53d732de-3324-4909-ad05-1299acb5b862"
+            },
+            {
+                "id": "540b56f4-326c-48d1-ac47-1926acb5b862",
+                "image": "54b7ba09\/a128\/4261\/9e84\/356b6ab936af.jpg",
+                "stage": "1",
+                "name": "張中和",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53d732de-3324-4909-ad05-1299acb5b862"
+            },
+            {
+                "id": "540b56f4-b994-4008-87e3-1926acb5b862",
+                "image": "54b7b9ad\/c458\/4a87\/8925\/35556ab936af.jpg",
+                "stage": "2",
+                "name": "林樹文",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d732de-3324-4909-ad05-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c5f-4928-4381-9273-5460acb5b862",
+                "name": "崎頂里",
+                "is_area": true,
+                "keywords": "2014,苗栗縣,竹南鎮,崎頂里",
+                "AreasElection": {
+                    "id": "53d732df-81a0-484b-9bba-1299acb5b862",
+                    "Election_id": "53d732de-3324-4909-ad05-1299acb5b862",
+                    "Area_id": "53c01c5f-4928-4381-9273-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c5f-5ea0-4578-a90d-5460acb5b862",
+                "name": "公義里",
+                "is_area": true,
+                "keywords": "2014,苗栗縣,竹南鎮,公義里",
+                "AreasElection": {
+                    "id": "53d732df-dc40-45a4-b1b4-1299acb5b862",
+                    "Election_id": "53d732de-3324-4909-ad05-1299acb5b862",
+                    "Area_id": "53c01c5f-5ea0-4578-a90d-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c5f-d140-4ced-809f-5460acb5b862",
+                "name": "頂埔里",
+                "is_area": true,
+                "keywords": "2014,苗栗縣,竹南鎮,頂埔里",
+                "AreasElection": {
+                    "id": "53d732df-f820-41c5-ba16-1299acb5b862",
+                    "Election_id": "53d732de-3324-4909-ad05-1299acb5b862",
+                    "Area_id": "53c01c5f-d140-4ced-809f-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c5f-f44c-40e1-b70d-5460acb5b862",
+                "name": "大埔里",
+                "is_area": true,
+                "keywords": "2014,苗栗縣,竹南鎮,大埔里",
+                "AreasElection": {
+                    "id": "53d732df-8cb4-4acc-be85-1299acb5b862",
+                    "Election_id": "53d732de-3324-4909-ad05-1299acb5b862",
+                    "Area_id": "53c01c5f-f44c-40e1-b70d-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b7-c5b4-41c9-bda3-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "苗栗縣",
+                "lft": "1323",
+                "rght": "1496",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b7-fea4-45b7-9b08-5c5aacb5b862",
+                "parent_id": "53c020b7-c5b4-41c9-bda3-5c5aacb5b862",
+                "name": "竹南鎮",
+                "lft": "1352",
+                "rght": "1361",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d732de-3324-4909-ad05-1299acb5b862",
+                "parent_id": "53c020b7-fea4-45b7-9b08-5c5aacb5b862",
+                "name": "第04選舉區[區域]",
+                "lft": "1359",
+                "rght": "1360",
+                "population": "12208",
+                "population_electors": "9881",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-4944-4b52-b581-4187cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,苗栗縣,竹南鎮,第04選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

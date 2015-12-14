@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c021e9-1f1c-4afd-9ae7-5c5aacb5b862",
+            "parent_id": "53c021e9-84c0-45bf-8daf-5c5aacb5b862",
+            "name": "發祥村",
+            "lft": "6171",
+            "rght": "6172",
+            "population": "964",
+            "population_electors": "737",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54735d55-0af4-4c80-a747-21eacf91e152",
+            "keywords": "2014-11,村里長,南投縣,仁愛鄉,發祥村"
+        },
+        "Candidate": [
+            {
+                "id": "53c027fb-8c88-478a-97f9-5dffacb5b862",
+                "image": null,
+                "stage": "0",
+                "name": "江志偉",
+                "party": null,
+                "gender": null,
+                "no": "0",
+                "name_english": "",
+                "election_id": "53c021e9-1f1c-4afd-9ae7-5c5aacb5b862"
+            },
+            {
+                "id": "540b5550-ee80-464e-938b-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "白明勝",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c021e9-1f1c-4afd-9ae7-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01ce6-8850-4ea6-9c30-5460acb5b862",
+                "name": "發祥村",
+                "is_area": true,
+                "keywords": "2014,南投縣,仁愛鄉,發祥村",
+                "AreasElection": {
+                    "id": "53c021e9-50b4-430d-8f79-5c5aacb5b862",
+                    "Election_id": "53c021e9-1f1c-4afd-9ae7-5c5aacb5b862",
+                    "Area_id": "53c01ce6-8850-4ea6-9c30-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "南投縣",
+                "lft": "5649",
+                "rght": "6200",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021e9-84c0-45bf-8daf-5c5aacb5b862",
+                "parent_id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "name": "仁愛鄉",
+                "lft": "6166",
+                "rght": "6199",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021e9-1f1c-4afd-9ae7-5c5aacb5b862",
+                "parent_id": "53c021e9-84c0-45bf-8daf-5c5aacb5b862",
+                "name": "發祥村",
+                "lft": "6171",
+                "rght": "6172",
+                "population": "964",
+                "population_electors": "737",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54735d55-0af4-4c80-a747-21eacf91e152",
+                "keywords": "2014-11,村里長,南投縣,仁愛鄉,發祥村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

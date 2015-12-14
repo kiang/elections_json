@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c021e7-f47c-47bb-993d-5c5aacb5b862",
+            "parent_id": "53c021e7-dea4-4923-950b-5c5aacb5b862",
+            "name": "神木村",
+            "lft": "6139",
+            "rght": "6140",
+            "population": "800",
+            "population_electors": "618",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "keywords": "2014-11,村里長,南投縣,信義鄉,神木村"
+        },
+        "Candidate": [
+            {
+                "id": "53c027fb-7fac-4b63-8ec7-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "鍾桂南",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c021e7-f47c-47bb-993d-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01ce4-0944-4676-b347-5460acb5b862",
+                "name": "神木村",
+                "is_area": true,
+                "keywords": "2014,南投縣,信義鄉,神木村",
+                "AreasElection": {
+                    "id": "53c021e7-ac58-4235-aadb-5c5aacb5b862",
+                    "Election_id": "53c021e7-f47c-47bb-993d-5c5aacb5b862",
+                    "Area_id": "53c01ce4-0944-4676-b347-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "南投縣",
+                "lft": "5649",
+                "rght": "6200",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021e7-dea4-4923-950b-5c5aacb5b862",
+                "parent_id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "name": "信義鄉",
+                "lft": "6136",
+                "rght": "6165",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021e7-f47c-47bb-993d-5c5aacb5b862",
+                "parent_id": "53c021e7-dea4-4923-950b-5c5aacb5b862",
+                "name": "神木村",
+                "lft": "6139",
+                "rght": "6140",
+                "population": "800",
+                "population_electors": "618",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2014-11,村里長,南投縣,信義鄉,神木村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

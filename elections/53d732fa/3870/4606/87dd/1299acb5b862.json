@@ -1,0 +1,145 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d732fa-3870-4606-87dd-1299acb5b862",
+            "parent_id": "53c020b9-edb8-4d92-8cad-5c5aacb5b862",
+            "name": "第02選舉區[區域]",
+            "lft": "1427",
+            "rght": "1428",
+            "population": "1959",
+            "population_electors": "1641",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-e28c-489c-a79f-4187cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,苗栗縣,南庄鄉,第02選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b56ff-a59c-404b-b759-1926acb5b862",
+                "image": "54ba663b\/4a0c\/4d7f\/bf1b\/4d856ab936af.jpg",
+                "stage": "2",
+                "name": "衛燕能",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d732fa-3870-4606-87dd-1299acb5b862"
+            },
+            {
+                "id": "540b5700-8b68-43db-b990-1926acb5b862",
+                "image": "54ba665b\/bdc8\/419e\/ae60\/4d7e6ab936af.jpg",
+                "stage": "2",
+                "name": "謝永晟",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53d732fa-3870-4606-87dd-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c6f-4058-411b-a02b-5460acb5b862",
+                "name": "田美村",
+                "is_area": true,
+                "keywords": "2014,苗栗縣,南庄鄉,田美村",
+                "AreasElection": {
+                    "id": "53d732fa-e4ec-45b3-a354-1299acb5b862",
+                    "Election_id": "53d732fa-3870-4606-87dd-1299acb5b862",
+                    "Area_id": "53c01c6f-4058-411b-a02b-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c70-4354-4009-8d7d-5460acb5b862",
+                "name": "獅山村",
+                "is_area": true,
+                "keywords": "2014,苗栗縣,南庄鄉,獅山村",
+                "AreasElection": {
+                    "id": "53d732fa-8950-4097-85ed-1299acb5b862",
+                    "Election_id": "53d732fa-3870-4606-87dd-1299acb5b862",
+                    "Area_id": "53c01c70-4354-4009-8d7d-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b7-c5b4-41c9-bda3-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "苗栗縣",
+                "lft": "1323",
+                "rght": "1496",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b9-edb8-4d92-8cad-5c5aacb5b862",
+                "parent_id": "53c020b7-c5b4-41c9-bda3-5c5aacb5b862",
+                "name": "南庄鄉",
+                "lft": "1424",
+                "rght": "1433",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d732fa-3870-4606-87dd-1299acb5b862",
+                "parent_id": "53c020b9-edb8-4d92-8cad-5c5aacb5b862",
+                "name": "第02選舉區[區域]",
+                "lft": "1427",
+                "rght": "1428",
+                "population": "1959",
+                "population_electors": "1641",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-e28c-489c-a79f-4187cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,苗栗縣,南庄鄉,第02選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

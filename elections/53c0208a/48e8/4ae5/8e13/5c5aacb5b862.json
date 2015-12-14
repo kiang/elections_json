@@ -1,0 +1,130 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0208a-48e8-4ae5-8e13-5c5aacb5b862",
+            "parent_id": "53c0208a-29e0-490b-94ba-5c5aacb5b862",
+            "name": "新埔鎮",
+            "lft": "664",
+            "rght": "665",
+            "population": "34522",
+            "population_electors": "28405",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-b2ac-41db-9b2b-1a32cf91e152",
+            "keywords": "2014-11,鄉鎮市長,新竹縣,新埔鎮"
+        },
+        "Candidate": [
+            {
+                "id": "5406a5fe-bd18-47cd-8fde-15b8acb5b862",
+                "image": "549c2317\/3ba4\/48a1\/a31c\/79166ab936af.jpg",
+                "stage": "0",
+                "name": "賴江海",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "0",
+                "name_english": "",
+                "election_id": "53c0208a-48e8-4ae5-8e13-5c5aacb5b862"
+            },
+            {
+                "id": "540b5800-87f8-4a7f-b311-1926acb5b862",
+                "image": "549c1f0c\/088c\/4883\/ade9\/77c76ab936af.jpg",
+                "stage": "1",
+                "name": "陳英樓",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "CHEN YING LOU",
+                "election_id": "53c0208a-48e8-4ae5-8e13-5c5aacb5b862"
+            },
+            {
+                "id": "540b5800-dd38-4bfe-91c1-1926acb5b862",
+                "image": "549c1e94\/c3dc\/431a\/ae5f\/77b26ab936af.jpg",
+                "stage": "2",
+                "name": "林保祿",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c0208a-48e8-4ae5-8e13-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c40-81b8-4996-8ff3-5460acb5b862",
+                "name": "新埔鎮",
+                "is_area": true,
+                "keywords": "2014,新竹縣,新埔鎮",
+                "AreasElection": {
+                    "id": "53c0208b-3498-4df1-9d84-5c5aacb5b862",
+                    "Election_id": "53c0208a-48e8-4ae5-8e13-5c5aacb5b862",
+                    "Area_id": "53c01c40-81b8-4996-8ff3-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市長",
+                "lft": "608",
+                "rght": "1031",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0208a-29e0-490b-94ba-5c5aacb5b862",
+                "parent_id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "name": "新竹縣",
+                "lft": "659",
+                "rght": "686",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0208a-48e8-4ae5-8e13-5c5aacb5b862",
+                "parent_id": "53c0208a-29e0-490b-94ba-5c5aacb5b862",
+                "name": "新埔鎮",
+                "lft": "664",
+                "rght": "665",
+                "population": "34522",
+                "population_electors": "28405",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-b2ac-41db-9b2b-1a32cf91e152",
+                "keywords": "2014-11,鄉鎮市長,新竹縣,新埔鎮"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

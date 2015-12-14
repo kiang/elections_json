@@ -1,0 +1,152 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c67387-2c48-4535-8d52-087cacb5b862",
+            "parent_id": "53c02082-6740-4ca0-bd10-5c5aacb5b862",
+            "name": "第03選區[區域]",
+            "lft": "322",
+            "rght": "323",
+            "population": "11751",
+            "population_electors": "10039",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-8f04-406b-8e35-74a5cf91e152",
+            "keywords": "2014-11,縣市議員,金門縣,第03選區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b56cb-2a20-42cc-a90c-1926acb5b862",
+                "image": "5492c2a7\/7df8\/4240\/a219\/66b16ab936af.jpg",
+                "stage": "1",
+                "name": "洪輝榮",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c67387-2c48-4535-8d52-087cacb5b862"
+            },
+            {
+                "id": "540b56cb-3cf0-46e3-a09c-1926acb5b862",
+                "image": "5492c329\/2cd8\/4e2a\/9e13\/66d66ab936af.jpg",
+                "stage": "1",
+                "name": "呂俊龍",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "4",
+                "name_english": "",
+                "election_id": "53c67387-2c48-4535-8d52-087cacb5b862"
+            },
+            {
+                "id": "540b56cb-4cb8-4e1d-92df-1926acb5b862",
+                "image": "548ed570\/99a4\/4c96\/b62f\/600b6ab936af.jpg",
+                "stage": "2",
+                "name": "洪鴻斌",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "5",
+                "name_english": "",
+                "election_id": "53c67387-2c48-4535-8d52-087cacb5b862"
+            },
+            {
+                "id": "540b56cb-4e2c-4c31-bab9-1926acb5b862",
+                "image": "5492c1ae\/1258\/4f75\/a7e5\/66596ab936af.jpg",
+                "stage": "2",
+                "name": "洪麗萍",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "1",
+                "name_english": "HUNG LI PIN",
+                "election_id": "53c67387-2c48-4535-8d52-087cacb5b862"
+            },
+            {
+                "id": "540b56cb-53fc-4848-96a7-1926acb5b862",
+                "image": "5492c272\/5850\/4907\/b5ac\/669d6ab936af.jpg",
+                "stage": "1",
+                "name": "林金量",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "3",
+                "name_english": "LIN CHING LIANG",
+                "election_id": "53c67387-2c48-4535-8d52-087cacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01bd5-b0e8-4640-9e80-5460acb5b862",
+                "name": "烈嶼鄉",
+                "is_area": true,
+                "keywords": "2014,金門縣,烈嶼鄉",
+                "AreasElection": {
+                    "id": "53c67387-5a30-4b97-a2af-087cacb5b862",
+                    "Election_id": "53c67387-2c48-4535-8d52-087cacb5b862",
+                    "Area_id": "53c01bd5-b0e8-4640-9e80-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "縣市議員",
+                "lft": "306",
+                "rght": "607",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02082-6740-4ca0-bd10-5c5aacb5b862",
+                "parent_id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "name": "金門縣",
+                "lft": "317",
+                "rght": "324",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c67387-2c48-4535-8d52-087cacb5b862",
+                "parent_id": "53c02082-6740-4ca0-bd10-5c5aacb5b862",
+                "name": "第03選區[區域]",
+                "lft": "322",
+                "rght": "323",
+                "population": "11751",
+                "population_electors": "10039",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-8f04-406b-8e35-74a5cf91e152",
+                "keywords": "2014-11,縣市議員,金門縣,第03選區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

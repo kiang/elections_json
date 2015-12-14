@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c025b3-2bcc-427e-87c0-5c5aacb5b862",
+            "parent_id": "53c025b2-7c10-4aff-b546-5c5aacb5b862",
+            "name": "小埤里",
+            "lft": "17981",
+            "rght": "17982",
+            "population": "1198",
+            "population_electors": "979",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "keywords": "2014-11,村里長,臺南市,麻豆區,小埤里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02726-44a8-4900-bd5c-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "林玉雲",
+                "party": "民主進步黨",
+                "gender": "f",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c025b3-2bcc-427e-87c0-5c5aacb5b862"
+            },
+            {
+                "id": "540b540c-f518-4b7e-b306-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "廖淑姿",
+                "party": "無",
+                "gender": "f",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c025b3-2bcc-427e-87c0-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01fd4-0ca0-4357-82d1-5460acb5b862",
+                "name": "小埤里",
+                "is_area": true,
+                "keywords": "2014,臺南市,麻豆區,小埤里",
+                "AreasElection": {
+                    "id": "53c025b4-9c44-4064-9746-5c5aacb5b862",
+                    "Election_id": "53c025b3-2bcc-427e-87c0-5c5aacb5b862",
+                    "Area_id": "53c01fd4-0ca0-4357-82d1-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02598-fc40-4dee-aec0-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺南市",
+                "lft": "17695",
+                "rght": "19274",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c025b2-7c10-4aff-b546-5c5aacb5b862",
+                "parent_id": "53c02598-fc40-4dee-aec0-5c5aacb5b862",
+                "name": "麻豆區",
+                "lft": "17964",
+                "rght": "18023",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c025b3-2bcc-427e-87c0-5c5aacb5b862",
+                "parent_id": "53c025b2-7c10-4aff-b546-5c5aacb5b862",
+                "name": "小埤里",
+                "lft": "17981",
+                "rght": "17982",
+                "population": "1198",
+                "population_electors": "979",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2014-11,村里長,臺南市,麻豆區,小埤里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

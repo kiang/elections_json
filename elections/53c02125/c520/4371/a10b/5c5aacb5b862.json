@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02125-c520-4371-a10b-5c5aacb5b862",
+            "parent_id": "53c02124-7f9c-4401-9456-5c5aacb5b862",
+            "name": "孝勢村",
+            "lft": "3621",
+            "rght": "3622",
+            "population": "1688",
+            "population_electors": "1378",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-db5c-4eb4-997d-1a32cf91e152",
+            "keywords": "2014-11,村里長,新竹縣,湖口鄉,孝勢村"
+        },
+        "Candidate": [
+            {
+                "id": "53c02795-7858-44bc-893b-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "鄭國平",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "CHENG KUO PING",
+                "election_id": "53c02125-c520-4371-a10b-5c5aacb5b862"
+            },
+            {
+                "id": "540b54c0-8a90-41b0-85d8-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "徐癸生",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02125-c520-4371-a10b-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c44-f0f8-4eaa-a8b0-5460acb5b862",
+                "name": "孝勢村",
+                "is_area": true,
+                "keywords": "2014,新竹縣,湖口鄉,孝勢村",
+                "AreasElection": {
+                    "id": "53c02125-0238-4218-b54b-5c5aacb5b862",
+                    "Election_id": "53c02125-c520-4371-a10b-5c5aacb5b862",
+                    "Area_id": "53c01c44-f0f8-4eaa-a8b0-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02114-c1a0-4545-bc6f-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新竹縣",
+                "lft": "3421",
+                "rght": "3830",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02124-7f9c-4401-9456-5c5aacb5b862",
+                "parent_id": "53c02114-c1a0-4545-bc6f-5c5aacb5b862",
+                "name": "湖口鄉",
+                "lft": "3620",
+                "rght": "3661",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02125-c520-4371-a10b-5c5aacb5b862",
+                "parent_id": "53c02124-7f9c-4401-9456-5c5aacb5b862",
+                "name": "孝勢村",
+                "lft": "3621",
+                "rght": "3622",
+                "population": "1688",
+                "population_electors": "1378",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-db5c-4eb4-997d-1a32cf91e152",
+                "keywords": "2014-11,村里長,新竹縣,湖口鄉,孝勢村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

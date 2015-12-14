@@ -1,0 +1,145 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d73307-a19c-43f9-a29d-1299acb5b862",
+            "parent_id": "53c020ba-5394-40bf-8b3b-5c5aacb5b862",
+            "name": "第02選舉區[區域]",
+            "lft": "1475",
+            "rght": "1476",
+            "population": "955",
+            "population_electors": "819",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-2460-42a2-b31a-4187cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,苗栗縣,三灣鄉,第02選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b5705-5aa4-4ae4-87ed-1926acb5b862",
+                "image": "54ba7d46\/e5bc\/4d3a\/bffc\/52916ab936af.jpg",
+                "stage": "2",
+                "name": "湯春蓮",
+                "party": "無",
+                "gender": "f",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53d73307-a19c-43f9-a29d-1299acb5b862"
+            },
+            {
+                "id": "540b5706-be2c-4aaf-b762-1926acb5b862",
+                "image": "54ba7d72\/1dc4\/4849\/9f72\/52a56ab936af.jpg",
+                "stage": "1",
+                "name": "胡貴庭",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d73307-a19c-43f9-a29d-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c75-22b8-4645-820c-5460acb5b862",
+                "name": "北埔村",
+                "is_area": true,
+                "keywords": "2014,苗栗縣,三灣鄉,北埔村",
+                "AreasElection": {
+                    "id": "53d73307-0fd0-4095-bcc7-1299acb5b862",
+                    "Election_id": "53d73307-a19c-43f9-a29d-1299acb5b862",
+                    "Area_id": "53c01c75-22b8-4645-820c-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c75-db70-4335-bf41-5460acb5b862",
+                "name": "頂寮村",
+                "is_area": true,
+                "keywords": "2014,苗栗縣,三灣鄉,頂寮村",
+                "AreasElection": {
+                    "id": "53d73307-ff48-494d-a528-1299acb5b862",
+                    "Election_id": "53d73307-a19c-43f9-a29d-1299acb5b862",
+                    "Area_id": "53c01c75-db70-4335-bf41-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b7-c5b4-41c9-bda3-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "苗栗縣",
+                "lft": "1323",
+                "rght": "1496",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ba-5394-40bf-8b3b-5c5aacb5b862",
+                "parent_id": "53c020b7-c5b4-41c9-bda3-5c5aacb5b862",
+                "name": "三灣鄉",
+                "lft": "1472",
+                "rght": "1479",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d73307-a19c-43f9-a29d-1299acb5b862",
+                "parent_id": "53c020ba-5394-40bf-8b3b-5c5aacb5b862",
+                "name": "第02選舉區[區域]",
+                "lft": "1475",
+                "rght": "1476",
+                "population": "955",
+                "population_electors": "819",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-2460-42a2-b31a-4187cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,苗栗縣,三灣鄉,第02選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

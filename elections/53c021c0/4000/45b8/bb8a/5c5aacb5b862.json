@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c021c0-4000-45b8-bb8a-5c5aacb5b862",
+            "parent_id": "53c021be-13ec-4ba4-b387-5c5aacb5b862",
+            "name": "大庄村",
+            "lft": "5635",
+            "rght": "5636",
+            "population": "2317",
+            "population_electors": "1879",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-2c18-43db-9802-74a5cf91e152",
+            "keywords": "2014-11,村里長,彰化縣,溪州鄉,大庄村"
+        },
+        "Candidate": [
+            {
+                "id": "53c027e6-33e0-49a5-85ef-5dffacb5b862",
+                "image": "5462f464\/e1ac\/4a3e\/ae26\/585c8e043389.jpg",
+                "stage": "2",
+                "name": "董美龍",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c021c0-4000-45b8-bb8a-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01cc6-a520-4a5a-865d-5460acb5b862",
+                "name": "大庄村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,溪州鄉,大庄村",
+                "AreasElection": {
+                    "id": "53c021c0-b1f0-46da-83d1-5c5aacb5b862",
+                    "Election_id": "53c021c0-4000-45b8-bb8a-5c5aacb5b862",
+                    "Area_id": "53c01cc6-a520-4a5a-865d-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "4417",
+                "rght": "5648",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021be-13ec-4ba4-b387-5c5aacb5b862",
+                "parent_id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "name": "溪州鄉",
+                "lft": "5608",
+                "rght": "5647",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021c0-4000-45b8-bb8a-5c5aacb5b862",
+                "parent_id": "53c021be-13ec-4ba4-b387-5c5aacb5b862",
+                "name": "大庄村",
+                "lft": "5635",
+                "rght": "5636",
+                "population": "2317",
+                "population_electors": "1879",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-2c18-43db-9802-74a5cf91e152",
+                "keywords": "2014-11,村里長,彰化縣,溪州鄉,大庄村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

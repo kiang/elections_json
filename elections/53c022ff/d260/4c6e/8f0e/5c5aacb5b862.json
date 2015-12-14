@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c022ff-d260-4c6e-8f0e-5c5aacb5b862",
+            "parent_id": "53c022fb-fc9c-4742-8d91-5c5aacb5b862",
+            "name": "中正里",
+            "lft": "9723",
+            "rght": "9724",
+            "population": "2253",
+            "population_electors": "2003",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c8095-2d00-4907-8dd7-61a3cf91e152",
+            "keywords": "2014-11,村里長,基隆市,中正區,中正里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02882-aa60-460a-b728-5dffacb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "莊清日",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c022ff-d260-4c6e-8f0e-5c5aacb5b862"
+            },
+            {
+                "id": "540b5649-d668-4a10-8dff-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "梁火龍",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c022ff-d260-4c6e-8f0e-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01dd2-0614-4cfc-9428-5460acb5b862",
+                "name": "中正里",
+                "is_area": true,
+                "keywords": "2014,基隆市,中正區,中正里",
+                "AreasElection": {
+                    "id": "53c022ff-8a1c-47b8-882a-5c5aacb5b862",
+                    "Election_id": "53c022ff-d260-4c6e-8f0e-5c5aacb5b862",
+                    "Area_id": "53c01dd2-0614-4cfc-9428-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "基隆市",
+                "lft": "9683",
+                "rght": "10012",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022fb-fc9c-4742-8d91-5c5aacb5b862",
+                "parent_id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "name": "中正區",
+                "lft": "9684",
+                "rght": "9737",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022ff-d260-4c6e-8f0e-5c5aacb5b862",
+                "parent_id": "53c022fb-fc9c-4742-8d91-5c5aacb5b862",
+                "name": "中正里",
+                "lft": "9723",
+                "rght": "9724",
+                "population": "2253",
+                "population_electors": "2003",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c8095-2d00-4907-8dd7-61a3cf91e152",
+                "keywords": "2014-11,村里長,基隆市,中正區,中正里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

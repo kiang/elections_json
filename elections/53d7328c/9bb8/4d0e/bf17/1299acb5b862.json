@@ -1,0 +1,200 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d7328c-9bb8-4d0e-bf17-1299acb5b862",
+            "parent_id": "53c020b2-1a10-4514-a6cc-5c5aacb5b862",
+            "name": "第02選舉區[區域]",
+            "lft": "1111",
+            "rght": "1112",
+            "population": "8675",
+            "population_electors": "6878",
+            "quota": "3",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-abec-4fe2-ba34-2adbcf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,宜蘭縣,頭城鎮,第02選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b57b8-41fc-40d9-a9a7-1926acb5b862",
+                "image": "54b106e1\/80e0\/4166\/a89d\/55006ab936af.jpg",
+                "stage": "2",
+                "name": "柳萬順",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53d7328c-9bb8-4d0e-bf17-1299acb5b862"
+            },
+            {
+                "id": "540b57b8-bd5c-4bca-88ee-1926acb5b862",
+                "image": "54b1068a\/fcc8\/4502\/a914\/54c46ab936af.jpg",
+                "stage": "2",
+                "name": "甘錫賢",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53d7328c-9bb8-4d0e-bf17-1299acb5b862"
+            },
+            {
+                "id": "540b57b9-398c-4feb-bd7d-1926acb5b862",
+                "image": "54b10640\/60e4\/4037\/95dc\/54ea6ab936af.jpg",
+                "stage": "1",
+                "name": "曾錫章",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d7328c-9bb8-4d0e-bf17-1299acb5b862"
+            },
+            {
+                "id": "540b57b9-72e8-4ac3-8ee2-1926acb5b862",
+                "image": "54b107a1\/7430\/4746\/add1\/550b6ab936af.jpg",
+                "stage": "2",
+                "name": "蔡財丁",
+                "party": "無",
+                "gender": "m",
+                "no": "4",
+                "name_english": "",
+                "election_id": "53d7328c-9bb8-4d0e-bf17-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01be3-2280-4c16-8d48-5460acb5b862",
+                "name": "城南里",
+                "is_area": true,
+                "keywords": "2014,宜蘭縣,頭城鎮,城南里",
+                "AreasElection": {
+                    "id": "53d7328e-9464-4da4-9171-1299acb5b862",
+                    "Election_id": "53d7328c-9bb8-4d0e-bf17-1299acb5b862",
+                    "Area_id": "53c01be3-2280-4c16-8d48-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01be3-f090-4a38-9709-5460acb5b862",
+                "name": "城西里",
+                "is_area": true,
+                "keywords": "2014,宜蘭縣,頭城鎮,城西里",
+                "AreasElection": {
+                    "id": "53d7328e-a788-40ef-88be-1299acb5b862",
+                    "Election_id": "53d7328c-9bb8-4d0e-bf17-1299acb5b862",
+                    "Area_id": "53c01be3-f090-4a38-9709-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01be4-40b4-426c-9ad3-5460acb5b862",
+                "name": "竹安里",
+                "is_area": true,
+                "keywords": "2014,宜蘭縣,頭城鎮,竹安里",
+                "AreasElection": {
+                    "id": "53d7328e-2a0c-45c7-849a-1299acb5b862",
+                    "Election_id": "53d7328c-9bb8-4d0e-bf17-1299acb5b862",
+                    "Area_id": "53c01be4-40b4-426c-9ad3-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01be5-63e8-4e5e-aa27-5460acb5b862",
+                "name": "拔雅里",
+                "is_area": true,
+                "keywords": "2014,宜蘭縣,頭城鎮,拔雅里",
+                "AreasElection": {
+                    "id": "53d7328e-adc8-458c-92b6-1299acb5b862",
+                    "Election_id": "53d7328c-9bb8-4d0e-bf17-1299acb5b862",
+                    "Area_id": "53c01be5-63e8-4e5e-aa27-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01be5-b7b8-40c8-b46a-5460acb5b862",
+                "name": "新建里",
+                "is_area": true,
+                "keywords": "2014,宜蘭縣,頭城鎮,新建里",
+                "AreasElection": {
+                    "id": "53d7328e-bddc-47bd-a902-1299acb5b862",
+                    "Election_id": "53d7328c-9bb8-4d0e-bf17-1299acb5b862",
+                    "Area_id": "53c01be5-b7b8-40c8-b46a-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b1-2260-44dc-a0bc-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "宜蘭縣",
+                "lft": "1077",
+                "rght": "1200",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b2-1a10-4514-a6cc-5c5aacb5b862",
+                "parent_id": "53c020b1-2260-44dc-a0bc-5c5aacb5b862",
+                "name": "頭城鎮",
+                "lft": "1108",
+                "rght": "1117",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d7328c-9bb8-4d0e-bf17-1299acb5b862",
+                "parent_id": "53c020b2-1a10-4514-a6cc-5c5aacb5b862",
+                "name": "第02選舉區[區域]",
+                "lft": "1111",
+                "rght": "1112",
+                "population": "8675",
+                "population_electors": "6878",
+                "quota": "3",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-abec-4fe2-ba34-2adbcf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,宜蘭縣,頭城鎮,第02選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

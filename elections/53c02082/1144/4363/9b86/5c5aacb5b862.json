@@ -1,0 +1,137 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02082-1144-4363-9b86-5c5aacb5b862",
+            "parent_id": "53c0202f-cfc8-4ab5-a63b-5460acb5b862",
+            "name": "新竹市",
+            "lft": "301",
+            "rght": "302",
+            "population": "422760",
+            "population_electors": "318561",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546b0806-6ff8-4ccc-bebe-2ff0cf91e152",
+            "keywords": "2014-11,縣市長,新竹市"
+        },
+        "Candidate": [
+            {
+                "id": "53c028b8-8270-41eb-a16e-5dffacb5b862",
+                "image": "5465d3fe\/4fc4\/46b0\/96ea\/70658e043389.jpg",
+                "stage": "1",
+                "name": "劉正幸",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "LIU CHENG HSING",
+                "election_id": "53c02082-1144-4363-9b86-5c5aacb5b862"
+            },
+            {
+                "id": "53c028c7-78a4-4014-88d0-5dffacb5b862",
+                "image": "5612740d\/e6d0\/47da\/a11f\/64046ab936af.jpg",
+                "stage": "1",
+                "name": "蔡仁堅",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "TSAI JEN CHIEN",
+                "election_id": "53c02082-1144-4363-9b86-5c5aacb5b862"
+            },
+            {
+                "id": "53c028c8-8ae0-410a-abaf-5dffacb5b862",
+                "image": "56127946\/5868\/423a\/9549\/647c6ab936af.jpg",
+                "stage": "1",
+                "name": "許明財",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "HSU MING TSAI",
+                "election_id": "53c02082-1144-4363-9b86-5c5aacb5b862"
+            },
+            {
+                "id": "540b56d8-e300-4f6b-8f35-1926acb5b862",
+                "image": "542d61d1\/8d58\/47d0\/a1a1\/26d7cb455a61.jpg",
+                "stage": "2",
+                "name": "林智堅",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "4",
+                "name_english": "LIN CHIHCIEN",
+                "election_id": "53c02082-1144-4363-9b86-5c5aacb5b862"
+            },
+            {
+                "id": "540b56d9-2508-423b-8130-1926acb5b862",
+                "image": "56586dec\/a6c0\/4605\/8611\/2a3b6ab936af.jpg",
+                "stage": "1",
+                "name": "吳淑敏",
+                "party": "無",
+                "gender": "f",
+                "no": "5",
+                "name_english": "WU SHU MIN",
+                "election_id": "53c02082-1144-4363-9b86-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01de6-6074-4140-a4ee-5460acb5b862",
+                "name": "新竹市",
+                "is_area": true,
+                "keywords": "2014,新竹市",
+                "AreasElection": {
+                    "id": "53c02082-a488-4160-843c-5c5aacb5b862",
+                    "Election_id": "53c02082-1144-4363-9b86-5c5aacb5b862",
+                    "Area_id": "53c01de6-6074-4140-a4ee-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-cfc8-4ab5-a63b-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "縣市長",
+                "lft": "272",
+                "rght": "305",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02082-1144-4363-9b86-5c5aacb5b862",
+                "parent_id": "53c0202f-cfc8-4ab5-a63b-5460acb5b862",
+                "name": "新竹市",
+                "lft": "301",
+                "rght": "302",
+                "population": "422760",
+                "population_electors": "318561",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546b0806-6ff8-4ccc-bebe-2ff0cf91e152",
+                "keywords": "2014-11,縣市長,新竹市"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

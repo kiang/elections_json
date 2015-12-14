@@ -1,0 +1,174 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c40096-5c78-4340-9171-6cceacb5b862",
+            "parent_id": "53c0207e-1efc-4871-a931-5c5aacb5b862",
+            "name": "第06選區[區域]",
+            "lft": "108",
+            "rght": "109",
+            "population": "227629",
+            "population_electors": "183675",
+            "quota": "4",
+            "quota_women": "1",
+            "bulletin_key": "5469b450-5b18-44e2-8f73-74a5cf91e152",
+            "keywords": "2014-11,直轄市議員,新北市,第06選區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "53c68fa3-2e2c-4d2d-995b-0f15acb5b862",
+                "image": "5624ef82\/89a0\/4c5f\/90af\/573d6ab936af.jpg",
+                "stage": "2",
+                "name": "陳鴻源",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "Chen Hung Yuan",
+                "election_id": "53c40096-5c78-4340-9171-6cceacb5b862"
+            },
+            {
+                "id": "53c68fa6-6e4c-44cc-8da7-0f15acb5b862",
+                "image": "5622714c\/8090\/41de\/b35a\/57386ab936af.jpg",
+                "stage": "2",
+                "name": "許昭興",
+                "party": "民主進步黨",
+                "gender": "f",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53c40096-5c78-4340-9171-6cceacb5b862"
+            },
+            {
+                "id": "53c68fa6-8004-47e1-a4ff-0f15acb5b862",
+                "image": "5624f0cb\/eba8\/4046\/bbf1\/7c136ab936af.jpg",
+                "stage": "1",
+                "name": "金介壽",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "5",
+                "name_english": "Ching Chia Shou",
+                "election_id": "53c40096-5c78-4340-9171-6cceacb5b862"
+            },
+            {
+                "id": "53c68fa6-b928-43e2-a877-0f15acb5b862",
+                "image": "53dcacab\/4624\/4f9d\/9b65\/402ccb455a61.jpg",
+                "stage": "2",
+                "name": "連斐璠",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "6",
+                "name_english": "Lien Fei Fan",
+                "election_id": "53c40096-5c78-4340-9171-6cceacb5b862"
+            },
+            {
+                "id": "540b5681-0ffc-456e-b6ed-1926acb5b862",
+                "image": "543cf322\/56ac\/4d8d\/80c4\/2ce2cb455a61.jpg",
+                "stage": "2",
+                "name": "羅文崇",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "Lo Wen Chung",
+                "election_id": "53c40096-5c78-4340-9171-6cceacb5b862"
+            },
+            {
+                "id": "540b5681-94d4-4043-a91a-1926acb5b862",
+                "image": "543cf2ec\/9d5c\/4c10\/aeb0\/2c31cb455a61.jpg",
+                "stage": "1",
+                "name": "蔡明璋",
+                "party": "新黨",
+                "gender": "m",
+                "no": "4",
+                "name_english": "Tsai Ming Chang",
+                "election_id": "53c40096-5c78-4340-9171-6cceacb5b862"
+            },
+            {
+                "id": "540b5681-a574-4ef0-affb-1926acb5b862",
+                "image": "543cf280\/2bf4\/45d4\/8004\/2c1dcb455a61.jpg",
+                "stage": "1",
+                "name": "莊育麟",
+                "party": "人民民主陣線",
+                "gender": "m",
+                "no": "7",
+                "name_english": "Chuang Yu Lin",
+                "election_id": "53c40096-5c78-4340-9171-6cceacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01efd-9b64-4d3c-91f0-5460acb5b862",
+                "name": "永和區",
+                "is_area": true,
+                "keywords": "2014,新北市,永和區",
+                "AreasElection": {
+                    "id": "53c406e3-f708-4a00-90d2-6dacacb5b862",
+                    "Election_id": "53c40096-5c78-4340-9171-6cceacb5b862",
+                    "Area_id": "53c01efd-9b64-4d3c-91f0-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207e-1efc-4871-a931-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "新北市",
+                "lft": "97",
+                "rght": "122",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c40096-5c78-4340-9171-6cceacb5b862",
+                "parent_id": "53c0207e-1efc-4871-a931-5c5aacb5b862",
+                "name": "第06選區[區域]",
+                "lft": "108",
+                "rght": "109",
+                "population": "227629",
+                "population_electors": "183675",
+                "quota": "4",
+                "quota_women": "1",
+                "bulletin_key": "5469b450-5b18-44e2-8f73-74a5cf91e152",
+                "keywords": "2014-11,直轄市議員,新北市,第06選區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

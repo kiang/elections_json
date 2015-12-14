@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0256f-2564-4d87-9803-5c5aacb5b862",
+            "parent_id": "53c0256e-9bdc-4114-8942-5c5aacb5b862",
+            "name": "頭家里",
+            "lft": "17235",
+            "rght": "17236",
+            "population": "6225",
+            "population_electors": "4553",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e0694-c338-4be9-8d9f-1a32cf91e152",
+            "keywords": "2014-11,村里長,臺中市,潭子區,頭家里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02708-9018-46ef-bd78-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "黃聖明",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c0256f-2564-4d87-9803-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01fa1-8854-40e1-af5e-5460acb5b862",
+                "name": "頭家里",
+                "is_area": true,
+                "keywords": "2014,臺中市,潭子區,頭家里",
+                "AreasElection": {
+                    "id": "53c0256f-3984-4406-af53-5c5aacb5b862",
+                    "Election_id": "53c0256f-2564-4d87-9803-5c5aacb5b862",
+                    "Area_id": "53c01fa1-8854-40e1-af5e-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0256e-9bdc-4114-8942-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "潭子區",
+                "lft": "17228",
+                "rght": "17261",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0256f-2564-4d87-9803-5c5aacb5b862",
+                "parent_id": "53c0256e-9bdc-4114-8942-5c5aacb5b862",
+                "name": "頭家里",
+                "lft": "17235",
+                "rght": "17236",
+                "population": "6225",
+                "population_electors": "4553",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e0694-c338-4be9-8d9f-1a32cf91e152",
+                "keywords": "2014-11,村里長,臺中市,潭子區,頭家里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

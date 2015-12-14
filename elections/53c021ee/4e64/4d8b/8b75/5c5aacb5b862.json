@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c021ee-4e64-4d8b-8b75-5c5aacb5b862",
+            "parent_id": "53c021ec-e218-48e1-a17c-5c5aacb5b862",
+            "name": "鎮北里",
+            "lft": "6229",
+            "rght": "6230",
+            "population": "3593",
+            "population_electors": "2729",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546ec076-28ac-4de8-ad5e-2d4fcf91e152",
+            "keywords": "2014-11,村里長,雲林縣,斗六市,鎮北里"
+        },
+        "Candidate": [
+            {
+                "id": "53c027fd-5bc4-48b3-8801-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "張欽堂",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "CHANG CHING TANG",
+                "election_id": "53c021ee-4e64-4d8b-8b75-5c5aacb5b862"
+            },
+            {
+                "id": "540b5553-eb24-41d2-9c29-1926acb5b862",
+                "image": "5459b4d1\/1c10\/428b\/bf51\/473f8e043389.jpg",
+                "stage": "1",
+                "name": "林政憲",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c021ee-4e64-4d8b-8b75-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01ce9-b40c-4854-bdd8-5460acb5b862",
+                "name": "鎮北里",
+                "is_area": true,
+                "keywords": "2014,雲林縣,斗六市,鎮北里",
+                "AreasElection": {
+                    "id": "53c021ee-1494-49b1-839e-5c5aacb5b862",
+                    "Election_id": "53c021ee-4e64-4d8b-8b75-5c5aacb5b862",
+                    "Area_id": "53c01ce9-b40c-4854-bdd8-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "6201",
+                "rght": "7018",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e218-48e1-a17c-5c5aacb5b862",
+                "parent_id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "name": "斗六市",
+                "lft": "6202",
+                "rght": "6279",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ee-4e64-4d8b-8b75-5c5aacb5b862",
+                "parent_id": "53c021ec-e218-48e1-a17c-5c5aacb5b862",
+                "name": "鎮北里",
+                "lft": "6229",
+                "rght": "6230",
+                "population": "3593",
+                "population_electors": "2729",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546ec076-28ac-4de8-ad5e-2d4fcf91e152",
+                "keywords": "2014-11,村里長,雲林縣,斗六市,鎮北里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

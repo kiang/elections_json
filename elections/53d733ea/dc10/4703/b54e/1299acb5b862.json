@@ -1,0 +1,167 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d733ea-dc10-4703-b54e-1299acb5b862",
+            "parent_id": "53c020c9-97a8-4e24-8c62-5c5aacb5b862",
+            "name": "第03選舉區[區域]",
+            "lft": "2047",
+            "rght": "2048",
+            "population": "6261",
+            "population_electors": "5256",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "546eb720-54f8-4371-abae-2adbcf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,雲林縣,口湖鄉,第03選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b5767-8718-40ee-ac1e-1926acb5b862",
+                "image": "54c3a3fa\/5f04\/4825\/b7e7\/2ab36ab936af.jpg",
+                "stage": "2",
+                "name": "呂順賢",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53d733ea-dc10-4703-b54e-1299acb5b862"
+            },
+            {
+                "id": "540b5767-b420-4e97-8ab0-1926acb5b862",
+                "image": "54c3a3cb\/1680\/405e\/a188\/2ad16ab936af.jpg",
+                "stage": "2",
+                "name": "林杉全",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d733ea-dc10-4703-b54e-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d16-1c98-48f0-83d4-5460acb5b862",
+                "name": "港東村",
+                "is_area": true,
+                "keywords": "2014,雲林縣,口湖鄉,港東村",
+                "AreasElection": {
+                    "id": "53d733eb-7258-4a57-bd7d-1299acb5b862",
+                    "Election_id": "53d733ea-dc10-4703-b54e-1299acb5b862",
+                    "Area_id": "53c01d16-1c98-48f0-83d4-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d16-6d94-48c1-96c2-5460acb5b862",
+                "name": "港西村",
+                "is_area": true,
+                "keywords": "2014,雲林縣,口湖鄉,港西村",
+                "AreasElection": {
+                    "id": "53d733eb-36b4-4025-97dc-1299acb5b862",
+                    "Election_id": "53d733ea-dc10-4703-b54e-1299acb5b862",
+                    "Area_id": "53c01d16-6d94-48c1-96c2-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d16-c8f8-4826-858e-5460acb5b862",
+                "name": "臺子村",
+                "is_area": true,
+                "keywords": "2014,雲林縣,口湖鄉,臺子村",
+                "AreasElection": {
+                    "id": "53d733eb-bf4c-4a63-8638-1299acb5b862",
+                    "Election_id": "53d733ea-dc10-4703-b54e-1299acb5b862",
+                    "Area_id": "53c01d16-c8f8-4826-858e-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d16-eb74-4fc7-8e8c-5460acb5b862",
+                "name": "成龍村",
+                "is_area": true,
+                "keywords": "2014,雲林縣,口湖鄉,成龍村",
+                "AreasElection": {
+                    "id": "53d733eb-bd78-48d4-870f-1299acb5b862",
+                    "Election_id": "53d733ea-dc10-4703-b54e-1299acb5b862",
+                    "Area_id": "53c01d16-eb74-4fc7-8e8c-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020c5-1718-4aea-8b3b-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "1865",
+                "rght": "2062",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020c9-97a8-4e24-8c62-5c5aacb5b862",
+                "parent_id": "53c020c5-1718-4aea-8b3b-5c5aacb5b862",
+                "name": "口湖鄉",
+                "lft": "2042",
+                "rght": "2051",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d733ea-dc10-4703-b54e-1299acb5b862",
+                "parent_id": "53c020c9-97a8-4e24-8c62-5c5aacb5b862",
+                "name": "第03選舉區[區域]",
+                "lft": "2047",
+                "rght": "2048",
+                "population": "6261",
+                "population_electors": "5256",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "546eb720-54f8-4371-abae-2adbcf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,雲林縣,口湖鄉,第03選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02427-931c-45fc-b361-5c5aacb5b862",
+            "parent_id": "53c02420-e624-4780-8ebc-5c5aacb5b862",
+            "name": "協和里",
+            "lft": "13405",
+            "rght": "13406",
+            "population": "4459",
+            "population_electors": "3539",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb721-4e64-46cf-9fda-2adbcf91e152",
+            "keywords": "2014-11,村里長,高雄市,鳳山區,協和里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0267a-efbc-4d5d-a171-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "林春勇",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c02427-931c-45fc-b361-5c5aacb5b862"
+            },
+            {
+                "id": "540b5484-b584-4ee2-a3f7-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "高劉桂秀",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "1",
+                "name_english": "KAO LIU KUEI HSTU",
+                "election_id": "53c02427-931c-45fc-b361-5c5aacb5b862"
+            },
+            {
+                "id": "540b5484-e40c-4ea8-96f3-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "劉愫絃",
+                "party": "民主進步黨",
+                "gender": "f",
+                "no": "3",
+                "name_english": "LIU SU HSUAN",
+                "election_id": "53c02427-931c-45fc-b361-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01e8d-55ec-48d6-8e94-5460acb5b862",
+                "name": "協和里",
+                "is_area": true,
+                "keywords": "2014,高雄市,鳳山區,協和里",
+                "AreasElection": {
+                    "id": "53c02427-0294-4f53-b5ea-5c5aacb5b862",
+                    "Election_id": "53c02427-931c-45fc-b361-5c5aacb5b862",
+                    "Area_id": "53c01e8d-55ec-48d6-8e94-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02420-e624-4780-8ebc-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "鳳山區",
+                "lft": "13324",
+                "rght": "13481",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02427-931c-45fc-b361-5c5aacb5b862",
+                "parent_id": "53c02420-e624-4780-8ebc-5c5aacb5b862",
+                "name": "協和里",
+                "lft": "13405",
+                "rght": "13406",
+                "population": "4459",
+                "population_electors": "3539",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb721-4e64-46cf-9fda-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,鳳山區,協和里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

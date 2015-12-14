@@ -1,0 +1,145 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c024f2-8e98-4565-98b1-5c5aacb5b862",
+            "parent_id": "53c024ef-d238-485e-8821-5c5aacb5b862",
+            "name": "沛陂里",
+            "lft": "15867",
+            "rght": "15868",
+            "population": "4649",
+            "population_electors": "3697",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "keywords": "2014-11,村里長,新北市,土城區,沛陂里"
+        },
+        "Candidate": [
+            {
+                "id": "53c026d3-1708-45b6-bb31-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "林阿城",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c024f2-8e98-4565-98b1-5c5aacb5b862"
+            },
+            {
+                "id": "540b5365-6bb8-4e2f-a75f-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "陳素芳",
+                "party": "無",
+                "gender": "f",
+                "no": "2",
+                "name_english": "CHEN SU FANG",
+                "election_id": "53c024f2-8e98-4565-98b1-5c5aacb5b862"
+            },
+            {
+                "id": "540b5365-be84-434d-9bdf-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "王進龍",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53c024f2-8e98-4565-98b1-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01f40-ed78-47a1-8127-5460acb5b862",
+                "name": "沛陂里",
+                "is_area": true,
+                "keywords": "2014,新北市,土城區,沛陂里",
+                "AreasElection": {
+                    "id": "53c024f3-e6dc-4c5b-9c5a-5c5aacb5b862",
+                    "Election_id": "53c024f2-8e98-4565-98b1-5c5aacb5b862",
+                    "Area_id": "53c01f40-ed78-47a1-8127-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新北市",
+                "lft": "14261",
+                "rght": "16384",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c024ef-d238-485e-8821-5c5aacb5b862",
+                "parent_id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "name": "土城區",
+                "lft": "15824",
+                "rght": "15919",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c024f2-8e98-4565-98b1-5c5aacb5b862",
+                "parent_id": "53c024ef-d238-485e-8821-5c5aacb5b862",
+                "name": "沛陂里",
+                "lft": "15867",
+                "rght": "15868",
+                "population": "4649",
+                "population_electors": "3697",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2014-11,村里長,新北市,土城區,沛陂里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

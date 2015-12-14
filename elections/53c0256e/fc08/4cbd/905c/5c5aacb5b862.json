@@ -1,0 +1,145 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0256e-fc08-4cbd-905c-5c5aacb5b862",
+            "parent_id": "53c0256c-fb5c-4d63-b2ba-5c5aacb5b862",
+            "name": "新庄里",
+            "lft": "17221",
+            "rght": "17222",
+            "population": "5048",
+            "population_electors": "3860",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e0695-d620-45db-9a51-1a32cf91e152",
+            "keywords": "2014-11,村里長,臺中市,神岡區,新庄里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02708-e144-47bf-9f86-5dffacb5b862",
+                "image": null,
+                "stage": "0",
+                "name": "王正堯",
+                "party": null,
+                "gender": null,
+                "no": "0",
+                "name_english": "",
+                "election_id": "53c0256e-fc08-4cbd-905c-5c5aacb5b862"
+            },
+            {
+                "id": "540b53e3-17dc-45b0-8c85-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "王永泉",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c0256e-fc08-4cbd-905c-5c5aacb5b862"
+            },
+            {
+                "id": "540b53e3-1a9c-41b9-8f18-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "翁登貴",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c0256e-fc08-4cbd-905c-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01f9f-0aa0-4061-8ec4-5460acb5b862",
+                "name": "新庄里",
+                "is_area": true,
+                "keywords": "2014,臺中市,神岡區,新庄里",
+                "AreasElection": {
+                    "id": "53c0256e-f5a8-4089-93fa-5c5aacb5b862",
+                    "Election_id": "53c0256e-fc08-4cbd-905c-5c5aacb5b862",
+                    "Area_id": "53c01f9f-0aa0-4061-8ec4-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0256c-fb5c-4d63-b2ba-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "神岡區",
+                "lft": "17194",
+                "rght": "17227",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0256e-fc08-4cbd-905c-5c5aacb5b862",
+                "parent_id": "53c0256c-fb5c-4d63-b2ba-5c5aacb5b862",
+                "name": "新庄里",
+                "lft": "17221",
+                "rght": "17222",
+                "population": "5048",
+                "population_electors": "3860",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e0695-d620-45db-9a51-1a32cf91e152",
+                "keywords": "2014-11,村里長,臺中市,神岡區,新庄里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

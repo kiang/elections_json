@@ -1,0 +1,145 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02396-5784-488f-9e5e-5c5aacb5b862",
+            "parent_id": "53c02396-dd04-4dbc-a350-5c5aacb5b862",
+            "name": "義村里",
+            "lft": "11621",
+            "rght": "11622",
+            "population": "6143",
+            "population_electors": "5240",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-68a4-4bf8-ba40-4187cf91e152",
+            "keywords": "2014-11,村里長,臺北市,大安區,義村里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02636-9384-480e-8c87-5dffacb5b862",
+                "image": null,
+                "stage": "0",
+                "name": "潘明勳",
+                "party": null,
+                "gender": null,
+                "no": "0",
+                "name_english": "",
+                "election_id": "53c02396-5784-488f-9e5e-5c5aacb5b862"
+            },
+            {
+                "id": "540b52e7-2c8c-4f73-a4bd-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "潘明勲",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c02396-5784-488f-9e5e-5c5aacb5b862"
+            },
+            {
+                "id": "540b52e7-a68c-4af6-86b3-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "馬建豫",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02396-5784-488f-9e5e-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01e12-8884-4edd-a762-5460acb5b862",
+                "name": "義村里",
+                "is_area": true,
+                "keywords": "2014,臺北市,大安區,義村里",
+                "AreasElection": {
+                    "id": "53c02397-6354-4083-b755-5c5aacb5b862",
+                    "Election_id": "53c02396-5784-488f-9e5e-5c5aacb5b862",
+                    "Area_id": "53c01e12-8884-4edd-a762-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02396-dd04-4dbc-a350-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "大安區",
+                "lft": "11610",
+                "rght": "11717",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02396-5784-488f-9e5e-5c5aacb5b862",
+                "parent_id": "53c02396-dd04-4dbc-a350-5c5aacb5b862",
+                "name": "義村里",
+                "lft": "11621",
+                "rght": "11622",
+                "population": "6143",
+                "population_electors": "5240",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-68a4-4bf8-ba40-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,大安區,義村里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

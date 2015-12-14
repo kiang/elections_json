@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c021f3-1cd8-46d4-a176-5c5aacb5b862",
+            "parent_id": "53c021f1-29ac-4128-b0b0-5c5aacb5b862",
+            "name": "阿丹里",
+            "lft": "6305",
+            "rght": "6306",
+            "population": "1347",
+            "population_electors": "1118",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546ec076-d6b4-47df-bfd2-2d4fcf91e152",
+            "keywords": "2014-11,村里長,雲林縣,斗南鎮,阿丹里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02800-1bd0-4df4-bef0-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "黃天時",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c021f3-1cd8-46d4-a176-5c5aacb5b862"
+            },
+            {
+                "id": "540b5558-3f68-46b3-8a8b-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "歐乾解",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c021f3-1cd8-46d4-a176-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01ced-d970-4506-a767-5460acb5b862",
+                "name": "阿丹里",
+                "is_area": true,
+                "keywords": "2014,雲林縣,斗南鎮,阿丹里",
+                "AreasElection": {
+                    "id": "53c021f3-3128-4741-a09e-5c5aacb5b862",
+                    "Election_id": "53c021f3-1cd8-46d4-a176-5c5aacb5b862",
+                    "Area_id": "53c01ced-d970-4506-a767-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "6201",
+                "rght": "7018",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021f1-29ac-4128-b0b0-5c5aacb5b862",
+                "parent_id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "name": "斗南鎮",
+                "lft": "6280",
+                "rght": "6325",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021f3-1cd8-46d4-a176-5c5aacb5b862",
+                "parent_id": "53c021f1-29ac-4128-b0b0-5c5aacb5b862",
+                "name": "阿丹里",
+                "lft": "6305",
+                "rght": "6306",
+                "population": "1347",
+                "population_electors": "1118",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546ec076-d6b4-47df-bfd2-2d4fcf91e152",
+                "keywords": "2014-11,村里長,雲林縣,斗南鎮,阿丹里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

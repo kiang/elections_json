@@ -1,0 +1,200 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d7347c-4040-48de-98ef-1299acb5b862",
+            "parent_id": "53c020d8-b2c4-487c-9659-5c5aacb5b862",
+            "name": "第01選舉區[區域]",
+            "lft": "2461",
+            "rght": "2462",
+            "population": "4070",
+            "population_electors": "3226",
+            "quota": "4",
+            "quota_women": "1",
+            "bulletin_key": "5475673a-5ac0-40a3-86d0-0f78cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,屏東縣,來義鄉,第01選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b57af-1468-46d6-8b6e-1926acb5b862",
+                "image": "54ca4fdd\/1430\/4f01\/a198\/221e6ab936af.jpg",
+                "stage": "1",
+                "name": "戴乾倫",
+                "party": "無",
+                "gender": "m",
+                "no": "4",
+                "name_english": "",
+                "election_id": "53d7347c-4040-48de-98ef-1299acb5b862"
+            },
+            {
+                "id": "540b57af-8c10-4ce0-a714-1926acb5b862",
+                "image": "54ca4f0b\/51e8\/4967\/bf6b\/22046ab936af.jpg",
+                "stage": "2",
+                "name": "柳順慶",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d7347c-4040-48de-98ef-1299acb5b862"
+            },
+            {
+                "id": "540b57af-9d68-44f4-a8dc-1926acb5b862",
+                "image": "54ca4fa1\/3cd8\/4d4f\/b309\/22126ab936af.jpg",
+                "stage": "2",
+                "name": "許蘭花",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53d7347c-4040-48de-98ef-1299acb5b862"
+            },
+            {
+                "id": "540b57af-9db0-498f-814b-1926acb5b862",
+                "image": "54ca4f35\/ab40\/4ca1\/b58b\/22046ab936af.jpg",
+                "stage": "2",
+                "name": "李讚貴",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53d7347c-4040-48de-98ef-1299acb5b862"
+            },
+            {
+                "id": "540b57af-fd98-465b-9e77-1926acb5b862",
+                "image": "54ca4ffa\/df30\/4d76\/8ccd\/221e6ab936af.jpg",
+                "stage": "2",
+                "name": "張達敏",
+                "party": "無",
+                "gender": "m",
+                "no": "5",
+                "name_english": "",
+                "election_id": "53d7347c-4040-48de-98ef-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d91-241c-4a43-b414-5460acb5b862",
+                "name": "義林村",
+                "is_area": true,
+                "keywords": "2014,屏東縣,來義鄉,義林村",
+                "AreasElection": {
+                    "id": "53d7347d-5c04-48ac-8684-1299acb5b862",
+                    "Election_id": "53d7347c-4040-48de-98ef-1299acb5b862",
+                    "Area_id": "53c01d91-241c-4a43-b414-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d91-aa14-4625-9cd9-5460acb5b862",
+                "name": "丹林村",
+                "is_area": true,
+                "keywords": "2014,屏東縣,來義鄉,丹林村",
+                "AreasElection": {
+                    "id": "53d7347d-eee4-4924-8715-1299acb5b862",
+                    "Election_id": "53d7347c-4040-48de-98ef-1299acb5b862",
+                    "Area_id": "53c01d91-aa14-4625-9cd9-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d91-b274-43f6-9ecc-5460acb5b862",
+                "name": "來義村",
+                "is_area": true,
+                "keywords": "2014,屏東縣,來義鄉,來義村",
+                "AreasElection": {
+                    "id": "53d7347d-c668-418a-9fb6-1299acb5b862",
+                    "Election_id": "53d7347c-4040-48de-98ef-1299acb5b862",
+                    "Area_id": "53c01d91-b274-43f6-9ecc-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d92-3180-44c5-bdb6-5460acb5b862",
+                "name": "古樓村",
+                "is_area": true,
+                "keywords": "2014,屏東縣,來義鄉,古樓村",
+                "AreasElection": {
+                    "id": "53d7347d-1994-42b0-a4f1-1299acb5b862",
+                    "Election_id": "53d7347c-4040-48de-98ef-1299acb5b862",
+                    "Area_id": "53c01d92-3180-44c5-bdb6-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ce-0798-4ae9-af49-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "2197",
+                "rght": "2484",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020d8-b2c4-487c-9659-5c5aacb5b862",
+                "parent_id": "53c020ce-0798-4ae9-af49-5c5aacb5b862",
+                "name": "來義鄉",
+                "lft": "2460",
+                "rght": "2465",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d7347c-4040-48de-98ef-1299acb5b862",
+                "parent_id": "53c020d8-b2c4-487c-9659-5c5aacb5b862",
+                "name": "第01選舉區[區域]",
+                "lft": "2461",
+                "rght": "2462",
+                "population": "4070",
+                "population_electors": "3226",
+                "quota": "4",
+                "quota_women": "1",
+                "bulletin_key": "5475673a-5ac0-40a3-86d0-0f78cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,屏東縣,來義鄉,第01選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

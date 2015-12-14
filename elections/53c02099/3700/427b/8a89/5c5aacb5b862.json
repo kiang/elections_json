@@ -1,0 +1,119 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02099-3700-427b-8a89-5c5aacb5b862",
+            "parent_id": "53c02098-ab7c-4d32-a6a1-5c5aacb5b862",
+            "name": "北港鎮",
+            "lft": "818",
+            "rght": "819",
+            "population": "41706",
+            "population_electors": "33430",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb720-4a68-49ff-9ce0-2adbcf91e152",
+            "keywords": "2014-11,鄉鎮市長,雲林縣,北港鎮"
+        },
+        "Candidate": [
+            {
+                "id": "5406a60a-9ac0-416b-95fd-15b8acb5b862",
+                "image": "542ff64e\/8abc\/434f\/b7aa\/6f25cb455a61.jpg",
+                "stage": "1",
+                "name": "蕭永義",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02099-3700-427b-8a89-5c5aacb5b862"
+            },
+            {
+                "id": "540b580c-cf34-4ad2-a522-1926acb5b862",
+                "image": "542ff6ba\/7a8c\/4767\/b7a3\/708ccb455a61.jpg",
+                "stage": "2",
+                "name": "張勝智",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "Chang Sheng Chih",
+                "election_id": "53c02099-3700-427b-8a89-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01cf8-2768-43be-a0d1-5460acb5b862",
+                "name": "北港鎮",
+                "is_area": true,
+                "keywords": "2014,雲林縣,北港鎮",
+                "AreasElection": {
+                    "id": "53c02099-1b20-4f61-837c-5c5aacb5b862",
+                    "Election_id": "53c02099-3700-427b-8a89-5c5aacb5b862",
+                    "Area_id": "53c01cf8-2768-43be-a0d1-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市長",
+                "lft": "608",
+                "rght": "1031",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02098-ab7c-4d32-a6a1-5c5aacb5b862",
+                "parent_id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "807",
+                "rght": "848",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02099-3700-427b-8a89-5c5aacb5b862",
+                "parent_id": "53c02098-ab7c-4d32-a6a1-5c5aacb5b862",
+                "name": "北港鎮",
+                "lft": "818",
+                "rght": "819",
+                "population": "41706",
+                "population_electors": "33430",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb720-4a68-49ff-9ce0-2adbcf91e152",
+                "keywords": "2014-11,鄉鎮市長,雲林縣,北港鎮"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

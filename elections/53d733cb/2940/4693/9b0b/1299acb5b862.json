@@ -1,0 +1,167 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d733cb-2940-4693-9b0b-1299acb5b862",
+            "parent_id": "53c020c7-7c1c-4523-8064-5c5aacb5b862",
+            "name": "第05選舉區[區域]",
+            "lft": "1971",
+            "rght": "1972",
+            "population": "4948",
+            "population_electors": "4103",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "546eb720-aa34-44b7-b8d4-2adbcf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,雲林縣,二崙鄉,第05選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b5759-9e80-4876-bb56-1926acb5b862",
+                "image": "548d2efc\/b3b4\/4caa\/a6c7\/794b6ab936af.jpg",
+                "stage": "2",
+                "name": "洪美雲",
+                "party": "民主進步黨",
+                "gender": "f",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53d733cb-2940-4693-9b0b-1299acb5b862"
+            },
+            {
+                "id": "540b5759-bcb8-4cb9-ac17-1926acb5b862",
+                "image": "548d2ed2\/5e28\/4227\/9f60\/79256ab936af.jpg",
+                "stage": "2",
+                "name": "鍾東榮",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d733cb-2940-4693-9b0b-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d05-95b8-4470-8f7a-5460acb5b862",
+                "name": "庄西村",
+                "is_area": true,
+                "keywords": "2014,雲林縣,二崙鄉,庄西村",
+                "AreasElection": {
+                    "id": "53d733cb-dd34-4fe6-8ff1-1299acb5b862",
+                    "Election_id": "53d733cb-2940-4693-9b0b-1299acb5b862",
+                    "Area_id": "53c01d05-95b8-4470-8f7a-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d05-d0fc-4c97-aae4-5460acb5b862",
+                "name": "大庄村",
+                "is_area": true,
+                "keywords": "2014,雲林縣,二崙鄉,大庄村",
+                "AreasElection": {
+                    "id": "53d733cb-e310-460f-9693-1299acb5b862",
+                    "Election_id": "53d733cb-2940-4693-9b0b-1299acb5b862",
+                    "Area_id": "53c01d05-d0fc-4c97-aae4-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d06-2080-451e-85a2-5460acb5b862",
+                "name": "復興村",
+                "is_area": true,
+                "keywords": "2014,雲林縣,二崙鄉,復興村",
+                "AreasElection": {
+                    "id": "53d733cb-0420-4527-906c-1299acb5b862",
+                    "Election_id": "53d733cb-2940-4693-9b0b-1299acb5b862",
+                    "Area_id": "53c01d06-2080-451e-85a2-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d06-c668-4369-bb54-5460acb5b862",
+                "name": "大同村",
+                "is_area": true,
+                "keywords": "2014,雲林縣,二崙鄉,大同村",
+                "AreasElection": {
+                    "id": "53d733cb-8720-4a44-8958-1299acb5b862",
+                    "Election_id": "53d733cb-2940-4693-9b0b-1299acb5b862",
+                    "Area_id": "53c01d06-c668-4369-bb54-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020c5-1718-4aea-8b3b-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "1865",
+                "rght": "2062",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020c7-7c1c-4523-8064-5c5aacb5b862",
+                "parent_id": "53c020c5-1718-4aea-8b3b-5c5aacb5b862",
+                "name": "二崙鄉",
+                "lft": "1962",
+                "rght": "1973",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d733cb-2940-4693-9b0b-1299acb5b862",
+                "parent_id": "53c020c7-7c1c-4523-8064-5c5aacb5b862",
+                "name": "第05選舉區[區域]",
+                "lft": "1971",
+                "rght": "1972",
+                "population": "4948",
+                "population_electors": "4103",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "546eb720-aa34-44b7-b8d4-2adbcf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,雲林縣,二崙鄉,第05選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

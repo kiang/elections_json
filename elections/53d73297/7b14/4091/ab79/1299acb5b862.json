@@ -1,0 +1,222 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d73297-7b14-4091-ab79-1299acb5b862",
+            "parent_id": "53c020b2-4238-4a0f-b754-5c5aacb5b862",
+            "name": "第01選舉區[區域]",
+            "lft": "1139",
+            "rght": "1140",
+            "population": "10688",
+            "population_electors": "8723",
+            "quota": "4",
+            "quota_women": "1",
+            "bulletin_key": "546eb71f-a904-43ad-9279-2adbcf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,宜蘭縣,員山鄉,第01選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b57bd-4dac-405c-9190-1926acb5b862",
+                "image": "54b11633\/8ea0\/417e\/a74f\/57ad6ab936af.jpg",
+                "stage": "1",
+                "name": "楊金來",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d73297-7b14-4091-ab79-1299acb5b862"
+            },
+            {
+                "id": "540b57bd-6470-480c-adef-1926acb5b862",
+                "image": "54b1164e\/4cf4\/40ca\/8454\/57d46ab936af.jpg",
+                "stage": "2",
+                "name": "陳俊",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53d73297-7b14-4091-ab79-1299acb5b862"
+            },
+            {
+                "id": "540b57bd-9b28-4dc4-ac82-1926acb5b862",
+                "image": "54b1226e\/46b4\/4b9e\/b466\/5a796ab936af.jpg",
+                "stage": "1",
+                "name": "劉燦輝",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53d73297-7b14-4091-ab79-1299acb5b862"
+            },
+            {
+                "id": "540b57be-7e10-450d-84c5-1926acb5b862",
+                "image": "54b12363\/c6dc\/4ee8\/b987\/5b0b6ab936af.jpg",
+                "stage": "1",
+                "name": "鄭春美",
+                "party": "無",
+                "gender": "f",
+                "no": "4",
+                "name_english": "",
+                "election_id": "53d73297-7b14-4091-ab79-1299acb5b862"
+            },
+            {
+                "id": "540b57be-8060-4976-84e1-1926acb5b862",
+                "image": "54b1285a\/016c\/4b30\/96c1\/5c576ab936af.jpg",
+                "stage": "2",
+                "name": "游寶玉",
+                "party": "無",
+                "gender": "f",
+                "no": "8",
+                "name_english": "",
+                "election_id": "53d73297-7b14-4091-ab79-1299acb5b862"
+            },
+            {
+                "id": "540b57be-9660-453b-9ca1-1926acb5b862",
+                "image": "54b127be\/f3bc\/4ba7\/a453\/5bf36ab936af.jpg",
+                "stage": "2",
+                "name": "藍萬義",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "6",
+                "name_english": "",
+                "election_id": "53d73297-7b14-4091-ab79-1299acb5b862"
+            },
+            {
+                "id": "540b57be-ab88-48b8-8041-1926acb5b862",
+                "image": "54b12825\/f6c0\/45c7\/b623\/5c406ab936af.jpg",
+                "stage": "2",
+                "name": "楊金旺",
+                "party": "無",
+                "gender": "m",
+                "no": "7",
+                "name_english": "",
+                "election_id": "53d73297-7b14-4091-ab79-1299acb5b862"
+            },
+            {
+                "id": "540b57be-bed0-4bdf-838f-1926acb5b862",
+                "image": "54b1242f\/9e84\/4fbd\/93bc\/5b546ab936af.jpg",
+                "stage": "1",
+                "name": "游五郎",
+                "party": "無",
+                "gender": "m",
+                "no": "5",
+                "name_english": "",
+                "election_id": "53d73297-7b14-4091-ab79-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01bea-0e20-4bb9-85d2-5460acb5b862",
+                "name": "員山村",
+                "is_area": true,
+                "keywords": "2014,宜蘭縣,員山鄉,員山村",
+                "AreasElection": {
+                    "id": "53d73297-c014-4fcf-981b-1299acb5b862",
+                    "Election_id": "53d73297-7b14-4091-ab79-1299acb5b862",
+                    "Area_id": "53c01bea-0e20-4bb9-85d2-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01bea-b078-4da9-a418-5460acb5b862",
+                "name": "惠好村",
+                "is_area": true,
+                "keywords": "2014,宜蘭縣,員山鄉,惠好村",
+                "AreasElection": {
+                    "id": "53d73297-1e14-42e5-9c80-1299acb5b862",
+                    "Election_id": "53d73297-7b14-4091-ab79-1299acb5b862",
+                    "Area_id": "53c01bea-b078-4da9-a418-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01bea-e10c-4809-8b79-5460acb5b862",
+                "name": "尚德村",
+                "is_area": true,
+                "keywords": "2014,宜蘭縣,員山鄉,尚德村",
+                "AreasElection": {
+                    "id": "53d73297-0024-4f04-995d-1299acb5b862",
+                    "Election_id": "53d73297-7b14-4091-ab79-1299acb5b862",
+                    "Area_id": "53c01bea-e10c-4809-8b79-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b1-2260-44dc-a0bc-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "宜蘭縣",
+                "lft": "1077",
+                "rght": "1200",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b2-4238-4a0f-b754-5c5aacb5b862",
+                "parent_id": "53c020b1-2260-44dc-a0bc-5c5aacb5b862",
+                "name": "員山鄉",
+                "lft": "1138",
+                "rght": "1147",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d73297-7b14-4091-ab79-1299acb5b862",
+                "parent_id": "53c020b2-4238-4a0f-b754-5c5aacb5b862",
+                "name": "第01選舉區[區域]",
+                "lft": "1139",
+                "rght": "1140",
+                "population": "10688",
+                "population_electors": "8723",
+                "quota": "4",
+                "quota_women": "1",
+                "bulletin_key": "546eb71f-a904-43ad-9279-2adbcf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,宜蘭縣,員山鄉,第01選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

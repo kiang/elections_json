@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c022e0-ef54-4f82-bd3c-5c5aacb5b862",
+            "parent_id": "53c022de-f948-4dee-8c3a-5c5aacb5b862",
+            "name": "大富村",
+            "lft": "9359",
+            "rght": "9360",
+            "population": "393",
+            "population_electors": "340",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546d8db9-326c-456f-ad62-0e51cf91e152",
+            "keywords": "2014-11,村里長,花蓮縣,光復鄉,大富村"
+        },
+        "Candidate": [
+            {
+                "id": "53c02873-44e8-4b29-96ce-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "江兆億",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "Chiang Chao yi",
+                "election_id": "53c022e0-ef54-4f82-bd3c-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01dba-eebc-4dea-932e-5460acb5b862",
+                "name": "大富村",
+                "is_area": true,
+                "keywords": "2014,花蓮縣,光復鄉,大富村",
+                "AreasElection": {
+                    "id": "53c022e0-6614-48a0-b178-5c5aacb5b862",
+                    "Election_id": "53c022e0-ef54-4f82-bd3c-5c5aacb5b862",
+                    "Area_id": "53c01dba-eebc-4dea-932e-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022cb-ff18-4c61-98a3-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "花蓮縣",
+                "lft": "9095",
+                "rght": "9476",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022de-f948-4dee-8c3a-5c5aacb5b862",
+                "parent_id": "53c022cb-ff18-4c61-98a3-5c5aacb5b862",
+                "name": "光復鄉",
+                "lft": "9334",
+                "rght": "9363",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022e0-ef54-4f82-bd3c-5c5aacb5b862",
+                "parent_id": "53c022de-f948-4dee-8c3a-5c5aacb5b862",
+                "name": "大富村",
+                "lft": "9359",
+                "rght": "9360",
+                "population": "393",
+                "population_electors": "340",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546d8db9-326c-456f-ad62-0e51cf91e152",
+                "keywords": "2014-11,村里長,花蓮縣,光復鄉,大富村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

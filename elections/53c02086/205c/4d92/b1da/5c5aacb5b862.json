@@ -1,0 +1,119 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02086-205c-4d92-b1da-5c5aacb5b862",
+            "parent_id": "53c02086-e5ec-40f0-9b9f-5c5aacb5b862",
+            "name": "金城鎮",
+            "lft": "620",
+            "rght": "621",
+            "population": "40500",
+            "population_electors": "33367",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-e300-4d31-b7fd-74a5cf91e152",
+            "keywords": "2014-11,鄉鎮市長,金門縣,金城鎮"
+        },
+        "Candidate": [
+            {
+                "id": "5406a61a-0620-429b-8a3d-15b8acb5b862",
+                "image": "5492bb0d\/4498\/4064\/972a\/64146ab936af.jpg",
+                "stage": "2",
+                "name": "石兆瑉",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "SHIH TSAO MING",
+                "election_id": "53c02086-205c-4d92-b1da-5c5aacb5b862"
+            },
+            {
+                "id": "540b5825-d894-486f-a4dd-1926acb5b862",
+                "image": "5492d322\/34d8\/4aa6\/a220\/6c1c6ab936af.jpg",
+                "stage": "1",
+                "name": "歐陽彥木",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "ou yang yan mu",
+                "election_id": "53c02086-205c-4d92-b1da-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01bd1-9eec-4217-ac52-5460acb5b862",
+                "name": "金城鎮",
+                "is_area": true,
+                "keywords": "2014,金門縣,金城鎮",
+                "AreasElection": {
+                    "id": "53c02086-0be8-4f3f-ac7f-5c5aacb5b862",
+                    "Election_id": "53c02086-205c-4d92-b1da-5c5aacb5b862",
+                    "Area_id": "53c01bd1-9eec-4217-ac52-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市長",
+                "lft": "608",
+                "rght": "1031",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02086-e5ec-40f0-9b9f-5c5aacb5b862",
+                "parent_id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "name": "金門縣",
+                "lft": "619",
+                "rght": "632",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02086-205c-4d92-b1da-5c5aacb5b862",
+                "parent_id": "53c02086-e5ec-40f0-9b9f-5c5aacb5b862",
+                "name": "金城鎮",
+                "lft": "620",
+                "rght": "621",
+                "population": "40500",
+                "population_electors": "33367",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-e300-4d31-b7fd-74a5cf91e152",
+                "keywords": "2014-11,鄉鎮市長,金門縣,金城鎮"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

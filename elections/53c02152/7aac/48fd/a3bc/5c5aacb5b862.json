@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02152-7aac-48fd-a3bc-5c5aacb5b862",
+            "parent_id": "53c02152-7030-414b-8538-5c5aacb5b862",
+            "name": "大坑村",
+            "lft": "4209",
+            "rght": "4210",
+            "population": "1183",
+            "population_electors": "973",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-8488-423c-b797-4187cf91e152",
+            "keywords": "2014-11,村里長,苗栗縣,公館鄉,大坑村"
+        },
+        "Candidate": [
+            {
+                "id": "53c027ac-74b0-4f5c-81fb-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "張肇樣",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "CHANG CHAO YANG",
+                "election_id": "53c02152-7aac-48fd-a3bc-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c6a-28e0-4fc3-9c1a-5460acb5b862",
+                "name": "大坑村",
+                "is_area": true,
+                "keywords": "2014,苗栗縣,公館鄉,大坑村",
+                "AreasElection": {
+                    "id": "53c02152-2dbc-40f5-8195-5c5aacb5b862",
+                    "Election_id": "53c02152-7aac-48fd-a3bc-5c5aacb5b862",
+                    "Area_id": "53c01c6a-28e0-4fc3-9c1a-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02135-5cc8-4f9d-a971-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "苗栗縣",
+                "lft": "3831",
+                "rght": "4416",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02152-7030-414b-8538-5c5aacb5b862",
+                "parent_id": "53c02135-5cc8-4f9d-a971-5c5aacb5b862",
+                "name": "公館鄉",
+                "lft": "4208",
+                "rght": "4247",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02152-7aac-48fd-a3bc-5c5aacb5b862",
+                "parent_id": "53c02152-7030-414b-8538-5c5aacb5b862",
+                "name": "大坑村",
+                "lft": "4209",
+                "rght": "4210",
+                "population": "1183",
+                "population_electors": "973",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-8488-423c-b797-4187cf91e152",
+                "keywords": "2014-11,村里長,苗栗縣,公館鄉,大坑村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

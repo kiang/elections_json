@@ -1,0 +1,200 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c423a6-8df8-4ac4-bffb-72c8acb5b862",
+            "parent_id": "53c42066-1b68-4f48-9bed-7258acb5b862",
+            "name": "第02選舉區",
+            "lft": "265",
+            "rght": "266",
+            "population": "3040",
+            "population_electors": "2423",
+            "quota": "3",
+            "quota_women": "0",
+            "bulletin_key": "546e068f-fbec-49d3-93ec-1a32cf91e152",
+            "keywords": "2014-11,直轄市山地原住民區民代表,臺中市,和平區,第02選舉區"
+        },
+        "Candidate": [
+            {
+                "id": "540b5674-10a0-4e25-9f4c-1926acb5b862",
+                "image": "548ef731\/d390\/41f5\/afe4\/69146ab936af.jpg",
+                "stage": "1",
+                "name": "吳天祐",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "3",
+                "name_english": "WU TIEN YU",
+                "election_id": "53c423a6-8df8-4ac4-bffb-72c8acb5b862"
+            },
+            {
+                "id": "540b5674-62b4-4851-a5cd-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "羅清輝",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c423a6-8df8-4ac4-bffb-72c8acb5b862"
+            },
+            {
+                "id": "540b5674-cdec-4503-ae8b-1926acb5b862",
+                "image": "548ef79b\/aa54\/45f7\/a4c6\/693e6ab936af.jpg",
+                "stage": "2",
+                "name": "蘇慶祥",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "5",
+                "name_english": "SU CHING HSING",
+                "election_id": "53c423a6-8df8-4ac4-bffb-72c8acb5b862"
+            },
+            {
+                "id": "540b5674-e110-43bb-a65c-1926acb5b862",
+                "image": "548ef7b4\/b364\/4eda\/b0b9\/69566ab936af.jpg",
+                "stage": "1",
+                "name": "廖上奇",
+                "party": "無",
+                "gender": "m",
+                "no": "6",
+                "name_english": "",
+                "election_id": "53c423a6-8df8-4ac4-bffb-72c8acb5b862"
+            },
+            {
+                "id": "540b5675-0c60-4162-8bed-1926acb5b862",
+                "image": "548ef714\/f498\/47c9\/ae40\/69006ab936af.jpg",
+                "stage": "2",
+                "name": "楊淑青",
+                "party": "無",
+                "gender": "f",
+                "no": "1",
+                "name_english": "YANG SHU CHING",
+                "election_id": "53c423a6-8df8-4ac4-bffb-72c8acb5b862"
+            },
+            {
+                "id": "540b5675-57f8-4f04-9c99-1926acb5b862",
+                "image": "548ef757\/6a58\/4fef\/82fa\/69226ab936af.jpg",
+                "stage": "1",
+                "name": "李鵬飛",
+                "party": "無",
+                "gender": "m",
+                "no": "4",
+                "name_english": "LEE PENG FEI",
+                "election_id": "53c423a6-8df8-4ac4-bffb-72c8acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01fc0-5998-4d6b-8ad7-5460acb5b862",
+                "name": "自由里",
+                "is_area": true,
+                "keywords": "2014,臺中市,和平區,自由里",
+                "AreasElection": {
+                    "id": "53c423a7-5250-42b1-9b44-72c8acb5b862",
+                    "Election_id": "53c423a6-8df8-4ac4-bffb-72c8acb5b862",
+                    "Area_id": "53c01fc0-5998-4d6b-8ad7-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01fc0-9294-402b-81ba-5460acb5b862",
+                "name": "達觀里",
+                "is_area": true,
+                "keywords": "2014,臺中市,和平區,達觀里",
+                "AreasElection": {
+                    "id": "53c423a7-6ea4-437a-9a2a-72c8acb5b862",
+                    "Election_id": "53c423a6-8df8-4ac4-bffb-72c8acb5b862",
+                    "Area_id": "53c01fc0-9294-402b-81ba-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01fc0-f2e0-4f7a-9a3e-5460acb5b862",
+                "name": "中坑里",
+                "is_area": true,
+                "keywords": "2014,臺中市,和平區,中坑里",
+                "AreasElection": {
+                    "id": "53c423a7-f370-495a-b947-72c8acb5b862",
+                    "Election_id": "53c423a6-8df8-4ac4-bffb-72c8acb5b862",
+                    "Area_id": "53c01fc0-f2e0-4f7a-9a3e-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-96ac-4ca2-b338-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市山地原住民區民代表",
+                "lft": "218",
+                "rght": "271",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c42065-4460-4e73-b285-7258acb5b862",
+                "parent_id": "53c0202f-96ac-4ca2-b338-5460acb5b862",
+                "name": "臺中市",
+                "lft": "261",
+                "rght": "270",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c42066-1b68-4f48-9bed-7258acb5b862",
+                "parent_id": "53c42065-4460-4e73-b285-7258acb5b862",
+                "name": "和平區",
+                "lft": "262",
+                "rght": "269",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c423a6-8df8-4ac4-bffb-72c8acb5b862",
+                "parent_id": "53c42066-1b68-4f48-9bed-7258acb5b862",
+                "name": "第02選舉區",
+                "lft": "265",
+                "rght": "266",
+                "population": "3040",
+                "population_electors": "2423",
+                "quota": "3",
+                "quota_women": "0",
+                "bulletin_key": "546e068f-fbec-49d3-93ec-1a32cf91e152",
+                "keywords": "2014-11,直轄市山地原住民區民代表,臺中市,和平區,第02選舉區"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

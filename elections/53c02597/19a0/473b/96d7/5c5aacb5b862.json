@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02597-19a0-473b-96d7-5c5aacb5b862",
+            "parent_id": "53c02597-68bc-415f-89a2-5c5aacb5b862",
+            "name": "博愛里",
+            "lft": "17679",
+            "rght": "17680",
+            "population": "1893",
+            "population_electors": "1547",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c6157-6cc0-4073-a2a6-573fcf91e152",
+            "keywords": "2014-11,村里長,臺中市,和平區,博愛里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0271b-180c-44e5-99cd-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "范忠文",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "FAN CHUNG WEN",
+                "election_id": "53c02597-19a0-473b-96d7-5c5aacb5b862"
+            },
+            {
+                "id": "540b53fb-31a8-49e9-8d8a-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "羅權星",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "LO CHUAN HSING",
+                "election_id": "53c02597-19a0-473b-96d7-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01fbf-41cc-4417-8e68-5460acb5b862",
+                "name": "博愛里",
+                "is_area": true,
+                "keywords": "2014,臺中市,和平區,博愛里",
+                "AreasElection": {
+                    "id": "53c02597-7698-4259-bc4e-5c5aacb5b862",
+                    "Election_id": "53c02597-19a0-473b-96d7-5c5aacb5b862",
+                    "Area_id": "53c01fbf-41cc-4417-8e68-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02597-68bc-415f-89a2-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "和平區",
+                "lft": "17676",
+                "rght": "17693",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02597-19a0-473b-96d7-5c5aacb5b862",
+                "parent_id": "53c02597-68bc-415f-89a2-5c5aacb5b862",
+                "name": "博愛里",
+                "lft": "17679",
+                "rght": "17680",
+                "population": "1893",
+                "population_electors": "1547",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c6157-6cc0-4073-a2a6-573fcf91e152",
+                "keywords": "2014-11,村里長,臺中市,和平區,博愛里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

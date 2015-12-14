@@ -1,0 +1,156 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d7349e-19cc-48d0-bcf5-1299acb5b862",
+            "parent_id": "53c020db-a7bc-4cd0-a73a-5c5aacb5b862",
+            "name": "第02選舉區[區域]",
+            "lft": "2587",
+            "rght": "2588",
+            "population": "1093",
+            "population_electors": "822",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "546f277f-bddc-4ba0-855d-2f28cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,臺東縣,延平鄉,第02選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b57ed-61ac-4a3e-a68d-1926acb5b862",
+                "image": "54a8f3cd\/ea84\/42ef\/8941\/34946ab936af.jpg",
+                "stage": "1",
+                "name": "余照作",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53d7349e-19cc-48d0-bcf5-1299acb5b862"
+            },
+            {
+                "id": "540b57ed-8ae0-4a4a-b0ad-1926acb5b862",
+                "image": "54a8f414\/3000\/42e9\/a112\/34a56ab936af.jpg",
+                "stage": "2",
+                "name": "邱文俊",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d7349e-19cc-48d0-bcf5-1299acb5b862"
+            },
+            {
+                "id": "540b57ed-98c8-4296-95e2-1926acb5b862",
+                "image": "54a8f47c\/15cc\/4fd8\/9b62\/34ad6ab936af.jpg",
+                "stage": "2",
+                "name": "余康生",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53d7349e-19cc-48d0-bcf5-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01da7-7c04-4d77-8550-5460acb5b862",
+                "name": "永康村",
+                "is_area": true,
+                "keywords": "2014,臺東縣,延平鄉,永康村",
+                "AreasElection": {
+                    "id": "53d734a0-0ed8-4b9b-99d1-1299acb5b862",
+                    "Election_id": "53d7349e-19cc-48d0-bcf5-1299acb5b862",
+                    "Area_id": "53c01da7-7c04-4d77-8550-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01da7-8cd4-4ab2-89b3-5460acb5b862",
+                "name": "武陵村",
+                "is_area": true,
+                "keywords": "2014,臺東縣,延平鄉,武陵村",
+                "AreasElection": {
+                    "id": "53d734a0-7724-4ae4-b837-1299acb5b862",
+                    "Election_id": "53d7349e-19cc-48d0-bcf5-1299acb5b862",
+                    "Area_id": "53c01da7-8cd4-4ab2-89b3-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020d9-a97c-4d95-809d-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "臺東縣",
+                "lft": "2485",
+                "rght": "2612",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020db-a7bc-4cd0-a73a-5c5aacb5b862",
+                "parent_id": "53c020d9-a97c-4d95-809d-5c5aacb5b862",
+                "name": "延平鄉",
+                "lft": "2584",
+                "rght": "2591",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d7349e-19cc-48d0-bcf5-1299acb5b862",
+                "parent_id": "53c020db-a7bc-4cd0-a73a-5c5aacb5b862",
+                "name": "第02選舉區[區域]",
+                "lft": "2587",
+                "rght": "2588",
+                "population": "1093",
+                "population_electors": "822",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "546f277f-bddc-4ba0-855d-2f28cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,臺東縣,延平鄉,第02選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

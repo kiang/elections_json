@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c021f2-956c-4cd8-b5c9-5c5aacb5b862",
+            "parent_id": "53c021f1-29ac-4128-b0b0-5c5aacb5b862",
+            "name": "北銘里",
+            "lft": "6281",
+            "rght": "6282",
+            "population": "1740",
+            "population_electors": "1355",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546ec076-bac0-4d4f-918c-2d4fcf91e152",
+            "keywords": "2014-11,村里長,雲林縣,斗南鎮,北銘里"
+        },
+        "Candidate": [
+            {
+                "id": "53c027ff-412c-4c9c-bed7-5dffacb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "徐見銘",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c021f2-956c-4cd8-b5c9-5c5aacb5b862"
+            },
+            {
+                "id": "540b5557-6cb4-483f-99c4-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "沈月美",
+                "party": "無",
+                "gender": "f",
+                "no": "2",
+                "name_english": "SHEN YUEH MEI",
+                "election_id": "53c021f2-956c-4cd8-b5c9-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01cec-35c0-4e4e-acfd-5460acb5b862",
+                "name": "北銘里",
+                "is_area": true,
+                "keywords": "2014,雲林縣,斗南鎮,北銘里",
+                "AreasElection": {
+                    "id": "53c021f2-84ec-4892-b3b4-5c5aacb5b862",
+                    "Election_id": "53c021f2-956c-4cd8-b5c9-5c5aacb5b862",
+                    "Area_id": "53c01cec-35c0-4e4e-acfd-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "6201",
+                "rght": "7018",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021f1-29ac-4128-b0b0-5c5aacb5b862",
+                "parent_id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "name": "斗南鎮",
+                "lft": "6280",
+                "rght": "6325",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021f2-956c-4cd8-b5c9-5c5aacb5b862",
+                "parent_id": "53c021f1-29ac-4128-b0b0-5c5aacb5b862",
+                "name": "北銘里",
+                "lft": "6281",
+                "rght": "6282",
+                "population": "1740",
+                "population_electors": "1355",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546ec076-bac0-4d4f-918c-2d4fcf91e152",
+                "keywords": "2014-11,村里長,雲林縣,斗南鎮,北銘里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

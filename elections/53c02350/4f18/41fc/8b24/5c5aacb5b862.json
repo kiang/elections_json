@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02350-4f18-41fc-8b24-5c5aacb5b862",
+            "parent_id": "53c02344-9b04-46f5-8e6f-5c5aacb5b862",
+            "name": "仁和里",
+            "lft": "10741",
+            "rght": "10742",
+            "population": "4290",
+            "population_electors": "3231",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-9c94-4ba5-825d-1a32cf91e152",
+            "keywords": "2014-11,村里長,桃園市,中壢區,仁和里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02774-795c-4a6d-8139-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "陳長來",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "CHEN CHANG LAI",
+                "election_id": "53c02350-4f18-41fc-8b24-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c0b-2940-4bcb-ade1-5460acb5b862",
+                "name": "仁和里",
+                "is_area": true,
+                "keywords": "2014,桃園市,中壢區,仁和里",
+                "AreasElection": {
+                    "id": "53c02350-4258-4f1d-9f53-5c5aacb5b862",
+                    "Election_id": "53c02350-4f18-41fc-8b24-5c5aacb5b862",
+                    "Area_id": "53c01c0b-2940-4bcb-ade1-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "桃園市",
+                "lft": "10439",
+                "rght": "11456",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02344-9b04-46f5-8e6f-5c5aacb5b862",
+                "parent_id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "name": "中壢區",
+                "lft": "10594",
+                "rght": "10765",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02350-4f18-41fc-8b24-5c5aacb5b862",
+                "parent_id": "53c02344-9b04-46f5-8e6f-5c5aacb5b862",
+                "name": "仁和里",
+                "lft": "10741",
+                "rght": "10742",
+                "population": "4290",
+                "population_electors": "3231",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-9c94-4ba5-825d-1a32cf91e152",
+                "keywords": "2014-11,村里長,桃園市,中壢區,仁和里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

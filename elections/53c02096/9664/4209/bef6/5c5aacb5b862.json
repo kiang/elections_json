@@ -1,0 +1,141 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02096-9664-4209-bef6-5c5aacb5b862",
+            "parent_id": "53c02095-a5ac-446e-b87d-5c5aacb5b862",
+            "name": "南投市",
+            "lft": "780",
+            "rght": "781",
+            "population": "102382",
+            "population_electors": "81150",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54735d56-090c-4687-a8f4-21eacf91e152",
+            "keywords": "2014-11,鄉鎮市長,南投縣,南投市"
+        },
+        "Candidate": [
+            {
+                "id": "53d1cd73-4634-4373-86ce-5b92cb455a61",
+                "image": "54412b13\/2e70\/4c73\/b634\/6a898e043389.jpg",
+                "stage": "2",
+                "name": "宋懷琳",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "3",
+                "name_english": "Sung Hwai Lin",
+                "election_id": "53c02096-9664-4209-bef6-5c5aacb5b862"
+            },
+            {
+                "id": "5406a606-ad28-4d25-aca6-15b8acb5b862",
+                "image": "54412933\/c5a8\/41c7\/8068\/6b7e8e043389.jpg",
+                "stage": "0",
+                "name": "許淑華",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "0",
+                "name_english": "",
+                "election_id": "53c02096-9664-4209-bef6-5c5aacb5b862"
+            },
+            {
+                "id": "540b5809-0d50-4eb9-bd97-1926acb5b862",
+                "image": "54412c02\/77ec\/450c\/b6b6\/7af68e043389.jpg",
+                "stage": "1",
+                "name": "張永興",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02096-9664-4209-bef6-5c5aacb5b862"
+            },
+            {
+                "id": "540b5809-93e8-4fbc-9617-1926acb5b862",
+                "image": "544129df\/8554\/4cef\/b708\/6b7e8e043389.jpg",
+                "stage": "1",
+                "name": "陳振盛",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "chen chen sheng",
+                "election_id": "53c02096-9664-4209-bef6-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01cc7-2d38-4e8a-ac7f-5460acb5b862",
+                "name": "南投市",
+                "is_area": true,
+                "keywords": "2014,南投縣,南投市",
+                "AreasElection": {
+                    "id": "53c02096-c5d0-4e7d-80d5-5c5aacb5b862",
+                    "Election_id": "53c02096-9664-4209-bef6-5c5aacb5b862",
+                    "Area_id": "53c01cc7-2d38-4e8a-ac7f-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市長",
+                "lft": "608",
+                "rght": "1031",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02095-a5ac-446e-b87d-5c5aacb5b862",
+                "parent_id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "name": "南投縣",
+                "lft": "779",
+                "rght": "806",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02096-9664-4209-bef6-5c5aacb5b862",
+                "parent_id": "53c02095-a5ac-446e-b87d-5c5aacb5b862",
+                "name": "南投市",
+                "lft": "780",
+                "rght": "781",
+                "population": "102382",
+                "population_electors": "81150",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54735d56-090c-4687-a8f4-21eacf91e152",
+                "keywords": "2014-11,鄉鎮市長,南投縣,南投市"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

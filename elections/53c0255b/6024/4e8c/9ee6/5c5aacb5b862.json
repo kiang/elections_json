@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0255b-6024-4e8c-9ee6-5c5aacb5b862",
+            "parent_id": "53c02557-f2ec-4bd9-8f8c-5c5aacb5b862",
+            "name": "幸福里",
+            "lft": "17001",
+            "rght": "17002",
+            "population": "3226",
+            "population_electors": "2523",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c6157-2f9c-4636-a83c-573fcf91e152",
+            "keywords": "2014-11,村里長,臺中市,大甲區,幸福里"
+        },
+        "Candidate": [
+            {
+                "id": "53c026fe-70f8-4c4e-9a09-5dffacb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "林申雄",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "LIN SHEN XIONG",
+                "election_id": "53c0255b-6024-4e8c-9ee6-5c5aacb5b862"
+            },
+            {
+                "id": "540b53da-0868-4511-8a7b-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "翁木榮",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "WENG MU JUNG",
+                "election_id": "53c0255b-6024-4e8c-9ee6-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01f90-9aec-4d00-baf2-5460acb5b862",
+                "name": "幸福里",
+                "is_area": true,
+                "keywords": "2014,臺中市,大甲區,幸福里",
+                "AreasElection": {
+                    "id": "53c0255c-5aa8-40c0-aac4-5c5aacb5b862",
+                    "Election_id": "53c0255b-6024-4e8c-9ee6-5c5aacb5b862",
+                    "Area_id": "53c01f90-9aec-4d00-baf2-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02557-f2ec-4bd9-8f8c-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "大甲區",
+                "lft": "16956",
+                "rght": "17015",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0255b-6024-4e8c-9ee6-5c5aacb5b862",
+                "parent_id": "53c02557-f2ec-4bd9-8f8c-5c5aacb5b862",
+                "name": "幸福里",
+                "lft": "17001",
+                "rght": "17002",
+                "population": "3226",
+                "population_electors": "2523",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c6157-2f9c-4636-a83c-573fcf91e152",
+                "keywords": "2014-11,村里長,臺中市,大甲區,幸福里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,167 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02392-0464-4dfa-aea8-5c5aacb5b862",
+            "parent_id": "53c02390-47d0-4ee3-8b34-5c5aacb5b862",
+            "name": "四維里",
+            "lft": "11563",
+            "rght": "11564",
+            "population": "5559",
+            "population_electors": "4704",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-267c-4675-8ac1-4187cf91e152",
+            "keywords": "2014-11,村里長,臺北市,信義區,四維里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02634-e560-49bb-89c6-5dffacb5b862",
+                "image": null,
+                "stage": "0",
+                "name": "林子琳",
+                "party": null,
+                "gender": null,
+                "no": "0",
+                "name_english": "",
+                "election_id": "53c02392-0464-4dfa-aea8-5c5aacb5b862"
+            },
+            {
+                "id": "540b52e4-0be4-4461-be8b-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "劉耀平",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "3",
+                "name_english": "Liu YaoPing",
+                "election_id": "53c02392-0464-4dfa-aea8-5c5aacb5b862"
+            },
+            {
+                "id": "540b52e4-6580-40f2-81c8-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "石儀文",
+                "party": "無",
+                "gender": "f",
+                "no": "1",
+                "name_english": "SHIH YI WEN",
+                "election_id": "53c02392-0464-4dfa-aea8-5c5aacb5b862"
+            },
+            {
+                "id": "540b52e4-7078-4adc-9be9-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "陳智義",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "CHEN CHI I",
+                "election_id": "53c02392-0464-4dfa-aea8-5c5aacb5b862"
+            },
+            {
+                "id": "540b52e4-bcf0-40e6-938d-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "李姵嬅",
+                "party": "無",
+                "gender": "f",
+                "no": "4",
+                "name_english": "LI PAI HUA",
+                "election_id": "53c02392-0464-4dfa-aea8-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01e0d-db48-4476-805b-5460acb5b862",
+                "name": "四維里",
+                "is_area": true,
+                "keywords": "2014,臺北市,信義區,四維里",
+                "AreasElection": {
+                    "id": "53c02392-6e40-4d19-a47e-5c5aacb5b862",
+                    "Election_id": "53c02392-0464-4dfa-aea8-5c5aacb5b862",
+                    "Area_id": "53c01e0d-db48-4476-805b-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02390-47d0-4ee3-8b34-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "信義區",
+                "lft": "11526",
+                "rght": "11609",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02392-0464-4dfa-aea8-5c5aacb5b862",
+                "parent_id": "53c02390-47d0-4ee3-8b34-5c5aacb5b862",
+                "name": "四維里",
+                "lft": "11563",
+                "rght": "11564",
+                "population": "5559",
+                "population_electors": "4704",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-267c-4675-8ac1-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,信義區,四維里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

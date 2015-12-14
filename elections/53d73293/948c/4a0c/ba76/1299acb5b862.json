@@ -1,0 +1,200 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d73293-948c-4a0c-ba76-1299acb5b862",
+            "parent_id": "53c020b2-af3c-4b85-82a2-5c5aacb5b862",
+            "name": "第02選舉區[區域]",
+            "lft": "1131",
+            "rght": "1132",
+            "population": "5822",
+            "population_electors": "4853",
+            "quota": "3",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-6044-4f27-bc5d-2adbcf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,宜蘭縣,壯圍鄉,第02選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b57bc-3afc-4b42-8c61-1926acb5b862",
+                "image": "54b15318\/b7cc\/4529\/bbf8\/647e6ab936af.jpg",
+                "stage": "2",
+                "name": "林榮華",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53d73293-948c-4a0c-ba76-1299acb5b862"
+            },
+            {
+                "id": "540b57bc-6010-4863-85c9-1926acb5b862",
+                "image": "54b1522d\/d540\/4491\/80a6\/64396ab936af.jpg",
+                "stage": "2",
+                "name": "林忠孝",
+                "party": "無",
+                "gender": "m",
+                "no": "5",
+                "name_english": "",
+                "election_id": "53d73293-948c-4a0c-ba76-1299acb5b862"
+            },
+            {
+                "id": "540b57bc-80d4-4956-a248-1926acb5b862",
+                "image": "54b15288\/ed08\/480b\/bfd5\/641d6ab936af.jpg",
+                "stage": "1",
+                "name": "林立賢",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d73293-948c-4a0c-ba76-1299acb5b862"
+            },
+            {
+                "id": "540b57bc-8afc-4ead-82aa-1926acb5b862",
+                "image": "54b1103b\/0698\/4066\/b12d\/56bf6ab936af.jpg",
+                "stage": "1",
+                "name": "劉永城",
+                "party": "無",
+                "gender": "m",
+                "no": "4",
+                "name_english": "",
+                "election_id": "53d73293-948c-4a0c-ba76-1299acb5b862"
+            },
+            {
+                "id": "540b57bc-cee0-4efc-b331-1926acb5b862",
+                "image": "54b152ed\/4fec\/4211\/b11a\/64776ab936af.jpg",
+                "stage": "2",
+                "name": "林萬固",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53d73293-948c-4a0c-ba76-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01be8-1d3c-48d1-982d-5460acb5b862",
+                "name": "東港村",
+                "is_area": true,
+                "keywords": "2014,宜蘭縣,壯圍鄉,東港村",
+                "AreasElection": {
+                    "id": "53d73294-f678-49da-ab09-1299acb5b862",
+                    "Election_id": "53d73293-948c-4a0c-ba76-1299acb5b862",
+                    "Area_id": "53c01be8-1d3c-48d1-982d-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01be9-4cd4-45f3-9070-5460acb5b862",
+                "name": "永鎮村",
+                "is_area": true,
+                "keywords": "2014,宜蘭縣,壯圍鄉,永鎮村",
+                "AreasElection": {
+                    "id": "53d73294-6738-49ba-b563-1299acb5b862",
+                    "Election_id": "53d73293-948c-4a0c-ba76-1299acb5b862",
+                    "Area_id": "53c01be9-4cd4-45f3-9070-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01be9-4ef4-4ac1-baa4-5460acb5b862",
+                "name": "過嶺村",
+                "is_area": true,
+                "keywords": "2014,宜蘭縣,壯圍鄉,過嶺村",
+                "AreasElection": {
+                    "id": "53d73294-c7d8-4ca2-9eb6-1299acb5b862",
+                    "Election_id": "53d73293-948c-4a0c-ba76-1299acb5b862",
+                    "Area_id": "53c01be9-4ef4-4ac1-baa4-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01be9-86b4-411d-9169-5460acb5b862",
+                "name": "復興村",
+                "is_area": true,
+                "keywords": "2014,宜蘭縣,壯圍鄉,復興村",
+                "AreasElection": {
+                    "id": "53d73294-ed7c-4e92-bf44-1299acb5b862",
+                    "Election_id": "53d73293-948c-4a0c-ba76-1299acb5b862",
+                    "Area_id": "53c01be9-86b4-411d-9169-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b1-2260-44dc-a0bc-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "宜蘭縣",
+                "lft": "1077",
+                "rght": "1200",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b2-af3c-4b85-82a2-5c5aacb5b862",
+                "parent_id": "53c020b1-2260-44dc-a0bc-5c5aacb5b862",
+                "name": "壯圍鄉",
+                "lft": "1128",
+                "rght": "1137",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d73293-948c-4a0c-ba76-1299acb5b862",
+                "parent_id": "53c020b2-af3c-4b85-82a2-5c5aacb5b862",
+                "name": "第02選舉區[區域]",
+                "lft": "1131",
+                "rght": "1132",
+                "population": "5822",
+                "population_electors": "4853",
+                "quota": "3",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-6044-4f27-bc5d-2adbcf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,宜蘭縣,壯圍鄉,第02選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,167 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d733b1-0714-4de9-a37d-1299acb5b862",
+            "parent_id": "53c020c6-58c4-4373-89a7-5c5aacb5b862",
+            "name": "第02選舉區[區域]",
+            "lft": "1909",
+            "rght": "1910",
+            "population": "4816",
+            "population_electors": "4009",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "546eb720-4650-43f0-9e05-2adbcf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,雲林縣,土庫鎮,第02選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b5750-61d8-45ec-9d43-1926acb5b862",
+                "image": "54bd11fd\/9924\/4a3b\/9690\/576e6ab936af.jpg",
+                "stage": "2",
+                "name": "蕭金池",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53d733b1-0714-4de9-a37d-1299acb5b862"
+            },
+            {
+                "id": "540b5750-66a0-4f8e-92da-1926acb5b862",
+                "image": "54bd1264\/a8a0\/40a0\/87eb\/577a6ab936af.jpg",
+                "stage": "1",
+                "name": "李素香",
+                "party": "無",
+                "gender": "f",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d733b1-0714-4de9-a37d-1299acb5b862"
+            },
+            {
+                "id": "540b5750-ca8c-4c05-9b5e-1926acb5b862",
+                "image": "54bd1235\/e154\/439e\/9b34\/57866ab936af.jpg",
+                "stage": "2",
+                "name": "許群英",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53d733b1-0714-4de9-a37d-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01cf7-3900-4b96-923f-5460acb5b862",
+                "name": "興新里",
+                "is_area": true,
+                "keywords": "2014,雲林縣,土庫鎮,興新里",
+                "AreasElection": {
+                    "id": "53d733b1-31b4-415f-b95e-1299acb5b862",
+                    "Election_id": "53d733b1-0714-4de9-a37d-1299acb5b862",
+                    "Area_id": "53c01cf7-3900-4b96-923f-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cf7-4624-44f0-9c29-5460acb5b862",
+                "name": "奮起里",
+                "is_area": true,
+                "keywords": "2014,雲林縣,土庫鎮,奮起里",
+                "AreasElection": {
+                    "id": "53d733b1-e544-4da8-8d37-1299acb5b862",
+                    "Election_id": "53d733b1-0714-4de9-a37d-1299acb5b862",
+                    "Area_id": "53c01cf7-4624-44f0-9c29-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cf7-5b0c-4ed0-8ab9-5460acb5b862",
+                "name": "埤腳里",
+                "is_area": true,
+                "keywords": "2014,雲林縣,土庫鎮,埤腳里",
+                "AreasElection": {
+                    "id": "53d733b1-b10c-4dda-bb0a-1299acb5b862",
+                    "Election_id": "53d733b1-0714-4de9-a37d-1299acb5b862",
+                    "Area_id": "53c01cf7-5b0c-4ed0-8ab9-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020c5-1718-4aea-8b3b-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "1865",
+                "rght": "2062",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020c6-58c4-4373-89a7-5c5aacb5b862",
+                "parent_id": "53c020c5-1718-4aea-8b3b-5c5aacb5b862",
+                "name": "土庫鎮",
+                "lft": "1906",
+                "rght": "1915",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d733b1-0714-4de9-a37d-1299acb5b862",
+                "parent_id": "53c020c6-58c4-4373-89a7-5c5aacb5b862",
+                "name": "第02選舉區[區域]",
+                "lft": "1909",
+                "rght": "1910",
+                "population": "4816",
+                "population_electors": "4009",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "546eb720-4650-43f0-9e05-2adbcf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,雲林縣,土庫鎮,第02選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

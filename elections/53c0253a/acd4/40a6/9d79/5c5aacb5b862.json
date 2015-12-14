@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0253a-acd4-40a6-9d79-5c5aacb5b862",
+            "parent_id": "53c02536-cbf0-4e8a-9a56-5c5aacb5b862",
+            "name": "永安里",
+            "lft": "16647",
+            "rght": "16648",
+            "population": "14651",
+            "population_electors": "10642",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e0697-977c-4948-8703-1a32cf91e152",
+            "keywords": "2014-11,村里長,臺中市,西屯區,永安里"
+        },
+        "Candidate": [
+            {
+                "id": "53c026f0-4608-4015-9873-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "張阿淑",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "2",
+                "name_english": "CHANG A SHU",
+                "election_id": "53c0253a-acd4-40a6-9d79-5c5aacb5b862"
+            },
+            {
+                "id": "540b53c9-4f74-44d2-af43-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "王世明",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "WANG SHIH MIN",
+                "election_id": "53c0253a-acd4-40a6-9d79-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01f78-175c-4f22-9ffd-5460acb5b862",
+                "name": "永安里",
+                "is_area": true,
+                "keywords": "2014,臺中市,西屯區,永安里",
+                "AreasElection": {
+                    "id": "53c0253a-5b70-40e8-b151-5c5aacb5b862",
+                    "Election_id": "53c0253a-acd4-40a6-9d79-5c5aacb5b862",
+                    "Area_id": "53c01f78-175c-4f22-9ffd-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02536-cbf0-4e8a-9a56-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "西屯區",
+                "lft": "16612",
+                "rght": "16691",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0253a-acd4-40a6-9d79-5c5aacb5b862",
+                "parent_id": "53c02536-cbf0-4e8a-9a56-5c5aacb5b862",
+                "name": "永安里",
+                "lft": "16647",
+                "rght": "16648",
+                "population": "14651",
+                "population_electors": "10642",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e0697-977c-4948-8703-1a32cf91e152",
+                "keywords": "2014-11,村里長,臺中市,西屯區,永安里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

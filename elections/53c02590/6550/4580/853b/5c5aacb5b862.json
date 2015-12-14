@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02590-6550-4580-853b-5c5aacb5b862",
+            "parent_id": "53c0258b-49bc-4301-a0fe-5c5aacb5b862",
+            "name": "宜昌里",
+            "lft": "17601",
+            "rght": "17602",
+            "population": "4402",
+            "population_electors": "3502",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546d8db9-b204-453d-87ef-0e51cf91e152",
+            "keywords": "2014-11,村里長,臺中市,太平區,宜昌里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02717-0758-4c24-9a41-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "林進發",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c02590-6550-4580-853b-5c5aacb5b862"
+            },
+            {
+                "id": "540b53f7-2494-4b70-aae9-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "韓承蓁",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "1",
+                "name_english": "HAN CHEN JEN",
+                "election_id": "53c02590-6550-4580-853b-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01fbb-15f0-4d19-9def-5460acb5b862",
+                "name": "宜昌里",
+                "is_area": true,
+                "keywords": "2014,臺中市,太平區,宜昌里",
+                "AreasElection": {
+                    "id": "53c02591-3310-45ca-af27-5c5aacb5b862",
+                    "Election_id": "53c02590-6550-4580-853b-5c5aacb5b862",
+                    "Area_id": "53c01fbb-15f0-4d19-9def-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0258b-49bc-4301-a0fe-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "太平區",
+                "lft": "17540",
+                "rght": "17619",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02590-6550-4580-853b-5c5aacb5b862",
+                "parent_id": "53c0258b-49bc-4301-a0fe-5c5aacb5b862",
+                "name": "宜昌里",
+                "lft": "17601",
+                "rght": "17602",
+                "population": "4402",
+                "population_electors": "3502",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546d8db9-b204-453d-87ef-0e51cf91e152",
+                "keywords": "2014-11,村里長,臺中市,太平區,宜昌里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

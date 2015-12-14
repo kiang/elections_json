@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c023b9-173c-4bee-95ca-5c5aacb5b862",
+            "parent_id": "53c023b4-de88-4969-afaa-5c5aacb5b862",
+            "name": "明興里",
+            "lft": "12053",
+            "rght": "12054",
+            "population": "7224",
+            "population_electors": "5886",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-f0f0-4dd1-8070-4187cf91e152",
+            "keywords": "2014-11,村里長,臺北市,文山區,明興里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02644-5224-4bcf-a983-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "鄢健民",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "Ian Jiann Min",
+                "election_id": "53c023b9-173c-4bee-95ca-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01e2e-8c38-4280-942a-5460acb5b862",
+                "name": "明興里",
+                "is_area": true,
+                "keywords": "2014,臺北市,文山區,明興里",
+                "AreasElection": {
+                    "id": "53c023b9-8dd4-46be-8ee2-5c5aacb5b862",
+                    "Election_id": "53c023b9-173c-4bee-95ca-5c5aacb5b862",
+                    "Area_id": "53c01e2e-8c38-4280-942a-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023b4-de88-4969-afaa-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "文山區",
+                "lft": "11994",
+                "rght": "12081",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023b9-173c-4bee-95ca-5c5aacb5b862",
+                "parent_id": "53c023b4-de88-4969-afaa-5c5aacb5b862",
+                "name": "明興里",
+                "lft": "12053",
+                "rght": "12054",
+                "population": "7224",
+                "population_electors": "5886",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-f0f0-4dd1-8070-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,文山區,明興里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

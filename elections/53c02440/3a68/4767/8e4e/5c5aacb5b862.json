@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02440-3a68-4767-8e4e-5c5aacb5b862",
+            "parent_id": "53c0243d-95c4-4cb5-bb05-5c5aacb5b862",
+            "name": "石潭里",
+            "lft": "13729",
+            "rght": "13730",
+            "population": "2239",
+            "population_electors": "1733",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb721-c334-46f5-845b-2adbcf91e152",
+            "keywords": "2014-11,村里長,高雄市,岡山區,石潭里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02686-3dc0-46f5-8891-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "廖壹正",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02440-3a68-4767-8e4e-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01ea2-0b30-477b-b7d2-5460acb5b862",
+                "name": "石潭里",
+                "is_area": true,
+                "keywords": "2014,高雄市,岡山區,石潭里",
+                "AreasElection": {
+                    "id": "53c02440-99fc-40f8-8257-5c5aacb5b862",
+                    "Election_id": "53c02440-3a68-4767-8e4e-5c5aacb5b862",
+                    "Area_id": "53c01ea2-0b30-477b-b7d2-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0243d-95c4-4cb5-bb05-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "岡山區",
+                "lft": "13692",
+                "rght": "13759",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02440-3a68-4767-8e4e-5c5aacb5b862",
+                "parent_id": "53c0243d-95c4-4cb5-bb05-5c5aacb5b862",
+                "name": "石潭里",
+                "lft": "13729",
+                "rght": "13730",
+                "population": "2239",
+                "population_electors": "1733",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb721-c334-46f5-845b-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,岡山區,石潭里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

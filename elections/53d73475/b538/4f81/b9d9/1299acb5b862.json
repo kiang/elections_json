@@ -1,0 +1,189 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d73475-b538-4f81-b9d9-1299acb5b862",
+            "parent_id": "53c020d7-d598-4517-aa00-5c5aacb5b862",
+            "name": "第03選舉區[區域]",
+            "lft": "2433",
+            "rght": "2434",
+            "population": "2217",
+            "population_electors": "1872",
+            "quota": "3",
+            "quota_women": "0",
+            "bulletin_key": "5475673a-9d30-4aee-888d-0f78cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,屏東縣,枋山鄉,第03選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b57aa-0550-41cf-9f15-1926acb5b862",
+                "image": "54cb6c6e\/ceb0\/4c35\/8fea\/42b26ab936af.jpg",
+                "stage": "1",
+                "name": "林智惠",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53d73475-b538-4f81-b9d9-1299acb5b862"
+            },
+            {
+                "id": "540b57aa-1df0-4a36-8442-1926acb5b862",
+                "image": "54cb6d17\/3d30\/4bcb\/98e8\/42cf6ab936af.jpg",
+                "stage": "1",
+                "name": "黃衡隆",
+                "party": "無",
+                "gender": "m",
+                "no": "5",
+                "name_english": "",
+                "election_id": "53d73475-b538-4f81-b9d9-1299acb5b862"
+            },
+            {
+                "id": "540b57aa-4760-49a4-a872-1926acb5b862",
+                "image": "54cb6cec\/d280\/4933\/8c92\/42c26ab936af.jpg",
+                "stage": "2",
+                "name": "陳恒輝",
+                "party": "無",
+                "gender": "m",
+                "no": "4",
+                "name_english": "",
+                "election_id": "53d73475-b538-4f81-b9d9-1299acb5b862"
+            },
+            {
+                "id": "540b57aa-4b44-493f-b3c9-1926acb5b862",
+                "image": "54cb6da6\/7250\/4373\/a475\/42e86ab936af.jpg",
+                "stage": "1",
+                "name": "林種徳",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53d73475-b538-4f81-b9d9-1299acb5b862"
+            },
+            {
+                "id": "540b57aa-a790-4523-abae-1926acb5b862",
+                "image": "54cb6c51\/0ba4\/4d54\/870f\/425b6ab936af.jpg",
+                "stage": "2",
+                "name": "許典洲",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d73475-b538-4f81-b9d9-1299acb5b862"
+            },
+            {
+                "id": "540b57aa-f134-4905-9d1c-1926acb5b862",
+                "image": "54cb6d3d\/a4f0\/42e3\/9ab3\/42c06ab936af.jpg",
+                "stage": "2",
+                "name": "尤正三",
+                "party": "無",
+                "gender": "m",
+                "no": "6",
+                "name_english": "",
+                "election_id": "53d73475-b538-4f81-b9d9-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d8b-1674-4d7e-b712-5460acb5b862",
+                "name": "善餘村",
+                "is_area": true,
+                "keywords": "2014,屏東縣,枋山鄉,善餘村",
+                "AreasElection": {
+                    "id": "53d73476-287c-42e9-8cb7-1299acb5b862",
+                    "Election_id": "53d73475-b538-4f81-b9d9-1299acb5b862",
+                    "Area_id": "53c01d8b-1674-4d7e-b712-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d8b-6cd0-42c8-be33-5460acb5b862",
+                "name": "楓港村",
+                "is_area": true,
+                "keywords": "2014,屏東縣,枋山鄉,楓港村",
+                "AreasElection": {
+                    "id": "53d73476-dc94-415c-8c79-1299acb5b862",
+                    "Election_id": "53d73475-b538-4f81-b9d9-1299acb5b862",
+                    "Area_id": "53c01d8b-6cd0-42c8-be33-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ce-0798-4ae9-af49-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "2197",
+                "rght": "2484",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020d7-d598-4517-aa00-5c5aacb5b862",
+                "parent_id": "53c020ce-0798-4ae9-af49-5c5aacb5b862",
+                "name": "枋山鄉",
+                "lft": "2428",
+                "rght": "2435",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d73475-b538-4f81-b9d9-1299acb5b862",
+                "parent_id": "53c020d7-d598-4517-aa00-5c5aacb5b862",
+                "name": "第03選舉區[區域]",
+                "lft": "2433",
+                "rght": "2434",
+                "population": "2217",
+                "population_electors": "1872",
+                "quota": "3",
+                "quota_women": "0",
+                "bulletin_key": "5475673a-9d30-4aee-888d-0f78cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,屏東縣,枋山鄉,第03選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

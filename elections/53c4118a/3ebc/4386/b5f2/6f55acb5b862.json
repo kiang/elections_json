@@ -1,0 +1,119 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c4118a-3ebc-4386-b5f2-6f55acb5b862",
+            "parent_id": "53c02084-c98c-49f1-8e3f-5c5aacb5b862",
+            "name": "第07選區[區域]",
+            "lft": "480",
+            "rght": "481",
+            "population": "12670",
+            "population_electors": "10296",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54742654-b70c-4248-8031-2d82cf91e152",
+            "keywords": "2014-11,縣市議員,屏東縣,第07選區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "53c68f8c-f4e0-43d8-b5f8-0f15acb5b862",
+                "image": "5433c99c\/6eec\/4daa\/b371\/1eb7cb455a61.jpg",
+                "stage": "1",
+                "name": "王薇茗",
+                "party": "無",
+                "gender": "f",
+                "no": "1",
+                "name_english": "WANG WEI MING",
+                "election_id": "53c4118a-3ebc-4386-b5f2-6f55acb5b862"
+            },
+            {
+                "id": "53ddd0c4-2f74-4e7b-a2a9-7a64cb455a61",
+                "image": "54940e4c\/e4b0\/4264\/aca8\/31b86ab936af.jpg",
+                "stage": "2",
+                "name": "洪慈綪",
+                "party": "無",
+                "gender": "f",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c4118a-3ebc-4386-b5f2-6f55acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d87-f978-4024-bc34-5460acb5b862",
+                "name": "琉球鄉",
+                "is_area": true,
+                "keywords": "2014,屏東縣,琉球鄉",
+                "AreasElection": {
+                    "id": "53c4118b-e734-4800-bd5a-6f55acb5b862",
+                    "Election_id": "53c4118a-3ebc-4386-b5f2-6f55acb5b862",
+                    "Area_id": "53c01d87-f978-4024-bc34-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "縣市議員",
+                "lft": "306",
+                "rght": "607",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02084-c98c-49f1-8e3f-5c5aacb5b862",
+                "parent_id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "467",
+                "rght": "500",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c4118a-3ebc-4386-b5f2-6f55acb5b862",
+                "parent_id": "53c02084-c98c-49f1-8e3f-5c5aacb5b862",
+                "name": "第07選區[區域]",
+                "lft": "480",
+                "rght": "481",
+                "population": "12670",
+                "population_electors": "10296",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54742654-b70c-4248-8031-2d82cf91e152",
+                "keywords": "2014-11,縣市議員,屏東縣,第07選區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d732fc-b9f8-4bde-ae0b-1299acb5b862",
+            "parent_id": "53c020b9-c1f0-454e-911d-5c5aacb5b862",
+            "name": "第02選舉區[區域]",
+            "lft": "1437",
+            "rght": "1438",
+            "population": "1544",
+            "population_electors": "1311",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-8004-4412-8bed-4187cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,苗栗縣,頭屋鄉,第02選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b5701-02d0-4346-9a6a-1926acb5b862",
+                "image": "54ba3dc7\/d618\/4671\/b921\/42176ab936af.jpg",
+                "stage": "1",
+                "name": "陳漢康",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d732fc-b9f8-4bde-ae0b-1299acb5b862"
+            },
+            {
+                "id": "540b5701-374c-418f-9c8c-1926acb5b862",
+                "image": "54ba3e04\/7988\/46f6\/b0d6\/42206ab936af.jpg",
+                "stage": "2",
+                "name": "范發榮",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "FAN FA JUNG",
+                "election_id": "53d732fc-b9f8-4bde-ae0b-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c71-2550-421f-a6e2-5460acb5b862",
+                "name": "飛鳳村",
+                "is_area": true,
+                "keywords": "2014,苗栗縣,頭屋鄉,飛鳳村",
+                "AreasElection": {
+                    "id": "53d732fd-ba64-4044-b866-1299acb5b862",
+                    "Election_id": "53d732fc-b9f8-4bde-ae0b-1299acb5b862",
+                    "Area_id": "53c01c71-2550-421f-a6e2-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c71-ea58-48c2-8d9f-5460acb5b862",
+                "name": "曲洞村",
+                "is_area": true,
+                "keywords": "2014,苗栗縣,頭屋鄉,曲洞村",
+                "AreasElection": {
+                    "id": "53d732fd-39ac-4d47-95b0-1299acb5b862",
+                    "Election_id": "53d732fc-b9f8-4bde-ae0b-1299acb5b862",
+                    "Area_id": "53c01c71-ea58-48c2-8d9f-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b7-c5b4-41c9-bda3-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "苗栗縣",
+                "lft": "1323",
+                "rght": "1496",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b9-c1f0-454e-911d-5c5aacb5b862",
+                "parent_id": "53c020b7-c5b4-41c9-bda3-5c5aacb5b862",
+                "name": "頭屋鄉",
+                "lft": "1434",
+                "rght": "1445",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d732fc-b9f8-4bde-ae0b-1299acb5b862",
+                "parent_id": "53c020b9-c1f0-454e-911d-5c5aacb5b862",
+                "name": "第02選舉區[區域]",
+                "lft": "1437",
+                "rght": "1438",
+                "population": "1544",
+                "population_electors": "1311",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-8004-4412-8bed-4187cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,苗栗縣,頭屋鄉,第02選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

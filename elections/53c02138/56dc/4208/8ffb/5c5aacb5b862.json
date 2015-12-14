@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02138-56dc-4208-8ffb-5c5aacb5b862",
+            "parent_id": "53c02135-dc78-486c-bbc7-5c5aacb5b862",
+            "name": "恭敬里",
+            "lft": "3863",
+            "rght": "3864",
+            "population": "1637",
+            "population_electors": "1331",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-8248-463a-a5c0-4187cf91e152",
+            "keywords": "2014-11,村里長,苗栗縣,苗栗市,恭敬里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0279f-aa24-4bd5-98a5-5dffacb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "劉思維",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "Liu Szu Wei",
+                "election_id": "53c02138-56dc-4208-8ffb-5c5aacb5b862"
+            },
+            {
+                "id": "540b54d1-b85c-4ba9-9e82-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "謝銘堂",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "Hsieh Ming Tang",
+                "election_id": "53c02138-56dc-4208-8ffb-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c55-d378-4ab3-a474-5460acb5b862",
+                "name": "恭敬里",
+                "is_area": true,
+                "keywords": "2014,苗栗縣,苗栗市,恭敬里",
+                "AreasElection": {
+                    "id": "53c02138-e33c-4c96-83d0-5c5aacb5b862",
+                    "Election_id": "53c02138-56dc-4208-8ffb-5c5aacb5b862",
+                    "Area_id": "53c01c55-d378-4ab3-a474-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02135-5cc8-4f9d-a971-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "苗栗縣",
+                "lft": "3831",
+                "rght": "4416",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02135-dc78-486c-bbc7-5c5aacb5b862",
+                "parent_id": "53c02135-5cc8-4f9d-a971-5c5aacb5b862",
+                "name": "苗栗市",
+                "lft": "3832",
+                "rght": "3889",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02138-56dc-4208-8ffb-5c5aacb5b862",
+                "parent_id": "53c02135-dc78-486c-bbc7-5c5aacb5b862",
+                "name": "恭敬里",
+                "lft": "3863",
+                "rght": "3864",
+                "population": "1637",
+                "population_electors": "1331",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-8248-463a-a5c0-4187cf91e152",
+                "keywords": "2014-11,村里長,苗栗縣,苗栗市,恭敬里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c020f1-8aa0-49e4-8d29-5c5aacb5b862",
+            "parent_id": "53c020f0-d280-4a34-8646-5c5aacb5b862",
+            "name": "南津里",
+            "lft": "2951",
+            "rght": "2952",
+            "population": "2397",
+            "population_electors": "1864",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-cd2c-4402-b167-2adbcf91e152",
+            "keywords": "2014-11,村里長,宜蘭縣,宜蘭市,南津里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02755-32b4-44c5-ae50-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "林聰明",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c020f1-8aa0-49e4-8d29-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01bd8-df20-45e2-8b18-5460acb5b862",
+                "name": "南津里",
+                "is_area": true,
+                "keywords": "2014,宜蘭縣,宜蘭市,南津里",
+                "AreasElection": {
+                    "id": "53c020f1-f4e4-4260-a9e8-5c5aacb5b862",
+                    "Election_id": "53c020f1-8aa0-49e4-8d29-5c5aacb5b862",
+                    "Area_id": "53c01bd8-df20-45e2-8b18-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ef-6268-4b1a-a16d-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "宜蘭縣",
+                "lft": "2929",
+                "rght": "3420",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020f0-d280-4a34-8646-5c5aacb5b862",
+                "parent_id": "53c020ef-6268-4b1a-a16d-5c5aacb5b862",
+                "name": "宜蘭市",
+                "lft": "2930",
+                "rght": "3007",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020f1-8aa0-49e4-8d29-5c5aacb5b862",
+                "parent_id": "53c020f0-d280-4a34-8646-5c5aacb5b862",
+                "name": "南津里",
+                "lft": "2951",
+                "rght": "2952",
+                "population": "2397",
+                "population_electors": "1864",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-cd2c-4402-b167-2adbcf91e152",
+                "keywords": "2014-11,村里長,宜蘭縣,宜蘭市,南津里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

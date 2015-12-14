@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0239e-b1cc-4b83-b98b-5c5aacb5b862",
+            "parent_id": "53c0239e-cac0-446a-8756-5c5aacb5b862",
+            "name": "正守里",
+            "lft": "11719",
+            "rght": "11720",
+            "population": "3283",
+            "population_electors": "2758",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-7ad4-4c4f-a094-4187cf91e152",
+            "keywords": "2014-11,村里長,臺北市,中山區,正守里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02639-6e78-4462-9b69-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "林洳萱",
+                "party": "無",
+                "gender": "f",
+                "no": "1",
+                "name_english": "LIN RU SYUAN",
+                "election_id": "53c0239e-b1cc-4b83-b98b-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01e18-2bf0-4e0b-b625-5460acb5b862",
+                "name": "正守里",
+                "is_area": true,
+                "keywords": "2014,臺北市,中山區,正守里",
+                "AreasElection": {
+                    "id": "53c0239f-490c-46b6-a19a-5c5aacb5b862",
+                    "Election_id": "53c0239e-b1cc-4b83-b98b-5c5aacb5b862",
+                    "Area_id": "53c01e18-2bf0-4e0b-b625-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0239e-cac0-446a-8756-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "中山區",
+                "lft": "11718",
+                "rght": "11803",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0239e-b1cc-4b83-b98b-5c5aacb5b862",
+                "parent_id": "53c0239e-cac0-446a-8756-5c5aacb5b862",
+                "name": "正守里",
+                "lft": "11719",
+                "rght": "11720",
+                "population": "3283",
+                "population_electors": "2758",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-7ad4-4c4f-a094-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,中山區,正守里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

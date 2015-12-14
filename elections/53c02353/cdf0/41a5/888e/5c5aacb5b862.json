@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02353-cdf0-41a5-888e-5c5aacb5b862",
+            "parent_id": "53c02351-abac-4dc1-b5b3-5c5aacb5b862",
+            "name": "僑愛里",
+            "lft": "10785",
+            "rght": "10786",
+            "population": "2995",
+            "population_electors": "2393",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-e904-4505-a0ca-1a32cf91e152",
+            "keywords": "2014-11,村里長,桃園市,大溪區,僑愛里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02776-4b64-4873-a8c4-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "羅鳳育",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "LO FONG YU",
+                "election_id": "53c02353-cdf0-41a5-888e-5c5aacb5b862"
+            },
+            {
+                "id": "540b5392-b404-413d-bb83-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "田德華",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "TIEN TE HUA",
+                "election_id": "53c02353-cdf0-41a5-888e-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c0e-322c-464c-83ca-5460acb5b862",
+                "name": "僑愛里",
+                "is_area": true,
+                "keywords": "2014,桃園市,大溪區,僑愛里",
+                "AreasElection": {
+                    "id": "53c02353-76ac-4412-8e11-5c5aacb5b862",
+                    "Election_id": "53c02353-cdf0-41a5-888e-5c5aacb5b862",
+                    "Area_id": "53c01c0e-322c-464c-83ca-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "桃園市",
+                "lft": "10439",
+                "rght": "11456",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02351-abac-4dc1-b5b3-5c5aacb5b862",
+                "parent_id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "name": "大溪區",
+                "lft": "10766",
+                "rght": "10821",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02353-cdf0-41a5-888e-5c5aacb5b862",
+                "parent_id": "53c02351-abac-4dc1-b5b3-5c5aacb5b862",
+                "name": "僑愛里",
+                "lft": "10785",
+                "rght": "10786",
+                "population": "2995",
+                "population_electors": "2393",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-e904-4505-a0ca-1a32cf91e152",
+                "keywords": "2014-11,村里長,桃園市,大溪區,僑愛里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

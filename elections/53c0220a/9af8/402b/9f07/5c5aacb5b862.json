@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0220a-9af8-402b-9f07-5c5aacb5b862",
+            "parent_id": "53c02208-b920-42e2-bbdf-5c5aacb5b862",
+            "name": "三結村",
+            "lft": "6605",
+            "rght": "6606",
+            "population": "1423",
+            "population_electors": "1207",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546ebd71-e8cc-4ac3-862b-2c67cf91e152",
+            "keywords": "2014-11,村里長,雲林縣,大埤鄉,三結村"
+        },
+        "Candidate": [
+            {
+                "id": "53c0280d-be90-4e8a-8aac-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "徐萬成",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "HSU WAN CHENG",
+                "election_id": "53c0220a-9af8-402b-9f07-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d00-d4f4-4f18-8cba-5460acb5b862",
+                "name": "三結村",
+                "is_area": true,
+                "keywords": "2014,雲林縣,大埤鄉,三結村",
+                "AreasElection": {
+                    "id": "53c0220a-4780-4f61-beb7-5c5aacb5b862",
+                    "Election_id": "53c0220a-9af8-402b-9f07-5c5aacb5b862",
+                    "Area_id": "53c01d00-d4f4-4f18-8cba-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "6201",
+                "rght": "7018",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02208-b920-42e2-bbdf-5c5aacb5b862",
+                "parent_id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "name": "大埤鄉",
+                "lft": "6578",
+                "rght": "6609",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0220a-9af8-402b-9f07-5c5aacb5b862",
+                "parent_id": "53c02208-b920-42e2-bbdf-5c5aacb5b862",
+                "name": "三結村",
+                "lft": "6605",
+                "rght": "6606",
+                "population": "1423",
+                "population_electors": "1207",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546ebd71-e8cc-4ac3-862b-2c67cf91e152",
+                "keywords": "2014-11,村里長,雲林縣,大埤鄉,三結村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

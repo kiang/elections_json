@@ -1,0 +1,167 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d73423-b2a4-463b-888a-1299acb5b862",
+            "parent_id": "53c020ce-ab88-48ca-a729-5c5aacb5b862",
+            "name": "第02選舉區[區域]",
+            "lft": "2185",
+            "rght": "2186",
+            "population": "1630",
+            "population_electors": "1383",
+            "quota": "3",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-6184-42de-ad7f-2adbcf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,嘉義縣,大埔鄉,第02選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b5780-5e14-4cba-8876-1926acb5b862",
+                "image": "54da0eee\/7560\/4305\/9b97\/40586ab936af.jpg",
+                "stage": "1",
+                "name": "劉坤庭",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53d73423-b2a4-463b-888a-1299acb5b862"
+            },
+            {
+                "id": "540b5780-f2fc-4b80-aaa0-1926acb5b862",
+                "image": "54da0f0a\/129c\/4f52\/b0ff\/29b76ab936af.jpg",
+                "stage": "2",
+                "name": "陳癸全",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "CHEN KUEI CHUAN",
+                "election_id": "53d73423-b2a4-463b-888a-1299acb5b862"
+            },
+            {
+                "id": "540b5781-0f64-4eb4-9621-1926acb5b862",
+                "image": "54da0ed6\/c0b4\/4258\/8154\/29b66ab936af.jpg",
+                "stage": "2",
+                "name": "吳宗霖",
+                "party": "無",
+                "gender": "m",
+                "no": "4",
+                "name_english": "Wu Zong Lin",
+                "election_id": "53d73423-b2a4-463b-888a-1299acb5b862"
+            },
+            {
+                "id": "540b5781-841c-48fe-8665-1926acb5b862",
+                "image": "54da0f21\/d960\/4f51\/b126\/29b66ab936af.jpg",
+                "stage": "2",
+                "name": "楊見義",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53d73423-b2a4-463b-888a-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d4d-9a88-4e7a-a564-5460acb5b862",
+                "name": "茄苳村",
+                "is_area": true,
+                "keywords": "2014,嘉義縣,大埔鄉,茄苳村",
+                "AreasElection": {
+                    "id": "53d73423-a420-4b46-9966-1299acb5b862",
+                    "Election_id": "53d73423-b2a4-463b-888a-1299acb5b862",
+                    "Area_id": "53c01d4d-9a88-4e7a-a564-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d4e-7f2c-475e-8225-5460acb5b862",
+                "name": "西興村",
+                "is_area": true,
+                "keywords": "2014,嘉義縣,大埔鄉,西興村",
+                "AreasElection": {
+                    "id": "53d73423-20dc-44c9-97c3-1299acb5b862",
+                    "Election_id": "53d73423-b2a4-463b-888a-1299acb5b862",
+                    "Area_id": "53c01d4e-7f2c-475e-8225-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020c9-7bdc-47e9-9a01-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "嘉義縣",
+                "lft": "2063",
+                "rght": "2196",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ce-ab88-48ca-a729-5c5aacb5b862",
+                "parent_id": "53c020c9-7bdc-47e9-9a01-5c5aacb5b862",
+                "name": "大埔鄉",
+                "lft": "2182",
+                "rght": "2187",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d73423-b2a4-463b-888a-1299acb5b862",
+                "parent_id": "53c020ce-ab88-48ca-a729-5c5aacb5b862",
+                "name": "第02選舉區[區域]",
+                "lft": "2185",
+                "rght": "2186",
+                "population": "1630",
+                "population_electors": "1383",
+                "quota": "3",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-6184-42de-ad7f-2adbcf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,嘉義縣,大埔鄉,第02選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

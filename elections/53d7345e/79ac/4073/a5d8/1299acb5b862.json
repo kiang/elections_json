@@ -1,0 +1,200 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d7345e-79ac-4073-a5d8-1299acb5b862",
+            "parent_id": "53c020d4-acf8-4603-90f7-5c5aacb5b862",
+            "name": "第01選舉區[區域]",
+            "lft": "2351",
+            "rght": "2352",
+            "population": "8682",
+            "population_electors": "6944",
+            "quota": "3",
+            "quota_women": "0",
+            "bulletin_key": "5475673a-15e4-4338-9cd3-0f78cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,屏東縣,新園鄉,第01選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b579d-0aa0-4dc5-a8f7-1926acb5b862",
+                "image": "54d6360b\/0c94\/4228\/87c8\/39996ab936af.jpg",
+                "stage": "1",
+                "name": "鄭明純",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d7345e-79ac-4073-a5d8-1299acb5b862"
+            },
+            {
+                "id": "540b579d-2a70-44e9-a456-1926acb5b862",
+                "image": "54d636c1\/9c8c\/417d\/9391\/3cbe6ab936af.jpg",
+                "stage": "2",
+                "name": "李正忠",
+                "party": "無",
+                "gender": "m",
+                "no": "5",
+                "name_english": "",
+                "election_id": "53d7345e-79ac-4073-a5d8-1299acb5b862"
+            },
+            {
+                "id": "540b579d-4694-45d4-9212-1926acb5b862",
+                "image": "54d63634\/25f8\/4e2f\/9373\/39906ab936af.jpg",
+                "stage": "1",
+                "name": "黃金樹",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53d7345e-79ac-4073-a5d8-1299acb5b862"
+            },
+            {
+                "id": "540b579d-c350-4e20-8545-1926acb5b862",
+                "image": "54d63672\/4094\/461e\/b0d2\/39996ab936af.jpg",
+                "stage": "2",
+                "name": "蔡東清",
+                "party": "無",
+                "gender": "m",
+                "no": "4",
+                "name_english": "",
+                "election_id": "53d7345e-79ac-4073-a5d8-1299acb5b862"
+            },
+            {
+                "id": "540b579d-c560-4375-be4f-1926acb5b862",
+                "image": "54d635fb\/3084\/4bd2\/863c\/39936ab936af.jpg",
+                "stage": "2",
+                "name": "林太平",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53d7345e-79ac-4073-a5d8-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d7f-3b98-4350-9ca9-5460acb5b862",
+                "name": "仙吉村",
+                "is_area": true,
+                "keywords": "2014,屏東縣,新園鄉,仙吉村",
+                "AreasElection": {
+                    "id": "53d7345f-6aac-4eb9-be68-1299acb5b862",
+                    "Election_id": "53d7345e-79ac-4073-a5d8-1299acb5b862",
+                    "Area_id": "53c01d7f-3b98-4350-9ca9-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d7f-47c4-4f1d-9197-5460acb5b862",
+                "name": "港墘村",
+                "is_area": true,
+                "keywords": "2014,屏東縣,新園鄉,港墘村",
+                "AreasElection": {
+                    "id": "53d7345f-0130-446b-bd9d-1299acb5b862",
+                    "Election_id": "53d7345e-79ac-4073-a5d8-1299acb5b862",
+                    "Area_id": "53c01d7f-47c4-4f1d-9197-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d7f-9f70-46c0-ac2e-5460acb5b862",
+                "name": "田洋村",
+                "is_area": true,
+                "keywords": "2014,屏東縣,新園鄉,田洋村",
+                "AreasElection": {
+                    "id": "53d7345f-bf90-484a-9c96-1299acb5b862",
+                    "Election_id": "53d7345e-79ac-4073-a5d8-1299acb5b862",
+                    "Area_id": "53c01d7f-9f70-46c0-ac2e-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d7f-d8e8-43de-ad8f-5460acb5b862",
+                "name": "瓦磘村",
+                "is_area": true,
+                "keywords": "2014,屏東縣,新園鄉,瓦磘村",
+                "AreasElection": {
+                    "id": "53d7345f-85a0-46bb-b47f-1299acb5b862",
+                    "Election_id": "53d7345e-79ac-4073-a5d8-1299acb5b862",
+                    "Area_id": "53c01d7f-d8e8-43de-ad8f-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ce-0798-4ae9-af49-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "2197",
+                "rght": "2484",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020d4-acf8-4603-90f7-5c5aacb5b862",
+                "parent_id": "53c020ce-0798-4ae9-af49-5c5aacb5b862",
+                "name": "新園鄉",
+                "lft": "2350",
+                "rght": "2359",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d7345e-79ac-4073-a5d8-1299acb5b862",
+                "parent_id": "53c020d4-acf8-4603-90f7-5c5aacb5b862",
+                "name": "第01選舉區[區域]",
+                "lft": "2351",
+                "rght": "2352",
+                "population": "8682",
+                "population_electors": "6944",
+                "quota": "3",
+                "quota_women": "0",
+                "bulletin_key": "5475673a-15e4-4338-9cd3-0f78cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,屏東縣,新園鄉,第01選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

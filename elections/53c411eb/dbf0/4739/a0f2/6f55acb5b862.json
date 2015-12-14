@@ -1,0 +1,141 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c411eb-dbf0-4739-a0f2-6f55acb5b862",
+            "parent_id": "53c02084-62a4-4027-a661-5c5aacb5b862",
+            "name": "第13選區[山地]",
+            "lft": "522",
+            "rght": "523",
+            "population": "125979",
+            "population_electors": "98664",
+            "quota": "1",
+            "quota_women": "1",
+            "bulletin_key": "546f277f-6318-40fa-86f8-2f28cf91e152",
+            "keywords": "2014-11,縣市議員,臺東縣,第13選區[山地]"
+        },
+        "Candidate": [
+            {
+                "id": "540b56c6-d92c-473a-bf49-1926acb5b862",
+                "image": "549973e7\/9608\/483b\/a73e\/4c516ab936af.jpg",
+                "stage": "2",
+                "name": "章正輝 Lemaljiz．Kusaza",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c411eb-dbf0-4739-a0f2-6f55acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d95-57a0-4235-a698-5460acb5b862",
+                "name": "臺東市",
+                "is_area": true,
+                "keywords": "2014,臺東縣,臺東市",
+                "AreasElection": {
+                    "id": "53c64290-1580-489f-8fae-72eeacb5b862",
+                    "Election_id": "53c411eb-dbf0-4739-a0f2-6f55acb5b862",
+                    "Area_id": "53c01d95-57a0-4235-a698-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01da4-4b38-4f4f-9dce-5460acb5b862",
+                "name": "太麻里鄉",
+                "is_area": true,
+                "keywords": "2014,臺東縣,太麻里鄉",
+                "AreasElection": {
+                    "id": "53c64290-7490-4c1a-ad97-72eeacb5b862",
+                    "Election_id": "53c411eb-dbf0-4739-a0f2-6f55acb5b862",
+                    "Area_id": "53c01da4-4b38-4f4f-9dce-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01da6-8bc4-4fa9-9e72-5460acb5b862",
+                "name": "綠島鄉",
+                "is_area": true,
+                "keywords": "2014,臺東縣,綠島鄉",
+                "AreasElection": {
+                    "id": "53c64290-a928-4bce-8f80-72eeacb5b862",
+                    "Election_id": "53c411eb-dbf0-4739-a0f2-6f55acb5b862",
+                    "Area_id": "53c01da6-8bc4-4fa9-9e72-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01da8-5374-42e1-b747-5460acb5b862",
+                "name": "金峰鄉",
+                "is_area": true,
+                "keywords": "2014,臺東縣,金峰鄉",
+                "AreasElection": {
+                    "id": "53c64290-bfb4-4e5d-9318-72eeacb5b862",
+                    "Election_id": "53c411eb-dbf0-4739-a0f2-6f55acb5b862",
+                    "Area_id": "53c01da8-5374-42e1-b747-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "縣市議員",
+                "lft": "306",
+                "rght": "607",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02084-62a4-4027-a661-5c5aacb5b862",
+                "parent_id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "name": "臺東縣",
+                "lft": "501",
+                "rght": "532",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c411eb-dbf0-4739-a0f2-6f55acb5b862",
+                "parent_id": "53c02084-62a4-4027-a661-5c5aacb5b862",
+                "name": "第13選區[山地]",
+                "lft": "522",
+                "rght": "523",
+                "population": "125979",
+                "population_electors": "98664",
+                "quota": "1",
+                "quota_women": "1",
+                "bulletin_key": "546f277f-6318-40fa-86f8-2f28cf91e152",
+                "keywords": "2014-11,縣市議員,臺東縣,第13選區[山地]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

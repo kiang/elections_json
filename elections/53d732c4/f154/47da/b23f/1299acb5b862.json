@@ -1,0 +1,189 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d732c4-f154-47da-b23f-1299acb5b862",
+            "parent_id": "53c020b5-c1d4-4225-ba15-5c5aacb5b862",
+            "name": "第02選舉區[區域]",
+            "lft": "1275",
+            "rght": "1276",
+            "population": "4230",
+            "population_electors": "3381",
+            "quota": "3",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-a568-4fd6-b1f2-1a32cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,新竹縣,橫山鄉,第02選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b56e5-8210-4241-8c34-1926acb5b862",
+                "image": "54c49200\/cb30\/4744\/a8e7\/4d8f6ab936af.jpg",
+                "stage": "1",
+                "name": "莊莊秀",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "5",
+                "name_english": "",
+                "election_id": "53d732c4-f154-47da-b23f-1299acb5b862"
+            },
+            {
+                "id": "540b56e6-00b0-4afe-be29-1926acb5b862",
+                "image": "54c49690\/931c\/4272\/8035\/4e326ab936af.jpg",
+                "stage": "2",
+                "name": "陳文亮",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53d732c4-f154-47da-b23f-1299acb5b862"
+            },
+            {
+                "id": "540b56e6-48a4-4ea3-89e0-1926acb5b862",
+                "image": "54c496d0\/229c\/46e1\/ade0\/4e276ab936af.jpg",
+                "stage": "2",
+                "name": "羅朝洋",
+                "party": "無",
+                "gender": "m",
+                "no": "4",
+                "name_english": "LO CHAOYANG",
+                "election_id": "53d732c4-f154-47da-b23f-1299acb5b862"
+            },
+            {
+                "id": "540b56e6-8648-40d3-b597-1926acb5b862",
+                "image": "54c491c3\/4aa4\/4a4b\/a605\/4d866ab936af.jpg",
+                "stage": "1",
+                "name": "羅世達",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d732c4-f154-47da-b23f-1299acb5b862"
+            },
+            {
+                "id": "540b56e6-cc8c-46ef-afd2-1926acb5b862",
+                "image": "54c496aa\/fd14\/4600\/adfc\/4e526ab936af.jpg",
+                "stage": "2",
+                "name": "甘必沐",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53d732c4-f154-47da-b23f-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c4c-6bec-46c4-8f3d-5460acb5b862",
+                "name": "豐田村",
+                "is_area": true,
+                "keywords": "2014,新竹縣,橫山鄉,豐田村",
+                "AreasElection": {
+                    "id": "53d732c5-7260-4f76-99e7-1299acb5b862",
+                    "Election_id": "53d732c4-f154-47da-b23f-1299acb5b862",
+                    "Area_id": "53c01c4c-6bec-46c4-8f3d-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c4d-8928-4253-9c3b-5460acb5b862",
+                "name": "新興村",
+                "is_area": true,
+                "keywords": "2014,新竹縣,橫山鄉,新興村",
+                "AreasElection": {
+                    "id": "53d732c5-512c-48d2-b157-1299acb5b862",
+                    "Election_id": "53d732c4-f154-47da-b23f-1299acb5b862",
+                    "Area_id": "53c01c4d-8928-4253-9c3b-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c4d-8bd4-4da3-904c-5460acb5b862",
+                "name": "大肚村",
+                "is_area": true,
+                "keywords": "2014,新竹縣,橫山鄉,大肚村",
+                "AreasElection": {
+                    "id": "53d732c5-a420-4e01-8bd0-1299acb5b862",
+                    "Election_id": "53d732c4-f154-47da-b23f-1299acb5b862",
+                    "Area_id": "53c01c4d-8bd4-4da3-904c-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b3-e33c-4fee-aa9e-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "新竹縣",
+                "lft": "1201",
+                "rght": "1322",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b5-c1d4-4225-ba15-5c5aacb5b862",
+                "parent_id": "53c020b3-e33c-4fee-aa9e-5c5aacb5b862",
+                "name": "橫山鄉",
+                "lft": "1272",
+                "rght": "1281",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d732c4-f154-47da-b23f-1299acb5b862",
+                "parent_id": "53c020b5-c1d4-4225-ba15-5c5aacb5b862",
+                "name": "第02選舉區[區域]",
+                "lft": "1275",
+                "rght": "1276",
+                "population": "4230",
+                "population_electors": "3381",
+                "quota": "3",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-a568-4fd6-b1f2-1a32cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,新竹縣,橫山鄉,第02選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

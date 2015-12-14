@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c025f9-9dc8-476f-a8bb-5c5aacb5b862",
+            "parent_id": "53c025f3-b780-4720-83f8-5c5aacb5b862",
+            "name": "東橋里",
+            "lft": "18785",
+            "rght": "18786",
+            "population": "5524",
+            "population_electors": "4089",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "keywords": "2014-11,村里長,臺南市,永康區,東橋里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02744-8804-4f17-b1b8-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "陳振安",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c025f9-9dc8-476f-a8bb-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c0200b-deac-4389-9f17-5460acb5b862",
+                "name": "東橋里",
+                "is_area": true,
+                "keywords": "2014,臺南市,永康區,東橋里",
+                "AreasElection": {
+                    "id": "53c025f9-0184-4cf7-ba6a-5c5aacb5b862",
+                    "Election_id": "53c025f9-9dc8-476f-a8bb-5c5aacb5b862",
+                    "Area_id": "53c0200b-deac-4389-9f17-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02598-fc40-4dee-aec0-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺南市",
+                "lft": "17695",
+                "rght": "19274",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c025f3-b780-4720-83f8-5c5aacb5b862",
+                "parent_id": "53c02598-fc40-4dee-aec0-5c5aacb5b862",
+                "name": "永康區",
+                "lft": "18720",
+                "rght": "18799",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c025f9-9dc8-476f-a8bb-5c5aacb5b862",
+                "parent_id": "53c025f3-b780-4720-83f8-5c5aacb5b862",
+                "name": "東橋里",
+                "lft": "18785",
+                "rght": "18786",
+                "population": "5524",
+                "population_electors": "4089",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2014-11,村里長,臺南市,永康區,東橋里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

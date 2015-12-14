@@ -1,0 +1,178 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d73380-82fc-47e2-859c-1299acb5b862",
+            "parent_id": "53c020c4-3dd0-41ba-840f-5c5aacb5b862",
+            "name": "第03選舉區[區域]",
+            "lft": "1811",
+            "rght": "1812",
+            "population": "2361",
+            "population_electors": "2007",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "54735d56-9b40-4dae-b24a-21eacf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,南投縣,中寮鄉,第03選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b5741-3f98-4f18-9041-1926acb5b862",
+                "image": "54a2b3ab\/6e98\/4670\/8b52\/7ccd6ab936af.jpg",
+                "stage": "2",
+                "name": "廖學聰",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d73380-82fc-47e2-859c-1299acb5b862"
+            },
+            {
+                "id": "540b5741-a914-41ba-abd0-1926acb5b862",
+                "image": "54a2b35b\/cec0\/4245\/ac7c\/7cc86ab936af.jpg",
+                "stage": "1",
+                "name": "林玉成",
+                "party": "無",
+                "gender": "m",
+                "no": "4",
+                "name_english": "",
+                "election_id": "53d73380-82fc-47e2-859c-1299acb5b862"
+            },
+            {
+                "id": "540b5741-c128-4046-be5c-1926acb5b862",
+                "image": "54a2b38c\/8d40\/4eee\/8a42\/7cb46ab936af.jpg",
+                "stage": "2",
+                "name": "蘇如輝",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53d73380-82fc-47e2-859c-1299acb5b862"
+            },
+            {
+                "id": "540b5741-c4b4-4986-90a4-1926acb5b862",
+                "image": "54a2b373\/94c4\/492e\/8b18\/7c9b6ab936af.jpg",
+                "stage": "1",
+                "name": "詹三宜",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53d73380-82fc-47e2-859c-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01cdd-25e0-4e5b-a29f-5460acb5b862",
+                "name": "龍安村",
+                "is_area": true,
+                "keywords": "2014,南投縣,中寮鄉,龍安村",
+                "AreasElection": {
+                    "id": "53d73382-2ec8-48d3-a02b-1299acb5b862",
+                    "Election_id": "53d73380-82fc-47e2-859c-1299acb5b862",
+                    "Area_id": "53c01cdd-25e0-4e5b-a29f-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cdd-72dc-408d-ab44-5460acb5b862",
+                "name": "清水村",
+                "is_area": true,
+                "keywords": "2014,南投縣,中寮鄉,清水村",
+                "AreasElection": {
+                    "id": "53d73381-c510-41ef-9966-1299acb5b862",
+                    "Election_id": "53d73380-82fc-47e2-859c-1299acb5b862",
+                    "Area_id": "53c01cdd-72dc-408d-ab44-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cde-3cc0-49d6-8b43-5460acb5b862",
+                "name": "內城村",
+                "is_area": true,
+                "keywords": "2014,南投縣,中寮鄉,內城村",
+                "AreasElection": {
+                    "id": "53d73381-99f4-4f16-a5ac-1299acb5b862",
+                    "Election_id": "53d73380-82fc-47e2-859c-1299acb5b862",
+                    "Area_id": "53c01cde-3cc0-49d6-8b43-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020c2-2488-4d59-a20d-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "南投縣",
+                "lft": "1739",
+                "rght": "1864",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020c4-3dd0-41ba-840f-5c5aacb5b862",
+                "parent_id": "53c020c2-2488-4d59-a20d-5c5aacb5b862",
+                "name": "中寮鄉",
+                "lft": "1806",
+                "rght": "1815",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d73380-82fc-47e2-859c-1299acb5b862",
+                "parent_id": "53c020c4-3dd0-41ba-840f-5c5aacb5b862",
+                "name": "第03選舉區[區域]",
+                "lft": "1811",
+                "rght": "1812",
+                "population": "2361",
+                "population_electors": "2007",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "54735d56-9b40-4dae-b24a-21eacf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,南投縣,中寮鄉,第03選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

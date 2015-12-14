@@ -1,0 +1,200 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d732a8-0178-4c60-99f0-1299acb5b862",
+            "parent_id": "53c020b3-1dfc-4d30-a614-5c5aacb5b862",
+            "name": "第01選舉區[區域]",
+            "lft": "1191",
+            "rght": "1192",
+            "population": "2174",
+            "population_electors": "1602",
+            "quota": "3",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-fe2c-4fd1-b0f9-2adbcf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,宜蘭縣,南澳鄉,第01選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "5406a5f6-49b4-48e2-ab44-15b8acb5b862",
+                "image": "54b148d2\/d854\/448e\/9770\/62466ab936af.jpg",
+                "stage": "2",
+                "name": "葉振福",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d732a8-0178-4c60-99f0-1299acb5b862"
+            },
+            {
+                "id": "540b57c7-36a8-49e6-85f0-1926acb5b862",
+                "image": "54b14964\/a6d8\/461d\/b6cf\/625e6ab936af.jpg",
+                "stage": "2",
+                "name": "江添盛",
+                "party": "無",
+                "gender": "m",
+                "no": "4",
+                "name_english": "",
+                "election_id": "53d732a8-0178-4c60-99f0-1299acb5b862"
+            },
+            {
+                "id": "540b57c7-8d28-4892-8e74-1926acb5b862",
+                "image": "54b14932\/2760\/4caf\/89d5\/627c6ab936af.jpg",
+                "stage": "2",
+                "name": "李元亮",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53d732a8-0178-4c60-99f0-1299acb5b862"
+            },
+            {
+                "id": "540b57c7-c348-431a-a746-1926acb5b862",
+                "image": "54b149ff\/c8ac\/4b7c\/a6ce\/629a6ab936af.jpg",
+                "stage": "1",
+                "name": "高裕仁",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "7",
+                "name_english": "",
+                "election_id": "53d732a8-0178-4c60-99f0-1299acb5b862"
+            },
+            {
+                "id": "540b57c7-f704-4b56-8357-1926acb5b862",
+                "image": "54b1499f\/4dd4\/44a9\/8217\/628a6ab936af.jpg",
+                "stage": "1",
+                "name": "林秋花",
+                "party": "無",
+                "gender": "f",
+                "no": "5",
+                "name_english": "",
+                "election_id": "53d732a8-0178-4c60-99f0-1299acb5b862"
+            },
+            {
+                "id": "540b57c8-6cf4-4996-80b5-1926acb5b862",
+                "image": "54b148fb\/de9c\/42e3\/a532\/62606ab936af.jpg",
+                "stage": "1",
+                "name": "吳玉龍",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53d732a8-0178-4c60-99f0-1299acb5b862"
+            },
+            {
+                "id": "540b57c8-c778-4831-a2fa-1926acb5b862",
+                "image": "54b149d4\/a87c\/4e56\/b1e3\/62a66ab936af.jpg",
+                "stage": "1",
+                "name": "王碧雲",
+                "party": "無",
+                "gender": "f",
+                "no": "6",
+                "name_english": "",
+                "election_id": "53d732a8-0178-4c60-99f0-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01bf6-7fdc-40c4-a1a4-5460acb5b862",
+                "name": "東岳村",
+                "is_area": true,
+                "keywords": "2014,宜蘭縣,南澳鄉,東岳村",
+                "AreasElection": {
+                    "id": "53d732a9-6a8c-469d-b658-1299acb5b862",
+                    "Election_id": "53d732a8-0178-4c60-99f0-1299acb5b862",
+                    "Area_id": "53c01bf6-7fdc-40c4-a1a4-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01bf6-a5ec-4514-aecd-5460acb5b862",
+                "name": "南澳村",
+                "is_area": true,
+                "keywords": "2014,宜蘭縣,南澳鄉,南澳村",
+                "AreasElection": {
+                    "id": "53d732a9-4e80-40ed-b31f-1299acb5b862",
+                    "Election_id": "53d732a8-0178-4c60-99f0-1299acb5b862",
+                    "Area_id": "53c01bf6-a5ec-4514-aecd-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b1-2260-44dc-a0bc-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "宜蘭縣",
+                "lft": "1077",
+                "rght": "1200",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b3-1dfc-4d30-a614-5c5aacb5b862",
+                "parent_id": "53c020b1-2260-44dc-a0bc-5c5aacb5b862",
+                "name": "南澳鄉",
+                "lft": "1190",
+                "rght": "1199",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d732a8-0178-4c60-99f0-1299acb5b862",
+                "parent_id": "53c020b3-1dfc-4d30-a614-5c5aacb5b862",
+                "name": "第01選舉區[區域]",
+                "lft": "1191",
+                "rght": "1192",
+                "population": "2174",
+                "population_electors": "1602",
+                "quota": "3",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-fe2c-4fd1-b0f9-2adbcf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,宜蘭縣,南澳鄉,第01選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

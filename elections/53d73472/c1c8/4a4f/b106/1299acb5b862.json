@@ -1,0 +1,167 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d73472-c1c8-4a4f-b106-1299acb5b862",
+            "parent_id": "53c020d7-b574-4feb-93c2-5c5aacb5b862",
+            "name": "第01選舉區[區域]",
+            "lft": "2419",
+            "rght": "2420",
+            "population": "2861",
+            "population_electors": "2406",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "5475673a-0f0c-4079-9945-0f78cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,屏東縣,滿州鄉,第01選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b57a8-e700-4663-b1a7-1926acb5b862",
+                "image": "54cb7385\/d0b4\/4de9\/ae1f\/43b76ab936af.jpg",
+                "stage": "2",
+                "name": "古步青",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d73472-c1c8-4a4f-b106-1299acb5b862"
+            },
+            {
+                "id": "540b57a9-5f44-48ab-988a-1926acb5b862",
+                "image": "54cb73a5\/7120\/4513\/96e0\/43aa6ab936af.jpg",
+                "stage": "2",
+                "name": "陳榮華",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53d73472-c1c8-4a4f-b106-1299acb5b862"
+            },
+            {
+                "id": "540b57a9-64e0-4c77-ba10-1926acb5b862",
+                "image": "54cb736a\/f8cc\/419c\/a2fa\/43c06ab936af.jpg",
+                "stage": "1",
+                "name": "陳金塗",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53d73472-c1c8-4a4f-b106-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d8a-64c4-4235-a2a3-5460acb5b862",
+                "name": "响林村",
+                "is_area": true,
+                "keywords": "2014,屏東縣,滿州鄉,响林村",
+                "AreasElection": {
+                    "id": "53d73473-d9ec-4f8d-b4b6-1299acb5b862",
+                    "Election_id": "53d73472-c1c8-4a4f-b106-1299acb5b862",
+                    "Area_id": "53c01d8a-64c4-4235-a2a3-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d8a-6864-467b-a2c5-5460acb5b862",
+                "name": "滿州村",
+                "is_area": true,
+                "keywords": "2014,屏東縣,滿州鄉,滿州村",
+                "AreasElection": {
+                    "id": "53d73472-34e4-4bff-ad22-1299acb5b862",
+                    "Election_id": "53d73472-c1c8-4a4f-b106-1299acb5b862",
+                    "Area_id": "53c01d8a-6864-467b-a2c5-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d8a-acb4-412a-866c-5460acb5b862",
+                "name": "里德村",
+                "is_area": true,
+                "keywords": "2014,屏東縣,滿州鄉,里德村",
+                "AreasElection": {
+                    "id": "53d73472-8b38-472f-a57c-1299acb5b862",
+                    "Election_id": "53d73472-c1c8-4a4f-b106-1299acb5b862",
+                    "Area_id": "53c01d8a-acb4-412a-866c-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ce-0798-4ae9-af49-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "2197",
+                "rght": "2484",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020d7-b574-4feb-93c2-5c5aacb5b862",
+                "parent_id": "53c020ce-0798-4ae9-af49-5c5aacb5b862",
+                "name": "滿州鄉",
+                "lft": "2418",
+                "rght": "2427",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d73472-c1c8-4a4f-b106-1299acb5b862",
+                "parent_id": "53c020d7-b574-4feb-93c2-5c5aacb5b862",
+                "name": "第01選舉區[區域]",
+                "lft": "2419",
+                "rght": "2420",
+                "population": "2861",
+                "population_electors": "2406",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "5475673a-0f0c-4079-9945-0f78cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,屏東縣,滿州鄉,第01選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

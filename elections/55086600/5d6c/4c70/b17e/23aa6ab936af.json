@@ -1,0 +1,185 @@
+{
+    "election": {
+        "Election": {
+            "id": "55086600-5d6c-4c70-b17e-23aa6ab936af",
+            "parent_id": "550862b6-ce18-47f6-b895-23aa6ab936af",
+            "name": "第04選區[區域]",
+            "lft": "40652",
+            "rght": "40653",
+            "population": "0",
+            "population_electors": "0",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "keywords": "2016-01,立法委員,臺南市,第04選區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "550c640c-8938-45fe-bd75-025cacb5b862",
+                "image": "",
+                "stage": "1",
+                "name": "傅建峰",
+                "party": "中華統一促進黨",
+                "gender": "m",
+                "no": null,
+                "name_english": "",
+                "election_id": "55086600-5d6c-4c70-b17e-23aa6ab936af"
+            },
+            {
+                "id": "550ce6a9-cd68-4c1e-9ee2-126d6ab936af",
+                "image": "55c601b5\/d7a8\/4db6\/b88c\/6e0c6ab936af.jpg",
+                "stage": "1",
+                "name": "林俊憲",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": null,
+                "name_english": "",
+                "election_id": "55086600-5d6c-4c70-b17e-23aa6ab936af"
+            },
+            {
+                "id": "550ce6bf-4d0c-4a22-8658-0af26ab936af",
+                "image": "56587188\/95f8\/4b2b\/a761\/0ed66ab936af.jpg",
+                "stage": "1",
+                "name": "蔡郁芝",
+                "party": "時代力量黨",
+                "gender": "m",
+                "no": null,
+                "name_english": "",
+                "election_id": "55086600-5d6c-4c70-b17e-23aa6ab936af"
+            },
+            {
+                "id": "550ce6d9-12f0-467a-a5c6-0af26ab936af",
+                "image": "565871bf\/4150\/4b4e\/8505\/197f6ab936af.jpg",
+                "stage": "1",
+                "name": "陳皇州",
+                "party": "大愛憲改聯盟",
+                "gender": "m",
+                "no": null,
+                "name_english": "",
+                "election_id": "55086600-5d6c-4c70-b17e-23aa6ab936af"
+            },
+            {
+                "id": "5575a3c7-cec8-4705-8f05-2d2b6ab936af",
+                "image": "55c601e2\/8de4\/443b\/bf89\/42c46ab936af.jpg",
+                "stage": "1",
+                "name": "楊智達",
+                "party": "綠黨社會民主黨聯盟",
+                "gender": "m",
+                "no": null,
+                "name_english": "Zda",
+                "election_id": "55086600-5d6c-4c70-b17e-23aa6ab936af"
+            },
+            {
+                "id": "55c60169-51a4-4e12-85ac-6e0c6ab936af",
+                "image": "55c60169\/d2e0\/4e5c\/ba16\/6e0c6ab936af.jpg",
+                "stage": "1",
+                "name": "陳淑慧",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": null,
+                "name_english": "",
+                "election_id": "55086600-5d6c-4c70-b17e-23aa6ab936af"
+            }
+        ],
+        "Area": [
+            {
+                "id": "55085ad7-4510-49f8-8a37-3584acb5b862",
+                "name": "東區",
+                "is_area": true,
+                "keywords": "2016,臺南市,東區",
+                "AreasElection": {
+                    "id": "550a3f17-29c8-434b-ad53-47cb6ab936af",
+                    "Election_id": "55086600-5d6c-4c70-b17e-23aa6ab936af",
+                    "Area_id": "55085ad7-4510-49f8-8a37-3584acb5b862"
+                }
+            },
+            {
+                "id": "55085ada-2eb8-427f-ba2a-3584acb5b862",
+                "name": "南區",
+                "is_area": true,
+                "keywords": "2016,臺南市,南區",
+                "AreasElection": {
+                    "id": "550a3f11-f474-42f4-b73c-494a6ab936af",
+                    "Election_id": "55086600-5d6c-4c70-b17e-23aa6ab936af",
+                    "Area_id": "55085ada-2eb8-427f-ba2a-3584acb5b862"
+                }
+            },
+            {
+                "id": "55085ae2-f378-4d91-8385-3584acb5b862",
+                "name": "安平區",
+                "is_area": true,
+                "keywords": "2016,臺南市,安平區",
+                "AreasElection": {
+                    "id": "550a3f0b-3ea8-48e2-8761-47cb6ab936af",
+                    "Election_id": "55086600-5d6c-4c70-b17e-23aa6ab936af",
+                    "Area_id": "55085ae2-f378-4d91-8385-3584acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "55085db5-2e9c-4cde-8103-23d86ab936af",
+                "parent_id": null,
+                "name": "2016-01",
+                "lft": "40579",
+                "rght": "40780",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "55085e1a-c494-40e0-ba31-2f916ab936af",
+                "parent_id": "55085db5-2e9c-4cde-8103-23d86ab936af",
+                "name": "立法委員",
+                "lft": "40582",
+                "rght": "40779",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "550862b6-ce18-47f6-b895-23aa6ab936af",
+                "parent_id": "55085e1a-c494-40e0-ba31-2f916ab936af",
+                "name": "臺南市",
+                "lft": "40645",
+                "rght": "40656",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "55086600-5d6c-4c70-b17e-23aa6ab936af",
+                "parent_id": "550862b6-ce18-47f6-b895-23aa6ab936af",
+                "name": "第04選區[區域]",
+                "lft": "40652",
+                "rght": "40653",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2016-01,立法委員,臺南市,第04選區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

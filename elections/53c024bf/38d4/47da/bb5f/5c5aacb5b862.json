@@ -1,0 +1,145 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c024bf-38d4-47da-bb5f-5c5aacb5b862",
+            "parent_id": "53c024bc-13d0-4b51-8a12-5c5aacb5b862",
+            "name": "大鵬里",
+            "lft": "15269",
+            "rght": "15270",
+            "population": "2711",
+            "population_electors": "2349",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068c-f448-49dc-986a-1a32cf91e152",
+            "keywords": "2014-11,村里長,新北市,新店區,大鵬里"
+        },
+        "Candidate": [
+            {
+                "id": "53c026be-6e3c-4a49-b3db-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "趙素萍",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c024bf-38d4-47da-bb5f-5c5aacb5b862"
+            },
+            {
+                "id": "540b5347-7810-4169-999c-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "喬廷彥",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "CHYAU TING YAN",
+                "election_id": "53c024bf-38d4-47da-bb5f-5c5aacb5b862"
+            },
+            {
+                "id": "540b5348-714c-457a-948f-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "郭春月",
+                "party": "無",
+                "gender": "f",
+                "no": "2",
+                "name_english": "KUO CHUN YUEH",
+                "election_id": "53c024bf-38d4-47da-bb5f-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01f17-b244-4f20-a9c1-5460acb5b862",
+                "name": "大鵬里",
+                "is_area": true,
+                "keywords": "2014,新北市,新店區,大鵬里",
+                "AreasElection": {
+                    "id": "53c024bf-0758-4261-b63d-5c5aacb5b862",
+                    "Election_id": "53c024bf-38d4-47da-bb5f-5c5aacb5b862",
+                    "Area_id": "53c01f17-b244-4f20-a9c1-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新北市",
+                "lft": "14261",
+                "rght": "16384",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c024bc-13d0-4b51-8a12-5c5aacb5b862",
+                "parent_id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "name": "新店區",
+                "lft": "15240",
+                "rght": "15379",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c024bf-38d4-47da-bb5f-5c5aacb5b862",
+                "parent_id": "53c024bc-13d0-4b51-8a12-5c5aacb5b862",
+                "name": "大鵬里",
+                "lft": "15269",
+                "rght": "15270",
+                "population": "2711",
+                "population_electors": "2349",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068c-f448-49dc-986a-1a32cf91e152",
+                "keywords": "2014-11,村里長,新北市,新店區,大鵬里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

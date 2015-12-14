@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02301-d244-43b2-8f23-5c5aacb5b862",
+            "parent_id": "53c02300-3c78-4bb6-ab3f-5c5aacb5b862",
+            "name": "六堵里",
+            "lft": "9753",
+            "rght": "9754",
+            "population": "2594",
+            "population_electors": "2096",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546cd3af-dc74-4c14-adc1-78ebcf91e152",
+            "keywords": "2014-11,村里長,基隆市,七堵區,六堵里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02883-43fc-40ff-81f3-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "廖國勳",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02301-d244-43b2-8f23-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01dd4-0758-450f-82e9-5460acb5b862",
+                "name": "六堵里",
+                "is_area": true,
+                "keywords": "2014,基隆市,七堵區,六堵里",
+                "AreasElection": {
+                    "id": "53c02301-bab4-45cb-a2e3-5c5aacb5b862",
+                    "Election_id": "53c02301-d244-43b2-8f23-5c5aacb5b862",
+                    "Area_id": "53c01dd4-0758-450f-82e9-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "基隆市",
+                "lft": "9683",
+                "rght": "10012",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02300-3c78-4bb6-ab3f-5c5aacb5b862",
+                "parent_id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "name": "七堵區",
+                "lft": "9738",
+                "rght": "9779",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02301-d244-43b2-8f23-5c5aacb5b862",
+                "parent_id": "53c02300-3c78-4bb6-ab3f-5c5aacb5b862",
+                "name": "六堵里",
+                "lft": "9753",
+                "rght": "9754",
+                "population": "2594",
+                "population_electors": "2096",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546cd3af-dc74-4c14-adc1-78ebcf91e152",
+                "keywords": "2014-11,村里長,基隆市,七堵區,六堵里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

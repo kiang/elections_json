@@ -1,0 +1,200 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d73298-1624-4a9c-8216-1299acb5b862",
+            "parent_id": "53c020b2-4238-4a0f-b754-5c5aacb5b862",
+            "name": "第03選舉區[區域]",
+            "lft": "1143",
+            "rght": "1144",
+            "population": "9224",
+            "population_electors": "7588",
+            "quota": "3",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-b48c-44ad-90aa-2adbcf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,宜蘭縣,員山鄉,第03選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b57bf-3450-4bf6-af18-1926acb5b862",
+                "image": "54b12c3e\/cc30\/426d\/8585\/5cd06ab936af.jpg",
+                "stage": "1",
+                "name": "曾再忠",
+                "party": "無",
+                "gender": "m",
+                "no": "4",
+                "name_english": "",
+                "election_id": "53d73298-1624-4a9c-8216-1299acb5b862"
+            },
+            {
+                "id": "540b57bf-6f68-4fe1-a378-1926acb5b862",
+                "image": "54b12c66\/8074\/4158\/a265\/5cb46ab936af.jpg",
+                "stage": "2",
+                "name": "陳蒼穎",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "5",
+                "name_english": "",
+                "election_id": "53d73298-1624-4a9c-8216-1299acb5b862"
+            },
+            {
+                "id": "540b57bf-76d8-41ab-9b9b-1926acb5b862",
+                "image": "54b12bf6\/92b8\/40cd\/9220\/5cea6ab936af.jpg",
+                "stage": "2",
+                "name": "許芳明",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53d73298-1624-4a9c-8216-1299acb5b862"
+            },
+            {
+                "id": "540b57bf-c694-41a8-ae73-1926acb5b862",
+                "image": "54b12b36\/57f0\/4034\/b555\/5cb46ab936af.jpg",
+                "stage": "2",
+                "name": "李文熙",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53d73298-1624-4a9c-8216-1299acb5b862"
+            },
+            {
+                "id": "540b57bf-f8d4-4156-850b-1926acb5b862",
+                "image": "54b12ae5\/8c28\/41a6\/a28c\/5cac6ab936af.jpg",
+                "stage": "1",
+                "name": "李正銘",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d73298-1624-4a9c-8216-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01beb-02c8-4f10-b6f2-5460acb5b862",
+                "name": "永和村",
+                "is_area": true,
+                "keywords": "2014,宜蘭縣,員山鄉,永和村",
+                "AreasElection": {
+                    "id": "53d73299-93d8-46ae-a89f-1299acb5b862",
+                    "Election_id": "53d73298-1624-4a9c-8216-1299acb5b862",
+                    "Area_id": "53c01beb-02c8-4f10-b6f2-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01beb-0830-4718-b9de-5460acb5b862",
+                "name": "同樂村",
+                "is_area": true,
+                "keywords": "2014,宜蘭縣,員山鄉,同樂村",
+                "AreasElection": {
+                    "id": "53d73299-aa5c-44bc-b2b6-1299acb5b862",
+                    "Election_id": "53d73298-1624-4a9c-8216-1299acb5b862",
+                    "Area_id": "53c01beb-0830-4718-b9de-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01beb-1198-48ee-a338-5460acb5b862",
+                "name": "枕山村",
+                "is_area": true,
+                "keywords": "2014,宜蘭縣,員山鄉,枕山村",
+                "AreasElection": {
+                    "id": "53d73299-437c-49bc-a28f-1299acb5b862",
+                    "Election_id": "53d73298-1624-4a9c-8216-1299acb5b862",
+                    "Area_id": "53c01beb-1198-48ee-a338-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01beb-ff40-4907-bb03-5460acb5b862",
+                "name": "頭分村",
+                "is_area": true,
+                "keywords": "2014,宜蘭縣,員山鄉,頭分村",
+                "AreasElection": {
+                    "id": "53d73299-fbc0-4d23-ae37-1299acb5b862",
+                    "Election_id": "53d73298-1624-4a9c-8216-1299acb5b862",
+                    "Area_id": "53c01beb-ff40-4907-bb03-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b1-2260-44dc-a0bc-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "宜蘭縣",
+                "lft": "1077",
+                "rght": "1200",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b2-4238-4a0f-b754-5c5aacb5b862",
+                "parent_id": "53c020b1-2260-44dc-a0bc-5c5aacb5b862",
+                "name": "員山鄉",
+                "lft": "1138",
+                "rght": "1147",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d73298-1624-4a9c-8216-1299acb5b862",
+                "parent_id": "53c020b2-4238-4a0f-b754-5c5aacb5b862",
+                "name": "第03選舉區[區域]",
+                "lft": "1143",
+                "rght": "1144",
+                "population": "9224",
+                "population_electors": "7588",
+                "quota": "3",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-b48c-44ad-90aa-2adbcf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,宜蘭縣,員山鄉,第03選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

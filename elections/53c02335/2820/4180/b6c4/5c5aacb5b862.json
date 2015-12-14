@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02335-2820-4180-b6c4-5c5aacb5b862",
+            "parent_id": "53c02331-37e4-49a2-a7ea-5c5aacb5b862",
+            "name": "自強里",
+            "lft": "10393",
+            "rght": "10394",
+            "population": "1917",
+            "population_electors": "1457",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546b0806-dad8-4371-be91-2ff0cf91e152",
+            "keywords": "2014-11,村里長,嘉義市,西區,自強里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0289c-4aac-41a6-babd-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "蔡正平",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "TSAI CHENG PING",
+                "election_id": "53c02335-2820-4180-b6c4-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01e02-2318-43fe-a6f7-5460acb5b862",
+                "name": "自強里",
+                "is_area": true,
+                "keywords": "2014,嘉義市,西區,自強里",
+                "AreasElection": {
+                    "id": "53c02335-210c-4630-8a5d-5c5aacb5b862",
+                    "Election_id": "53c02335-2820-4180-b6c4-5c5aacb5b862",
+                    "Area_id": "53c01e02-2318-43fe-a6f7-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0232b-91c8-456a-8388-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "嘉義市",
+                "lft": "10265",
+                "rght": "10438",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02331-37e4-49a2-a7ea-5c5aacb5b862",
+                "parent_id": "53c0232b-91c8-456a-8388-5c5aacb5b862",
+                "name": "西區",
+                "lft": "10346",
+                "rght": "10437",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02335-2820-4180-b6c4-5c5aacb5b862",
+                "parent_id": "53c02331-37e4-49a2-a7ea-5c5aacb5b862",
+                "name": "自強里",
+                "lft": "10393",
+                "rght": "10394",
+                "population": "1917",
+                "population_electors": "1457",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546b0806-dad8-4371-be91-2ff0cf91e152",
+                "keywords": "2014-11,村里長,嘉義市,西區,自強里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c022ce-d368-4ac3-b38a-5c5aacb5b862",
+            "parent_id": "53c022cb-bd6c-4a32-8c61-5c5aacb5b862",
+            "name": "國光里",
+            "lft": "9131",
+            "rght": "9132",
+            "population": "1549",
+            "population_electors": "1179",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546d8db9-a518-42d8-9cf0-0e51cf91e152",
+            "keywords": "2014-11,村里長,花蓮縣,花蓮市,國光里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0286b-1eac-44da-98ae-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "魏陽進",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c022ce-d368-4ac3-b38a-5c5aacb5b862"
+            },
+            {
+                "id": "540b5609-697c-49c1-a1eb-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "楊永成",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "Yang YungCheng",
+                "election_id": "53c022ce-d368-4ac3-b38a-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01dac-2258-4a1c-bbf0-5460acb5b862",
+                "name": "國光里",
+                "is_area": true,
+                "keywords": "2014,花蓮縣,花蓮市,國光里",
+                "AreasElection": {
+                    "id": "53c022ce-3594-42e8-bac6-5c5aacb5b862",
+                    "Election_id": "53c022ce-d368-4ac3-b38a-5c5aacb5b862",
+                    "Area_id": "53c01dac-2258-4a1c-bbf0-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022cb-ff18-4c61-98a3-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "花蓮縣",
+                "lft": "9095",
+                "rght": "9476",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022cb-bd6c-4a32-8c61-5c5aacb5b862",
+                "parent_id": "53c022cb-ff18-4c61-98a3-5c5aacb5b862",
+                "name": "花蓮市",
+                "lft": "9096",
+                "rght": "9187",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022ce-d368-4ac3-b38a-5c5aacb5b862",
+                "parent_id": "53c022cb-bd6c-4a32-8c61-5c5aacb5b862",
+                "name": "國光里",
+                "lft": "9131",
+                "rght": "9132",
+                "population": "1549",
+                "population_electors": "1179",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546d8db9-a518-42d8-9cf0-0e51cf91e152",
+                "keywords": "2014-11,村里長,花蓮縣,花蓮市,國光里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

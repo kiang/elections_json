@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02325-a1ec-4cf9-b922-5c5aacb5b862",
+            "parent_id": "53c02320-8d20-42f9-9a00-5c5aacb5b862",
+            "name": "光華里",
+            "lft": "10197",
+            "rght": "10198",
+            "population": "4885",
+            "population_electors": "3915",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546b0806-3f4c-4719-a3ad-2ff0cf91e152",
+            "keywords": "2014-11,村里長,新竹市,北區,光華里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02894-7be4-45dd-84e0-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "張慶榮",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "CHANG CHING JUNG",
+                "election_id": "53c02325-a1ec-4cf9-b922-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01df4-7c38-4a6e-bf43-5460acb5b862",
+                "name": "光華里",
+                "is_area": true,
+                "keywords": "2014,新竹市,北區,光華里",
+                "AreasElection": {
+                    "id": "53c02325-958c-4b01-969e-5c5aacb5b862",
+                    "Election_id": "53c02325-a1ec-4cf9-b922-5c5aacb5b862",
+                    "Area_id": "53c01df4-7c38-4a6e-bf43-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02315-1360-4e37-94d3-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新竹市",
+                "lft": "10013",
+                "rght": "10264",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02320-8d20-42f9-9a00-5c5aacb5b862",
+                "parent_id": "53c02315-1360-4e37-94d3-5c5aacb5b862",
+                "name": "北區",
+                "lft": "10122",
+                "rght": "10213",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02325-a1ec-4cf9-b922-5c5aacb5b862",
+                "parent_id": "53c02320-8d20-42f9-9a00-5c5aacb5b862",
+                "name": "光華里",
+                "lft": "10197",
+                "rght": "10198",
+                "population": "4885",
+                "population_electors": "3915",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546b0806-3f4c-4719-a3ad-2ff0cf91e152",
+                "keywords": "2014-11,村里長,新竹市,北區,光華里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

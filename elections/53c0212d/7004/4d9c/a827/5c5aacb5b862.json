@@ -1,0 +1,145 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0212d-7004-4d9c-a827-5c5aacb5b862",
+            "parent_id": "53c0212d-e6e4-420f-9a97-5c5aacb5b862",
+            "name": "豐田村",
+            "lft": "3733",
+            "rght": "3734",
+            "population": "400",
+            "population_electors": "338",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-9e94-4e61-a0f8-1a32cf91e152",
+            "keywords": "2014-11,村里長,新竹縣,橫山鄉,豐田村"
+        },
+        "Candidate": [
+            {
+                "id": "53c02799-96b8-49b7-a063-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "胡慶煜",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c0212d-7004-4d9c-a827-5c5aacb5b862"
+            },
+            {
+                "id": "540b54c9-8afc-4e6c-8006-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "許英棋",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c0212d-7004-4d9c-a827-5c5aacb5b862"
+            },
+            {
+                "id": "540b54ca-65a4-4876-b367-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "胡子豪",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53c0212d-7004-4d9c-a827-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c4c-6bec-46c4-8f3d-5460acb5b862",
+                "name": "豐田村",
+                "is_area": true,
+                "keywords": "2014,新竹縣,橫山鄉,豐田村",
+                "AreasElection": {
+                    "id": "53c0212e-7b08-46be-b1fa-5c5aacb5b862",
+                    "Election_id": "53c0212d-7004-4d9c-a827-5c5aacb5b862",
+                    "Area_id": "53c01c4c-6bec-46c4-8f3d-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02114-c1a0-4545-bc6f-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新竹縣",
+                "lft": "3421",
+                "rght": "3830",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0212d-e6e4-420f-9a97-5c5aacb5b862",
+                "parent_id": "53c02114-c1a0-4545-bc6f-5c5aacb5b862",
+                "name": "橫山鄉",
+                "lft": "3724",
+                "rght": "3747",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0212d-7004-4d9c-a827-5c5aacb5b862",
+                "parent_id": "53c0212d-e6e4-420f-9a97-5c5aacb5b862",
+                "name": "豐田村",
+                "lft": "3733",
+                "rght": "3734",
+                "population": "400",
+                "population_electors": "338",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-9e94-4e61-a0f8-1a32cf91e152",
+                "keywords": "2014-11,村里長,新竹縣,橫山鄉,豐田村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

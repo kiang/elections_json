@@ -1,0 +1,189 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d73330-bb14-4297-aedf-1299acb5b862",
+            "parent_id": "53c020bd-af04-425f-92ba-5c5aacb5b862",
+            "name": "第04選舉區[區域]",
+            "lft": "1613",
+            "rght": "1614",
+            "population": "11181",
+            "population_electors": "9247",
+            "quota": "3",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-47fc-48f7-a88e-74a5cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,彰化縣,大村鄉,第04選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b571e-08c0-489d-9068-1926acb5b862",
+                "image": "541c63e8\/267c\/46c5\/8941\/5457cb455a61.jpg",
+                "stage": "2",
+                "name": "廖桂杭",
+                "party": "無",
+                "gender": "f",
+                "no": "4",
+                "name_english": "LIAO KUEI HANG",
+                "election_id": "53d73330-bb14-4297-aedf-1299acb5b862"
+            },
+            {
+                "id": "540b571e-0f94-4eae-b2ce-1926acb5b862",
+                "image": "541c640a\/fe28\/4a1f\/bf9e\/5457cb455a61.jpg",
+                "stage": "1",
+                "name": "賴瑞盛",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "LAI JUI SHENG",
+                "election_id": "53d73330-bb14-4297-aedf-1299acb5b862"
+            },
+            {
+                "id": "540b571e-11b4-4775-9d1a-1926acb5b862",
+                "image": "541c6110\/3c94\/45d1\/a7db\/4af8cb455a61.jpg",
+                "stage": "2",
+                "name": "賴慶昇",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "LAI CHIN SHENG",
+                "election_id": "53d73330-bb14-4297-aedf-1299acb5b862"
+            },
+            {
+                "id": "540b571e-e708-4b01-a8d0-1926acb5b862",
+                "image": "541c6161\/c250\/4423\/a666\/4af8cb455a61.jpg",
+                "stage": "2",
+                "name": "賴玟廷",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "LAI WEN TING",
+                "election_id": "53d73330-bb14-4297-aedf-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01ca3-e1e8-474a-8aa2-5460acb5b862",
+                "name": "美港村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,大村鄉,美港村",
+                "AreasElection": {
+                    "id": "53d73330-1c9c-4633-b7c3-1299acb5b862",
+                    "Election_id": "53d73330-bb14-4297-aedf-1299acb5b862",
+                    "Area_id": "53c01ca3-e1e8-474a-8aa2-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01ca4-b0ac-48c7-82f1-5460acb5b862",
+                "name": "平和村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,大村鄉,平和村",
+                "AreasElection": {
+                    "id": "53d73331-c750-4cab-855e-1299acb5b862",
+                    "Election_id": "53d73330-bb14-4297-aedf-1299acb5b862",
+                    "Area_id": "53c01ca4-b0ac-48c7-82f1-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01ca5-a17c-4bad-b3e1-5460acb5b862",
+                "name": "黃厝村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,大村鄉,黃厝村",
+                "AreasElection": {
+                    "id": "53d73330-91cc-4080-a43b-1299acb5b862",
+                    "Election_id": "53d73330-bb14-4297-aedf-1299acb5b862",
+                    "Area_id": "53c01ca5-a17c-4bad-b3e1-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01ca5-badc-4258-847f-5460acb5b862",
+                "name": "福興村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,大村鄉,福興村",
+                "AreasElection": {
+                    "id": "53d73331-1aa8-4637-90dd-1299acb5b862",
+                    "Election_id": "53d73330-bb14-4297-aedf-1299acb5b862",
+                    "Area_id": "53c01ca5-badc-4258-847f-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020bb-fd28-4ab5-ad62-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "1497",
+                "rght": "1738",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020bd-af04-425f-92ba-5c5aacb5b862",
+                "parent_id": "53c020bb-fd28-4ab5-ad62-5c5aacb5b862",
+                "name": "大村鄉",
+                "lft": "1606",
+                "rght": "1615",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d73330-bb14-4297-aedf-1299acb5b862",
+                "parent_id": "53c020bd-af04-425f-92ba-5c5aacb5b862",
+                "name": "第04選舉區[區域]",
+                "lft": "1613",
+                "rght": "1614",
+                "population": "11181",
+                "population_electors": "9247",
+                "quota": "3",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-47fc-48f7-a88e-74a5cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,彰化縣,大村鄉,第04選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

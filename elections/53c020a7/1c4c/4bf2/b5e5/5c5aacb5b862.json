@@ -1,0 +1,130 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c020a7-1c4c-4bf2-b5e5-5c5aacb5b862",
+            "parent_id": "53c020a5-ddcc-44df-8d3e-5c5aacb5b862",
+            "name": "長濱鄉",
+            "lft": "970",
+            "rght": "971",
+            "population": "7789",
+            "population_electors": "6782",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546f277f-9a34-43ea-ab3b-2f28cf91e152",
+            "keywords": "2014-11,鄉鎮市長,臺東縣,長濱鄉"
+        },
+        "Candidate": [
+            {
+                "id": "5406a615-b430-4b5c-b024-15b8acb5b862",
+                "image": "54997f23\/5b50\/4952\/9585\/503e6ab936af.jpg",
+                "stage": "0",
+                "name": "陳德成",
+                "party": "無政黨",
+                "gender": "m",
+                "no": "0",
+                "name_english": "",
+                "election_id": "53c020a7-1c4c-4bf2-b5e5-5c5aacb5b862"
+            },
+            {
+                "id": "540b5823-c604-40f5-a19b-1926acb5b862",
+                "image": "54997f4e\/3720\/4c45\/a0ae\/50556ab936af.jpg",
+                "stage": "2",
+                "name": "潘淑芳",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c020a7-1c4c-4bf2-b5e5-5c5aacb5b862"
+            },
+            {
+                "id": "540b5823-e154-48d0-bfdc-1926acb5b862",
+                "image": "54997fa4\/ceb4\/4314\/ba1a\/50526ab936af.jpg",
+                "stage": "1",
+                "name": "章雅豐 Yosef．Akiko．Kacaw",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c020a7-1c4c-4bf2-b5e5-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01da3-2d44-4897-b1b8-5460acb5b862",
+                "name": "長濱鄉",
+                "is_area": true,
+                "keywords": "2014,臺東縣,長濱鄉",
+                "AreasElection": {
+                    "id": "53c020a7-fa90-4847-9f41-5c5aacb5b862",
+                    "Election_id": "53c020a7-1c4c-4bf2-b5e5-5c5aacb5b862",
+                    "Area_id": "53c01da3-2d44-4897-b1b8-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市長",
+                "lft": "608",
+                "rght": "1031",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020a5-ddcc-44df-8d3e-5c5aacb5b862",
+                "parent_id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "name": "臺東縣",
+                "lft": "955",
+                "rght": "988",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020a7-1c4c-4bf2-b5e5-5c5aacb5b862",
+                "parent_id": "53c020a5-ddcc-44df-8d3e-5c5aacb5b862",
+                "name": "長濱鄉",
+                "lft": "970",
+                "rght": "971",
+                "population": "7789",
+                "population_electors": "6782",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546f277f-9a34-43ea-ab3b-2f28cf91e152",
+                "keywords": "2014-11,鄉鎮市長,臺東縣,長濱鄉"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

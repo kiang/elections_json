@@ -1,0 +1,167 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02333-95e0-4710-8fc4-5c5aacb5b862",
+            "parent_id": "53c02331-37e4-49a2-a7ea-5c5aacb5b862",
+            "name": "港坪里",
+            "lft": "10379",
+            "rght": "10380",
+            "population": "3966",
+            "population_electors": "2914",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546b0806-0e18-4cf1-9f12-2ff0cf91e152",
+            "keywords": "2014-11,村里長,嘉義市,西區,港坪里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0289a-fac8-458f-90dc-5dffacb5b862",
+                "image": null,
+                "stage": "0",
+                "name": "張金木",
+                "party": null,
+                "gender": null,
+                "no": "0",
+                "name_english": "",
+                "election_id": "53c02333-95e0-4710-8fc4-5c5aacb5b862"
+            },
+            {
+                "id": "540b566c-891c-41af-993c-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "陳英華",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02333-95e0-4710-8fc4-5c5aacb5b862"
+            },
+            {
+                "id": "540b566c-8d00-4f6c-81b2-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "鄭銘芳",
+                "party": "無",
+                "gender": "m",
+                "no": "4",
+                "name_english": "",
+                "election_id": "53c02333-95e0-4710-8fc4-5c5aacb5b862"
+            },
+            {
+                "id": "540b566d-2abc-4532-9878-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "李茂山",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "LI MAO SHAN",
+                "election_id": "53c02333-95e0-4710-8fc4-5c5aacb5b862"
+            },
+            {
+                "id": "540b566d-cc60-4727-86b2-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "魏志軒",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "WEI CHIH HSUAN",
+                "election_id": "53c02333-95e0-4710-8fc4-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01e00-e98c-467d-a38e-5460acb5b862",
+                "name": "港坪里",
+                "is_area": true,
+                "keywords": "2014,嘉義市,西區,港坪里",
+                "AreasElection": {
+                    "id": "53c02333-d508-4e8b-8396-5c5aacb5b862",
+                    "Election_id": "53c02333-95e0-4710-8fc4-5c5aacb5b862",
+                    "Area_id": "53c01e00-e98c-467d-a38e-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0232b-91c8-456a-8388-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "嘉義市",
+                "lft": "10265",
+                "rght": "10438",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02331-37e4-49a2-a7ea-5c5aacb5b862",
+                "parent_id": "53c0232b-91c8-456a-8388-5c5aacb5b862",
+                "name": "西區",
+                "lft": "10346",
+                "rght": "10437",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02333-95e0-4710-8fc4-5c5aacb5b862",
+                "parent_id": "53c02331-37e4-49a2-a7ea-5c5aacb5b862",
+                "name": "港坪里",
+                "lft": "10379",
+                "rght": "10380",
+                "population": "3966",
+                "population_electors": "2914",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546b0806-0e18-4cf1-9f12-2ff0cf91e152",
+                "keywords": "2014-11,村里長,嘉義市,西區,港坪里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

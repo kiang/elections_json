@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02563-9cf8-489e-96c3-5c5aacb5b862",
+            "parent_id": "53c02562-d788-4eeb-93d8-5c5aacb5b862",
+            "name": "洛泉里",
+            "lft": "17083",
+            "rght": "17084",
+            "population": "2655",
+            "population_electors": "1975",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e0691-585c-455e-bf12-1a32cf91e152",
+            "keywords": "2014-11,村里長,臺中市,沙鹿區,洛泉里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02702-699c-4303-9871-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "黃金",
+                "party": "無",
+                "gender": "f",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02563-9cf8-489e-96c3-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01f96-3d34-4403-8ab5-5460acb5b862",
+                "name": "洛泉里",
+                "is_area": true,
+                "keywords": "2014,臺中市,沙鹿區,洛泉里",
+                "AreasElection": {
+                    "id": "53c02563-f5bc-460f-96eb-5c5aacb5b862",
+                    "Election_id": "53c02563-9cf8-489e-96c3-5c5aacb5b862",
+                    "Area_id": "53c01f96-3d34-4403-8ab5-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02562-d788-4eeb-93d8-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "沙鹿區",
+                "lft": "17082",
+                "rght": "17125",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02563-9cf8-489e-96c3-5c5aacb5b862",
+                "parent_id": "53c02562-d788-4eeb-93d8-5c5aacb5b862",
+                "name": "洛泉里",
+                "lft": "17083",
+                "rght": "17084",
+                "population": "2655",
+                "population_electors": "1975",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e0691-585c-455e-bf12-1a32cf91e152",
+                "keywords": "2014-11,村里長,臺中市,沙鹿區,洛泉里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02397-d038-4f9d-a88e-5c5aacb5b862",
+            "parent_id": "53c02396-dd04-4dbc-a350-5c5aacb5b862",
+            "name": "民炤里",
+            "lft": "11625",
+            "rght": "11626",
+            "population": "8417",
+            "population_electors": "6666",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-3da0-4a77-b403-4187cf91e152",
+            "keywords": "2014-11,村里長,臺北市,大安區,民炤里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02635-b7bc-425f-ac5d-5dffacb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "張隆彥",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "CHANG LUNG YEN",
+                "election_id": "53c02397-d038-4f9d-a88e-5c5aacb5b862"
+            },
+            {
+                "id": "540b52e7-acd4-499a-adf5-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "陳勤功",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "Chen C.K.",
+                "election_id": "53c02397-d038-4f9d-a88e-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01e12-9b90-4afb-8246-5460acb5b862",
+                "name": "民炤里",
+                "is_area": true,
+                "keywords": "2014,臺北市,大安區,民炤里",
+                "AreasElection": {
+                    "id": "53c02398-d760-4573-978d-5c5aacb5b862",
+                    "Election_id": "53c02397-d038-4f9d-a88e-5c5aacb5b862",
+                    "Area_id": "53c01e12-9b90-4afb-8246-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02396-dd04-4dbc-a350-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "大安區",
+                "lft": "11610",
+                "rght": "11717",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02397-d038-4f9d-a88e-5c5aacb5b862",
+                "parent_id": "53c02396-dd04-4dbc-a350-5c5aacb5b862",
+                "name": "民炤里",
+                "lft": "11625",
+                "rght": "11626",
+                "population": "8417",
+                "population_electors": "6666",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-3da0-4a77-b403-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,大安區,民炤里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

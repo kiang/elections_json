@@ -1,0 +1,141 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c41021-eae0-4573-bda1-6f55acb5b862",
+            "parent_id": "53c02082-2c78-4b49-a547-5c5aacb5b862",
+            "name": "第03選區[區域]",
+            "lft": "330",
+            "rght": "331",
+            "population": "36018",
+            "population_electors": "29577",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-e52c-46ec-8206-2adbcf91e152",
+            "keywords": "2014-11,縣市議員,宜蘭縣,第03選區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "53c68f6f-08cc-4ec5-a406-0f15acb5b862",
+                "image": "54941e08\/4e6c\/44d8\/906e\/355a6ab936af.jpg",
+                "stage": "2",
+                "name": "吳宏謀",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "WU KUNG MOU",
+                "election_id": "53c41021-eae0-4573-bda1-6f55acb5b862"
+            },
+            {
+                "id": "53c68f6f-bba8-48c2-95a3-0f15acb5b862",
+                "image": "54941cac\/0d14\/4b76\/b4cd\/34fa6ab936af.jpg",
+                "stage": "1",
+                "name": "李清林",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "3",
+                "name_english": "LEE CHING LIN",
+                "election_id": "53c41021-eae0-4573-bda1-6f55acb5b862"
+            },
+            {
+                "id": "540b56bd-24b4-438f-90e3-1926acb5b862",
+                "image": "54941dd2\/3704\/47f0\/a1b9\/35546ab936af.jpg",
+                "stage": "2",
+                "name": "林成功",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c41021-eae0-4573-bda1-6f55acb5b862"
+            },
+            {
+                "id": "540b56bd-42b4-452f-b3f1-1926acb5b862",
+                "image": "",
+                "stage": "0",
+                "name": "巫紫汝",
+                "party": "無",
+                "gender": "f",
+                "no": "0",
+                "name_english": "",
+                "election_id": "53c41021-eae0-4573-bda1-6f55acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01be6-6128-446f-9b49-5460acb5b862",
+                "name": "礁溪鄉",
+                "is_area": true,
+                "keywords": "2014,宜蘭縣,礁溪鄉",
+                "AreasElection": {
+                    "id": "53c41021-5da4-40fc-8036-6f55acb5b862",
+                    "Election_id": "53c41021-eae0-4573-bda1-6f55acb5b862",
+                    "Area_id": "53c01be6-6128-446f-9b49-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "縣市議員",
+                "lft": "306",
+                "rght": "607",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02082-2c78-4b49-a547-5c5aacb5b862",
+                "parent_id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "name": "宜蘭縣",
+                "lft": "325",
+                "rght": "352",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c41021-eae0-4573-bda1-6f55acb5b862",
+                "parent_id": "53c02082-2c78-4b49-a547-5c5aacb5b862",
+                "name": "第03選區[區域]",
+                "lft": "330",
+                "rght": "331",
+                "population": "36018",
+                "population_electors": "29577",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-e52c-46ec-8206-2adbcf91e152",
+                "keywords": "2014-11,縣市議員,宜蘭縣,第03選區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

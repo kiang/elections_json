@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c023b1-d578-428f-ae6e-5c5aacb5b862",
+            "parent_id": "53c023af-44e8-4c7c-a5e8-5c5aacb5b862",
+            "name": "柳鄉里",
+            "lft": "11957",
+            "rght": "11958",
+            "population": "5654",
+            "population_electors": "4759",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-dbec-4317-87f7-4187cf91e152",
+            "keywords": "2014-11,村里長,臺北市,萬華區,柳鄉里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02641-2808-4436-a387-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "蔡和益",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "TSAI HO YI",
+                "election_id": "53c023b1-d578-428f-ae6e-5c5aacb5b862"
+            },
+            {
+                "id": "540b52fc-7900-4e23-a1ae-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "陳傳宗",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "CHEN CHUAN TSUNG",
+                "election_id": "53c023b1-d578-428f-ae6e-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01e28-36f8-4c1f-b7ba-5460acb5b862",
+                "name": "柳鄉里",
+                "is_area": true,
+                "keywords": "2014,臺北市,萬華區,柳鄉里",
+                "AreasElection": {
+                    "id": "53c023b1-079c-4e96-bb02-5c5aacb5b862",
+                    "Election_id": "53c023b1-d578-428f-ae6e-5c5aacb5b862",
+                    "Area_id": "53c01e28-36f8-4c1f-b7ba-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023af-44e8-4c7c-a5e8-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "萬華區",
+                "lft": "11920",
+                "rght": "11993",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023b1-d578-428f-ae6e-5c5aacb5b862",
+                "parent_id": "53c023af-44e8-4c7c-a5e8-5c5aacb5b862",
+                "name": "柳鄉里",
+                "lft": "11957",
+                "rght": "11958",
+                "population": "5654",
+                "population_electors": "4759",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-dbec-4317-87f7-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,萬華區,柳鄉里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,200 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d73360-0e68-409d-af3f-1299acb5b862",
+            "parent_id": "53c020c2-53dc-4791-bf4f-5c5aacb5b862",
+            "name": "第03選舉區[區域]",
+            "lft": "1723",
+            "rght": "1724",
+            "population": "3540",
+            "population_electors": "2821",
+            "quota": "3",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-852c-47e2-8a5f-74a5cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,彰化縣,竹塘鄉,第03選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b572f-27c8-4d46-8ec1-1926acb5b862",
+                "image": "546a14cc\/d9f8\/4b9f\/8bee\/6b0b8e043389.jpg",
+                "stage": "2",
+                "name": "林淑女",
+                "party": "無",
+                "gender": "f",
+                "no": "4",
+                "name_english": "",
+                "election_id": "53d73360-0e68-409d-af3f-1299acb5b862"
+            },
+            {
+                "id": "540b572f-39c8-4eb1-9cb5-1926acb5b862",
+                "image": "546a14a7\/19d0\/4b73\/8d6f\/6abc8e043389.jpg",
+                "stage": "1",
+                "name": "詹佩珠",
+                "party": "無",
+                "gender": "f",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53d73360-0e68-409d-af3f-1299acb5b862"
+            },
+            {
+                "id": "540b572f-7344-4e18-a86b-1926acb5b862",
+                "image": "542a959f\/5a98\/4678\/a36a\/302acb455a61.jpg",
+                "stage": "1",
+                "name": "詹益審",
+                "party": "無",
+                "gender": "m",
+                "no": "5",
+                "name_english": "",
+                "election_id": "53d73360-0e68-409d-af3f-1299acb5b862"
+            },
+            {
+                "id": "540b572f-a728-47a7-a1e2-1926acb5b862",
+                "image": "54297198\/bc3c\/4e15\/9fb7\/5101cb455a61.jpg",
+                "stage": "2",
+                "name": "蔡俊傑",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53d73360-0e68-409d-af3f-1299acb5b862"
+            },
+            {
+                "id": "540b572f-ad28-4ad3-9c0b-1926acb5b862",
+                "image": "542a95c1\/b5cc\/46b1\/ac1d\/302acb455a61.jpg",
+                "stage": "2",
+                "name": "蔡進欽",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d73360-0e68-409d-af3f-1299acb5b862"
+            },
+            {
+                "id": "540b572f-f260-40b5-9e08-1926acb5b862",
+                "image": "546a14eb\/2cbc\/42f0\/bdc9\/6ea88e043389.jpg",
+                "stage": "1",
+                "name": "潘勇夫",
+                "party": "無",
+                "gender": "m",
+                "no": "6",
+                "name_english": "",
+                "election_id": "53d73360-0e68-409d-af3f-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01cc3-8860-448b-a092-5460acb5b862",
+                "name": "樹腳村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,竹塘鄉,樹腳村",
+                "AreasElection": {
+                    "id": "53d73360-7cc4-4b29-8927-1299acb5b862",
+                    "Election_id": "53d73360-0e68-409d-af3f-1299acb5b862",
+                    "Area_id": "53c01cc3-8860-448b-a092-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cc3-dc50-42b8-af92-5460acb5b862",
+                "name": "田頭村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,竹塘鄉,田頭村",
+                "AreasElection": {
+                    "id": "53d73360-dcdc-49ec-baf0-1299acb5b862",
+                    "Election_id": "53d73360-0e68-409d-af3f-1299acb5b862",
+                    "Area_id": "53c01cc3-dc50-42b8-af92-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cc3-f1c8-41ec-92aa-5460acb5b862",
+                "name": "新廣村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,竹塘鄉,新廣村",
+                "AreasElection": {
+                    "id": "53d73360-6d00-417f-9807-1299acb5b862",
+                    "Election_id": "53d73360-0e68-409d-af3f-1299acb5b862",
+                    "Area_id": "53c01cc3-f1c8-41ec-92aa-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020bb-fd28-4ab5-ad62-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "1497",
+                "rght": "1738",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020c2-53dc-4791-bf4f-5c5aacb5b862",
+                "parent_id": "53c020bb-fd28-4ab5-ad62-5c5aacb5b862",
+                "name": "竹塘鄉",
+                "lft": "1718",
+                "rght": "1727",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d73360-0e68-409d-af3f-1299acb5b862",
+                "parent_id": "53c020c2-53dc-4791-bf4f-5c5aacb5b862",
+                "name": "第03選舉區[區域]",
+                "lft": "1723",
+                "rght": "1724",
+                "population": "3540",
+                "population_electors": "2821",
+                "quota": "3",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-852c-47e2-8a5f-74a5cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,彰化縣,竹塘鄉,第03選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

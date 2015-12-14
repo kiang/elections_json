@@ -1,0 +1,178 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0232e-c48c-42ff-be8d-5c5aacb5b862",
+            "parent_id": "53c0232b-8cc0-4e90-8f01-5c5aacb5b862",
+            "name": "興村里",
+            "lft": "10315",
+            "rght": "10316",
+            "population": "4697",
+            "population_electors": "3611",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546b0806-6bb0-4bdd-98f5-2ff0cf91e152",
+            "keywords": "2014-11,村里長,嘉義市,東區,興村里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02898-4fd8-4d82-a362-5dffacb5b862",
+                "image": null,
+                "stage": "0",
+                "name": "林書筠",
+                "party": null,
+                "gender": null,
+                "no": "0",
+                "name_english": "",
+                "election_id": "53c0232e-c48c-42ff-be8d-5c5aacb5b862"
+            },
+            {
+                "id": "540b5669-1978-4567-9abf-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "吳金盈",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "WU CHIN YING",
+                "election_id": "53c0232e-c48c-42ff-be8d-5c5aacb5b862"
+            },
+            {
+                "id": "540b5669-eae4-4efb-980b-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "梁炳文",
+                "party": "無",
+                "gender": "m",
+                "no": "4",
+                "name_english": "",
+                "election_id": "53c0232e-c48c-42ff-be8d-5c5aacb5b862"
+            },
+            {
+                "id": "540b566a-6308-4120-918f-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "蔡大川",
+                "party": "無",
+                "gender": "m",
+                "no": "5",
+                "name_english": "TSAI TA CHUAN",
+                "election_id": "53c0232e-c48c-42ff-be8d-5c5aacb5b862"
+            },
+            {
+                "id": "540b566a-6984-4bd1-804d-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "黃瓊如",
+                "party": "無",
+                "gender": "f",
+                "no": "3",
+                "name_english": "HUANG CHIUNG JU",
+                "election_id": "53c0232e-c48c-42ff-be8d-5c5aacb5b862"
+            },
+            {
+                "id": "540b566a-8118-4091-b2ea-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "洪豐盛",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "HUNG FENG SHENG",
+                "election_id": "53c0232e-c48c-42ff-be8d-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01dfc-f940-4c61-a39b-5460acb5b862",
+                "name": "興村里",
+                "is_area": true,
+                "keywords": "2014,嘉義市,東區,興村里",
+                "AreasElection": {
+                    "id": "53c0232f-013c-4079-aa38-5c5aacb5b862",
+                    "Election_id": "53c0232e-c48c-42ff-be8d-5c5aacb5b862",
+                    "Area_id": "53c01dfc-f940-4c61-a39b-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0232b-91c8-456a-8388-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "嘉義市",
+                "lft": "10265",
+                "rght": "10438",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0232b-8cc0-4e90-8f01-5c5aacb5b862",
+                "parent_id": "53c0232b-91c8-456a-8388-5c5aacb5b862",
+                "name": "東區",
+                "lft": "10266",
+                "rght": "10345",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0232e-c48c-42ff-be8d-5c5aacb5b862",
+                "parent_id": "53c0232b-8cc0-4e90-8f01-5c5aacb5b862",
+                "name": "興村里",
+                "lft": "10315",
+                "rght": "10316",
+                "population": "4697",
+                "population_electors": "3611",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546b0806-6bb0-4bdd-98f5-2ff0cf91e152",
+                "keywords": "2014-11,村里長,嘉義市,東區,興村里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

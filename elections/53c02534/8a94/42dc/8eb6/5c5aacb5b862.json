@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02534-8a94-42dc-8eb6-5c5aacb5b862",
+            "parent_id": "53c02530-1868-453b-afd5-5c5aacb5b862",
+            "name": "中達里",
+            "lft": "16583",
+            "rght": "16584",
+            "population": "3160",
+            "population_electors": "2485",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068f-dfe0-411f-bacf-1a32cf91e152",
+            "keywords": "2014-11,村里長,臺中市,北區,中達里"
+        },
+        "Candidate": [
+            {
+                "id": "53c026ee-34f4-4889-bc92-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "林清福",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02534-8a94-42dc-8eb6-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01f73-af84-4996-9393-5460acb5b862",
+                "name": "中達里",
+                "is_area": true,
+                "keywords": "2014,臺中市,北區,中達里",
+                "AreasElection": {
+                    "id": "53c02534-22cc-49fe-8534-5c5aacb5b862",
+                    "Election_id": "53c02534-8a94-42dc-8eb6-5c5aacb5b862",
+                    "Area_id": "53c01f73-af84-4996-9393-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02530-1868-453b-afd5-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "北區",
+                "lft": "16538",
+                "rght": "16611",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02534-8a94-42dc-8eb6-5c5aacb5b862",
+                "parent_id": "53c02530-1868-453b-afd5-5c5aacb5b862",
+                "name": "中達里",
+                "lft": "16583",
+                "rght": "16584",
+                "population": "3160",
+                "population_electors": "2485",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068f-dfe0-411f-bacf-1a32cf91e152",
+                "keywords": "2014-11,村里長,臺中市,北區,中達里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

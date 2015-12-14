@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02133-99dc-471c-a5e0-5c5aacb5b862",
+            "parent_id": "53c02133-6b80-499f-bbd1-5c5aacb5b862",
+            "name": "富興村",
+            "lft": "3797",
+            "rght": "3798",
+            "population": "1556",
+            "population_electors": "1315",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-4b54-4fdb-a217-1a32cf91e152",
+            "keywords": "2014-11,村里長,新竹縣,峨眉鄉,富興村"
+        },
+        "Candidate": [
+            {
+                "id": "53c0279c-1198-46e8-9ce1-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "蕭鶬松",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02133-99dc-471c-a5e0-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c50-a794-4505-9e89-5460acb5b862",
+                "name": "富興村",
+                "is_area": true,
+                "keywords": "2014,新竹縣,峨眉鄉,富興村",
+                "AreasElection": {
+                    "id": "53c02133-51b8-41f7-b591-5c5aacb5b862",
+                    "Election_id": "53c02133-99dc-471c-a5e0-5c5aacb5b862",
+                    "Area_id": "53c01c50-a794-4505-9e89-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02114-c1a0-4545-bc6f-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新竹縣",
+                "lft": "3421",
+                "rght": "3830",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02133-6b80-499f-bbd1-5c5aacb5b862",
+                "parent_id": "53c02114-c1a0-4545-bc6f-5c5aacb5b862",
+                "name": "峨眉鄉",
+                "lft": "3790",
+                "rght": "3803",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02133-99dc-471c-a5e0-5c5aacb5b862",
+                "parent_id": "53c02133-6b80-499f-bbd1-5c5aacb5b862",
+                "name": "富興村",
+                "lft": "3797",
+                "rght": "3798",
+                "population": "1556",
+                "population_electors": "1315",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-4b54-4fdb-a217-1a32cf91e152",
+                "keywords": "2014-11,村里長,新竹縣,峨眉鄉,富興村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

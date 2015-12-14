@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0233b-b078-4f55-956b-5c5aacb5b862",
+            "parent_id": "53c02338-c440-45d1-8313-5c5aacb5b862",
+            "name": "新埔里",
+            "lft": "10475",
+            "rght": "10476",
+            "population": "10214",
+            "population_electors": "7638",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54744c85-9fe8-40b3-a891-45dccf91e152",
+            "keywords": "2014-11,村里長,桃園市,桃園區,新埔里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02768-b444-435d-8e03-5dffacb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "郭雲輝",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "KUO YUN HUI",
+                "election_id": "53c0233b-b078-4f55-956b-5c5aacb5b862"
+            },
+            {
+                "id": "53eac7af-2c9c-44be-99f5-6fbecb455a61",
+                "image": "5422eec6\/5180\/4e6d\/8401\/114ecb455a61.jpg",
+                "stage": "2",
+                "name": "官正平",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "KUAN CHENG PING",
+                "election_id": "53c0233b-b078-4f55-956b-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01bf9-0a48-4285-9542-5460acb5b862",
+                "name": "新埔里",
+                "is_area": true,
+                "keywords": "2014,桃園市,桃園區,新埔里",
+                "AreasElection": {
+                    "id": "53c0233b-cd60-407d-88d4-5c5aacb5b862",
+                    "Election_id": "53c0233b-b078-4f55-956b-5c5aacb5b862",
+                    "Area_id": "53c01bf9-0a48-4285-9542-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "桃園市",
+                "lft": "10439",
+                "rght": "11456",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02338-c440-45d1-8313-5c5aacb5b862",
+                "parent_id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "name": "桃園區",
+                "lft": "10440",
+                "rght": "10593",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0233b-b078-4f55-956b-5c5aacb5b862",
+                "parent_id": "53c02338-c440-45d1-8313-5c5aacb5b862",
+                "name": "新埔里",
+                "lft": "10475",
+                "rght": "10476",
+                "population": "10214",
+                "population_electors": "7638",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54744c85-9fe8-40b3-a891-45dccf91e152",
+                "keywords": "2014-11,村里長,桃園市,桃園區,新埔里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

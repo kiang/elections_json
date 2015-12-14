@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c021e1-61d4-42e2-92a7-5c5aacb5b862",
+            "parent_id": "53c021e0-f37c-4ee8-93e1-5c5aacb5b862",
+            "name": "新城村",
+            "lft": "6055",
+            "rght": "6056",
+            "population": "1645",
+            "population_electors": "1343",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54735d55-3540-4d44-975e-21eacf91e152",
+            "keywords": "2014-11,村里長,南投縣,魚池鄉,新城村"
+        },
+        "Candidate": [
+            {
+                "id": "53c027f6-0db4-49e5-820d-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "沈華儷",
+                "party": "無",
+                "gender": "f",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c021e1-61d4-42e2-92a7-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01cdf-86b8-4250-a99c-5460acb5b862",
+                "name": "新城村",
+                "is_area": true,
+                "keywords": "2014,南投縣,魚池鄉,新城村",
+                "AreasElection": {
+                    "id": "53c021e1-546c-464f-abf2-5c5aacb5b862",
+                    "Election_id": "53c021e1-61d4-42e2-92a7-5c5aacb5b862",
+                    "Area_id": "53c01cdf-86b8-4250-a99c-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "南投縣",
+                "lft": "5649",
+                "rght": "6200",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021e0-f37c-4ee8-93e1-5c5aacb5b862",
+                "parent_id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "name": "魚池鄉",
+                "lft": "6040",
+                "rght": "6067",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021e1-61d4-42e2-92a7-5c5aacb5b862",
+                "parent_id": "53c021e0-f37c-4ee8-93e1-5c5aacb5b862",
+                "name": "新城村",
+                "lft": "6055",
+                "rght": "6056",
+                "population": "1645",
+                "population_electors": "1343",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54735d55-3540-4d44-975e-21eacf91e152",
+                "keywords": "2014-11,村里長,南投縣,魚池鄉,新城村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

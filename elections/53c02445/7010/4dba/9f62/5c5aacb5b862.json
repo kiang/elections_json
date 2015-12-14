@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02445-7010-4dba-9f62-5c5aacb5b862",
+            "parent_id": "53c02444-c914-4ab9-b2ea-5c5aacb5b862",
+            "name": "安招里",
+            "lft": "13803",
+            "rght": "13804",
+            "population": "4121",
+            "population_electors": "3405",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb721-8060-4506-9f5d-2adbcf91e152",
+            "keywords": "2014-11,村里長,高雄市,燕巢區,安招里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02689-0458-46f6-9f1e-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "李金福",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02445-7010-4dba-9f62-5c5aacb5b862"
+            },
+            {
+                "id": "540b549b-693c-4ac9-9ecd-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "黃楷修",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "Huang Kai Shiu",
+                "election_id": "53c02445-7010-4dba-9f62-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01ea7-eb84-495a-bf3a-5460acb5b862",
+                "name": "安招里",
+                "is_area": true,
+                "keywords": "2014,高雄市,燕巢區,安招里",
+                "AreasElection": {
+                    "id": "53c02445-0a5c-4f02-a096-5c5aacb5b862",
+                    "Election_id": "53c02445-7010-4dba-9f62-5c5aacb5b862",
+                    "Area_id": "53c01ea7-eb84-495a-bf3a-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02444-c914-4ab9-b2ea-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "燕巢區",
+                "lft": "13796",
+                "rght": "13819",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02445-7010-4dba-9f62-5c5aacb5b862",
+                "parent_id": "53c02444-c914-4ab9-b2ea-5c5aacb5b862",
+                "name": "安招里",
+                "lft": "13803",
+                "rght": "13804",
+                "population": "4121",
+                "population_electors": "3405",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb721-8060-4506-9f5d-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,燕巢區,安招里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

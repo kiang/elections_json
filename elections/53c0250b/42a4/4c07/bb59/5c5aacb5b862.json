@@ -1,0 +1,145 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0250b-42a4-4c07-bb59-5c5aacb5b862",
+            "parent_id": "53c0250b-8b64-4768-afee-5c5aacb5b862",
+            "name": "永定里",
+            "lft": "16135",
+            "rght": "16136",
+            "population": "726",
+            "population_electors": "571",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-3480-4229-8159-1a32cf91e152",
+            "keywords": "2014-11,村里長,新北市,石碇區,永定里"
+        },
+        "Candidate": [
+            {
+                "id": "53c026dc-24fc-4228-a802-5dffacb5b862",
+                "image": null,
+                "stage": "0",
+                "name": "王勝男",
+                "party": null,
+                "gender": null,
+                "no": "0",
+                "name_english": "",
+                "election_id": "53c0250b-42a4-4c07-bb59-5c5aacb5b862"
+            },
+            {
+                "id": "540b5373-17a8-4fdc-9dd6-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "陳宗平",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c0250b-42a4-4c07-bb59-5c5aacb5b862"
+            },
+            {
+                "id": "540b5373-6928-4022-8049-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "王金洞",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "Wang Chin Tung",
+                "election_id": "53c0250b-42a4-4c07-bb59-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01f54-8f6c-4877-9ea7-5460acb5b862",
+                "name": "永定里",
+                "is_area": true,
+                "keywords": "2014,新北市,石碇區,永定里",
+                "AreasElection": {
+                    "id": "53c0250b-3bc0-482a-a11d-5c5aacb5b862",
+                    "Election_id": "53c0250b-42a4-4c07-bb59-5c5aacb5b862",
+                    "Area_id": "53c01f54-8f6c-4877-9ea7-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新北市",
+                "lft": "14261",
+                "rght": "16384",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0250b-8b64-4768-afee-5c5aacb5b862",
+                "parent_id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "name": "石碇區",
+                "lft": "16130",
+                "rght": "16155",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0250b-42a4-4c07-bb59-5c5aacb5b862",
+                "parent_id": "53c0250b-8b64-4768-afee-5c5aacb5b862",
+                "name": "永定里",
+                "lft": "16135",
+                "rght": "16136",
+                "population": "726",
+                "population_electors": "571",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-3480-4229-8159-1a32cf91e152",
+                "keywords": "2014-11,村里長,新北市,石碇區,永定里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

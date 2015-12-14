@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c023c0-8ee0-41f1-b6ad-5c5aacb5b862",
+            "parent_id": "53c023bb-9e20-4a96-90d6-5c5aacb5b862",
+            "name": "九如里",
+            "lft": "12119",
+            "rght": "12120",
+            "population": "6713",
+            "population_electors": "5416",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-bf04-469c-bcd5-4187cf91e152",
+            "keywords": "2014-11,村里長,臺北市,南港區,九如里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02648-598c-4f7e-9ed1-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "蘇國賢",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c023c0-8ee0-41f1-b6ad-5c5aacb5b862"
+            },
+            {
+                "id": "540b5304-1394-4fad-b9f0-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "謝建志",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c023c0-8ee0-41f1-b6ad-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01e33-b368-4f1c-804f-5460acb5b862",
+                "name": "九如里",
+                "is_area": true,
+                "keywords": "2014,臺北市,南港區,九如里",
+                "AreasElection": {
+                    "id": "53c023c0-c658-42b9-865f-5c5aacb5b862",
+                    "Election_id": "53c023c0-8ee0-41f1-b6ad-5c5aacb5b862",
+                    "Area_id": "53c01e33-b368-4f1c-804f-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023bb-9e20-4a96-90d6-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "南港區",
+                "lft": "12082",
+                "rght": "12123",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023c0-8ee0-41f1-b6ad-5c5aacb5b862",
+                "parent_id": "53c023bb-9e20-4a96-90d6-5c5aacb5b862",
+                "name": "九如里",
+                "lft": "12119",
+                "rght": "12120",
+                "population": "6713",
+                "population_electors": "5416",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-bf04-469c-bcd5-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,南港區,九如里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

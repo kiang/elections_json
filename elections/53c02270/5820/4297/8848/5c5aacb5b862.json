@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02270-5820-4297-8848-5c5aacb5b862",
+            "parent_id": "53c02265-2468-4454-be9d-5c5aacb5b862",
+            "name": "仁愛里",
+            "lft": "7921",
+            "rght": "7922",
+            "population": "2956",
+            "population_electors": "2200",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54773ba1-e860-4567-80cb-1915cf91e152",
+            "keywords": "2014-11,村里長,屏東縣,屏東市,仁愛里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02841-718c-4f9e-b54e-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "莊正旭",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02270-5820-4297-8848-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d59-81e8-4c07-8ad1-5460acb5b862",
+                "name": "仁愛里",
+                "is_area": true,
+                "keywords": "2014,屏東縣,屏東市,仁愛里",
+                "AreasElection": {
+                    "id": "53c02270-e77c-4e3c-b9bd-5c5aacb5b862",
+                    "Election_id": "53c02270-5820-4297-8848-5c5aacb5b862",
+                    "Area_id": "53c01d59-81e8-4c07-8ad1-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "7771",
+                "rght": "8766",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02265-2468-4454-be9d-5c5aacb5b862",
+                "parent_id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "name": "屏東市",
+                "lft": "7772",
+                "rght": "7931",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02270-5820-4297-8848-5c5aacb5b862",
+                "parent_id": "53c02265-2468-4454-be9d-5c5aacb5b862",
+                "name": "仁愛里",
+                "lft": "7921",
+                "rght": "7922",
+                "population": "2956",
+                "population_electors": "2200",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54773ba1-e860-4567-80cb-1915cf91e152",
+                "keywords": "2014-11,村里長,屏東縣,屏東市,仁愛里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

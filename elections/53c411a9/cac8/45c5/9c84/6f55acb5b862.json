@@ -1,0 +1,163 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c411a9-cac8-45c5-9c84-6f55acb5b862",
+            "parent_id": "53c02084-c98c-49f1-8e3f-5c5aacb5b862",
+            "name": "第09選區[山地]",
+            "lft": "484",
+            "rght": "485",
+            "population": "109104",
+            "population_electors": "89109",
+            "quota": "1",
+            "quota_women": "2",
+            "bulletin_key": "54742655-45d0-44db-a682-2d82cf91e152",
+            "keywords": "2014-11,縣市議員,屏東縣,第09選區[山地]"
+        },
+        "Candidate": [
+            {
+                "id": "53c68f8c-4e0c-4dfa-a15b-0f15acb5b862",
+                "image": "54964517\/b244\/49e4\/8e5d\/16086ab936af.jpg",
+                "stage": "1",
+                "name": "柯富國",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c411a9-cac8-45c5-9c84-6f55acb5b862"
+            },
+            {
+                "id": "540b56ba-7750-40dd-9f3a-1926acb5b862",
+                "image": "549645d0\/a0d0\/4d1e\/9788\/16046ab936af.jpg",
+                "stage": "2",
+                "name": "歸曉惠",
+                "party": "無",
+                "gender": "f",
+                "no": "1",
+                "name_english": "KUEI HSIAO HUI",
+                "election_id": "53c411a9-cac8-45c5-9c84-6f55acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d6c-2644-4c90-a48a-5460acb5b862",
+                "name": "九如鄉",
+                "is_area": true,
+                "keywords": "2014,屏東縣,九如鄉",
+                "AreasElection": {
+                    "id": "53c411a9-1c38-48bb-b385-6f55acb5b862",
+                    "Election_id": "53c411a9-cac8-45c5-9c84-6f55acb5b862",
+                    "Area_id": "53c01d6c-2644-4c90-a48a-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d6d-317c-4e81-898a-5460acb5b862",
+                "name": "里港鄉",
+                "is_area": true,
+                "keywords": "2014,屏東縣,里港鄉",
+                "AreasElection": {
+                    "id": "53c411aa-d3e0-4995-acc0-6f55acb5b862",
+                    "Election_id": "53c411a9-cac8-45c5-9c84-6f55acb5b862",
+                    "Area_id": "53c01d6d-317c-4e81-898a-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d6f-e880-4ccd-8e53-5460acb5b862",
+                "name": "鹽埔鄉",
+                "is_area": true,
+                "keywords": "2014,屏東縣,鹽埔鄉",
+                "AreasElection": {
+                    "id": "53c411ab-4aa8-4cdf-8f6b-6f55acb5b862",
+                    "Election_id": "53c411a9-cac8-45c5-9c84-6f55acb5b862",
+                    "Area_id": "53c01d6f-e880-4ccd-8e53-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d70-e68c-490c-baf3-5460acb5b862",
+                "name": "高樹鄉",
+                "is_area": true,
+                "keywords": "2014,屏東縣,高樹鄉",
+                "AreasElection": {
+                    "id": "53c411ac-05f4-4a2e-995a-6f55acb5b862",
+                    "Election_id": "53c411a9-cac8-45c5-9c84-6f55acb5b862",
+                    "Area_id": "53c01d70-e68c-490c-baf3-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d8b-f7b0-429a-8cbd-5460acb5b862",
+                "name": "三地門鄉",
+                "is_area": true,
+                "keywords": "2014,屏東縣,三地門鄉",
+                "AreasElection": {
+                    "id": "53c411ad-c000-4ad0-8a5a-6f55acb5b862",
+                    "Election_id": "53c411a9-cac8-45c5-9c84-6f55acb5b862",
+                    "Area_id": "53c01d8b-f7b0-429a-8cbd-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "縣市議員",
+                "lft": "306",
+                "rght": "607",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02084-c98c-49f1-8e3f-5c5aacb5b862",
+                "parent_id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "467",
+                "rght": "500",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c411a9-cac8-45c5-9c84-6f55acb5b862",
+                "parent_id": "53c02084-c98c-49f1-8e3f-5c5aacb5b862",
+                "name": "第09選區[山地]",
+                "lft": "484",
+                "rght": "485",
+                "population": "109104",
+                "population_electors": "89109",
+                "quota": "1",
+                "quota_women": "2",
+                "bulletin_key": "54742655-45d0-44db-a682-2d82cf91e152",
+                "keywords": "2014-11,縣市議員,屏東縣,第09選區[山地]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

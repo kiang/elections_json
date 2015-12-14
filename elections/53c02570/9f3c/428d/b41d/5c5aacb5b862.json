@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02570-9f3c-428d-b41d-5c5aacb5b862",
+            "parent_id": "53c0256e-9bdc-4114-8942-5c5aacb5b862",
+            "name": "大富里",
+            "lft": "17245",
+            "rght": "17246",
+            "population": "3029",
+            "population_electors": "2325",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e0692-6174-4146-b38e-1a32cf91e152",
+            "keywords": "2014-11,村里長,臺中市,潭子區,大富里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02708-f744-4cc9-9e0c-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "林啓彬",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "LIN CHI PIN",
+                "election_id": "53c02570-9f3c-428d-b41d-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01fa3-2558-4c85-ab7f-5460acb5b862",
+                "name": "大富里",
+                "is_area": true,
+                "keywords": "2014,臺中市,潭子區,大富里",
+                "AreasElection": {
+                    "id": "53c02570-0f14-423d-a411-5c5aacb5b862",
+                    "Election_id": "53c02570-9f3c-428d-b41d-5c5aacb5b862",
+                    "Area_id": "53c01fa3-2558-4c85-ab7f-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0256e-9bdc-4114-8942-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "潭子區",
+                "lft": "17228",
+                "rght": "17261",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02570-9f3c-428d-b41d-5c5aacb5b862",
+                "parent_id": "53c0256e-9bdc-4114-8942-5c5aacb5b862",
+                "name": "大富里",
+                "lft": "17245",
+                "rght": "17246",
+                "population": "3029",
+                "population_electors": "2325",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e0692-6174-4146-b38e-1a32cf91e152",
+                "keywords": "2014-11,村里長,臺中市,潭子區,大富里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0238e-1e88-4630-b48d-5c5aacb5b862",
+            "parent_id": "53c0238a-2b2c-4b71-a7e2-5c5aacb5b862",
+            "name": "中崙里",
+            "lft": "11505",
+            "rght": "11506",
+            "population": "4561",
+            "population_electors": "3331",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-9cb0-4093-a1c3-4187cf91e152",
+            "keywords": "2014-11,村里長,臺北市,松山區,中崙里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02632-d3dc-4349-aa4f-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "張陳碧雲",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "1",
+                "name_english": "CHANG CHEN PI YUN",
+                "election_id": "53c0238e-1e88-4630-b48d-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01e09-ca30-4d47-a0fd-5460acb5b862",
+                "name": "中崙里",
+                "is_area": true,
+                "keywords": "2014,臺北市,松山區,中崙里",
+                "AreasElection": {
+                    "id": "53c0238e-2e08-414a-a61d-5c5aacb5b862",
+                    "Election_id": "53c0238e-1e88-4630-b48d-5c5aacb5b862",
+                    "Area_id": "53c01e09-ca30-4d47-a0fd-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-2b2c-4b71-a7e2-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "松山區",
+                "lft": "11458",
+                "rght": "11525",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238e-1e88-4630-b48d-5c5aacb5b862",
+                "parent_id": "53c0238a-2b2c-4b71-a7e2-5c5aacb5b862",
+                "name": "中崙里",
+                "lft": "11505",
+                "rght": "11506",
+                "population": "4561",
+                "population_electors": "3331",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-9cb0-4093-a1c3-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,松山區,中崙里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

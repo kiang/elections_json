@@ -1,0 +1,200 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d73437-c504-4beb-b5fd-1299acb5b862",
+            "parent_id": "53c020d1-b080-43a5-b111-5c5aacb5b862",
+            "name": "第04選舉區[區域]",
+            "lft": "2233",
+            "rght": "2234",
+            "population": "9892",
+            "population_electors": "7746",
+            "quota": "3",
+            "quota_women": "0",
+            "bulletin_key": "5475673a-10f4-4e9b-af5e-0f78cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,屏東縣,恆春鎮,第04選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b5789-3a88-4585-bcd2-1926acb5b862",
+                "image": "54ce01ee\/ed28\/4bce\/9e3b\/074a6ab936af.jpg",
+                "stage": "2",
+                "name": "盧榮士",
+                "party": "無",
+                "gender": "m",
+                "no": "5",
+                "name_english": "",
+                "election_id": "53d73437-c504-4beb-b5fd-1299acb5b862"
+            },
+            {
+                "id": "540b5789-4000-427c-97f6-1926acb5b862",
+                "image": "54ce0217\/6b6c\/414d\/a660\/074a6ab936af.jpg",
+                "stage": "2",
+                "name": "盧榮生",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53d73437-c504-4beb-b5fd-1299acb5b862"
+            },
+            {
+                "id": "540b5789-9254-4d4e-8d1f-1926acb5b862",
+                "image": "54cd9e79\/0780\/4125\/a51c\/7a996ab936af.jpg",
+                "stage": "2",
+                "name": "周志仲",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53d73437-c504-4beb-b5fd-1299acb5b862"
+            },
+            {
+                "id": "540b5789-d610-42ba-8e55-1926acb5b862",
+                "image": "54ce0286\/c5e0\/4fb9\/84fa\/07476ab936af.jpg",
+                "stage": "1",
+                "name": "陳進義",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "4",
+                "name_english": "",
+                "election_id": "53d73437-c504-4beb-b5fd-1299acb5b862"
+            },
+            {
+                "id": "540b5789-dce4-4fd5-b193-1926acb5b862",
+                "image": "54ce02a3\/1228\/46f2\/8103\/077f6ab936af.jpg",
+                "stage": "1",
+                "name": "潘順發",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d73437-c504-4beb-b5fd-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d62-6a9c-48ed-b95e-5460acb5b862",
+                "name": "山腳里",
+                "is_area": true,
+                "keywords": "2014,屏東縣,恆春鎮,山腳里",
+                "AreasElection": {
+                    "id": "53d73437-28b0-45d1-8d91-1299acb5b862",
+                    "Election_id": "53d73437-c504-4beb-b5fd-1299acb5b862",
+                    "Area_id": "53c01d62-6a9c-48ed-b95e-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d63-24fc-43db-ae33-5460acb5b862",
+                "name": "墾丁里",
+                "is_area": true,
+                "keywords": "2014,屏東縣,恆春鎮,墾丁里",
+                "AreasElection": {
+                    "id": "53d73438-3990-4ffd-89f4-1299acb5b862",
+                    "Election_id": "53d73437-c504-4beb-b5fd-1299acb5b862",
+                    "Area_id": "53c01d63-24fc-43db-ae33-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d63-8d50-41b8-b3b1-5460acb5b862",
+                "name": "南灣里",
+                "is_area": true,
+                "keywords": "2014,屏東縣,恆春鎮,南灣里",
+                "AreasElection": {
+                    "id": "53d73438-8004-4d9e-a3aa-1299acb5b862",
+                    "Election_id": "53d73437-c504-4beb-b5fd-1299acb5b862",
+                    "Area_id": "53c01d63-8d50-41b8-b3b1-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d63-974c-4116-a702-5460acb5b862",
+                "name": "鵝鑾里",
+                "is_area": true,
+                "keywords": "2014,屏東縣,恆春鎮,鵝鑾里",
+                "AreasElection": {
+                    "id": "53d73438-1e9c-457f-b841-1299acb5b862",
+                    "Election_id": "53d73437-c504-4beb-b5fd-1299acb5b862",
+                    "Area_id": "53c01d63-974c-4116-a702-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ce-0798-4ae9-af49-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "2197",
+                "rght": "2484",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020d1-b080-43a5-b111-5c5aacb5b862",
+                "parent_id": "53c020ce-0798-4ae9-af49-5c5aacb5b862",
+                "name": "恆春鎮",
+                "lft": "2226",
+                "rght": "2235",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d73437-c504-4beb-b5fd-1299acb5b862",
+                "parent_id": "53c020d1-b080-43a5-b111-5c5aacb5b862",
+                "name": "第04選舉區[區域]",
+                "lft": "2233",
+                "rght": "2234",
+                "population": "9892",
+                "population_electors": "7746",
+                "quota": "3",
+                "quota_women": "0",
+                "bulletin_key": "5475673a-10f4-4e9b-af5e-0f78cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,屏東縣,恆春鎮,第04選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

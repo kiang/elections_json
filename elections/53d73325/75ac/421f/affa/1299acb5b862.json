@@ -1,0 +1,156 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d73325-75ac-421f-affa-1299acb5b862",
+            "parent_id": "53c020bc-08d0-4154-93ae-5c5aacb5b862",
+            "name": "第02選舉區[區域]",
+            "lft": "1531",
+            "rght": "1532",
+            "population": "3021",
+            "population_electors": "2372",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-a084-4f7f-ad12-74a5cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,彰化縣,線西鄉,第02選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b570f-38f8-434d-9a2a-1926acb5b862",
+                "image": "55d5cb21\/3928\/4aad\/a46e\/77406ab936af.jpg",
+                "stage": "1",
+                "name": "黃宏明",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "Huang Hung Ming",
+                "election_id": "53d73325-75ac-421f-affa-1299acb5b862"
+            },
+            {
+                "id": "540b570f-8f1c-48ee-b2aa-1926acb5b862",
+                "image": "55d5cadd\/45a8\/4e67\/8e36\/4f906ab936af.jpg",
+                "stage": "2",
+                "name": "黃漢皇",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53d73325-75ac-421f-affa-1299acb5b862"
+            },
+            {
+                "id": "540b570f-bf5c-4643-87bb-1926acb5b862",
+                "image": "55d5ca86\/93b0\/4f11\/ae24\/77346ab936af.jpg",
+                "stage": "2",
+                "name": "黃共灝",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d73325-75ac-421f-affa-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c8b-bb48-4d4d-91e4-5460acb5b862",
+                "name": "塭仔村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,線西鄉,塭仔村",
+                "AreasElection": {
+                    "id": "53d73325-d85c-4ade-a1d2-1299acb5b862",
+                    "Election_id": "53d73325-75ac-421f-affa-1299acb5b862",
+                    "Area_id": "53c01c8b-bb48-4d4d-91e4-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c8b-c43c-4dfa-91c5-5460acb5b862",
+                "name": "溝內村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,線西鄉,溝內村",
+                "AreasElection": {
+                    "id": "53d73325-3a04-4c1f-812a-1299acb5b862",
+                    "Election_id": "53d73325-75ac-421f-affa-1299acb5b862",
+                    "Area_id": "53c01c8b-c43c-4dfa-91c5-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020bb-fd28-4ab5-ad62-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "1497",
+                "rght": "1738",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020bc-08d0-4154-93ae-5c5aacb5b862",
+                "parent_id": "53c020bb-fd28-4ab5-ad62-5c5aacb5b862",
+                "name": "線西鄉",
+                "lft": "1528",
+                "rght": "1535",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d73325-75ac-421f-affa-1299acb5b862",
+                "parent_id": "53c020bc-08d0-4154-93ae-5c5aacb5b862",
+                "name": "第02選舉區[區域]",
+                "lft": "1531",
+                "rght": "1532",
+                "population": "3021",
+                "population_electors": "2372",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-a084-4f7f-ad12-74a5cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,彰化縣,線西鄉,第02選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,167 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d733d7-ffb0-4084-bf6b-1299acb5b862",
+            "parent_id": "53c020c8-dd10-4b8d-98e0-5c5aacb5b862",
+            "name": "第04選舉區[區域]",
+            "lft": "2001",
+            "rght": "2002",
+            "population": "2500",
+            "population_electors": "2226",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "546ebce3-d7b8-43cf-9eb6-2b96cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,雲林縣,東勢鄉,第04選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b575e-4890-4174-8579-1926acb5b862",
+                "image": "54c39ae3\/c7a0\/426d\/b6ac\/28806ab936af.jpg",
+                "stage": "1",
+                "name": "許金旺",
+                "party": "無",
+                "gender": "m",
+                "no": "4",
+                "name_english": "",
+                "election_id": "53d733d7-ffb0-4084-bf6b-1299acb5b862"
+            },
+            {
+                "id": "540b575e-5bc8-400f-b836-1926acb5b862",
+                "image": "54c39ab5\/6324\/4d35\/8158\/286a6ab936af.jpg",
+                "stage": "2",
+                "name": "吳金福",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53d733d7-ffb0-4084-bf6b-1299acb5b862"
+            },
+            {
+                "id": "540b575e-ab2c-45bc-9b31-1926acb5b862",
+                "image": "54c39a99\/a438\/4734\/86c3\/284d6ab936af.jpg",
+                "stage": "2",
+                "name": "許育銘",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d733d7-ffb0-4084-bf6b-1299acb5b862"
+            },
+            {
+                "id": "540b575f-7fc0-494a-b3bc-1926acb5b862",
+                "image": "54c39acd\/8e98\/48c2\/8d37\/28b66ab936af.jpg",
+                "stage": "1",
+                "name": "吳東明",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53d733d7-ffb0-4084-bf6b-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d0b-7c34-42b8-8ddc-5460acb5b862",
+                "name": "新坤村",
+                "is_area": true,
+                "keywords": "2014,雲林縣,東勢鄉,新坤村",
+                "AreasElection": {
+                    "id": "53d733d8-e184-4c9f-b7f4-1299acb5b862",
+                    "Election_id": "53d733d7-ffb0-4084-bf6b-1299acb5b862",
+                    "Area_id": "53c01d0b-7c34-42b8-8ddc-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d0b-c2e4-4744-9522-5460acb5b862",
+                "name": "四美村",
+                "is_area": true,
+                "keywords": "2014,雲林縣,東勢鄉,四美村",
+                "AreasElection": {
+                    "id": "53d733d8-a980-4069-a553-1299acb5b862",
+                    "Election_id": "53d733d7-ffb0-4084-bf6b-1299acb5b862",
+                    "Area_id": "53c01d0b-c2e4-4744-9522-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020c5-1718-4aea-8b3b-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "1865",
+                "rght": "2062",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020c8-dd10-4b8d-98e0-5c5aacb5b862",
+                "parent_id": "53c020c5-1718-4aea-8b3b-5c5aacb5b862",
+                "name": "東勢鄉",
+                "lft": "1994",
+                "rght": "2003",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d733d7-ffb0-4084-bf6b-1299acb5b862",
+                "parent_id": "53c020c8-dd10-4b8d-98e0-5c5aacb5b862",
+                "name": "第04選舉區[區域]",
+                "lft": "2001",
+                "rght": "2002",
+                "population": "2500",
+                "population_electors": "2226",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "546ebce3-d7b8-43cf-9eb6-2b96cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,雲林縣,東勢鄉,第04選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

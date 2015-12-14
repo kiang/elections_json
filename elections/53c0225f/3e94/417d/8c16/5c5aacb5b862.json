@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0225f-3e94-417d-8c16-5c5aacb5b862",
+            "parent_id": "53c0225e-a7c8-4ccf-a084-5c5aacb5b862",
+            "name": "番路村",
+            "lft": "7713",
+            "rght": "7714",
+            "population": "1012",
+            "population_electors": "842",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-d77c-4b6b-8d2f-2adbcf91e152",
+            "keywords": "2014-11,村里長,嘉義縣,番路鄉,番路村"
+        },
+        "Candidate": [
+            {
+                "id": "53c02839-c650-4184-8961-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "許李美玉",
+                "party": "無",
+                "gender": "f",
+                "no": "1",
+                "name_english": "HSU LEE MEI YU",
+                "election_id": "53c0225f-3e94-417d-8c16-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d4c-4c20-4e71-8c8f-5460acb5b862",
+                "name": "番路村",
+                "is_area": true,
+                "keywords": "2014,嘉義縣,番路鄉,番路村",
+                "AreasElection": {
+                    "id": "53c0225f-3274-45be-acd2-5c5aacb5b862",
+                    "Election_id": "53c0225f-3e94-417d-8c16-5c5aacb5b862",
+                    "Area_id": "53c01d4c-4c20-4e71-8c8f-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0222a-d5c0-465f-849c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "嘉義縣",
+                "lft": "7019",
+                "rght": "7770",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0225e-a7c8-4ccf-a084-5c5aacb5b862",
+                "parent_id": "53c0222a-d5c0-465f-849c-5c5aacb5b862",
+                "name": "番路鄉",
+                "lft": "7708",
+                "rght": "7731",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0225f-3e94-417d-8c16-5c5aacb5b862",
+                "parent_id": "53c0225e-a7c8-4ccf-a084-5c5aacb5b862",
+                "name": "番路村",
+                "lft": "7713",
+                "rght": "7714",
+                "population": "1012",
+                "population_electors": "842",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-d77c-4b6b-8d2f-2adbcf91e152",
+                "keywords": "2014-11,村里長,嘉義縣,番路鄉,番路村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

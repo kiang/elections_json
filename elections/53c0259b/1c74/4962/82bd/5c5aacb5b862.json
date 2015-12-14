@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0259b-1c74-4962-82bd-5c5aacb5b862",
+            "parent_id": "53c02598-1ce4-4c7a-a443-5c5aacb5b862",
+            "name": "護鎮里",
+            "lft": "17727",
+            "rght": "17728",
+            "population": "1646",
+            "population_electors": "1355",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "keywords": "2014-11,村里長,臺南市,新營區,護鎮里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0271c-af18-4649-8c64-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "陳添龍",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c0259b-1c74-4962-82bd-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01fc3-c93c-4995-a060-5460acb5b862",
+                "name": "護鎮里",
+                "is_area": true,
+                "keywords": "2014,臺南市,新營區,護鎮里",
+                "AreasElection": {
+                    "id": "53c0259b-4770-49a7-b461-5c5aacb5b862",
+                    "Election_id": "53c0259b-1c74-4962-82bd-5c5aacb5b862",
+                    "Area_id": "53c01fc3-c93c-4995-a060-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02598-fc40-4dee-aec0-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺南市",
+                "lft": "17695",
+                "rght": "19274",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02598-1ce4-4c7a-a443-5c5aacb5b862",
+                "parent_id": "53c02598-fc40-4dee-aec0-5c5aacb5b862",
+                "name": "新營區",
+                "lft": "17696",
+                "rght": "17755",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0259b-1c74-4962-82bd-5c5aacb5b862",
+                "parent_id": "53c02598-1ce4-4c7a-a443-5c5aacb5b862",
+                "name": "護鎮里",
+                "lft": "17727",
+                "rght": "17728",
+                "population": "1646",
+                "population_electors": "1355",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2014-11,村里長,臺南市,新營區,護鎮里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

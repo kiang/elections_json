@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c024f6-7e60-45a3-8499-5c5aacb5b862",
+            "parent_id": "53c024ef-d238-485e-8821-5c5aacb5b862",
+            "name": "廣興里",
+            "lft": "15917",
+            "rght": "15918",
+            "population": "3642",
+            "population_electors": "2838",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "keywords": "2014-11,村里長,新北市,土城區,廣興里"
+        },
+        "Candidate": [
+            {
+                "id": "53c026d4-3840-4348-bd6e-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "張淑玲",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "1",
+                "name_english": "CHANG SHU LING",
+                "election_id": "53c024f6-7e60-45a3-8499-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01f44-e2bc-4a77-b030-5460acb5b862",
+                "name": "廣興里",
+                "is_area": true,
+                "keywords": "2014,新北市,土城區,廣興里",
+                "AreasElection": {
+                    "id": "53c024f7-743c-4442-96f3-5c5aacb5b862",
+                    "Election_id": "53c024f6-7e60-45a3-8499-5c5aacb5b862",
+                    "Area_id": "53c01f44-e2bc-4a77-b030-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新北市",
+                "lft": "14261",
+                "rght": "16384",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c024ef-d238-485e-8821-5c5aacb5b862",
+                "parent_id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "name": "土城區",
+                "lft": "15824",
+                "rght": "15919",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c024f6-7e60-45a3-8499-5c5aacb5b862",
+                "parent_id": "53c024ef-d238-485e-8821-5c5aacb5b862",
+                "name": "廣興里",
+                "lft": "15917",
+                "rght": "15918",
+                "population": "3642",
+                "population_electors": "2838",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2014-11,村里長,新北市,土城區,廣興里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

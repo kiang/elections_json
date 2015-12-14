@@ -1,0 +1,178 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d7330c-46a8-48eb-9c63-1299acb5b862",
+            "parent_id": "53c020ba-edd4-4631-9387-5c5aacb5b862",
+            "name": "第03選舉區[區域]",
+            "lft": "1493",
+            "rght": "1494",
+            "population": "2185",
+            "population_electors": "1647",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "546d8dba-8648-49e1-b85d-0e51cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,苗栗縣,泰安鄉,第03選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b5707-6428-4af3-b732-1926acb5b862",
+                "image": "54ba8201\/f750\/438e\/b6ca\/53c46ab936af.jpg",
+                "stage": "2",
+                "name": "吳雅各",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53d7330c-46a8-48eb-9c63-1299acb5b862"
+            },
+            {
+                "id": "540b5707-f314-4ce1-bbde-1926acb5b862",
+                "image": "54ba81ca\/34e0\/4026\/b59e\/53b86ab936af.jpg",
+                "stage": "2",
+                "name": "陳道光",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d7330c-46a8-48eb-9c63-1299acb5b862"
+            },
+            {
+                "id": "540b5707-f4dc-4810-b414-1926acb5b862",
+                "image": "54ba823c\/fd54\/421a\/a66e\/53c16ab936af.jpg",
+                "stage": "1",
+                "name": "高榮盛",
+                "party": "無",
+                "gender": "m",
+                "no": "4",
+                "name_english": "",
+                "election_id": "53d7330c-46a8-48eb-9c63-1299acb5b862"
+            },
+            {
+                "id": "540b5707-f4fc-4603-a73a-1926acb5b862",
+                "image": "54ba821d\/ca48\/4ec6\/86e5\/53c56ab936af.jpg",
+                "stage": "1",
+                "name": "詹民杰",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53d7330c-46a8-48eb-9c63-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c78-2d18-41b2-aef7-5460acb5b862",
+                "name": "士林村",
+                "is_area": true,
+                "keywords": "2014,苗栗縣,泰安鄉,士林村",
+                "AreasElection": {
+                    "id": "53d7330d-fc78-4dc4-a711-1299acb5b862",
+                    "Election_id": "53d7330c-46a8-48eb-9c63-1299acb5b862",
+                    "Area_id": "53c01c78-2d18-41b2-aef7-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c78-3d40-4e34-899d-5460acb5b862",
+                "name": "梅園村",
+                "is_area": true,
+                "keywords": "2014,苗栗縣,泰安鄉,梅園村",
+                "AreasElection": {
+                    "id": "53d7330c-f108-429e-8b99-1299acb5b862",
+                    "Election_id": "53d7330c-46a8-48eb-9c63-1299acb5b862",
+                    "Area_id": "53c01c78-3d40-4e34-899d-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c78-d708-4281-bda2-5460acb5b862",
+                "name": "象鼻村",
+                "is_area": true,
+                "keywords": "2014,苗栗縣,泰安鄉,象鼻村",
+                "AreasElection": {
+                    "id": "53d7330d-9838-42eb-aa92-1299acb5b862",
+                    "Election_id": "53d7330c-46a8-48eb-9c63-1299acb5b862",
+                    "Area_id": "53c01c78-d708-4281-bda2-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b7-c5b4-41c9-bda3-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "苗栗縣",
+                "lft": "1323",
+                "rght": "1496",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ba-edd4-4631-9387-5c5aacb5b862",
+                "parent_id": "53c020b7-c5b4-41c9-bda3-5c5aacb5b862",
+                "name": "泰安鄉",
+                "lft": "1488",
+                "rght": "1495",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d7330c-46a8-48eb-9c63-1299acb5b862",
+                "parent_id": "53c020ba-edd4-4631-9387-5c5aacb5b862",
+                "name": "第03選舉區[區域]",
+                "lft": "1493",
+                "rght": "1494",
+                "population": "2185",
+                "population_electors": "1647",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "546d8dba-8648-49e1-b85d-0e51cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,苗栗縣,泰安鄉,第03選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

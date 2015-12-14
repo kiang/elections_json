@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c020fe-5d10-4ae8-8004-5c5aacb5b862",
+            "parent_id": "53c020fe-998c-4429-9833-5c5aacb5b862",
+            "name": "大溪里",
+            "lft": "3115",
+            "rght": "3116",
+            "population": "1069",
+            "population_electors": "883",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-b748-4915-9fa3-2adbcf91e152",
+            "keywords": "2014-11,村里長,宜蘭縣,頭城鎮,大溪里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0275b-7f44-4fc1-abc0-5dffacb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "沈瑞雲",
+                "party": "無",
+                "gender": "f",
+                "no": "1",
+                "name_english": "SHEN JUI YUN",
+                "election_id": "53c020fe-5d10-4ae8-8004-5c5aacb5b862"
+            },
+            {
+                "id": "540b55f7-1c34-4c49-910d-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "陳色雄",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "CHEN SH HSIUNG",
+                "election_id": "53c020fe-5d10-4ae8-8004-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01be2-9a94-44bf-bb25-5460acb5b862",
+                "name": "大溪里",
+                "is_area": true,
+                "keywords": "2014,宜蘭縣,頭城鎮,大溪里",
+                "AreasElection": {
+                    "id": "53c020ff-6b1c-437b-af71-5c5aacb5b862",
+                    "Election_id": "53c020fe-5d10-4ae8-8004-5c5aacb5b862",
+                    "Area_id": "53c01be2-9a94-44bf-bb25-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ef-6268-4b1a-a16d-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "宜蘭縣",
+                "lft": "2929",
+                "rght": "3420",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020fe-998c-4429-9833-5c5aacb5b862",
+                "parent_id": "53c020ef-6268-4b1a-a16d-5c5aacb5b862",
+                "name": "頭城鎮",
+                "lft": "3110",
+                "rght": "3159",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020fe-5d10-4ae8-8004-5c5aacb5b862",
+                "parent_id": "53c020fe-998c-4429-9833-5c5aacb5b862",
+                "name": "大溪里",
+                "lft": "3115",
+                "rght": "3116",
+                "population": "1069",
+                "population_electors": "883",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-b748-4915-9fa3-2adbcf91e152",
+                "keywords": "2014-11,村里長,宜蘭縣,頭城鎮,大溪里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

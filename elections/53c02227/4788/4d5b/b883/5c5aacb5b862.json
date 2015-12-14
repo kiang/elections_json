@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02227-4788-4d5b-b883-5c5aacb5b862",
+            "parent_id": "53c02226-58d0-4cd4-9a2e-5c5aacb5b862",
+            "name": "西井村",
+            "lft": "6975",
+            "rght": "6976",
+            "population": "754",
+            "population_electors": "641",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546ec148-acf8-4c4a-8126-2e05cf91e152",
+            "keywords": "2014-11,村里長,雲林縣,水林鄉,西井村"
+        },
+        "Candidate": [
+            {
+                "id": "53c0281b-80fc-4b1b-b0e4-5dffacb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "陳云",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02227-4788-4d5b-b883-5c5aacb5b862"
+            },
+            {
+                "id": "540b5583-2d30-42cf-b731-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "陳丑壬",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c02227-4788-4d5b-b883-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d18-c674-495c-bbd4-5460acb5b862",
+                "name": "西井村",
+                "is_area": true,
+                "keywords": "2014,雲林縣,水林鄉,西井村",
+                "AreasElection": {
+                    "id": "53c02227-e360-4075-ae36-5c5aacb5b862",
+                    "Election_id": "53c02227-4788-4d5b-b883-5c5aacb5b862",
+                    "Area_id": "53c01d18-c674-495c-bbd4-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "6201",
+                "rght": "7018",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02226-58d0-4cd4-9a2e-5c5aacb5b862",
+                "parent_id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "name": "水林鄉",
+                "lft": "6968",
+                "rght": "7017",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02227-4788-4d5b-b883-5c5aacb5b862",
+                "parent_id": "53c02226-58d0-4cd4-9a2e-5c5aacb5b862",
+                "name": "西井村",
+                "lft": "6975",
+                "rght": "6976",
+                "population": "754",
+                "population_electors": "641",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546ec148-acf8-4c4a-8126-2e05cf91e152",
+                "keywords": "2014-11,村里長,雲林縣,水林鄉,西井村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

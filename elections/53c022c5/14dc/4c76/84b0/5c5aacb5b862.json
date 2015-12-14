@@ -1,0 +1,145 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c022c5-14dc-4c76-84b0-5c5aacb5b862",
+            "parent_id": "53c022c5-5928-4242-92a1-5c5aacb5b862",
+            "name": "南興村",
+            "lft": "9017",
+            "rght": "9018",
+            "population": "696",
+            "population_electors": "595",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546f277f-b08c-4a6c-8e1a-2f28cf91e152",
+            "keywords": "2014-11,村里長,臺東縣,大武鄉,南興村"
+        },
+        "Candidate": [
+            {
+                "id": "53c02867-512c-4df7-8bb4-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "林姚如",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c022c5-14dc-4c76-84b0-5c5aacb5b862"
+            },
+            {
+                "id": "540b5630-2cb0-44d3-a863-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "張進福",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53c022c5-14dc-4c76-84b0-5c5aacb5b862"
+            },
+            {
+                "id": "540b5630-66b8-417d-b70b-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "楊建雄",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c022c5-14dc-4c76-84b0-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01da6-bd64-4418-bb65-5460acb5b862",
+                "name": "南興村",
+                "is_area": true,
+                "keywords": "2014,臺東縣,大武鄉,南興村",
+                "AreasElection": {
+                    "id": "53c022c5-77b0-418c-a026-5c5aacb5b862",
+                    "Election_id": "53c022c5-14dc-4c76-84b0-5c5aacb5b862",
+                    "Area_id": "53c01da6-bd64-4418-bb65-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022b2-b9f0-4517-825f-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺東縣",
+                "lft": "8767",
+                "rght": "9094",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022c5-5928-4242-92a1-5c5aacb5b862",
+                "parent_id": "53c022b2-b9f0-4517-825f-5c5aacb5b862",
+                "name": "大武鄉",
+                "lft": "9012",
+                "rght": "9023",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022c5-14dc-4c76-84b0-5c5aacb5b862",
+                "parent_id": "53c022c5-5928-4242-92a1-5c5aacb5b862",
+                "name": "南興村",
+                "lft": "9017",
+                "rght": "9018",
+                "population": "696",
+                "population_electors": "595",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546f277f-b08c-4a6c-8e1a-2f28cf91e152",
+                "keywords": "2014-11,村里長,臺東縣,大武鄉,南興村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

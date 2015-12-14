@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0257d-e44c-4a3e-a9f8-5c5aacb5b862",
+            "parent_id": "53c0257b-df94-4a5e-9fe0-5c5aacb5b862",
+            "name": "永安里",
+            "lft": "17385",
+            "rght": "17386",
+            "population": "2088",
+            "population_electors": "1659",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e0690-a59c-4b9d-a722-1a32cf91e152",
+            "keywords": "2014-11,村里長,臺中市,大安區,永安里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0270e-b650-4958-b94d-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "謝綢",
+                "party": "無",
+                "gender": "f",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c0257d-e44c-4a3e-a9f8-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01fac-db28-45d9-ace5-5460acb5b862",
+                "name": "永安里",
+                "is_area": true,
+                "keywords": "2014,臺中市,大安區,永安里",
+                "AreasElection": {
+                    "id": "53c0257d-6084-4476-85dd-5c5aacb5b862",
+                    "Election_id": "53c0257d-e44c-4a3e-a9f8-5c5aacb5b862",
+                    "Area_id": "53c01fac-db28-45d9-ace5-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0257b-df94-4a5e-9fe0-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "大安區",
+                "lft": "17368",
+                "rght": "17393",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0257d-e44c-4a3e-a9f8-5c5aacb5b862",
+                "parent_id": "53c0257b-df94-4a5e-9fe0-5c5aacb5b862",
+                "name": "永安里",
+                "lft": "17385",
+                "rght": "17386",
+                "population": "2088",
+                "population_electors": "1659",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e0690-a59c-4b9d-a722-1a32cf91e152",
+                "keywords": "2014-11,村里長,臺中市,大安區,永安里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

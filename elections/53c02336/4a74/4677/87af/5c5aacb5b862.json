@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02336-4a74-4677-87af-5c5aacb5b862",
+            "parent_id": "53c02331-37e4-49a2-a7ea-5c5aacb5b862",
+            "name": "文化里",
+            "lft": "10415",
+            "rght": "10416",
+            "population": "2644",
+            "population_electors": "2250",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "keywords": "2014-11,村里長,嘉義市,西區,文化里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0289c-89cc-4c89-ab3d-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "陳淑娥",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02336-4a74-4677-87af-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01e03-9604-4638-8e8e-5460acb5b862",
+                "name": "文化里",
+                "is_area": true,
+                "keywords": "2014,嘉義市,西區,文化里",
+                "AreasElection": {
+                    "id": "53c02337-d6f8-4d99-a69e-5c5aacb5b862",
+                    "Election_id": "53c02336-4a74-4677-87af-5c5aacb5b862",
+                    "Area_id": "53c01e03-9604-4638-8e8e-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0232b-91c8-456a-8388-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "嘉義市",
+                "lft": "10265",
+                "rght": "10438",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02331-37e4-49a2-a7ea-5c5aacb5b862",
+                "parent_id": "53c0232b-91c8-456a-8388-5c5aacb5b862",
+                "name": "西區",
+                "lft": "10346",
+                "rght": "10437",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02336-4a74-4677-87af-5c5aacb5b862",
+                "parent_id": "53c02331-37e4-49a2-a7ea-5c5aacb5b862",
+                "name": "文化里",
+                "lft": "10415",
+                "rght": "10416",
+                "population": "2644",
+                "population_electors": "2250",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2014-11,村里長,嘉義市,西區,文化里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

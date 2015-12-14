@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02103-2c08-466d-bcc1-5c5aacb5b862",
+            "parent_id": "53c02102-2d2c-4ab1-80e7-5c5aacb5b862",
+            "name": "德陽村",
+            "lft": "3169",
+            "rght": "3170",
+            "population": "4505",
+            "population_electors": "3689",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-4d64-471e-b66c-2adbcf91e152",
+            "keywords": "2014-11,村里長,宜蘭縣,礁溪鄉,德陽村"
+        },
+        "Candidate": [
+            {
+                "id": "53c0275d-2a0c-404a-801d-5dffacb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "林弘堅",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02103-2c08-466d-bcc1-5c5aacb5b862"
+            },
+            {
+                "id": "540b55f9-545c-43b5-8860-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "何衍財",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c02103-2c08-466d-bcc1-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01be6-dc6c-4d0a-a5de-5460acb5b862",
+                "name": "德陽村",
+                "is_area": true,
+                "keywords": "2014,宜蘭縣,礁溪鄉,德陽村",
+                "AreasElection": {
+                    "id": "53c02103-6810-4f67-875e-5c5aacb5b862",
+                    "Election_id": "53c02103-2c08-466d-bcc1-5c5aacb5b862",
+                    "Area_id": "53c01be6-dc6c-4d0a-a5de-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ef-6268-4b1a-a16d-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "宜蘭縣",
+                "lft": "2929",
+                "rght": "3420",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02102-2d2c-4ab1-80e7-5c5aacb5b862",
+                "parent_id": "53c020ef-6268-4b1a-a16d-5c5aacb5b862",
+                "name": "礁溪鄉",
+                "lft": "3160",
+                "rght": "3197",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02103-2c08-466d-bcc1-5c5aacb5b862",
+                "parent_id": "53c02102-2d2c-4ab1-80e7-5c5aacb5b862",
+                "name": "德陽村",
+                "lft": "3169",
+                "rght": "3170",
+                "population": "4505",
+                "population_electors": "3689",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-4d64-471e-b66c-2adbcf91e152",
+                "keywords": "2014-11,村里長,宜蘭縣,礁溪鄉,德陽村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

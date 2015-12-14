@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c022e5-2ed4-45ac-abb3-5c5aacb5b862",
+            "parent_id": "53c022e3-c630-4365-86bb-5c5aacb5b862",
+            "name": "學田村",
+            "lft": "9423",
+            "rght": "9424",
+            "population": "770",
+            "population_electors": "626",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546d8db9-c534-4077-9727-0e51cf91e152",
+            "keywords": "2014-11,村里長,花蓮縣,富里鄉,學田村"
+        },
+        "Candidate": [
+            {
+                "id": "53c02876-5014-43b6-ba0e-5dffacb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "林春德",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c022e5-2ed4-45ac-abb3-5c5aacb5b862"
+            },
+            {
+                "id": "540b561a-6c64-47f7-94ac-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "朱明安",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c022e5-2ed4-45ac-abb3-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01dbe-c51c-47c7-a154-5460acb5b862",
+                "name": "學田村",
+                "is_area": true,
+                "keywords": "2014,花蓮縣,富里鄉,學田村",
+                "AreasElection": {
+                    "id": "53c022e5-dad8-4c56-bd10-5c5aacb5b862",
+                    "Election_id": "53c022e5-2ed4-45ac-abb3-5c5aacb5b862",
+                    "Area_id": "53c01dbe-c51c-47c7-a154-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022cb-ff18-4c61-98a3-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "花蓮縣",
+                "lft": "9095",
+                "rght": "9476",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022e3-c630-4365-86bb-5c5aacb5b862",
+                "parent_id": "53c022cb-ff18-4c61-98a3-5c5aacb5b862",
+                "name": "富里鄉",
+                "lft": "9400",
+                "rght": "9427",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022e5-2ed4-45ac-abb3-5c5aacb5b862",
+                "parent_id": "53c022e3-c630-4365-86bb-5c5aacb5b862",
+                "name": "學田村",
+                "lft": "9423",
+                "rght": "9424",
+                "population": "770",
+                "population_electors": "626",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546d8db9-c534-4077-9727-0e51cf91e152",
+                "keywords": "2014-11,村里長,花蓮縣,富里鄉,學田村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

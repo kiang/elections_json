@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02201-9494-4df6-a5da-5c5aacb5b862",
+            "parent_id": "53c021fe-0d04-4f0d-b02a-5c5aacb5b862",
+            "name": "後埔里",
+            "lft": "6473",
+            "rght": "6474",
+            "population": "2843",
+            "population_electors": "2278",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546ebd71-67d4-4588-be76-2c67cf91e152",
+            "keywords": "2014-11,村里長,雲林縣,土庫鎮,後埔里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02808-7b60-4a1f-a51e-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "王長慶",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "WANG CHANG CHING",
+                "election_id": "53c02201-9494-4df6-a5da-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01cf8-34c8-462e-aedd-5460acb5b862",
+                "name": "後埔里",
+                "is_area": true,
+                "keywords": "2014,雲林縣,土庫鎮,後埔里",
+                "AreasElection": {
+                    "id": "53c02201-b844-4996-95ca-5c5aacb5b862",
+                    "Election_id": "53c02201-9494-4df6-a5da-5c5aacb5b862",
+                    "Area_id": "53c01cf8-34c8-462e-aedd-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "6201",
+                "rght": "7018",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021fe-0d04-4f0d-b02a-5c5aacb5b862",
+                "parent_id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "name": "土庫鎮",
+                "lft": "6442",
+                "rght": "6477",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02201-9494-4df6-a5da-5c5aacb5b862",
+                "parent_id": "53c021fe-0d04-4f0d-b02a-5c5aacb5b862",
+                "name": "後埔里",
+                "lft": "6473",
+                "rght": "6474",
+                "population": "2843",
+                "population_electors": "2278",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546ebd71-67d4-4588-be76-2c67cf91e152",
+                "keywords": "2014-11,村里長,雲林縣,土庫鎮,後埔里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

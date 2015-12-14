@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c023bd-fb80-48b9-bf0f-5c5aacb5b862",
+            "parent_id": "53c023bb-9e20-4a96-90d6-5c5aacb5b862",
+            "name": "三重里",
+            "lft": "12095",
+            "rght": "12096",
+            "population": "6474",
+            "population_electors": "5063",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-fc0c-4a74-b161-4187cf91e152",
+            "keywords": "2014-11,村里長,臺北市,南港區,三重里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02647-e42c-4a55-90df-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "江輝吉",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "CHIANG HUI CHI",
+                "election_id": "53c023bd-fb80-48b9-bf0f-5c5aacb5b862"
+            },
+            {
+                "id": "540b5302-9018-41a8-9c7a-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "闕山柳",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "CHUEH SHAN LIU",
+                "election_id": "53c023bd-fb80-48b9-bf0f-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01e31-9d84-4c45-ab23-5460acb5b862",
+                "name": "三重里",
+                "is_area": true,
+                "keywords": "2014,臺北市,南港區,三重里",
+                "AreasElection": {
+                    "id": "53c023bd-4168-461c-ab1a-5c5aacb5b862",
+                    "Election_id": "53c023bd-fb80-48b9-bf0f-5c5aacb5b862",
+                    "Area_id": "53c01e31-9d84-4c45-ab23-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023bb-9e20-4a96-90d6-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "南港區",
+                "lft": "12082",
+                "rght": "12123",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023bd-fb80-48b9-bf0f-5c5aacb5b862",
+                "parent_id": "53c023bb-9e20-4a96-90d6-5c5aacb5b862",
+                "name": "三重里",
+                "lft": "12095",
+                "rght": "12096",
+                "population": "6474",
+                "population_electors": "5063",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-fc0c-4a74-b161-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,南港區,三重里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

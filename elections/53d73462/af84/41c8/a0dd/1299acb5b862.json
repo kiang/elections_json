@@ -1,0 +1,167 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d73462-af84-41c8-a0dd-1299acb5b862",
+            "parent_id": "53c020d5-0160-496d-9a60-5c5aacb5b862",
+            "name": "第03選舉區[區域]",
+            "lft": "2365",
+            "rght": "2366",
+            "population": "3342",
+            "population_electors": "2536",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "5475673a-cc48-428f-8f71-0f78cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,屏東縣,崁頂鄉,第03選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b57a1-0eac-4a15-b3ee-1926acb5b862",
+                "image": "54c791c4\/3ff8\/4bb5\/9337\/4b2b6ab936af.jpg",
+                "stage": "1",
+                "name": "郭建清",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53d73462-af84-41c8-a0dd-1299acb5b862"
+            },
+            {
+                "id": "540b57a1-3174-434d-8801-1926acb5b862",
+                "image": "54c791d8\/7a90\/4ae3\/921d\/4aed6ab936af.jpg",
+                "stage": "2",
+                "name": "郭茂良",
+                "party": "無",
+                "gender": "m",
+                "no": "4",
+                "name_english": "",
+                "election_id": "53d73462-af84-41c8-a0dd-1299acb5b862"
+            },
+            {
+                "id": "540b57a1-4aec-43f9-b2d7-1926acb5b862",
+                "image": "54c791a8\/0ba8\/4601\/87a0\/4b2c6ab936af.jpg",
+                "stage": "1",
+                "name": "王錦進",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53d73462-af84-41c8-a0dd-1299acb5b862"
+            },
+            {
+                "id": "540b57a1-ff40-4101-8b2c-1926acb5b862",
+                "image": "54c7917b\/6868\/4ab8\/bea2\/4b2f6ab936af.jpg",
+                "stage": "2",
+                "name": "劉存妙",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d73462-af84-41c8-a0dd-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d82-c8c0-4dc7-8790-5460acb5b862",
+                "name": "洲子村",
+                "is_area": true,
+                "keywords": "2014,屏東縣,崁頂鄉,洲子村",
+                "AreasElection": {
+                    "id": "53d73463-18f8-4ac1-b7e0-1299acb5b862",
+                    "Election_id": "53d73462-af84-41c8-a0dd-1299acb5b862",
+                    "Area_id": "53c01d82-c8c0-4dc7-8790-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d82-f138-4519-9904-5460acb5b862",
+                "name": "北勢村",
+                "is_area": true,
+                "keywords": "2014,屏東縣,崁頂鄉,北勢村",
+                "AreasElection": {
+                    "id": "53d73463-997c-4cdb-aae9-1299acb5b862",
+                    "Election_id": "53d73462-af84-41c8-a0dd-1299acb5b862",
+                    "Area_id": "53c01d82-f138-4519-9904-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ce-0798-4ae9-af49-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "2197",
+                "rght": "2484",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020d5-0160-496d-9a60-5c5aacb5b862",
+                "parent_id": "53c020ce-0798-4ae9-af49-5c5aacb5b862",
+                "name": "崁頂鄉",
+                "lft": "2360",
+                "rght": "2369",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d73462-af84-41c8-a0dd-1299acb5b862",
+                "parent_id": "53c020d5-0160-496d-9a60-5c5aacb5b862",
+                "name": "第03選舉區[區域]",
+                "lft": "2365",
+                "rght": "2366",
+                "population": "3342",
+                "population_electors": "2536",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "5475673a-cc48-428f-8f71-0f78cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,屏東縣,崁頂鄉,第03選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

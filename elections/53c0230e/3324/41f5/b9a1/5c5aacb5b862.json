@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0230e-3324-41f5-b9a1-5c5aacb5b862",
+            "parent_id": "53c0230d-4e50-4e50-b9ba-5c5aacb5b862",
+            "name": "新西里",
+            "lft": "9925",
+            "rght": "9926",
+            "population": "1593",
+            "population_electors": "1360",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c8095-9a50-4502-b97b-61a3cf91e152",
+            "keywords": "2014-11,村里長,基隆市,安樂區,新西里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0288a-29b0-49e1-aef5-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "陳漢昭",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "CHEN HAN CHAO",
+                "election_id": "53c0230e-3324-41f5-b9a1-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01ddf-79c4-4616-9ce9-5460acb5b862",
+                "name": "新西里",
+                "is_area": true,
+                "keywords": "2014,基隆市,安樂區,新西里",
+                "AreasElection": {
+                    "id": "53c0230e-46e8-4c02-8caa-5c5aacb5b862",
+                    "Election_id": "53c0230e-3324-41f5-b9a1-5c5aacb5b862",
+                    "Area_id": "53c01ddf-79c4-4616-9ce9-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "基隆市",
+                "lft": "9683",
+                "rght": "10012",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0230d-4e50-4e50-b9ba-5c5aacb5b862",
+                "parent_id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "name": "安樂區",
+                "lft": "9918",
+                "rght": "9969",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0230e-3324-41f5-b9a1-5c5aacb5b862",
+                "parent_id": "53c0230d-4e50-4e50-b9ba-5c5aacb5b862",
+                "name": "新西里",
+                "lft": "9925",
+                "rght": "9926",
+                "population": "1593",
+                "population_electors": "1360",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c8095-9a50-4502-b97b-61a3cf91e152",
+                "keywords": "2014-11,村里長,基隆市,安樂區,新西里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

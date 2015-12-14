@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02259-7e48-4d93-b173-5c5aacb5b862",
+            "parent_id": "53c02257-a9b8-4b54-b76e-5c5aacb5b862",
+            "name": "鹿滿村",
+            "lft": "7629",
+            "rght": "7630",
+            "population": "1730",
+            "population_electors": "1450",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546ef559-804c-4f1e-a79a-208ecf91e152",
+            "keywords": "2014-11,村里長,嘉義縣,竹崎鄉,鹿滿村"
+        },
+        "Candidate": [
+            {
+                "id": "53c02837-2e08-4588-b978-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "陳良玉",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02259-7e48-4d93-b173-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d46-23f0-4a41-9bd3-5460acb5b862",
+                "name": "鹿滿村",
+                "is_area": true,
+                "keywords": "2014,嘉義縣,竹崎鄉,鹿滿村",
+                "AreasElection": {
+                    "id": "53c02259-12dc-4228-afe3-5c5aacb5b862",
+                    "Election_id": "53c02259-7e48-4d93-b173-5c5aacb5b862",
+                    "Area_id": "53c01d46-23f0-4a41-9bd3-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0222a-d5c0-465f-849c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "嘉義縣",
+                "lft": "7019",
+                "rght": "7770",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02257-a9b8-4b54-b76e-5c5aacb5b862",
+                "parent_id": "53c0222a-d5c0-465f-849c-5c5aacb5b862",
+                "name": "竹崎鄉",
+                "lft": "7620",
+                "rght": "7669",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02259-7e48-4d93-b173-5c5aacb5b862",
+                "parent_id": "53c02257-a9b8-4b54-b76e-5c5aacb5b862",
+                "name": "鹿滿村",
+                "lft": "7629",
+                "rght": "7630",
+                "population": "1730",
+                "population_electors": "1450",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546ef559-804c-4f1e-a79a-208ecf91e152",
+                "keywords": "2014-11,村里長,嘉義縣,竹崎鄉,鹿滿村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

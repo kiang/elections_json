@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c021cd-36ac-4131-b2a0-5c5aacb5b862",
+            "parent_id": "53c021cd-cfbc-47ba-93e0-5c5aacb5b862",
+            "name": "玉峰里",
+            "lft": "5789",
+            "rght": "5790",
+            "population": "2590",
+            "population_electors": "2109",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54735d55-1ba8-4103-ab4b-21eacf91e152",
+            "keywords": "2014-11,村里長,南投縣,草屯鎮,玉峰里"
+        },
+        "Candidate": [
+            {
+                "id": "53c027ec-bc40-4964-9b73-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "陳東建",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "Chen Tung Chien",
+                "election_id": "53c021cd-36ac-4131-b2a0-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01cce-07c4-4efe-9847-5460acb5b862",
+                "name": "玉峰里",
+                "is_area": true,
+                "keywords": "2014,南投縣,草屯鎮,玉峰里",
+                "AreasElection": {
+                    "id": "53c021cd-c9b8-4c10-b4a7-5c5aacb5b862",
+                    "Election_id": "53c021cd-36ac-4131-b2a0-5c5aacb5b862",
+                    "Area_id": "53c01cce-07c4-4efe-9847-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "南投縣",
+                "lft": "5649",
+                "rght": "6200",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021cd-cfbc-47ba-93e0-5c5aacb5b862",
+                "parent_id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "name": "草屯鎮",
+                "lft": "5788",
+                "rght": "5843",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021cd-36ac-4131-b2a0-5c5aacb5b862",
+                "parent_id": "53c021cd-cfbc-47ba-93e0-5c5aacb5b862",
+                "name": "玉峰里",
+                "lft": "5789",
+                "rght": "5790",
+                "population": "2590",
+                "population_electors": "2109",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54735d55-1ba8-4103-ab4b-21eacf91e152",
+                "keywords": "2014-11,村里長,南投縣,草屯鎮,玉峰里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

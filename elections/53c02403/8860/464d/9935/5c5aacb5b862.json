@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02403-8860-464d-9935-5c5aacb5b862",
+            "parent_id": "53c02401-a518-4567-b540-5c5aacb5b862",
+            "name": "城北里",
+            "lft": "12971",
+            "rght": "12972",
+            "population": "1714",
+            "population_electors": "1450",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb720-1a3c-4a90-ad83-2adbcf91e152",
+            "keywords": "2014-11,村里長,高雄市,苓雅區,城北里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02669-28f4-46c3-9eb0-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "王宏嘉",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02403-8860-464d-9935-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01e72-41d4-4f86-9912-5460acb5b862",
+                "name": "城北里",
+                "is_area": true,
+                "keywords": "2014,高雄市,苓雅區,城北里",
+                "AreasElection": {
+                    "id": "53c02403-c5d8-49e0-b2d2-5c5aacb5b862",
+                    "Election_id": "53c02403-8860-464d-9935-5c5aacb5b862",
+                    "Area_id": "53c01e72-41d4-4f86-9912-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02401-a518-4567-b540-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "苓雅區",
+                "lft": "12958",
+                "rght": "13097",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02403-8860-464d-9935-5c5aacb5b862",
+                "parent_id": "53c02401-a518-4567-b540-5c5aacb5b862",
+                "name": "城北里",
+                "lft": "12971",
+                "rght": "12972",
+                "population": "1714",
+                "population_electors": "1450",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb720-1a3c-4a90-ad83-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,苓雅區,城北里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

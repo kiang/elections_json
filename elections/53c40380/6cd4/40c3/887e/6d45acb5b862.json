@@ -1,0 +1,119 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c40380-6cd4-40c3-887e-6d45acb5b862",
+            "parent_id": "53c0207d-ff5c-4dfe-98b5-5c5aacb5b862",
+            "name": "第11選區[區域]",
+            "lft": "38",
+            "rght": "39",
+            "population": "48036",
+            "population_electors": "38245",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-b650-4e40-9da6-1a32cf91e152",
+            "keywords": "2014-11,直轄市議員,桃園市,第11選區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "53c68f76-ddcc-4f86-9b64-0f15acb5b862",
+                "image": "54411b31\/343c\/40d5\/8c08\/4fb98e043389.jpg",
+                "stage": "2",
+                "name": "邱佳亮",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c40380-6cd4-40c3-887e-6d45acb5b862"
+            },
+            {
+                "id": "540b568b-4d74-47b0-8d4c-1926acb5b862",
+                "image": "54411b93\/a128\/4f2e\/8142\/53df8e043389.jpg",
+                "stage": "1",
+                "name": "陳睿生",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c40380-6cd4-40c3-887e-6d45acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c2f-7050-492d-bddb-5460acb5b862",
+                "name": "新屋區",
+                "is_area": true,
+                "keywords": "2014,桃園市,新屋區",
+                "AreasElection": {
+                    "id": "53c40823-8cbc-4172-a3a2-6e01acb5b862",
+                    "Election_id": "53c40380-6cd4-40c3-887e-6d45acb5b862",
+                    "Area_id": "53c01c2f-7050-492d-bddb-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207d-ff5c-4dfe-98b5-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "桃園市",
+                "lft": "17",
+                "rght": "46",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c40380-6cd4-40c3-887e-6d45acb5b862",
+                "parent_id": "53c0207d-ff5c-4dfe-98b5-5c5aacb5b862",
+                "name": "第11選區[區域]",
+                "lft": "38",
+                "rght": "39",
+                "population": "48036",
+                "population_electors": "38245",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-b650-4e40-9da6-1a32cf91e152",
+                "keywords": "2014-11,直轄市議員,桃園市,第11選區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

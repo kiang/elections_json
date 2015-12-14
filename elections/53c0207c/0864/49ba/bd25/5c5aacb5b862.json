@@ -1,0 +1,115 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0207c-0864-49ba-bd25-5c5aacb5b862",
+            "parent_id": "53c0202e-ed38-44bb-8e78-5460acb5b862",
+            "name": "新北市",
+            "lft": "9",
+            "rght": "10",
+            "population": "3961374",
+            "population_electors": "3173136",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-922c-4a22-b63a-74a5cf91e152",
+            "keywords": "2014-11,直轄市長,新北市"
+        },
+        "Candidate": [
+            {
+                "id": "53c028be-5b4c-4db9-a433-5dffacb5b862",
+                "image": "56054979\/a4f4\/48da\/a3be\/46a36ab936af.jpg",
+                "stage": "1",
+                "name": "游錫堃",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "You Si Kun",
+                "election_id": "53c0207c-0864-49ba-bd25-5c5aacb5b862"
+            },
+            {
+                "id": "53d79150-f188-46e7-8f6d-5fc6cb455a61",
+                "image": "542a9cc8\/1ce0\/409f\/bdc9\/3738cb455a61.jpg",
+                "stage": "2",
+                "name": "朱立倫",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "3",
+                "name_english": "Eric Chu Li-lun",
+                "election_id": "53c0207c-0864-49ba-bd25-5c5aacb5b862"
+            },
+            {
+                "id": "540b569d-fde0-43a8-bb1c-1926acb5b862",
+                "image": "542a9d48\/0724\/4319\/a932\/3738cb455a61.jpg",
+                "stage": "1",
+                "name": "李進順",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "Li Chin Shun",
+                "election_id": "53c0207c-0864-49ba-bd25-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01ec7-67b4-4aa7-92a1-5460acb5b862",
+                "name": "新北市",
+                "is_area": true,
+                "keywords": "2014,新北市",
+                "AreasElection": {
+                    "id": "53c0207c-c468-49d5-b62c-5c5aacb5b862",
+                    "Election_id": "53c0207c-0864-49ba-bd25-5c5aacb5b862",
+                    "Area_id": "53c01ec7-67b4-4aa7-92a1-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202e-ed38-44bb-8e78-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市長",
+                "lft": "2",
+                "rght": "15",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207c-0864-49ba-bd25-5c5aacb5b862",
+                "parent_id": "53c0202e-ed38-44bb-8e78-5460acb5b862",
+                "name": "新北市",
+                "lft": "9",
+                "rght": "10",
+                "population": "3961374",
+                "population_electors": "3173136",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-922c-4a22-b63a-74a5cf91e152",
+                "keywords": "2014-11,直轄市長,新北市"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

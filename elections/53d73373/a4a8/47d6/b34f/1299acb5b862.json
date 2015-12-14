@@ -1,0 +1,178 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d73373-a4a8-47d6-b34f-1299acb5b862",
+            "parent_id": "53c020c3-9420-4390-ad25-5c5aacb5b862",
+            "name": "第02選舉區[區域]",
+            "lft": "1781",
+            "rght": "1782",
+            "population": "2075",
+            "population_electors": "1726",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "54735d56-007c-471b-bb18-21eacf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,南投縣,集集鎮,第02選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "5406a5fb-ca1c-414c-85fe-15b8acb5b862",
+                "image": "54a15a8d\/fb94\/4a56\/b1bb\/351c6ab936af.jpg",
+                "stage": "0",
+                "name": "吳其守",
+                "party": "",
+                "gender": "m",
+                "no": "0",
+                "name_english": "",
+                "election_id": "53d73373-a4a8-47d6-b34f-1299acb5b862"
+            },
+            {
+                "id": "540b573b-2920-4d31-a28f-1926acb5b862",
+                "image": "54a15db3\/a2e8\/4130\/99ac\/35ff6ab936af.jpg",
+                "stage": "2",
+                "name": "陳坤隆",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "Chen Kuan Lung",
+                "election_id": "53d73373-a4a8-47d6-b34f-1299acb5b862"
+            },
+            {
+                "id": "540b573b-759c-4796-9c74-1926acb5b862",
+                "image": "54a15f86\/8e08\/4490\/a801\/366f6ab936af.jpg",
+                "stage": "1",
+                "name": "李滄洲",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "Li TSANG JOU",
+                "election_id": "53d73373-a4a8-47d6-b34f-1299acb5b862"
+            },
+            {
+                "id": "540b573b-a88c-449e-971c-1926acb5b862",
+                "image": "54a15ef5\/364c\/4de4\/95a6\/36536ab936af.jpg",
+                "stage": "2",
+                "name": "鄧碧惠",
+                "party": "無",
+                "gender": "f",
+                "no": "4",
+                "name_english": "DENG BEG HERY",
+                "election_id": "53d73373-a4a8-47d6-b34f-1299acb5b862"
+            },
+            {
+                "id": "540b573b-edac-4f6e-a2b5-1926acb5b862",
+                "image": "54a15f29\/12b0\/41dc\/a278\/36646ab936af.jpg",
+                "stage": "1",
+                "name": "吳政義",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "WU CHENG YI",
+                "election_id": "53d73373-a4a8-47d6-b34f-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01cd6-331c-4546-ae4e-5460acb5b862",
+                "name": "隘寮里",
+                "is_area": true,
+                "keywords": "2014,南投縣,集集鎮,隘寮里",
+                "AreasElection": {
+                    "id": "53d73374-2e24-440f-a74c-1299acb5b862",
+                    "Election_id": "53d73373-a4a8-47d6-b34f-1299acb5b862",
+                    "Area_id": "53c01cd6-331c-4546-ae4e-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cd6-edfc-45e8-81c8-5460acb5b862",
+                "name": "田寮里",
+                "is_area": true,
+                "keywords": "2014,南投縣,集集鎮,田寮里",
+                "AreasElection": {
+                    "id": "53d73374-bc38-4d42-b4b0-1299acb5b862",
+                    "Election_id": "53d73373-a4a8-47d6-b34f-1299acb5b862",
+                    "Area_id": "53c01cd6-edfc-45e8-81c8-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020c2-2488-4d59-a20d-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "南投縣",
+                "lft": "1739",
+                "rght": "1864",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020c3-9420-4390-ad25-5c5aacb5b862",
+                "parent_id": "53c020c2-2488-4d59-a20d-5c5aacb5b862",
+                "name": "集集鎮",
+                "lft": "1778",
+                "rght": "1787",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d73373-a4a8-47d6-b34f-1299acb5b862",
+                "parent_id": "53c020c3-9420-4390-ad25-5c5aacb5b862",
+                "name": "第02選舉區[區域]",
+                "lft": "1781",
+                "rght": "1782",
+                "population": "2075",
+                "population_electors": "1726",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "54735d56-007c-471b-bb18-21eacf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,南投縣,集集鎮,第02選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

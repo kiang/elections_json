@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c021c3-1064-4f85-8870-5c5aacb5b862",
+            "parent_id": "53c021c1-69c4-437a-95a1-5c5aacb5b862",
+            "name": "東山里",
+            "lft": "5677",
+            "rght": "5678",
+            "population": "495",
+            "population_electors": "400",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54735d55-0c70-432c-aaea-21eacf91e152",
+            "keywords": "2014-11,村里長,南投縣,南投市,東山里"
+        },
+        "Candidate": [
+            {
+                "id": "53c027e7-ff04-4644-a30c-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "曾文聰",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c021c3-1064-4f85-8870-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01cc8-f164-4ab8-9ab0-5460acb5b862",
+                "name": "東山里",
+                "is_area": true,
+                "keywords": "2014,南投縣,南投市,東山里",
+                "AreasElection": {
+                    "id": "53c021c3-893c-4746-aa41-5c5aacb5b862",
+                    "Election_id": "53c021c3-1064-4f85-8870-5c5aacb5b862",
+                    "Area_id": "53c01cc8-f164-4ab8-9ab0-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "南投縣",
+                "lft": "5649",
+                "rght": "6200",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021c1-69c4-437a-95a1-5c5aacb5b862",
+                "parent_id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "name": "南投市",
+                "lft": "5650",
+                "rght": "5719",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021c3-1064-4f85-8870-5c5aacb5b862",
+                "parent_id": "53c021c1-69c4-437a-95a1-5c5aacb5b862",
+                "name": "東山里",
+                "lft": "5677",
+                "rght": "5678",
+                "population": "495",
+                "population_electors": "400",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54735d55-0c70-432c-aaea-21eacf91e152",
+                "keywords": "2014-11,村里長,南投縣,南投市,東山里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

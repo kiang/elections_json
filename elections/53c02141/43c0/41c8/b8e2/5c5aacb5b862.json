@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02141-43c0-41c8-b8e2-5c5aacb5b862",
+            "parent_id": "53c0213e-6e38-41f6-a2ad-5c5aacb5b862",
+            "name": "新埔里",
+            "lft": "3987",
+            "rght": "3988",
+            "population": "1481",
+            "population_electors": "1222",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546d8dba-8e00-4613-9d82-0e51cf91e152",
+            "keywords": "2014-11,村里長,苗栗縣,通霄鎮,新埔里"
+        },
+        "Candidate": [
+            {
+                "id": "53c027a3-f5e0-405b-a260-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "黃春財",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02141-43c0-41c8-b8e2-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c5c-f960-4639-95ee-5460acb5b862",
+                "name": "新埔里",
+                "is_area": true,
+                "keywords": "2014,苗栗縣,通霄鎮,新埔里",
+                "AreasElection": {
+                    "id": "53c02142-49a0-4cd0-a439-5c5aacb5b862",
+                    "Election_id": "53c02141-43c0-41c8-b8e2-5c5aacb5b862",
+                    "Area_id": "53c01c5c-f960-4639-95ee-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02135-5cc8-4f9d-a971-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "苗栗縣",
+                "lft": "3831",
+                "rght": "4416",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0213e-6e38-41f6-a2ad-5c5aacb5b862",
+                "parent_id": "53c02135-5cc8-4f9d-a971-5c5aacb5b862",
+                "name": "通霄鎮",
+                "lft": "3942",
+                "rght": "3991",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02141-43c0-41c8-b8e2-5c5aacb5b862",
+                "parent_id": "53c0213e-6e38-41f6-a2ad-5c5aacb5b862",
+                "name": "新埔里",
+                "lft": "3987",
+                "rght": "3988",
+                "population": "1481",
+                "population_electors": "1222",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546d8dba-8e00-4613-9d82-0e51cf91e152",
+                "keywords": "2014-11,村里長,苗栗縣,通霄鎮,新埔里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

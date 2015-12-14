@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02160-e0d4-4f28-8ea5-5c5aacb5b862",
+            "parent_id": "53c02160-6730-491a-a0ca-5c5aacb5b862",
+            "name": "新豐村",
+            "lft": "4391",
+            "rght": "4392",
+            "population": "388",
+            "population_electors": "348",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-eabc-403f-bd04-4187cf91e152",
+            "keywords": "2014-11,村里長,苗栗縣,獅潭鄉,新豐村"
+        },
+        "Candidate": [
+            {
+                "id": "53c027b2-5ca0-47bc-8fba-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "李仁滿",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02160-e0d4-4f28-8ea5-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c77-fc98-4963-8534-5460acb5b862",
+                "name": "新豐村",
+                "is_area": true,
+                "keywords": "2014,苗栗縣,獅潭鄉,新豐村",
+                "AreasElection": {
+                    "id": "53c02160-7c0c-4e23-ba52-5c5aacb5b862",
+                    "Election_id": "53c02160-e0d4-4f28-8ea5-5c5aacb5b862",
+                    "Area_id": "53c01c77-fc98-4963-8534-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02135-5cc8-4f9d-a971-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "苗栗縣",
+                "lft": "3831",
+                "rght": "4416",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02160-6730-491a-a0ca-5c5aacb5b862",
+                "parent_id": "53c02135-5cc8-4f9d-a971-5c5aacb5b862",
+                "name": "獅潭鄉",
+                "lft": "4382",
+                "rght": "4397",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02160-e0d4-4f28-8ea5-5c5aacb5b862",
+                "parent_id": "53c02160-6730-491a-a0ca-5c5aacb5b862",
+                "name": "新豐村",
+                "lft": "4391",
+                "rght": "4392",
+                "population": "388",
+                "population_electors": "348",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-eabc-403f-bd04-4187cf91e152",
+                "keywords": "2014-11,村里長,苗栗縣,獅潭鄉,新豐村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

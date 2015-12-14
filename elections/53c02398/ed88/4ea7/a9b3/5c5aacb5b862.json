@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02398-ed88-4ea7-a9b3-5c5aacb5b862",
+            "parent_id": "53c02396-dd04-4dbc-a350-5c5aacb5b862",
+            "name": "龍坡里",
+            "lft": "11635",
+            "rght": "11636",
+            "population": "6211",
+            "population_electors": "4732",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-1050-49f3-ba5c-4187cf91e152",
+            "keywords": "2014-11,村里長,臺北市,大安區,龍坡里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02636-2654-49b8-a2d9-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "黃世詮",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02398-ed88-4ea7-a9b3-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01e13-a0a8-4833-b8a5-5460acb5b862",
+                "name": "龍坡里",
+                "is_area": true,
+                "keywords": "2014,臺北市,大安區,龍坡里",
+                "AreasElection": {
+                    "id": "53c02398-3248-4594-b11f-5c5aacb5b862",
+                    "Election_id": "53c02398-ed88-4ea7-a9b3-5c5aacb5b862",
+                    "Area_id": "53c01e13-a0a8-4833-b8a5-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02396-dd04-4dbc-a350-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "大安區",
+                "lft": "11610",
+                "rght": "11717",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02398-ed88-4ea7-a9b3-5c5aacb5b862",
+                "parent_id": "53c02396-dd04-4dbc-a350-5c5aacb5b862",
+                "name": "龍坡里",
+                "lft": "11635",
+                "rght": "11636",
+                "population": "6211",
+                "population_electors": "4732",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-1050-49f3-ba5c-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,大安區,龍坡里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

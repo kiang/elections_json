@@ -1,0 +1,145 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02559-c714-4dfd-ba68-5c5aacb5b862",
+            "parent_id": "53c02557-f2ec-4bd9-8f8c-5c5aacb5b862",
+            "name": "武陵里",
+            "lft": "16975",
+            "rght": "16976",
+            "population": "1374",
+            "population_electors": "1118",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c6157-9b08-41a9-81e2-573fcf91e152",
+            "keywords": "2014-11,村里長,臺中市,大甲區,武陵里"
+        },
+        "Candidate": [
+            {
+                "id": "53c026fe-6954-4224-badc-5dffacb5b862",
+                "image": null,
+                "stage": "0",
+                "name": "王雄",
+                "party": null,
+                "gender": null,
+                "no": "0",
+                "name_english": "",
+                "election_id": "53c02559-c714-4dfd-ba68-5c5aacb5b862"
+            },
+            {
+                "id": "540b53d9-a170-4e0e-b945-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "劉渭水",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "LIOU WEI SHUEI",
+                "election_id": "53c02559-c714-4dfd-ba68-5c5aacb5b862"
+            },
+            {
+                "id": "540b53d9-eb88-4ced-8247-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "林根源",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c02559-c714-4dfd-ba68-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01f8f-0d7c-45c5-8be8-5460acb5b862",
+                "name": "武陵里",
+                "is_area": true,
+                "keywords": "2014,臺中市,大甲區,武陵里",
+                "AreasElection": {
+                    "id": "53c02559-3d10-461a-9622-5c5aacb5b862",
+                    "Election_id": "53c02559-c714-4dfd-ba68-5c5aacb5b862",
+                    "Area_id": "53c01f8f-0d7c-45c5-8be8-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02557-f2ec-4bd9-8f8c-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "大甲區",
+                "lft": "16956",
+                "rght": "17015",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02559-c714-4dfd-ba68-5c5aacb5b862",
+                "parent_id": "53c02557-f2ec-4bd9-8f8c-5c5aacb5b862",
+                "name": "武陵里",
+                "lft": "16975",
+                "rght": "16976",
+                "population": "1374",
+                "population_electors": "1118",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c6157-9b08-41a9-81e2-573fcf91e152",
+                "keywords": "2014-11,村里長,臺中市,大甲區,武陵里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

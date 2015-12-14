@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c023d5-1ad0-4bd4-b21a-5c5aacb5b862",
+            "parent_id": "53c023cf-48cc-46fc-8762-5c5aacb5b862",
+            "name": "關渡里",
+            "lft": "12391",
+            "rght": "12392",
+            "population": "11765",
+            "population_electors": "9619",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-e7e0-4325-8ab0-4187cf91e152",
+            "keywords": "2014-11,村里長,臺北市,北投區,關渡里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02651-d57c-45e5-956f-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "紀松鶴",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c023d5-1ad0-4bd4-b21a-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01e47-eb70-4c61-97e0-5460acb5b862",
+                "name": "關渡里",
+                "is_area": true,
+                "keywords": "2014,臺北市,北投區,關渡里",
+                "AreasElection": {
+                    "id": "53c023d5-a794-4696-9740-5c5aacb5b862",
+                    "Election_id": "53c023d5-1ad0-4bd4-b21a-5c5aacb5b862",
+                    "Area_id": "53c01e47-eb70-4c61-97e0-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023cf-48cc-46fc-8762-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "北投區",
+                "lft": "12308",
+                "rght": "12393",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d5-1ad0-4bd4-b21a-5c5aacb5b862",
+                "parent_id": "53c023cf-48cc-46fc-8762-5c5aacb5b862",
+                "name": "關渡里",
+                "lft": "12391",
+                "rght": "12392",
+                "population": "11765",
+                "population_electors": "9619",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-e7e0-4325-8ab0-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,北投區,關渡里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

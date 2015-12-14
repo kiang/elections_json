@@ -1,0 +1,115 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02080-9154-437f-8e6e-5c5aacb5b862",
+            "parent_id": "53c0202f-cfc8-4ab5-a63b-5460acb5b862",
+            "name": "嘉義縣",
+            "lft": "289",
+            "rght": "290",
+            "population": "526028",
+            "population_electors": "432211",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5474264c-d928-41ab-a3f9-2d82cf91e152",
+            "keywords": "2014-11,縣市長,嘉義縣"
+        },
+        "Candidate": [
+            {
+                "id": "53c028b8-78a4-455e-86cd-5dffacb5b862",
+                "image": "542e7e35\/5f7c\/4ca9\/8fd4\/2417cb455a61.jpg",
+                "stage": "2",
+                "name": "張花冠",
+                "party": "民主進步黨",
+                "gender": "f",
+                "no": "2",
+                "name_english": "CHANG HWA KUAN",
+                "election_id": "53c02080-9154-437f-8e6e-5c5aacb5b862"
+            },
+            {
+                "id": "540b56d6-f050-4604-825f-1926acb5b862",
+                "image": "5465d56d\/86b4\/4a76\/99ab\/70658e043389.jpg",
+                "stage": "1",
+                "name": "黃宏成台灣阿成世界偉人",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "HuangChenTaiwanAnChenWorldGreatPerson",
+                "election_id": "53c02080-9154-437f-8e6e-5c5aacb5b862"
+            },
+            {
+                "id": "540b56d6-fe5c-4b71-9b1f-1926acb5b862",
+                "image": "549fc101\/1ba8\/4c5b\/b83e\/55946ab936af.jpg",
+                "stage": "1",
+                "name": "翁重鈞",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "3",
+                "name_english": "WONG CHUNG CHUN",
+                "election_id": "53c02080-9154-437f-8e6e-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d1b-0dbc-4862-b0d1-5460acb5b862",
+                "name": "嘉義縣",
+                "is_area": true,
+                "keywords": "2014,嘉義縣",
+                "AreasElection": {
+                    "id": "53c02081-d2d8-48bb-9f69-5c5aacb5b862",
+                    "Election_id": "53c02080-9154-437f-8e6e-5c5aacb5b862",
+                    "Area_id": "53c01d1b-0dbc-4862-b0d1-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-cfc8-4ab5-a63b-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "縣市長",
+                "lft": "272",
+                "rght": "305",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02080-9154-437f-8e6e-5c5aacb5b862",
+                "parent_id": "53c0202f-cfc8-4ab5-a63b-5460acb5b862",
+                "name": "嘉義縣",
+                "lft": "289",
+                "rght": "290",
+                "population": "526028",
+                "population_electors": "432211",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5474264c-d928-41ab-a3f9-2d82cf91e152",
+                "keywords": "2014-11,縣市長,嘉義縣"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

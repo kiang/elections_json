@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0220d-7018-4c9a-a57f-5c5aacb5b862",
+            "parent_id": "53c0220d-eb50-4079-b424-5c5aacb5b862",
+            "name": "九芎村",
+            "lft": "6643",
+            "rght": "6644",
+            "population": "3210",
+            "population_electors": "2551",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546ec076-ee58-4d38-92f1-2d4fcf91e152",
+            "keywords": "2014-11,村里長,雲林縣,林內鄉,九芎村"
+        },
+        "Candidate": [
+            {
+                "id": "53c02810-2f20-49eb-812c-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "林俊州",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "LIN CHUN CHOU",
+                "election_id": "53c0220d-7018-4c9a-a57f-5c5aacb5b862"
+            },
+            {
+                "id": "540b556d-7ab4-4936-948a-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "張見興",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c0220d-7018-4c9a-a57f-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d03-221c-4f5c-853f-5460acb5b862",
+                "name": "九芎村",
+                "is_area": true,
+                "keywords": "2014,雲林縣,林內鄉,九芎村",
+                "AreasElection": {
+                    "id": "53c0220d-15b8-4ed1-a7c5-5c5aacb5b862",
+                    "Election_id": "53c0220d-7018-4c9a-a57f-5c5aacb5b862",
+                    "Area_id": "53c01d03-221c-4f5c-853f-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "6201",
+                "rght": "7018",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0220d-eb50-4079-b424-5c5aacb5b862",
+                "parent_id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "name": "林內鄉",
+                "lft": "6640",
+                "rght": "6661",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0220d-7018-4c9a-a57f-5c5aacb5b862",
+                "parent_id": "53c0220d-eb50-4079-b424-5c5aacb5b862",
+                "name": "九芎村",
+                "lft": "6643",
+                "rght": "6644",
+                "population": "3210",
+                "population_electors": "2551",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546ec076-ee58-4d38-92f1-2d4fcf91e152",
+                "keywords": "2014-11,村里長,雲林縣,林內鄉,九芎村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

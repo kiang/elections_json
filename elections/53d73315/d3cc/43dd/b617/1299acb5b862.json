@@ -1,0 +1,167 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d73315-d3cc-43dd-b617-1299acb5b862",
+            "parent_id": "53c020bc-d8bc-4dc2-80f0-5c5aacb5b862",
+            "name": "第03選舉區[區域]",
+            "lft": "1575",
+            "rght": "1576",
+            "population": "3978",
+            "population_electors": "3340",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-c53c-46a6-a9ed-74a5cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,彰化縣,芬園鄉,第03選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b5717-0eac-47e7-ac8f-1926acb5b862",
+                "image": "5469e18b\/000c\/46af\/a358\/1bd58e043389.jpg",
+                "stage": "1",
+                "name": "謝文環",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "HSIEH WEN HUAN",
+                "election_id": "53d73315-d3cc-43dd-b617-1299acb5b862"
+            },
+            {
+                "id": "540b5717-4e64-44af-a6da-1926acb5b862",
+                "image": "5416ec0c\/cb90\/4e57\/bbbe\/1639cb455a61.jpg",
+                "stage": "2",
+                "name": "黃良榮",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "HUAND LIANG JUNG",
+                "election_id": "53d73315-d3cc-43dd-b617-1299acb5b862"
+            },
+            {
+                "id": "540b5717-f578-49bb-9852-1926acb5b862",
+                "image": "5416eb36\/cb70\/4648\/a97f\/1639cb455a61.jpg",
+                "stage": "2",
+                "name": "黃瑞拱",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "HUANG JUI KUNG",
+                "election_id": "53d73315-d3cc-43dd-b617-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c95-01d4-4d21-af2b-5460acb5b862",
+                "name": "溪頭村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,芬園鄉,溪頭村",
+                "AreasElection": {
+                    "id": "53d73316-3938-4062-8837-1299acb5b862",
+                    "Election_id": "53d73315-d3cc-43dd-b617-1299acb5b862",
+                    "Area_id": "53c01c95-01d4-4d21-af2b-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c95-bda0-4908-88dc-5460acb5b862",
+                "name": "圳墘村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,芬園鄉,圳墘村",
+                "AreasElection": {
+                    "id": "53d73316-3744-4cc4-9e5b-1299acb5b862",
+                    "Election_id": "53d73315-d3cc-43dd-b617-1299acb5b862",
+                    "Area_id": "53c01c95-bda0-4908-88dc-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c95-bed0-4398-afc2-5460acb5b862",
+                "name": "縣庄村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,芬園鄉,縣庄村",
+                "AreasElection": {
+                    "id": "53d73316-90dc-4cf8-bc21-1299acb5b862",
+                    "Election_id": "53d73315-d3cc-43dd-b617-1299acb5b862",
+                    "Area_id": "53c01c95-bed0-4398-afc2-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020bb-fd28-4ab5-ad62-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "1497",
+                "rght": "1738",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020bc-d8bc-4dc2-80f0-5c5aacb5b862",
+                "parent_id": "53c020bb-fd28-4ab5-ad62-5c5aacb5b862",
+                "name": "芬園鄉",
+                "lft": "1570",
+                "rght": "1579",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d73315-d3cc-43dd-b617-1299acb5b862",
+                "parent_id": "53c020bc-d8bc-4dc2-80f0-5c5aacb5b862",
+                "name": "第03選舉區[區域]",
+                "lft": "1575",
+                "rght": "1576",
+                "population": "3978",
+                "population_electors": "3340",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-c53c-46a6-a9ed-74a5cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,彰化縣,芬園鄉,第03選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02534-e9d8-4789-9c63-5c5aacb5b862",
+            "parent_id": "53c02530-1868-453b-afd5-5c5aacb5b862",
+            "name": "錦祥里",
+            "lft": "16577",
+            "rght": "16578",
+            "population": "4090",
+            "population_electors": "3371",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068f-7790-489c-a8cd-1a32cf91e152",
+            "keywords": "2014-11,村里長,臺中市,北區,錦祥里"
+        },
+        "Candidate": [
+            {
+                "id": "53c026ee-4e98-4ae7-a4ab-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "林美玉",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "1",
+                "name_english": "LIN MEI YU",
+                "election_id": "53c02534-e9d8-4789-9c63-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01f73-0d1c-4f75-933d-5460acb5b862",
+                "name": "錦祥里",
+                "is_area": true,
+                "keywords": "2014,臺中市,北區,錦祥里",
+                "AreasElection": {
+                    "id": "53c02534-1020-4520-9a69-5c5aacb5b862",
+                    "Election_id": "53c02534-e9d8-4789-9c63-5c5aacb5b862",
+                    "Area_id": "53c01f73-0d1c-4f75-933d-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02530-1868-453b-afd5-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "北區",
+                "lft": "16538",
+                "rght": "16611",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02534-e9d8-4789-9c63-5c5aacb5b862",
+                "parent_id": "53c02530-1868-453b-afd5-5c5aacb5b862",
+                "name": "錦祥里",
+                "lft": "16577",
+                "rght": "16578",
+                "population": "4090",
+                "population_electors": "3371",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068f-7790-489c-a8cd-1a32cf91e152",
+                "keywords": "2014-11,村里長,臺中市,北區,錦祥里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

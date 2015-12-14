@@ -1,0 +1,119 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c400b0-1694-421d-8a2d-6cceacb5b862",
+            "parent_id": "53c0207f-29bc-4258-90c0-5c5aacb5b862",
+            "name": "第18選區[山地]",
+            "lft": "192",
+            "rght": "193",
+            "population": "1883493",
+            "population_electors": "1516489",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-401c-46d0-945d-74a5cf91e152",
+            "keywords": "2014-11,直轄市議員,臺南市,第18選區[山地]"
+        },
+        "Candidate": [
+            {
+                "id": "53c68fb1-0168-430f-99ad-0f15acb5b862",
+                "image": "5489b993\/5b48\/4239\/9eca\/38516ab936af.jpg",
+                "stage": "2",
+                "name": "谷暮．哈就 Kumu Hacyo",
+                "party": "無",
+                "gender": "f",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c400b0-1694-421d-8a2d-6cceacb5b862"
+            },
+            {
+                "id": "53e65528-c7e0-4018-a31d-33bccb455a61",
+                "image": "5489b9be\/8ae0\/475f\/b5e2\/38406ab936af.jpg",
+                "stage": "1",
+                "name": "伍宗康",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c400b0-1694-421d-8a2d-6cceacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01fc0-f25c-4a13-ab18-5460acb5b862",
+                "name": "臺南市",
+                "is_area": true,
+                "keywords": "2014,臺南市",
+                "AreasElection": {
+                    "id": "53fb79de-58a4-494c-b4aa-7f66acb5b862",
+                    "Election_id": "53c400b0-1694-421d-8a2d-6cceacb5b862",
+                    "Area_id": "53c01fc0-f25c-4a13-ab18-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207f-29bc-4258-90c0-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "臺南市",
+                "lft": "157",
+                "rght": "194",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c400b0-1694-421d-8a2d-6cceacb5b862",
+                "parent_id": "53c0207f-29bc-4258-90c0-5c5aacb5b862",
+                "name": "第18選區[山地]",
+                "lft": "192",
+                "rght": "193",
+                "population": "1883493",
+                "population_electors": "1516489",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-401c-46d0-945d-74a5cf91e152",
+                "keywords": "2014-11,直轄市議員,臺南市,第18選區[山地]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

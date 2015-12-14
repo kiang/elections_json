@@ -1,0 +1,156 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d732c0-981c-46bf-b584-1299acb5b862",
+            "parent_id": "53c020b5-0e6c-4008-bcbd-5c5aacb5b862",
+            "name": "第01選舉區[區域]",
+            "lft": "1263",
+            "rght": "1264",
+            "population": "2266",
+            "population_electors": "1901",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-83ec-45fd-801f-1a32cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,新竹縣,芎林鄉,第01選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b56e3-1578-412a-acb0-1926acb5b862",
+                "image": "54c47237\/72ec\/44da\/8a62\/47676ab936af.jpg",
+                "stage": "2",
+                "name": "范揚桂",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "FAN YANG KUEI",
+                "election_id": "53d732c0-981c-46bf-b584-1299acb5b862"
+            },
+            {
+                "id": "540b56e3-4af0-4f30-80ad-1926acb5b862",
+                "image": "54c47264\/34a4\/47ce\/b4f6\/475a6ab936af.jpg",
+                "stage": "1",
+                "name": "馮堯浪",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53d732c0-981c-46bf-b584-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c4a-5014-401d-bba8-5460acb5b862",
+                "name": "華龍村",
+                "is_area": true,
+                "keywords": "2014,新竹縣,芎林鄉,華龍村",
+                "AreasElection": {
+                    "id": "53d732c1-58e8-4f3f-8488-1299acb5b862",
+                    "Election_id": "53d732c0-981c-46bf-b584-1299acb5b862",
+                    "Area_id": "53c01c4a-5014-401d-bba8-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c4a-c134-4251-805a-5460acb5b862",
+                "name": "秀湖村",
+                "is_area": true,
+                "keywords": "2014,新竹縣,芎林鄉,秀湖村",
+                "AreasElection": {
+                    "id": "53d732c1-65e8-4264-b473-1299acb5b862",
+                    "Election_id": "53d732c0-981c-46bf-b584-1299acb5b862",
+                    "Area_id": "53c01c4a-c134-4251-805a-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c4a-f48c-46e0-8ea5-5460acb5b862",
+                "name": "五龍村",
+                "is_area": true,
+                "keywords": "2014,新竹縣,芎林鄉,五龍村",
+                "AreasElection": {
+                    "id": "53d732c1-1468-4b10-9b87-1299acb5b862",
+                    "Election_id": "53d732c0-981c-46bf-b584-1299acb5b862",
+                    "Area_id": "53c01c4a-f48c-46e0-8ea5-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b3-e33c-4fee-aa9e-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "新竹縣",
+                "lft": "1201",
+                "rght": "1322",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b5-0e6c-4008-bcbd-5c5aacb5b862",
+                "parent_id": "53c020b3-e33c-4fee-aa9e-5c5aacb5b862",
+                "name": "芎林鄉",
+                "lft": "1262",
+                "rght": "1271",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d732c0-981c-46bf-b584-1299acb5b862",
+                "parent_id": "53c020b5-0e6c-4008-bcbd-5c5aacb5b862",
+                "name": "第01選舉區[區域]",
+                "lft": "1263",
+                "rght": "1264",
+                "population": "2266",
+                "population_electors": "1901",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-83ec-45fd-801f-1a32cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,新竹縣,芎林鄉,第01選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

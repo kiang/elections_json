@@ -1,0 +1,141 @@
+{
+    "election": {
+        "Election": {
+            "id": "5508675e-bd7c-4a28-883c-23aa6ab936af",
+            "parent_id": "55086368-6ce0-4333-b022-23aa6ab936af",
+            "name": "第01選區[區域]",
+            "lft": "40742",
+            "rght": "40743",
+            "population": "0",
+            "population_electors": "0",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "keywords": "2016-01,立法委員,花蓮縣,第01選區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "550c640c-a140-4164-907c-025cacb5b862",
+                "image": "55af6be2\/4b2c\/4308\/bbd3\/01576ab936af.jpg",
+                "stage": "1",
+                "name": "王廷升",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": null,
+                "name_english": "",
+                "election_id": "5508675e-bd7c-4a28-883c-23aa6ab936af"
+            },
+            {
+                "id": "55181c84-898c-49f8-b7b4-12916ab936af",
+                "image": "5658761c\/0464\/4ee9\/be9c\/0ed66ab936af.jpg",
+                "stage": "1",
+                "name": "楊悟空",
+                "party": "泛盟黨",
+                "gender": "m",
+                "no": null,
+                "name_english": "",
+                "election_id": "5508675e-bd7c-4a28-883c-23aa6ab936af"
+            },
+            {
+                "id": "55ae1d7a-ec64-4b48-9b7d-67616ab936af",
+                "image": "55ae1d7a\/80b0\/471d\/a28e\/67616ab936af.jpg",
+                "stage": "1",
+                "name": "蕭美琴",
+                "party": "民主進步黨",
+                "gender": "f",
+                "no": null,
+                "name_english": "",
+                "election_id": "5508675e-bd7c-4a28-883c-23aa6ab936af"
+            },
+            {
+                "id": "56587641-5c3c-4986-971c-19786ab936af",
+                "image": "",
+                "stage": "1",
+                "name": "黄師鵬",
+                "party": "無",
+                "gender": "m",
+                "no": null,
+                "name_english": "",
+                "election_id": "5508675e-bd7c-4a28-883c-23aa6ab936af"
+            }
+        ],
+        "Area": [
+            {
+                "id": "550859e9-86a4-4bb0-a83f-3584acb5b862",
+                "name": "花蓮縣",
+                "is_area": true,
+                "keywords": "2016,花蓮縣",
+                "AreasElection": {
+                    "id": "550a7512-477c-4570-9726-64196ab936af",
+                    "Election_id": "5508675e-bd7c-4a28-883c-23aa6ab936af",
+                    "Area_id": "550859e9-86a4-4bb0-a83f-3584acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "55085db5-2e9c-4cde-8103-23d86ab936af",
+                "parent_id": null,
+                "name": "2016-01",
+                "lft": "40579",
+                "rght": "40780",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "55085e1a-c494-40e0-ba31-2f916ab936af",
+                "parent_id": "55085db5-2e9c-4cde-8103-23d86ab936af",
+                "name": "立法委員",
+                "lft": "40582",
+                "rght": "40779",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "55086368-6ce0-4333-b022-23aa6ab936af",
+                "parent_id": "55085e1a-c494-40e0-ba31-2f916ab936af",
+                "name": "花蓮縣",
+                "lft": "40741",
+                "rght": "40744",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "5508675e-bd7c-4a28-883c-23aa6ab936af",
+                "parent_id": "55086368-6ce0-4333-b022-23aa6ab936af",
+                "name": "第01選區[區域]",
+                "lft": "40742",
+                "rght": "40743",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2016-01,立法委員,花蓮縣,第01選區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

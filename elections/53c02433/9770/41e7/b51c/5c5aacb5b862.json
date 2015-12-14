@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02433-9770-41e7-b51c-5c5aacb5b862",
+            "parent_id": "53c02430-5608-41de-944d-5c5aacb5b862",
+            "name": "山頂里",
+            "lft": "13565",
+            "rght": "13566",
+            "population": "8591",
+            "population_electors": "6941",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb721-5b00-4aaa-90a8-2adbcf91e152",
+            "keywords": "2014-11,村里長,高雄市,大寮區,山頂里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02680-14a8-4ede-8647-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "楊秀花",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "2",
+                "name_english": "YANG HSIU HUA",
+                "election_id": "53c02433-9770-41e7-b51c-5c5aacb5b862"
+            },
+            {
+                "id": "540b548d-fb60-434f-b666-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "顏明輝",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02433-9770-41e7-b51c-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01e97-3c50-46cb-9fb8-5460acb5b862",
+                "name": "山頂里",
+                "is_area": true,
+                "keywords": "2014,高雄市,大寮區,山頂里",
+                "AreasElection": {
+                    "id": "53c02433-4ee8-4262-a721-5c5aacb5b862",
+                    "Election_id": "53c02433-9770-41e7-b51c-5c5aacb5b862",
+                    "Area_id": "53c01e97-3c50-46cb-9fb8-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02430-5608-41de-944d-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "大寮區",
+                "lft": "13532",
+                "rght": "13583",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02433-9770-41e7-b51c-5c5aacb5b862",
+                "parent_id": "53c02430-5608-41de-944d-5c5aacb5b862",
+                "name": "山頂里",
+                "lft": "13565",
+                "rght": "13566",
+                "population": "8591",
+                "population_electors": "6941",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb721-5b00-4aaa-90a8-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,大寮區,山頂里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

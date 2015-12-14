@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c023ce-1600-41a0-b164-5c5aacb5b862",
+            "parent_id": "53c023c7-6a3c-4965-a1a6-5c5aacb5b862",
+            "name": "臨溪里",
+            "lft": "12295",
+            "rght": "12296",
+            "population": "3062",
+            "population_electors": "2606",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-ead8-40ce-8da9-4187cf91e152",
+            "keywords": "2014-11,村里長,臺北市,士林區,臨溪里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0264e-6060-4c61-aed1-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "郭肇富",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "KUO JAW FU",
+                "election_id": "53c023ce-1600-41a0-b164-5c5aacb5b862"
+            },
+            {
+                "id": "540b530e-c2f8-4929-9864-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "李明通",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "LI MIN TUNG",
+                "election_id": "53c023ce-1600-41a0-b164-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01e40-4844-43fe-81b3-5460acb5b862",
+                "name": "臨溪里",
+                "is_area": true,
+                "keywords": "2014,臺北市,士林區,臨溪里",
+                "AreasElection": {
+                    "id": "53c023ce-a38c-4e52-bf3a-5c5aacb5b862",
+                    "Election_id": "53c023ce-1600-41a0-b164-5c5aacb5b862",
+                    "Area_id": "53c01e40-4844-43fe-81b3-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023c7-6a3c-4965-a1a6-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "士林區",
+                "lft": "12204",
+                "rght": "12307",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023ce-1600-41a0-b164-5c5aacb5b862",
+                "parent_id": "53c023c7-6a3c-4965-a1a6-5c5aacb5b862",
+                "name": "臨溪里",
+                "lft": "12295",
+                "rght": "12296",
+                "population": "3062",
+                "population_electors": "2606",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-ead8-40ce-8da9-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,士林區,臨溪里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

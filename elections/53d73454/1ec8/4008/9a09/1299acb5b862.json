@@ -1,0 +1,167 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d73454-1ec8-4008-9a09-1299acb5b862",
+            "parent_id": "53c020d4-087c-41db-9aab-5c5aacb5b862",
+            "name": "第02選舉區[區域]",
+            "lft": "2317",
+            "rght": "2318",
+            "population": "9530",
+            "population_electors": "7958",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "5475673a-a0e8-481a-95a9-0f78cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,屏東縣,內埔鄉,第02選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b5797-54a4-4095-83a6-1926acb5b862",
+                "image": "54d61a0e\/21a8\/4ffd\/9822\/52a66ab936af.jpg",
+                "stage": "2",
+                "name": "曾健野",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53d73454-1ec8-4008-9a09-1299acb5b862"
+            },
+            {
+                "id": "540b5797-6b9c-47f2-94db-1926acb5b862",
+                "image": "54d619ae\/3528\/4510\/9050\/4fbc6ab936af.jpg",
+                "stage": "2",
+                "name": "鍾慶鎮",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d73454-1ec8-4008-9a09-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d77-566c-4b5d-a345-5460acb5b862",
+                "name": "豐田村",
+                "is_area": true,
+                "keywords": "2014,屏東縣,內埔鄉,豐田村",
+                "AreasElection": {
+                    "id": "53d73455-c99c-4921-9323-1299acb5b862",
+                    "Election_id": "53d73454-1ec8-4008-9a09-1299acb5b862",
+                    "Area_id": "53c01d77-566c-4b5d-a345-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d77-79d4-4644-a374-5460acb5b862",
+                "name": "振豐村",
+                "is_area": true,
+                "keywords": "2014,屏東縣,內埔鄉,振豐村",
+                "AreasElection": {
+                    "id": "53d73455-b954-48d1-88ea-1299acb5b862",
+                    "Election_id": "53d73454-1ec8-4008-9a09-1299acb5b862",
+                    "Area_id": "53c01d77-79d4-4644-a374-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d77-c9a0-45e9-8eb2-5460acb5b862",
+                "name": "富田村",
+                "is_area": true,
+                "keywords": "2014,屏東縣,內埔鄉,富田村",
+                "AreasElection": {
+                    "id": "53d73455-5f58-4afe-b258-1299acb5b862",
+                    "Election_id": "53d73454-1ec8-4008-9a09-1299acb5b862",
+                    "Area_id": "53c01d77-c9a0-45e9-8eb2-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d77-f29c-4a7d-a85a-5460acb5b862",
+                "name": "竹圍村",
+                "is_area": true,
+                "keywords": "2014,屏東縣,內埔鄉,竹圍村",
+                "AreasElection": {
+                    "id": "53d73455-3160-492f-8ab3-1299acb5b862",
+                    "Election_id": "53d73454-1ec8-4008-9a09-1299acb5b862",
+                    "Area_id": "53c01d77-f29c-4a7d-a85a-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ce-0798-4ae9-af49-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "2197",
+                "rght": "2484",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020d4-087c-41db-9aab-5c5aacb5b862",
+                "parent_id": "53c020ce-0798-4ae9-af49-5c5aacb5b862",
+                "name": "內埔鄉",
+                "lft": "2314",
+                "rght": "2323",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d73454-1ec8-4008-9a09-1299acb5b862",
+                "parent_id": "53c020d4-087c-41db-9aab-5c5aacb5b862",
+                "name": "第02選舉區[區域]",
+                "lft": "2317",
+                "rght": "2318",
+                "population": "9530",
+                "population_electors": "7958",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "5475673a-a0e8-481a-95a9-0f78cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,屏東縣,內埔鄉,第02選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

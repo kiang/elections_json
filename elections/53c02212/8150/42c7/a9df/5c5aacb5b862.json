@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02212-8150-42c7-a9df-5c5aacb5b862",
+            "parent_id": "53c02211-c420-49dd-979c-5c5aacb5b862",
+            "name": "羅厝村",
+            "lft": "6711",
+            "rght": "6712",
+            "population": "2492",
+            "population_electors": "1983",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546ec076-246c-4044-8c91-2d4fcf91e152",
+            "keywords": "2014-11,村里長,雲林縣,崙背鄉,羅厝村"
+        },
+        "Candidate": [
+            {
+                "id": "53c02812-537c-41d5-a8e5-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "李照域",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02212-8150-42c7-a9df-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d07-a5fc-4735-aba8-5460acb5b862",
+                "name": "羅厝村",
+                "is_area": true,
+                "keywords": "2014,雲林縣,崙背鄉,羅厝村",
+                "AreasElection": {
+                    "id": "53c02212-266c-4ca5-a792-5c5aacb5b862",
+                    "Election_id": "53c02212-8150-42c7-a9df-5c5aacb5b862",
+                    "Area_id": "53c01d07-a5fc-4735-aba8-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "6201",
+                "rght": "7018",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02211-c420-49dd-979c-5c5aacb5b862",
+                "parent_id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "name": "崙背鄉",
+                "lft": "6700",
+                "rght": "6729",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02212-8150-42c7-a9df-5c5aacb5b862",
+                "parent_id": "53c02211-c420-49dd-979c-5c5aacb5b862",
+                "name": "羅厝村",
+                "lft": "6711",
+                "rght": "6712",
+                "population": "2492",
+                "population_electors": "1983",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546ec076-246c-4044-8c91-2d4fcf91e152",
+                "keywords": "2014-11,村里長,雲林縣,崙背鄉,羅厝村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c023b6-21f8-49db-9105-5c5aacb5b862",
+            "parent_id": "53c023b4-de88-4969-afaa-5c5aacb5b862",
+            "name": "興家里",
+            "lft": "12025",
+            "rght": "12026",
+            "population": "7950",
+            "population_electors": "6447",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-2668-4d54-8c0f-4187cf91e152",
+            "keywords": "2014-11,村里長,臺北市,文山區,興家里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02644-9728-471b-b383-5dffacb5b862",
+                "image": null,
+                "stage": "0",
+                "name": "劉宗勲",
+                "party": null,
+                "gender": null,
+                "no": "0",
+                "name_english": "",
+                "election_id": "53c023b6-21f8-49db-9105-5c5aacb5b862"
+            },
+            {
+                "id": "540b52ff-2d28-45c5-a408-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "劉宗勳",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "LIU TSUNG HSUN",
+                "election_id": "53c023b6-21f8-49db-9105-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01e2c-bf18-4145-8e19-5460acb5b862",
+                "name": "興家里",
+                "is_area": true,
+                "keywords": "2014,臺北市,文山區,興家里",
+                "AreasElection": {
+                    "id": "53c023b6-07cc-4ac8-b55f-5c5aacb5b862",
+                    "Election_id": "53c023b6-21f8-49db-9105-5c5aacb5b862",
+                    "Area_id": "53c01e2c-bf18-4145-8e19-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023b4-de88-4969-afaa-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "文山區",
+                "lft": "11994",
+                "rght": "12081",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023b6-21f8-49db-9105-5c5aacb5b862",
+                "parent_id": "53c023b4-de88-4969-afaa-5c5aacb5b862",
+                "name": "興家里",
+                "lft": "12025",
+                "rght": "12026",
+                "population": "7950",
+                "population_electors": "6447",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-2668-4d54-8c0f-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,文山區,興家里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

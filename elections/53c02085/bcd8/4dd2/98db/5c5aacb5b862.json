@@ -1,0 +1,102 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02085-bcd8-4dd2-98db-5c5aacb5b862",
+            "parent_id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+            "name": "嘉義市",
+            "lft": "601",
+            "rght": "606",
+            "population": "0",
+            "population_electors": "0",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "keywords": null
+        },
+        "Candidate": [
+
+        ],
+        "Area": [
+
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "縣市議員",
+                "lft": "306",
+                "rght": "607",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02085-bcd8-4dd2-98db-5c5aacb5b862",
+                "parent_id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "name": "嘉義市",
+                "lft": "601",
+                "rght": "606",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        }
+    ],
+    "children": [
+        {
+            "Election": {
+                "id": "53c4124a-a244-4b52-ac78-6f55acb5b862",
+                "parent_id": "53c02085-bcd8-4dd2-98db-5c5aacb5b862",
+                "name": "第01選區[區域]",
+                "lft": "602",
+                "rght": "603",
+                "population": "210547",
+                "population_electors": "163388",
+                "quota": "11",
+                "quota_women": "2",
+                "bulletin_key": "546b0806-6e9c-46d6-b93c-2ff0cf91e152",
+                "keywords": "2014-11,縣市議員,嘉義市,第01選區[區域]"
+            }
+        },
+        {
+            "Election": {
+                "id": "53c4124c-17d8-4209-8a2d-6f55acb5b862",
+                "parent_id": "53c02085-bcd8-4dd2-98db-5c5aacb5b862",
+                "name": "第02選區[區域]",
+                "lft": "604",
+                "rght": "605",
+                "population": "253541",
+                "population_electors": "194480",
+                "quota": "13",
+                "quota_women": "3",
+                "bulletin_key": "546b0806-beb4-408a-8085-2ff0cf91e152",
+                "keywords": "2014-11,縣市議員,嘉義市,第02選區[區域]"
+            }
+        }
+    ]
+}

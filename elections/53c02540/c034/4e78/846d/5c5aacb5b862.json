@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02540-c034-4e78-846d-5c5aacb5b862",
+            "parent_id": "53c0253e-6d80-4fe5-b1f1-5c5aacb5b862",
+            "name": "鎮平里",
+            "lft": "16717",
+            "rght": "16718",
+            "population": "1849",
+            "population_electors": "1489",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546d8db9-4ff8-4ce7-b792-0e51cf91e152",
+            "keywords": "2014-11,村里長,臺中市,南屯區,鎮平里"
+        },
+        "Candidate": [
+            {
+                "id": "53c026f3-6940-4175-9e74-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "廖秀麗",
+                "party": "無",
+                "gender": "f",
+                "no": "1",
+                "name_english": "LIAO SHOW LI",
+                "election_id": "53c02540-c034-4e78-846d-5c5aacb5b862"
+            },
+            {
+                "id": "540b53cc-fc18-4f84-831a-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "張國薰",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "CHANG KUO HSUN",
+                "election_id": "53c02540-c034-4e78-846d-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01f7c-bfa4-4f61-a6b4-5460acb5b862",
+                "name": "鎮平里",
+                "is_area": true,
+                "keywords": "2014,臺中市,南屯區,鎮平里",
+                "AreasElection": {
+                    "id": "53c02540-5144-4f4f-8838-5c5aacb5b862",
+                    "Election_id": "53c02540-c034-4e78-846d-5c5aacb5b862",
+                    "Area_id": "53c01f7c-bfa4-4f61-a6b4-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0253e-6d80-4fe5-b1f1-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "南屯區",
+                "lft": "16692",
+                "rght": "16743",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02540-c034-4e78-846d-5c5aacb5b862",
+                "parent_id": "53c0253e-6d80-4fe5-b1f1-5c5aacb5b862",
+                "name": "鎮平里",
+                "lft": "16717",
+                "rght": "16718",
+                "population": "1849",
+                "population_electors": "1489",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546d8db9-4ff8-4ce7-b792-0e51cf91e152",
+                "keywords": "2014-11,村里長,臺中市,南屯區,鎮平里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

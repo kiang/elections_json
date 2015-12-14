@@ -1,0 +1,178 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d73499-f724-4384-aafa-1299acb5b862",
+            "parent_id": "53c020db-2df8-4b9d-aaf4-5c5aacb5b862",
+            "name": "第03選舉區[平地]",
+            "lft": "2565",
+            "rght": "2566",
+            "population": "6623",
+            "population_electors": "5436",
+            "quota": "3",
+            "quota_women": "0",
+            "bulletin_key": "546f277f-292c-429c-89b6-2f28cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,臺東縣,大武鄉,第03選舉區[平地]"
+        },
+        "Candidate": [
+            {
+                "id": "540b57ea-396c-47e8-bcdd-1926acb5b862",
+                "image": "54b260ab\/3e10\/4afa\/ac64\/1bc66ab936af.jpg",
+                "stage": "1",
+                "name": "林梅英",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53d73499-f724-4384-aafa-1299acb5b862"
+            },
+            {
+                "id": "540b57ea-4bb0-4688-a2d6-1926acb5b862",
+                "image": "54b2618b\/83b8\/447f\/9cdb\/1c3a6ab936af.jpg",
+                "stage": "2",
+                "name": "蔡宇嫻",
+                "party": "無",
+                "gender": "f",
+                "no": "5",
+                "name_english": "",
+                "election_id": "53d73499-f724-4384-aafa-1299acb5b862"
+            },
+            {
+                "id": "540b57ea-64b0-4313-b21c-1926acb5b862",
+                "image": "54b260ed\/8b1c\/48a3\/b483\/1bdb6ab936af.jpg",
+                "stage": "2",
+                "name": "高春花",
+                "party": "無",
+                "gender": "f",
+                "no": "6",
+                "name_english": "",
+                "election_id": "53d73499-f724-4384-aafa-1299acb5b862"
+            },
+            {
+                "id": "540b57ea-d5ec-443b-905e-1926acb5b862",
+                "image": "54b2606f\/d038\/4b79\/a85c\/1bae6ab936af.jpg",
+                "stage": "2",
+                "name": "金勝男",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53d73499-f724-4384-aafa-1299acb5b862"
+            },
+            {
+                "id": "540b57ea-ee30-44d4-8572-1926acb5b862",
+                "image": "54b26144\/a214\/43c2\/b123\/1c1d6ab936af.jpg",
+                "stage": "1",
+                "name": "張金福",
+                "party": "無",
+                "gender": "m",
+                "no": "4",
+                "name_english": "",
+                "election_id": "53d73499-f724-4384-aafa-1299acb5b862"
+            },
+            {
+                "id": "540b57ea-fa14-4533-81ae-1926acb5b862",
+                "image": "54b26046\/d1b4\/489d\/934f\/1ba66ab936af.jpg",
+                "stage": "1",
+                "name": "王俊明",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d73499-f724-4384-aafa-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01da5-e294-4c16-ae88-5460acb5b862",
+                "name": "大武鄉",
+                "is_area": true,
+                "keywords": "2014,臺東縣,大武鄉",
+                "AreasElection": {
+                    "id": "53d73499-a6c8-43cf-b126-1299acb5b862",
+                    "Election_id": "53d73499-f724-4384-aafa-1299acb5b862",
+                    "Area_id": "53c01da5-e294-4c16-ae88-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020d9-a97c-4d95-809d-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "臺東縣",
+                "lft": "2485",
+                "rght": "2612",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020db-2df8-4b9d-aaf4-5c5aacb5b862",
+                "parent_id": "53c020d9-a97c-4d95-809d-5c5aacb5b862",
+                "name": "大武鄉",
+                "lft": "2560",
+                "rght": "2567",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d73499-f724-4384-aafa-1299acb5b862",
+                "parent_id": "53c020db-2df8-4b9d-aaf4-5c5aacb5b862",
+                "name": "第03選舉區[平地]",
+                "lft": "2565",
+                "rght": "2566",
+                "population": "6623",
+                "population_electors": "5436",
+                "quota": "3",
+                "quota_women": "0",
+                "bulletin_key": "546f277f-292c-429c-89b6-2f28cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,臺東縣,大武鄉,第03選舉區[平地]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

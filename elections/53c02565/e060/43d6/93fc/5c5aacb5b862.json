@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02565-e060-43d6-93fc-5c5aacb5b862",
+            "parent_id": "53c02562-d788-4eeb-93d8-5c5aacb5b862",
+            "name": "埔子里",
+            "lft": "17111",
+            "rght": "17112",
+            "population": "5646",
+            "population_electors": "4198",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546d921a-ed34-4413-a0cb-175dcf91e152",
+            "keywords": "2014-11,村里長,臺中市,沙鹿區,埔子里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02703-858c-4752-a946-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "蔡伶青",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "1",
+                "name_english": "TSAI LING CHING",
+                "election_id": "53c02565-e060-43d6-93fc-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01f98-5f28-42a8-aa08-5460acb5b862",
+                "name": "埔子里",
+                "is_area": true,
+                "keywords": "2014,臺中市,沙鹿區,埔子里",
+                "AreasElection": {
+                    "id": "53c02565-7170-4146-9844-5c5aacb5b862",
+                    "Election_id": "53c02565-e060-43d6-93fc-5c5aacb5b862",
+                    "Area_id": "53c01f98-5f28-42a8-aa08-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02562-d788-4eeb-93d8-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "沙鹿區",
+                "lft": "17082",
+                "rght": "17125",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02565-e060-43d6-93fc-5c5aacb5b862",
+                "parent_id": "53c02562-d788-4eeb-93d8-5c5aacb5b862",
+                "name": "埔子里",
+                "lft": "17111",
+                "rght": "17112",
+                "population": "5646",
+                "population_electors": "4198",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546d921a-ed34-4413-a0cb-175dcf91e152",
+                "keywords": "2014-11,村里長,臺中市,沙鹿區,埔子里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

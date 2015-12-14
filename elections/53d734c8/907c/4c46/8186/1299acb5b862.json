@@ -1,0 +1,189 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d734c8-907c-4c46-8186-1299acb5b862",
+            "parent_id": "53c020df-d968-4639-804c-5c5aacb5b862",
+            "name": "第03選舉區[區域]",
+            "lft": "2721",
+            "rght": "2722",
+            "population": "2671",
+            "population_electors": "2058",
+            "quota": "3",
+            "quota_women": "0",
+            "bulletin_key": "546d8dba-c434-4ad2-ae3b-0e51cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,花蓮縣,萬榮鄉,第03選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b57dd-3044-4387-a91d-1926acb5b862",
+                "image": "54b68936\/4f60\/440e\/93bd\/77ee6ab936af.jpg",
+                "stage": "1",
+                "name": "馬光榮",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53d734c8-907c-4c46-8186-1299acb5b862"
+            },
+            {
+                "id": "540b57dd-4d58-446f-b728-1926acb5b862",
+                "image": "54b68910\/b5f4\/4d63\/91c6\/77c56ab936af.jpg",
+                "stage": "1",
+                "name": "宋虹儀",
+                "party": "無",
+                "gender": "f",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d734c8-907c-4c46-8186-1299acb5b862"
+            },
+            {
+                "id": "540b57dd-8bac-483e-93b5-1926acb5b862",
+                "image": "54b68971\/1070\/4092\/bc81\/77fe6ab936af.jpg",
+                "stage": "2",
+                "name": "王金華",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53d734c8-907c-4c46-8186-1299acb5b862"
+            },
+            {
+                "id": "540b57dd-a144-4ce6-ace1-1926acb5b862",
+                "image": "54b68a17\/0bcc\/4d01\/9309\/78186ab936af.jpg",
+                "stage": "1",
+                "name": "王振益",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "6",
+                "name_english": "",
+                "election_id": "53d734c8-907c-4c46-8186-1299acb5b862"
+            },
+            {
+                "id": "540b57dd-bb38-4f19-9235-1926acb5b862",
+                "image": "54b689e5\/e500\/44aa\/868c\/78146ab936af.jpg",
+                "stage": "2",
+                "name": "陳林宗義",
+                "party": "無",
+                "gender": "m",
+                "no": "5",
+                "name_english": "",
+                "election_id": "53d734c8-907c-4c46-8186-1299acb5b862"
+            },
+            {
+                "id": "540b57dd-ffb0-44bd-b3f5-1926acb5b862",
+                "image": "54b689b1\/ca80\/4f26\/bb95\/78126ab936af.jpg",
+                "stage": "2",
+                "name": "古明光",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "4",
+                "name_english": "",
+                "election_id": "53d734c8-907c-4c46-8186-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01dc0-4748-4d56-82ec-5460acb5b862",
+                "name": "紅葉村",
+                "is_area": true,
+                "keywords": "2014,花蓮縣,萬榮鄉,紅葉村",
+                "AreasElection": {
+                    "id": "53d734c8-b1f4-436a-bc56-1299acb5b862",
+                    "Election_id": "53d734c8-907c-4c46-8186-1299acb5b862",
+                    "Area_id": "53c01dc0-4748-4d56-82ec-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01dc0-9484-424a-ae6d-5460acb5b862",
+                "name": "馬遠村",
+                "is_area": true,
+                "keywords": "2014,花蓮縣,萬榮鄉,馬遠村",
+                "AreasElection": {
+                    "id": "53d734c8-22fc-40f6-902d-1299acb5b862",
+                    "Election_id": "53d734c8-907c-4c46-8186-1299acb5b862",
+                    "Area_id": "53c01dc0-9484-424a-ae6d-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020dc-5200-4b0d-8494-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "花蓮縣",
+                "lft": "2613",
+                "rght": "2730",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020df-d968-4639-804c-5c5aacb5b862",
+                "parent_id": "53c020dc-5200-4b0d-8494-5c5aacb5b862",
+                "name": "萬榮鄉",
+                "lft": "2716",
+                "rght": "2723",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d734c8-907c-4c46-8186-1299acb5b862",
+                "parent_id": "53c020df-d968-4639-804c-5c5aacb5b862",
+                "name": "第03選舉區[區域]",
+                "lft": "2721",
+                "rght": "2722",
+                "population": "2671",
+                "population_electors": "2058",
+                "quota": "3",
+                "quota_women": "0",
+                "bulletin_key": "546d8dba-c434-4ad2-ae3b-0e51cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,花蓮縣,萬榮鄉,第03選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

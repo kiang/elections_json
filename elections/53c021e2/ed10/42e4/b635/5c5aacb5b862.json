@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c021e2-ed10-42e4-b635-5c5aacb5b862",
+            "parent_id": "53c021e0-f37c-4ee8-93e1-5c5aacb5b862",
+            "name": "五城村",
+            "lft": "6061",
+            "rght": "6062",
+            "population": "882",
+            "population_electors": "746",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54735d55-3540-4d44-975e-21eacf91e152",
+            "keywords": "2014-11,村里長,南投縣,魚池鄉,五城村"
+        },
+        "Candidate": [
+            {
+                "id": "53c027f7-38f8-42c1-8976-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "林紹憲",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c021e2-ed10-42e4-b635-5c5aacb5b862"
+            },
+            {
+                "id": "540b5549-7234-4644-be5a-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "徐錦華",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c021e2-ed10-42e4-b635-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01cdf-b87c-4f8c-a7d1-5460acb5b862",
+                "name": "五城村",
+                "is_area": true,
+                "keywords": "2014,南投縣,魚池鄉,五城村",
+                "AreasElection": {
+                    "id": "53c021e2-f77c-4047-a726-5c5aacb5b862",
+                    "Election_id": "53c021e2-ed10-42e4-b635-5c5aacb5b862",
+                    "Area_id": "53c01cdf-b87c-4f8c-a7d1-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "南投縣",
+                "lft": "5649",
+                "rght": "6200",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021e0-f37c-4ee8-93e1-5c5aacb5b862",
+                "parent_id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "name": "魚池鄉",
+                "lft": "6040",
+                "rght": "6067",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021e2-ed10-42e4-b635-5c5aacb5b862",
+                "parent_id": "53c021e0-f37c-4ee8-93e1-5c5aacb5b862",
+                "name": "五城村",
+                "lft": "6061",
+                "rght": "6062",
+                "population": "882",
+                "population_electors": "746",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54735d55-3540-4d44-975e-21eacf91e152",
+                "keywords": "2014-11,村里長,南投縣,魚池鄉,五城村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0256f-2b28-46f1-b34d-5c5aacb5b862",
+            "parent_id": "53c0256e-9bdc-4114-8942-5c5aacb5b862",
+            "name": "潭北里",
+            "lft": "17233",
+            "rght": "17234",
+            "population": "2853",
+            "population_electors": "2227",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e0693-5578-42e7-9d16-1a32cf91e152",
+            "keywords": "2014-11,村里長,臺中市,潭子區,潭北里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02708-fae0-4e51-81e3-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "林俊堂",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "LIN CHUN TANG",
+                "election_id": "53c0256f-2b28-46f1-b34d-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01fa0-d82c-4393-8bd1-5460acb5b862",
+                "name": "潭北里",
+                "is_area": true,
+                "keywords": "2014,臺中市,潭子區,潭北里",
+                "AreasElection": {
+                    "id": "53c0256f-dd68-41e0-9e86-5c5aacb5b862",
+                    "Election_id": "53c0256f-2b28-46f1-b34d-5c5aacb5b862",
+                    "Area_id": "53c01fa0-d82c-4393-8bd1-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0256e-9bdc-4114-8942-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "潭子區",
+                "lft": "17228",
+                "rght": "17261",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0256f-2b28-46f1-b34d-5c5aacb5b862",
+                "parent_id": "53c0256e-9bdc-4114-8942-5c5aacb5b862",
+                "name": "潭北里",
+                "lft": "17233",
+                "rght": "17234",
+                "population": "2853",
+                "population_electors": "2227",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e0693-5578-42e7-9d16-1a32cf91e152",
+                "keywords": "2014-11,村里長,臺中市,潭子區,潭北里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

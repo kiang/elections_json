@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c023a7-d378-4d57-86e8-5c5aacb5b862",
+            "parent_id": "53c023a5-38c4-465f-aa6c-5c5aacb5b862",
+            "name": "螢圃里",
+            "lft": "11823",
+            "rght": "11824",
+            "population": "5704",
+            "population_electors": "4818",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-c244-46ee-bcab-4187cf91e152",
+            "keywords": "2014-11,村里長,臺北市,中正區,螢圃里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0263d-64a4-41e5-a63c-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "陳木松",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c023a7-d378-4d57-86e8-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01e1f-ce34-429a-9be3-5460acb5b862",
+                "name": "螢圃里",
+                "is_area": true,
+                "keywords": "2014,臺北市,中正區,螢圃里",
+                "AreasElection": {
+                    "id": "53c023a7-842c-489a-9c3a-5c5aacb5b862",
+                    "Election_id": "53c023a7-d378-4d57-86e8-5c5aacb5b862",
+                    "Area_id": "53c01e1f-ce34-429a-9be3-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023a5-38c4-465f-aa6c-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "中正區",
+                "lft": "11804",
+                "rght": "11867",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023a7-d378-4d57-86e8-5c5aacb5b862",
+                "parent_id": "53c023a5-38c4-465f-aa6c-5c5aacb5b862",
+                "name": "螢圃里",
+                "lft": "11823",
+                "rght": "11824",
+                "population": "5704",
+                "population_electors": "4818",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-c244-46ee-bcab-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,中正區,螢圃里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

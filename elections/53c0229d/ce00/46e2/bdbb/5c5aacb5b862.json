@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0229d-ce00-46e2-bdbb-5c5aacb5b862",
+            "parent_id": "53c0229d-f8fc-4fe7-aaf3-5c5aacb5b862",
+            "name": "越溪村",
+            "lft": "8493",
+            "rght": "8494",
+            "population": "1246",
+            "population_electors": "922",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54773ba1-fb04-480e-968b-1915cf91e152",
+            "keywords": "2014-11,村里長,屏東縣,崁頂鄉,越溪村"
+        },
+        "Candidate": [
+            {
+                "id": "53c02857-a3d8-42ac-9b30-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "蘇國城",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "SU GUO CHENG",
+                "election_id": "53c0229d-ce00-46e2-bdbb-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d82-8940-4fb6-a582-5460acb5b862",
+                "name": "越溪村",
+                "is_area": true,
+                "keywords": "2014,屏東縣,崁頂鄉,越溪村",
+                "AreasElection": {
+                    "id": "53c0229e-41e8-4d60-be0f-5c5aacb5b862",
+                    "Election_id": "53c0229d-ce00-46e2-bdbb-5c5aacb5b862",
+                    "Area_id": "53c01d82-8940-4fb6-a582-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "7771",
+                "rght": "8766",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0229d-f8fc-4fe7-aaf3-5c5aacb5b862",
+                "parent_id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "name": "崁頂鄉",
+                "lft": "8482",
+                "rght": "8499",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0229d-ce00-46e2-bdbb-5c5aacb5b862",
+                "parent_id": "53c0229d-f8fc-4fe7-aaf3-5c5aacb5b862",
+                "name": "越溪村",
+                "lft": "8493",
+                "rght": "8494",
+                "population": "1246",
+                "population_electors": "922",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54773ba1-fb04-480e-968b-1915cf91e152",
+                "keywords": "2014-11,村里長,屏東縣,崁頂鄉,越溪村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

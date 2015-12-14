@@ -1,0 +1,167 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d73447-67ec-4efb-ad03-1299acb5b862",
+            "parent_id": "53c020d3-ae38-4896-b967-5c5aacb5b862",
+            "name": "第02選舉區[區域]",
+            "lft": "2277",
+            "rght": "2278",
+            "population": "6548",
+            "population_electors": "5216",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "5475673a-dc4c-4e2a-8fe2-0f78cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,屏東縣,里港鄉,第02選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b5790-4ef8-407a-b451-1926acb5b862",
+                "image": "54d4c40a\/9bb0\/46ff\/8595\/07ab6ab936af.jpg",
+                "stage": "2",
+                "name": "林綿顯",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "LIN MIEN HSIEN",
+                "election_id": "53d73447-67ec-4efb-ad03-1299acb5b862"
+            },
+            {
+                "id": "540b5790-f1e4-417b-9dd5-1926acb5b862",
+                "image": "54d4c3f4\/c9b4\/4e8a\/b5d3\/062a6ab936af.jpg",
+                "stage": "2",
+                "name": "林雲益",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "LIN YUN YI",
+                "election_id": "53d73447-67ec-4efb-ad03-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d6d-3700-4be4-9de9-5460acb5b862",
+                "name": "大平村",
+                "is_area": true,
+                "keywords": "2014,屏東縣,里港鄉,大平村",
+                "AreasElection": {
+                    "id": "53d73448-39fc-4a34-9a86-1299acb5b862",
+                    "Election_id": "53d73447-67ec-4efb-ad03-1299acb5b862",
+                    "Area_id": "53c01d6d-3700-4be4-9de9-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d6d-46fc-4406-815e-5460acb5b862",
+                "name": "春林村",
+                "is_area": true,
+                "keywords": "2014,屏東縣,里港鄉,春林村",
+                "AreasElection": {
+                    "id": "53d73448-a6dc-4dec-9a39-1299acb5b862",
+                    "Election_id": "53d73447-67ec-4efb-ad03-1299acb5b862",
+                    "Area_id": "53c01d6d-46fc-4406-815e-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d6d-d0a4-4ed2-8ac1-5460acb5b862",
+                "name": "永春村",
+                "is_area": true,
+                "keywords": "2014,屏東縣,里港鄉,永春村",
+                "AreasElection": {
+                    "id": "53d73448-2e28-4b77-99c1-1299acb5b862",
+                    "Election_id": "53d73447-67ec-4efb-ad03-1299acb5b862",
+                    "Area_id": "53c01d6d-d0a4-4ed2-8ac1-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d6e-91d8-4915-9f82-5460acb5b862",
+                "name": "過江村",
+                "is_area": true,
+                "keywords": "2014,屏東縣,里港鄉,過江村",
+                "AreasElection": {
+                    "id": "53d73448-d684-4207-978a-1299acb5b862",
+                    "Election_id": "53d73447-67ec-4efb-ad03-1299acb5b862",
+                    "Area_id": "53c01d6e-91d8-4915-9f82-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ce-0798-4ae9-af49-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "2197",
+                "rght": "2484",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020d3-ae38-4896-b967-5c5aacb5b862",
+                "parent_id": "53c020ce-0798-4ae9-af49-5c5aacb5b862",
+                "name": "里港鄉",
+                "lft": "2274",
+                "rght": "2283",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d73447-67ec-4efb-ad03-1299acb5b862",
+                "parent_id": "53c020d3-ae38-4896-b967-5c5aacb5b862",
+                "name": "第02選舉區[區域]",
+                "lft": "2277",
+                "rght": "2278",
+                "population": "6548",
+                "population_electors": "5216",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "5475673a-dc4c-4e2a-8fe2-0f78cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,屏東縣,里港鄉,第02選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

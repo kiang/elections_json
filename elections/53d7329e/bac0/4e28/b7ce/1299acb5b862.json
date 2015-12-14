@@ -1,0 +1,178 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d7329e-bac0-4e28-b7ce-1299acb5b862",
+            "parent_id": "53c020b3-21b8-4da1-8399-5c5aacb5b862",
+            "name": "第01選舉區[區域]",
+            "lft": "1159",
+            "rght": "1160",
+            "population": "7074",
+            "population_electors": "5892",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-fad4-4269-b6d7-2adbcf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,宜蘭縣,五結鄉,第01選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b57c0-f2c4-43b3-937f-1926acb5b862",
+                "image": "54b1599b\/f61c\/4da9\/a31d\/663a6ab936af.jpg",
+                "stage": "2",
+                "name": "沈信雄",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "4",
+                "name_english": "",
+                "election_id": "53d7329e-bac0-4e28-b7ce-1299acb5b862"
+            },
+            {
+                "id": "540b57c1-9274-46e3-8d0e-1926acb5b862",
+                "image": "54b15933\/7bf4\/4b04\/8b40\/66116ab936af.jpg",
+                "stage": "2",
+                "name": "鄒春龍",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53d7329e-bac0-4e28-b7ce-1299acb5b862"
+            },
+            {
+                "id": "540b57c1-974c-4298-9628-1926acb5b862",
+                "image": "54b159ce\/f024\/42e5\/8b60\/66486ab936af.jpg",
+                "stage": "1",
+                "name": "羅淑惠",
+                "party": "無",
+                "gender": "f",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53d7329e-bac0-4e28-b7ce-1299acb5b862"
+            },
+            {
+                "id": "540b57c1-be78-4e82-ba6a-1926acb5b862",
+                "image": "54b158fd\/6728\/42c0\/a0a9\/65e16ab936af.jpg",
+                "stage": "1",
+                "name": "陳長泉",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d7329e-bac0-4e28-b7ce-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01bef-1420-4cdc-9480-5460acb5b862",
+                "name": "三興村",
+                "is_area": true,
+                "keywords": "2014,宜蘭縣,五結鄉,三興村",
+                "AreasElection": {
+                    "id": "53d7329e-02a8-4d57-aa4f-1299acb5b862",
+                    "Election_id": "53d7329e-bac0-4e28-b7ce-1299acb5b862",
+                    "Area_id": "53c01bef-1420-4cdc-9480-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01bf0-0b70-46fb-aa86-5460acb5b862",
+                "name": "鎮安村",
+                "is_area": true,
+                "keywords": "2014,宜蘭縣,五結鄉,鎮安村",
+                "AreasElection": {
+                    "id": "53d7329e-7d90-4cae-9b2b-1299acb5b862",
+                    "Election_id": "53d7329e-bac0-4e28-b7ce-1299acb5b862",
+                    "Area_id": "53c01bf0-0b70-46fb-aa86-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01bf0-e088-4bbc-8eda-5460acb5b862",
+                "name": "二結村",
+                "is_area": true,
+                "keywords": "2014,宜蘭縣,五結鄉,二結村",
+                "AreasElection": {
+                    "id": "53d7329e-6518-479c-85c3-1299acb5b862",
+                    "Election_id": "53d7329e-bac0-4e28-b7ce-1299acb5b862",
+                    "Area_id": "53c01bf0-e088-4bbc-8eda-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b1-2260-44dc-a0bc-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "宜蘭縣",
+                "lft": "1077",
+                "rght": "1200",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b3-21b8-4da1-8399-5c5aacb5b862",
+                "parent_id": "53c020b1-2260-44dc-a0bc-5c5aacb5b862",
+                "name": "五結鄉",
+                "lft": "1158",
+                "rght": "1169",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d7329e-bac0-4e28-b7ce-1299acb5b862",
+                "parent_id": "53c020b3-21b8-4da1-8399-5c5aacb5b862",
+                "name": "第01選舉區[區域]",
+                "lft": "1159",
+                "rght": "1160",
+                "population": "7074",
+                "population_electors": "5892",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-fad4-4269-b6d7-2adbcf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,宜蘭縣,五結鄉,第01選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

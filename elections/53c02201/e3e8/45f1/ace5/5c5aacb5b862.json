@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02201-e3e8-45f1-ace5-5c5aacb5b862",
+            "parent_id": "53c02201-dd10-406f-b04b-5c5aacb5b862",
+            "name": "東華里",
+            "lft": "6483",
+            "rght": "6484",
+            "population": "531",
+            "population_electors": "456",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546ebce3-2458-4e4b-a7e9-2b96cf91e152",
+            "keywords": "2014-11,村里長,雲林縣,北港鎮,東華里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02808-7950-4376-880b-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "陳富森",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02201-e3e8-45f1-ace5-5c5aacb5b862"
+            },
+            {
+                "id": "540b5563-2768-466f-946b-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "周禮展",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c02201-e3e8-45f1-ace5-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01cf9-3ef0-4ea9-b97d-5460acb5b862",
+                "name": "東華里",
+                "is_area": true,
+                "keywords": "2014,雲林縣,北港鎮,東華里",
+                "AreasElection": {
+                    "id": "53c02202-55d8-482a-8066-5c5aacb5b862",
+                    "Election_id": "53c02201-e3e8-45f1-ace5-5c5aacb5b862",
+                    "Area_id": "53c01cf9-3ef0-4ea9-b97d-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "6201",
+                "rght": "7018",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02201-dd10-406f-b04b-5c5aacb5b862",
+                "parent_id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "name": "北港鎮",
+                "lft": "6478",
+                "rght": "6535",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02201-e3e8-45f1-ace5-5c5aacb5b862",
+                "parent_id": "53c02201-dd10-406f-b04b-5c5aacb5b862",
+                "name": "東華里",
+                "lft": "6483",
+                "rght": "6484",
+                "population": "531",
+                "population_electors": "456",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546ebce3-2458-4e4b-a7e9-2b96cf91e152",
+                "keywords": "2014-11,村里長,雲林縣,北港鎮,東華里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

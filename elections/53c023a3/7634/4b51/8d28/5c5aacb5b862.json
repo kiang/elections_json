@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c023a3-7634-4b51-8d28-5c5aacb5b862",
+            "parent_id": "53c0239e-cac0-446a-8756-5c5aacb5b862",
+            "name": "興亞里",
+            "lft": "11773",
+            "rght": "11774",
+            "population": "5391",
+            "population_electors": "4535",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-eb18-4d97-a1a1-4187cf91e152",
+            "keywords": "2014-11,村里長,臺北市,中山區,興亞里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0263b-1e90-4d64-adc1-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "林芳薇",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "1",
+                "name_english": "LIN FANG WEI",
+                "election_id": "53c023a3-7634-4b51-8d28-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01e1c-1300-4154-88da-5460acb5b862",
+                "name": "興亞里",
+                "is_area": true,
+                "keywords": "2014,臺北市,中山區,興亞里",
+                "AreasElection": {
+                    "id": "53c023a3-4e5c-4dea-9a7e-5c5aacb5b862",
+                    "Election_id": "53c023a3-7634-4b51-8d28-5c5aacb5b862",
+                    "Area_id": "53c01e1c-1300-4154-88da-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0239e-cac0-446a-8756-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "中山區",
+                "lft": "11718",
+                "rght": "11803",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023a3-7634-4b51-8d28-5c5aacb5b862",
+                "parent_id": "53c0239e-cac0-446a-8756-5c5aacb5b862",
+                "name": "興亞里",
+                "lft": "11773",
+                "rght": "11774",
+                "population": "5391",
+                "population_electors": "4535",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-eb18-4d97-a1a1-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,中山區,興亞里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

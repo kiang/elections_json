@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c022b2-9364-4943-b507-5c5aacb5b862",
+            "parent_id": "53c022b1-eeb8-426a-b1e0-5c5aacb5b862",
+            "name": "石門村",
+            "lft": "8755",
+            "rght": "8756",
+            "population": "1876",
+            "population_electors": "1507",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "keywords": "2014-11,村里長,屏東縣,牡丹鄉,石門村"
+        },
+        "Candidate": [
+            {
+                "id": "53c02860-0e3c-4fec-acbb-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "林一江",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c022b2-9364-4943-b507-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d94-3880-4e62-9d79-5460acb5b862",
+                "name": "石門村",
+                "is_area": true,
+                "keywords": "2014,屏東縣,牡丹鄉,石門村",
+                "AreasElection": {
+                    "id": "53c022b2-2900-4519-8c1e-5c5aacb5b862",
+                    "Election_id": "53c022b2-9364-4943-b507-5c5aacb5b862",
+                    "Area_id": "53c01d94-3880-4e62-9d79-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "7771",
+                "rght": "8766",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022b1-eeb8-426a-b1e0-5c5aacb5b862",
+                "parent_id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "name": "牡丹鄉",
+                "lft": "8752",
+                "rght": "8765",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022b2-9364-4943-b507-5c5aacb5b862",
+                "parent_id": "53c022b1-eeb8-426a-b1e0-5c5aacb5b862",
+                "name": "石門村",
+                "lft": "8755",
+                "rght": "8756",
+                "population": "1876",
+                "population_electors": "1507",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2014-11,村里長,屏東縣,牡丹鄉,石門村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

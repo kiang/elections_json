@@ -1,0 +1,145 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c021ff-a878-463e-b0d2-5c5aacb5b862",
+            "parent_id": "53c021fe-0d04-4f0d-b02a-5c5aacb5b862",
+            "name": "奮起里",
+            "lft": "6453",
+            "rght": "6454",
+            "population": "1594",
+            "population_electors": "1348",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546ebd71-68a4-44c8-ae0b-2c67cf91e152",
+            "keywords": "2014-11,村里長,雲林縣,土庫鎮,奮起里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02807-bdc0-4b9b-b32c-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "楊景瑞",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c021ff-a878-463e-b0d2-5c5aacb5b862"
+            },
+            {
+                "id": "540b5562-5328-4d90-82ad-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "楊儀珍",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c021ff-a878-463e-b0d2-5c5aacb5b862"
+            },
+            {
+                "id": "540b5562-8950-4aa4-9a91-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "張春男",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53c021ff-a878-463e-b0d2-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01cf7-4624-44f0-9c29-5460acb5b862",
+                "name": "奮起里",
+                "is_area": true,
+                "keywords": "2014,雲林縣,土庫鎮,奮起里",
+                "AreasElection": {
+                    "id": "53c021ff-a834-466f-9773-5c5aacb5b862",
+                    "Election_id": "53c021ff-a878-463e-b0d2-5c5aacb5b862",
+                    "Area_id": "53c01cf7-4624-44f0-9c29-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "6201",
+                "rght": "7018",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021fe-0d04-4f0d-b02a-5c5aacb5b862",
+                "parent_id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "name": "土庫鎮",
+                "lft": "6442",
+                "rght": "6477",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ff-a878-463e-b0d2-5c5aacb5b862",
+                "parent_id": "53c021fe-0d04-4f0d-b02a-5c5aacb5b862",
+                "name": "奮起里",
+                "lft": "6453",
+                "rght": "6454",
+                "population": "1594",
+                "population_electors": "1348",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546ebd71-68a4-44c8-ae0b-2c67cf91e152",
+                "keywords": "2014-11,村里長,雲林縣,土庫鎮,奮起里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

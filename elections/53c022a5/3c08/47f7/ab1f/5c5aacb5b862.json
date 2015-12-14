@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c022a5-3c08-47f7-ab1f-5c5aacb5b862",
+            "parent_id": "53c022a4-03cc-41db-bfd8-5c5aacb5b862",
+            "name": "田中村",
+            "lft": "8595",
+            "rght": "8596",
+            "population": "783",
+            "population_electors": "654",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54773ba1-1618-4da4-8297-1915cf91e152",
+            "keywords": "2014-11,村里長,屏東縣,車城鄉,田中村"
+        },
+        "Candidate": [
+            {
+                "id": "53c0285b-931c-4d47-92fa-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "林景茂",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c022a5-3c08-47f7-ab1f-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d88-c170-43d8-ae05-5460acb5b862",
+                "name": "田中村",
+                "is_area": true,
+                "keywords": "2014,屏東縣,車城鄉,田中村",
+                "AreasElection": {
+                    "id": "53c022a6-6b6c-405e-9bff-5c5aacb5b862",
+                    "Election_id": "53c022a5-3c08-47f7-ab1f-5c5aacb5b862",
+                    "Area_id": "53c01d88-c170-43d8-ae05-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "7771",
+                "rght": "8766",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022a4-03cc-41db-bfd8-5c5aacb5b862",
+                "parent_id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "name": "車城鄉",
+                "lft": "8588",
+                "rght": "8611",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022a5-3c08-47f7-ab1f-5c5aacb5b862",
+                "parent_id": "53c022a4-03cc-41db-bfd8-5c5aacb5b862",
+                "name": "田中村",
+                "lft": "8595",
+                "rght": "8596",
+                "population": "783",
+                "population_electors": "654",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54773ba1-1618-4da4-8297-1915cf91e152",
+                "keywords": "2014-11,村里長,屏東縣,車城鄉,田中村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

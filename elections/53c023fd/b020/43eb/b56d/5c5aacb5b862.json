@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c023fd-b020-43eb-b56d-5c5aacb5b862",
+            "parent_id": "53c023f9-e5f4-4a32-9d59-5c5aacb5b862",
+            "name": "建華里",
+            "lft": "12899",
+            "rght": "12900",
+            "population": "958",
+            "population_electors": "855",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb720-8910-4473-a052-2adbcf91e152",
+            "keywords": "2014-11,村里長,高雄市,新興區,建華里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02666-cc88-45ec-8778-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "吳文欽",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c023fd-b020-43eb-b56d-5c5aacb5b862"
+            },
+            {
+                "id": "540b5469-ae10-4d05-86eb-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "陳明發",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c023fd-b020-43eb-b56d-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01e6e-364c-4ffe-9fb5-5460acb5b862",
+                "name": "建華里",
+                "is_area": true,
+                "keywords": "2014,高雄市,新興區,建華里",
+                "AreasElection": {
+                    "id": "53c023fd-5e30-4e81-b347-5c5aacb5b862",
+                    "Election_id": "53c023fd-b020-43eb-b56d-5c5aacb5b862",
+                    "Area_id": "53c01e6e-364c-4ffe-9fb5-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023f9-e5f4-4a32-9d59-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "新興區",
+                "lft": "12850",
+                "rght": "12915",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023fd-b020-43eb-b56d-5c5aacb5b862",
+                "parent_id": "53c023f9-e5f4-4a32-9d59-5c5aacb5b862",
+                "name": "建華里",
+                "lft": "12899",
+                "rght": "12900",
+                "population": "958",
+                "population_electors": "855",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb720-8910-4473-a052-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,新興區,建華里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

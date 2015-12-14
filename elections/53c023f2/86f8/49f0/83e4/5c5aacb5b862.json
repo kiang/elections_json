@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c023f2-86f8-49f0-83e4-5c5aacb5b862",
+            "parent_id": "53c023ec-08a0-49ca-ae2b-5c5aacb5b862",
+            "name": "正興里",
+            "lft": "12757",
+            "rght": "12758",
+            "population": "14257",
+            "population_electors": "10824",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb720-d6c4-44d1-8185-2adbcf91e152",
+            "keywords": "2014-11,村里長,高雄市,三民區,正興里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0265f-6cfc-4b82-8429-5dffacb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "黃國龍",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "HUANG KUO LUNG",
+                "election_id": "53c023f2-86f8-49f0-83e4-5c5aacb5b862"
+            },
+            {
+                "id": "540b5462-9b70-426a-ba3a-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "沈秀玲",
+                "party": "民主進步黨",
+                "gender": "f",
+                "no": "2",
+                "name_english": "SHEN HSIU LING",
+                "election_id": "53c023f2-86f8-49f0-83e4-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01e64-f078-4ff0-9bb0-5460acb5b862",
+                "name": "正興里",
+                "is_area": true,
+                "keywords": "2014,高雄市,三民區,正興里",
+                "AreasElection": {
+                    "id": "53c023f2-2294-422f-ae31-5c5aacb5b862",
+                    "Election_id": "53c023f2-86f8-49f0-83e4-5c5aacb5b862",
+                    "Area_id": "53c01e64-f078-4ff0-9bb0-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023ec-08a0-49ca-ae2b-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "三民區",
+                "lft": "12676",
+                "rght": "12849",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023f2-86f8-49f0-83e4-5c5aacb5b862",
+                "parent_id": "53c023ec-08a0-49ca-ae2b-5c5aacb5b862",
+                "name": "正興里",
+                "lft": "12757",
+                "rght": "12758",
+                "population": "14257",
+                "population_electors": "10824",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb720-d6c4-44d1-8185-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,三民區,正興里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02514-7948-4e63-a61d-5c5aacb5b862",
+            "parent_id": "53c02514-5574-46c6-ab57-5c5aacb5b862",
+            "name": "訊塘里",
+            "lft": "16227",
+            "rght": "16228",
+            "population": "4613",
+            "population_electors": "3598",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546edee5-98d4-4dbc-b327-3ce1cf91e152",
+            "keywords": "2014-11,村里長,新北市,八里區,訊塘里"
+        },
+        "Candidate": [
+            {
+                "id": "53c026df-8678-4d4e-968f-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "張金貴",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c02514-7948-4e63-a61d-5c5aacb5b862"
+            },
+            {
+                "id": "540b5377-0d44-46ee-ba48-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "張萬吉",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02514-7948-4e63-a61d-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01f5a-701c-4645-bbba-5460acb5b862",
+                "name": "訊塘里",
+                "is_area": true,
+                "keywords": "2014,新北市,八里區,訊塘里",
+                "AreasElection": {
+                    "id": "53c02514-d554-4fa4-adf0-5c5aacb5b862",
+                    "Election_id": "53c02514-7948-4e63-a61d-5c5aacb5b862",
+                    "Area_id": "53c01f5a-701c-4645-bbba-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新北市",
+                "lft": "14261",
+                "rght": "16384",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02514-5574-46c6-ab57-5c5aacb5b862",
+                "parent_id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "name": "八里區",
+                "lft": "16220",
+                "rght": "16241",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02514-7948-4e63-a61d-5c5aacb5b862",
+                "parent_id": "53c02514-5574-46c6-ab57-5c5aacb5b862",
+                "name": "訊塘里",
+                "lft": "16227",
+                "rght": "16228",
+                "population": "4613",
+                "population_electors": "3598",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546edee5-98d4-4dbc-b327-3ce1cf91e152",
+                "keywords": "2014-11,村里長,新北市,八里區,訊塘里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02311-6334-422c-a81a-5c5aacb5b862",
+            "parent_id": "53c0230d-4e50-4e50-b9ba-5c5aacb5b862",
+            "name": "鶯安里",
+            "lft": "9965",
+            "rght": "9966",
+            "population": "3694",
+            "population_electors": "2736",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c8095-138c-4c6c-8bf9-61a3cf91e152",
+            "keywords": "2014-11,村里長,基隆市,安樂區,鶯安里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0288c-8f5c-443d-9368-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "謝偉仁",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "HSIEH WEI JEN",
+                "election_id": "53c02311-6334-422c-a81a-5c5aacb5b862"
+            },
+            {
+                "id": "540b5657-ceec-48f2-9031-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "陳孝爕",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "CHEN HSIAO HSIEH",
+                "election_id": "53c02311-6334-422c-a81a-5c5aacb5b862"
+            },
+            {
+                "id": "540b5657-df78-45e8-adc6-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "張之豪",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "CHANG CHIH HAO JIHO",
+                "election_id": "53c02311-6334-422c-a81a-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01de2-bb78-4c2a-afb1-5460acb5b862",
+                "name": "鶯安里",
+                "is_area": true,
+                "keywords": "2014,基隆市,安樂區,鶯安里",
+                "AreasElection": {
+                    "id": "53c02311-6b04-47ad-bb96-5c5aacb5b862",
+                    "Election_id": "53c02311-6334-422c-a81a-5c5aacb5b862",
+                    "Area_id": "53c01de2-bb78-4c2a-afb1-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "基隆市",
+                "lft": "9683",
+                "rght": "10012",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0230d-4e50-4e50-b9ba-5c5aacb5b862",
+                "parent_id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "name": "安樂區",
+                "lft": "9918",
+                "rght": "9969",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02311-6334-422c-a81a-5c5aacb5b862",
+                "parent_id": "53c0230d-4e50-4e50-b9ba-5c5aacb5b862",
+                "name": "鶯安里",
+                "lft": "9965",
+                "rght": "9966",
+                "population": "3694",
+                "population_electors": "2736",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c8095-138c-4c6c-8bf9-61a3cf91e152",
+                "keywords": "2014-11,村里長,基隆市,安樂區,鶯安里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

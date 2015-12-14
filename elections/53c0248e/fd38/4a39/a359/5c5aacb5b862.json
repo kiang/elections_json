@@ -1,0 +1,145 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0248e-fd38-4a39-a359-5c5aacb5b862",
+            "parent_id": "53c02480-1acc-4cf5-8b74-5c5aacb5b862",
+            "name": "瑞德里",
+            "lft": "14685",
+            "rght": "14686",
+            "population": "2556",
+            "population_electors": "2055",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068c-e64c-4d60-874a-1a32cf91e152",
+            "keywords": "2014-11,村里長,新北市,三重區,瑞德里"
+        },
+        "Candidate": [
+            {
+                "id": "53c026a8-1820-4891-b568-5dffacb5b862",
+                "image": null,
+                "stage": "0",
+                "name": "陳仕宏",
+                "party": null,
+                "gender": null,
+                "no": "0",
+                "name_english": "",
+                "election_id": "53c0248e-fd38-4a39-a359-5c5aacb5b862"
+            },
+            {
+                "id": "540b532b-8e94-4978-a034-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "蔡清海",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c0248e-fd38-4a39-a359-5c5aacb5b862"
+            },
+            {
+                "id": "540b532b-e8b8-47d1-abe5-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "陳楊月琴",
+                "party": "無",
+                "gender": "f",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c0248e-fd38-4a39-a359-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01eeb-5a64-4f3f-9a34-5460acb5b862",
+                "name": "瑞德里",
+                "is_area": true,
+                "keywords": "2014,新北市,三重區,瑞德里",
+                "AreasElection": {
+                    "id": "53c0248e-44d4-4855-b504-5c5aacb5b862",
+                    "Election_id": "53c0248e-fd38-4a39-a359-5c5aacb5b862",
+                    "Area_id": "53c01eeb-5a64-4f3f-9a34-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新北市",
+                "lft": "14261",
+                "rght": "16384",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02480-1acc-4cf5-8b74-5c5aacb5b862",
+                "parent_id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "name": "三重區",
+                "lft": "14516",
+                "rght": "14755",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0248e-fd38-4a39-a359-5c5aacb5b862",
+                "parent_id": "53c02480-1acc-4cf5-8b74-5c5aacb5b862",
+                "name": "瑞德里",
+                "lft": "14685",
+                "rght": "14686",
+                "population": "2556",
+                "population_electors": "2055",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068c-e64c-4d60-874a-1a32cf91e152",
+                "keywords": "2014-11,村里長,新北市,三重區,瑞德里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

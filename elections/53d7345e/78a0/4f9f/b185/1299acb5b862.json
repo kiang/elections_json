@@ -1,0 +1,178 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d7345e-78a0-4f9f-b185-1299acb5b862",
+            "parent_id": "53c020d4-6774-407d-807c-5c5aacb5b862",
+            "name": "第03選舉區[區域]",
+            "lft": "2347",
+            "rght": "2348",
+            "population": "5628",
+            "population_electors": "4725",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "5475673a-c0d4-4b91-9d75-0f78cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,屏東縣,枋寮鄉,第03選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b579d-9440-43fb-aed0-1926acb5b862",
+                "image": "54d6310a\/4fec\/4842\/89d9\/21376ab936af.jpg",
+                "stage": "1",
+                "name": "林水華",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "LIN SHUI HUA",
+                "election_id": "53d7345e-78a0-4f9f-b185-1299acb5b862"
+            },
+            {
+                "id": "540b579d-c588-4210-b017-1926acb5b862",
+                "image": "54d63553\/b46c\/42c0\/8dec\/30dd6ab936af.jpg",
+                "stage": "2",
+                "name": "蕭海彬",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "HSIAO HAI PIN",
+                "election_id": "53d7345e-78a0-4f9f-b185-1299acb5b862"
+            },
+            {
+                "id": "540b579d-d5e8-40b5-af48-1926acb5b862",
+                "image": "54d63575\/4cb8\/453c\/8a8d\/37ed6ab936af.jpg",
+                "stage": "2",
+                "name": "鄭永章",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53d7345e-78a0-4f9f-b185-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d7e-a778-4a66-8e5e-5460acb5b862",
+                "name": "大庄村",
+                "is_area": true,
+                "keywords": "2014,屏東縣,枋寮鄉,大庄村",
+                "AreasElection": {
+                    "id": "53d7345e-b1b4-4f30-a2b6-1299acb5b862",
+                    "Election_id": "53d7345e-78a0-4f9f-b185-1299acb5b862",
+                    "Area_id": "53c01d7e-a778-4a66-8e5e-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d7e-ab8c-4cec-9361-5460acb5b862",
+                "name": "玉泉村",
+                "is_area": true,
+                "keywords": "2014,屏東縣,枋寮鄉,玉泉村",
+                "AreasElection": {
+                    "id": "53d7345e-4410-431e-99d9-1299acb5b862",
+                    "Election_id": "53d7345e-78a0-4f9f-b185-1299acb5b862",
+                    "Area_id": "53c01d7e-ab8c-4cec-9361-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d7e-baac-4c7a-8e9a-5460acb5b862",
+                "name": "太源村",
+                "is_area": true,
+                "keywords": "2014,屏東縣,枋寮鄉,太源村",
+                "AreasElection": {
+                    "id": "53d7345e-7c80-4fbf-9d87-1299acb5b862",
+                    "Election_id": "53d7345e-78a0-4f9f-b185-1299acb5b862",
+                    "Area_id": "53c01d7e-baac-4c7a-8e9a-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d7e-fedc-4bf3-900c-5460acb5b862",
+                "name": "東海村",
+                "is_area": true,
+                "keywords": "2014,屏東縣,枋寮鄉,東海村",
+                "AreasElection": {
+                    "id": "53d7345e-2e1c-42e2-a966-1299acb5b862",
+                    "Election_id": "53d7345e-78a0-4f9f-b185-1299acb5b862",
+                    "Area_id": "53c01d7e-fedc-4bf3-900c-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ce-0798-4ae9-af49-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "2197",
+                "rght": "2484",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020d4-6774-407d-807c-5c5aacb5b862",
+                "parent_id": "53c020ce-0798-4ae9-af49-5c5aacb5b862",
+                "name": "枋寮鄉",
+                "lft": "2342",
+                "rght": "2349",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d7345e-78a0-4f9f-b185-1299acb5b862",
+                "parent_id": "53c020d4-6774-407d-807c-5c5aacb5b862",
+                "name": "第03選舉區[區域]",
+                "lft": "2347",
+                "rght": "2348",
+                "population": "5628",
+                "population_electors": "4725",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "5475673a-c0d4-4b91-9d75-0f78cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,屏東縣,枋寮鄉,第03選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

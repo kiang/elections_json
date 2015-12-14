@@ -1,0 +1,145 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02267-8d00-42ad-957d-5c5aacb5b862",
+            "parent_id": "53c02265-2468-4454-be9d-5c5aacb5b862",
+            "name": "安樂里",
+            "lft": "7803",
+            "rght": "7804",
+            "population": "601",
+            "population_electors": "486",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54773ba1-748c-4389-81da-1915cf91e152",
+            "keywords": "2014-11,村里長,屏東縣,屏東市,安樂里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0283d-d148-424f-b54b-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "林惠華",
+                "party": "無",
+                "gender": "f",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53c02267-8d00-42ad-957d-5c5aacb5b862"
+            },
+            {
+                "id": "540b55ae-3f44-428e-bd7b-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "陳蘭花",
+                "party": "無",
+                "gender": "f",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c02267-8d00-42ad-957d-5c5aacb5b862"
+            },
+            {
+                "id": "540b55ae-5140-47be-97c2-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "吳嘉生",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02267-8d00-42ad-957d-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d51-e81c-4329-a057-5460acb5b862",
+                "name": "安樂里",
+                "is_area": true,
+                "keywords": "2014,屏東縣,屏東市,安樂里",
+                "AreasElection": {
+                    "id": "53c02267-be10-4cc4-85f3-5c5aacb5b862",
+                    "Election_id": "53c02267-8d00-42ad-957d-5c5aacb5b862",
+                    "Area_id": "53c01d51-e81c-4329-a057-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "7771",
+                "rght": "8766",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02265-2468-4454-be9d-5c5aacb5b862",
+                "parent_id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "name": "屏東市",
+                "lft": "7772",
+                "rght": "7931",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02267-8d00-42ad-957d-5c5aacb5b862",
+                "parent_id": "53c02265-2468-4454-be9d-5c5aacb5b862",
+                "name": "安樂里",
+                "lft": "7803",
+                "rght": "7804",
+                "population": "601",
+                "population_electors": "486",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54773ba1-748c-4389-81da-1915cf91e152",
+                "keywords": "2014-11,村里長,屏東縣,屏東市,安樂里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

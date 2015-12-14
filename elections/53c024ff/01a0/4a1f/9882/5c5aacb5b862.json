@@ -1,0 +1,145 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c024ff-01a0-4a1f-9882-5c5aacb5b862",
+            "parent_id": "53c024f7-3e90-4bb7-8325-5c5aacb5b862",
+            "name": "成功里",
+            "lft": "15995",
+            "rght": "15996",
+            "population": "7865",
+            "population_electors": "5944",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546f277e-186c-45db-9f8c-2f28cf91e152",
+            "keywords": "2014-11,村里長,新北市,蘆洲區,成功里"
+        },
+        "Candidate": [
+            {
+                "id": "53c026d8-2f14-42a9-873d-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "林德義",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53c024ff-01a0-4a1f-9882-5c5aacb5b862"
+            },
+            {
+                "id": "540b536d-9b98-4ae9-a739-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "李義福",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c024ff-01a0-4a1f-9882-5c5aacb5b862"
+            },
+            {
+                "id": "540b536d-bf4c-4fb5-b8b7-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "許秋蘭",
+                "party": "無",
+                "gender": "f",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c024ff-01a0-4a1f-9882-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01f4a-eba8-4e71-8c7d-5460acb5b862",
+                "name": "成功里",
+                "is_area": true,
+                "keywords": "2014,新北市,蘆洲區,成功里",
+                "AreasElection": {
+                    "id": "53c024ff-3d1c-4537-a61f-5c5aacb5b862",
+                    "Election_id": "53c024ff-01a0-4a1f-9882-5c5aacb5b862",
+                    "Area_id": "53c01f4a-eba8-4e71-8c7d-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新北市",
+                "lft": "14261",
+                "rght": "16384",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c024f7-3e90-4bb7-8325-5c5aacb5b862",
+                "parent_id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "name": "蘆洲區",
+                "lft": "15920",
+                "rght": "15997",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c024ff-01a0-4a1f-9882-5c5aacb5b862",
+                "parent_id": "53c024f7-3e90-4bb7-8325-5c5aacb5b862",
+                "name": "成功里",
+                "lft": "15995",
+                "rght": "15996",
+                "population": "7865",
+                "population_electors": "5944",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546f277e-186c-45db-9f8c-2f28cf91e152",
+                "keywords": "2014-11,村里長,新北市,蘆洲區,成功里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0237c-7ea8-44f9-953c-5c5aacb5b862",
+            "parent_id": "53c02379-7ffc-44da-9134-5c5aacb5b862",
+            "name": "新安里",
+            "lft": "11287",
+            "rght": "11288",
+            "population": "4668",
+            "population_electors": "3622",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546f277e-7a80-4221-9d4a-2f28cf91e152",
+            "keywords": "2014-11,村里長,桃園市,平鎮區,新安里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02788-3910-493d-b9aa-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "吳善忠",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "WU SHAN CHUNG",
+                "election_id": "53c0237c-7ea8-44f9-953c-5c5aacb5b862"
+            },
+            {
+                "id": "540b53af-7d14-4ee3-8c9b-1926acb5b862",
+                "image": "",
+                "stage": "1",
+                "name": "葉佳凌",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c0237c-7ea8-44f9-953c-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c2d-0e08-4ee9-86a8-5460acb5b862",
+                "name": "新安里",
+                "is_area": true,
+                "keywords": "2014,桃園市,平鎮區,新安里",
+                "AreasElection": {
+                    "id": "53c0237c-1bf4-4e4d-a868-5c5aacb5b862",
+                    "Election_id": "53c0237c-7ea8-44f9-953c-5c5aacb5b862",
+                    "Area_id": "53c01c2d-0e08-4ee9-86a8-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "桃園市",
+                "lft": "10439",
+                "rght": "11456",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02379-7ffc-44da-9134-5c5aacb5b862",
+                "parent_id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "name": "平鎮區",
+                "lft": "11242",
+                "rght": "11335",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0237c-7ea8-44f9-953c-5c5aacb5b862",
+                "parent_id": "53c02379-7ffc-44da-9134-5c5aacb5b862",
+                "name": "新安里",
+                "lft": "11287",
+                "rght": "11288",
+                "population": "4668",
+                "population_electors": "3622",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546f277e-7a80-4221-9d4a-2f28cf91e152",
+                "keywords": "2014-11,村里長,桃園市,平鎮區,新安里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

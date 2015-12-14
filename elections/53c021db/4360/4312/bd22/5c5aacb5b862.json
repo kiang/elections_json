@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c021db-4360-4312-bd22-5c5aacb5b862",
+            "parent_id": "53c021da-9dc8-4739-b2f6-5c5aacb5b862",
+            "name": "彰雅村",
+            "lft": "5977",
+            "rght": "5978",
+            "population": "1490",
+            "population_electors": "1227",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "keywords": "2014-11,村里長,南投縣,鹿谷鄉,彰雅村"
+        },
+        "Candidate": [
+            {
+                "id": "53c027f4-4ec0-4621-b1a6-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "劉英賓",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "LIU YING PING",
+                "election_id": "53c021db-4360-4312-bd22-5c5aacb5b862"
+            },
+            {
+                "id": "540b5545-5290-40be-81fd-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "林儀松",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c021db-4360-4312-bd22-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01cd9-476c-4a1f-aa17-5460acb5b862",
+                "name": "彰雅村",
+                "is_area": true,
+                "keywords": "2014,南投縣,鹿谷鄉,彰雅村",
+                "AreasElection": {
+                    "id": "53c021db-3788-45d4-9e52-5c5aacb5b862",
+                    "Election_id": "53c021db-4360-4312-bd22-5c5aacb5b862",
+                    "Area_id": "53c01cd9-476c-4a1f-aa17-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "南投縣",
+                "lft": "5649",
+                "rght": "6200",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021da-9dc8-4739-b2f6-5c5aacb5b862",
+                "parent_id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "name": "鹿谷鄉",
+                "lft": "5974",
+                "rght": "6001",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021db-4360-4312-bd22-5c5aacb5b862",
+                "parent_id": "53c021da-9dc8-4739-b2f6-5c5aacb5b862",
+                "name": "彰雅村",
+                "lft": "5977",
+                "rght": "5978",
+                "population": "1490",
+                "population_electors": "1227",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2014-11,村里長,南投縣,鹿谷鄉,彰雅村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

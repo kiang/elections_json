@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02544-e1f4-4119-a4a5-5c5aacb5b862",
+            "parent_id": "53c02542-30e8-4080-80d6-5c5aacb5b862",
+            "name": "民德里",
+            "lft": "16765",
+            "rght": "16766",
+            "population": "1063",
+            "population_electors": "879",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c6157-d2a0-4071-9518-573fcf91e152",
+            "keywords": "2014-11,村里長,臺中市,北屯區,民德里"
+        },
+        "Candidate": [
+            {
+                "id": "53c026f4-a5c0-440f-9a8c-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "黃榮昌",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "HUANG JUNG TSANG",
+                "election_id": "53c02544-e1f4-4119-a4a5-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01f80-6134-4228-99e1-5460acb5b862",
+                "name": "民德里",
+                "is_area": true,
+                "keywords": "2014,臺中市,北屯區,民德里",
+                "AreasElection": {
+                    "id": "53c02544-0e50-4ca9-be26-5c5aacb5b862",
+                    "Election_id": "53c02544-e1f4-4119-a4a5-5c5aacb5b862",
+                    "Area_id": "53c01f80-6134-4228-99e1-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02542-30e8-4080-80d6-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "北屯區",
+                "lft": "16744",
+                "rght": "16829",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02544-e1f4-4119-a4a5-5c5aacb5b862",
+                "parent_id": "53c02542-30e8-4080-80d6-5c5aacb5b862",
+                "name": "民德里",
+                "lft": "16765",
+                "rght": "16766",
+                "population": "1063",
+                "population_electors": "879",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c6157-d2a0-4071-9518-573fcf91e152",
+                "keywords": "2014-11,村里長,臺中市,北屯區,民德里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

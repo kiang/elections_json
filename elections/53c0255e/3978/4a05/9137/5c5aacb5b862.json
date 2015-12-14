@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0255e-3978-4a05-9137-5c5aacb5b862",
+            "parent_id": "53c0255d-a6c0-4aad-a7c7-5c5aacb5b862",
+            "name": "槺榔里",
+            "lft": "17037",
+            "rght": "17038",
+            "population": "5277",
+            "population_electors": "4226",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546f277f-e2ac-4ed1-b46d-2f28cf91e152",
+            "keywords": "2014-11,村里長,臺中市,清水區,槺榔里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02700-8f68-4112-b088-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "洪水家",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "HUNG SHUI CHIA",
+                "election_id": "53c0255e-3978-4a05-9137-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01f93-0bf8-4aed-856e-5460acb5b862",
+                "name": "槺榔里",
+                "is_area": true,
+                "keywords": "2014,臺中市,清水區,槺榔里",
+                "AreasElection": {
+                    "id": "53c0255f-e0ac-49b0-a4ff-5c5aacb5b862",
+                    "Election_id": "53c0255e-3978-4a05-9137-5c5aacb5b862",
+                    "Area_id": "53c01f93-0bf8-4aed-856e-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0255d-a6c0-4aad-a7c7-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "清水區",
+                "lft": "17016",
+                "rght": "17081",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0255e-3978-4a05-9137-5c5aacb5b862",
+                "parent_id": "53c0255d-a6c0-4aad-a7c7-5c5aacb5b862",
+                "name": "槺榔里",
+                "lft": "17037",
+                "rght": "17038",
+                "population": "5277",
+                "population_electors": "4226",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546f277f-e2ac-4ed1-b46d-2f28cf91e152",
+                "keywords": "2014-11,村里長,臺中市,清水區,槺榔里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,200 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d73478-3858-40c8-87a9-1299acb5b862",
+            "parent_id": "53c020d8-0490-47b3-883c-5c5aacb5b862",
+            "name": "第01選舉區[區域]",
+            "lft": "2443",
+            "rght": "2444",
+            "population": "2041",
+            "population_electors": "1727",
+            "quota": "4",
+            "quota_women": "1",
+            "bulletin_key": "5475673a-4f74-40cb-87e3-0f78cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,屏東縣,霧臺鄉,第01選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b57ab-2a20-48ca-b8a8-1926acb5b862",
+                "image": "54cb69b5\/cf78\/45ef\/b444\/42446ab936af.jpg",
+                "stage": "2",
+                "name": "賴天賜",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d73478-3858-40c8-87a9-1299acb5b862"
+            },
+            {
+                "id": "540b57ab-5008-4b95-82c4-1926acb5b862",
+                "image": "54cb69fd\/483c\/4a38\/b799\/42596ab936af.jpg",
+                "stage": "2",
+                "name": "柯淑華",
+                "party": "無",
+                "gender": "f",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53d73478-3858-40c8-87a9-1299acb5b862"
+            },
+            {
+                "id": "540b57ab-a4e4-46da-bd98-1926acb5b862",
+                "image": "54cb6a2d\/4908\/4b23\/9bf2\/42566ab936af.jpg",
+                "stage": "1",
+                "name": "柯秋美",
+                "party": "無",
+                "gender": "f",
+                "no": "4",
+                "name_english": "",
+                "election_id": "53d73478-3858-40c8-87a9-1299acb5b862"
+            },
+            {
+                "id": "540b57ab-acf8-415a-a9b6-1926acb5b862",
+                "image": "54cb69df\/8354\/4e52\/8db5\/425a6ab936af.jpg",
+                "stage": "2",
+                "name": "杜勇賢",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53d73478-3858-40c8-87a9-1299acb5b862"
+            },
+            {
+                "id": "540b57ac-9554-49f3-86c5-1926acb5b862",
+                "image": "54cb6a6c\/05fc\/415a\/ac8f\/42596ab936af.jpg",
+                "stage": "1",
+                "name": "杜仁勇",
+                "party": "無",
+                "gender": "m",
+                "no": "6",
+                "name_english": "",
+                "election_id": "53d73478-3858-40c8-87a9-1299acb5b862"
+            },
+            {
+                "id": "540b57ac-df04-4cbe-a23d-1926acb5b862",
+                "image": "54cb6a4a\/a780\/4af1\/a332\/42696ab936af.jpg",
+                "stage": "2",
+                "name": "包明堂",
+                "party": "無",
+                "gender": "m",
+                "no": "5",
+                "name_english": "",
+                "election_id": "53d73478-3858-40c8-87a9-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d8e-4904-487d-928c-5460acb5b862",
+                "name": "霧台村",
+                "is_area": true,
+                "keywords": "2014,屏東縣,霧臺鄉,霧台村",
+                "AreasElection": {
+                    "id": "53d73478-280c-4639-ab92-1299acb5b862",
+                    "Election_id": "53d73478-3858-40c8-87a9-1299acb5b862",
+                    "Area_id": "53c01d8e-4904-487d-928c-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d8e-702c-44d7-b4a7-5460acb5b862",
+                "name": "吉露村",
+                "is_area": true,
+                "keywords": "2014,屏東縣,霧臺鄉,吉露村",
+                "AreasElection": {
+                    "id": "53d73478-8d9c-4a5f-91d1-1299acb5b862",
+                    "Election_id": "53d73478-3858-40c8-87a9-1299acb5b862",
+                    "Area_id": "53c01d8e-702c-44d7-b4a7-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d8e-fb60-4a8c-941b-5460acb5b862",
+                "name": "阿禮村",
+                "is_area": true,
+                "keywords": "2014,屏東縣,霧臺鄉,阿禮村",
+                "AreasElection": {
+                    "id": "53d73478-f5e8-4ca5-bce6-1299acb5b862",
+                    "Election_id": "53d73478-3858-40c8-87a9-1299acb5b862",
+                    "Area_id": "53c01d8e-fb60-4a8c-941b-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ce-0798-4ae9-af49-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "2197",
+                "rght": "2484",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020d8-0490-47b3-883c-5c5aacb5b862",
+                "parent_id": "53c020ce-0798-4ae9-af49-5c5aacb5b862",
+                "name": "霧臺鄉",
+                "lft": "2442",
+                "rght": "2447",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d73478-3858-40c8-87a9-1299acb5b862",
+                "parent_id": "53c020d8-0490-47b3-883c-5c5aacb5b862",
+                "name": "第01選舉區[區域]",
+                "lft": "2443",
+                "rght": "2444",
+                "population": "2041",
+                "population_electors": "1727",
+                "quota": "4",
+                "quota_women": "1",
+                "bulletin_key": "5475673a-4f74-40cb-87e3-0f78cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,屏東縣,霧臺鄉,第01選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

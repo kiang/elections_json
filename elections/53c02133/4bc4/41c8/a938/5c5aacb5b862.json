@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02133-4bc4-41c8-a938-5c5aacb5b862",
+            "parent_id": "53c02133-6b80-499f-bbd1-5c5aacb5b862",
+            "name": "石井村",
+            "lft": "3795",
+            "rght": "3796",
+            "population": "703",
+            "population_electors": "627",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "keywords": "2014-11,村里長,新竹縣,峨眉鄉,石井村"
+        },
+        "Candidate": [
+            {
+                "id": "53c0279c-021c-4ffc-8190-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "李聲宏",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c02133-4bc4-41c8-a938-5c5aacb5b862"
+            },
+            {
+                "id": "540b54ce-d9f0-4e65-88aa-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "周源發",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02133-4bc4-41c8-a938-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c50-6468-44fa-a14d-5460acb5b862",
+                "name": "石井村",
+                "is_area": true,
+                "keywords": "2014,新竹縣,峨眉鄉,石井村",
+                "AreasElection": {
+                    "id": "53c02133-5ec4-4bff-8e1a-5c5aacb5b862",
+                    "Election_id": "53c02133-4bc4-41c8-a938-5c5aacb5b862",
+                    "Area_id": "53c01c50-6468-44fa-a14d-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02114-c1a0-4545-bc6f-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新竹縣",
+                "lft": "3421",
+                "rght": "3830",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02133-6b80-499f-bbd1-5c5aacb5b862",
+                "parent_id": "53c02114-c1a0-4545-bc6f-5c5aacb5b862",
+                "name": "峨眉鄉",
+                "lft": "3790",
+                "rght": "3803",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02133-4bc4-41c8-a938-5c5aacb5b862",
+                "parent_id": "53c02133-6b80-499f-bbd1-5c5aacb5b862",
+                "name": "石井村",
+                "lft": "3795",
+                "rght": "3796",
+                "population": "703",
+                "population_electors": "627",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2014-11,村里長,新竹縣,峨眉鄉,石井村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

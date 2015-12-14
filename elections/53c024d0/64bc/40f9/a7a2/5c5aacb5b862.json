@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c024d0-64bc-40f9-a7a2-5c5aacb5b862",
+            "parent_id": "53c024cf-55b8-475a-bdd6-5c5aacb5b862",
+            "name": "南鶯里",
+            "lft": "15473",
+            "rght": "15474",
+            "population": "6390",
+            "population_electors": "4839",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546edee5-f874-45e4-90a4-3ce1cf91e152",
+            "keywords": "2014-11,村里長,新北市,鶯歌區,南鶯里"
+        },
+        "Candidate": [
+            {
+                "id": "53c026c6-6abc-4e4b-9d5a-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "王明義",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c024d0-64bc-40f9-a7a2-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01f25-ff2c-48f8-b8db-5460acb5b862",
+                "name": "南鶯里",
+                "is_area": true,
+                "keywords": "2014,新北市,鶯歌區,南鶯里",
+                "AreasElection": {
+                    "id": "53c024d0-c5e0-448f-9f15-5c5aacb5b862",
+                    "Election_id": "53c024d0-64bc-40f9-a7a2-5c5aacb5b862",
+                    "Area_id": "53c01f25-ff2c-48f8-b8db-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新北市",
+                "lft": "14261",
+                "rght": "16384",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c024cf-55b8-475a-bdd6-5c5aacb5b862",
+                "parent_id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "name": "鶯歌區",
+                "lft": "15466",
+                "rght": "15507",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c024d0-64bc-40f9-a7a2-5c5aacb5b862",
+                "parent_id": "53c024cf-55b8-475a-bdd6-5c5aacb5b862",
+                "name": "南鶯里",
+                "lft": "15473",
+                "rght": "15474",
+                "population": "6390",
+                "population_electors": "4839",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546edee5-f874-45e4-90a4-3ce1cf91e152",
+                "keywords": "2014-11,村里長,新北市,鶯歌區,南鶯里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

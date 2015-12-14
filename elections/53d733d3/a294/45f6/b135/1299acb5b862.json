@@ -1,0 +1,167 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d733d3-a294-45f6-b135-1299acb5b862",
+            "parent_id": "53c020c7-55c8-4d33-a132-5c5aacb5b862",
+            "name": "第04選舉區[區域]",
+            "lft": "1991",
+            "rght": "1992",
+            "population": "7557",
+            "population_electors": "5711",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "546ebce3-3564-47b8-a95c-2b96cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,雲林縣,麥寮鄉,第04選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b575d-b440-4f5c-81b6-1926acb5b862",
+                "image": "54c10ed5\/00ec\/417e\/aeb8\/32b86ab936af.jpg",
+                "stage": "2",
+                "name": "許留賓",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "Hsu Liu bin",
+                "election_id": "53d733d3-a294-45f6-b135-1299acb5b862"
+            },
+            {
+                "id": "540b575d-e18c-468a-afd1-1926acb5b862",
+                "image": "54c10e6b\/819c\/44d5\/b08b\/32766ab936af.jpg",
+                "stage": "2",
+                "name": "雷忠儀",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d733d3-a294-45f6-b135-1299acb5b862"
+            },
+            {
+                "id": "540b575d-fe94-420f-b470-1926acb5b862",
+                "image": "54c10eec\/149c\/4ba7\/a723\/32b66ab936af.jpg",
+                "stage": "1",
+                "name": "許建新",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53d733d3-a294-45f6-b135-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d09-fb68-4562-a5bc-5460acb5b862",
+                "name": "新吉村",
+                "is_area": true,
+                "keywords": "2014,雲林縣,麥寮鄉,新吉村",
+                "AreasElection": {
+                    "id": "53d733d4-1134-4053-bdea-1299acb5b862",
+                    "Election_id": "53d733d3-a294-45f6-b135-1299acb5b862",
+                    "Area_id": "53c01d09-fb68-4562-a5bc-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d0a-54d8-4efd-a030-5460acb5b862",
+                "name": "雷厝村",
+                "is_area": true,
+                "keywords": "2014,雲林縣,麥寮鄉,雷厝村",
+                "AreasElection": {
+                    "id": "53d733d4-7d28-47fd-81be-1299acb5b862",
+                    "Election_id": "53d733d3-a294-45f6-b135-1299acb5b862",
+                    "Area_id": "53c01d0a-54d8-4efd-a030-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d0a-fc0c-445e-99b3-5460acb5b862",
+                "name": "施厝村",
+                "is_area": true,
+                "keywords": "2014,雲林縣,麥寮鄉,施厝村",
+                "AreasElection": {
+                    "id": "53d733d4-b418-4b94-b518-1299acb5b862",
+                    "Election_id": "53d733d3-a294-45f6-b135-1299acb5b862",
+                    "Area_id": "53c01d0a-fc0c-445e-99b3-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020c5-1718-4aea-8b3b-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "1865",
+                "rght": "2062",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020c7-55c8-4d33-a132-5c5aacb5b862",
+                "parent_id": "53c020c5-1718-4aea-8b3b-5c5aacb5b862",
+                "name": "麥寮鄉",
+                "lft": "1984",
+                "rght": "1993",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d733d3-a294-45f6-b135-1299acb5b862",
+                "parent_id": "53c020c7-55c8-4d33-a132-5c5aacb5b862",
+                "name": "第04選舉區[區域]",
+                "lft": "1991",
+                "rght": "1992",
+                "population": "7557",
+                "population_electors": "5711",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "546ebce3-3564-47b8-a95c-2b96cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,雲林縣,麥寮鄉,第04選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

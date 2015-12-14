@@ -1,0 +1,119 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02096-a048-43ca-8aa1-5c5aacb5b862",
+            "parent_id": "53c02095-a5ac-446e-b87d-5c5aacb5b862",
+            "name": "埔里鎮",
+            "lft": "782",
+            "rght": "783",
+            "population": "83232",
+            "population_electors": "66654",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54735d56-0260-4ac5-a4fe-21eacf91e152",
+            "keywords": "2014-11,鄉鎮市長,南投縣,埔里鎮"
+        },
+        "Candidate": [
+            {
+                "id": "5406a607-f614-46e1-b034-15b8acb5b862",
+                "image": "54479b32\/1380\/4649\/8545\/71ac8e043389.jpg",
+                "stage": "2",
+                "name": "周義雄",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02096-a048-43ca-8aa1-5c5aacb5b862"
+            },
+            {
+                "id": "540b5809-3e3c-482c-ac26-1926acb5b862",
+                "image": "54479b67\/11a0\/4f8f\/8809\/72098e043389.jpg",
+                "stage": "1",
+                "name": "蔡清輝",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c02096-a048-43ca-8aa1-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01ccb-4aa8-413d-9392-5460acb5b862",
+                "name": "埔里鎮",
+                "is_area": true,
+                "keywords": "2014,南投縣,埔里鎮",
+                "AreasElection": {
+                    "id": "53c02096-80a4-4f56-8f81-5c5aacb5b862",
+                    "Election_id": "53c02096-a048-43ca-8aa1-5c5aacb5b862",
+                    "Area_id": "53c01ccb-4aa8-413d-9392-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市長",
+                "lft": "608",
+                "rght": "1031",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02095-a5ac-446e-b87d-5c5aacb5b862",
+                "parent_id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "name": "南投縣",
+                "lft": "779",
+                "rght": "806",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02096-a048-43ca-8aa1-5c5aacb5b862",
+                "parent_id": "53c02095-a5ac-446e-b87d-5c5aacb5b862",
+                "name": "埔里鎮",
+                "lft": "782",
+                "rght": "783",
+                "population": "83232",
+                "population_electors": "66654",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54735d56-0260-4ac5-a4fe-21eacf91e152",
+                "keywords": "2014-11,鄉鎮市長,南投縣,埔里鎮"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

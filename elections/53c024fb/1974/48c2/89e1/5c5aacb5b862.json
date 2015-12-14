@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c024fb-1974-48c2-89e1-5c5aacb5b862",
+            "parent_id": "53c024f7-3e90-4bb7-8325-5c5aacb5b862",
+            "name": "信義里",
+            "lft": "15953",
+            "rght": "15954",
+            "population": "4266",
+            "population_electors": "3484",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546f277e-54f4-4dec-a8a3-2f28cf91e152",
+            "keywords": "2014-11,村里長,新北市,蘆洲區,信義里"
+        },
+        "Candidate": [
+            {
+                "id": "53c026d6-31e4-4de3-ba3a-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "郭騰芳",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c024fb-1974-48c2-89e1-5c5aacb5b862"
+            },
+            {
+                "id": "540b5369-2644-4e49-a89e-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "李有村",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c024fb-1974-48c2-89e1-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01f47-a9cc-4a99-ac70-5460acb5b862",
+                "name": "信義里",
+                "is_area": true,
+                "keywords": "2014,新北市,蘆洲區,信義里",
+                "AreasElection": {
+                    "id": "53c024fb-7ebc-49df-9188-5c5aacb5b862",
+                    "Election_id": "53c024fb-1974-48c2-89e1-5c5aacb5b862",
+                    "Area_id": "53c01f47-a9cc-4a99-ac70-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新北市",
+                "lft": "14261",
+                "rght": "16384",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c024f7-3e90-4bb7-8325-5c5aacb5b862",
+                "parent_id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "name": "蘆洲區",
+                "lft": "15920",
+                "rght": "15997",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c024fb-1974-48c2-89e1-5c5aacb5b862",
+                "parent_id": "53c024f7-3e90-4bb7-8325-5c5aacb5b862",
+                "name": "信義里",
+                "lft": "15953",
+                "rght": "15954",
+                "population": "4266",
+                "population_electors": "3484",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546f277e-54f4-4dec-a8a3-2f28cf91e152",
+                "keywords": "2014-11,村里長,新北市,蘆洲區,信義里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

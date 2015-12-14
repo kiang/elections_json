@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c025c0-66a8-465c-9f4a-5c5aacb5b862",
+            "parent_id": "53c025bf-3470-4ca0-b28a-5c5aacb5b862",
+            "name": "曲溪里",
+            "lft": "18119",
+            "rght": "18120",
+            "population": "679",
+            "population_electors": "584",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "keywords": "2014-11,村里長,臺南市,大內區,曲溪里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0272a-1100-4710-b238-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "楊春寶",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c025c0-66a8-465c-9f4a-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01fdd-613c-49ff-8a7b-5460acb5b862",
+                "name": "曲溪里",
+                "is_area": true,
+                "keywords": "2014,臺南市,大內區,曲溪里",
+                "AreasElection": {
+                    "id": "53c025c0-0a58-4deb-9663-5c5aacb5b862",
+                    "Election_id": "53c025c0-66a8-465c-9f4a-5c5aacb5b862",
+                    "Area_id": "53c01fdd-613c-49ff-8a7b-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02598-fc40-4dee-aec0-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺南市",
+                "lft": "17695",
+                "rght": "19274",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c025bf-3470-4ca0-b28a-5c5aacb5b862",
+                "parent_id": "53c02598-fc40-4dee-aec0-5c5aacb5b862",
+                "name": "大內區",
+                "lft": "18110",
+                "rght": "18131",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c025c0-66a8-465c-9f4a-5c5aacb5b862",
+                "parent_id": "53c025bf-3470-4ca0-b28a-5c5aacb5b862",
+                "name": "曲溪里",
+                "lft": "18119",
+                "rght": "18120",
+                "population": "679",
+                "population_electors": "584",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2014-11,村里長,臺南市,大內區,曲溪里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

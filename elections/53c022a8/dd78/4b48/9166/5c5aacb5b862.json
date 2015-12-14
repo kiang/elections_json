@@ -1,0 +1,167 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c022a8-dd78-4b48-9166-5c5aacb5b862",
+            "parent_id": "53c022a8-1c30-4951-8144-5c5aacb5b862",
+            "name": "善餘村",
+            "lft": "8631",
+            "rght": "8632",
+            "population": "1051",
+            "population_electors": "885",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54773ba1-bdbc-4272-a64c-1915cf91e152",
+            "keywords": "2014-11,村里長,屏東縣,枋山鄉,善餘村"
+        },
+        "Candidate": [
+            {
+                "id": "53c0285d-5408-407c-8b0a-5dffacb5b862",
+                "image": null,
+                "stage": "0",
+                "name": "陳恒輝",
+                "party": null,
+                "gender": null,
+                "no": "0",
+                "name_english": "",
+                "election_id": "53c022a8-dd78-4b48-9166-5c5aacb5b862"
+            },
+            {
+                "id": "540b55e3-6d54-4a03-acb3-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "葉徳昇",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c022a8-dd78-4b48-9166-5c5aacb5b862"
+            },
+            {
+                "id": "540b55e3-8030-45c7-a209-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "林德雄",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c022a8-dd78-4b48-9166-5c5aacb5b862"
+            },
+            {
+                "id": "540b55e3-9984-435f-b12a-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "徐鶴瓊",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53c022a8-dd78-4b48-9166-5c5aacb5b862"
+            },
+            {
+                "id": "540b55e3-dafc-4260-a2aa-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "葉憲發",
+                "party": "無",
+                "gender": "m",
+                "no": "4",
+                "name_english": "",
+                "election_id": "53c022a8-dd78-4b48-9166-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d8b-1674-4d7e-b712-5460acb5b862",
+                "name": "善餘村",
+                "is_area": true,
+                "keywords": "2014,屏東縣,枋山鄉,善餘村",
+                "AreasElection": {
+                    "id": "53c022a8-51a8-41cd-80a1-5c5aacb5b862",
+                    "Election_id": "53c022a8-dd78-4b48-9166-5c5aacb5b862",
+                    "Area_id": "53c01d8b-1674-4d7e-b712-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "7771",
+                "rght": "8766",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022a8-1c30-4951-8144-5c5aacb5b862",
+                "parent_id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "name": "枋山鄉",
+                "lft": "8630",
+                "rght": "8639",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022a8-dd78-4b48-9166-5c5aacb5b862",
+                "parent_id": "53c022a8-1c30-4951-8144-5c5aacb5b862",
+                "name": "善餘村",
+                "lft": "8631",
+                "rght": "8632",
+                "population": "1051",
+                "population_electors": "885",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54773ba1-bdbc-4272-a64c-1915cf91e152",
+                "keywords": "2014-11,村里長,屏東縣,枋山鄉,善餘村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

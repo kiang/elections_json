@@ -1,0 +1,167 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02288-b980-47e3-a660-5c5aacb5b862",
+            "parent_id": "53c02287-b8e8-499b-aa0b-5c5aacb5b862",
+            "name": "振興村",
+            "lft": "8231",
+            "rght": "8232",
+            "population": "2155",
+            "population_electors": "1833",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54773ba1-4678-48ff-846d-1915cf91e152",
+            "keywords": "2014-11,村里長,屏東縣,鹽埔鄉,振興村"
+        },
+        "Candidate": [
+            {
+                "id": "53c0284e-0918-4a3d-973a-5dffacb5b862",
+                "image": "54d4a250\/b2e8\/4161\/b2af\/71996ab936af.jpg",
+                "stage": "0",
+                "name": "吳道雄",
+                "party": "",
+                "gender": "m",
+                "no": "0",
+                "name_english": "",
+                "election_id": "53c02288-b980-47e3-a660-5c5aacb5b862"
+            },
+            {
+                "id": "540b55cb-0508-4394-a365-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "林振茂",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02288-b980-47e3-a660-5c5aacb5b862"
+            },
+            {
+                "id": "540b55cb-4f00-48dd-b6d3-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "曹緣武",
+                "party": "無",
+                "gender": "m",
+                "no": "4",
+                "name_english": "",
+                "election_id": "53c02288-b980-47e3-a660-5c5aacb5b862"
+            },
+            {
+                "id": "540b55cb-6dd0-4e0e-b8ad-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "傅健民",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c02288-b980-47e3-a660-5c5aacb5b862"
+            },
+            {
+                "id": "540b55cb-d5ec-4212-a428-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "簡明吉",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53c02288-b980-47e3-a660-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d6f-5554-416d-b253-5460acb5b862",
+                "name": "振興村",
+                "is_area": true,
+                "keywords": "2014,屏東縣,鹽埔鄉,振興村",
+                "AreasElection": {
+                    "id": "53c02288-ea74-4f5a-a0a9-5c5aacb5b862",
+                    "Election_id": "53c02288-b980-47e3-a660-5c5aacb5b862",
+                    "Area_id": "53c01d6f-5554-416d-b253-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "7771",
+                "rght": "8766",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02287-b8e8-499b-aa0b-5c5aacb5b862",
+                "parent_id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "name": "鹽埔鄉",
+                "lft": "8226",
+                "rght": "8251",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02288-b980-47e3-a660-5c5aacb5b862",
+                "parent_id": "53c02287-b8e8-499b-aa0b-5c5aacb5b862",
+                "name": "振興村",
+                "lft": "8231",
+                "rght": "8232",
+                "population": "2155",
+                "population_electors": "1833",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54773ba1-4678-48ff-846d-1915cf91e152",
+                "keywords": "2014-11,村里長,屏東縣,鹽埔鄉,振興村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,189 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d7333a-04f4-4383-94bf-1299acb5b862",
+            "parent_id": "53c020be-6da0-41cd-93b8-5c5aacb5b862",
+            "name": "第03選舉區[區域]",
+            "lft": "1629",
+            "rght": "1630",
+            "population": "4755",
+            "population_electors": "3855",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-d90c-428e-b536-74a5cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,彰化縣,埔心鄉,第03選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b5721-6468-490f-b77c-1926acb5b862",
+                "image": "5469d18b\/4584\/4410\/8eb9\/7f5b8e043389.jpg",
+                "stage": "1",
+                "name": "黃鴻儒",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d7333a-04f4-4383-94bf-1299acb5b862"
+            },
+            {
+                "id": "540b5721-9084-4b85-9c5d-1926acb5b862",
+                "image": "55dc758e\/d52c\/4af3\/9981\/77406ab936af.jpg",
+                "stage": "2",
+                "name": "黃金吉",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53d7333a-04f4-4383-94bf-1299acb5b862"
+            },
+            {
+                "id": "540b5721-9c8c-492a-bfa2-1926acb5b862",
+                "image": "54214e84\/1900\/4a0a\/8deb\/031dcb455a61.jpg",
+                "stage": "2",
+                "name": "黃坤鼎",
+                "party": "無",
+                "gender": "m",
+                "no": "4",
+                "name_english": "",
+                "election_id": "53d7333a-04f4-4383-94bf-1299acb5b862"
+            },
+            {
+                "id": "540b5722-9c0c-4617-82bf-1926acb5b862",
+                "image": "54214e90\/9a28\/4f54\/9958\/031dcb455a61.jpg",
+                "stage": "1",
+                "name": "黃尚彬",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "HUANG SHANG PIN",
+                "election_id": "53d7333a-04f4-4383-94bf-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01cab-0154-40c6-82ae-5460acb5b862",
+                "name": "埤霞村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,埔心鄉,埤霞村",
+                "AreasElection": {
+                    "id": "53d7333b-4860-4d6a-b859-1299acb5b862",
+                    "Election_id": "53d7333a-04f4-4383-94bf-1299acb5b862",
+                    "Area_id": "53c01cab-0154-40c6-82ae-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cab-a208-4f5e-bd1e-5460acb5b862",
+                "name": "梧鳳村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,埔心鄉,梧鳳村",
+                "AreasElection": {
+                    "id": "53d7333b-f2c0-4120-87e7-1299acb5b862",
+                    "Election_id": "53d7333a-04f4-4383-94bf-1299acb5b862",
+                    "Area_id": "53c01cab-a208-4f5e-bd1e-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cab-d218-4b0d-967b-5460acb5b862",
+                "name": "二重村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,埔心鄉,二重村",
+                "AreasElection": {
+                    "id": "53d7333b-1e54-4a70-8c67-1299acb5b862",
+                    "Election_id": "53d7333a-04f4-4383-94bf-1299acb5b862",
+                    "Area_id": "53c01cab-d218-4b0d-967b-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cac-f1d4-48d0-bf97-5460acb5b862",
+                "name": "埤脚村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,埔心鄉,埤脚村",
+                "AreasElection": {
+                    "id": "53d7333b-fdc0-4afb-bd7e-1299acb5b862",
+                    "Election_id": "53d7333a-04f4-4383-94bf-1299acb5b862",
+                    "Area_id": "53c01cac-f1d4-48d0-bf97-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020bb-fd28-4ab5-ad62-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "1497",
+                "rght": "1738",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020be-6da0-41cd-93b8-5c5aacb5b862",
+                "parent_id": "53c020bb-fd28-4ab5-ad62-5c5aacb5b862",
+                "name": "埔心鄉",
+                "lft": "1624",
+                "rght": "1631",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d7333a-04f4-4383-94bf-1299acb5b862",
+                "parent_id": "53c020be-6da0-41cd-93b8-5c5aacb5b862",
+                "name": "第03選舉區[區域]",
+                "lft": "1629",
+                "rght": "1630",
+                "population": "4755",
+                "population_electors": "3855",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-d90c-428e-b536-74a5cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,彰化縣,埔心鄉,第03選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

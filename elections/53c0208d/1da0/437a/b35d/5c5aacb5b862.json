@@ -1,0 +1,119 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0208d-1da0-437a-b35d-5c5aacb5b862",
+            "parent_id": "53c0208d-d5f8-4b58-82e9-5c5aacb5b862",
+            "name": "通霄鎮",
+            "lft": "692",
+            "rght": "693",
+            "population": "37011",
+            "population_electors": "30135",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e0699-c2ac-4255-a932-1a32cf91e152",
+            "keywords": "2014-11,鄉鎮市長,苗栗縣,通霄鎮"
+        },
+        "Candidate": [
+            {
+                "id": "5406a600-f9c4-4cff-b959-15b8acb5b862",
+                "image": "54957e5c\/cc1c\/464e\/a9b9\/757c6ab936af.jpg",
+                "stage": "2",
+                "name": "徐永煌",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c0208d-1da0-437a-b35d-5c5aacb5b862"
+            },
+            {
+                "id": "540b5802-093c-4a30-be96-1926acb5b862",
+                "image": "54957de3\/b970\/4929\/bb85\/75546ab936af.jpg",
+                "stage": "1",
+                "name": "巫恒昭",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c0208d-1da0-437a-b35d-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c59-6338-4357-98a2-5460acb5b862",
+                "name": "通霄鎮",
+                "is_area": true,
+                "keywords": "2014,苗栗縣,通霄鎮",
+                "AreasElection": {
+                    "id": "53c0208d-b6c0-4023-af6a-5c5aacb5b862",
+                    "Election_id": "53c0208d-1da0-437a-b35d-5c5aacb5b862",
+                    "Area_id": "53c01c59-6338-4357-98a2-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市長",
+                "lft": "608",
+                "rght": "1031",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0208d-d5f8-4b58-82e9-5c5aacb5b862",
+                "parent_id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "name": "苗栗縣",
+                "lft": "687",
+                "rght": "724",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0208d-1da0-437a-b35d-5c5aacb5b862",
+                "parent_id": "53c0208d-d5f8-4b58-82e9-5c5aacb5b862",
+                "name": "通霄鎮",
+                "lft": "692",
+                "rght": "693",
+                "population": "37011",
+                "population_electors": "30135",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e0699-c2ac-4255-a932-1a32cf91e152",
+                "keywords": "2014-11,鄉鎮市長,苗栗縣,通霄鎮"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

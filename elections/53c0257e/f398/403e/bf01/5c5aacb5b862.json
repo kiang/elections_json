@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0257e-f398-403e-bf01-5c5aacb5b862",
+            "parent_id": "53c0257d-4680-4a5d-8f9e-5c5aacb5b862",
+            "name": "三和里",
+            "lft": "17395",
+            "rght": "17396",
+            "population": "4992",
+            "population_electors": "3939",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb720-7b2c-4e85-ae14-2adbcf91e152",
+            "keywords": "2014-11,村里長,臺中市,烏日區,三和里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0270f-0c40-4399-b157-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "曾清意",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "TSENG CHINGyI",
+                "election_id": "53c0257e-f398-403e-bf01-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01fad-431c-4079-b4e4-5460acb5b862",
+                "name": "三和里",
+                "is_area": true,
+                "keywords": "2014,臺中市,烏日區,三和里",
+                "AreasElection": {
+                    "id": "53c0257e-d5f8-4d9d-9303-5c5aacb5b862",
+                    "Election_id": "53c0257e-f398-403e-bf01-5c5aacb5b862",
+                    "Area_id": "53c01fad-431c-4079-b4e4-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0257d-4680-4a5d-8f9e-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "烏日區",
+                "lft": "17394",
+                "rght": "17427",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0257e-f398-403e-bf01-5c5aacb5b862",
+                "parent_id": "53c0257d-4680-4a5d-8f9e-5c5aacb5b862",
+                "name": "三和里",
+                "lft": "17395",
+                "rght": "17396",
+                "population": "4992",
+                "population_electors": "3939",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb720-7b2c-4e85-ae14-2adbcf91e152",
+                "keywords": "2014-11,村里長,臺中市,烏日區,三和里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,156 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d734d8-d5c4-4695-a492-1299acb5b862",
+            "parent_id": "53c020e2-b210-4e1e-821e-5c5aacb5b862",
+            "name": "第02選舉區[區域]",
+            "lft": "2779",
+            "rght": "2780",
+            "population": "1084",
+            "population_electors": "929",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "546e068e-3024-4936-8964-1a32cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,澎湖縣,七美鄉,第02選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b57f7-1fb4-499f-917e-1926acb5b862",
+                "image": "548d8f91\/5274\/4c4d\/9845\/11bb6ab936af.jpg",
+                "stage": "2",
+                "name": "葉長茂",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53d734d8-d5c4-4695-a492-1299acb5b862"
+            },
+            {
+                "id": "540b57f8-f09c-47b9-9256-1926acb5b862",
+                "image": "548d8f02\/cce4\/47df\/914e\/119d6ab936af.jpg",
+                "stage": "1",
+                "name": "呂啟輝",
+                "party": "無",
+                "gender": "m",
+                "no": "0",
+                "name_english": "",
+                "election_id": "53d734d8-d5c4-4695-a492-1299acb5b862"
+            },
+            {
+                "id": "540b57f8-fa44-4d87-a623-1926acb5b862",
+                "image": "548d8f64\/16f0\/439a\/81d5\/11c46ab936af.jpg",
+                "stage": "2",
+                "name": "張仁和",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d734d8-d5c4-4695-a492-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01dce-2180-4f78-84e9-5460acb5b862",
+                "name": "中和村",
+                "is_area": true,
+                "keywords": "2014,澎湖縣,七美鄉,中和村",
+                "AreasElection": {
+                    "id": "53d734d9-ce34-4680-9062-1299acb5b862",
+                    "Election_id": "53d734d8-d5c4-4695-a492-1299acb5b862",
+                    "Area_id": "53c01dce-2180-4f78-84e9-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01dce-6040-4b3d-8b90-5460acb5b862",
+                "name": "平和村",
+                "is_area": true,
+                "keywords": "2014,澎湖縣,七美鄉,平和村",
+                "AreasElection": {
+                    "id": "53d734d9-a550-44f4-bd6c-1299acb5b862",
+                    "Election_id": "53d734d8-d5c4-4695-a492-1299acb5b862",
+                    "Area_id": "53c01dce-6040-4b3d-8b90-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020df-ed64-4762-aa9a-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "澎湖縣",
+                "lft": "2731",
+                "rght": "2784",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020e2-b210-4e1e-821e-5c5aacb5b862",
+                "parent_id": "53c020df-ed64-4762-aa9a-5c5aacb5b862",
+                "name": "七美鄉",
+                "lft": "2776",
+                "rght": "2783",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d734d8-d5c4-4695-a492-1299acb5b862",
+                "parent_id": "53c020e2-b210-4e1e-821e-5c5aacb5b862",
+                "name": "第02選舉區[區域]",
+                "lft": "2779",
+                "rght": "2780",
+                "population": "1084",
+                "population_electors": "929",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "546e068e-3024-4936-8964-1a32cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,澎湖縣,七美鄉,第02選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

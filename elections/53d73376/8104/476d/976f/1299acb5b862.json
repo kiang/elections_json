@@ -1,0 +1,200 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d73376-8104-476d-976f-1299acb5b862",
+            "parent_id": "53c020c3-9420-4390-ad25-5c5aacb5b862",
+            "name": "第04選舉區[區域]",
+            "lft": "1785",
+            "rght": "1786",
+            "population": "4684",
+            "population_electors": "3885",
+            "quota": "4",
+            "quota_women": "1",
+            "bulletin_key": "54735d56-007c-471b-bb18-21eacf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,南投縣,集集鎮,第04選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b573c-17f0-4a3c-9338-1926acb5b862",
+                "image": "54a169b7\/7428\/4667\/8ca0\/38f16ab936af.jpg",
+                "stage": "2",
+                "name": "陳玉花",
+                "party": "無",
+                "gender": "f",
+                "no": "1",
+                "name_english": "CHEN IU HUA",
+                "election_id": "53d73376-8104-476d-976f-1299acb5b862"
+            },
+            {
+                "id": "540b573c-1c74-4a70-8a5b-1926acb5b862",
+                "image": "54a169d4\/9718\/4b3a\/b401\/38da6ab936af.jpg",
+                "stage": "2",
+                "name": "蔡至哲",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "TSAI CHIH CHE",
+                "election_id": "53d73376-8104-476d-976f-1299acb5b862"
+            },
+            {
+                "id": "540b573c-4dd8-4a59-8a26-1926acb5b862",
+                "image": "54a168a5\/b378\/469f\/83a2\/38b06ab936af.jpg",
+                "stage": "1",
+                "name": "謝承宗",
+                "party": "無",
+                "gender": "m",
+                "no": "5",
+                "name_english": "Hsieh Cheng Tsung",
+                "election_id": "53d73376-8104-476d-976f-1299acb5b862"
+            },
+            {
+                "id": "540b573c-5264-4a98-8287-1926acb5b862",
+                "image": "54a168e5\/5c58\/445c\/aeb4\/38c56ab936af.jpg",
+                "stage": "2",
+                "name": "吳大村",
+                "party": "無",
+                "gender": "m",
+                "no": "4",
+                "name_english": "WU TA TSUN",
+                "election_id": "53d73376-8104-476d-976f-1299acb5b862"
+            },
+            {
+                "id": "540b573c-5b08-4000-87d4-1926acb5b862",
+                "image": "54a16a09\/f718\/4d17\/adaa\/38f76ab936af.jpg",
+                "stage": "2",
+                "name": "廖光華",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "LIAO KUANG HUA",
+                "election_id": "53d73376-8104-476d-976f-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01cd6-3320-4ed2-b784-5460acb5b862",
+                "name": "廣明里",
+                "is_area": true,
+                "keywords": "2014,南投縣,集集鎮,廣明里",
+                "AreasElection": {
+                    "id": "53d73377-6398-4adb-9412-1299acb5b862",
+                    "Election_id": "53d73376-8104-476d-976f-1299acb5b862",
+                    "Area_id": "53c01cd6-3320-4ed2-b784-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cd6-5ee8-4009-92c7-5460acb5b862",
+                "name": "永昌里",
+                "is_area": true,
+                "keywords": "2014,南投縣,集集鎮,永昌里",
+                "AreasElection": {
+                    "id": "53d73377-8e10-4900-b849-1299acb5b862",
+                    "Election_id": "53d73376-8104-476d-976f-1299acb5b862",
+                    "Area_id": "53c01cd6-5ee8-4009-92c7-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cd6-b110-473c-9932-5460acb5b862",
+                "name": "富山里",
+                "is_area": true,
+                "keywords": "2014,南投縣,集集鎮,富山里",
+                "AreasElection": {
+                    "id": "53d73377-c3f8-4f1f-b2bd-1299acb5b862",
+                    "Election_id": "53d73376-8104-476d-976f-1299acb5b862",
+                    "Area_id": "53c01cd6-b110-473c-9932-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cd6-b62c-4b89-8f86-5460acb5b862",
+                "name": "八張里",
+                "is_area": true,
+                "keywords": "2014,南投縣,集集鎮,八張里",
+                "AreasElection": {
+                    "id": "53d73377-4180-4ef5-87b3-1299acb5b862",
+                    "Election_id": "53d73376-8104-476d-976f-1299acb5b862",
+                    "Area_id": "53c01cd6-b62c-4b89-8f86-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020c2-2488-4d59-a20d-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "南投縣",
+                "lft": "1739",
+                "rght": "1864",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020c3-9420-4390-ad25-5c5aacb5b862",
+                "parent_id": "53c020c2-2488-4d59-a20d-5c5aacb5b862",
+                "name": "集集鎮",
+                "lft": "1778",
+                "rght": "1787",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d73376-8104-476d-976f-1299acb5b862",
+                "parent_id": "53c020c3-9420-4390-ad25-5c5aacb5b862",
+                "name": "第04選舉區[區域]",
+                "lft": "1785",
+                "rght": "1786",
+                "population": "4684",
+                "population_electors": "3885",
+                "quota": "4",
+                "quota_women": "1",
+                "bulletin_key": "54735d56-007c-471b-bb18-21eacf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,南投縣,集集鎮,第04選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,200 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d73424-e4d0-46c6-b481-1299acb5b862",
+            "parent_id": "53c020ce-1f60-4a46-87d2-5c5aacb5b862",
+            "name": "第02選舉區[區域]",
+            "lft": "2191",
+            "rght": "2192",
+            "population": "2580",
+            "population_electors": "1969",
+            "quota": "3",
+            "quota_women": "0",
+            "bulletin_key": "546ef559-de08-439a-87f0-208ecf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,嘉義縣,阿里山鄉,第02選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b5781-2dc4-48b9-8e64-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "陳有福",
+                "party": "無",
+                "gender": null,
+                "no": "0",
+                "name_english": "",
+                "election_id": "53d73424-e4d0-46c6-b481-1299acb5b862"
+            },
+            {
+                "id": "540b5781-4f68-4b44-bba1-1926acb5b862",
+                "image": "54d64073\/0300\/4212\/b290\/605f6ab936af.jpg",
+                "stage": "1",
+                "name": "陳清龍",
+                "party": "無",
+                "gender": "m",
+                "no": "4",
+                "name_english": "",
+                "election_id": "53d73424-e4d0-46c6-b481-1299acb5b862"
+            },
+            {
+                "id": "540b5781-5234-468e-b882-1926acb5b862",
+                "image": "54d64052\/0eb0\/4750\/bb85\/59276ab936af.jpg",
+                "stage": "1",
+                "name": "梁宗賢",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "Liang Tsung Hsien",
+                "election_id": "53d73424-e4d0-46c6-b481-1299acb5b862"
+            },
+            {
+                "id": "540b5781-6d4c-4dce-9d54-1926acb5b862",
+                "image": "54d64015\/6ea4\/4a18\/a4d4\/5c016ab936af.jpg",
+                "stage": "2",
+                "name": "莊健原",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d73424-e4d0-46c6-b481-1299acb5b862"
+            },
+            {
+                "id": "540b5781-b8e0-4296-8163-1926acb5b862",
+                "image": "54d64039\/5fd4\/4bec\/9292\/5f026ab936af.jpg",
+                "stage": "2",
+                "name": "林清福",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53d73424-e4d0-46c6-b481-1299acb5b862"
+            },
+            {
+                "id": "540b5781-e884-4177-8382-1926acb5b862",
+                "image": "54d63fec\/d0d8\/4fe7\/b5e0\/5c016ab936af.jpg",
+                "stage": "2",
+                "name": "汪大華",
+                "party": "無",
+                "gender": "m",
+                "no": "5",
+                "name_english": "WANG TA HUA",
+                "election_id": "53d73424-e4d0-46c6-b481-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d4e-0720-4f3b-b510-5460acb5b862",
+                "name": "來吉村",
+                "is_area": true,
+                "keywords": "2014,嘉義縣,阿里山鄉,來吉村",
+                "AreasElection": {
+                    "id": "53d73424-9fc4-4d53-9997-1299acb5b862",
+                    "Election_id": "53d73424-e4d0-46c6-b481-1299acb5b862",
+                    "Area_id": "53c01d4e-0720-4f3b-b510-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d4e-50ec-482d-ae7d-5460acb5b862",
+                "name": "達邦村",
+                "is_area": true,
+                "keywords": "2014,嘉義縣,阿里山鄉,達邦村",
+                "AreasElection": {
+                    "id": "53d73424-fd44-46e7-be85-1299acb5b862",
+                    "Election_id": "53d73424-e4d0-46c6-b481-1299acb5b862",
+                    "Area_id": "53c01d4e-50ec-482d-ae7d-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d4f-e91c-459d-9851-5460acb5b862",
+                "name": "樂野村",
+                "is_area": true,
+                "keywords": "2014,嘉義縣,阿里山鄉,樂野村",
+                "AreasElection": {
+                    "id": "53d73424-ccf4-4850-896e-1299acb5b862",
+                    "Election_id": "53d73424-e4d0-46c6-b481-1299acb5b862",
+                    "Area_id": "53c01d4f-e91c-459d-9851-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020c9-7bdc-47e9-9a01-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "嘉義縣",
+                "lft": "2063",
+                "rght": "2196",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ce-1f60-4a46-87d2-5c5aacb5b862",
+                "parent_id": "53c020c9-7bdc-47e9-9a01-5c5aacb5b862",
+                "name": "阿里山鄉",
+                "lft": "2188",
+                "rght": "2195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d73424-e4d0-46c6-b481-1299acb5b862",
+                "parent_id": "53c020ce-1f60-4a46-87d2-5c5aacb5b862",
+                "name": "第02選舉區[區域]",
+                "lft": "2191",
+                "rght": "2192",
+                "population": "2580",
+                "population_electors": "1969",
+                "quota": "3",
+                "quota_women": "0",
+                "bulletin_key": "546ef559-de08-439a-87f0-208ecf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,嘉義縣,阿里山鄉,第02選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02168-bfc0-4e19-b4c9-5c5aacb5b862",
+            "parent_id": "53c02162-f384-4c28-9dd3-5c5aacb5b862",
+            "name": "南瑤里",
+            "lft": "4493",
+            "rght": "4494",
+            "population": "9166",
+            "population_electors": "7145",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-b450-4e1c-8d90-74a5cf91e152",
+            "keywords": "2014-11,村里長,彰化縣,彰化市,南瑤里"
+        },
+        "Candidate": [
+            {
+                "id": "540b54f4-4b04-4673-8356-1926acb5b862",
+                "image": "545a0cb8\/bd1c\/4b75\/8981\/535a8e043389.jpg",
+                "stage": "1",
+                "name": "陳來成",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c02168-bfc0-4e19-b4c9-5c5aacb5b862"
+            },
+            {
+                "id": "540b54f4-61e8-4a52-91ae-1926acb5b862",
+                "image": "5459fcdd\/ada0\/43bb\/9eca\/4d458e043389.jpg",
+                "stage": "1",
+                "name": "林琨筌",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "LIN KUN CHUAN",
+                "election_id": "53c02168-bfc0-4e19-b4c9-5c5aacb5b862"
+            },
+            {
+                "id": "540b54f4-ef00-471b-b680-1926acb5b862",
+                "image": "5459fd03\/fc18\/482a\/83b5\/475c8e043389.jpg",
+                "stage": "2",
+                "name": "石佳正",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "SHIH CHIA CHENG",
+                "election_id": "53c02168-bfc0-4e19-b4c9-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c7d-6fb0-479c-8b4f-5460acb5b862",
+                "name": "南瑤里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,南瑤里",
+                "AreasElection": {
+                    "id": "53c02168-2230-4cc0-a057-5c5aacb5b862",
+                    "Election_id": "53c02168-bfc0-4e19-b4c9-5c5aacb5b862",
+                    "Area_id": "53c01c7d-6fb0-479c-8b4f-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "4417",
+                "rght": "5648",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-f384-4c28-9dd3-5c5aacb5b862",
+                "parent_id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "name": "彰化市",
+                "lft": "4418",
+                "rght": "4565",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02168-bfc0-4e19-b4c9-5c5aacb5b862",
+                "parent_id": "53c02162-f384-4c28-9dd3-5c5aacb5b862",
+                "name": "南瑤里",
+                "lft": "4493",
+                "rght": "4494",
+                "population": "9166",
+                "population_electors": "7145",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-b450-4e1c-8d90-74a5cf91e152",
+                "keywords": "2014-11,村里長,彰化縣,彰化市,南瑤里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

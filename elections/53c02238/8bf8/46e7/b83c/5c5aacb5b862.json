@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02238-8bf8-46e7-b83c-5c5aacb5b862",
+            "parent_id": "53c02235-3ee0-4fe5-ad8d-5c5aacb5b862",
+            "name": "三和里",
+            "lft": "7197",
+            "rght": "7198",
+            "population": "2404",
+            "population_electors": "1986",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546ef559-e96c-4399-9adc-208ecf91e152",
+            "keywords": "2014-11,村里長,嘉義縣,大林鎮,三和里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02822-cfd8-41f0-9e83-5dffacb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "簡春山",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02238-8bf8-46e7-b83c-5c5aacb5b862"
+            },
+            {
+                "id": "540b558f-c6d4-4638-ac12-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "簡世育",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "CHIEN SHIH YU",
+                "election_id": "53c02238-8bf8-46e7-b83c-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d26-96b4-49ed-a162-5460acb5b862",
+                "name": "三和里",
+                "is_area": true,
+                "keywords": "2014,嘉義縣,大林鎮,三和里",
+                "AreasElection": {
+                    "id": "53c02238-ae14-4d23-b026-5c5aacb5b862",
+                    "Election_id": "53c02238-8bf8-46e7-b83c-5c5aacb5b862",
+                    "Area_id": "53c01d26-96b4-49ed-a162-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0222a-d5c0-465f-849c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "嘉義縣",
+                "lft": "7019",
+                "rght": "7770",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02235-3ee0-4fe5-ad8d-5c5aacb5b862",
+                "parent_id": "53c0222a-d5c0-465f-849c-5c5aacb5b862",
+                "name": "大林鎮",
+                "lft": "7162",
+                "rght": "7205",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02238-8bf8-46e7-b83c-5c5aacb5b862",
+                "parent_id": "53c02235-3ee0-4fe5-ad8d-5c5aacb5b862",
+                "name": "三和里",
+                "lft": "7197",
+                "rght": "7198",
+                "population": "2404",
+                "population_electors": "1986",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546ef559-e96c-4399-9adc-208ecf91e152",
+                "keywords": "2014-11,村里長,嘉義縣,大林鎮,三和里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

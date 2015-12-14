@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c022cc-116c-4908-aee3-5c5aacb5b862",
+            "parent_id": "53c022cb-bd6c-4a32-8c61-5c5aacb5b862",
+            "name": "民立里",
+            "lft": "9107",
+            "rght": "9108",
+            "population": "1812",
+            "population_electors": "1412",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546d8db9-7618-4a36-bf26-0e51cf91e152",
+            "keywords": "2014-11,村里長,花蓮縣,花蓮市,民立里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0286a-78ec-46ff-9663-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "蕭文龍",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c022cc-116c-4908-aee3-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01daa-f290-4821-a19e-5460acb5b862",
+                "name": "民立里",
+                "is_area": true,
+                "keywords": "2014,花蓮縣,花蓮市,民立里",
+                "AreasElection": {
+                    "id": "53c022cc-43b0-417a-90a3-5c5aacb5b862",
+                    "Election_id": "53c022cc-116c-4908-aee3-5c5aacb5b862",
+                    "Area_id": "53c01daa-f290-4821-a19e-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022cb-ff18-4c61-98a3-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "花蓮縣",
+                "lft": "9095",
+                "rght": "9476",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022cb-bd6c-4a32-8c61-5c5aacb5b862",
+                "parent_id": "53c022cb-ff18-4c61-98a3-5c5aacb5b862",
+                "name": "花蓮市",
+                "lft": "9096",
+                "rght": "9187",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022cc-116c-4908-aee3-5c5aacb5b862",
+                "parent_id": "53c022cb-bd6c-4a32-8c61-5c5aacb5b862",
+                "name": "民立里",
+                "lft": "9107",
+                "rght": "9108",
+                "population": "1812",
+                "population_electors": "1412",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546d8db9-7618-4a36-bf26-0e51cf91e152",
+                "keywords": "2014-11,村里長,花蓮縣,花蓮市,民立里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

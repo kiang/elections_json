@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02160-fc10-4e74-9864-5c5aacb5b862",
+            "parent_id": "53c0215e-f830-44f2-b196-5c5aacb5b862",
+            "name": "永和村",
+            "lft": "4379",
+            "rght": "4380",
+            "population": "446",
+            "population_electors": "408",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-6738-4da8-a6e2-4187cf91e152",
+            "keywords": "2014-11,村里長,苗栗縣,三灣鄉,永和村"
+        },
+        "Candidate": [
+            {
+                "id": "53c027b2-63b8-44c3-a343-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "黃雪雲",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "1",
+                "name_english": "HUANG HSUEH YUN",
+                "election_id": "53c02160-fc10-4e74-9864-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c76-f84c-4b3b-8d6a-5460acb5b862",
+                "name": "永和村",
+                "is_area": true,
+                "keywords": "2014,苗栗縣,三灣鄉,永和村",
+                "AreasElection": {
+                    "id": "53c02160-3b14-436e-8b01-5c5aacb5b862",
+                    "Election_id": "53c02160-fc10-4e74-9864-5c5aacb5b862",
+                    "Area_id": "53c01c76-f84c-4b3b-8d6a-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02135-5cc8-4f9d-a971-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "苗栗縣",
+                "lft": "3831",
+                "rght": "4416",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0215e-f830-44f2-b196-5c5aacb5b862",
+                "parent_id": "53c02135-5cc8-4f9d-a971-5c5aacb5b862",
+                "name": "三灣鄉",
+                "lft": "4364",
+                "rght": "4381",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02160-fc10-4e74-9864-5c5aacb5b862",
+                "parent_id": "53c0215e-f830-44f2-b196-5c5aacb5b862",
+                "name": "永和村",
+                "lft": "4379",
+                "rght": "4380",
+                "population": "446",
+                "population_electors": "408",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-6738-4da8-a6e2-4187cf91e152",
+                "keywords": "2014-11,村里長,苗栗縣,三灣鄉,永和村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

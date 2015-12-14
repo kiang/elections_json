@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02145-b73c-459e-8aa4-5c5aacb5b862",
+            "parent_id": "53c02142-de68-4d1b-a888-5c5aacb5b862",
+            "name": "開元里",
+            "lft": "4021",
+            "rght": "4022",
+            "population": "930",
+            "population_electors": "725",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-bf04-49e7-a6f1-4187cf91e152",
+            "keywords": "2014-11,村里長,苗栗縣,竹南鎮,開元里"
+        },
+        "Candidate": [
+            {
+                "id": "53c027a5-4ddc-4e84-ad8d-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "李木興",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02145-b73c-459e-8aa4-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c5e-5afc-4d92-9937-5460acb5b862",
+                "name": "開元里",
+                "is_area": true,
+                "keywords": "2014,苗栗縣,竹南鎮,開元里",
+                "AreasElection": {
+                    "id": "53c02145-d804-43d1-b041-5c5aacb5b862",
+                    "Election_id": "53c02145-b73c-459e-8aa4-5c5aacb5b862",
+                    "Area_id": "53c01c5e-5afc-4d92-9937-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02135-5cc8-4f9d-a971-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "苗栗縣",
+                "lft": "3831",
+                "rght": "4416",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02142-de68-4d1b-a888-5c5aacb5b862",
+                "parent_id": "53c02135-5cc8-4f9d-a971-5c5aacb5b862",
+                "name": "竹南鎮",
+                "lft": "3992",
+                "rght": "4043",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02145-b73c-459e-8aa4-5c5aacb5b862",
+                "parent_id": "53c02142-de68-4d1b-a888-5c5aacb5b862",
+                "name": "開元里",
+                "lft": "4021",
+                "rght": "4022",
+                "population": "930",
+                "population_electors": "725",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-bf04-49e7-a6f1-4187cf91e152",
+                "keywords": "2014-11,村里長,苗栗縣,竹南鎮,開元里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,167 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c023a9-d178-4c16-bcf7-5c5aacb5b862",
+            "parent_id": "53c023a5-38c4-465f-aa6c-5c5aacb5b862",
+            "name": "文祥里",
+            "lft": "11859",
+            "rght": "11860",
+            "population": "8513",
+            "population_electors": "6172",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-ab98-412c-bd17-4187cf91e152",
+            "keywords": "2014-11,村里長,臺北市,中正區,文祥里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0263e-4bb4-4cf7-9454-5dffacb5b862",
+                "image": null,
+                "stage": "0",
+                "name": "林春福",
+                "party": null,
+                "gender": null,
+                "no": "0",
+                "name_english": "",
+                "election_id": "53c023a9-d178-4c16-bcf7-5c5aacb5b862"
+            },
+            {
+                "id": "540b52f6-6ffc-41aa-b52f-1926acb5b862",
+                "image": "545a5bd3\/a8d8\/41dc\/8a94\/7a638e043389.jpg",
+                "stage": "1",
+                "name": "張安東",
+                "party": "綠黨",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53c023a9-d178-4c16-bcf7-5c5aacb5b862"
+            },
+            {
+                "id": "540b52f6-7a00-4923-a054-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "李淑珍",
+                "party": "無",
+                "gender": "f",
+                "no": "2",
+                "name_english": "Lee Shu Chen",
+                "election_id": "53c023a9-d178-4c16-bcf7-5c5aacb5b862"
+            },
+            {
+                "id": "540b52f6-8f78-4600-b41a-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "呂玉惠",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "4",
+                "name_english": "LU YU HUEI",
+                "election_id": "53c023a9-d178-4c16-bcf7-5c5aacb5b862"
+            },
+            {
+                "id": "540b52f6-b554-4ff1-8655-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "嚴可英",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c023a9-d178-4c16-bcf7-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01e22-5378-4d14-89f2-5460acb5b862",
+                "name": "文祥里",
+                "is_area": true,
+                "keywords": "2014,臺北市,中正區,文祥里",
+                "AreasElection": {
+                    "id": "53c023aa-5540-4b72-b39d-5c5aacb5b862",
+                    "Election_id": "53c023a9-d178-4c16-bcf7-5c5aacb5b862",
+                    "Area_id": "53c01e22-5378-4d14-89f2-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023a5-38c4-465f-aa6c-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "中正區",
+                "lft": "11804",
+                "rght": "11867",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023a9-d178-4c16-bcf7-5c5aacb5b862",
+                "parent_id": "53c023a5-38c4-465f-aa6c-5c5aacb5b862",
+                "name": "文祥里",
+                "lft": "11859",
+                "rght": "11860",
+                "population": "8513",
+                "population_electors": "6172",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-ab98-412c-bd17-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,中正區,文祥里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

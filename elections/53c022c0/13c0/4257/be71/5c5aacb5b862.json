@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c022c0-13c0-4257-be71-5c5aacb5b862",
+            "parent_id": "53c022c0-3a04-491e-8147-5c5aacb5b862",
+            "name": "萬安村",
+            "lft": "8947",
+            "rght": "8948",
+            "population": "389",
+            "population_electors": "323",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546f277f-15ec-4bed-9747-2f28cf91e152",
+            "keywords": "2014-11,村里長,臺東縣,池上鄉,萬安村"
+        },
+        "Candidate": [
+            {
+                "id": "53c02864-7c8c-42ab-95c8-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "魏榮增",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c022c0-13c0-4257-be71-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01da1-05c0-4e0a-b124-5460acb5b862",
+                "name": "萬安村",
+                "is_area": true,
+                "keywords": "2014,臺東縣,池上鄉,萬安村",
+                "AreasElection": {
+                    "id": "53c022c0-7d5c-40e1-b5fc-5c5aacb5b862",
+                    "Election_id": "53c022c0-13c0-4257-be71-5c5aacb5b862",
+                    "Area_id": "53c01da1-05c0-4e0a-b124-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022b2-b9f0-4517-825f-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺東縣",
+                "lft": "8767",
+                "rght": "9094",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022c0-3a04-491e-8147-5c5aacb5b862",
+                "parent_id": "53c022b2-b9f0-4517-825f-5c5aacb5b862",
+                "name": "池上鄉",
+                "lft": "8940",
+                "rght": "8961",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022c0-13c0-4257-be71-5c5aacb5b862",
+                "parent_id": "53c022c0-3a04-491e-8147-5c5aacb5b862",
+                "name": "萬安村",
+                "lft": "8947",
+                "rght": "8948",
+                "population": "389",
+                "population_electors": "323",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546f277f-15ec-4bed-9747-2f28cf91e152",
+                "keywords": "2014-11,村里長,臺東縣,池上鄉,萬安村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

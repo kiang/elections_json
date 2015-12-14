@@ -1,0 +1,167 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c423a0-4fec-4691-9208-72c8acb5b862",
+            "parent_id": "53c42062-35b0-4043-ac64-7258acb5b862",
+            "name": "第02選舉區",
+            "lft": "239",
+            "rght": "240",
+            "population": "1293",
+            "population_electors": "1019",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "54704b05-9458-4df2-ab70-1495cf91e152",
+            "keywords": "2014-11,直轄市山地原住民區民代表,高雄市,桃源區,第02選舉區"
+        },
+        "Candidate": [
+            {
+                "id": "540b5677-2700-443f-b567-1926acb5b862",
+                "image": "548ef071\/e5dc\/4c7f\/8529\/67306ab936af.jpg",
+                "stage": "1",
+                "name": "陳孫麗花",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53c423a0-4fec-4691-9208-72c8acb5b862"
+            },
+            {
+                "id": "540b5677-2adc-49b5-b4fe-1926acb5b862",
+                "image": "548ef031\/6640\/45f9\/a69b\/67306ab936af.jpg",
+                "stage": "1",
+                "name": "林思光",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c423a0-4fec-4691-9208-72c8acb5b862"
+            },
+            {
+                "id": "540b5677-7320-4af4-ad11-1926acb5b862",
+                "image": "548ef00f\/7a98\/487a\/95c9\/66e66ab936af.jpg",
+                "stage": "2",
+                "name": "杜章",
+                "party": "無",
+                "gender": "m",
+                "no": "4",
+                "name_english": "",
+                "election_id": "53c423a0-4fec-4691-9208-72c8acb5b862"
+            },
+            {
+                "id": "540b5677-7e58-4b3a-9c9e-1926acb5b862",
+                "image": "548eefe5\/3d08\/4397\/bb65\/671c6ab936af.jpg",
+                "stage": "2",
+                "name": "陳英敏",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c423a0-4fec-4691-9208-72c8acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01ec6-cd9c-4603-8200-5460acb5b862",
+                "name": "建山里",
+                "is_area": true,
+                "keywords": "2014,高雄市,桃源區,建山里",
+                "AreasElection": {
+                    "id": "53c423a0-15e0-4389-8d4b-72c8acb5b862",
+                    "Election_id": "53c423a0-4fec-4691-9208-72c8acb5b862",
+                    "Area_id": "53c01ec6-cd9c-4603-8200-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01ec6-ee30-4bdb-8dc7-5460acb5b862",
+                "name": "寶山里",
+                "is_area": true,
+                "keywords": "2014,高雄市,桃源區,寶山里",
+                "AreasElection": {
+                    "id": "53c423a1-8cf0-47d9-8812-72c8acb5b862",
+                    "Election_id": "53c423a0-4fec-4691-9208-72c8acb5b862",
+                    "Area_id": "53c01ec6-ee30-4bdb-8dc7-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-96ac-4ca2-b338-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市山地原住民區民代表",
+                "lft": "218",
+                "rght": "271",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c42061-12a4-4a1b-b564-7258acb5b862",
+                "parent_id": "53c0202f-96ac-4ca2-b338-5460acb5b862",
+                "name": "高雄市",
+                "lft": "229",
+                "rght": "248",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c42062-35b0-4043-ac64-7258acb5b862",
+                "parent_id": "53c42061-12a4-4a1b-b564-7258acb5b862",
+                "name": "桃源區",
+                "lft": "236",
+                "rght": "241",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c423a0-4fec-4691-9208-72c8acb5b862",
+                "parent_id": "53c42062-35b0-4043-ac64-7258acb5b862",
+                "name": "第02選舉區",
+                "lft": "239",
+                "rght": "240",
+                "population": "1293",
+                "population_electors": "1019",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "54704b05-9458-4df2-ab70-1495cf91e152",
+                "keywords": "2014-11,直轄市山地原住民區民代表,高雄市,桃源區,第02選舉區"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

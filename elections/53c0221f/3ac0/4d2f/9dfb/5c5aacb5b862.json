@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0221f-3ac0-4d2f-9dfb-5c5aacb5b862",
+            "parent_id": "53c0221f-dab0-4d8f-b6a9-5c5aacb5b862",
+            "name": "湖西村",
+            "lft": "6883",
+            "rght": "6884",
+            "population": "2788",
+            "population_electors": "2262",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546ebce3-e044-4dd9-9581-2b96cf91e152",
+            "keywords": "2014-11,村里長,雲林縣,四湖鄉,湖西村"
+        },
+        "Candidate": [
+            {
+                "id": "53c02817-af70-4e5a-8525-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "陳文益",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c0221f-3ac0-4d2f-9dfb-5c5aacb5b862"
+            },
+            {
+                "id": "540b557d-3c34-4fcc-a166-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "吳明和",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c0221f-3ac0-4d2f-9dfb-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d13-2604-4bfd-b30d-5460acb5b862",
+                "name": "湖西村",
+                "is_area": true,
+                "keywords": "2014,雲林縣,四湖鄉,湖西村",
+                "AreasElection": {
+                    "id": "53c0221f-1c04-41eb-80d4-5c5aacb5b862",
+                    "Election_id": "53c0221f-3ac0-4d2f-9dfb-5c5aacb5b862",
+                    "Area_id": "53c01d13-2604-4bfd-b30d-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "6201",
+                "rght": "7018",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0221f-dab0-4d8f-b6a9-5c5aacb5b862",
+                "parent_id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "name": "四湖鄉",
+                "lft": "6880",
+                "rght": "6923",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0221f-3ac0-4d2f-9dfb-5c5aacb5b862",
+                "parent_id": "53c0221f-dab0-4d8f-b6a9-5c5aacb5b862",
+                "name": "湖西村",
+                "lft": "6883",
+                "rght": "6884",
+                "population": "2788",
+                "population_electors": "2262",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546ebce3-e044-4dd9-9581-2b96cf91e152",
+                "keywords": "2014-11,村里長,雲林縣,四湖鄉,湖西村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

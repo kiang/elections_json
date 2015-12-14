@@ -1,0 +1,178 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c023a1-ba54-4f74-80e6-5c5aacb5b862",
+            "parent_id": "53c0239e-cac0-446a-8756-5c5aacb5b862",
+            "name": "行政里",
+            "lft": "11759",
+            "rght": "11760",
+            "population": "7731",
+            "population_electors": "6802",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-a074-45fa-85af-4187cf91e152",
+            "keywords": "2014-11,村里長,臺北市,中山區,行政里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0263a-d788-4c12-a2e3-5dffacb5b862",
+                "image": "",
+                "stage": "0",
+                "name": "賴益才",
+                "party": "",
+                "gender": "m",
+                "no": "0",
+                "name_english": "",
+                "election_id": "53c023a1-ba54-4f74-80e6-5c5aacb5b862"
+            },
+            {
+                "id": "540b52f0-3bac-4102-9da0-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "沈冠璋",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c023a1-ba54-4f74-80e6-5c5aacb5b862"
+            },
+            {
+                "id": "540b52f0-4424-4490-806a-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "歐家銘",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "OU CHIA MING",
+                "election_id": "53c023a1-ba54-4f74-80e6-5c5aacb5b862"
+            },
+            {
+                "id": "540b52f0-49ac-4d19-9f85-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "洪麗鴻",
+                "party": "民主進步黨",
+                "gender": "f",
+                "no": "5",
+                "name_english": "HUNG LI HUNG",
+                "election_id": "53c023a1-ba54-4f74-80e6-5c5aacb5b862"
+            },
+            {
+                "id": "540b52f0-6584-4cc6-a0d9-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "何建閶",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "HEN CHEN CHANG",
+                "election_id": "53c023a1-ba54-4f74-80e6-5c5aacb5b862"
+            },
+            {
+                "id": "540b52f0-d090-4d7c-826d-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "鄭春華",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "4",
+                "name_english": "CHENG CHUN HUA",
+                "election_id": "53c023a1-ba54-4f74-80e6-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01e1b-3254-4a25-955a-5460acb5b862",
+                "name": "行政里",
+                "is_area": true,
+                "keywords": "2014,臺北市,中山區,行政里",
+                "AreasElection": {
+                    "id": "53c023a2-379c-438a-99ec-5c5aacb5b862",
+                    "Election_id": "53c023a1-ba54-4f74-80e6-5c5aacb5b862",
+                    "Area_id": "53c01e1b-3254-4a25-955a-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0239e-cac0-446a-8756-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "中山區",
+                "lft": "11718",
+                "rght": "11803",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023a1-ba54-4f74-80e6-5c5aacb5b862",
+                "parent_id": "53c0239e-cac0-446a-8756-5c5aacb5b862",
+                "name": "行政里",
+                "lft": "11759",
+                "rght": "11760",
+                "population": "7731",
+                "population_electors": "6802",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-a074-45fa-85af-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,中山區,行政里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

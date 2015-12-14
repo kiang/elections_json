@@ -1,0 +1,178 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d733be-74cc-463f-849f-1299acb5b862",
+            "parent_id": "53c020c6-c73c-4591-a9e4-5c5aacb5b862",
+            "name": "第03選舉區[區域]",
+            "lft": "1939",
+            "rght": "1940",
+            "population": "5736",
+            "population_electors": "4749",
+            "quota": "3",
+            "quota_women": "0",
+            "bulletin_key": "546eb720-3110-4d05-ba35-2adbcf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,雲林縣,大埤鄉,第03選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b5754-05ac-43d7-8fd1-1926acb5b862",
+                "image": "54be6350\/1070\/404d\/b371\/16d56ab936af.jpg",
+                "stage": "2",
+                "name": "許基德",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "HSU CHI TE",
+                "election_id": "53d733be-74cc-463f-849f-1299acb5b862"
+            },
+            {
+                "id": "540b5754-4b20-4669-b617-1926acb5b862",
+                "image": "54be63ca\/be08\/4357\/9d0e\/16f86ab936af.jpg",
+                "stage": "2",
+                "name": "林森寳",
+                "party": "無",
+                "gender": "m",
+                "no": "4",
+                "name_english": "LIN SEN PAO",
+                "election_id": "53d733be-74cc-463f-849f-1299acb5b862"
+            },
+            {
+                "id": "540b5755-0e60-472e-8033-1926acb5b862",
+                "image": "54be63a2\/59f8\/4656\/891a\/16d56ab936af.jpg",
+                "stage": "2",
+                "name": "黃江河",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "HUANG CHIANG HO",
+                "election_id": "53d733be-74cc-463f-849f-1299acb5b862"
+            },
+            {
+                "id": "540b5755-fbd8-4139-ad3a-1926acb5b862",
+                "image": "54be636b\/e568\/4c2a\/9fc9\/16d56ab936af.jpg",
+                "stage": "1",
+                "name": "劉守禮",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "LIU SHOU LI",
+                "election_id": "53d733be-74cc-463f-849f-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01cff-1814-480c-80ff-5460acb5b862",
+                "name": "尚義村",
+                "is_area": true,
+                "keywords": "2014,雲林縣,大埤鄉,尚義村",
+                "AreasElection": {
+                    "id": "53d733bf-0a64-4971-a59b-1299acb5b862",
+                    "Election_id": "53d733be-74cc-463f-849f-1299acb5b862",
+                    "Area_id": "53c01cff-1814-480c-80ff-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cff-b3c8-4af9-90f6-5460acb5b862",
+                "name": "嘉興村",
+                "is_area": true,
+                "keywords": "2014,雲林縣,大埤鄉,嘉興村",
+                "AreasElection": {
+                    "id": "53d733bf-4bdc-49fa-ac25-1299acb5b862",
+                    "Election_id": "53d733be-74cc-463f-849f-1299acb5b862",
+                    "Area_id": "53c01cff-b3c8-4af9-90f6-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d00-d4f4-4f18-8cba-5460acb5b862",
+                "name": "三結村",
+                "is_area": true,
+                "keywords": "2014,雲林縣,大埤鄉,三結村",
+                "AreasElection": {
+                    "id": "53d733bf-ac14-42e2-845b-1299acb5b862",
+                    "Election_id": "53d733be-74cc-463f-849f-1299acb5b862",
+                    "Area_id": "53c01d00-d4f4-4f18-8cba-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020c5-1718-4aea-8b3b-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "1865",
+                "rght": "2062",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020c6-c73c-4591-a9e4-5c5aacb5b862",
+                "parent_id": "53c020c5-1718-4aea-8b3b-5c5aacb5b862",
+                "name": "大埤鄉",
+                "lft": "1934",
+                "rght": "1943",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d733be-74cc-463f-849f-1299acb5b862",
+                "parent_id": "53c020c6-c73c-4591-a9e4-5c5aacb5b862",
+                "name": "第03選舉區[區域]",
+                "lft": "1939",
+                "rght": "1940",
+                "population": "5736",
+                "population_electors": "4749",
+                "quota": "3",
+                "quota_women": "0",
+                "bulletin_key": "546eb720-3110-4d05-ba35-2adbcf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,雲林縣,大埤鄉,第03選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

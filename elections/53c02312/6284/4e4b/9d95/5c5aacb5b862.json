@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02312-6284-4e4b-9d95-5c5aacb5b862",
+            "parent_id": "53c02311-b468-4eac-a0ef-5c5aacb5b862",
+            "name": "義民里",
+            "lft": "9979",
+            "rght": "9980",
+            "population": "865",
+            "population_electors": "734",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546cd3af-8e7c-4910-b3f3-78ebcf91e152",
+            "keywords": "2014-11,村里長,基隆市,信義區,義民里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0288c-0824-4050-ae64-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "連轉旺",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "Lien Chuan Wan",
+                "election_id": "53c02312-6284-4e4b-9d95-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01de3-08fc-42f3-8cfb-5460acb5b862",
+                "name": "義民里",
+                "is_area": true,
+                "keywords": "2014,基隆市,信義區,義民里",
+                "AreasElection": {
+                    "id": "53c02312-d3cc-43a7-87a8-5c5aacb5b862",
+                    "Election_id": "53c02312-6284-4e4b-9d95-5c5aacb5b862",
+                    "Area_id": "53c01de3-08fc-42f3-8cfb-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "基隆市",
+                "lft": "9683",
+                "rght": "10012",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02311-b468-4eac-a0ef-5c5aacb5b862",
+                "parent_id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "name": "信義區",
+                "lft": "9970",
+                "rght": "10011",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02312-6284-4e4b-9d95-5c5aacb5b862",
+                "parent_id": "53c02311-b468-4eac-a0ef-5c5aacb5b862",
+                "name": "義民里",
+                "lft": "9979",
+                "rght": "9980",
+                "population": "865",
+                "population_electors": "734",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546cd3af-8e7c-4910-b3f3-78ebcf91e152",
+                "keywords": "2014-11,村里長,基隆市,信義區,義民里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

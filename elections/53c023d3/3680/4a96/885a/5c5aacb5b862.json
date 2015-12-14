@@ -1,0 +1,145 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c023d3-3680-4a96-885a-5c5aacb5b862",
+            "parent_id": "53c023cf-48cc-46fc-8762-5c5aacb5b862",
+            "name": "奇岩里",
+            "lft": "12355",
+            "rght": "12356",
+            "population": "9882",
+            "population_electors": "8121",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-b32c-4150-9738-4187cf91e152",
+            "keywords": "2014-11,村里長,臺北市,北投區,奇岩里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0264f-07f8-4de7-b1d3-5dffacb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "譚勝國",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "3",
+                "name_english": "TANG SHENG KUO",
+                "election_id": "53c023d3-3680-4a96-885a-5c5aacb5b862"
+            },
+            {
+                "id": "540b5310-3304-4392-a809-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "賴進利",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "LAI CHIN LI",
+                "election_id": "53c023d3-3680-4a96-885a-5c5aacb5b862"
+            },
+            {
+                "id": "540b5310-be18-48c6-95a3-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "侯務葵",
+                "party": "人民民主陣線",
+                "gender": "f",
+                "no": "1",
+                "name_english": "HO WU KUEI",
+                "election_id": "53c023d3-3680-4a96-885a-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01e44-a728-4ef0-8d3a-5460acb5b862",
+                "name": "奇岩里",
+                "is_area": true,
+                "keywords": "2014,臺北市,北投區,奇岩里",
+                "AreasElection": {
+                    "id": "53c023d3-c088-44f2-875a-5c5aacb5b862",
+                    "Election_id": "53c023d3-3680-4a96-885a-5c5aacb5b862",
+                    "Area_id": "53c01e44-a728-4ef0-8d3a-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023cf-48cc-46fc-8762-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "北投區",
+                "lft": "12308",
+                "rght": "12393",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d3-3680-4a96-885a-5c5aacb5b862",
+                "parent_id": "53c023cf-48cc-46fc-8762-5c5aacb5b862",
+                "name": "奇岩里",
+                "lft": "12355",
+                "rght": "12356",
+                "population": "9882",
+                "population_electors": "8121",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-b32c-4150-9738-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,北投區,奇岩里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

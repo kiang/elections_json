@@ -1,0 +1,167 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02173-dd94-4c48-a321-5c5aacb5b862",
+            "parent_id": "53c02172-2a38-4d0d-91b6-5c5aacb5b862",
+            "name": "和西里",
+            "lft": "4641",
+            "rght": "4642",
+            "population": "4136",
+            "population_electors": "3115",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-23d8-402c-96e8-74a5cf91e152",
+            "keywords": "2014-11,村里長,彰化縣,和美鎮,和西里"
+        },
+        "Candidate": [
+            {
+                "id": "53c027bc-2af4-4af8-9f82-5dffacb5b862",
+                "image": "55d45722\/81a4\/44d4\/9380\/77346ab936af.jpg",
+                "stage": "1",
+                "name": "黃惠珠",
+                "party": "無",
+                "gender": "f",
+                "no": "5",
+                "name_english": "HUANG HUI CHU",
+                "election_id": "53c02173-dd94-4c48-a321-5c5aacb5b862"
+            },
+            {
+                "id": "540b54fc-2170-494f-97aa-1926acb5b862",
+                "image": "546c9d00\/c414\/43c2\/b80e\/6f6e8e043389.jpg",
+                "stage": "2",
+                "name": "黃明卿",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "HUANG MING CHING",
+                "election_id": "53c02173-dd94-4c48-a321-5c5aacb5b862"
+            },
+            {
+                "id": "540b54fc-3b78-482d-a19c-1926acb5b862",
+                "image": "545c7ed0\/8afc\/426f\/9240\/50ce8e043389.jpg",
+                "stage": "1",
+                "name": "林澤民",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "LIN CHE MIN",
+                "election_id": "53c02173-dd94-4c48-a321-5c5aacb5b862"
+            },
+            {
+                "id": "540b54fc-c60c-43e8-82d8-1926acb5b862",
+                "image": "546c9ce0\/ef34\/4d3d\/a835\/71358e043389.jpg",
+                "stage": "1",
+                "name": "黃耀輝",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "HUANG YAO HUI",
+                "election_id": "53c02173-dd94-4c48-a321-5c5aacb5b862"
+            },
+            {
+                "id": "540b54fc-e824-40a6-aead-1926acb5b862",
+                "image": "545c7ef6\/62f0\/4653\/890a\/50ce8e043389.jpg",
+                "stage": "1",
+                "name": "卓伯勳",
+                "party": "無",
+                "gender": "m",
+                "no": "4",
+                "name_english": "CHO PO HSUN",
+                "election_id": "53c02173-dd94-4c48-a321-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c87-e9a4-401e-89df-5460acb5b862",
+                "name": "和西里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,和美鎮,和西里",
+                "AreasElection": {
+                    "id": "53c02173-fae0-4a65-ac17-5c5aacb5b862",
+                    "Election_id": "53c02173-dd94-4c48-a321-5c5aacb5b862",
+                    "Area_id": "53c01c87-e9a4-401e-89df-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "4417",
+                "rght": "5648",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02172-2a38-4d0d-91b6-5c5aacb5b862",
+                "parent_id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "name": "和美鎮",
+                "lft": "4626",
+                "rght": "4691",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02173-dd94-4c48-a321-5c5aacb5b862",
+                "parent_id": "53c02172-2a38-4d0d-91b6-5c5aacb5b862",
+                "name": "和西里",
+                "lft": "4641",
+                "rght": "4642",
+                "population": "4136",
+                "population_electors": "3115",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-23d8-402c-96e8-74a5cf91e152",
+                "keywords": "2014-11,村里長,彰化縣,和美鎮,和西里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

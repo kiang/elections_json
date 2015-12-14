@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0230a-3b98-443d-b398-5c5aacb5b862",
+            "parent_id": "53c0230a-853c-462a-94fe-5c5aacb5b862",
+            "name": "民治里",
+            "lft": "9873",
+            "rght": "9874",
+            "population": "969",
+            "population_electors": "864",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546cd3af-9998-4935-8dbb-78ebcf91e152",
+            "keywords": "2014-11,村里長,基隆市,中山區,民治里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02887-d490-4090-9da5-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "施財濃",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c0230a-3b98-443d-b398-5c5aacb5b862"
+            },
+            {
+                "id": "540b5652-0e48-4f14-82f2-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "陳嘉和",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "CHEN CHI AHO",
+                "election_id": "53c0230a-3b98-443d-b398-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01ddc-5bb0-4292-8fe0-5460acb5b862",
+                "name": "民治里",
+                "is_area": true,
+                "keywords": "2014,基隆市,中山區,民治里",
+                "AreasElection": {
+                    "id": "53c0230a-01c8-4a21-ade5-5c5aacb5b862",
+                    "Election_id": "53c0230a-3b98-443d-b398-5c5aacb5b862",
+                    "Area_id": "53c01ddc-5bb0-4292-8fe0-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "基隆市",
+                "lft": "9683",
+                "rght": "10012",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0230a-853c-462a-94fe-5c5aacb5b862",
+                "parent_id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "name": "中山區",
+                "lft": "9868",
+                "rght": "9917",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0230a-3b98-443d-b398-5c5aacb5b862",
+                "parent_id": "53c0230a-853c-462a-94fe-5c5aacb5b862",
+                "name": "民治里",
+                "lft": "9873",
+                "rght": "9874",
+                "population": "969",
+                "population_electors": "864",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546cd3af-9998-4935-8dbb-78ebcf91e152",
+                "keywords": "2014-11,村里長,基隆市,中山區,民治里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

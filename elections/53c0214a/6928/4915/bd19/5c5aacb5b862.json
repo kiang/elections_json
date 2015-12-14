@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0214a-6928-4915-bd19-5c5aacb5b862",
+            "parent_id": "53c02146-7fd4-4795-8239-5c5aacb5b862",
+            "name": "文化里",
+            "lft": "4097",
+            "rght": "4098",
+            "population": "4081",
+            "population_electors": "2921",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-e844-44bf-9ec4-4187cf91e152",
+            "keywords": "2014-11,村里長,苗栗縣,頭份鎮,文化里"
+        },
+        "Candidate": [
+            {
+                "id": "53c027a8-05bc-4b67-9eba-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "王兆芳",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "WANG CHAO FANG",
+                "election_id": "53c0214a-6928-4915-bd19-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c63-6050-4d3a-918d-5460acb5b862",
+                "name": "文化里",
+                "is_area": true,
+                "keywords": "2014,苗栗縣,頭份鎮,文化里",
+                "AreasElection": {
+                    "id": "53c0214a-4858-466f-978a-5c5aacb5b862",
+                    "Election_id": "53c0214a-6928-4915-bd19-5c5aacb5b862",
+                    "Area_id": "53c01c63-6050-4d3a-918d-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02135-5cc8-4f9d-a971-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "苗栗縣",
+                "lft": "3831",
+                "rght": "4416",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02146-7fd4-4795-8239-5c5aacb5b862",
+                "parent_id": "53c02135-5cc8-4f9d-a971-5c5aacb5b862",
+                "name": "頭份鎮",
+                "lft": "4044",
+                "rght": "4109",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0214a-6928-4915-bd19-5c5aacb5b862",
+                "parent_id": "53c02146-7fd4-4795-8239-5c5aacb5b862",
+                "name": "文化里",
+                "lft": "4097",
+                "rght": "4098",
+                "population": "4081",
+                "population_electors": "2921",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-e844-44bf-9ec4-4187cf91e152",
+                "keywords": "2014-11,村里長,苗栗縣,頭份鎮,文化里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

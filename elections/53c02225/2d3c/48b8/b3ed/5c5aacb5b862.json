@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02225-2d3c-48b8-b3ed-5c5aacb5b862",
+            "parent_id": "53c02223-dbd4-4252-afb7-5c5aacb5b862",
+            "name": "崙中村",
+            "lft": "6945",
+            "rght": "6946",
+            "population": "1893",
+            "population_electors": "1593",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54744c85-ce24-4ee4-b203-45dccf91e152",
+            "keywords": "2014-11,村里長,雲林縣,口湖鄉,崙中村"
+        },
+        "Candidate": [
+            {
+                "id": "53c02819-72e8-4943-b260-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "呂跳",
+                "party": "無",
+                "gender": "f",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02225-2d3c-48b8-b3ed-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d16-37bc-403b-beb1-5460acb5b862",
+                "name": "崙中村",
+                "is_area": true,
+                "keywords": "2014,雲林縣,口湖鄉,崙中村",
+                "AreasElection": {
+                    "id": "53c02225-3480-4c6b-8caf-5c5aacb5b862",
+                    "Election_id": "53c02225-2d3c-48b8-b3ed-5c5aacb5b862",
+                    "Area_id": "53c01d16-37bc-403b-beb1-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "6201",
+                "rght": "7018",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02223-dbd4-4252-afb7-5c5aacb5b862",
+                "parent_id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "name": "口湖鄉",
+                "lft": "6924",
+                "rght": "6967",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02225-2d3c-48b8-b3ed-5c5aacb5b862",
+                "parent_id": "53c02223-dbd4-4252-afb7-5c5aacb5b862",
+                "name": "崙中村",
+                "lft": "6945",
+                "rght": "6946",
+                "population": "1893",
+                "population_electors": "1593",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54744c85-ce24-4ee4-b203-45dccf91e152",
+                "keywords": "2014-11,村里長,雲林縣,口湖鄉,崙中村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

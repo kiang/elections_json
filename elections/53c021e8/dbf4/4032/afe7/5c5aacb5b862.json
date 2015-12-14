@@ -1,0 +1,145 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c021e8-dbf4-4032-afe7-5c5aacb5b862",
+            "parent_id": "53c021e7-dea4-4923-950b-5c5aacb5b862",
+            "name": "新鄉村",
+            "lft": "6157",
+            "rght": "6158",
+            "population": "754",
+            "population_electors": "549",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "keywords": "2014-11,村里長,南投縣,信義鄉,新鄉村"
+        },
+        "Candidate": [
+            {
+                "id": "53c027fb-a4f8-4a56-87f5-5dffacb5b862",
+                "image": null,
+                "stage": "0",
+                "name": "田文發",
+                "party": null,
+                "gender": null,
+                "no": "0",
+                "name_english": "",
+                "election_id": "53c021e8-dbf4-4032-afe7-5c5aacb5b862"
+            },
+            {
+                "id": "540b554f-3c28-4447-ba67-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "金春和",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "CHIN CHUN HO",
+                "election_id": "53c021e8-dbf4-4032-afe7-5c5aacb5b862"
+            },
+            {
+                "id": "540b554f-46e4-4c2a-9fe5-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "田添福",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c021e8-dbf4-4032-afe7-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01ce5-11cc-4afb-9805-5460acb5b862",
+                "name": "新鄉村",
+                "is_area": true,
+                "keywords": "2014,南投縣,信義鄉,新鄉村",
+                "AreasElection": {
+                    "id": "53c021e8-cecc-49bf-a4d1-5c5aacb5b862",
+                    "Election_id": "53c021e8-dbf4-4032-afe7-5c5aacb5b862",
+                    "Area_id": "53c01ce5-11cc-4afb-9805-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "南投縣",
+                "lft": "5649",
+                "rght": "6200",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021e7-dea4-4923-950b-5c5aacb5b862",
+                "parent_id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "name": "信義鄉",
+                "lft": "6136",
+                "rght": "6165",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021e8-dbf4-4032-afe7-5c5aacb5b862",
+                "parent_id": "53c021e7-dea4-4923-950b-5c5aacb5b862",
+                "name": "新鄉村",
+                "lft": "6157",
+                "rght": "6158",
+                "population": "754",
+                "population_electors": "549",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2014-11,村里長,南投縣,信義鄉,新鄉村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

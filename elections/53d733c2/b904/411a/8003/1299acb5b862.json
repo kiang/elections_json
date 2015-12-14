@@ -1,0 +1,200 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d733c2-b904-411a-8003-1299acb5b862",
+            "parent_id": "53c020c6-ee64-4182-8d03-5c5aacb5b862",
+            "name": "第03選舉區[區域]",
+            "lft": "1949",
+            "rght": "1950",
+            "population": "9236",
+            "population_electors": "7498",
+            "quota": "3",
+            "quota_women": "0",
+            "bulletin_key": "546ebce3-4184-485a-9b68-2b96cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,雲林縣,莿桐鄉,第03選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b5757-2348-44f8-94c2-1926acb5b862",
+                "image": "54be655d\/a9b8\/4a03\/a302\/177b6ab936af.jpg",
+                "stage": "2",
+                "name": "林忠雄",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d733c2-b904-411a-8003-1299acb5b862"
+            },
+            {
+                "id": "540b5757-84d4-4708-af5d-1926acb5b862",
+                "image": "54be6606\/47f4\/4852\/843e\/179a6ab936af.jpg",
+                "stage": "2",
+                "name": "張金龍",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53d733c2-b904-411a-8003-1299acb5b862"
+            },
+            {
+                "id": "540b5757-a4bc-4e1c-9b00-1926acb5b862",
+                "image": "54be662e\/8408\/439f\/a1a7\/178e6ab936af.jpg",
+                "stage": "1",
+                "name": "黃淑蘭",
+                "party": "無",
+                "gender": "f",
+                "no": "4",
+                "name_english": "",
+                "election_id": "53d733c2-b904-411a-8003-1299acb5b862"
+            },
+            {
+                "id": "540b5757-fee0-4db5-8e87-1926acb5b862",
+                "image": "54be6597\/9d48\/41cc\/937c\/177c6ab936af.jpg",
+                "stage": "2",
+                "name": "邱雲義",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53d733c2-b904-411a-8003-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d02-083c-4b6b-9142-5460acb5b862",
+                "name": "麻園村",
+                "is_area": true,
+                "keywords": "2014,雲林縣,莿桐鄉,麻園村",
+                "AreasElection": {
+                    "id": "53d733c3-d318-4975-9fda-1299acb5b862",
+                    "Election_id": "53d733c2-b904-411a-8003-1299acb5b862",
+                    "Area_id": "53c01d02-083c-4b6b-9142-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d02-5fd4-4517-b57a-5460acb5b862",
+                "name": "五華村",
+                "is_area": true,
+                "keywords": "2014,雲林縣,莿桐鄉,五華村",
+                "AreasElection": {
+                    "id": "53d733c3-8664-4f8e-8a8b-1299acb5b862",
+                    "Election_id": "53d733c2-b904-411a-8003-1299acb5b862",
+                    "Area_id": "53c01d02-5fd4-4517-b57a-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d02-a54c-42e9-8dc2-5460acb5b862",
+                "name": "四合村",
+                "is_area": true,
+                "keywords": "2014,雲林縣,莿桐鄉,四合村",
+                "AreasElection": {
+                    "id": "53d733c3-b1e4-4b62-b691-1299acb5b862",
+                    "Election_id": "53d733c2-b904-411a-8003-1299acb5b862",
+                    "Area_id": "53c01d02-a54c-42e9-8dc2-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d02-bf40-414e-aea4-5460acb5b862",
+                "name": "饒平村",
+                "is_area": true,
+                "keywords": "2014,雲林縣,莿桐鄉,饒平村",
+                "AreasElection": {
+                    "id": "53d733c3-13b0-4778-8d42-1299acb5b862",
+                    "Election_id": "53d733c2-b904-411a-8003-1299acb5b862",
+                    "Area_id": "53c01d02-bf40-414e-aea4-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d02-ffdc-4cbd-90f6-5460acb5b862",
+                "name": "六合村",
+                "is_area": true,
+                "keywords": "2014,雲林縣,莿桐鄉,六合村",
+                "AreasElection": {
+                    "id": "53d733c3-fb94-4992-bb45-1299acb5b862",
+                    "Election_id": "53d733c2-b904-411a-8003-1299acb5b862",
+                    "Area_id": "53c01d02-ffdc-4cbd-90f6-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020c5-1718-4aea-8b3b-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "1865",
+                "rght": "2062",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020c6-ee64-4182-8d03-5c5aacb5b862",
+                "parent_id": "53c020c5-1718-4aea-8b3b-5c5aacb5b862",
+                "name": "莿桐鄉",
+                "lft": "1944",
+                "rght": "1951",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d733c2-b904-411a-8003-1299acb5b862",
+                "parent_id": "53c020c6-ee64-4182-8d03-5c5aacb5b862",
+                "name": "第03選舉區[區域]",
+                "lft": "1949",
+                "rght": "1950",
+                "population": "9236",
+                "population_electors": "7498",
+                "quota": "3",
+                "quota_women": "0",
+                "bulletin_key": "546ebce3-4184-485a-9b68-2b96cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,雲林縣,莿桐鄉,第03選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

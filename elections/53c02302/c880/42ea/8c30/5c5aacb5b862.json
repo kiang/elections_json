@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02302-c880-42ea-8c30-5c5aacb5b862",
+            "parent_id": "53c02300-3c78-4bb6-ab3f-5c5aacb5b862",
+            "name": "瑪西里",
+            "lft": "9765",
+            "rght": "9766",
+            "population": "375",
+            "population_electors": "331",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546cd3af-7fe4-40bb-9988-78ebcf91e152",
+            "keywords": "2014-11,村里長,基隆市,七堵區,瑪西里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02883-7c88-4c0b-9002-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "林飛龍",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02302-c880-42ea-8c30-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01dd4-a7e8-45bf-8f63-5460acb5b862",
+                "name": "瑪西里",
+                "is_area": true,
+                "keywords": "2014,基隆市,七堵區,瑪西里",
+                "AreasElection": {
+                    "id": "53c02302-4580-4ce2-b80f-5c5aacb5b862",
+                    "Election_id": "53c02302-c880-42ea-8c30-5c5aacb5b862",
+                    "Area_id": "53c01dd4-a7e8-45bf-8f63-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "基隆市",
+                "lft": "9683",
+                "rght": "10012",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02300-3c78-4bb6-ab3f-5c5aacb5b862",
+                "parent_id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "name": "七堵區",
+                "lft": "9738",
+                "rght": "9779",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02302-c880-42ea-8c30-5c5aacb5b862",
+                "parent_id": "53c02300-3c78-4bb6-ab3f-5c5aacb5b862",
+                "name": "瑪西里",
+                "lft": "9765",
+                "rght": "9766",
+                "population": "375",
+                "population_electors": "331",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546cd3af-7fe4-40bb-9988-78ebcf91e152",
+                "keywords": "2014-11,村里長,基隆市,七堵區,瑪西里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

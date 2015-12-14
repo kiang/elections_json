@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0220e-b1c4-49a5-8226-5c5aacb5b862",
+            "parent_id": "53c0220d-eb50-4079-b424-5c5aacb5b862",
+            "name": "湖本村",
+            "lft": "6649",
+            "rght": "6650",
+            "population": "796",
+            "population_electors": "672",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546ec076-d41c-4d87-9884-2d4fcf91e152",
+            "keywords": "2014-11,村里長,雲林縣,林內鄉,湖本村"
+        },
+        "Candidate": [
+            {
+                "id": "53c02810-34f8-45d8-94dd-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "林文祥",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c0220e-b1c4-49a5-8226-5c5aacb5b862"
+            },
+            {
+                "id": "540b556d-642c-4da7-a96b-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "張太郎",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c0220e-b1c4-49a5-8226-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d03-5fac-44e1-a903-5460acb5b862",
+                "name": "湖本村",
+                "is_area": true,
+                "keywords": "2014,雲林縣,林內鄉,湖本村",
+                "AreasElection": {
+                    "id": "53c0220e-b43c-444a-9e6d-5c5aacb5b862",
+                    "Election_id": "53c0220e-b1c4-49a5-8226-5c5aacb5b862",
+                    "Area_id": "53c01d03-5fac-44e1-a903-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "6201",
+                "rght": "7018",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0220d-eb50-4079-b424-5c5aacb5b862",
+                "parent_id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "name": "林內鄉",
+                "lft": "6640",
+                "rght": "6661",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0220e-b1c4-49a5-8226-5c5aacb5b862",
+                "parent_id": "53c0220d-eb50-4079-b424-5c5aacb5b862",
+                "name": "湖本村",
+                "lft": "6649",
+                "rght": "6650",
+                "population": "796",
+                "population_electors": "672",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546ec076-d41c-4d87-9884-2d4fcf91e152",
+                "keywords": "2014-11,村里長,雲林縣,林內鄉,湖本村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

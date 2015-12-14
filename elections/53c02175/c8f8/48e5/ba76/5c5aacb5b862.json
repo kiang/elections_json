@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02175-c8f8-48e5-ba76-5c5aacb5b862",
+            "parent_id": "53c02172-2a38-4d0d-91b6-5c5aacb5b862",
+            "name": "新庄里",
+            "lft": "4675",
+            "rght": "4676",
+            "population": "2747",
+            "population_electors": "2337",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-23d8-402c-96e8-74a5cf91e152",
+            "keywords": "2014-11,村里長,彰化縣,和美鎮,新庄里"
+        },
+        "Candidate": [
+            {
+                "id": "53c027bd-25e4-4788-9100-5dffacb5b862",
+                "image": "545d6efe\/1cec\/43f2\/b13d\/32308e043389.jpg",
+                "stage": "1",
+                "name": "許寶全",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "HSU PAO CHUNG",
+                "election_id": "53c02175-c8f8-48e5-ba76-5c5aacb5b862"
+            },
+            {
+                "id": "540b54fe-ea64-46db-abf3-1926acb5b862",
+                "image": "546ca051\/eef0\/4ff0\/9bb6\/05878e043389.jpg",
+                "stage": "2",
+                "name": "王溪成",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "WANG SHI CHEN",
+                "election_id": "53c02175-c8f8-48e5-ba76-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c89-d9ac-400a-808b-5460acb5b862",
+                "name": "新庄里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,和美鎮,新庄里",
+                "AreasElection": {
+                    "id": "53c02175-9cf4-48eb-b16b-5c5aacb5b862",
+                    "Election_id": "53c02175-c8f8-48e5-ba76-5c5aacb5b862",
+                    "Area_id": "53c01c89-d9ac-400a-808b-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "4417",
+                "rght": "5648",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02172-2a38-4d0d-91b6-5c5aacb5b862",
+                "parent_id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "name": "和美鎮",
+                "lft": "4626",
+                "rght": "4691",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02175-c8f8-48e5-ba76-5c5aacb5b862",
+                "parent_id": "53c02172-2a38-4d0d-91b6-5c5aacb5b862",
+                "name": "新庄里",
+                "lft": "4675",
+                "rght": "4676",
+                "population": "2747",
+                "population_electors": "2337",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-23d8-402c-96e8-74a5cf91e152",
+                "keywords": "2014-11,村里長,彰化縣,和美鎮,新庄里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

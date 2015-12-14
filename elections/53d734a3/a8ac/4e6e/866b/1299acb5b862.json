@@ -1,0 +1,167 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d734a3-a8ac-4e6e-866b-1299acb5b862",
+            "parent_id": "53c020dc-81f4-4246-bd63-5c5aacb5b862",
+            "name": "第02選舉區[區域]",
+            "lft": "2595",
+            "rght": "2596",
+            "population": "1163",
+            "population_electors": "974",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "546f277f-e15c-4d3b-972c-2f28cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,臺東縣,達仁鄉,第02選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b57ef-09f4-4c27-a3c8-1926acb5b862",
+                "image": "54a90601\/0008\/449f\/8a84\/39406ab936af.jpg",
+                "stage": "2",
+                "name": "高秋玉",
+                "party": "無",
+                "gender": "f",
+                "no": "4",
+                "name_english": "",
+                "election_id": "53d734a3-a8ac-4e6e-866b-1299acb5b862"
+            },
+            {
+                "id": "540b57ef-3d30-4cb8-89e9-1926acb5b862",
+                "image": "54a905e3\/f660\/4f16\/bf29\/39206ab936af.jpg",
+                "stage": "1",
+                "name": "樊永忠",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53d734a3-a8ac-4e6e-866b-1299acb5b862"
+            },
+            {
+                "id": "540b57ef-9030-4fe6-9f41-1926acb5b862",
+                "image": "54a905ca\/cac0\/48e8\/a311\/391b6ab936af.jpg",
+                "stage": "2",
+                "name": "劉仁宗",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53d734a3-a8ac-4e6e-866b-1299acb5b862"
+            },
+            {
+                "id": "540b57f0-2e30-42dc-b47c-1926acb5b862",
+                "image": "54a8fc79\/a68c\/4b3e\/8dcc\/36e56ab936af.jpg",
+                "stage": "1",
+                "name": "鄭誠",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d734a3-a8ac-4e6e-866b-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01da9-0e00-4ece-8da4-5460acb5b862",
+                "name": "安朔村",
+                "is_area": true,
+                "keywords": "2014,臺東縣,達仁鄉,安朔村",
+                "AreasElection": {
+                    "id": "53d734a3-b8d0-4bfc-a796-1299acb5b862",
+                    "Election_id": "53d734a3-a8ac-4e6e-866b-1299acb5b862",
+                    "Area_id": "53c01da9-0e00-4ece-8da4-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01da9-b190-4ba3-92b5-5460acb5b862",
+                "name": "新化村",
+                "is_area": true,
+                "keywords": "2014,臺東縣,達仁鄉,新化村",
+                "AreasElection": {
+                    "id": "53d734a3-243c-4a9d-b1ea-1299acb5b862",
+                    "Election_id": "53d734a3-a8ac-4e6e-866b-1299acb5b862",
+                    "Area_id": "53c01da9-b190-4ba3-92b5-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020d9-a97c-4d95-809d-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "臺東縣",
+                "lft": "2485",
+                "rght": "2612",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020dc-81f4-4246-bd63-5c5aacb5b862",
+                "parent_id": "53c020d9-a97c-4d95-809d-5c5aacb5b862",
+                "name": "達仁鄉",
+                "lft": "2592",
+                "rght": "2599",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d734a3-a8ac-4e6e-866b-1299acb5b862",
+                "parent_id": "53c020dc-81f4-4246-bd63-5c5aacb5b862",
+                "name": "第02選舉區[區域]",
+                "lft": "2595",
+                "rght": "2596",
+                "population": "1163",
+                "population_electors": "974",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "546f277f-e15c-4d3b-972c-2f28cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,臺東縣,達仁鄉,第02選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

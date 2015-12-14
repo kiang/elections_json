@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0218d-a9b0-49d8-a7a0-5c5aacb5b862",
+            "parent_id": "53c02187-bc24-49db-8512-5c5aacb5b862",
+            "name": "仁愛里",
+            "lft": "4963",
+            "rght": "4964",
+            "population": "1833",
+            "population_electors": "1324",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-9b3c-44de-a7c3-74a5cf91e152",
+            "keywords": "2014-11,村里長,彰化縣,員林鎮,仁愛里"
+        },
+        "Candidate": [
+            {
+                "id": "53c027c9-8128-4172-9e8c-5dffacb5b862",
+                "image": "545f425e\/6fd4\/42ce\/9e86\/24b98e043389.jpg",
+                "stage": "1",
+                "name": "周清木",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "JOU CHIN MUH",
+                "election_id": "53c0218d-a9b0-49d8-a7a0-5c5aacb5b862"
+            },
+            {
+                "id": "540b550d-23dc-4fec-aaaa-1926acb5b862",
+                "image": "5492f6b0\/a2e4\/4bcd\/815b\/75a16ab936af.jpg",
+                "stage": "2",
+                "name": "陳楊秀錦",
+                "party": "無",
+                "gender": "f",
+                "no": "2",
+                "name_english": "CHEN YANG HSIU CHIN",
+                "election_id": "53c0218d-a9b0-49d8-a7a0-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c9c-0414-4759-9bac-5460acb5b862",
+                "name": "仁愛里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,員林鎮,仁愛里",
+                "AreasElection": {
+                    "id": "53c0218d-4314-4a8e-9de0-5c5aacb5b862",
+                    "Election_id": "53c0218d-a9b0-49d8-a7a0-5c5aacb5b862",
+                    "Area_id": "53c01c9c-0414-4759-9bac-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "4417",
+                "rght": "5648",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02187-bc24-49db-8512-5c5aacb5b862",
+                "parent_id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "name": "員林鎮",
+                "lft": "4886",
+                "rght": "4969",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0218d-a9b0-49d8-a7a0-5c5aacb5b862",
+                "parent_id": "53c02187-bc24-49db-8512-5c5aacb5b862",
+                "name": "仁愛里",
+                "lft": "4963",
+                "rght": "4964",
+                "population": "1833",
+                "population_electors": "1324",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-9b3c-44de-a7c3-74a5cf91e152",
+                "keywords": "2014-11,村里長,彰化縣,員林鎮,仁愛里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

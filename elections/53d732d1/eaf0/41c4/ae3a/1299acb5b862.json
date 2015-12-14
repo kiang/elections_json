@@ -1,0 +1,178 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d732d1-eaf0-41c4-ae3a-1299acb5b862",
+            "parent_id": "53c020b6-a514-49b3-b90d-5c5aacb5b862",
+            "name": "第03選舉區[區域]",
+            "lft": "1319",
+            "rght": "1320",
+            "population": "1253",
+            "population_electors": "1010",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-e890-41b6-b852-1a32cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,新竹縣,五峰鄉,第03選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b56ec-1174-4daf-ac9e-1926acb5b862",
+                "image": "54c4bfbe\/9260\/449c\/845e\/56ed6ab936af.jpg",
+                "stage": "1",
+                "name": "彭興福",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "4",
+                "name_english": "",
+                "election_id": "53d732d1-eaf0-41c4-ae3a-1299acb5b862"
+            },
+            {
+                "id": "540b56ec-d274-45b4-9ea0-1926acb5b862",
+                "image": "54c4bfae\/6910\/47ef\/b283\/56e96ab936af.jpg",
+                "stage": "2",
+                "name": "達陸．翡述",
+                "party": "無",
+                "gender": "m",
+                "no": "5",
+                "name_english": "",
+                "election_id": "53d732d1-eaf0-41c4-ae3a-1299acb5b862"
+            },
+            {
+                "id": "540b56ed-a3a4-4049-9891-1926acb5b862",
+                "image": "54c4bf16\/2170\/438d\/bd77\/56a76ab936af.jpg",
+                "stage": "1",
+                "name": "達究．瓦旦",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "Ta Cyu Wa Tan",
+                "election_id": "53d732d1-eaf0-41c4-ae3a-1299acb5b862"
+            },
+            {
+                "id": "540b56ed-e6a8-46ba-9a92-1926acb5b862",
+                "image": "54c4bf45\/3afc\/428f\/aadd\/56b16ab936af.jpg",
+                "stage": "1",
+                "name": "林金土",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d732d1-eaf0-41c4-ae3a-1299acb5b862"
+            },
+            {
+                "id": "540b56ed-edf4-4a9c-8999-1926acb5b862",
+                "image": "54c4bf85\/59a0\/490d\/b5f2\/56dd6ab936af.jpg",
+                "stage": "2",
+                "name": "呂小龍",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53d732d1-eaf0-41c4-ae3a-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c52-0bac-418e-8cbb-5460acb5b862",
+                "name": "竹林村",
+                "is_area": true,
+                "keywords": "2014,新竹縣,五峰鄉,竹林村",
+                "AreasElection": {
+                    "id": "53d732d2-c550-47c1-944f-1299acb5b862",
+                    "Election_id": "53d732d1-eaf0-41c4-ae3a-1299acb5b862",
+                    "Area_id": "53c01c52-0bac-418e-8cbb-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c52-e248-4bca-b6d0-5460acb5b862",
+                "name": "花園村",
+                "is_area": true,
+                "keywords": "2014,新竹縣,五峰鄉,花園村",
+                "AreasElection": {
+                    "id": "53d732d2-b39c-4e30-922e-1299acb5b862",
+                    "Election_id": "53d732d1-eaf0-41c4-ae3a-1299acb5b862",
+                    "Area_id": "53c01c52-e248-4bca-b6d0-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b3-e33c-4fee-aa9e-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "新竹縣",
+                "lft": "1201",
+                "rght": "1322",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b6-a514-49b3-b90d-5c5aacb5b862",
+                "parent_id": "53c020b3-e33c-4fee-aa9e-5c5aacb5b862",
+                "name": "五峰鄉",
+                "lft": "1314",
+                "rght": "1321",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d732d1-eaf0-41c4-ae3a-1299acb5b862",
+                "parent_id": "53c020b6-a514-49b3-b90d-5c5aacb5b862",
+                "name": "第03選舉區[區域]",
+                "lft": "1319",
+                "rght": "1320",
+                "population": "1253",
+                "population_electors": "1010",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-e890-41b6-b852-1a32cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,新竹縣,五峰鄉,第03選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

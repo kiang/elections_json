@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0240c-1a78-4ba6-9593-5c5aacb5b862",
+            "parent_id": "53c02401-a518-4567-b540-5c5aacb5b862",
+            "name": "正心里",
+            "lft": "13091",
+            "rght": "13092",
+            "population": "4158",
+            "population_electors": "3561",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb720-76ec-4b81-a3ba-2adbcf91e152",
+            "keywords": "2014-11,村里長,高雄市,苓雅區,正心里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0266d-e540-4923-b0c7-5dffacb5b862",
+                "image": "",
+                "stage": "2",
+                "name": "林聰發",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c0240c-1a78-4ba6-9593-5c5aacb5b862"
+            },
+            {
+                "id": "540b5473-6c10-4657-ab60-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "陳顏秋萍",
+                "party": "無",
+                "gender": "f",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c0240c-1a78-4ba6-9593-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01e79-eb64-4db8-a14e-5460acb5b862",
+                "name": "正心里",
+                "is_area": true,
+                "keywords": "2014,高雄市,苓雅區,正心里",
+                "AreasElection": {
+                    "id": "53c0240c-b4e8-49e8-8ded-5c5aacb5b862",
+                    "Election_id": "53c0240c-1a78-4ba6-9593-5c5aacb5b862",
+                    "Area_id": "53c01e79-eb64-4db8-a14e-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02401-a518-4567-b540-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "苓雅區",
+                "lft": "12958",
+                "rght": "13097",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0240c-1a78-4ba6-9593-5c5aacb5b862",
+                "parent_id": "53c02401-a518-4567-b540-5c5aacb5b862",
+                "name": "正心里",
+                "lft": "13091",
+                "rght": "13092",
+                "population": "4158",
+                "population_electors": "3561",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb720-76ec-4b81-a3ba-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,苓雅區,正心里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

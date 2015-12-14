@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c023cc-1544-4500-aa06-5c5aacb5b862",
+            "parent_id": "53c023c7-6a3c-4965-a1a6-5c5aacb5b862",
+            "name": "忠誠里",
+            "lft": "12269",
+            "rght": "12270",
+            "population": "5988",
+            "population_electors": "4913",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-6750-4941-8087-4187cf91e152",
+            "keywords": "2014-11,村里長,臺北市,士林區,忠誠里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0264d-264c-41f9-884e-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "曾坤來",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "TSENG KUN LAI",
+                "election_id": "53c023cc-1544-4500-aa06-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01e3e-848c-4a39-bbe4-5460acb5b862",
+                "name": "忠誠里",
+                "is_area": true,
+                "keywords": "2014,臺北市,士林區,忠誠里",
+                "AreasElection": {
+                    "id": "53c023cc-fe38-4937-b9da-5c5aacb5b862",
+                    "Election_id": "53c023cc-1544-4500-aa06-5c5aacb5b862",
+                    "Area_id": "53c01e3e-848c-4a39-bbe4-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023c7-6a3c-4965-a1a6-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "士林區",
+                "lft": "12204",
+                "rght": "12307",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023cc-1544-4500-aa06-5c5aacb5b862",
+                "parent_id": "53c023c7-6a3c-4965-a1a6-5c5aacb5b862",
+                "name": "忠誠里",
+                "lft": "12269",
+                "rght": "12270",
+                "population": "5988",
+                "population_electors": "4913",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-6750-4941-8087-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,士林區,忠誠里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

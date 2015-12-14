@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02611-8e94-4ec9-a8e6-5c5aacb5b862",
+            "parent_id": "53c0260a-ed0c-4497-942e-5c5aacb5b862",
+            "name": "玉皇里",
+            "lft": "19049",
+            "rght": "19050",
+            "population": "1760",
+            "population_electors": "1508",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "keywords": "2014-11,村里長,臺南市,北區,玉皇里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0274c-b474-4ae0-9ace-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "王許麗雲",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "1",
+                "name_english": "WANG HSU LEE YUN",
+                "election_id": "53c02611-8e94-4ec9-a8e6-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c0201d-dc54-4430-b09f-5460acb5b862",
+                "name": "玉皇里",
+                "is_area": true,
+                "keywords": "2014,臺南市,北區,玉皇里",
+                "AreasElection": {
+                    "id": "53c02611-31fc-4297-88e1-5c5aacb5b862",
+                    "Election_id": "53c02611-8e94-4ec9-a8e6-5c5aacb5b862",
+                    "Area_id": "53c0201d-dc54-4430-b09f-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02598-fc40-4dee-aec0-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺南市",
+                "lft": "17695",
+                "rght": "19274",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0260a-ed0c-4497-942e-5c5aacb5b862",
+                "parent_id": "53c02598-fc40-4dee-aec0-5c5aacb5b862",
+                "name": "北區",
+                "lft": "18972",
+                "rght": "19059",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02611-8e94-4ec9-a8e6-5c5aacb5b862",
+                "parent_id": "53c0260a-ed0c-4497-942e-5c5aacb5b862",
+                "name": "玉皇里",
+                "lft": "19049",
+                "rght": "19050",
+                "population": "1760",
+                "population_electors": "1508",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2014-11,村里長,臺南市,北區,玉皇里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02590-003c-40b2-909c-5c5aacb5b862",
+            "parent_id": "53c0258b-49bc-4301-a0fe-5c5aacb5b862",
+            "name": "新吉里",
+            "lft": "17593",
+            "rght": "17594",
+            "population": "6137",
+            "population_electors": "4714",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546d8db9-0a94-4d83-a4c2-0e51cf91e152",
+            "keywords": "2014-11,村里長,臺中市,太平區,新吉里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02717-68c4-4760-a631-5dffacb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "蔡新褔",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02590-003c-40b2-909c-5c5aacb5b862"
+            },
+            {
+                "id": "540b53f7-9e48-471a-b696-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "黃天財",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c02590-003c-40b2-909c-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01fba-5228-49df-9960-5460acb5b862",
+                "name": "新吉里",
+                "is_area": true,
+                "keywords": "2014,臺中市,太平區,新吉里",
+                "AreasElection": {
+                    "id": "53c02590-575c-4732-9c00-5c5aacb5b862",
+                    "Election_id": "53c02590-003c-40b2-909c-5c5aacb5b862",
+                    "Area_id": "53c01fba-5228-49df-9960-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0258b-49bc-4301-a0fe-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "太平區",
+                "lft": "17540",
+                "rght": "17619",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02590-003c-40b2-909c-5c5aacb5b862",
+                "parent_id": "53c0258b-49bc-4301-a0fe-5c5aacb5b862",
+                "name": "新吉里",
+                "lft": "17593",
+                "rght": "17594",
+                "population": "6137",
+                "population_electors": "4714",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546d8db9-0a94-4d83-a4c2-0e51cf91e152",
+                "keywords": "2014-11,村里長,臺中市,太平區,新吉里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

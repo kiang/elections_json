@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02543-49f8-4b6c-832a-5c5aacb5b862",
+            "parent_id": "53c02542-30e8-4080-80d6-5c5aacb5b862",
+            "name": "北屯里",
+            "lft": "16753",
+            "rght": "16754",
+            "population": "3986",
+            "population_electors": "3142",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eec9d-37ac-4721-8f57-180dcf91e152",
+            "keywords": "2014-11,村里長,臺中市,北屯區,北屯里"
+        },
+        "Candidate": [
+            {
+                "id": "53c026f4-0a30-49d0-876b-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "張惠英",
+                "party": "無",
+                "gender": "f",
+                "no": "1",
+                "name_english": "CHANG HUI YING",
+                "election_id": "53c02543-49f8-4b6c-832a-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01f7e-c274-42d2-a2fc-5460acb5b862",
+                "name": "北屯里",
+                "is_area": true,
+                "keywords": "2014,臺中市,北屯區,北屯里",
+                "AreasElection": {
+                    "id": "53c02543-ba38-4c0a-9db6-5c5aacb5b862",
+                    "Election_id": "53c02543-49f8-4b6c-832a-5c5aacb5b862",
+                    "Area_id": "53c01f7e-c274-42d2-a2fc-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02542-30e8-4080-80d6-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "北屯區",
+                "lft": "16744",
+                "rght": "16829",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02543-49f8-4b6c-832a-5c5aacb5b862",
+                "parent_id": "53c02542-30e8-4080-80d6-5c5aacb5b862",
+                "name": "北屯里",
+                "lft": "16753",
+                "rght": "16754",
+                "population": "3986",
+                "population_electors": "3142",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eec9d-37ac-4721-8f57-180dcf91e152",
+                "keywords": "2014-11,村里長,臺中市,北屯區,北屯里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

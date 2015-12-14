@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c021ed-185c-4b13-9f10-5c5aacb5b862",
+            "parent_id": "53c021ec-e218-48e1-a17c-5c5aacb5b862",
+            "name": "林頭里",
+            "lft": "6217",
+            "rght": "6218",
+            "population": "4989",
+            "population_electors": "3905",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546ec076-e914-465c-873b-2d4fcf91e152",
+            "keywords": "2014-11,村里長,雲林縣,斗六市,林頭里"
+        },
+        "Candidate": [
+            {
+                "id": "53c027fd-8ab0-4af2-a6df-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "黃勝志",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c021ed-185c-4b13-9f10-5c5aacb5b862"
+            },
+            {
+                "id": "540b5553-b720-412d-9093-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "游勝利",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "YU SHENG LI",
+                "election_id": "53c021ed-185c-4b13-9f10-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01ce9-44ec-4ae7-9db2-5460acb5b862",
+                "name": "林頭里",
+                "is_area": true,
+                "keywords": "2014,雲林縣,斗六市,林頭里",
+                "AreasElection": {
+                    "id": "53c021ed-54a4-4411-8f91-5c5aacb5b862",
+                    "Election_id": "53c021ed-185c-4b13-9f10-5c5aacb5b862",
+                    "Area_id": "53c01ce9-44ec-4ae7-9db2-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "6201",
+                "rght": "7018",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e218-48e1-a17c-5c5aacb5b862",
+                "parent_id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "name": "斗六市",
+                "lft": "6202",
+                "rght": "6279",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ed-185c-4b13-9f10-5c5aacb5b862",
+                "parent_id": "53c021ec-e218-48e1-a17c-5c5aacb5b862",
+                "name": "林頭里",
+                "lft": "6217",
+                "rght": "6218",
+                "population": "4989",
+                "population_electors": "3905",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546ec076-e914-465c-873b-2d4fcf91e152",
+                "keywords": "2014-11,村里長,雲林縣,斗六市,林頭里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

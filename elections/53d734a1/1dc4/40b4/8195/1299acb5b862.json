@@ -1,0 +1,145 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d734a1-1dc4-40b4-8195-1299acb5b862",
+            "parent_id": "53c020dc-0464-4efc-acec-5c5aacb5b862",
+            "name": "第03選舉區[區域]",
+            "lft": "2605",
+            "rght": "2606",
+            "population": "791",
+            "population_electors": "624",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "546eec9d-8428-4cd6-a11d-180dcf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,臺東縣,金峰鄉,第03選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b57ee-78c8-48e4-b7d8-1926acb5b862",
+                "image": "54a8fbf2\/8714\/410c\/a517\/36c36ab936af.jpg",
+                "stage": "1",
+                "name": "葉彥祥",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d734a1-1dc4-40b4-8195-1299acb5b862"
+            },
+            {
+                "id": "540b57ee-8bc8-4823-b1b0-1926acb5b862",
+                "image": "54a8fc09\/3804\/4526\/bc76\/36d16ab936af.jpg",
+                "stage": "2",
+                "name": "張秋明",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53d734a1-1dc4-40b4-8195-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01da8-b4c0-48fb-a67e-5460acb5b862",
+                "name": "歷坵村",
+                "is_area": true,
+                "keywords": "2014,臺東縣,金峰鄉,歷坵村",
+                "AreasElection": {
+                    "id": "53d734a2-6d68-463e-8b58-1299acb5b862",
+                    "Election_id": "53d734a1-1dc4-40b4-8195-1299acb5b862",
+                    "Area_id": "53c01da8-b4c0-48fb-a67e-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01da8-bff8-439d-a7a1-5460acb5b862",
+                "name": "賓茂村",
+                "is_area": true,
+                "keywords": "2014,臺東縣,金峰鄉,賓茂村",
+                "AreasElection": {
+                    "id": "53d734a2-1138-452f-9bfb-1299acb5b862",
+                    "Election_id": "53d734a1-1dc4-40b4-8195-1299acb5b862",
+                    "Area_id": "53c01da8-bff8-439d-a7a1-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020d9-a97c-4d95-809d-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "臺東縣",
+                "lft": "2485",
+                "rght": "2612",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020dc-0464-4efc-acec-5c5aacb5b862",
+                "parent_id": "53c020d9-a97c-4d95-809d-5c5aacb5b862",
+                "name": "金峰鄉",
+                "lft": "2600",
+                "rght": "2607",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d734a1-1dc4-40b4-8195-1299acb5b862",
+                "parent_id": "53c020dc-0464-4efc-acec-5c5aacb5b862",
+                "name": "第03選舉區[區域]",
+                "lft": "2605",
+                "rght": "2606",
+                "population": "791",
+                "population_electors": "624",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "546eec9d-8428-4cd6-a11d-180dcf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,臺東縣,金峰鄉,第03選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

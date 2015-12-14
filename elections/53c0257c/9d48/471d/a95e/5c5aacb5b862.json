@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0257c-9d48-471d-a95e-5c5aacb5b862",
+            "parent_id": "53c0257b-df94-4a5e-9fe0-5c5aacb5b862",
+            "name": "福住里",
+            "lft": "17383",
+            "rght": "17384",
+            "population": "1274",
+            "population_electors": "1013",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e0690-74f0-4773-89ac-1a32cf91e152",
+            "keywords": "2014-11,村里長,臺中市,大安區,福住里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0270f-5830-47df-a17d-5dffacb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "陳金隆",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c0257c-9d48-471d-a95e-5c5aacb5b862"
+            },
+            {
+                "id": "540b53ec-dbac-4b66-bb73-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "吳添福",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c0257c-9d48-471d-a95e-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01fac-2dc4-44cc-a2ba-5460acb5b862",
+                "name": "福住里",
+                "is_area": true,
+                "keywords": "2014,臺中市,大安區,福住里",
+                "AreasElection": {
+                    "id": "53c0257d-c718-41b6-b32b-5c5aacb5b862",
+                    "Election_id": "53c0257c-9d48-471d-a95e-5c5aacb5b862",
+                    "Area_id": "53c01fac-2dc4-44cc-a2ba-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0257b-df94-4a5e-9fe0-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "大安區",
+                "lft": "17368",
+                "rght": "17393",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0257c-9d48-471d-a95e-5c5aacb5b862",
+                "parent_id": "53c0257b-df94-4a5e-9fe0-5c5aacb5b862",
+                "name": "福住里",
+                "lft": "17383",
+                "rght": "17384",
+                "population": "1274",
+                "population_electors": "1013",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e0690-74f0-4773-89ac-1a32cf91e152",
+                "keywords": "2014-11,村里長,臺中市,大安區,福住里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02131-1710-4876-8774-5c5aacb5b862",
+            "parent_id": "53c02131-2c9c-471f-ac77-5c5aacb5b862",
+            "name": "大崎村",
+            "lft": "3771",
+            "rght": "3772",
+            "population": "2030",
+            "population_electors": "1697",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-7ddc-4b4c-ba86-1a32cf91e152",
+            "keywords": "2014-11,村里長,新竹縣,寶山鄉,大崎村"
+        },
+        "Candidate": [
+            {
+                "id": "53c0279b-d89c-469a-b7a9-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "楊火炎",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "YANG HUO YEN",
+                "election_id": "53c02131-1710-4876-8774-5c5aacb5b862"
+            },
+            {
+                "id": "540b54cb-e0cc-43ae-a2b0-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "莊進財",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02131-1710-4876-8774-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c4f-7854-41f7-a932-5460acb5b862",
+                "name": "大崎村",
+                "is_area": true,
+                "keywords": "2014,新竹縣,寶山鄉,大崎村",
+                "AreasElection": {
+                    "id": "53c02131-c484-4e28-9ccc-5c5aacb5b862",
+                    "Election_id": "53c02131-1710-4876-8774-5c5aacb5b862",
+                    "Area_id": "53c01c4f-7854-41f7-a932-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02114-c1a0-4545-bc6f-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新竹縣",
+                "lft": "3421",
+                "rght": "3830",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02131-2c9c-471f-ac77-5c5aacb5b862",
+                "parent_id": "53c02114-c1a0-4545-bc6f-5c5aacb5b862",
+                "name": "寶山鄉",
+                "lft": "3768",
+                "rght": "3789",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02131-1710-4876-8774-5c5aacb5b862",
+                "parent_id": "53c02131-2c9c-471f-ac77-5c5aacb5b862",
+                "name": "大崎村",
+                "lft": "3771",
+                "rght": "3772",
+                "population": "2030",
+                "population_electors": "1697",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-7ddc-4b4c-ba86-1a32cf91e152",
+                "keywords": "2014-11,村里長,新竹縣,寶山鄉,大崎村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

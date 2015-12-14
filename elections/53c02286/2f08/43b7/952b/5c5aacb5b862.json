@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02286-2f08-43b7-952b-5c5aacb5b862",
+            "parent_id": "53c02285-42f0-44cb-aa36-5c5aacb5b862",
+            "name": "永春村",
+            "lft": "8203",
+            "rght": "8204",
+            "population": "1045",
+            "population_electors": "834",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54773ba1-f004-46c4-bb55-1915cf91e152",
+            "keywords": "2014-11,村里長,屏東縣,里港鄉,永春村"
+        },
+        "Candidate": [
+            {
+                "id": "53c0284c-607c-4d4c-a653-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "陳春風",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02286-2f08-43b7-952b-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d6d-d0a4-4ed2-8ac1-5460acb5b862",
+                "name": "永春村",
+                "is_area": true,
+                "keywords": "2014,屏東縣,里港鄉,永春村",
+                "AreasElection": {
+                    "id": "53c02286-d99c-4036-afd4-5c5aacb5b862",
+                    "Election_id": "53c02286-2f08-43b7-952b-5c5aacb5b862",
+                    "Area_id": "53c01d6d-d0a4-4ed2-8ac1-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "7771",
+                "rght": "8766",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02285-42f0-44cb-aa36-5c5aacb5b862",
+                "parent_id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "name": "里港鄉",
+                "lft": "8196",
+                "rght": "8225",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02286-2f08-43b7-952b-5c5aacb5b862",
+                "parent_id": "53c02285-42f0-44cb-aa36-5c5aacb5b862",
+                "name": "永春村",
+                "lft": "8203",
+                "rght": "8204",
+                "population": "1045",
+                "population_electors": "834",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54773ba1-f004-46c4-bb55-1915cf91e152",
+                "keywords": "2014-11,村里長,屏東縣,里港鄉,永春村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

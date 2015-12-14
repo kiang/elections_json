@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c023d4-4e34-4ac4-910c-5c5aacb5b862",
+            "parent_id": "53c023cf-48cc-46fc-8762-5c5aacb5b862",
+            "name": "稻香里",
+            "lft": "12375",
+            "rght": "12376",
+            "population": "5266",
+            "population_electors": "4387",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-cb08-42e3-b781-4187cf91e152",
+            "keywords": "2014-11,村里長,臺北市,北投區,稻香里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02651-46b8-4df8-99d9-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "張義博",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "CHANG YI BO",
+                "election_id": "53c023d4-4e34-4ac4-910c-5c5aacb5b862"
+            },
+            {
+                "id": "540b5313-b830-4bc1-bfa9-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "紀德典",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "Chi T. Dewiel",
+                "election_id": "53c023d4-4e34-4ac4-910c-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01e46-7d54-4ee3-9f43-5460acb5b862",
+                "name": "稻香里",
+                "is_area": true,
+                "keywords": "2014,臺北市,北投區,稻香里",
+                "AreasElection": {
+                    "id": "53c023d4-2468-4567-bb4d-5c5aacb5b862",
+                    "Election_id": "53c023d4-4e34-4ac4-910c-5c5aacb5b862",
+                    "Area_id": "53c01e46-7d54-4ee3-9f43-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023cf-48cc-46fc-8762-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "北投區",
+                "lft": "12308",
+                "rght": "12393",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d4-4e34-4ac4-910c-5c5aacb5b862",
+                "parent_id": "53c023cf-48cc-46fc-8762-5c5aacb5b862",
+                "name": "稻香里",
+                "lft": "12375",
+                "rght": "12376",
+                "population": "5266",
+                "population_electors": "4387",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-cb08-42e3-b781-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,北投區,稻香里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

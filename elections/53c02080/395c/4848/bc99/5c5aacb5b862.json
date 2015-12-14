@@ -1,0 +1,126 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02080-395c-4848-bc99-5c5aacb5b862",
+            "parent_id": "53c0202f-cfc8-4ab5-a63b-5460acb5b862",
+            "name": "雲林縣",
+            "lft": "287",
+            "rght": "288",
+            "population": "705022",
+            "population_electors": "566196",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546edf27-7714-44f7-97de-3d69cf91e152",
+            "keywords": "2014-11,縣市長,雲林縣"
+        },
+        "Candidate": [
+            {
+                "id": "53c028a4-0874-4397-8371-5dffacb5b862",
+                "image": null,
+                "stage": "0",
+                "name": "黃文發",
+                "party": null,
+                "gender": null,
+                "no": "0",
+                "name_english": "",
+                "election_id": "53c02080-395c-4848-bc99-5c5aacb5b862"
+            },
+            {
+                "id": "53c028b5-47e0-4130-bd98-5dffacb5b862",
+                "image": null,
+                "stage": "0",
+                "name": "許舒翔",
+                "party": null,
+                "gender": null,
+                "no": "0",
+                "name_english": "",
+                "election_id": "53c02080-395c-4848-bc99-5c5aacb5b862"
+            },
+            {
+                "id": "53c028c3-540c-4d4f-bc68-5dffacb5b862",
+                "image": "5432aa23\/c3dc\/4e8f\/83c6\/3660cb455a61.jpg",
+                "stage": "1",
+                "name": "張麗善",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "1",
+                "name_english": "CHANG LI SHAN",
+                "election_id": "53c02080-395c-4848-bc99-5c5aacb5b862"
+            },
+            {
+                "id": "53c028c6-f340-43cf-bafa-5dffacb5b862",
+                "image": "560951f1\/3284\/4212\/a9db\/40886ab936af.jpg",
+                "stage": "2",
+                "name": "李進勇",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "LEE CHIN YUNG",
+                "election_id": "53c02080-395c-4848-bc99-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01ce8-b6b8-42f2-8bf1-5460acb5b862",
+                "name": "雲林縣",
+                "is_area": true,
+                "keywords": "2014,雲林縣",
+                "AreasElection": {
+                    "id": "53c02080-75a0-47ed-a55a-5c5aacb5b862",
+                    "Election_id": "53c02080-395c-4848-bc99-5c5aacb5b862",
+                    "Area_id": "53c01ce8-b6b8-42f2-8bf1-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-cfc8-4ab5-a63b-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "縣市長",
+                "lft": "272",
+                "rght": "305",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02080-395c-4848-bc99-5c5aacb5b862",
+                "parent_id": "53c0202f-cfc8-4ab5-a63b-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "287",
+                "rght": "288",
+                "population": "705022",
+                "population_electors": "566196",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546edf27-7714-44f7-97de-3d69cf91e152",
+                "keywords": "2014-11,縣市長,雲林縣"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

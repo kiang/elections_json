@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c024fd-4050-468d-a095-5c5aacb5b862",
+            "parent_id": "53c024f7-3e90-4bb7-8325-5c5aacb5b862",
+            "name": "民和里",
+            "lft": "15981",
+            "rght": "15982",
+            "population": "2945",
+            "population_electors": "2401",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546f277e-bacc-4ab1-bd83-2f28cf91e152",
+            "keywords": "2014-11,村里長,新北市,蘆洲區,民和里"
+        },
+        "Candidate": [
+            {
+                "id": "53c026d7-3350-489c-9b38-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "李進誠",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c024fd-4050-468d-a095-5c5aacb5b862"
+            },
+            {
+                "id": "540b536c-67b4-4db4-9364-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "杜易輿",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c024fd-4050-468d-a095-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01f49-90bc-43ab-9d6d-5460acb5b862",
+                "name": "民和里",
+                "is_area": true,
+                "keywords": "2014,新北市,蘆洲區,民和里",
+                "AreasElection": {
+                    "id": "53c024fe-57a4-4ee2-9fe2-5c5aacb5b862",
+                    "Election_id": "53c024fd-4050-468d-a095-5c5aacb5b862",
+                    "Area_id": "53c01f49-90bc-43ab-9d6d-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新北市",
+                "lft": "14261",
+                "rght": "16384",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c024f7-3e90-4bb7-8325-5c5aacb5b862",
+                "parent_id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "name": "蘆洲區",
+                "lft": "15920",
+                "rght": "15997",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c024fd-4050-468d-a095-5c5aacb5b862",
+                "parent_id": "53c024f7-3e90-4bb7-8325-5c5aacb5b862",
+                "name": "民和里",
+                "lft": "15981",
+                "rght": "15982",
+                "population": "2945",
+                "population_electors": "2401",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546f277e-bacc-4ab1-bd83-2f28cf91e152",
+                "keywords": "2014-11,村里長,新北市,蘆洲區,民和里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

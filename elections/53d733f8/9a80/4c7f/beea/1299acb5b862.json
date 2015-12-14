@@ -1,0 +1,178 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d733f8-9a80-4c7f-beea-1299acb5b862",
+            "parent_id": "53c020c9-5e5c-4977-a285-5c5aacb5b862",
+            "name": "第02選舉區[區域]",
+            "lft": "2067",
+            "rght": "2068",
+            "population": "5646",
+            "population_electors": "4505",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "5473fb11-dd60-47db-959e-1b6ecf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,嘉義縣,太保市,第02選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b5769-0b08-4920-9847-1926acb5b862",
+                "image": "54d6df07\/eff0\/487f\/9a94\/0dab6ab936af.jpg",
+                "stage": "2",
+                "name": "葉千田",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "YEH CHIAN TYAN",
+                "election_id": "53d733f8-9a80-4c7f-beea-1299acb5b862"
+            },
+            {
+                "id": "540b5769-1f8c-413e-b384-1926acb5b862",
+                "image": "54d6df57\/596c\/4b37\/884d\/0dbb6ab936af.jpg",
+                "stage": "1",
+                "name": "潘新發",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53d733f8-9a80-4c7f-beea-1299acb5b862"
+            },
+            {
+                "id": "540b5769-d1ac-4fde-84ab-1926acb5b862",
+                "image": "54d6df3f\/8604\/40f5\/8538\/0dbb6ab936af.jpg",
+                "stage": "2",
+                "name": "程慶隆",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "CHENG GHING LUNG",
+                "election_id": "53d733f8-9a80-4c7f-beea-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d1c-4ba8-44a6-a749-5460acb5b862",
+                "name": "舊埤里",
+                "is_area": true,
+                "keywords": "2014,嘉義縣,太保市,舊埤里",
+                "AreasElection": {
+                    "id": "53d733f9-9e00-4a60-b9d9-1299acb5b862",
+                    "Election_id": "53d733f8-9a80-4c7f-beea-1299acb5b862",
+                    "Area_id": "53c01d1c-4ba8-44a6-a749-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d1c-9b88-48e2-9e20-5460acb5b862",
+                "name": "新埤里",
+                "is_area": true,
+                "keywords": "2014,嘉義縣,太保市,新埤里",
+                "AreasElection": {
+                    "id": "53d733f9-9c98-4812-9a13-1299acb5b862",
+                    "Election_id": "53d733f8-9a80-4c7f-beea-1299acb5b862",
+                    "Area_id": "53c01d1c-9b88-48e2-9e20-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d1d-a8a0-4138-baa3-5460acb5b862",
+                "name": "港尾里",
+                "is_area": true,
+                "keywords": "2014,嘉義縣,太保市,港尾里",
+                "AreasElection": {
+                    "id": "53d733f9-960c-4133-958e-1299acb5b862",
+                    "Election_id": "53d733f8-9a80-4c7f-beea-1299acb5b862",
+                    "Area_id": "53c01d1d-a8a0-4138-baa3-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d1d-e57c-42fe-af8e-5460acb5b862",
+                "name": "田尾里",
+                "is_area": true,
+                "keywords": "2014,嘉義縣,太保市,田尾里",
+                "AreasElection": {
+                    "id": "53d733f9-8e1c-4cb2-8dd7-1299acb5b862",
+                    "Election_id": "53d733f8-9a80-4c7f-beea-1299acb5b862",
+                    "Area_id": "53c01d1d-e57c-42fe-af8e-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020c9-7bdc-47e9-9a01-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "嘉義縣",
+                "lft": "2063",
+                "rght": "2196",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020c9-5e5c-4977-a285-5c5aacb5b862",
+                "parent_id": "53c020c9-7bdc-47e9-9a01-5c5aacb5b862",
+                "name": "太保市",
+                "lft": "2064",
+                "rght": "2071",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d733f8-9a80-4c7f-beea-1299acb5b862",
+                "parent_id": "53c020c9-5e5c-4977-a285-5c5aacb5b862",
+                "name": "第02選舉區[區域]",
+                "lft": "2067",
+                "rght": "2068",
+                "population": "5646",
+                "population_electors": "4505",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "5473fb11-dd60-47db-959e-1b6ecf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,嘉義縣,太保市,第02選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

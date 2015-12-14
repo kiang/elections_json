@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0216e-b290-4a4a-a6dd-5c5aacb5b862",
+            "parent_id": "53c0216d-4580-46df-876a-5c5aacb5b862",
+            "name": "東石里",
+            "lft": "4579",
+            "rght": "4580",
+            "population": "5196",
+            "population_electors": "3998",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-a668-4c6a-a8ac-74a5cf91e152",
+            "keywords": "2014-11,村里長,彰化縣,鹿港鎮,東石里"
+        },
+        "Candidate": [
+            {
+                "id": "53c027ba-b44c-443e-9cfe-5dffacb5b862",
+                "image": "545a24f5\/9618\/4407\/916b\/0d098e043389.jpg",
+                "stage": "2",
+                "name": "鄧易承",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "TENG YI CHENG",
+                "election_id": "53c0216e-b290-4a4a-a6dd-5c5aacb5b862"
+            },
+            {
+                "id": "540b54f8-b2f0-4c16-b534-1926acb5b862",
+                "image": "546c86ae\/615c\/4365\/a29e\/54bc8e043389.jpg",
+                "stage": "1",
+                "name": "郭明忠",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c0216e-b290-4a4a-a6dd-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c84-2658-4791-8281-5460acb5b862",
+                "name": "東石里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,鹿港鎮,東石里",
+                "AreasElection": {
+                    "id": "53c0216e-74f8-4e37-9db6-5c5aacb5b862",
+                    "Election_id": "53c0216e-b290-4a4a-a6dd-5c5aacb5b862",
+                    "Area_id": "53c01c84-2658-4791-8281-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "4417",
+                "rght": "5648",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0216d-4580-46df-876a-5c5aacb5b862",
+                "parent_id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "name": "鹿港鎮",
+                "lft": "4566",
+                "rght": "4625",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0216e-b290-4a4a-a6dd-5c5aacb5b862",
+                "parent_id": "53c0216d-4580-46df-876a-5c5aacb5b862",
+                "name": "東石里",
+                "lft": "4579",
+                "rght": "4580",
+                "population": "5196",
+                "population_electors": "3998",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-a668-4c6a-a8ac-74a5cf91e152",
+                "keywords": "2014-11,村里長,彰化縣,鹿港鎮,東石里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

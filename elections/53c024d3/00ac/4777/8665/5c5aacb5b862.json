@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c024d3-00ac-4777-8665-5c5aacb5b862",
+            "parent_id": "53c024d2-8898-4525-b337-5c5aacb5b862",
+            "name": "永舘里",
+            "lft": "15525",
+            "rght": "15526",
+            "population": "7992",
+            "population_electors": "6035",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546ef559-0a88-4bf8-915f-208ecf91e152",
+            "keywords": "2014-11,村里長,新北市,三峽區,永舘里"
+        },
+        "Candidate": [
+            {
+                "id": "53c026c7-98d0-4420-b966-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "鄭兩進",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c024d3-00ac-4777-8665-5c5aacb5b862"
+            },
+            {
+                "id": "540b5354-9408-4b7a-938d-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "陳重嘉",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c024d3-00ac-4777-8665-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01f29-9288-4129-9198-5460acb5b862",
+                "name": "永舘里",
+                "is_area": true,
+                "keywords": "2014,新北市,三峽區,永舘里",
+                "AreasElection": {
+                    "id": "53c024d4-ef40-43f9-96f2-5c5aacb5b862",
+                    "Election_id": "53c024d3-00ac-4777-8665-5c5aacb5b862",
+                    "Area_id": "53c01f29-9288-4129-9198-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新北市",
+                "lft": "14261",
+                "rght": "16384",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c024d2-8898-4525-b337-5c5aacb5b862",
+                "parent_id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "name": "三峽區",
+                "lft": "15508",
+                "rght": "15565",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c024d3-00ac-4777-8665-5c5aacb5b862",
+                "parent_id": "53c024d2-8898-4525-b337-5c5aacb5b862",
+                "name": "永舘里",
+                "lft": "15525",
+                "rght": "15526",
+                "population": "7992",
+                "population_electors": "6035",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546ef559-0a88-4bf8-915f-208ecf91e152",
+                "keywords": "2014-11,村里長,新北市,三峽區,永舘里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

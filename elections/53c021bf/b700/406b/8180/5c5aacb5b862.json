@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c021bf-b700-406b-8180-5c5aacb5b862",
+            "parent_id": "53c021be-13ec-4ba4-b387-5c5aacb5b862",
+            "name": "溪州村",
+            "lft": "5627",
+            "rght": "5628",
+            "population": "1887",
+            "population_electors": "1523",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-1a84-4853-93da-74a5cf91e152",
+            "keywords": "2014-11,村里長,彰化縣,溪州鄉,溪州村"
+        },
+        "Candidate": [
+            {
+                "id": "53c027e5-ba90-49f0-8176-5dffacb5b862",
+                "image": "5462f233\/8f54\/4fdd\/9431\/55b88e043389.jpg",
+                "stage": "2",
+                "name": "林達郎",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c021bf-b700-406b-8180-5c5aacb5b862"
+            },
+            {
+                "id": "540b5531-0338-45f2-984e-1926acb5b862",
+                "image": "55ebb465\/0a90\/40fe\/917b\/0c116ab936af.jpg",
+                "stage": "1",
+                "name": "陳麗華",
+                "party": "無",
+                "gender": "f",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c021bf-b700-406b-8180-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01cc6-3c38-4fb1-ba3e-5460acb5b862",
+                "name": "溪州村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,溪州鄉,溪州村",
+                "AreasElection": {
+                    "id": "53c021c0-38f0-4222-996c-5c5aacb5b862",
+                    "Election_id": "53c021bf-b700-406b-8180-5c5aacb5b862",
+                    "Area_id": "53c01cc6-3c38-4fb1-ba3e-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "4417",
+                "rght": "5648",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021be-13ec-4ba4-b387-5c5aacb5b862",
+                "parent_id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "name": "溪州鄉",
+                "lft": "5608",
+                "rght": "5647",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021bf-b700-406b-8180-5c5aacb5b862",
+                "parent_id": "53c021be-13ec-4ba4-b387-5c5aacb5b862",
+                "name": "溪州村",
+                "lft": "5627",
+                "rght": "5628",
+                "population": "1887",
+                "population_electors": "1523",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-1a84-4853-93da-74a5cf91e152",
+                "keywords": "2014-11,村里長,彰化縣,溪州鄉,溪州村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

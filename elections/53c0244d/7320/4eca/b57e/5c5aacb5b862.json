@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0244d-7320-4eca-b57e-5c5aacb5b862",
+            "parent_id": "53c0244a-e630-4cf1-9eb0-5c5aacb5b862",
+            "name": "竹南里",
+            "lft": "13905",
+            "rght": "13906",
+            "population": "3507",
+            "population_electors": "2650",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb721-44e4-4f6a-9aed-2adbcf91e152",
+            "keywords": "2014-11,村里長,高雄市,路竹區,竹南里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0268d-3064-4fda-89d3-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "高月英",
+                "party": "無",
+                "gender": "f",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c0244d-7320-4eca-b57e-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01eae-e57c-4285-9037-5460acb5b862",
+                "name": "竹南里",
+                "is_area": true,
+                "keywords": "2014,高雄市,路竹區,竹南里",
+                "AreasElection": {
+                    "id": "53c0244d-0130-4c27-ac31-5c5aacb5b862",
+                    "Election_id": "53c0244d-7320-4eca-b57e-5c5aacb5b862",
+                    "Area_id": "53c01eae-e57c-4285-9037-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0244a-e630-4cf1-9eb0-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "路竹區",
+                "lft": "13868",
+                "rght": "13909",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0244d-7320-4eca-b57e-5c5aacb5b862",
+                "parent_id": "53c0244a-e630-4cf1-9eb0-5c5aacb5b862",
+                "name": "竹南里",
+                "lft": "13905",
+                "rght": "13906",
+                "population": "3507",
+                "population_electors": "2650",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb721-44e4-4f6a-9aed-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,路竹區,竹南里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

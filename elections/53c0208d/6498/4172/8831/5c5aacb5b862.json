@@ -1,0 +1,130 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0208d-6498-4172-8831-5c5aacb5b862",
+            "parent_id": "53c0208d-d5f8-4b58-82e9-5c5aacb5b862",
+            "name": "苗栗市",
+            "lft": "688",
+            "rght": "689",
+            "population": "90936",
+            "population_electors": "71925",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-da38-464e-8917-4187cf91e152",
+            "keywords": "2014-11,鄉鎮市長,苗栗縣,苗栗市"
+        },
+        "Candidate": [
+            {
+                "id": "5406a5ff-3228-4ee0-a647-15b8acb5b862",
+                "image": "54ba4315\/100c\/4d98\/a145\/43bf6ab936af.jpg",
+                "stage": "2",
+                "name": "邱炳坤",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "Chiu Ping Kun",
+                "election_id": "53c0208d-6498-4172-8831-5c5aacb5b862"
+            },
+            {
+                "id": "540b5802-3770-4168-b920-1926acb5b862",
+                "image": "549568f2\/17d4\/4dfb\/ac1a\/713e6ab936af.jpg",
+                "stage": "1",
+                "name": "邱其煌",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c0208d-6498-4172-8831-5c5aacb5b862"
+            },
+            {
+                "id": "540b5802-49a8-4589-b5ab-1926acb5b862",
+                "image": "5495686c\/2f14\/4c58\/908a\/712e6ab936af.jpg",
+                "stage": "0",
+                "name": "鄒玉梅",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "0",
+                "name_english": "",
+                "election_id": "53c0208d-6498-4172-8831-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c53-0c04-4c12-a487-5460acb5b862",
+                "name": "苗栗市",
+                "is_area": true,
+                "keywords": "2014,苗栗縣,苗栗市",
+                "AreasElection": {
+                    "id": "53c0208d-25e0-43e0-9445-5c5aacb5b862",
+                    "Election_id": "53c0208d-6498-4172-8831-5c5aacb5b862",
+                    "Area_id": "53c01c53-0c04-4c12-a487-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市長",
+                "lft": "608",
+                "rght": "1031",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0208d-d5f8-4b58-82e9-5c5aacb5b862",
+                "parent_id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "name": "苗栗縣",
+                "lft": "687",
+                "rght": "724",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0208d-6498-4172-8831-5c5aacb5b862",
+                "parent_id": "53c0208d-d5f8-4b58-82e9-5c5aacb5b862",
+                "name": "苗栗市",
+                "lft": "688",
+                "rght": "689",
+                "population": "90936",
+                "population_electors": "71925",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-da38-464e-8917-4187cf91e152",
+                "keywords": "2014-11,鄉鎮市長,苗栗縣,苗栗市"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c020ec-62e4-4afc-a018-5c5aacb5b862",
+            "parent_id": "53c020ec-3d80-4ce6-80ff-5c5aacb5b862",
+            "name": "正義里",
+            "lft": "2881",
+            "rght": "2882",
+            "population": "2553",
+            "population_electors": "2166",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-8608-427b-8558-74a5cf91e152",
+            "keywords": "2014-11,村里長,金門縣,金湖鎮,正義里"
+        },
+        "Candidate": [
+            {
+                "id": "53c028a0-9c94-4a0f-ab97-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "陳偃武",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c020ec-62e4-4afc-a018-5c5aacb5b862"
+            },
+            {
+                "id": "540b5643-9570-4d0a-9218-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "陳和國",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c020ec-62e4-4afc-a018-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01bd4-38c0-4846-8615-5460acb5b862",
+                "name": "正義里",
+                "is_area": true,
+                "keywords": "2014,金門縣,金湖鎮,正義里",
+                "AreasElection": {
+                    "id": "53c020ec-3550-4f97-b0f5-5c5aacb5b862",
+                    "Election_id": "53c020ec-62e4-4afc-a018-5c5aacb5b862",
+                    "Area_id": "53c01bd4-38c0-4846-8615-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020e8-2910-4576-94cc-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "金門縣",
+                "lft": "2841",
+                "rght": "2928",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ec-3d80-4ce6-80ff-5c5aacb5b862",
+                "parent_id": "53c020e8-2910-4576-94cc-5c5aacb5b862",
+                "name": "金湖鎮",
+                "lft": "2878",
+                "rght": "2895",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ec-62e4-4afc-a018-5c5aacb5b862",
+                "parent_id": "53c020ec-3d80-4ce6-80ff-5c5aacb5b862",
+                "name": "正義里",
+                "lft": "2881",
+                "rght": "2882",
+                "population": "2553",
+                "population_electors": "2166",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-8608-427b-8558-74a5cf91e152",
+                "keywords": "2014-11,村里長,金門縣,金湖鎮,正義里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

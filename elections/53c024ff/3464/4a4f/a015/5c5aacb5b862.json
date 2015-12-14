@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c024ff-3464-4a4f-a015-5c5aacb5b862",
+            "parent_id": "53c024ff-e724-48d4-900f-5c5aacb5b862",
+            "name": "成州里",
+            "lft": "16005",
+            "rght": "16006",
+            "population": "6168",
+            "population_electors": "4757",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068c-1ae4-4ef6-a294-1a32cf91e152",
+            "keywords": "2014-11,村里長,新北市,五股區,成州里"
+        },
+        "Candidate": [
+            {
+                "id": "53c026d8-b718-4745-9e2c-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "陳林益",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c024ff-3464-4a4f-a015-5c5aacb5b862"
+            },
+            {
+                "id": "540b536d-5d90-4d80-87c0-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "高聰明",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c024ff-3464-4a4f-a015-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01f4b-2230-4161-8124-5460acb5b862",
+                "name": "成州里",
+                "is_area": true,
+                "keywords": "2014,新北市,五股區,成州里",
+                "AreasElection": {
+                    "id": "53c02500-0a78-4550-913b-5c5aacb5b862",
+                    "Election_id": "53c024ff-3464-4a4f-a015-5c5aacb5b862",
+                    "Area_id": "53c01f4b-2230-4161-8124-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新北市",
+                "lft": "14261",
+                "rght": "16384",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c024ff-e724-48d4-900f-5c5aacb5b862",
+                "parent_id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "name": "五股區",
+                "lft": "15998",
+                "rght": "16039",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c024ff-3464-4a4f-a015-5c5aacb5b862",
+                "parent_id": "53c024ff-e724-48d4-900f-5c5aacb5b862",
+                "name": "成州里",
+                "lft": "16005",
+                "rght": "16006",
+                "population": "6168",
+                "population_electors": "4757",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068c-1ae4-4ef6-a294-1a32cf91e152",
+                "keywords": "2014-11,村里長,新北市,五股區,成州里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

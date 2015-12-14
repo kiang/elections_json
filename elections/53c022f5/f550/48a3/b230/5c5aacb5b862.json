@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c022f5-f550-48a3-b230-5c5aacb5b862",
+            "parent_id": "53c022f4-ff88-4dd8-9bf2-5c5aacb5b862",
+            "name": "城前村",
+            "lft": "9597",
+            "rght": "9598",
+            "population": "119",
+            "population_electors": "102",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068e-cf60-4c13-b6a6-1a32cf91e152",
+            "keywords": "2014-11,村里長,澎湖縣,白沙鄉,城前村"
+        },
+        "Candidate": [
+            {
+                "id": "53c0287b-f91c-448a-bb56-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "蕭整煌",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c022f5-f550-48a3-b230-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01dc9-bcb4-46ad-8860-5460acb5b862",
+                "name": "城前村",
+                "is_area": true,
+                "keywords": "2014,澎湖縣,白沙鄉,城前村",
+                "AreasElection": {
+                    "id": "53c022f5-b6ac-40e0-a167-5c5aacb5b862",
+                    "Election_id": "53c022f5-f550-48a3-b230-5c5aacb5b862",
+                    "Area_id": "53c01dc9-bcb4-46ad-8860-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022eb-48d4-448e-b49d-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "澎湖縣",
+                "lft": "9477",
+                "rght": "9682",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022f4-ff88-4dd8-9bf2-5c5aacb5b862",
+                "parent_id": "53c022eb-48d4-448e-b49d-5c5aacb5b862",
+                "name": "白沙鄉",
+                "lft": "9592",
+                "rght": "9623",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022f5-f550-48a3-b230-5c5aacb5b862",
+                "parent_id": "53c022f4-ff88-4dd8-9bf2-5c5aacb5b862",
+                "name": "城前村",
+                "lft": "9597",
+                "rght": "9598",
+                "population": "119",
+                "population_electors": "102",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068e-cf60-4c13-b6a6-1a32cf91e152",
+                "keywords": "2014-11,村里長,澎湖縣,白沙鄉,城前村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

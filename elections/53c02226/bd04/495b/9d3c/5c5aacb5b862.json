@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02226-bd04-495b-9d3c-5c5aacb5b862",
+            "parent_id": "53c02223-dbd4-4252-afb7-5c5aacb5b862",
+            "name": "梧南村",
+            "lft": "6963",
+            "rght": "6964",
+            "population": "2161",
+            "population_electors": "1759",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54744c85-d268-4f90-9e3e-45dccf91e152",
+            "keywords": "2014-11,村里長,雲林縣,口湖鄉,梧南村"
+        },
+        "Candidate": [
+            {
+                "id": "53c0281a-8860-49ac-ae3c-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "李連傳",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02226-bd04-495b-9d3c-5c5aacb5b862"
+            },
+            {
+                "id": "540b5582-866c-4011-8a4c-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "李明藤",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c02226-bd04-495b-9d3c-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d17-caec-4cb6-a526-5460acb5b862",
+                "name": "梧南村",
+                "is_area": true,
+                "keywords": "2014,雲林縣,口湖鄉,梧南村",
+                "AreasElection": {
+                    "id": "53c02226-f500-45c8-88af-5c5aacb5b862",
+                    "Election_id": "53c02226-bd04-495b-9d3c-5c5aacb5b862",
+                    "Area_id": "53c01d17-caec-4cb6-a526-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "6201",
+                "rght": "7018",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02223-dbd4-4252-afb7-5c5aacb5b862",
+                "parent_id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "name": "口湖鄉",
+                "lft": "6924",
+                "rght": "6967",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02226-bd04-495b-9d3c-5c5aacb5b862",
+                "parent_id": "53c02223-dbd4-4252-afb7-5c5aacb5b862",
+                "name": "梧南村",
+                "lft": "6963",
+                "rght": "6964",
+                "population": "2161",
+                "population_electors": "1759",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54744c85-d268-4f90-9e3e-45dccf91e152",
+                "keywords": "2014-11,村里長,雲林縣,口湖鄉,梧南村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

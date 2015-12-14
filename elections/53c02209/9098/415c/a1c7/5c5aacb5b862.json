@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02209-9098-415c-a1c7-5c5aacb5b862",
+            "parent_id": "53c02208-b920-42e2-bbdf-5c5aacb5b862",
+            "name": "北鎮村",
+            "lft": "6601",
+            "rght": "6602",
+            "population": "823",
+            "population_electors": "667",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546ebd71-3360-44bf-b354-2c67cf91e152",
+            "keywords": "2014-11,村里長,雲林縣,大埤鄉,北鎮村"
+        },
+        "Candidate": [
+            {
+                "id": "53c0280e-ae08-478a-9536-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "蘇寶珠",
+                "party": "無",
+                "gender": "f",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02209-9098-415c-a1c7-5c5aacb5b862"
+            },
+            {
+                "id": "540b556a-2008-4143-8dfe-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "吳三養",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c02209-9098-415c-a1c7-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d00-baf0-43d3-aec7-5460acb5b862",
+                "name": "北鎮村",
+                "is_area": true,
+                "keywords": "2014,雲林縣,大埤鄉,北鎮村",
+                "AreasElection": {
+                    "id": "53c02209-c6a0-4bdd-b36e-5c5aacb5b862",
+                    "Election_id": "53c02209-9098-415c-a1c7-5c5aacb5b862",
+                    "Area_id": "53c01d00-baf0-43d3-aec7-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "6201",
+                "rght": "7018",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02208-b920-42e2-bbdf-5c5aacb5b862",
+                "parent_id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "name": "大埤鄉",
+                "lft": "6578",
+                "rght": "6609",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02209-9098-415c-a1c7-5c5aacb5b862",
+                "parent_id": "53c02208-b920-42e2-bbdf-5c5aacb5b862",
+                "name": "北鎮村",
+                "lft": "6601",
+                "rght": "6602",
+                "population": "823",
+                "population_electors": "667",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546ebd71-3360-44bf-b354-2c67cf91e152",
+                "keywords": "2014-11,村里長,雲林縣,大埤鄉,北鎮村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

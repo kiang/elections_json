@@ -1,0 +1,130 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c41024-be88-4737-a5af-6f55acb5b862",
+            "parent_id": "53c02082-2c78-4b49-a547-5c5aacb5b862",
+            "name": "第05選區[區域]",
+            "lft": "334",
+            "rght": "335",
+            "population": "24476",
+            "population_electors": "20243",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-3890-4b65-8d11-2adbcf91e152",
+            "keywords": "2014-11,縣市議員,宜蘭縣,第05選區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "53c68f6f-7c7c-4d5a-b19e-0f15acb5b862",
+                "image": "54942124\/09e0\/4d2a\/b6d8\/361f6ab936af.jpg",
+                "stage": "2",
+                "name": "陳福山",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "Chen Fu San",
+                "election_id": "53c41024-be88-4737-a5af-6f55acb5b862"
+            },
+            {
+                "id": "53c68f6f-c3f8-467f-bce8-0f15acb5b862",
+                "image": "549420b5\/0e98\/490f\/a822\/362a6ab936af.jpg",
+                "stage": "1",
+                "name": "林水金",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "3",
+                "name_english": "LIN SHUI CHING",
+                "election_id": "53c41024-be88-4737-a5af-6f55acb5b862"
+            },
+            {
+                "id": "540b56be-4d14-4bed-971f-1926acb5b862",
+                "image": "549420e2\/024c\/48bd\/b6c8\/36226ab936af.jpg",
+                "stage": "2",
+                "name": "黃建勇",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "HUANG CHIEN YUNG",
+                "election_id": "53c41024-be88-4737-a5af-6f55acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01be8-2db4-4bac-ba49-5460acb5b862",
+                "name": "壯圍鄉",
+                "is_area": true,
+                "keywords": "2014,宜蘭縣,壯圍鄉",
+                "AreasElection": {
+                    "id": "53c41025-86ac-4a26-8fd5-6f55acb5b862",
+                    "Election_id": "53c41024-be88-4737-a5af-6f55acb5b862",
+                    "Area_id": "53c01be8-2db4-4bac-ba49-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "縣市議員",
+                "lft": "306",
+                "rght": "607",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02082-2c78-4b49-a547-5c5aacb5b862",
+                "parent_id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "name": "宜蘭縣",
+                "lft": "325",
+                "rght": "352",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c41024-be88-4737-a5af-6f55acb5b862",
+                "parent_id": "53c02082-2c78-4b49-a547-5c5aacb5b862",
+                "name": "第05選區[區域]",
+                "lft": "334",
+                "rght": "335",
+                "population": "24476",
+                "population_electors": "20243",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-3890-4b65-8d11-2adbcf91e152",
+                "keywords": "2014-11,縣市議員,宜蘭縣,第05選區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

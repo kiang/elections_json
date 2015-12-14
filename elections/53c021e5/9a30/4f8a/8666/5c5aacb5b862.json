@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c021e5-9a30-4f8a-8666-5c5aacb5b862",
+            "parent_id": "53c021e4-5858-45b3-9327-5c5aacb5b862",
+            "name": "北埔村",
+            "lft": "6111",
+            "rght": "6112",
+            "population": "1204",
+            "population_electors": "989",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54735d55-8e44-479e-8006-21eacf91e152",
+            "keywords": "2014-11,村里長,南投縣,水里鄉,北埔村"
+        },
+        "Candidate": [
+            {
+                "id": "53c027f9-e36c-42b5-a4aa-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "楊偉如",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "YANG WEI JU",
+                "election_id": "53c021e5-9a30-4f8a-8666-5c5aacb5b862"
+            },
+            {
+                "id": "540b554c-a47c-4466-ab5c-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "林志演",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c021e5-9a30-4f8a-8666-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01ce2-8328-4ce5-949f-5460acb5b862",
+                "name": "北埔村",
+                "is_area": true,
+                "keywords": "2014,南投縣,水里鄉,北埔村",
+                "AreasElection": {
+                    "id": "53c021e5-f514-43da-8172-5c5aacb5b862",
+                    "Election_id": "53c021e5-9a30-4f8a-8666-5c5aacb5b862",
+                    "Area_id": "53c01ce2-8328-4ce5-949f-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "南投縣",
+                "lft": "5649",
+                "rght": "6200",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021e4-5858-45b3-9327-5c5aacb5b862",
+                "parent_id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "name": "水里鄉",
+                "lft": "6096",
+                "rght": "6135",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021e5-9a30-4f8a-8666-5c5aacb5b862",
+                "parent_id": "53c021e4-5858-45b3-9327-5c5aacb5b862",
+                "name": "北埔村",
+                "lft": "6111",
+                "rght": "6112",
+                "population": "1204",
+                "population_electors": "989",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54735d55-8e44-479e-8006-21eacf91e152",
+                "keywords": "2014-11,村里長,南投縣,水里鄉,北埔村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

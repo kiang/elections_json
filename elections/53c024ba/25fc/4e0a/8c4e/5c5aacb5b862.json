@@ -1,0 +1,145 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c024ba-25fc-4e0a-8c4e-5c5aacb5b862",
+            "parent_id": "53c024ae-aed4-4408-9bc7-5c5aacb5b862",
+            "name": "昌平里",
+            "lft": "15203",
+            "rght": "15204",
+            "population": "5051",
+            "population_electors": "3953",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068c-4e90-45c6-9f96-1a32cf91e152",
+            "keywords": "2014-11,村里長,新北市,新莊區,昌平里"
+        },
+        "Candidate": [
+            {
+                "id": "53c026bc-1414-482c-89e5-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "陳德明",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "CHEN Ten ming",
+                "election_id": "53c024ba-25fc-4e0a-8c4e-5c5aacb5b862"
+            },
+            {
+                "id": "540b5345-3928-4f63-b0ac-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "周阿換",
+                "party": "無",
+                "gender": "f",
+                "no": "3",
+                "name_english": "CHOU A HUAN",
+                "election_id": "53c024ba-25fc-4e0a-8c4e-5c5aacb5b862"
+            },
+            {
+                "id": "540b5345-8f1c-4a5c-9d44-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "藍玉鳳",
+                "party": "無",
+                "gender": "f",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c024ba-25fc-4e0a-8c4e-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01f13-6f3c-418a-89c0-5460acb5b862",
+                "name": "昌平里",
+                "is_area": true,
+                "keywords": "2014,新北市,新莊區,昌平里",
+                "AreasElection": {
+                    "id": "53c024ba-6f4c-44ea-bbc1-5c5aacb5b862",
+                    "Election_id": "53c024ba-25fc-4e0a-8c4e-5c5aacb5b862",
+                    "Area_id": "53c01f13-6f3c-418a-89c0-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新北市",
+                "lft": "14261",
+                "rght": "16384",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c024ae-aed4-4408-9bc7-5c5aacb5b862",
+                "parent_id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "name": "新莊區",
+                "lft": "15070",
+                "rght": "15239",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c024ba-25fc-4e0a-8c4e-5c5aacb5b862",
+                "parent_id": "53c024ae-aed4-4408-9bc7-5c5aacb5b862",
+                "name": "昌平里",
+                "lft": "15203",
+                "rght": "15204",
+                "population": "5051",
+                "population_electors": "3953",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068c-4e90-45c6-9f96-1a32cf91e152",
+                "keywords": "2014-11,村里長,新北市,新莊區,昌平里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

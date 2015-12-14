@@ -1,0 +1,145 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c021c5-ccf0-4678-937b-5c5aacb5b862",
+            "parent_id": "53c021c1-69c4-437a-95a1-5c5aacb5b862",
+            "name": "光華里",
+            "lft": "5709",
+            "rght": "5710",
+            "population": "1176",
+            "population_electors": "993",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54735d55-0c70-432c-aaea-21eacf91e152",
+            "keywords": "2014-11,村里長,南投縣,南投市,光華里"
+        },
+        "Candidate": [
+            {
+                "id": "53c027e9-1b20-4380-a940-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "王淑美",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "3",
+                "name_english": "WANG SHU MEI",
+                "election_id": "53c021c5-ccf0-4678-937b-5c5aacb5b862"
+            },
+            {
+                "id": "540b5536-2d84-4bec-a393-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "莊庭樂",
+                "party": "無",
+                "gender": "f",
+                "no": "1",
+                "name_english": "Juang TinGle Leh",
+                "election_id": "53c021c5-ccf0-4678-937b-5c5aacb5b862"
+            },
+            {
+                "id": "540b5536-d0cc-4e0b-ab5c-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "江明聰",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "Chiang ming tsung",
+                "election_id": "53c021c5-ccf0-4678-937b-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01cca-93cc-4dcb-8192-5460acb5b862",
+                "name": "光華里",
+                "is_area": true,
+                "keywords": "2014,南投縣,南投市,光華里",
+                "AreasElection": {
+                    "id": "53c021c5-3af8-45ab-8fee-5c5aacb5b862",
+                    "Election_id": "53c021c5-ccf0-4678-937b-5c5aacb5b862",
+                    "Area_id": "53c01cca-93cc-4dcb-8192-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "南投縣",
+                "lft": "5649",
+                "rght": "6200",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021c1-69c4-437a-95a1-5c5aacb5b862",
+                "parent_id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "name": "南投市",
+                "lft": "5650",
+                "rght": "5719",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021c5-ccf0-4678-937b-5c5aacb5b862",
+                "parent_id": "53c021c1-69c4-437a-95a1-5c5aacb5b862",
+                "name": "光華里",
+                "lft": "5709",
+                "rght": "5710",
+                "population": "1176",
+                "population_electors": "993",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54735d55-0c70-432c-aaea-21eacf91e152",
+                "keywords": "2014-11,村里長,南投縣,南投市,光華里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0235c-d25c-4d83-88d4-5c5aacb5b862",
+            "parent_id": "53c02356-ffa8-4707-8ead-5c5aacb5b862",
+            "name": "富豐里",
+            "lft": "10903",
+            "rght": "10904",
+            "population": "3270",
+            "population_electors": "2582",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-9754-4500-b8e8-1a32cf91e152",
+            "keywords": "2014-11,村里長,桃園市,楊梅區,富豐里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0277a-ee44-461c-99d8-5dffacb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "徐石全",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c0235c-d25c-4d83-88d4-5c5aacb5b862"
+            },
+            {
+                "id": "540b5398-f208-477e-84a5-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "曾增有",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "TZENG TZENG YEOU",
+                "election_id": "53c0235c-d25c-4d83-88d4-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c15-efb0-4501-8b30-5460acb5b862",
+                "name": "富豐里",
+                "is_area": true,
+                "keywords": "2014,桃園市,楊梅區,富豐里",
+                "AreasElection": {
+                    "id": "53c0235c-0bc8-413e-ab0f-5c5aacb5b862",
+                    "Election_id": "53c0235c-d25c-4d83-88d4-5c5aacb5b862",
+                    "Area_id": "53c01c15-efb0-4501-8b30-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "桃園市",
+                "lft": "10439",
+                "rght": "11456",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02356-ffa8-4707-8ead-5c5aacb5b862",
+                "parent_id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "name": "楊梅區",
+                "lft": "10822",
+                "rght": "10905",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0235c-d25c-4d83-88d4-5c5aacb5b862",
+                "parent_id": "53c02356-ffa8-4707-8ead-5c5aacb5b862",
+                "name": "富豐里",
+                "lft": "10903",
+                "rght": "10904",
+                "population": "3270",
+                "population_electors": "2582",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-9754-4500-b8e8-1a32cf91e152",
+                "keywords": "2014-11,村里長,桃園市,楊梅區,富豐里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

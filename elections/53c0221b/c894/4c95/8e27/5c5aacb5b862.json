@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0221b-c894-4c95-8e27-5c5aacb5b862",
+            "parent_id": "53c0221a-b938-49e0-9bfa-5c5aacb5b862",
+            "name": "山寮村",
+            "lft": "6825",
+            "rght": "6826",
+            "population": "1010",
+            "population_electors": "859",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546ec148-ad1c-4bf1-a309-2e05cf91e152",
+            "keywords": "2014-11,村里長,雲林縣,臺西鄉,山寮村"
+        },
+        "Candidate": [
+            {
+                "id": "540b5579-c934-4a6c-bda2-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "林炎川",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c0221b-c894-4c95-8e27-5c5aacb5b862"
+            },
+            {
+                "id": "540b5579-f72c-45ca-aaa3-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "丁曜清",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c0221b-c894-4c95-8e27-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d0e-78fc-4e12-986f-5460acb5b862",
+                "name": "山寮村",
+                "is_area": true,
+                "keywords": "2014,雲林縣,臺西鄉,山寮村",
+                "AreasElection": {
+                    "id": "53c0221b-a6b4-494d-950c-5c5aacb5b862",
+                    "Election_id": "53c0221b-c894-4c95-8e27-5c5aacb5b862",
+                    "Area_id": "53c01d0e-78fc-4e12-986f-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "6201",
+                "rght": "7018",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0221a-b938-49e0-9bfa-5c5aacb5b862",
+                "parent_id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "name": "臺西鄉",
+                "lft": "6804",
+                "rght": "6835",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0221b-c894-4c95-8e27-5c5aacb5b862",
+                "parent_id": "53c0221a-b938-49e0-9bfa-5c5aacb5b862",
+                "name": "山寮村",
+                "lft": "6825",
+                "rght": "6826",
+                "population": "1010",
+                "population_electors": "859",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546ec148-ad1c-4bf1-a309-2e05cf91e152",
+                "keywords": "2014-11,村里長,雲林縣,臺西鄉,山寮村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

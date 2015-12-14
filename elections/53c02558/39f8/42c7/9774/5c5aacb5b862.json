@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02558-39f8-42c7-9774-5c5aacb5b862",
+            "parent_id": "53c02557-f2ec-4bd9-8f8c-5c5aacb5b862",
+            "name": "平安里",
+            "lft": "16959",
+            "rght": "16960",
+            "population": "2800",
+            "population_electors": "2022",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c6157-5888-43b0-bbfc-573fcf91e152",
+            "keywords": "2014-11,村里長,臺中市,大甲區,平安里"
+        },
+        "Candidate": [
+            {
+                "id": "53c026fd-1554-4b3d-a0d8-5dffacb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "高富雄",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "KAO FU HSIUNG",
+                "election_id": "53c02558-39f8-42c7-9774-5c5aacb5b862"
+            },
+            {
+                "id": "540b53d9-3b14-418a-8a23-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "周寶惜",
+                "party": "無",
+                "gender": "f",
+                "no": "1",
+                "name_english": "CHOU PAO HSI",
+                "election_id": "53c02558-39f8-42c7-9774-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01f8e-0638-4ebd-9349-5460acb5b862",
+                "name": "平安里",
+                "is_area": true,
+                "keywords": "2014,臺中市,大甲區,平安里",
+                "AreasElection": {
+                    "id": "53c02558-c8d0-4992-8045-5c5aacb5b862",
+                    "Election_id": "53c02558-39f8-42c7-9774-5c5aacb5b862",
+                    "Area_id": "53c01f8e-0638-4ebd-9349-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02557-f2ec-4bd9-8f8c-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "大甲區",
+                "lft": "16956",
+                "rght": "17015",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02558-39f8-42c7-9774-5c5aacb5b862",
+                "parent_id": "53c02557-f2ec-4bd9-8f8c-5c5aacb5b862",
+                "name": "平安里",
+                "lft": "16959",
+                "rght": "16960",
+                "population": "2800",
+                "population_electors": "2022",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c6157-5888-43b0-bbfc-573fcf91e152",
+                "keywords": "2014-11,村里長,臺中市,大甲區,平安里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

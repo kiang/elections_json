@@ -1,0 +1,200 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d73446-d1e0-4457-9151-1299acb5b862",
+            "parent_id": "53c020d3-c760-4513-b616-5c5aacb5b862",
+            "name": "第04選舉區[區域]",
+            "lft": "2271",
+            "rght": "2272",
+            "population": "3828",
+            "population_electors": "3129",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "5475673a-c3ec-4126-b3b7-0f78cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,屏東縣,九如鄉,第04選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b578f-0560-4b36-ba92-1926acb5b862",
+                "image": "54d61181\/71cc\/42fd\/9348\/32f76ab936af.jpg",
+                "stage": "1",
+                "name": "曾忠欽",
+                "party": "無",
+                "gender": "m",
+                "no": "6",
+                "name_english": "",
+                "election_id": "53d73446-d1e0-4457-9151-1299acb5b862"
+            },
+            {
+                "id": "540b578f-3cd4-4686-8efc-1926acb5b862",
+                "image": "54d6113b\/7728\/49cb\/8387\/32ed6ab936af.jpg",
+                "stage": "1",
+                "name": "曾聯茂",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "Tseng Lienmao",
+                "election_id": "53d73446-d1e0-4457-9151-1299acb5b862"
+            },
+            {
+                "id": "540b578f-7b24-433a-8a72-1926acb5b862",
+                "image": "54d6106e\/d43c\/411a\/bcb2\/1be86ab936af.jpg",
+                "stage": "2",
+                "name": "藍聰信",
+                "party": "無",
+                "gender": "m",
+                "no": "4",
+                "name_english": "",
+                "election_id": "53d73446-d1e0-4457-9151-1299acb5b862"
+            },
+            {
+                "id": "540b5790-7bc0-4995-a629-1926acb5b862",
+                "image": "54d6115d\/c8ec\/45b5\/93c5\/32f76ab936af.jpg",
+                "stage": "1",
+                "name": "郭春滿",
+                "party": "無",
+                "gender": "f",
+                "no": "5",
+                "name_english": "",
+                "election_id": "53d73446-d1e0-4457-9151-1299acb5b862"
+            },
+            {
+                "id": "540b5790-b858-4c4b-99c4-1926acb5b862",
+                "image": "54d61113\/c75c\/4455\/88a6\/31776ab936af.jpg",
+                "stage": "1",
+                "name": "錢林秋敏",
+                "party": "無",
+                "gender": "f",
+                "no": "2",
+                "name_english": "CIAN LIN CIOU MING",
+                "election_id": "53d73446-d1e0-4457-9151-1299acb5b862"
+            },
+            {
+                "id": "540b5790-bf00-4108-9631-1926acb5b862",
+                "image": "54d610de\/fa7c\/4760\/95b4\/1be86ab936af.jpg",
+                "stage": "2",
+                "name": "吳堡鎮",
+                "party": "無",
+                "gender": "m",
+                "no": "7",
+                "name_english": "",
+                "election_id": "53d73446-d1e0-4457-9151-1299acb5b862"
+            },
+            {
+                "id": "540b5790-cc3c-4edf-a242-1926acb5b862",
+                "image": "54d610fd\/9ccc\/4e8c\/8ad6\/1d786ab936af.jpg",
+                "stage": "1",
+                "name": "盧恩行",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d73446-d1e0-4457-9151-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d6c-6d6c-4ef2-a40b-5460acb5b862",
+                "name": "洽興村",
+                "is_area": true,
+                "keywords": "2014,屏東縣,九如鄉,洽興村",
+                "AreasElection": {
+                    "id": "53d73446-cab8-4043-9b46-1299acb5b862",
+                    "Election_id": "53d73446-d1e0-4457-9151-1299acb5b862",
+                    "Area_id": "53c01d6c-6d6c-4ef2-a40b-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d6c-83a0-43d7-979e-5460acb5b862",
+                "name": "後庄村",
+                "is_area": true,
+                "keywords": "2014,屏東縣,九如鄉,後庄村",
+                "AreasElection": {
+                    "id": "53d73446-85d4-4dd2-98b4-1299acb5b862",
+                    "Election_id": "53d73446-d1e0-4457-9151-1299acb5b862",
+                    "Area_id": "53c01d6c-83a0-43d7-979e-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ce-0798-4ae9-af49-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "2197",
+                "rght": "2484",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020d3-c760-4513-b616-5c5aacb5b862",
+                "parent_id": "53c020ce-0798-4ae9-af49-5c5aacb5b862",
+                "name": "九如鄉",
+                "lft": "2264",
+                "rght": "2273",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d73446-d1e0-4457-9151-1299acb5b862",
+                "parent_id": "53c020d3-c760-4513-b616-5c5aacb5b862",
+                "name": "第04選舉區[區域]",
+                "lft": "2271",
+                "rght": "2272",
+                "population": "3828",
+                "population_electors": "3129",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "5475673a-c3ec-4126-b3b7-0f78cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,屏東縣,九如鄉,第04選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

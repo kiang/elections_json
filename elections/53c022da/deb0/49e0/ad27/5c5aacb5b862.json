@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c022da-deb0-49e0-ad27-5c5aacb5b862",
+            "parent_id": "53c022d8-ac24-4363-ab09-5c5aacb5b862",
+            "name": "仁里村",
+            "lft": "9291",
+            "rght": "9292",
+            "population": "6917",
+            "population_electors": "5747",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546d8db9-ae04-4022-86ce-0e51cf91e152",
+            "keywords": "2014-11,村里長,花蓮縣,吉安鄉,仁里村"
+        },
+        "Candidate": [
+            {
+                "id": "53c02870-30a8-4ff5-b033-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "楊昇達",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c022da-deb0-49e0-ad27-5c5aacb5b862"
+            },
+            {
+                "id": "540b5612-8750-4b9d-ac69-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "陳蓬生",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c022da-deb0-49e0-ad27-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01db6-0da4-4ff8-a576-5460acb5b862",
+                "name": "仁里村",
+                "is_area": true,
+                "keywords": "2014,花蓮縣,吉安鄉,仁里村",
+                "AreasElection": {
+                    "id": "53c022db-1308-491c-a1e4-5c5aacb5b862",
+                    "Election_id": "53c022da-deb0-49e0-ad27-5c5aacb5b862",
+                    "Area_id": "53c01db6-0da4-4ff8-a576-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022cb-ff18-4c61-98a3-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "花蓮縣",
+                "lft": "9095",
+                "rght": "9476",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022d8-ac24-4363-ab09-5c5aacb5b862",
+                "parent_id": "53c022cb-ff18-4c61-98a3-5c5aacb5b862",
+                "name": "吉安鄉",
+                "lft": "9264",
+                "rght": "9301",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022da-deb0-49e0-ad27-5c5aacb5b862",
+                "parent_id": "53c022d8-ac24-4363-ab09-5c5aacb5b862",
+                "name": "仁里村",
+                "lft": "9291",
+                "rght": "9292",
+                "population": "6917",
+                "population_electors": "5747",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546d8db9-ae04-4022-86ce-0e51cf91e152",
+                "keywords": "2014-11,村里長,花蓮縣,吉安鄉,仁里村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

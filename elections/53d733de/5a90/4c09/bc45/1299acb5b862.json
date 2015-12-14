@@ -1,0 +1,156 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d733de-5a90-4c09-bc45-1299acb5b862",
+            "parent_id": "53c020c8-c5d4-451b-a686-5c5aacb5b862",
+            "name": "第03選舉區[區域]",
+            "lft": "2019",
+            "rght": "2020",
+            "population": "4010",
+            "population_electors": "3354",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "546ebce3-7828-4717-8502-2b96cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,雲林縣,臺西鄉,第03選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b5760-e924-48d1-bffd-1926acb5b862",
+                "image": "54c25ed7\/eff0\/4dc6\/aea3\/72146ab936af.jpg",
+                "stage": "2",
+                "name": "林天祥",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "LIN TIEN HSIANG",
+                "election_id": "53d733de-5a90-4c09-bc45-1299acb5b862"
+            },
+            {
+                "id": "540b5761-3f10-4cdc-9515-1926acb5b862",
+                "image": "54c25f82\/5158\/4f30\/acc5\/72426ab936af.jpg",
+                "stage": "1",
+                "name": "林水生",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53d733de-5a90-4c09-bc45-1299acb5b862"
+            },
+            {
+                "id": "540b5761-8d70-4d4a-b06a-1926acb5b862",
+                "image": "54c25e31\/a8e0\/457a\/9134\/71e86ab936af.jpg",
+                "stage": "2",
+                "name": "吳俊德",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "WU CHUN TE",
+                "election_id": "53d733de-5a90-4c09-bc45-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d0e-ed3c-40e4-a289-5460acb5b862",
+                "name": "富琦村",
+                "is_area": true,
+                "keywords": "2014,雲林縣,臺西鄉,富琦村",
+                "AreasElection": {
+                    "id": "53d733de-ff80-4cb6-be60-1299acb5b862",
+                    "Election_id": "53d733de-5a90-4c09-bc45-1299acb5b862",
+                    "Area_id": "53c01d0e-ed3c-40e4-a289-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d0e-fb1c-4204-947c-5460acb5b862",
+                "name": "五港村",
+                "is_area": true,
+                "keywords": "2014,雲林縣,臺西鄉,五港村",
+                "AreasElection": {
+                    "id": "53d733de-a4e0-451a-a50e-1299acb5b862",
+                    "Election_id": "53d733de-5a90-4c09-bc45-1299acb5b862",
+                    "Area_id": "53c01d0e-fb1c-4204-947c-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020c5-1718-4aea-8b3b-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "1865",
+                "rght": "2062",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020c8-c5d4-451b-a686-5c5aacb5b862",
+                "parent_id": "53c020c5-1718-4aea-8b3b-5c5aacb5b862",
+                "name": "臺西鄉",
+                "lft": "2014",
+                "rght": "2023",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d733de-5a90-4c09-bc45-1299acb5b862",
+                "parent_id": "53c020c8-c5d4-451b-a686-5c5aacb5b862",
+                "name": "第03選舉區[區域]",
+                "lft": "2019",
+                "rght": "2020",
+                "population": "4010",
+                "population_electors": "3354",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "546ebce3-7828-4717-8502-2b96cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,雲林縣,臺西鄉,第03選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

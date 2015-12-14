@@ -1,0 +1,130 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c4009a-56c4-48d5-8f50-6cceacb5b862",
+            "parent_id": "53c0207e-1efc-4871-a931-5c5aacb5b862",
+            "name": "第12選區[山地]",
+            "lft": "120",
+            "rght": "121",
+            "population": "3961374",
+            "population_electors": "3173136",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-88cc-41b1-8684-74a5cf91e152",
+            "keywords": "2014-11,直轄市議員,新北市,第12選區[山地]"
+        },
+        "Candidate": [
+            {
+                "id": "53c68fa8-b6a0-45e6-84d3-0f15acb5b862",
+                "image": "56336ec5\/4620\/4319\/a3a2\/06136ab936af.jpg",
+                "stage": "2",
+                "name": "王建章",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "Wang Chien Chang",
+                "election_id": "53c4009a-56c4-48d5-8f50-6cceacb5b862"
+            },
+            {
+                "id": "540b5683-40b4-4780-8170-1926acb5b862",
+                "image": "56337dfe\/3360\/4004\/967c\/2f616ab936af.jpg",
+                "stage": "1",
+                "name": "寶杜巴燕Bawtu．Payen",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "Bawtu Payen",
+                "election_id": "53c4009a-56c4-48d5-8f50-6cceacb5b862"
+            },
+            {
+                "id": "540b5683-636c-4562-bd31-1926acb5b862",
+                "image": "56337d08\/7108\/4e87\/be5f\/06136ab936af.jpg",
+                "stage": "1",
+                "name": "陳勝榮",
+                "party": "親民黨",
+                "gender": "m",
+                "no": "3",
+                "name_english": "Chen Shen Zung",
+                "election_id": "53c4009a-56c4-48d5-8f50-6cceacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01ec7-67b4-4aa7-92a1-5460acb5b862",
+                "name": "新北市",
+                "is_area": true,
+                "keywords": "2014,新北市",
+                "AreasElection": {
+                    "id": "53fb79e8-3b68-4ddf-99d0-7f66acb5b862",
+                    "Election_id": "53c4009a-56c4-48d5-8f50-6cceacb5b862",
+                    "Area_id": "53c01ec7-67b4-4aa7-92a1-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207e-1efc-4871-a931-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "新北市",
+                "lft": "97",
+                "rght": "122",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c4009a-56c4-48d5-8f50-6cceacb5b862",
+                "parent_id": "53c0207e-1efc-4871-a931-5c5aacb5b862",
+                "name": "第12選區[山地]",
+                "lft": "120",
+                "rght": "121",
+                "population": "3961374",
+                "population_electors": "3173136",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-88cc-41b1-8684-74a5cf91e152",
+                "keywords": "2014-11,直轄市議員,新北市,第12選區[山地]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

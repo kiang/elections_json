@@ -1,0 +1,178 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d7348c-2364-4cbb-a3fc-1299acb5b862",
+            "parent_id": "53c020da-329c-4f38-8c42-5c5aacb5b862",
+            "name": "第02選舉區[區域]",
+            "lft": "2517",
+            "rght": "2518",
+            "population": "4718",
+            "population_electors": "3914",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "546f277f-4368-45e4-a714-2f28cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,臺東縣,卑南鄉,第02選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b57e3-2e0c-4d56-89fa-1926acb5b862",
+                "image": "54b24963\/a8c0\/4351\/b3c4\/163b6ab936af.jpg",
+                "stage": "2",
+                "name": "廖忠聖",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d7348c-2364-4cbb-a3fc-1299acb5b862"
+            },
+            {
+                "id": "540b57e3-82d8-401a-bba9-1926acb5b862",
+                "image": "54b24912\/8b04\/4b86\/83ed\/16246ab936af.jpg",
+                "stage": "1",
+                "name": "廖聰和",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53d7348c-2364-4cbb-a3fc-1299acb5b862"
+            },
+            {
+                "id": "540b57e3-bd18-4e6c-95bd-1926acb5b862",
+                "image": "54b24947\/aa98\/4b6e\/b7d5\/16356ab936af.jpg",
+                "stage": "2",
+                "name": "楊招信",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53d7348c-2364-4cbb-a3fc-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d9d-b068-4b20-91d9-5460acb5b862",
+                "name": "嘉豐村",
+                "is_area": true,
+                "keywords": "2014,臺東縣,卑南鄉,嘉豐村",
+                "AreasElection": {
+                    "id": "53d7348c-681c-4cb9-9aab-1299acb5b862",
+                    "Election_id": "53d7348c-2364-4cbb-a3fc-1299acb5b862",
+                    "Area_id": "53c01d9d-b068-4b20-91d9-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d9e-7558-40fa-aa85-5460acb5b862",
+                "name": "明峰村",
+                "is_area": true,
+                "keywords": "2014,臺東縣,卑南鄉,明峰村",
+                "AreasElection": {
+                    "id": "53d7348c-44d0-4c39-989e-1299acb5b862",
+                    "Election_id": "53d7348c-2364-4cbb-a3fc-1299acb5b862",
+                    "Area_id": "53c01d9e-7558-40fa-aa85-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d9e-9988-42a0-a5cc-5460acb5b862",
+                "name": "初鹿村",
+                "is_area": true,
+                "keywords": "2014,臺東縣,卑南鄉,初鹿村",
+                "AreasElection": {
+                    "id": "53d7348c-3bb4-4abd-8a7f-1299acb5b862",
+                    "Election_id": "53d7348c-2364-4cbb-a3fc-1299acb5b862",
+                    "Area_id": "53c01d9e-9988-42a0-a5cc-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d9e-ad90-41c9-838a-5460acb5b862",
+                "name": "美農村",
+                "is_area": true,
+                "keywords": "2014,臺東縣,卑南鄉,美農村",
+                "AreasElection": {
+                    "id": "53d7348c-4c5c-41be-b323-1299acb5b862",
+                    "Election_id": "53d7348c-2364-4cbb-a3fc-1299acb5b862",
+                    "Area_id": "53c01d9e-ad90-41c9-838a-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020d9-a97c-4d95-809d-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "臺東縣",
+                "lft": "2485",
+                "rght": "2612",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020da-329c-4f38-8c42-5c5aacb5b862",
+                "parent_id": "53c020d9-a97c-4d95-809d-5c5aacb5b862",
+                "name": "卑南鄉",
+                "lft": "2514",
+                "rght": "2521",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d7348c-2364-4cbb-a3fc-1299acb5b862",
+                "parent_id": "53c020da-329c-4f38-8c42-5c5aacb5b862",
+                "name": "第02選舉區[區域]",
+                "lft": "2517",
+                "rght": "2518",
+                "population": "4718",
+                "population_electors": "3914",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "546f277f-4368-45e4-a714-2f28cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,臺東縣,卑南鄉,第02選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

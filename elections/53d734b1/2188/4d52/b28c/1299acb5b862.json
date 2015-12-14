@@ -1,0 +1,200 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d734b1-2188-4d52-b28c-1299acb5b862",
+            "parent_id": "53c020dd-2b84-4fad-b06a-5c5aacb5b862",
+            "name": "第02選舉區[區域]",
+            "lft": "2649",
+            "rght": "2650",
+            "population": "10439",
+            "population_electors": "8333",
+            "quota": "4",
+            "quota_women": "1",
+            "bulletin_key": "546d8dba-a3b8-45e6-84ec-0e51cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,花蓮縣,新城鄉,第02選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b57ce-1094-4f4f-b97a-1926acb5b862",
+                "image": "54b5130b\/c580\/413a\/8af5\/29da6ab936af.jpg",
+                "stage": "1",
+                "name": "鄭瑞榮",
+                "party": "無",
+                "gender": "m",
+                "no": "6",
+                "name_english": "",
+                "election_id": "53d734b1-2188-4d52-b28c-1299acb5b862"
+            },
+            {
+                "id": "540b57ce-1aac-470e-ac40-1926acb5b862",
+                "image": "54b512a2\/016c\/4ba9\/812c\/297a6ab936af.jpg",
+                "stage": "1",
+                "name": "林國賢",
+                "party": "無",
+                "gender": "m",
+                "no": "4",
+                "name_english": "",
+                "election_id": "53d734b1-2188-4d52-b28c-1299acb5b862"
+            },
+            {
+                "id": "540b57ce-2ca8-483e-8186-1926acb5b862",
+                "image": "54b511fd\/1530\/44af\/9ead\/297a6ab936af.jpg",
+                "stage": "2",
+                "name": "陳秀玲",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53d734b1-2188-4d52-b28c-1299acb5b862"
+            },
+            {
+                "id": "540b57ce-3dac-44d8-9625-1926acb5b862",
+                "image": "54b512d8\/369c\/4891\/99e1\/29666ab936af.jpg",
+                "stage": "2",
+                "name": "鄭寶秀",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "5",
+                "name_english": "",
+                "election_id": "53d734b1-2188-4d52-b28c-1299acb5b862"
+            },
+            {
+                "id": "540b57ce-8e44-4a77-8608-1926acb5b862",
+                "image": "54b51269\/528c\/408c\/b031\/29a76ab936af.jpg",
+                "stage": "2",
+                "name": "郭彩寶",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53d734b1-2188-4d52-b28c-1299acb5b862"
+            },
+            {
+                "id": "540b57ce-e0a0-4070-ba43-1926acb5b862",
+                "image": "54b51189\/db80\/4cea\/bc56\/28e36ab936af.jpg",
+                "stage": "2",
+                "name": "鄧可平",
+                "party": "無",
+                "gender": "f",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d734b1-2188-4d52-b28c-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01db3-4c84-43c4-a4f2-5460acb5b862",
+                "name": "康樂村",
+                "is_area": true,
+                "keywords": "2014,花蓮縣,新城鄉,康樂村",
+                "AreasElection": {
+                    "id": "53d734b2-f544-4727-9d75-1299acb5b862",
+                    "Election_id": "53d734b1-2188-4d52-b28c-1299acb5b862",
+                    "Area_id": "53c01db3-4c84-43c4-a4f2-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01db4-2798-475d-a763-5460acb5b862",
+                "name": "大漢村",
+                "is_area": true,
+                "keywords": "2014,花蓮縣,新城鄉,大漢村",
+                "AreasElection": {
+                    "id": "53d734b2-a678-4a96-94e8-1299acb5b862",
+                    "Election_id": "53d734b1-2188-4d52-b28c-1299acb5b862",
+                    "Area_id": "53c01db4-2798-475d-a763-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01db4-65e8-4724-abc1-5460acb5b862",
+                "name": "北埔村",
+                "is_area": true,
+                "keywords": "2014,花蓮縣,新城鄉,北埔村",
+                "AreasElection": {
+                    "id": "53d734b2-49a4-4786-84f2-1299acb5b862",
+                    "Election_id": "53d734b1-2188-4d52-b28c-1299acb5b862",
+                    "Area_id": "53c01db4-65e8-4724-abc1-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020dc-5200-4b0d-8494-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "花蓮縣",
+                "lft": "2613",
+                "rght": "2730",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020dd-2b84-4fad-b06a-5c5aacb5b862",
+                "parent_id": "53c020dc-5200-4b0d-8494-5c5aacb5b862",
+                "name": "新城鄉",
+                "lft": "2646",
+                "rght": "2655",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d734b1-2188-4d52-b28c-1299acb5b862",
+                "parent_id": "53c020dd-2b84-4fad-b06a-5c5aacb5b862",
+                "name": "第02選舉區[區域]",
+                "lft": "2649",
+                "rght": "2650",
+                "population": "10439",
+                "population_electors": "8333",
+                "quota": "4",
+                "quota_women": "1",
+                "bulletin_key": "546d8dba-a3b8-45e6-84ec-0e51cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,花蓮縣,新城鄉,第02選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

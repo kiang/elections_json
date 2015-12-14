@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c023c1-8398-46aa-9609-5c5aacb5b862",
+            "parent_id": "53c023c0-6e24-4314-83f8-5c5aacb5b862",
+            "name": "港墘里",
+            "lft": "12127",
+            "rght": "12128",
+            "population": "6368",
+            "population_electors": "4951",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-6d98-4dd0-b2a6-4187cf91e152",
+            "keywords": "2014-11,村里長,臺北市,內湖區,港墘里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02648-3e18-4cc5-a3e1-5dffacb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "羅村雄",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "LO CHUN HSIUNG",
+                "election_id": "53c023c1-8398-46aa-9609-5c5aacb5b862"
+            },
+            {
+                "id": "540b5304-dbe4-47fb-aa60-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "魏景城",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "WEI CHING CHEN",
+                "election_id": "53c023c1-8398-46aa-9609-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01e34-2298-4f58-9f83-5460acb5b862",
+                "name": "港墘里",
+                "is_area": true,
+                "keywords": "2014,臺北市,內湖區,港墘里",
+                "AreasElection": {
+                    "id": "53c023c1-4a90-49ee-a05b-5c5aacb5b862",
+                    "Election_id": "53c023c1-8398-46aa-9609-5c5aacb5b862",
+                    "Area_id": "53c01e34-2298-4f58-9f83-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023c0-6e24-4314-83f8-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "內湖區",
+                "lft": "12124",
+                "rght": "12203",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023c1-8398-46aa-9609-5c5aacb5b862",
+                "parent_id": "53c023c0-6e24-4314-83f8-5c5aacb5b862",
+                "name": "港墘里",
+                "lft": "12127",
+                "rght": "12128",
+                "population": "6368",
+                "population_electors": "4951",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-6d98-4dd0-b2a6-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,內湖區,港墘里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02261-e7a0-4ca8-ab93-5c5aacb5b862",
+            "parent_id": "53c02261-4100-4b47-937a-5c5aacb5b862",
+            "name": "和平村",
+            "lft": "7735",
+            "rght": "7736",
+            "population": "748",
+            "population_electors": "594",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-4f10-4b2e-b9d7-2adbcf91e152",
+            "keywords": "2014-11,村里長,嘉義縣,大埔鄉,和平村"
+        },
+        "Candidate": [
+            {
+                "id": "53c0283b-3eac-49ee-a411-5dffacb5b862",
+                "image": null,
+                "stage": "0",
+                "name": "吳宗霖",
+                "party": null,
+                "gender": null,
+                "no": "0",
+                "name_english": "",
+                "election_id": "53c02261-e7a0-4ca8-ab93-5c5aacb5b862"
+            },
+            {
+                "id": "540b55ab-85dc-4836-b4e1-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "吳明勳",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "Wu Ming Hsun",
+                "election_id": "53c02261-e7a0-4ca8-ab93-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d4d-7704-4af6-acef-5460acb5b862",
+                "name": "和平村",
+                "is_area": true,
+                "keywords": "2014,嘉義縣,大埔鄉,和平村",
+                "AreasElection": {
+                    "id": "53c02261-adf0-4325-b055-5c5aacb5b862",
+                    "Election_id": "53c02261-e7a0-4ca8-ab93-5c5aacb5b862",
+                    "Area_id": "53c01d4d-7704-4af6-acef-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0222a-d5c0-465f-849c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "嘉義縣",
+                "lft": "7019",
+                "rght": "7770",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02261-4100-4b47-937a-5c5aacb5b862",
+                "parent_id": "53c0222a-d5c0-465f-849c-5c5aacb5b862",
+                "name": "大埔鄉",
+                "lft": "7732",
+                "rght": "7743",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02261-e7a0-4ca8-ab93-5c5aacb5b862",
+                "parent_id": "53c02261-4100-4b47-937a-5c5aacb5b862",
+                "name": "和平村",
+                "lft": "7735",
+                "rght": "7736",
+                "population": "748",
+                "population_electors": "594",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-4f10-4b2e-b9d7-2adbcf91e152",
+                "keywords": "2014-11,村里長,嘉義縣,大埔鄉,和平村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

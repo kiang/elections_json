@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c021d5-8338-4613-82d0-5c5aacb5b862",
+            "parent_id": "53c021d1-cd98-4442-9ddf-5c5aacb5b862",
+            "name": "田子里",
+            "lft": "5885",
+            "rght": "5886",
+            "population": "717",
+            "population_electors": "611",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "keywords": "2014-11,村里長,南投縣,竹山鎮,田子里"
+        },
+        "Candidate": [
+            {
+                "id": "53c027f0-f53c-426b-8182-5dffacb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "黃俊升",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c021d5-8338-4613-82d0-5c5aacb5b862"
+            },
+            {
+                "id": "540b5540-8410-473a-96a6-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "吳萬山",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c021d5-8338-4613-82d0-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01cd4-8c88-4173-9289-5460acb5b862",
+                "name": "田子里",
+                "is_area": true,
+                "keywords": "2014,南投縣,竹山鎮,田子里",
+                "AreasElection": {
+                    "id": "53c021d5-19e0-4138-b898-5c5aacb5b862",
+                    "Election_id": "53c021d5-8338-4613-82d0-5c5aacb5b862",
+                    "Area_id": "53c01cd4-8c88-4173-9289-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "南投縣",
+                "lft": "5649",
+                "rght": "6200",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021d1-cd98-4442-9ddf-5c5aacb5b862",
+                "parent_id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "name": "竹山鎮",
+                "lft": "5844",
+                "rght": "5901",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021d5-8338-4613-82d0-5c5aacb5b862",
+                "parent_id": "53c021d1-cd98-4442-9ddf-5c5aacb5b862",
+                "name": "田子里",
+                "lft": "5885",
+                "rght": "5886",
+                "population": "717",
+                "population_electors": "611",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2014-11,村里長,南投縣,竹山鎮,田子里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

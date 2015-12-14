@@ -1,0 +1,167 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d732ff-97f4-4a85-9c7b-1299acb5b862",
+            "parent_id": "53c020b9-cf70-481d-9c46-5c5aacb5b862",
+            "name": "第02選舉區[區域]",
+            "lft": "1449",
+            "rght": "1450",
+            "population": "4727",
+            "population_electors": "3821",
+            "quota": "3",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-e1c0-4f03-a969-4187cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,苗栗縣,三義鄉,第02選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b5702-7cb0-4d4b-89ae-1926acb5b862",
+                "image": "54ba4446\/c25c\/4c27\/b5be\/44576ab936af.jpg",
+                "stage": "1",
+                "name": "江明政",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d732ff-97f4-4a85-9c7b-1299acb5b862"
+            },
+            {
+                "id": "540b5702-bbcc-4e6a-8695-1926acb5b862",
+                "image": "54ba44fd\/85a8\/43cd\/90d3\/44926ab936af.jpg",
+                "stage": "2",
+                "name": "王文成",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "WANG WEN CHENG",
+                "election_id": "53d732ff-97f4-4a85-9c7b-1299acb5b862"
+            },
+            {
+                "id": "540b5702-c4cc-431a-9722-1926acb5b862",
+                "image": "54ba453c\/b508\/4d36\/b263\/44a76ab936af.jpg",
+                "stage": "2",
+                "name": "呂明忠",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "3",
+                "name_english": "LU MING JONG",
+                "election_id": "53d732ff-97f4-4a85-9c7b-1299acb5b862"
+            },
+            {
+                "id": "540b5702-d394-4b62-8220-1926acb5b862",
+                "image": "54ba4576\/2da4\/4d95\/a794\/44be6ab936af.jpg",
+                "stage": "2",
+                "name": "徐慧珠",
+                "party": "無",
+                "gender": "f",
+                "no": "4",
+                "name_english": "",
+                "election_id": "53d732ff-97f4-4a85-9c7b-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c71-5278-4b7a-97f5-5460acb5b862",
+                "name": "勝興村",
+                "is_area": true,
+                "keywords": "2014,苗栗縣,三義鄉,勝興村",
+                "AreasElection": {
+                    "id": "53d73300-b8ac-4cd8-9abc-1299acb5b862",
+                    "Election_id": "53d732ff-97f4-4a85-9c7b-1299acb5b862",
+                    "Area_id": "53c01c71-5278-4b7a-97f5-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c72-fa68-40cd-947d-5460acb5b862",
+                "name": "龍騰村",
+                "is_area": true,
+                "keywords": "2014,苗栗縣,三義鄉,龍騰村",
+                "AreasElection": {
+                    "id": "53d73300-11bc-4122-8b46-1299acb5b862",
+                    "Election_id": "53d732ff-97f4-4a85-9c7b-1299acb5b862",
+                    "Area_id": "53c01c72-fa68-40cd-947d-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b7-c5b4-41c9-bda3-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "苗栗縣",
+                "lft": "1323",
+                "rght": "1496",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b9-cf70-481d-9c46-5c5aacb5b862",
+                "parent_id": "53c020b7-c5b4-41c9-bda3-5c5aacb5b862",
+                "name": "三義鄉",
+                "lft": "1446",
+                "rght": "1455",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d732ff-97f4-4a85-9c7b-1299acb5b862",
+                "parent_id": "53c020b9-cf70-481d-9c46-5c5aacb5b862",
+                "name": "第02選舉區[區域]",
+                "lft": "1449",
+                "rght": "1450",
+                "population": "4727",
+                "population_electors": "3821",
+                "quota": "3",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-e1c0-4f03-a969-4187cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,苗栗縣,三義鄉,第02選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

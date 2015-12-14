@@ -1,0 +1,119 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02098-e610-478c-bd75-5c5aacb5b862",
+            "parent_id": "53c02098-ab7c-4d32-a6a1-5c5aacb5b862",
+            "name": "斗六市",
+            "lft": "808",
+            "rght": "809",
+            "population": "108019",
+            "population_electors": "83768",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb720-49d8-467d-8fc0-2adbcf91e152",
+            "keywords": "2014-11,鄉鎮市長,雲林縣,斗六市"
+        },
+        "Candidate": [
+            {
+                "id": "5406a608-1504-4867-9ecb-15b8acb5b862",
+                "image": "542fe824\/9cd0\/440a\/8ef5\/52facb455a61.jpg",
+                "stage": "2",
+                "name": "謝淑亞",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "2",
+                "name_english": "SIE SHU YA",
+                "election_id": "53c02098-e610-478c-bd75-5c5aacb5b862"
+            },
+            {
+                "id": "540b580b-bd50-48b2-8d2f-1926acb5b862",
+                "image": "5430d1dc\/0890\/4f5d\/8677\/6daccb455a61.jpg",
+                "stage": "1",
+                "name": "許百芳",
+                "party": "民主進步黨",
+                "gender": "f",
+                "no": "1",
+                "name_english": "Hsu Pai Fang",
+                "election_id": "53c02098-e610-478c-bd75-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01ce8-34c0-418a-8e7f-5460acb5b862",
+                "name": "斗六市",
+                "is_area": true,
+                "keywords": "2014,雲林縣,斗六市",
+                "AreasElection": {
+                    "id": "53c02098-6540-4182-b0fa-5c5aacb5b862",
+                    "Election_id": "53c02098-e610-478c-bd75-5c5aacb5b862",
+                    "Area_id": "53c01ce8-34c0-418a-8e7f-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市長",
+                "lft": "608",
+                "rght": "1031",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02098-ab7c-4d32-a6a1-5c5aacb5b862",
+                "parent_id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "807",
+                "rght": "848",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02098-e610-478c-bd75-5c5aacb5b862",
+                "parent_id": "53c02098-ab7c-4d32-a6a1-5c5aacb5b862",
+                "name": "斗六市",
+                "lft": "808",
+                "rght": "809",
+                "population": "108019",
+                "population_electors": "83768",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb720-49d8-467d-8fc0-2adbcf91e152",
+                "keywords": "2014-11,鄉鎮市長,雲林縣,斗六市"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

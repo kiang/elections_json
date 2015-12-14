@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c023c6-d438-4fbc-a801-5c5aacb5b862",
+            "parent_id": "53c023c0-6e24-4314-83f8-5c5aacb5b862",
+            "name": "麗山里",
+            "lft": "12193",
+            "rght": "12194",
+            "population": "6243",
+            "population_electors": "4868",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-98b4-45c4-90b9-4187cf91e152",
+            "keywords": "2014-11,村里長,臺北市,內湖區,麗山里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0264a-0ed4-472e-87a8-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "許明全",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "HSU MING CHUAN",
+                "election_id": "53c023c6-d438-4fbc-a801-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01e39-2dc0-4d8c-8624-5460acb5b862",
+                "name": "麗山里",
+                "is_area": true,
+                "keywords": "2014,臺北市,內湖區,麗山里",
+                "AreasElection": {
+                    "id": "53c023c6-0250-40e3-9f24-5c5aacb5b862",
+                    "Election_id": "53c023c6-d438-4fbc-a801-5c5aacb5b862",
+                    "Area_id": "53c01e39-2dc0-4d8c-8624-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023c0-6e24-4314-83f8-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "內湖區",
+                "lft": "12124",
+                "rght": "12203",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023c6-d438-4fbc-a801-5c5aacb5b862",
+                "parent_id": "53c023c0-6e24-4314-83f8-5c5aacb5b862",
+                "name": "麗山里",
+                "lft": "12193",
+                "rght": "12194",
+                "population": "6243",
+                "population_electors": "4868",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-98b4-45c4-90b9-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,內湖區,麗山里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

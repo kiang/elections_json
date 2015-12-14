@@ -1,0 +1,119 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02087-c5ec-431d-a57c-5c5aacb5b862",
+            "parent_id": "53c02086-e5ec-40f0-9b9f-5c5aacb5b862",
+            "name": "金湖鎮",
+            "lft": "624",
+            "rght": "625",
+            "population": "27078",
+            "population_electors": "22502",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-febc-408e-992d-74a5cf91e152",
+            "keywords": "2014-11,鄉鎮市長,金門縣,金湖鎮"
+        },
+        "Candidate": [
+            {
+                "id": "5406a61b-7188-481e-9d0c-15b8acb5b862",
+                "image": "5492d2b9\/caec\/42ac\/a20f\/6be56ab936af.jpg",
+                "stage": "2",
+                "name": "蔡西湖",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c02087-c5ec-431d-a57c-5c5aacb5b862"
+            },
+            {
+                "id": "540b5826-ac24-44d3-9500-1926acb5b862",
+                "image": "5492d2e1\/ab58\/436c\/be76\/6bf46ab936af.jpg",
+                "stage": "1",
+                "name": "林長鴻",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02087-c5ec-431d-a57c-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01bd3-5b04-4218-9764-5460acb5b862",
+                "name": "金湖鎮",
+                "is_area": true,
+                "keywords": "2014,金門縣,金湖鎮",
+                "AreasElection": {
+                    "id": "53c02087-1a4c-467e-bc1f-5c5aacb5b862",
+                    "Election_id": "53c02087-c5ec-431d-a57c-5c5aacb5b862",
+                    "Area_id": "53c01bd3-5b04-4218-9764-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市長",
+                "lft": "608",
+                "rght": "1031",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02086-e5ec-40f0-9b9f-5c5aacb5b862",
+                "parent_id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "name": "金門縣",
+                "lft": "619",
+                "rght": "632",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02087-c5ec-431d-a57c-5c5aacb5b862",
+                "parent_id": "53c02086-e5ec-40f0-9b9f-5c5aacb5b862",
+                "name": "金湖鎮",
+                "lft": "624",
+                "rght": "625",
+                "population": "27078",
+                "population_electors": "22502",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-febc-408e-992d-74a5cf91e152",
+                "keywords": "2014-11,鄉鎮市長,金門縣,金湖鎮"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c021b0-58c0-4a1f-b1ff-5c5aacb5b862",
+            "parent_id": "53c021af-e0f0-43f8-b277-5c5aacb5b862",
+            "name": "北曾村",
+            "lft": "5435",
+            "rght": "5436",
+            "population": "1885",
+            "population_electors": "1482",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-8c4c-4f69-b92e-74a5cf91e152",
+            "keywords": "2014-11,村里長,彰化縣,田尾鄉,北曾村"
+        },
+        "Candidate": [
+            {
+                "id": "53c027dd-d4f8-42bc-a5de-5dffacb5b862",
+                "image": "5462e714\/20a4\/4cbb\/accb\/3b9a8e043389.jpg",
+                "stage": "1",
+                "name": "鄭銅欣",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c021b0-58c0-4a1f-b1ff-5c5aacb5b862"
+            },
+            {
+                "id": "540b5528-7a4c-4eb5-9d06-1926acb5b862",
+                "image": "546df758\/0074\/4314\/846b\/6f298e043389.jpg",
+                "stage": "2",
+                "name": "莊添鏿",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c021b0-58c0-4a1f-b1ff-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01cba-f8d8-4746-91c2-5460acb5b862",
+                "name": "北曾村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,田尾鄉,北曾村",
+                "AreasElection": {
+                    "id": "53c021b0-4d4c-4c82-8735-5c5aacb5b862",
+                    "Election_id": "53c021b0-58c0-4a1f-b1ff-5c5aacb5b862",
+                    "Area_id": "53c01cba-f8d8-4746-91c2-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "4417",
+                "rght": "5648",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021af-e0f0-43f8-b277-5c5aacb5b862",
+                "parent_id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "name": "田尾鄉",
+                "lft": "5414",
+                "rght": "5455",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021b0-58c0-4a1f-b1ff-5c5aacb5b862",
+                "parent_id": "53c021af-e0f0-43f8-b277-5c5aacb5b862",
+                "name": "北曾村",
+                "lft": "5435",
+                "rght": "5436",
+                "population": "1885",
+                "population_electors": "1482",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-8c4c-4f69-b92e-74a5cf91e152",
+                "keywords": "2014-11,村里長,彰化縣,田尾鄉,北曾村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

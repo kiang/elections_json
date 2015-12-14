@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0222a-1590-44b7-8a70-5c5aacb5b862",
+            "parent_id": "53c0222a-ed24-4ce5-ae43-5c5aacb5b862",
+            "name": "崙頂里",
+            "lft": "7029",
+            "rght": "7030",
+            "population": "984",
+            "population_electors": "813",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5473fb11-0280-4c0f-a71f-1b6ecf91e152",
+            "keywords": "2014-11,村里長,嘉義縣,太保市,崙頂里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0281c-b378-441c-9ece-5dffacb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "林家村",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c0222a-1590-44b7-8a70-5c5aacb5b862"
+            },
+            {
+                "id": "540b5586-c140-4e80-853b-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "張騰耀",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "CHANG TENG YAO",
+                "election_id": "53c0222a-1590-44b7-8a70-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d1c-7b38-4fd0-b1d4-5460acb5b862",
+                "name": "崙頂里",
+                "is_area": true,
+                "keywords": "2014,嘉義縣,太保市,崙頂里",
+                "AreasElection": {
+                    "id": "53c0222b-3eb8-4240-80e7-5c5aacb5b862",
+                    "Election_id": "53c0222a-1590-44b7-8a70-5c5aacb5b862",
+                    "Area_id": "53c01d1c-7b38-4fd0-b1d4-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0222a-d5c0-465f-849c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "嘉義縣",
+                "lft": "7019",
+                "rght": "7770",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0222a-ed24-4ce5-ae43-5c5aacb5b862",
+                "parent_id": "53c0222a-d5c0-465f-849c-5c5aacb5b862",
+                "name": "太保市",
+                "lft": "7020",
+                "rght": "7057",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0222a-1590-44b7-8a70-5c5aacb5b862",
+                "parent_id": "53c0222a-ed24-4ce5-ae43-5c5aacb5b862",
+                "name": "崙頂里",
+                "lft": "7029",
+                "rght": "7030",
+                "population": "984",
+                "population_electors": "813",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5473fb11-0280-4c0f-a71f-1b6ecf91e152",
+                "keywords": "2014-11,村里長,嘉義縣,太保市,崙頂里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

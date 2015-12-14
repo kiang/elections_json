@@ -1,0 +1,178 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d732c2-a414-4b80-88f1-1299acb5b862",
+            "parent_id": "53c020b5-0e6c-4008-bcbd-5c5aacb5b862",
+            "name": "第03選舉區[區域]",
+            "lft": "1267",
+            "rght": "1268",
+            "population": "3574",
+            "population_electors": "2880",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-83ec-45fd-801f-1a32cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,新竹縣,芎林鄉,第03選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b56e3-e40c-44e5-9042-1926acb5b862",
+                "image": "54c477c1\/7cf0\/4cb8\/91a7\/48ad6ab936af.jpg",
+                "stage": "2",
+                "name": "姜義助",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "JIANG YI ZHU",
+                "election_id": "53d732c2-a414-4b80-88f1-1299acb5b862"
+            },
+            {
+                "id": "540b56e4-5a50-44a3-b8a1-1926acb5b862",
+                "image": "54c4768f\/73c4\/493e\/9c88\/48876ab936af.jpg",
+                "stage": "1",
+                "name": "林春杏",
+                "party": "無",
+                "gender": "f",
+                "no": "1",
+                "name_english": "LIN CHUN HSING",
+                "election_id": "53d732c2-a414-4b80-88f1-1299acb5b862"
+            },
+            {
+                "id": "540b56e4-897c-463f-b6ca-1926acb5b862",
+                "image": "54c477dd\/0a28\/430c\/8124\/48ad6ab936af.jpg",
+                "stage": "2",
+                "name": "劉興振",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53d732c2-a414-4b80-88f1-1299acb5b862"
+            },
+            {
+                "id": "540b56e4-bfbc-4ace-baa9-1926acb5b862",
+                "image": "54c47791\/2e1c\/442e\/97c7\/48866ab936af.jpg",
+                "stage": "1",
+                "name": "曾永來",
+                "party": "無",
+                "gender": "m",
+                "no": "4",
+                "name_english": "",
+                "election_id": "53d732c2-a414-4b80-88f1-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c4a-d960-494e-b2cd-5460acb5b862",
+                "name": "新鳳村",
+                "is_area": true,
+                "keywords": "2014,新竹縣,芎林鄉,新鳳村",
+                "AreasElection": {
+                    "id": "53d732c2-5b48-4077-9929-1299acb5b862",
+                    "Election_id": "53d732c2-a414-4b80-88f1-1299acb5b862",
+                    "Area_id": "53c01c4a-d960-494e-b2cd-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c4b-29d0-48c7-a3e7-5460acb5b862",
+                "name": "水坑村",
+                "is_area": true,
+                "keywords": "2014,新竹縣,芎林鄉,水坑村",
+                "AreasElection": {
+                    "id": "53d732c2-6398-4125-b236-1299acb5b862",
+                    "Election_id": "53d732c2-a414-4b80-88f1-1299acb5b862",
+                    "Area_id": "53c01c4b-29d0-48c7-a3e7-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c4b-3cb8-4ee9-90c9-5460acb5b862",
+                "name": "中坑村",
+                "is_area": true,
+                "keywords": "2014,新竹縣,芎林鄉,中坑村",
+                "AreasElection": {
+                    "id": "53d732c2-59f8-4b42-8229-1299acb5b862",
+                    "Election_id": "53d732c2-a414-4b80-88f1-1299acb5b862",
+                    "Area_id": "53c01c4b-3cb8-4ee9-90c9-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b3-e33c-4fee-aa9e-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "新竹縣",
+                "lft": "1201",
+                "rght": "1322",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b5-0e6c-4008-bcbd-5c5aacb5b862",
+                "parent_id": "53c020b3-e33c-4fee-aa9e-5c5aacb5b862",
+                "name": "芎林鄉",
+                "lft": "1262",
+                "rght": "1271",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d732c2-a414-4b80-88f1-1299acb5b862",
+                "parent_id": "53c020b5-0e6c-4008-bcbd-5c5aacb5b862",
+                "name": "第03選舉區[區域]",
+                "lft": "1267",
+                "rght": "1268",
+                "population": "3574",
+                "population_electors": "2880",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-83ec-45fd-801f-1a32cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,新竹縣,芎林鄉,第03選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

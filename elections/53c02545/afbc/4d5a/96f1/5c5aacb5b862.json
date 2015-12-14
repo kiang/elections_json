@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02545-afbc-4d5a-96f1-5c5aacb5b862",
+            "parent_id": "53c02542-30e8-4080-80d6-5c5aacb5b862",
+            "name": "民政里",
+            "lft": "16773",
+            "rght": "16774",
+            "population": "1163",
+            "population_electors": "963",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c6157-2888-41ee-bdb0-573fcf91e152",
+            "keywords": "2014-11,村里長,臺中市,北屯區,民政里"
+        },
+        "Candidate": [
+            {
+                "id": "53c026f4-57cc-4296-ad95-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "黃明華",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "HAUNG MING HUA",
+                "election_id": "53c02545-afbc-4d5a-96f1-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01f80-f12c-468a-abcb-5460acb5b862",
+                "name": "民政里",
+                "is_area": true,
+                "keywords": "2014,臺中市,北屯區,民政里",
+                "AreasElection": {
+                    "id": "53c02545-19dc-4447-9698-5c5aacb5b862",
+                    "Election_id": "53c02545-afbc-4d5a-96f1-5c5aacb5b862",
+                    "Area_id": "53c01f80-f12c-468a-abcb-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02542-30e8-4080-80d6-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "北屯區",
+                "lft": "16744",
+                "rght": "16829",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02545-afbc-4d5a-96f1-5c5aacb5b862",
+                "parent_id": "53c02542-30e8-4080-80d6-5c5aacb5b862",
+                "name": "民政里",
+                "lft": "16773",
+                "rght": "16774",
+                "population": "1163",
+                "population_electors": "963",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c6157-2888-41ee-bdb0-573fcf91e152",
+                "keywords": "2014-11,村里長,臺中市,北屯區,民政里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

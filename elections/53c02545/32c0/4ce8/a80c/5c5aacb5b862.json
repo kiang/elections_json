@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02545-32c0-4ce8-a80c-5c5aacb5b862",
+            "parent_id": "53c02542-30e8-4080-80d6-5c5aacb5b862",
+            "name": "大坑里",
+            "lft": "16771",
+            "rght": "16772",
+            "population": "2446",
+            "population_electors": "1959",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c6157-faec-4664-a4cc-573fcf91e152",
+            "keywords": "2014-11,村里長,臺中市,北屯區,大坑里"
+        },
+        "Candidate": [
+            {
+                "id": "53c026f4-47c0-4b07-a380-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "曾朝煌",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "TSENG CHAO HUANG",
+                "election_id": "53c02545-32c0-4ce8-a80c-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01f80-cb38-4a36-bef8-5460acb5b862",
+                "name": "大坑里",
+                "is_area": true,
+                "keywords": "2014,臺中市,北屯區,大坑里",
+                "AreasElection": {
+                    "id": "53c02545-3024-452f-8ca4-5c5aacb5b862",
+                    "Election_id": "53c02545-32c0-4ce8-a80c-5c5aacb5b862",
+                    "Area_id": "53c01f80-cb38-4a36-bef8-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02542-30e8-4080-80d6-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "北屯區",
+                "lft": "16744",
+                "rght": "16829",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02545-32c0-4ce8-a80c-5c5aacb5b862",
+                "parent_id": "53c02542-30e8-4080-80d6-5c5aacb5b862",
+                "name": "大坑里",
+                "lft": "16771",
+                "rght": "16772",
+                "population": "2446",
+                "population_electors": "1959",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c6157-faec-4664-a4cc-573fcf91e152",
+                "keywords": "2014-11,村里長,臺中市,北屯區,大坑里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

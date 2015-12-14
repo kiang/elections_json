@@ -1,0 +1,156 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d73340-5230-44d2-81e6-1299acb5b862",
+            "parent_id": "53c020be-3978-46bc-934c-5c5aacb5b862",
+            "name": "第03選舉區[區域]",
+            "lft": "1645",
+            "rght": "1646",
+            "population": "4079",
+            "population_electors": "3300",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-27d0-41c5-997d-74a5cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,彰化縣,社頭鄉,第03選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b5724-04b0-431d-bbdd-1926acb5b862",
+                "image": "54293663\/0ed0\/405d\/ac7e\/1571cb455a61.jpg",
+                "stage": "1",
+                "name": "陳錫庸",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "CHEN HSI YUNG",
+                "election_id": "53d73340-5230-44d2-81e6-1299acb5b862"
+            },
+            {
+                "id": "540b5724-e620-470d-ab76-1926acb5b862",
+                "image": "54b7d2b1\/e86c\/4d04\/8d9d\/3ca06ab936af.jpg",
+                "stage": "2",
+                "name": "陳慶福",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "CHEN CHING FU",
+                "election_id": "53d73340-5230-44d2-81e6-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01cb0-c8f0-4a8c-951a-5460acb5b862",
+                "name": "山湖村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,社頭鄉,山湖村",
+                "AreasElection": {
+                    "id": "53d73340-6550-42ad-a958-1299acb5b862",
+                    "Election_id": "53d73340-5230-44d2-81e6-1299acb5b862",
+                    "Area_id": "53c01cb0-c8f0-4a8c-951a-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cb1-ff50-4b6e-90c0-5460acb5b862",
+                "name": "埤斗村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,社頭鄉,埤斗村",
+                "AreasElection": {
+                    "id": "53d73340-ff38-48f6-8bf2-1299acb5b862",
+                    "Election_id": "53d73340-5230-44d2-81e6-1299acb5b862",
+                    "Area_id": "53c01cb1-ff50-4b6e-90c0-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cb2-03d4-429e-8778-5460acb5b862",
+                "name": "清水村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,社頭鄉,清水村",
+                "AreasElection": {
+                    "id": "53d73340-5484-4846-ba52-1299acb5b862",
+                    "Election_id": "53d73340-5230-44d2-81e6-1299acb5b862",
+                    "Area_id": "53c01cb2-03d4-429e-8778-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020bb-fd28-4ab5-ad62-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "1497",
+                "rght": "1738",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020be-3978-46bc-934c-5c5aacb5b862",
+                "parent_id": "53c020bb-fd28-4ab5-ad62-5c5aacb5b862",
+                "name": "社頭鄉",
+                "lft": "1640",
+                "rght": "1649",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d73340-5230-44d2-81e6-1299acb5b862",
+                "parent_id": "53c020be-3978-46bc-934c-5c5aacb5b862",
+                "name": "第03選舉區[區域]",
+                "lft": "1645",
+                "rght": "1646",
+                "population": "4079",
+                "population_electors": "3300",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-27d0-41c5-997d-74a5cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,彰化縣,社頭鄉,第03選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

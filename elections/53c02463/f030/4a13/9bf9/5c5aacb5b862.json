@@ -1,0 +1,145 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02463-f030-4a13-9bf9-5c5aacb5b862",
+            "parent_id": "53c02463-4844-4f93-96de-5c5aacb5b862",
+            "name": "小林里",
+            "lft": "14163",
+            "rght": "14164",
+            "population": "630",
+            "population_electors": "532",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb721-e0bc-440b-b218-2adbcf91e152",
+            "keywords": "2014-11,村里長,高雄市,甲仙區,小林里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02696-0634-4dcd-bd38-5dffacb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "周枝讚",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "ZHOU ZHI ZAN",
+                "election_id": "53c02463-f030-4a13-9bf9-5c5aacb5b862"
+            },
+            {
+                "id": "540b54af-480c-46ae-b9d5-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "林建忠",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "LIN JIAN ZHONG",
+                "election_id": "53c02463-f030-4a13-9bf9-5c5aacb5b862"
+            },
+            {
+                "id": "540b54af-98ec-44dd-99e1-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "周尚鋒",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "Zhou Shang feng",
+                "election_id": "53c02463-f030-4a13-9bf9-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01ec0-a978-4616-a3f8-5460acb5b862",
+                "name": "小林里",
+                "is_area": true,
+                "keywords": "2014,高雄市,甲仙區,小林里",
+                "AreasElection": {
+                    "id": "53c02464-fe00-4124-854c-5c5aacb5b862",
+                    "Election_id": "53c02463-f030-4a13-9bf9-5c5aacb5b862",
+                    "Area_id": "53c01ec0-a978-4616-a3f8-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02463-4844-4f93-96de-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "甲仙區",
+                "lft": "14154",
+                "rght": "14169",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02463-f030-4a13-9bf9-5c5aacb5b862",
+                "parent_id": "53c02463-4844-4f93-96de-5c5aacb5b862",
+                "name": "小林里",
+                "lft": "14163",
+                "rght": "14164",
+                "population": "630",
+                "population_electors": "532",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb721-e0bc-440b-b218-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,甲仙區,小林里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

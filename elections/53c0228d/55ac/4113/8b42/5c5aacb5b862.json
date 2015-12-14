@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0228d-55ac-4113-8b42-5c5aacb5b862",
+            "parent_id": "53c0228c-3150-4b82-941b-5c5aacb5b862",
+            "name": "鹿寮村",
+            "lft": "8299",
+            "rght": "8300",
+            "population": "1065",
+            "population_electors": "901",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54773ba1-e4d0-4089-a8ad-1915cf91e152",
+            "keywords": "2014-11,村里長,屏東縣,萬巒鄉,鹿寮村"
+        },
+        "Candidate": [
+            {
+                "id": "53c02850-7be0-46cf-9ae9-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "戴時敏",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c0228d-55ac-4113-8b42-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d74-4b50-4206-ab82-5460acb5b862",
+                "name": "鹿寮村",
+                "is_area": true,
+                "keywords": "2014,屏東縣,萬巒鄉,鹿寮村",
+                "AreasElection": {
+                    "id": "53c0228d-eaa4-48ca-8384-5c5aacb5b862",
+                    "Election_id": "53c0228d-55ac-4113-8b42-5c5aacb5b862",
+                    "Area_id": "53c01d74-4b50-4206-ab82-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "7771",
+                "rght": "8766",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0228c-3150-4b82-941b-5c5aacb5b862",
+                "parent_id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "name": "萬巒鄉",
+                "lft": "8292",
+                "rght": "8321",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0228d-55ac-4113-8b42-5c5aacb5b862",
+                "parent_id": "53c0228c-3150-4b82-941b-5c5aacb5b862",
+                "name": "鹿寮村",
+                "lft": "8299",
+                "rght": "8300",
+                "population": "1065",
+                "population_electors": "901",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54773ba1-e4d0-4089-a8ad-1915cf91e152",
+                "keywords": "2014-11,村里長,屏東縣,萬巒鄉,鹿寮村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

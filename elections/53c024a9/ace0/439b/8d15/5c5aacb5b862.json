@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c024a9-ace0-439b-8d15-5c5aacb5b862",
+            "parent_id": "53c024a3-a5b8-4809-908e-5c5aacb5b862",
+            "name": "福和里",
+            "lft": "15021",
+            "rght": "15022",
+            "population": "5581",
+            "population_electors": "4541",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-c45c-4e0f-abf1-1a32cf91e152",
+            "keywords": "2014-11,村里長,新北市,永和區,福和里"
+        },
+        "Candidate": [
+            {
+                "id": "53c026b3-06bc-4d50-915b-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "呂昶祺",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c024a9-ace0-439b-8d15-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01f04-5448-4e0a-84bf-5460acb5b862",
+                "name": "福和里",
+                "is_area": true,
+                "keywords": "2014,新北市,永和區,福和里",
+                "AreasElection": {
+                    "id": "53c024a9-3854-4c8a-8f7a-5c5aacb5b862",
+                    "Election_id": "53c024a9-ace0-439b-8d15-5c5aacb5b862",
+                    "Area_id": "53c01f04-5448-4e0a-84bf-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新北市",
+                "lft": "14261",
+                "rght": "16384",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c024a3-a5b8-4809-908e-5c5aacb5b862",
+                "parent_id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "name": "永和區",
+                "lft": "14944",
+                "rght": "15069",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c024a9-ace0-439b-8d15-5c5aacb5b862",
+                "parent_id": "53c024a3-a5b8-4809-908e-5c5aacb5b862",
+                "name": "福和里",
+                "lft": "15021",
+                "rght": "15022",
+                "population": "5581",
+                "population_electors": "4541",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-c45c-4e0f-abf1-1a32cf91e152",
+                "keywords": "2014-11,村里長,新北市,永和區,福和里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,174 @@
+{
+    "election": {
+        "Election": {
+            "id": "550866d2-1e30-4067-bdb0-23aa6ab936af",
+            "parent_id": "55086334-6464-4841-9e0d-35296ab936af",
+            "name": "第01選區[區域]",
+            "lft": "40702",
+            "rght": "40703",
+            "population": "0",
+            "population_electors": "0",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "keywords": "2016-01,立法委員,彰化縣,第01選區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "550c640c-f20c-4c1f-94fc-025cacb5b862",
+                "image": "550c640c\/55b8\/4ece\/8b7e\/025cacb5b862.jpg",
+                "stage": "1",
+                "name": "王惠美",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": null,
+                "name_english": "",
+                "election_id": "550866d2-1e30-4067-bdb0-23aa6ab936af"
+            },
+            {
+                "id": "55183b36-9898-4628-a86a-12916ab936af",
+                "image": "56125a7a\/abcc\/4f61\/92cd\/64216ab936af.jpg",
+                "stage": "1",
+                "name": "陳文彬",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": null,
+                "name_english": "",
+                "election_id": "550866d2-1e30-4067-bdb0-23aa6ab936af"
+            }
+        ],
+        "Area": [
+            {
+                "id": "55085979-6708-4fc2-82ab-3584acb5b862",
+                "name": "鹿港鎮",
+                "is_area": true,
+                "keywords": "2016,彰化縣,鹿港鎮",
+                "AreasElection": {
+                    "id": "550a7343-8e1c-40ac-8959-47cb6ab936af",
+                    "Election_id": "550866d2-1e30-4067-bdb0-23aa6ab936af",
+                    "Area_id": "55085979-6708-4fc2-82ab-3584acb5b862"
+                }
+            },
+            {
+                "id": "5508597a-a560-447c-bbe1-3584acb5b862",
+                "name": "和美鎮",
+                "is_area": true,
+                "keywords": "2016,彰化縣,和美鎮",
+                "AreasElection": {
+                    "id": "550a7343-c5f4-4a17-8406-47cb6ab936af",
+                    "Election_id": "550866d2-1e30-4067-bdb0-23aa6ab936af",
+                    "Area_id": "5508597a-a560-447c-bbe1-3584acb5b862"
+                }
+            },
+            {
+                "id": "5508597c-5748-49fa-aa9c-3584acb5b862",
+                "name": "伸港鄉",
+                "is_area": true,
+                "keywords": "2016,彰化縣,伸港鄉",
+                "AreasElection": {
+                    "id": "550a7343-8e74-4f07-bfe6-47cb6ab936af",
+                    "Election_id": "550866d2-1e30-4067-bdb0-23aa6ab936af",
+                    "Area_id": "5508597c-5748-49fa-aa9c-3584acb5b862"
+                }
+            },
+            {
+                "id": "5508597c-a6a4-430e-b5a6-3584acb5b862",
+                "name": "線西鄉",
+                "is_area": true,
+                "keywords": "2016,彰化縣,線西鄉",
+                "AreasElection": {
+                    "id": "550a7343-6448-41b1-a57e-47cb6ab936af",
+                    "Election_id": "550866d2-1e30-4067-bdb0-23aa6ab936af",
+                    "Area_id": "5508597c-a6a4-430e-b5a6-3584acb5b862"
+                }
+            },
+            {
+                "id": "5508597d-023c-456a-8006-3584acb5b862",
+                "name": "福興鄉",
+                "is_area": true,
+                "keywords": "2016,彰化縣,福興鄉",
+                "AreasElection": {
+                    "id": "550a7343-0c70-43b7-a0b0-47cb6ab936af",
+                    "Election_id": "550866d2-1e30-4067-bdb0-23aa6ab936af",
+                    "Area_id": "5508597d-023c-456a-8006-3584acb5b862"
+                }
+            },
+            {
+                "id": "5508597e-bae8-47a7-bcf0-3584acb5b862",
+                "name": "秀水鄉",
+                "is_area": true,
+                "keywords": "2016,彰化縣,秀水鄉",
+                "AreasElection": {
+                    "id": "550a7343-2a94-4073-a396-47cb6ab936af",
+                    "Election_id": "550866d2-1e30-4067-bdb0-23aa6ab936af",
+                    "Area_id": "5508597e-bae8-47a7-bcf0-3584acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "55085db5-2e9c-4cde-8103-23d86ab936af",
+                "parent_id": null,
+                "name": "2016-01",
+                "lft": "40579",
+                "rght": "40780",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "55085e1a-c494-40e0-ba31-2f916ab936af",
+                "parent_id": "55085db5-2e9c-4cde-8103-23d86ab936af",
+                "name": "立法委員",
+                "lft": "40582",
+                "rght": "40779",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "55086334-6464-4841-9e0d-35296ab936af",
+                "parent_id": "55085e1a-c494-40e0-ba31-2f916ab936af",
+                "name": "彰化縣",
+                "lft": "40701",
+                "rght": "40710",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "550866d2-1e30-4067-bdb0-23aa6ab936af",
+                "parent_id": "55086334-6464-4841-9e0d-35296ab936af",
+                "name": "第01選區[區域]",
+                "lft": "40702",
+                "rght": "40703",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2016-01,立法委員,彰化縣,第01選區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

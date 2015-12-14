@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02167-3268-4638-9590-5c5aacb5b862",
+            "parent_id": "53c02162-f384-4c28-9dd3-5c5aacb5b862",
+            "name": "大同里",
+            "lft": "4489",
+            "rght": "4490",
+            "population": "1171",
+            "population_electors": "999",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-b450-4e1c-8d90-74a5cf91e152",
+            "keywords": "2014-11,村里長,彰化縣,彰化市,大同里"
+        },
+        "Candidate": [
+            {
+                "id": "53c027b7-af38-488c-9ec5-5dffacb5b862",
+                "image": "5459fad4\/d2cc\/48d3\/bb38\/3d8e8e043389.jpg",
+                "stage": "2",
+                "name": "王進福",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02167-3268-4638-9590-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c7d-5f7c-4985-ba1a-5460acb5b862",
+                "name": "大同里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,大同里",
+                "AreasElection": {
+                    "id": "53c02168-5da4-45ee-85bd-5c5aacb5b862",
+                    "Election_id": "53c02167-3268-4638-9590-5c5aacb5b862",
+                    "Area_id": "53c01c7d-5f7c-4985-ba1a-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "4417",
+                "rght": "5648",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-f384-4c28-9dd3-5c5aacb5b862",
+                "parent_id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "name": "彰化市",
+                "lft": "4418",
+                "rght": "4565",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02167-3268-4638-9590-5c5aacb5b862",
+                "parent_id": "53c02162-f384-4c28-9dd3-5c5aacb5b862",
+                "name": "大同里",
+                "lft": "4489",
+                "rght": "4490",
+                "population": "1171",
+                "population_electors": "999",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-b450-4e1c-8d90-74a5cf91e152",
+                "keywords": "2014-11,村里長,彰化縣,彰化市,大同里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d732ca-9f10-4651-9d89-1299acb5b862",
+            "parent_id": "53c020b6-fb88-4c06-a78a-5c5aacb5b862",
+            "name": "第03選舉區[區域]",
+            "lft": "1295",
+            "rght": "1296",
+            "population": "1837",
+            "population_electors": "1536",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-b45c-46ba-9f69-1a32cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,新竹縣,寶山鄉,第03選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b56e9-351c-46ef-8c66-1926acb5b862",
+                "image": "54c504c5\/5e20\/4a17\/b4e1\/6a4e6ab936af.jpg",
+                "stage": "1",
+                "name": "古仁樺",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d732ca-9f10-4651-9d89-1299acb5b862"
+            },
+            {
+                "id": "540b56e9-fc68-4325-baf3-1926acb5b862",
+                "image": "54c504b2\/acd0\/45dd\/a7f1\/6a476ab936af.jpg",
+                "stage": "2",
+                "name": "江民雄",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53d732ca-9f10-4651-9d89-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c4f-378c-420e-8856-5460acb5b862",
+                "name": "深井村",
+                "is_area": true,
+                "keywords": "2014,新竹縣,寶山鄉,深井村",
+                "AreasElection": {
+                    "id": "53d732cb-b620-464e-8c3e-1299acb5b862",
+                    "Election_id": "53d732ca-9f10-4651-9d89-1299acb5b862",
+                    "Area_id": "53c01c4f-378c-420e-8856-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c4f-eacc-4857-8393-5460acb5b862",
+                "name": "寶斗村",
+                "is_area": true,
+                "keywords": "2014,新竹縣,寶山鄉,寶斗村",
+                "AreasElection": {
+                    "id": "53d732ca-33e8-49f3-aa0d-1299acb5b862",
+                    "Election_id": "53d732ca-9f10-4651-9d89-1299acb5b862",
+                    "Area_id": "53c01c4f-eacc-4857-8393-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b3-e33c-4fee-aa9e-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "新竹縣",
+                "lft": "1201",
+                "rght": "1322",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b6-fb88-4c06-a78a-5c5aacb5b862",
+                "parent_id": "53c020b3-e33c-4fee-aa9e-5c5aacb5b862",
+                "name": "寶山鄉",
+                "lft": "1290",
+                "rght": "1299",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d732ca-9f10-4651-9d89-1299acb5b862",
+                "parent_id": "53c020b6-fb88-4c06-a78a-5c5aacb5b862",
+                "name": "第03選舉區[區域]",
+                "lft": "1295",
+                "rght": "1296",
+                "population": "1837",
+                "population_electors": "1536",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-b45c-46ba-9f69-1a32cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,新竹縣,寶山鄉,第03選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

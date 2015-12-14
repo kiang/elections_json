@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c021dc-9854-4c4e-825b-5c5aacb5b862",
+            "parent_id": "53c021da-9dc8-4739-b2f6-5c5aacb5b862",
+            "name": "秀峰村",
+            "lft": "5995",
+            "rght": "5996",
+            "population": "963",
+            "population_electors": "855",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "keywords": "2014-11,村里長,南投縣,鹿谷鄉,秀峰村"
+        },
+        "Candidate": [
+            {
+                "id": "53c027f4-078c-4da4-a47e-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "林茂延",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c021dc-9854-4c4e-825b-5c5aacb5b862"
+            },
+            {
+                "id": "540b5547-e4e8-4eae-9f62-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "林志豪",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c021dc-9854-4c4e-825b-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01cdb-a2c0-47dd-bcaa-5460acb5b862",
+                "name": "秀峰村",
+                "is_area": true,
+                "keywords": "2014,南投縣,鹿谷鄉,秀峰村",
+                "AreasElection": {
+                    "id": "53c021dc-c070-448b-bd3d-5c5aacb5b862",
+                    "Election_id": "53c021dc-9854-4c4e-825b-5c5aacb5b862",
+                    "Area_id": "53c01cdb-a2c0-47dd-bcaa-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "南投縣",
+                "lft": "5649",
+                "rght": "6200",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021da-9dc8-4739-b2f6-5c5aacb5b862",
+                "parent_id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "name": "鹿谷鄉",
+                "lft": "5974",
+                "rght": "6001",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021dc-9854-4c4e-825b-5c5aacb5b862",
+                "parent_id": "53c021da-9dc8-4739-b2f6-5c5aacb5b862",
+                "name": "秀峰村",
+                "lft": "5995",
+                "rght": "5996",
+                "population": "963",
+                "population_electors": "855",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2014-11,村里長,南投縣,鹿谷鄉,秀峰村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

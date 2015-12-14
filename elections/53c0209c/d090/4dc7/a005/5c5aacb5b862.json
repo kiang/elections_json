@@ -1,0 +1,119 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0209c-d090-4dc7-a005-5c5aacb5b862",
+            "parent_id": "53c0209c-b3c0-4999-93a6-5c5aacb5b862",
+            "name": "布袋鎮",
+            "lft": "854",
+            "rght": "855",
+            "population": "28519",
+            "population_electors": "24176",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-8d10-4039-8903-2adbcf91e152",
+            "keywords": "2014-11,鄉鎮市長,嘉義縣,布袋鎮"
+        },
+        "Candidate": [
+            {
+                "id": "5406a60d-0d5c-479c-9c8f-15b8acb5b862",
+                "image": "549ef367\/9c38\/4e96\/8867\/30f16ab936af.jpg",
+                "stage": "1",
+                "name": "蔡坤彬",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c0209c-d090-4dc7-a005-5c5aacb5b862"
+            },
+            {
+                "id": "540b580f-ca64-4528-93d1-1926acb5b862",
+                "image": "549fa0d8\/9ae0\/4a78\/8aad\/4e4a6ab936af.jpg",
+                "stage": "2",
+                "name": "陳鳯梅",
+                "party": "民主進步黨",
+                "gender": "f",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c0209c-d090-4dc7-a005-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d21-fc8c-4575-9a8b-5460acb5b862",
+                "name": "布袋鎮",
+                "is_area": true,
+                "keywords": "2014,嘉義縣,布袋鎮",
+                "AreasElection": {
+                    "id": "53c0209d-6bc8-4d6b-a831-5c5aacb5b862",
+                    "Election_id": "53c0209c-d090-4dc7-a005-5c5aacb5b862",
+                    "Area_id": "53c01d21-fc8c-4575-9a8b-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市長",
+                "lft": "608",
+                "rght": "1031",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0209c-b3c0-4999-93a6-5c5aacb5b862",
+                "parent_id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "name": "嘉義縣",
+                "lft": "849",
+                "rght": "886",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0209c-d090-4dc7-a005-5c5aacb5b862",
+                "parent_id": "53c0209c-b3c0-4999-93a6-5c5aacb5b862",
+                "name": "布袋鎮",
+                "lft": "854",
+                "rght": "855",
+                "population": "28519",
+                "population_electors": "24176",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-8d10-4039-8903-2adbcf91e152",
+                "keywords": "2014-11,鄉鎮市長,嘉義縣,布袋鎮"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

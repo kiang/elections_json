@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02315-7878-45b5-9bf2-5c5aacb5b862",
+            "parent_id": "53c02311-b468-4eac-a0ef-5c5aacb5b862",
+            "name": "孝賢里",
+            "lft": "10007",
+            "rght": "10008",
+            "population": "3796",
+            "population_electors": "3115",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546cd3af-17b8-4521-b97c-78ebcf91e152",
+            "keywords": "2014-11,村里長,基隆市,信義區,孝賢里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0288d-6f34-4e30-ba83-5dffacb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "莊榮清",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "Chuang Jung Ching",
+                "election_id": "53c02315-7878-45b5-9bf2-5c5aacb5b862"
+            },
+            {
+                "id": "540b5659-51c0-4f0f-a32d-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "陳光耀",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "Chen Kuan Yao",
+                "election_id": "53c02315-7878-45b5-9bf2-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01de5-d550-45b7-85aa-5460acb5b862",
+                "name": "孝賢里",
+                "is_area": true,
+                "keywords": "2014,基隆市,信義區,孝賢里",
+                "AreasElection": {
+                    "id": "53c02315-2350-4a25-b144-5c5aacb5b862",
+                    "Election_id": "53c02315-7878-45b5-9bf2-5c5aacb5b862",
+                    "Area_id": "53c01de5-d550-45b7-85aa-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "基隆市",
+                "lft": "9683",
+                "rght": "10012",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02311-b468-4eac-a0ef-5c5aacb5b862",
+                "parent_id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "name": "信義區",
+                "lft": "9970",
+                "rght": "10011",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02315-7878-45b5-9bf2-5c5aacb5b862",
+                "parent_id": "53c02311-b468-4eac-a0ef-5c5aacb5b862",
+                "name": "孝賢里",
+                "lft": "10007",
+                "rght": "10008",
+                "population": "3796",
+                "population_electors": "3115",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546cd3af-17b8-4521-b97c-78ebcf91e152",
+                "keywords": "2014-11,村里長,基隆市,信義區,孝賢里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

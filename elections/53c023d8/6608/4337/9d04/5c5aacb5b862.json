@@ -1,0 +1,145 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c023d8-6608-4337-9d04-5c5aacb5b862",
+            "parent_id": "53c023d6-1a88-4acc-93ce-5c5aacb5b862",
+            "name": "府北里",
+            "lft": "12425",
+            "rght": "12426",
+            "population": "2184",
+            "population_electors": "1907",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb720-8124-47f7-bc2e-2adbcf91e152",
+            "keywords": "2014-11,村里長,高雄市,鹽埕區,府北里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02653-8dc0-4477-bd1b-5dffacb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "黃啟輝",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "3",
+                "name_english": "HUANG CHI HUI",
+                "election_id": "53c023d8-6608-4337-9d04-5c5aacb5b862"
+            },
+            {
+                "id": "540b544e-bd04-438d-91fc-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "林傳富",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "LIN Chuan fu",
+                "election_id": "53c023d8-6608-4337-9d04-5c5aacb5b862"
+            },
+            {
+                "id": "540b544e-bd74-4f08-804b-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "莊世權",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c023d8-6608-4337-9d04-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01e4f-4768-420d-b44a-5460acb5b862",
+                "name": "府北里",
+                "is_area": true,
+                "keywords": "2014,高雄市,鹽埕區,府北里",
+                "AreasElection": {
+                    "id": "53c023d8-2870-480d-9028-5c5aacb5b862",
+                    "Election_id": "53c023d8-6608-4337-9d04-5c5aacb5b862",
+                    "Area_id": "53c01e4f-4768-420d-b44a-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-1a88-4acc-93ce-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "鹽埕區",
+                "lft": "12396",
+                "rght": "12439",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d8-6608-4337-9d04-5c5aacb5b862",
+                "parent_id": "53c023d6-1a88-4acc-93ce-5c5aacb5b862",
+                "name": "府北里",
+                "lft": "12425",
+                "rght": "12426",
+                "population": "2184",
+                "population_electors": "1907",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb720-8124-47f7-bc2e-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,鹽埕區,府北里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,1692 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+            "parent_id": "53c02083-6290-44f4-8dab-5c5aacb5b862",
+            "name": "第09選區[平地]",
+            "lft": "416",
+            "rght": "417",
+            "population": "1523633",
+            "population_electors": "1199113",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-f03c-48fd-bf14-74a5cf91e152",
+            "keywords": "2014-11,縣市議員,彰化縣,第09選區[平地]"
+        },
+        "Candidate": [
+            {
+                "id": "53c68f80-9ad4-4368-812a-0f15acb5b862",
+                "image": "5413b1ff\/cc74\/4bb7\/a40e\/33c8cb455a61.jpg",
+                "stage": "2",
+                "name": "陳榮妹",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862"
+            },
+            {
+                "id": "540b56a9-156c-4f2a-a732-1926acb5b862",
+                "image": "5413b231\/d510\/4b36\/ad5c\/33c8cb455a61.jpg",
+                "stage": "1",
+                "name": "張新男",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862"
+            },
+            {
+                "id": "540b56a9-bec8-48a6-b5ae-1926acb5b862",
+                "image": "5469cbde\/6180\/4b92\/800c\/67568e043389.jpg",
+                "stage": "1",
+                "name": "謝香美",
+                "party": "無",
+                "gender": "f",
+                "no": "2",
+                "name_english": "HSIEH HSIANG MEI",
+                "election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c79-13a8-4108-b201-5460acb5b862",
+                "name": "彰化市",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市",
+                "AreasElection": {
+                    "id": "53c410d1-130c-444d-b367-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c79-13a8-4108-b201-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c79-2540-410f-884c-5460acb5b862",
+                "name": "信義里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,信義里",
+                "AreasElection": {
+                    "id": "53c410d3-a77c-4fb0-b9b2-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c79-2540-410f-884c-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c79-349c-4db4-a69e-5460acb5b862",
+                "name": "民生里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,民生里",
+                "AreasElection": {
+                    "id": "53c410d3-51a4-49d5-ac03-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c79-349c-4db4-a69e-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c79-93f4-4c17-8c40-5460acb5b862",
+                "name": "興北里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,興北里",
+                "AreasElection": {
+                    "id": "53c410d3-7f8c-4712-a17d-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c79-93f4-4c17-8c40-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c79-f1e8-4522-8d85-5460acb5b862",
+                "name": "文化里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,文化里",
+                "AreasElection": {
+                    "id": "53c410d4-8d74-435f-9228-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c79-f1e8-4522-8d85-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c7a-2238-4262-be5d-5460acb5b862",
+                "name": "萬安里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,萬安里",
+                "AreasElection": {
+                    "id": "53c410d4-8d1c-46ec-9774-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c7a-2238-4262-be5d-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c7a-3c88-4c58-8271-5460acb5b862",
+                "name": "陽明里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,陽明里",
+                "AreasElection": {
+                    "id": "53c410d4-4414-4f61-b12a-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c7a-3c88-4c58-8271-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c7a-4bc0-462a-8599-5460acb5b862",
+                "name": "中正里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,中正里",
+                "AreasElection": {
+                    "id": "53c410d2-e8a4-4386-b32d-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c7a-4bc0-462a-8599-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c7a-518c-4534-9d46-5460acb5b862",
+                "name": "新華里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,新華里",
+                "AreasElection": {
+                    "id": "53c410d3-83a8-4406-8d8d-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c7a-518c-4534-9d46-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c7a-573c-4d77-95fa-5460acb5b862",
+                "name": "中山里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,中山里",
+                "AreasElection": {
+                    "id": "53c410d2-b1a8-4f42-9695-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c7a-573c-4d77-95fa-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c7a-58a0-46c1-8fed-5460acb5b862",
+                "name": "永福里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,永福里",
+                "AreasElection": {
+                    "id": "53c410d2-5030-46b0-bf4f-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c7a-58a0-46c1-8fed-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c7a-5b8c-4777-b4f6-5460acb5b862",
+                "name": "龍山里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,龍山里",
+                "AreasElection": {
+                    "id": "53c410d2-2994-4724-84ee-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c7a-5b8c-4777-b4f6-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c7a-6758-4a00-a839-5460acb5b862",
+                "name": "新興里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,新興里",
+                "AreasElection": {
+                    "id": "53c410d3-0608-46df-8b24-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c7a-6758-4a00-a839-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c7b-1f60-4497-af24-5460acb5b862",
+                "name": "富貴里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,富貴里",
+                "AreasElection": {
+                    "id": "53c410d2-ca04-4862-8e55-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c7b-1f60-4497-af24-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c7b-218c-4a67-95b2-5460acb5b862",
+                "name": "西興里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,西興里",
+                "AreasElection": {
+                    "id": "53c410d3-ddb4-4119-a1d1-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c7b-218c-4a67-95b2-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c7b-3f5c-43cf-a425-5460acb5b862",
+                "name": "光復里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,光復里",
+                "AreasElection": {
+                    "id": "53c410d1-c64c-429b-bb0c-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c7b-3f5c-43cf-a425-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c7b-4060-4af2-8a64-5460acb5b862",
+                "name": "忠孝里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,忠孝里",
+                "AreasElection": {
+                    "id": "53c410d3-f704-4814-bdf6-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c7b-4060-4af2-8a64-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c7b-4b10-4c9b-8728-5460acb5b862",
+                "name": "光華里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,光華里",
+                "AreasElection": {
+                    "id": "53c410d2-e79c-446c-ab2a-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c7b-4b10-4c9b-8728-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c7b-53ac-41af-9fd7-5460acb5b862",
+                "name": "西勢里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,西勢里",
+                "AreasElection": {
+                    "id": "53c410d3-e5b8-46ec-8c24-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c7b-53ac-41af-9fd7-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c7b-69a4-4ab9-ad03-5460acb5b862",
+                "name": "忠權里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,忠權里",
+                "AreasElection": {
+                    "id": "53c410d3-459c-4fca-b897-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c7b-69a4-4ab9-ad03-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c7b-9478-44d1-82bc-5460acb5b862",
+                "name": "中央里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,中央里",
+                "AreasElection": {
+                    "id": "53c410d2-5640-4a04-81a9-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c7b-9478-44d1-82bc-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c7b-95b8-453d-ba83-5460acb5b862",
+                "name": "民權里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,民權里",
+                "AreasElection": {
+                    "id": "53c410d2-4598-463d-91e2-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c7b-95b8-453d-ba83-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c7b-c5b4-4bf8-aae7-5460acb5b862",
+                "name": "萬壽里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,萬壽里",
+                "AreasElection": {
+                    "id": "53c410d3-4c74-41b5-b008-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c7b-c5b4-4bf8-aae7-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c7c-26ac-4aaa-829f-5460acb5b862",
+                "name": "平和里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,平和里",
+                "AreasElection": {
+                    "id": "53c410d3-ff18-4d06-950f-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c7c-26ac-4aaa-829f-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c7c-36ec-4604-8ae8-5460acb5b862",
+                "name": "東芳里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,東芳里",
+                "AreasElection": {
+                    "id": "53c410d3-a214-4d65-8ca9-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c7c-36ec-4604-8ae8-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c7c-6380-43e9-9623-5460acb5b862",
+                "name": "五權里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,五權里",
+                "AreasElection": {
+                    "id": "53c410d3-44d8-4e4c-887f-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c7c-6380-43e9-9623-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c7c-82e4-496b-995b-5460acb5b862",
+                "name": "莿桐里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,莿桐里",
+                "AreasElection": {
+                    "id": "53c410d3-ed04-42be-ac39-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c7c-82e4-496b-995b-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c7c-8f54-45a1-b6e8-5460acb5b862",
+                "name": "南安里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,南安里",
+                "AreasElection": {
+                    "id": "53c410d3-9dfc-4cea-ab98-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c7c-8f54-45a1-b6e8-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c7c-9694-4a84-9715-5460acb5b862",
+                "name": "南美里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,南美里",
+                "AreasElection": {
+                    "id": "53c410d3-79d0-46b4-bc62-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c7c-9694-4a84-9715-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c7c-ab7c-4d90-9ad5-5460acb5b862",
+                "name": "長樂里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,長樂里",
+                "AreasElection": {
+                    "id": "53c410d3-cdf0-4887-ab21-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c7c-ab7c-4d90-9ad5-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c7d-10fc-4587-af8f-5460acb5b862",
+                "name": "東興里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,東興里",
+                "AreasElection": {
+                    "id": "53c410d1-c03c-40e4-b504-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c7d-10fc-4587-af8f-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c7d-1450-4c52-b4fb-5460acb5b862",
+                "name": "華北里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,華北里",
+                "AreasElection": {
+                    "id": "53c410d1-7ce0-4a89-9b2b-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c7d-1450-4c52-b4fb-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c7d-389c-4d6f-9f31-5460acb5b862",
+                "name": "桃源里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,桃源里",
+                "AreasElection": {
+                    "id": "53c410d1-03d4-43e4-9643-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c7d-389c-4d6f-9f31-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c7d-3c80-4589-9d61-5460acb5b862",
+                "name": "成功里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,成功里",
+                "AreasElection": {
+                    "id": "53c410d2-57f4-4975-9be2-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c7d-3c80-4589-9d61-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c7d-5f7c-4985-ba1a-5460acb5b862",
+                "name": "大同里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,大同里",
+                "AreasElection": {
+                    "id": "53c410d1-92b0-41a4-8fed-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c7d-5f7c-4985-ba1a-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c7d-6234-404e-b983-5460acb5b862",
+                "name": "永生里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,永生里",
+                "AreasElection": {
+                    "id": "53c410d1-2f3c-48a3-82f2-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c7d-6234-404e-b983-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c7d-bd04-4015-8fe4-5460acb5b862",
+                "name": "卦山里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,卦山里",
+                "AreasElection": {
+                    "id": "53c410d1-a888-43f2-ab2a-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c7d-bd04-4015-8fe4-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c7d-cff4-4977-9a13-5460acb5b862",
+                "name": "華陽里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,華陽里",
+                "AreasElection": {
+                    "id": "53c410d1-d2c8-4a3e-90c1-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c7d-cff4-4977-9a13-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c7e-12b8-4eac-87f7-5460acb5b862",
+                "name": "介壽里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,介壽里",
+                "AreasElection": {
+                    "id": "53c410d2-ed6c-4eee-82cb-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c7e-12b8-4eac-87f7-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c7e-22ac-4524-b458-5460acb5b862",
+                "name": "建寶里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,建寶里",
+                "AreasElection": {
+                    "id": "53c410d2-6150-4a62-b829-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c7e-22ac-4524-b458-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c7e-4a5c-4980-8156-5460acb5b862",
+                "name": "彰安里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,彰安里",
+                "AreasElection": {
+                    "id": "53c410d2-b044-420a-899e-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c7e-4a5c-4980-8156-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c7e-83f8-4668-a0ea-5460acb5b862",
+                "name": "延和里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,延和里",
+                "AreasElection": {
+                    "id": "53c410d2-3b14-4004-8a3c-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c7e-83f8-4668-a0ea-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c7e-9e44-43c8-b12b-5460acb5b862",
+                "name": "延平里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,延平里",
+                "AreasElection": {
+                    "id": "53c410d2-948c-41cb-b23d-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c7e-9e44-43c8-b12b-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c7e-a5c0-4740-a6e7-5460acb5b862",
+                "name": "光南里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,光南里",
+                "AreasElection": {
+                    "id": "53c410d2-5c54-4bb6-b12e-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c7e-a5c0-4740-a6e7-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c7e-c404-42b9-af15-5460acb5b862",
+                "name": "南興里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,南興里",
+                "AreasElection": {
+                    "id": "53c410d2-b18c-4ffe-aa0c-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c7e-c404-42b9-af15-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c7e-eb10-499b-b601-5460acb5b862",
+                "name": "西安里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,西安里",
+                "AreasElection": {
+                    "id": "53c410d2-7ce0-4313-9233-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c7e-eb10-499b-b601-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c7f-2bc0-4efe-bd96-5460acb5b862",
+                "name": "大竹里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,大竹里",
+                "AreasElection": {
+                    "id": "53c410d5-26b0-40f0-b8ca-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c7f-2bc0-4efe-bd96-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c7f-6530-4d27-8245-5460acb5b862",
+                "name": "香山里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,香山里",
+                "AreasElection": {
+                    "id": "53c410d4-364c-4a57-a711-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c7f-6530-4d27-8245-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c7f-704c-4573-94a6-5460acb5b862",
+                "name": "竹中里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,竹中里",
+                "AreasElection": {
+                    "id": "53c410d4-1ab4-44a9-bb48-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c7f-704c-4573-94a6-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c7f-8fe8-4fee-893f-5460acb5b862",
+                "name": "福安里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,福安里",
+                "AreasElection": {
+                    "id": "53c410d2-414c-404d-bd42-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c7f-8fe8-4fee-893f-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c7f-f900-4c64-bd16-5460acb5b862",
+                "name": "安溪里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,安溪里",
+                "AreasElection": {
+                    "id": "53c410d4-449c-4271-a43b-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c7f-f900-4c64-bd16-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c80-3774-4277-8cc9-5460acb5b862",
+                "name": "阿夷里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,阿夷里",
+                "AreasElection": {
+                    "id": "53c410d4-d1c0-4d72-808e-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c80-3774-4277-8cc9-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c80-53ac-4e23-8802-5460acb5b862",
+                "name": "國聖里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,國聖里",
+                "AreasElection": {
+                    "id": "53c410d4-955c-4977-b34f-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c80-53ac-4e23-8802-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c80-5948-4435-97ba-5460acb5b862",
+                "name": "茄南里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,茄南里",
+                "AreasElection": {
+                    "id": "53c410d4-a810-4d2b-bf2f-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c80-5948-4435-97ba-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c80-97ec-4337-bb85-5460acb5b862",
+                "name": "三村里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,三村里",
+                "AreasElection": {
+                    "id": "53c410d4-7fe4-4b33-bcc6-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c80-97ec-4337-bb85-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c80-b584-4825-859d-5460acb5b862",
+                "name": "福山里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,福山里",
+                "AreasElection": {
+                    "id": "53c410d4-e334-4d54-b479-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c80-b584-4825-859d-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c80-dde4-49e2-bbb5-5460acb5b862",
+                "name": "牛埔里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,牛埔里",
+                "AreasElection": {
+                    "id": "53c410d4-c740-4778-b1cf-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c80-dde4-49e2-bbb5-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c80-f1b4-4713-a690-5460acb5b862",
+                "name": "茄苳里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,茄苳里",
+                "AreasElection": {
+                    "id": "53c410d4-739c-423f-813a-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c80-f1b4-4713-a690-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c80-f6bc-4c75-acd6-5460acb5b862",
+                "name": "中庄里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,中庄里",
+                "AreasElection": {
+                    "id": "53c410d4-864c-4fe1-b59a-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c80-f6bc-4c75-acd6-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c81-44a4-43d8-87a6-5460acb5b862",
+                "name": "古夷里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,古夷里",
+                "AreasElection": {
+                    "id": "53c410d4-dbfc-4cca-88b2-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c81-44a4-43d8-87a6-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c81-6164-4b48-be0a-5460acb5b862",
+                "name": "復興里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,復興里",
+                "AreasElection": {
+                    "id": "53c410d4-2f94-42a0-a552-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c81-6164-4b48-be0a-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c82-1dd8-4e94-81e4-5460acb5b862",
+                "name": "福田里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,福田里",
+                "AreasElection": {
+                    "id": "53c410d5-d2c8-48b8-8cc1-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c82-1dd8-4e94-81e4-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c82-21c4-4056-a899-5460acb5b862",
+                "name": "石牌里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,石牌里",
+                "AreasElection": {
+                    "id": "53c410d5-be70-4906-9809-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c82-21c4-4056-a899-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c82-2a70-48d3-9652-5460acb5b862",
+                "name": "田中里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,田中里",
+                "AreasElection": {
+                    "id": "53c410d5-4fb4-4d9a-a8de-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c82-2a70-48d3-9652-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c82-7da0-4b88-af69-5460acb5b862",
+                "name": "快官里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,快官里",
+                "AreasElection": {
+                    "id": "53c410d5-e38c-4423-94d9-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c82-7da0-4b88-af69-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c82-87bc-4623-856a-5460acb5b862",
+                "name": "和調里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,和調里",
+                "AreasElection": {
+                    "id": "53c410d4-ee50-4e4c-b2e3-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c82-87bc-4623-856a-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c82-a308-4733-bfd1-5460acb5b862",
+                "name": "竹巷里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,竹巷里",
+                "AreasElection": {
+                    "id": "53c410d5-da08-4044-a2a1-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c82-a308-4733-bfd1-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c82-b040-4781-ad91-5460acb5b862",
+                "name": "台鳳里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,台鳳里",
+                "AreasElection": {
+                    "id": "53c410d4-bba4-40ce-a635-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c82-b040-4781-ad91-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c82-c69c-49f2-b70f-5460acb5b862",
+                "name": "崙平里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,崙平里",
+                "AreasElection": {
+                    "id": "53c410d3-5b68-49d5-b90f-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c82-c69c-49f2-b70f-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c83-6a0c-4928-996e-5460acb5b862",
+                "name": "向陽里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,向陽里",
+                "AreasElection": {
+                    "id": "53c410d3-a460-4417-bc55-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c83-6a0c-4928-996e-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c83-bc2c-4b75-acfd-5460acb5b862",
+                "name": "鹿港鎮",
+                "is_area": true,
+                "keywords": "2014,彰化縣,鹿港鎮",
+                "AreasElection": {
+                    "id": "53c410d5-7058-482e-a1cf-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c83-bc2c-4b75-acfd-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c86-8fc0-4c90-935c-5460acb5b862",
+                "name": "和美鎮",
+                "is_area": true,
+                "keywords": "2014,彰化縣,和美鎮",
+                "AreasElection": {
+                    "id": "53c410d7-77ac-4d5f-ade9-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c86-8fc0-4c90-935c-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c8a-f7a4-4a00-9626-5460acb5b862",
+                "name": "線西鄉",
+                "is_area": true,
+                "keywords": "2014,彰化縣,線西鄉",
+                "AreasElection": {
+                    "id": "53c410db-0908-4c9f-a7c8-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c8a-f7a4-4a00-9626-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c8b-011c-4404-84c2-5460acb5b862",
+                "name": "伸港鄉",
+                "is_area": true,
+                "keywords": "2014,彰化縣,伸港鄉",
+                "AreasElection": {
+                    "id": "53c410dc-f5b8-4f43-bc92-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c8b-011c-4404-84c2-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c91-4064-498a-a8a8-5460acb5b862",
+                "name": "秀水鄉",
+                "is_area": true,
+                "keywords": "2014,彰化縣,秀水鄉",
+                "AreasElection": {
+                    "id": "53c410dc-2668-420f-bf56-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c91-4064-498a-a8a8-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c92-7d10-484c-9e71-5460acb5b862",
+                "name": "花壇鄉",
+                "is_area": true,
+                "keywords": "2014,彰化縣,花壇鄉",
+                "AreasElection": {
+                    "id": "53c410de-a1ec-40fd-afee-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c92-7d10-484c-9e71-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c94-0c10-47ac-af7c-5460acb5b862",
+                "name": "芬園鄉",
+                "is_area": true,
+                "keywords": "2014,彰化縣,芬園鄉",
+                "AreasElection": {
+                    "id": "53c410df-1cd4-42c5-a384-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c94-0c10-47ac-af7c-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c96-1370-4d86-a7ff-5460acb5b862",
+                "name": "員林鎮",
+                "is_area": true,
+                "keywords": "2014,彰化縣,員林鎮",
+                "AreasElection": {
+                    "id": "53c410e0-5228-4434-a799-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c96-1370-4d86-a7ff-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c9c-adf8-4a55-89d8-5460acb5b862",
+                "name": "溪湖鎮",
+                "is_area": true,
+                "keywords": "2014,彰化縣,溪湖鎮",
+                "AreasElection": {
+                    "id": "53c410e2-5ae0-4a8a-9987-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c9c-adf8-4a55-89d8-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c9f-2c08-4039-b9a0-5460acb5b862",
+                "name": "田中鎮",
+                "is_area": true,
+                "keywords": "2014,彰化縣,田中鎮",
+                "AreasElection": {
+                    "id": "53c410e4-5cbc-4591-af6e-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01c9f-2c08-4039-b9a0-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01ca2-923c-481f-8715-5460acb5b862",
+                "name": "大村鄉",
+                "is_area": true,
+                "keywords": "2014,彰化縣,大村鄉",
+                "AreasElection": {
+                    "id": "53c410e5-5d08-4a6d-b590-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01ca2-923c-481f-8715-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01ca5-b7f0-4e7b-9121-5460acb5b862",
+                "name": "埔鹽鄉",
+                "is_area": true,
+                "keywords": "2014,彰化縣,埔鹽鄉",
+                "AreasElection": {
+                    "id": "53c410e7-9e44-4585-8e34-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01ca5-b7f0-4e7b-9121-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01ca9-7424-419e-9c28-5460acb5b862",
+                "name": "東門村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,埔心鄉,東門村",
+                "AreasElection": {
+                    "id": "53c410e8-cd5c-473b-a9cb-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01ca9-7424-419e-9c28-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01ca9-8f1c-4db1-9d77-5460acb5b862",
+                "name": "埔心鄉",
+                "is_area": true,
+                "keywords": "2014,彰化縣,埔心鄉",
+                "AreasElection": {
+                    "id": "53c410e8-4ca4-483b-8b21-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01ca9-8f1c-4db1-9d77-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01caa-0924-42ce-a43c-5460acb5b862",
+                "name": "瓦中村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,埔心鄉,瓦中村",
+                "AreasElection": {
+                    "id": "53c410e8-317c-400f-8a2e-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01caa-0924-42ce-a43c-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01caa-163c-4ef3-b683-5460acb5b862",
+                "name": "經口村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,埔心鄉,經口村",
+                "AreasElection": {
+                    "id": "53c410e8-0ac0-4c35-ba94-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01caa-163c-4ef3-b683-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01caa-3df0-4dbb-af7b-5460acb5b862",
+                "name": "大華村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,埔心鄉,大華村",
+                "AreasElection": {
+                    "id": "53c410e8-5110-4910-a053-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01caa-3df0-4dbb-af7b-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01caa-4d7c-46dd-8400-5460acb5b862",
+                "name": "瓦南村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,埔心鄉,瓦南村",
+                "AreasElection": {
+                    "id": "53c410e8-cab4-4be3-a541-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01caa-4d7c-46dd-8400-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01caa-692c-4bf8-8308-5460acb5b862",
+                "name": "義民村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,埔心鄉,義民村",
+                "AreasElection": {
+                    "id": "53c410e8-4874-427e-810f-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01caa-692c-4bf8-8308-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01caa-94f4-4515-bd8f-5460acb5b862",
+                "name": "太平村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,埔心鄉,太平村",
+                "AreasElection": {
+                    "id": "53c410e8-d348-4784-99ac-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01caa-94f4-4515-bd8f-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01caa-dad4-4b8b-9885-5460acb5b862",
+                "name": "油車村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,埔心鄉,油車村",
+                "AreasElection": {
+                    "id": "53c410e8-b958-44a2-8140-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01caa-dad4-4b8b-9885-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01caa-e984-4870-bcb7-5460acb5b862",
+                "name": "瓦北村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,埔心鄉,瓦北村",
+                "AreasElection": {
+                    "id": "53c410e8-50cc-4d48-ab74-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01caa-e984-4870-bcb7-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01caa-f7e8-4fa3-92b1-5460acb5b862",
+                "name": "埔心村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,埔心鄉,埔心村",
+                "AreasElection": {
+                    "id": "53c410e8-3b6c-4211-9008-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01caa-f7e8-4fa3-92b1-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cab-0154-40c6-82ae-5460acb5b862",
+                "name": "埤霞村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,埔心鄉,埤霞村",
+                "AreasElection": {
+                    "id": "53c410e9-a8e0-4eeb-813a-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01cab-0154-40c6-82ae-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cab-2184-4b49-9c18-5460acb5b862",
+                "name": "舊舘村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,埔心鄉,舊舘村",
+                "AreasElection": {
+                    "id": "53c410e8-73e8-4eea-a4e9-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01cab-2184-4b49-9c18-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cab-6618-489a-8e01-5460acb5b862",
+                "name": "新舘村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,埔心鄉,新舘村",
+                "AreasElection": {
+                    "id": "53c410e8-264c-49e0-9f46-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01cab-6618-489a-8e01-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cab-7c2c-4447-9577-5460acb5b862",
+                "name": "芎蕉村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,埔心鄉,芎蕉村",
+                "AreasElection": {
+                    "id": "53c410e8-7ffc-4342-8065-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01cab-7c2c-4447-9577-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cab-8f90-4fbd-b643-5460acb5b862",
+                "name": "仁里村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,埔心鄉,仁里村",
+                "AreasElection": {
+                    "id": "53c410e8-c878-4ef8-a5a4-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01cab-8f90-4fbd-b643-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cab-a208-4f5e-bd1e-5460acb5b862",
+                "name": "梧鳳村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,埔心鄉,梧鳳村",
+                "AreasElection": {
+                    "id": "53c410e8-2100-4a19-819b-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01cab-a208-4f5e-bd1e-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cab-c178-41ba-909f-5460acb5b862",
+                "name": "羅厝村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,埔心鄉,羅厝村",
+                "AreasElection": {
+                    "id": "53c410e8-85bc-44bf-8a04-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01cab-c178-41ba-909f-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cab-d218-4b0d-967b-5460acb5b862",
+                "name": "二重村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,埔心鄉,二重村",
+                "AreasElection": {
+                    "id": "53c410e8-fe40-45d0-a506-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01cab-d218-4b0d-967b-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cab-ea08-421e-8f73-5460acb5b862",
+                "name": "南舘村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,埔心鄉,南舘村",
+                "AreasElection": {
+                    "id": "53c410e8-cfe0-4261-8a3c-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01cab-ea08-421e-8f73-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cac-9644-41c5-913e-5460acb5b862",
+                "name": "永靖鄉",
+                "is_area": true,
+                "keywords": "2014,彰化縣,永靖鄉",
+                "AreasElection": {
+                    "id": "53c410e9-9a58-4881-a546-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01cac-9644-41c5-913e-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01caf-1120-4e86-b304-5460acb5b862",
+                "name": "社頭鄉",
+                "is_area": true,
+                "keywords": "2014,彰化縣,社頭鄉",
+                "AreasElection": {
+                    "id": "53c410ea-1144-44fe-a0d2-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01caf-1120-4e86-b304-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cb2-01b0-4c70-b1cb-5460acb5b862",
+                "name": "合和村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,二水鄉,合和村",
+                "AreasElection": {
+                    "id": "53c410eb-07fc-4d02-b8e6-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01cb2-01b0-4c70-b1cb-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cb2-6c2c-4b17-97d2-5460acb5b862",
+                "name": "過圳村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,二水鄉,過圳村",
+                "AreasElection": {
+                    "id": "53c410eb-1294-4733-be35-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01cb2-6c2c-4b17-97d2-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cb2-baac-48ac-9bab-5460acb5b862",
+                "name": "五伯村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,二水鄉,五伯村",
+                "AreasElection": {
+                    "id": "53c410eb-4790-4ba3-8dbc-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01cb2-baac-48ac-9bab-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cb2-ed88-46e0-adee-5460acb5b862",
+                "name": "二水鄉",
+                "is_area": true,
+                "keywords": "2014,彰化縣,二水鄉",
+                "AreasElection": {
+                    "id": "53c410eb-9854-42e5-ae5e-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01cb2-ed88-46e0-adee-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cb3-29cc-4372-8552-5460acb5b862",
+                "name": "二水村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,二水鄉,二水村",
+                "AreasElection": {
+                    "id": "53c410ec-65f0-4690-a5f9-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01cb3-29cc-4372-8552-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cb3-4f0c-44d8-93b3-5460acb5b862",
+                "name": "合興村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,二水鄉,合興村",
+                "AreasElection": {
+                    "id": "53c410ec-892c-4c94-855d-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01cb3-4f0c-44d8-93b3-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cb3-54b0-4f32-b7f8-5460acb5b862",
+                "name": "光化村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,二水鄉,光化村",
+                "AreasElection": {
+                    "id": "53c410eb-28f8-4126-9c6a-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01cb3-54b0-4f32-b7f8-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cb3-6080-4cc2-9e9a-5460acb5b862",
+                "name": "修仁村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,二水鄉,修仁村",
+                "AreasElection": {
+                    "id": "53c410ec-7ff4-4db8-a195-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01cb3-6080-4cc2-9e9a-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cb3-6248-4b88-ab97-5460acb5b862",
+                "name": "聖化村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,二水鄉,聖化村",
+                "AreasElection": {
+                    "id": "53c410ec-2bbc-43c8-ade8-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01cb3-6248-4b88-ab97-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cb3-6498-4993-9bf6-5460acb5b862",
+                "name": "裕民村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,二水鄉,裕民村",
+                "AreasElection": {
+                    "id": "53c410ec-11d0-42b3-9596-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01cb3-6498-4993-9bf6-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cb3-85a8-48e3-949a-5460acb5b862",
+                "name": "惠民村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,二水鄉,惠民村",
+                "AreasElection": {
+                    "id": "53c410ec-35f0-436e-a9b4-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01cb3-85a8-48e3-949a-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cb3-9c90-4cbc-a3d8-5460acb5b862",
+                "name": "大園村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,二水鄉,大園村",
+                "AreasElection": {
+                    "id": "53c410ec-29bc-432e-be94-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01cb3-9c90-4cbc-a3d8-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cb3-d594-45ef-b149-5460acb5b862",
+                "name": "文化村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,二水鄉,文化村",
+                "AreasElection": {
+                    "id": "53c410eb-8a5c-49ae-99c7-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01cb3-d594-45ef-b149-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cb4-4aa8-4d36-9412-5460acb5b862",
+                "name": "北斗鎮",
+                "is_area": true,
+                "keywords": "2014,彰化縣,北斗鎮",
+                "AreasElection": {
+                    "id": "53c410ec-d354-41ee-9010-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01cb4-4aa8-4d36-9412-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cb4-8c80-4fb2-9756-5460acb5b862",
+                "name": "源泉村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,二水鄉,源泉村",
+                "AreasElection": {
+                    "id": "53c410ec-94bc-46d0-80cd-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01cb4-8c80-4fb2-9756-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cb4-9640-4081-aaa0-5460acb5b862",
+                "name": "倡和村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,二水鄉,倡和村",
+                "AreasElection": {
+                    "id": "53c410ec-7a70-4c9b-81f2-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01cb4-9640-4081-aaa0-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cb4-b4f0-4ea4-987f-5460acb5b862",
+                "name": "十五村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,二水鄉,十五村",
+                "AreasElection": {
+                    "id": "53c410eb-d338-4341-9b68-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01cb4-b4f0-4ea4-987f-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cb4-d860-456c-bde6-5460acb5b862",
+                "name": "復興村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,二水鄉,復興村",
+                "AreasElection": {
+                    "id": "53c410eb-cbe4-485e-956f-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01cb4-d860-456c-bde6-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cb6-0a30-496a-a92a-5460acb5b862",
+                "name": "二林鎮",
+                "is_area": true,
+                "keywords": "2014,彰化縣,二林鎮",
+                "AreasElection": {
+                    "id": "53c410ed-19a8-40f0-99ed-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01cb6-0a30-496a-a92a-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cb9-5534-40f1-8409-5460acb5b862",
+                "name": "田尾鄉",
+                "is_area": true,
+                "keywords": "2014,彰化縣,田尾鄉",
+                "AreasElection": {
+                    "id": "53c410ee-2268-44d1-84db-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01cb9-5534-40f1-8409-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cbc-38b8-43ad-87e3-5460acb5b862",
+                "name": "埤頭鄉",
+                "is_area": true,
+                "keywords": "2014,彰化縣,埤頭鄉",
+                "AreasElection": {
+                    "id": "53c410ef-7748-438d-a05c-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01cbc-38b8-43ad-87e3-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cbe-bb44-4f43-9f2d-5460acb5b862",
+                "name": "芳苑鄉",
+                "is_area": true,
+                "keywords": "2014,彰化縣,芳苑鄉",
+                "AreasElection": {
+                    "id": "53c410f1-ca58-4e1c-b2f2-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01cbe-bb44-4f43-9f2d-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cc1-35ac-4208-9c2b-5460acb5b862",
+                "name": "山腳村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,大城鄉,山腳村",
+                "AreasElection": {
+                    "id": "53c410f3-3d00-4cfe-8030-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01cc1-35ac-4208-9c2b-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cc1-50cc-4497-b64c-5460acb5b862",
+                "name": "大城村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,大城鄉,大城村",
+                "AreasElection": {
+                    "id": "53c410f3-e06c-474d-b0f8-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01cc1-50cc-4497-b64c-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cc1-5258-4aac-b5e4-5460acb5b862",
+                "name": "大城鄉",
+                "is_area": true,
+                "keywords": "2014,彰化縣,大城鄉",
+                "AreasElection": {
+                    "id": "53c410f3-3ca8-46bf-aaac-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01cc1-5258-4aac-b5e4-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cc1-9b34-45c4-9872-5460acb5b862",
+                "name": "上山村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,大城鄉,上山村",
+                "AreasElection": {
+                    "id": "53c410f3-9bb4-4b38-9b99-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01cc1-9b34-45c4-9872-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cc1-ad68-4fb2-9f4b-5460acb5b862",
+                "name": "東城村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,大城鄉,東城村",
+                "AreasElection": {
+                    "id": "53c410f3-14f4-4e8f-bae9-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01cc1-ad68-4fb2-9f4b-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cc1-c7ec-478f-84f6-5460acb5b862",
+                "name": "菜寮村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,大城鄉,菜寮村",
+                "AreasElection": {
+                    "id": "53c410f4-aef0-4df7-96ed-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01cc1-c7ec-478f-84f6-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cc1-eff0-43fe-afc5-5460acb5b862",
+                "name": "西城村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,大城鄉,西城村",
+                "AreasElection": {
+                    "id": "53c410f3-0490-4acd-adbb-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01cc1-eff0-43fe-afc5-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cc1-fa48-455d-9f1a-5460acb5b862",
+                "name": "潭墘村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,大城鄉,潭墘村",
+                "AreasElection": {
+                    "id": "53c410f3-13d8-4de1-9977-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01cc1-fa48-455d-9f1a-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cc2-2ddc-407a-92e8-5460acb5b862",
+                "name": "三豐村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,大城鄉,三豐村",
+                "AreasElection": {
+                    "id": "53c410f3-d634-4e29-be4c-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01cc2-2ddc-407a-92e8-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cc2-7ad4-44d1-9b48-5460acb5b862",
+                "name": "豐美村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,大城鄉,豐美村",
+                "AreasElection": {
+                    "id": "53c410f3-f7f0-4bf5-81a8-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01cc2-7ad4-44d1-9b48-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cc2-8bcc-44e3-9e50-5460acb5b862",
+                "name": "東港村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,大城鄉,東港村",
+                "AreasElection": {
+                    "id": "53c410f4-41c0-4b5d-8f7c-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01cc2-8bcc-44e3-9e50-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cc2-9c00-4fbd-913c-5460acb5b862",
+                "name": "竹塘鄉",
+                "is_area": true,
+                "keywords": "2014,彰化縣,竹塘鄉",
+                "AreasElection": {
+                    "id": "53c410f4-eaa8-4a0e-a9d0-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01cc2-9c00-4fbd-913c-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cc2-d2cc-4fe7-920c-5460acb5b862",
+                "name": "公館村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,大城鄉,公館村",
+                "AreasElection": {
+                    "id": "53c410f3-f800-4d36-878d-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01cc2-d2cc-4fe7-920c-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cc2-dca4-4c9f-8131-5460acb5b862",
+                "name": "西港村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,大城鄉,西港村",
+                "AreasElection": {
+                    "id": "53c410f4-d868-41be-ba62-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01cc2-dca4-4c9f-8131-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cc2-e6e0-4c3b-ad48-5460acb5b862",
+                "name": "頂庄村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,大城鄉,頂庄村",
+                "AreasElection": {
+                    "id": "53c410f4-8ee8-4e95-bed0-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01cc2-e6e0-4c3b-ad48-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cc2-f42c-4298-80f5-5460acb5b862",
+                "name": "永和村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,大城鄉,永和村",
+                "AreasElection": {
+                    "id": "53c410f3-5968-41a3-bbaa-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01cc2-f42c-4298-80f5-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cc4-a7e8-4d78-bd1a-5460acb5b862",
+                "name": "溪州鄉",
+                "is_area": true,
+                "keywords": "2014,彰化縣,溪州鄉",
+                "AreasElection": {
+                    "id": "53c410f5-76e4-4dcc-a24b-6f55acb5b862",
+                    "Election_id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                    "Area_id": "53c01cc4-a7e8-4d78-bd1a-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "縣市議員",
+                "lft": "306",
+                "rght": "607",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02083-6290-44f4-8dab-5c5aacb5b862",
+                "parent_id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "399",
+                "rght": "418",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c410d1-ae90-440d-8faf-6f55acb5b862",
+                "parent_id": "53c02083-6290-44f4-8dab-5c5aacb5b862",
+                "name": "第09選區[平地]",
+                "lft": "416",
+                "rght": "417",
+                "population": "1523633",
+                "population_electors": "1199113",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-f03c-48fd-bf14-74a5cf91e152",
+                "keywords": "2014-11,縣市議員,彰化縣,第09選區[平地]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

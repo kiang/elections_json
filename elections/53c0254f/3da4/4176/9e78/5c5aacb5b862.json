@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0254f-3da4-4176-9e78-5c5aacb5b862",
+            "parent_id": "53c0254a-5b94-49bd-8036-5c5aacb5b862",
+            "name": "大湳里",
+            "lft": "16855",
+            "rght": "16856",
+            "population": "3039",
+            "population_electors": "2419",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c8095-c870-4870-bc36-61a3cf91e152",
+            "keywords": "2014-11,村里長,臺中市,豐原區,大湳里"
+        },
+        "Candidate": [
+            {
+                "id": "53c026f8-b35c-48d9-98e7-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "張鳳茹",
+                "party": "無",
+                "gender": "f",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c0254f-3da4-4176-9e78-5c5aacb5b862"
+            },
+            {
+                "id": "540b53d3-724c-4488-93c4-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "林玉裕",
+                "party": "無",
+                "gender": "f",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c0254f-3da4-4176-9e78-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01f86-02e4-4299-9571-5460acb5b862",
+                "name": "大湳里",
+                "is_area": true,
+                "keywords": "2014,臺中市,豐原區,大湳里",
+                "AreasElection": {
+                    "id": "53c0254f-f648-4096-b210-5c5aacb5b862",
+                    "Election_id": "53c0254f-3da4-4176-9e78-5c5aacb5b862",
+                    "Area_id": "53c01f86-02e4-4299-9571-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0254a-5b94-49bd-8036-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "豐原區",
+                "lft": "16830",
+                "rght": "16903",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0254f-3da4-4176-9e78-5c5aacb5b862",
+                "parent_id": "53c0254a-5b94-49bd-8036-5c5aacb5b862",
+                "name": "大湳里",
+                "lft": "16855",
+                "rght": "16856",
+                "population": "3039",
+                "population_electors": "2419",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c8095-c870-4870-bc36-61a3cf91e152",
+                "keywords": "2014-11,村里長,臺中市,豐原區,大湳里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

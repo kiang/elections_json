@@ -1,0 +1,174 @@
+{
+    "election": {
+        "Election": {
+            "id": "5508673b-c30c-4046-b480-23d86ab936af",
+            "parent_id": "5508635a-9038-4aa1-b7c7-35296ab936af",
+            "name": "第02選區[區域]",
+            "lft": "40732",
+            "rght": "40733",
+            "population": "0",
+            "population_electors": "0",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "keywords": "2016-01,立法委員,屏東縣,第02選區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "550c640c-bcf0-4d72-92ad-025cacb5b862",
+                "image": "55af74d8\/9798\/4a17\/bdcb\/09286ab936af.jpg",
+                "stage": "1",
+                "name": "王進士",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": null,
+                "name_english": "",
+                "election_id": "5508673b-c30c-4046-b480-23d86ab936af"
+            },
+            {
+                "id": "550ce791-1a54-40b9-b873-126d6ab936af",
+                "image": "550ce791\/a870\/4036\/a9ec\/126d6ab936af.jpg",
+                "stage": "0",
+                "name": "李世斌",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": null,
+                "name_english": "Lee Shih pin",
+                "election_id": "5508673b-c30c-4046-b480-23d86ab936af"
+            },
+            {
+                "id": "550ce7a5-3ac4-4035-a46b-084b6ab936af",
+                "image": "55af734b\/6650\/4946\/918f\/078c6ab936af.jpg",
+                "stage": "1",
+                "name": "鍾佳濱",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": null,
+                "name_english": "",
+                "election_id": "5508673b-c30c-4046-b480-23d86ab936af"
+            },
+            {
+                "id": "550ce7bd-1220-492f-9e59-0af26ab936af",
+                "image": "550ce7bd\/05f0\/4fdd\/82cf\/0af26ab936af.jpg",
+                "stage": "0",
+                "name": "李清聖",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": null,
+                "name_english": "",
+                "election_id": "5508673b-c30c-4046-b480-23d86ab936af"
+            },
+            {
+                "id": "550ce7e3-850c-454f-a938-08496ab936af",
+                "image": "",
+                "stage": "0",
+                "name": "施錦芳",
+                "party": "民主進步黨",
+                "gender": "f",
+                "no": null,
+                "name_english": "",
+                "election_id": "5508673b-c30c-4046-b480-23d86ab936af"
+            }
+        ],
+        "Area": [
+            {
+                "id": "550859c8-0588-4902-ae7d-3584acb5b862",
+                "name": "屏東市",
+                "is_area": true,
+                "keywords": "2016,屏東縣,屏東市",
+                "AreasElection": {
+                    "id": "550a74d8-430c-48fb-8c23-70006ab936af",
+                    "Election_id": "5508673b-c30c-4046-b480-23d86ab936af",
+                    "Area_id": "550859c8-0588-4902-ae7d-3584acb5b862"
+                }
+            },
+            {
+                "id": "550859cf-e544-495c-b6e8-3584acb5b862",
+                "name": "萬丹鄉",
+                "is_area": true,
+                "keywords": "2016,屏東縣,萬丹鄉",
+                "AreasElection": {
+                    "id": "550a74d8-dbbc-4cc4-962e-70006ab936af",
+                    "Election_id": "5508673b-c30c-4046-b480-23d86ab936af",
+                    "Area_id": "550859cf-e544-495c-b6e8-3584acb5b862"
+                }
+            },
+            {
+                "id": "550859d1-5f50-4a21-8f93-3584acb5b862",
+                "name": "麟洛鄉",
+                "is_area": true,
+                "keywords": "2016,屏東縣,麟洛鄉",
+                "AreasElection": {
+                    "id": "550a74d8-7114-43d0-bedb-70006ab936af",
+                    "Election_id": "5508673b-c30c-4046-b480-23d86ab936af",
+                    "Area_id": "550859d1-5f50-4a21-8f93-3584acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "55085db5-2e9c-4cde-8103-23d86ab936af",
+                "parent_id": null,
+                "name": "2016-01",
+                "lft": "40579",
+                "rght": "40780",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "55085e1a-c494-40e0-ba31-2f916ab936af",
+                "parent_id": "55085db5-2e9c-4cde-8103-23d86ab936af",
+                "name": "立法委員",
+                "lft": "40582",
+                "rght": "40779",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "5508635a-9038-4aa1-b7c7-35296ab936af",
+                "parent_id": "55085e1a-c494-40e0-ba31-2f916ab936af",
+                "name": "屏東縣",
+                "lft": "40729",
+                "rght": "40736",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "0",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": ""
+            }
+        },
+        {
+            "Election": {
+                "id": "5508673b-c30c-4046-b480-23d86ab936af",
+                "parent_id": "5508635a-9038-4aa1-b7c7-35296ab936af",
+                "name": "第02選區[區域]",
+                "lft": "40732",
+                "rght": "40733",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2016-01,立法委員,屏東縣,第02選區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

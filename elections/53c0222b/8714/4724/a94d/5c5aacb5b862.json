@@ -1,0 +1,145 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0222b-8714-4724-a94d-5c5aacb5b862",
+            "parent_id": "53c0222a-ed24-4ce5-ae43-5c5aacb5b862",
+            "name": "梅埔里",
+            "lft": "7035",
+            "rght": "7036",
+            "population": "1388",
+            "population_electors": "1123",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5473fb11-0280-4c0f-a71f-1b6ecf91e152",
+            "keywords": "2014-11,村里長,嘉義縣,太保市,梅埔里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0281c-c51c-46b2-890e-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "官德發",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "KUAN TE FA",
+                "election_id": "53c0222b-8714-4724-a94d-5c5aacb5b862"
+            },
+            {
+                "id": "540b5586-64c0-4296-b480-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "賴商農",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c0222b-8714-4724-a94d-5c5aacb5b862"
+            },
+            {
+                "id": "540b5586-8150-4970-b267-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "官峻達",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "KUAN CHUN TA",
+                "election_id": "53c0222b-8714-4724-a94d-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d1c-dfc8-40f6-a5f2-5460acb5b862",
+                "name": "梅埔里",
+                "is_area": true,
+                "keywords": "2014,嘉義縣,太保市,梅埔里",
+                "AreasElection": {
+                    "id": "53c0222b-62c0-4af7-b2de-5c5aacb5b862",
+                    "Election_id": "53c0222b-8714-4724-a94d-5c5aacb5b862",
+                    "Area_id": "53c01d1c-dfc8-40f6-a5f2-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0222a-d5c0-465f-849c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "嘉義縣",
+                "lft": "7019",
+                "rght": "7770",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0222a-ed24-4ce5-ae43-5c5aacb5b862",
+                "parent_id": "53c0222a-d5c0-465f-849c-5c5aacb5b862",
+                "name": "太保市",
+                "lft": "7020",
+                "rght": "7057",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0222b-8714-4724-a94d-5c5aacb5b862",
+                "parent_id": "53c0222a-ed24-4ce5-ae43-5c5aacb5b862",
+                "name": "梅埔里",
+                "lft": "7035",
+                "rght": "7036",
+                "population": "1388",
+                "population_electors": "1123",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5473fb11-0280-4c0f-a71f-1b6ecf91e152",
+                "keywords": "2014-11,村里長,嘉義縣,太保市,梅埔里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

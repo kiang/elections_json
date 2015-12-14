@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02487-c480-4d12-886b-5c5aacb5b862",
+            "parent_id": "53c02480-1acc-4cf5-8b74-5c5aacb5b862",
+            "name": "正義里",
+            "lft": "14607",
+            "rght": "14608",
+            "population": "1953",
+            "population_electors": "1621",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068c-7b48-4c8a-89c1-1a32cf91e152",
+            "keywords": "2014-11,村里長,新北市,三重區,正義里"
+        },
+        "Candidate": [
+            {
+                "id": "53c026a5-d2b8-4647-9748-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "黃烈山",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02487-c480-4d12-886b-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01ee2-2e44-4ea0-9cab-5460acb5b862",
+                "name": "正義里",
+                "is_area": true,
+                "keywords": "2014,新北市,三重區,正義里",
+                "AreasElection": {
+                    "id": "53c02487-3288-44cb-9db4-5c5aacb5b862",
+                    "Election_id": "53c02487-c480-4d12-886b-5c5aacb5b862",
+                    "Area_id": "53c01ee2-2e44-4ea0-9cab-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新北市",
+                "lft": "14261",
+                "rght": "16384",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02480-1acc-4cf5-8b74-5c5aacb5b862",
+                "parent_id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "name": "三重區",
+                "lft": "14516",
+                "rght": "14755",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02487-c480-4d12-886b-5c5aacb5b862",
+                "parent_id": "53c02480-1acc-4cf5-8b74-5c5aacb5b862",
+                "name": "正義里",
+                "lft": "14607",
+                "rght": "14608",
+                "population": "1953",
+                "population_electors": "1621",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068c-7b48-4c8a-89c1-1a32cf91e152",
+                "keywords": "2014-11,村里長,新北市,三重區,正義里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,167 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02276-5418-4d51-9ead-5c5aacb5b862",
+            "parent_id": "53c02274-d9cc-401e-a4c0-5c5aacb5b862",
+            "name": "船頭里",
+            "lft": "8003",
+            "rght": "8004",
+            "population": "6494",
+            "population_electors": "4891",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54773ba1-1670-47d9-98ce-1915cf91e152",
+            "keywords": "2014-11,村里長,屏東縣,東港鎮,船頭里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02846-5cac-4bce-b0fb-5dffacb5b862",
+                "image": "54cf6049\/eed8\/4591\/9d90\/08d06ab936af.jpg",
+                "stage": "0",
+                "name": "葉正霖",
+                "party": "",
+                "gender": "m",
+                "no": "0",
+                "name_english": "",
+                "election_id": "53c02276-5418-4d51-9ead-5c5aacb5b862"
+            },
+            {
+                "id": "540b55ba-0900-43ef-82e9-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "葉凰如",
+                "party": "無",
+                "gender": "f",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c02276-5418-4d51-9ead-5c5aacb5b862"
+            },
+            {
+                "id": "540b55ba-16c4-4dde-9993-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "葉而項",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02276-5418-4d51-9ead-5c5aacb5b862"
+            },
+            {
+                "id": "540b55ba-1be0-4304-9ff7-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "林文利",
+                "party": "無",
+                "gender": "m",
+                "no": "4",
+                "name_english": "",
+                "election_id": "53c02276-5418-4d51-9ead-5c5aacb5b862"
+            },
+            {
+                "id": "540b55bb-7cfc-436d-a9cd-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "許源富",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53c02276-5418-4d51-9ead-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d60-8bac-44e9-acf6-5460acb5b862",
+                "name": "船頭里",
+                "is_area": true,
+                "keywords": "2014,屏東縣,東港鎮,船頭里",
+                "AreasElection": {
+                    "id": "53c02276-594c-4874-95a8-5c5aacb5b862",
+                    "Election_id": "53c02276-5418-4d51-9ead-5c5aacb5b862",
+                    "Area_id": "53c01d60-8bac-44e9-acf6-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "7771",
+                "rght": "8766",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02274-d9cc-401e-a4c0-5c5aacb5b862",
+                "parent_id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "name": "東港鎮",
+                "lft": "7976",
+                "rght": "8023",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02276-5418-4d51-9ead-5c5aacb5b862",
+                "parent_id": "53c02274-d9cc-401e-a4c0-5c5aacb5b862",
+                "name": "船頭里",
+                "lft": "8003",
+                "rght": "8004",
+                "population": "6494",
+                "population_electors": "4891",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54773ba1-1670-47d9-98ce-1915cf91e152",
+                "keywords": "2014-11,村里長,屏東縣,東港鎮,船頭里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

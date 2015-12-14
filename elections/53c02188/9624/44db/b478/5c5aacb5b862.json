@@ -1,0 +1,145 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02188-9624-44db-b478-5c5aacb5b862",
+            "parent_id": "53c02187-bc24-49db-8512-5c5aacb5b862",
+            "name": "新興里",
+            "lft": "4895",
+            "rght": "4896",
+            "population": "944",
+            "population_electors": "723",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-9b3c-44de-a7c3-74a5cf91e152",
+            "keywords": "2014-11,村里長,彰化縣,員林鎮,新興里"
+        },
+        "Candidate": [
+            {
+                "id": "53c027c7-aa34-4d3e-aeec-5dffacb5b862",
+                "image": "545f3b5c\/0a48\/4325\/9f2a\/24b98e043389.jpg",
+                "stage": "2",
+                "name": "石柳",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "SHIH LIU",
+                "election_id": "53c02188-9624-44db-b478-5c5aacb5b862"
+            },
+            {
+                "id": "540b5509-cb14-4a5b-b549-1926acb5b862",
+                "image": "545f3b96\/b6fc\/4183\/b462\/170e8e043389.jpg",
+                "stage": "1",
+                "name": "賴秀寶",
+                "party": "無",
+                "gender": "f",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c02188-9624-44db-b478-5c5aacb5b862"
+            },
+            {
+                "id": "540b550a-e6bc-404c-b202-1926acb5b862",
+                "image": "545f3c28\/39d4\/42ef\/a132\/24b98e043389.jpg",
+                "stage": "1",
+                "name": "張厚穰",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "CHANG HOU JANG",
+                "election_id": "53c02188-9624-44db-b478-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c97-1594-49a1-9b51-5460acb5b862",
+                "name": "新興里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,員林鎮,新興里",
+                "AreasElection": {
+                    "id": "53c02188-c090-4510-8610-5c5aacb5b862",
+                    "Election_id": "53c02188-9624-44db-b478-5c5aacb5b862",
+                    "Area_id": "53c01c97-1594-49a1-9b51-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "4417",
+                "rght": "5648",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02187-bc24-49db-8512-5c5aacb5b862",
+                "parent_id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "name": "員林鎮",
+                "lft": "4886",
+                "rght": "4969",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02188-9624-44db-b478-5c5aacb5b862",
+                "parent_id": "53c02187-bc24-49db-8512-5c5aacb5b862",
+                "name": "新興里",
+                "lft": "4895",
+                "rght": "4896",
+                "population": "944",
+                "population_electors": "723",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-9b3c-44de-a7c3-74a5cf91e152",
+                "keywords": "2014-11,村里長,彰化縣,員林鎮,新興里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

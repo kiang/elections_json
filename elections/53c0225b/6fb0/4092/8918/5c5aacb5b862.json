@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0225b-6fb0-4092-8918-5c5aacb5b862",
+            "parent_id": "53c0225b-e980-453c-93e3-5c5aacb5b862",
+            "name": "梅東村",
+            "lft": "7671",
+            "rght": "7672",
+            "population": "2698",
+            "population_electors": "2271",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546ef559-8740-48a8-9654-208ecf91e152",
+            "keywords": "2014-11,村里長,嘉義縣,梅山鄉,梅東村"
+        },
+        "Candidate": [
+            {
+                "id": "53c02838-e154-46c4-9541-5dffacb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "林劉秀珠",
+                "party": "無",
+                "gender": "f",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c0225b-6fb0-4092-8918-5c5aacb5b862"
+            },
+            {
+                "id": "540b55a8-be8c-4f92-bdb4-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "劉文科",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "Liu Wen ko",
+                "election_id": "53c0225b-6fb0-4092-8918-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d48-561c-4a93-b900-5460acb5b862",
+                "name": "梅東村",
+                "is_area": true,
+                "keywords": "2014,嘉義縣,梅山鄉,梅東村",
+                "AreasElection": {
+                    "id": "53c0225b-635c-4c67-adf0-5c5aacb5b862",
+                    "Election_id": "53c0225b-6fb0-4092-8918-5c5aacb5b862",
+                    "Area_id": "53c01d48-561c-4a93-b900-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0222a-d5c0-465f-849c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "嘉義縣",
+                "lft": "7019",
+                "rght": "7770",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0225b-e980-453c-93e3-5c5aacb5b862",
+                "parent_id": "53c0222a-d5c0-465f-849c-5c5aacb5b862",
+                "name": "梅山鄉",
+                "lft": "7670",
+                "rght": "7707",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0225b-6fb0-4092-8918-5c5aacb5b862",
+                "parent_id": "53c0225b-e980-453c-93e3-5c5aacb5b862",
+                "name": "梅東村",
+                "lft": "7671",
+                "rght": "7672",
+                "population": "2698",
+                "population_electors": "2271",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546ef559-8740-48a8-9654-208ecf91e152",
+                "keywords": "2014-11,村里長,嘉義縣,梅山鄉,梅東村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

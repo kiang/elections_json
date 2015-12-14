@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02596-416c-40e6-91bc-5c5aacb5b862",
+            "parent_id": "53c02592-6284-46c8-b7fd-5c5aacb5b862",
+            "name": "塗城里",
+            "lft": "17663",
+            "rght": "17664",
+            "population": "9633",
+            "population_electors": "7722",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c8095-ae9c-4b47-9185-61a3cf91e152",
+            "keywords": "2014-11,村里長,臺中市,大里區,塗城里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0271a-beac-4405-9af2-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "黃仁耀",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c02596-416c-40e6-91bc-5c5aacb5b862"
+            },
+            {
+                "id": "540b53f9-94dc-47fa-b282-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "王李惠美",
+                "party": "民主進步黨",
+                "gender": "f",
+                "no": "1",
+                "name_english": "WANG LI HUI MEI",
+                "election_id": "53c02596-416c-40e6-91bc-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01fbe-bb9c-470e-ad51-5460acb5b862",
+                "name": "塗城里",
+                "is_area": true,
+                "keywords": "2014,臺中市,大里區,塗城里",
+                "AreasElection": {
+                    "id": "53c02596-15cc-46d3-b219-5c5aacb5b862",
+                    "Election_id": "53c02596-416c-40e6-91bc-5c5aacb5b862",
+                    "Area_id": "53c01fbe-bb9c-470e-ad51-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02592-6284-46c8-b7fd-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "大里區",
+                "lft": "17620",
+                "rght": "17675",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02596-416c-40e6-91bc-5c5aacb5b862",
+                "parent_id": "53c02592-6284-46c8-b7fd-5c5aacb5b862",
+                "name": "塗城里",
+                "lft": "17663",
+                "rght": "17664",
+                "population": "9633",
+                "population_electors": "7722",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c8095-ae9c-4b47-9185-61a3cf91e152",
+                "keywords": "2014-11,村里長,臺中市,大里區,塗城里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

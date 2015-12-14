@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02109-64d4-4498-9c02-5c5aacb5b862",
+            "parent_id": "53c02109-1444-4b17-96a3-5c5aacb5b862",
+            "name": "珍珠村",
+            "lft": "3263",
+            "rght": "3264",
+            "population": "1863",
+            "population_electors": "1492",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-f074-482c-9148-2adbcf91e152",
+            "keywords": "2014-11,村里長,宜蘭縣,冬山鄉,珍珠村"
+        },
+        "Candidate": [
+            {
+                "id": "53c02761-71c0-40cd-ade8-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "林自強",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02109-64d4-4498-9c02-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01bec-2db0-4bb6-b763-5460acb5b862",
+                "name": "珍珠村",
+                "is_area": true,
+                "keywords": "2014,宜蘭縣,冬山鄉,珍珠村",
+                "AreasElection": {
+                    "id": "53c02109-4214-4383-bf94-5c5aacb5b862",
+                    "Election_id": "53c02109-64d4-4498-9c02-5c5aacb5b862",
+                    "Area_id": "53c01bec-2db0-4bb6-b763-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ef-6268-4b1a-a16d-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "宜蘭縣",
+                "lft": "2929",
+                "rght": "3420",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02109-1444-4b17-96a3-5c5aacb5b862",
+                "parent_id": "53c020ef-6268-4b1a-a16d-5c5aacb5b862",
+                "name": "冬山鄉",
+                "lft": "3262",
+                "rght": "3311",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02109-64d4-4498-9c02-5c5aacb5b862",
+                "parent_id": "53c02109-1444-4b17-96a3-5c5aacb5b862",
+                "name": "珍珠村",
+                "lft": "3263",
+                "rght": "3264",
+                "population": "1863",
+                "population_electors": "1492",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-f074-482c-9148-2adbcf91e152",
+                "keywords": "2014-11,村里長,宜蘭縣,冬山鄉,珍珠村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,178 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c023bf-2eb0-4bbf-aff6-5c5aacb5b862",
+            "parent_id": "53c023bb-9e20-4a96-90d6-5c5aacb5b862",
+            "name": "成福里",
+            "lft": "12107",
+            "rght": "12108",
+            "population": "7895",
+            "population_electors": "6459",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-a5ec-47d0-aa67-4187cf91e152",
+            "keywords": "2014-11,村里長,臺北市,南港區,成福里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02647-4d60-4233-ae0c-5dffacb5b862",
+                "image": null,
+                "stage": "0",
+                "name": "吳勝喜",
+                "party": null,
+                "gender": null,
+                "no": "0",
+                "name_english": "",
+                "election_id": "53c023bf-2eb0-4bbf-aff6-5c5aacb5b862"
+            },
+            {
+                "id": "53f5522f-3228-454b-9dc4-6106cb455a61",
+                "image": "541ec859\/a508\/4178\/9420\/7470cb455a61.jpg",
+                "stage": "1",
+                "name": "卜學明",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "Buu Shyue Ming",
+                "election_id": "53c023bf-2eb0-4bbf-aff6-5c5aacb5b862"
+            },
+            {
+                "id": "540b5303-0568-46b0-9eaa-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "陳金木",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "CHEN CHING MU",
+                "election_id": "53c023bf-2eb0-4bbf-aff6-5c5aacb5b862"
+            },
+            {
+                "id": "540b5303-2ba8-4dfe-8993-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "王秋娥",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c023bf-2eb0-4bbf-aff6-5c5aacb5b862"
+            },
+            {
+                "id": "540b5303-2c2c-4e76-a81c-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "廖惠",
+                "party": "無",
+                "gender": "f",
+                "no": "4",
+                "name_english": "LIAO HUI",
+                "election_id": "53c023bf-2eb0-4bbf-aff6-5c5aacb5b862"
+            },
+            {
+                "id": "540b5303-aa44-41a3-8d36-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "陳禮財",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "5",
+                "name_english": "CHEN LI TSAI",
+                "election_id": "53c023bf-2eb0-4bbf-aff6-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01e32-efc8-498e-81e9-5460acb5b862",
+                "name": "成福里",
+                "is_area": true,
+                "keywords": "2014,臺北市,南港區,成福里",
+                "AreasElection": {
+                    "id": "53c023bf-d388-4d69-8409-5c5aacb5b862",
+                    "Election_id": "53c023bf-2eb0-4bbf-aff6-5c5aacb5b862",
+                    "Area_id": "53c01e32-efc8-498e-81e9-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023bb-9e20-4a96-90d6-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "南港區",
+                "lft": "12082",
+                "rght": "12123",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023bf-2eb0-4bbf-aff6-5c5aacb5b862",
+                "parent_id": "53c023bb-9e20-4a96-90d6-5c5aacb5b862",
+                "name": "成福里",
+                "lft": "12107",
+                "rght": "12108",
+                "population": "7895",
+                "population_electors": "6459",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-a5ec-47d0-aa67-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,南港區,成福里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0207b-4028-4d9f-9c8b-5c5aacb5b862",
+            "parent_id": "53c0202e-ed38-44bb-8e78-5460acb5b862",
+            "name": "高雄市",
+            "lft": "7",
+            "rght": "8",
+            "population": "2776752",
+            "population_electors": "2235929",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb720-672c-4352-b885-2adbcf91e152",
+            "keywords": "2014-11,直轄市長,高雄市"
+        },
+        "Candidate": [
+            {
+                "id": "53c028c1-6850-437c-abd5-5dffacb5b862",
+                "image": "542e9e10\/a920\/480a\/b492\/3a77cb455a61.jpg",
+                "stage": "1",
+                "name": "楊秋興",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "3",
+                "name_english": "Yang Chiu Hsimg",
+                "election_id": "53c0207b-4028-4d9f-9c8b-5c5aacb5b862"
+            },
+            {
+                "id": "53c028c8-8c38-4d45-a30a-5dffacb5b862",
+                "image": "542e9ebd\/c7a8\/49fd\/bfe7\/4d0fcb455a61.jpg",
+                "stage": "2",
+                "name": "陳菊",
+                "party": "民主進步黨",
+                "gender": "f",
+                "no": "2",
+                "name_english": "CHEN CHU",
+                "election_id": "53c0207b-4028-4d9f-9c8b-5c5aacb5b862"
+            },
+            {
+                "id": "540b569e-0390-4925-a2fb-1926acb5b862",
+                "image": "542ea521\/c474\/41ae\/ba2d\/4cfacb455a61.jpg",
+                "stage": "1",
+                "name": "周可盛",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "Chou Ko Sheng",
+                "election_id": "53c0207b-4028-4d9f-9c8b-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01e47-b1e4-477d-ae4b-5460acb5b862",
+                "name": "高雄市",
+                "is_area": true,
+                "keywords": "2014,高雄市",
+                "AreasElection": {
+                    "id": "53c0207c-dba4-471c-ba60-5c5aacb5b862",
+                    "Election_id": "53c0207b-4028-4d9f-9c8b-5c5aacb5b862",
+                    "Area_id": "53c01e47-b1e4-477d-ae4b-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202e-ed38-44bb-8e78-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市長",
+                "lft": "2",
+                "rght": "15",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207b-4028-4d9f-9c8b-5c5aacb5b862",
+                "parent_id": "53c0202e-ed38-44bb-8e78-5460acb5b862",
+                "name": "高雄市",
+                "lft": "7",
+                "rght": "8",
+                "population": "2776752",
+                "population_electors": "2235929",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb720-672c-4352-b885-2adbcf91e152",
+                "keywords": "2014-11,直轄市長,高雄市"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

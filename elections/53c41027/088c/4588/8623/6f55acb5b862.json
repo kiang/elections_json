@@ -1,0 +1,141 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c41027-088c-4588-8623-6f55acb5b862",
+            "parent_id": "53c02082-2c78-4b49-a547-5c5aacb5b862",
+            "name": "第07選區[區域]",
+            "lft": "338",
+            "rght": "339",
+            "population": "39332",
+            "population_electors": "32513",
+            "quota": "3",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-519c-4493-b867-2adbcf91e152",
+            "keywords": "2014-11,縣市議員,宜蘭縣,第07選區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "53c68f70-7ee4-4419-851e-0f15acb5b862",
+                "image": "549426db\/1fc4\/4aeb\/b27a\/379d6ab936af.jpg",
+                "stage": "2",
+                "name": "黃適超",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "3",
+                "name_english": "HUANG SHIH CHAO",
+                "election_id": "53c41027-088c-4588-8623-6f55acb5b862"
+            },
+            {
+                "id": "53c68f70-d25c-4e97-9893-0f15acb5b862",
+                "image": "5494271d\/5918\/4401\/90ec\/37976ab936af.jpg",
+                "stage": "2",
+                "name": "沈德茂",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "SHEN TE MAO",
+                "election_id": "53c41027-088c-4588-8623-6f55acb5b862"
+            },
+            {
+                "id": "53c68f70-f17c-4bb9-bc84-0f15acb5b862",
+                "image": "549425f1\/d3d0\/429b\/95fe\/37256ab936af.jpg",
+                "stage": "1",
+                "name": "林朝旺",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "4",
+                "name_english": "Lin Chao Wang",
+                "election_id": "53c41027-088c-4588-8623-6f55acb5b862"
+            },
+            {
+                "id": "540b56be-d2ac-4f2f-9bbf-1926acb5b862",
+                "image": "5494275f\/74c8\/4301\/b793\/37a96ab936af.jpg",
+                "stage": "2",
+                "name": "張明華",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "CHANG MING HUA",
+                "election_id": "53c41027-088c-4588-8623-6f55acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01bef-fbfc-41ab-8f6e-5460acb5b862",
+                "name": "五結鄉",
+                "is_area": true,
+                "keywords": "2014,宜蘭縣,五結鄉",
+                "AreasElection": {
+                    "id": "53c41028-f64c-47b6-ac89-6f55acb5b862",
+                    "Election_id": "53c41027-088c-4588-8623-6f55acb5b862",
+                    "Area_id": "53c01bef-fbfc-41ab-8f6e-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "縣市議員",
+                "lft": "306",
+                "rght": "607",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02082-2c78-4b49-a547-5c5aacb5b862",
+                "parent_id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "name": "宜蘭縣",
+                "lft": "325",
+                "rght": "352",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c41027-088c-4588-8623-6f55acb5b862",
+                "parent_id": "53c02082-2c78-4b49-a547-5c5aacb5b862",
+                "name": "第07選區[區域]",
+                "lft": "338",
+                "rght": "339",
+                "population": "39332",
+                "population_electors": "32513",
+                "quota": "3",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-519c-4493-b867-2adbcf91e152",
+                "keywords": "2014-11,縣市議員,宜蘭縣,第07選區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

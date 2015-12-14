@@ -1,0 +1,119 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c67384-e728-431a-92fd-087cacb5b862",
+            "parent_id": "53c02084-62a4-4027-a661-5c5aacb5b862",
+            "name": "第06選區[區域]",
+            "lft": "526",
+            "rght": "527",
+            "population": "3816",
+            "population_electors": "3182",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546f277f-9304-4f60-a950-2f28cf91e152",
+            "keywords": "2014-11,縣市議員,臺東縣,第06選區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b56c4-82c8-4732-86ae-1926acb5b862",
+                "image": "54997493\/04e4\/445e\/b4ab\/4c7d6ab936af.jpg",
+                "stage": "2",
+                "name": "謝賢裕",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "Hsieh HsienYu",
+                "election_id": "53c67384-e728-431a-92fd-087cacb5b862"
+            },
+            {
+                "id": "540b56c5-ed24-4461-9d0f-1926acb5b862",
+                "image": "5499746f\/df4c\/46e9\/9f20\/4c7f6ab936af.jpg",
+                "stage": "1",
+                "name": "陳照隆",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "Chen ChaoLung",
+                "election_id": "53c67384-e728-431a-92fd-087cacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01da6-8bc4-4fa9-9e72-5460acb5b862",
+                "name": "綠島鄉",
+                "is_area": true,
+                "keywords": "2014,臺東縣,綠島鄉",
+                "AreasElection": {
+                    "id": "53c67385-4850-44ee-a594-087cacb5b862",
+                    "Election_id": "53c67384-e728-431a-92fd-087cacb5b862",
+                    "Area_id": "53c01da6-8bc4-4fa9-9e72-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "縣市議員",
+                "lft": "306",
+                "rght": "607",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02084-62a4-4027-a661-5c5aacb5b862",
+                "parent_id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "name": "臺東縣",
+                "lft": "501",
+                "rght": "532",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c67384-e728-431a-92fd-087cacb5b862",
+                "parent_id": "53c02084-62a4-4027-a661-5c5aacb5b862",
+                "name": "第06選區[區域]",
+                "lft": "526",
+                "rght": "527",
+                "population": "3816",
+                "population_electors": "3182",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546f277f-9304-4f60-a950-2f28cf91e152",
+                "keywords": "2014-11,縣市議員,臺東縣,第06選區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

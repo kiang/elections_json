@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c023d8-7614-42a5-9fb4-5c5aacb5b862",
+            "parent_id": "53c023d6-1a88-4acc-93ce-5c5aacb5b862",
+            "name": "江西里",
+            "lft": "12433",
+            "rght": "12434",
+            "population": "1274",
+            "population_electors": "1104",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb720-350c-402b-a99a-2adbcf91e152",
+            "keywords": "2014-11,村里長,高雄市,鹽埕區,江西里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02653-9a48-4e58-9a69-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "鄭錫國",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c023d8-7614-42a5-9fb4-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01e4f-9940-47c9-b46a-5460acb5b862",
+                "name": "江西里",
+                "is_area": true,
+                "keywords": "2014,高雄市,鹽埕區,江西里",
+                "AreasElection": {
+                    "id": "53c023d9-31fc-4ea2-b8e8-5c5aacb5b862",
+                    "Election_id": "53c023d8-7614-42a5-9fb4-5c5aacb5b862",
+                    "Area_id": "53c01e4f-9940-47c9-b46a-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-1a88-4acc-93ce-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "鹽埕區",
+                "lft": "12396",
+                "rght": "12439",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d8-7614-42a5-9fb4-5c5aacb5b862",
+                "parent_id": "53c023d6-1a88-4acc-93ce-5c5aacb5b862",
+                "name": "江西里",
+                "lft": "12433",
+                "rght": "12434",
+                "population": "1274",
+                "population_electors": "1104",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb720-350c-402b-a99a-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,鹽埕區,江西里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02357-04f8-4eb9-9933-5c5aacb5b862",
+            "parent_id": "53c02356-ffa8-4707-8ead-5c5aacb5b862",
+            "name": "大平里",
+            "lft": "10825",
+            "rght": "10826",
+            "population": "3857",
+            "population_electors": "3042",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-9754-4500-b8e8-1a32cf91e152",
+            "keywords": "2014-11,村里長,桃園市,楊梅區,大平里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02777-6b3c-4cee-8a82-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "巫雙春",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02357-04f8-4eb9-9933-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c10-9210-47cf-8c6c-5460acb5b862",
+                "name": "大平里",
+                "is_area": true,
+                "keywords": "2014,桃園市,楊梅區,大平里",
+                "AreasElection": {
+                    "id": "53c02357-870c-40e5-a799-5c5aacb5b862",
+                    "Election_id": "53c02357-04f8-4eb9-9933-5c5aacb5b862",
+                    "Area_id": "53c01c10-9210-47cf-8c6c-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "桃園市",
+                "lft": "10439",
+                "rght": "11456",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02356-ffa8-4707-8ead-5c5aacb5b862",
+                "parent_id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "name": "楊梅區",
+                "lft": "10822",
+                "rght": "10905",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02357-04f8-4eb9-9933-5c5aacb5b862",
+                "parent_id": "53c02356-ffa8-4707-8ead-5c5aacb5b862",
+                "name": "大平里",
+                "lft": "10825",
+                "rght": "10826",
+                "population": "3857",
+                "population_electors": "3042",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-9754-4500-b8e8-1a32cf91e152",
+                "keywords": "2014-11,村里長,桃園市,楊梅區,大平里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

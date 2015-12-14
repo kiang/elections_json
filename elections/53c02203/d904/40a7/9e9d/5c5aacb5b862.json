@@ -1,0 +1,145 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02203-d904-40a7-9e9d-5c5aacb5b862",
+            "parent_id": "53c02201-dd10-406f-b04b-5c5aacb5b862",
+            "name": "新街里",
+            "lft": "6511",
+            "rght": "6512",
+            "population": "7417",
+            "population_electors": "5737",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546ebce3-39e4-496b-9481-2b96cf91e152",
+            "keywords": "2014-11,村里長,雲林縣,北港鎮,新街里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02809-24e0-4d07-bf62-5dffacb5b862",
+                "image": null,
+                "stage": "0",
+                "name": "劉林惠珠",
+                "party": null,
+                "gender": null,
+                "no": "0",
+                "name_english": "",
+                "election_id": "53c02203-d904-40a7-9e9d-5c5aacb5b862"
+            },
+            {
+                "id": "540b5564-8954-43f5-98e1-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "蔡明浩",
+                "party": "中華統一促進黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "Tsai Ming Hao",
+                "election_id": "53c02203-d904-40a7-9e9d-5c5aacb5b862"
+            },
+            {
+                "id": "540b5564-a6fc-41a7-921c-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "王昭人",
+                "party": "無",
+                "gender": "f",
+                "no": "2",
+                "name_english": "Wang Chao Jen",
+                "election_id": "53c02203-d904-40a7-9e9d-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01cfa-80f4-4aa0-894f-5460acb5b862",
+                "name": "新街里",
+                "is_area": true,
+                "keywords": "2014,雲林縣,北港鎮,新街里",
+                "AreasElection": {
+                    "id": "53c02203-63f4-40b4-8c78-5c5aacb5b862",
+                    "Election_id": "53c02203-d904-40a7-9e9d-5c5aacb5b862",
+                    "Area_id": "53c01cfa-80f4-4aa0-894f-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "6201",
+                "rght": "7018",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02201-dd10-406f-b04b-5c5aacb5b862",
+                "parent_id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "name": "北港鎮",
+                "lft": "6478",
+                "rght": "6535",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02203-d904-40a7-9e9d-5c5aacb5b862",
+                "parent_id": "53c02201-dd10-406f-b04b-5c5aacb5b862",
+                "name": "新街里",
+                "lft": "6511",
+                "rght": "6512",
+                "population": "7417",
+                "population_electors": "5737",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546ebce3-39e4-496b-9481-2b96cf91e152",
+                "keywords": "2014-11,村里長,雲林縣,北港鎮,新街里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02125-75b0-48b4-9ef9-5c5aacb5b862",
+            "parent_id": "53c02124-7f9c-4401-9456-5c5aacb5b862",
+            "name": "長安村",
+            "lft": "3623",
+            "rght": "3624",
+            "population": "1410",
+            "population_electors": "1086",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-db5c-4eb4-997d-1a32cf91e152",
+            "keywords": "2014-11,村里長,新竹縣,湖口鄉,長安村"
+        },
+        "Candidate": [
+            {
+                "id": "53c02796-79b0-4f93-9311-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "盧潮鉅",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c02125-75b0-48b4-9ef9-5c5aacb5b862"
+            },
+            {
+                "id": "540b54c1-0be8-4631-98ca-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "張勝財",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "CHANG SHENG TSAI",
+                "election_id": "53c02125-75b0-48b4-9ef9-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c45-1d18-475b-881e-5460acb5b862",
+                "name": "長安村",
+                "is_area": true,
+                "keywords": "2014,新竹縣,湖口鄉,長安村",
+                "AreasElection": {
+                    "id": "53c02125-c02c-4034-bb1f-5c5aacb5b862",
+                    "Election_id": "53c02125-75b0-48b4-9ef9-5c5aacb5b862",
+                    "Area_id": "53c01c45-1d18-475b-881e-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02114-c1a0-4545-bc6f-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新竹縣",
+                "lft": "3421",
+                "rght": "3830",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02124-7f9c-4401-9456-5c5aacb5b862",
+                "parent_id": "53c02114-c1a0-4545-bc6f-5c5aacb5b862",
+                "name": "湖口鄉",
+                "lft": "3620",
+                "rght": "3661",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02125-75b0-48b4-9ef9-5c5aacb5b862",
+                "parent_id": "53c02124-7f9c-4401-9456-5c5aacb5b862",
+                "name": "長安村",
+                "lft": "3623",
+                "rght": "3624",
+                "population": "1410",
+                "population_electors": "1086",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-db5c-4eb4-997d-1a32cf91e152",
+                "keywords": "2014-11,村里長,新竹縣,湖口鄉,長安村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

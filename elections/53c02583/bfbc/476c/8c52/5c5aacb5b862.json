@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02583-bfbc-476c-8c52-5c5aacb5b862",
+            "parent_id": "53c02583-39cc-4071-a546-5c5aacb5b862",
+            "name": "龍津里",
+            "lft": "17467",
+            "rght": "17468",
+            "population": "6115",
+            "population_electors": "4665",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546d8db9-9e00-40d2-8b9e-0e51cf91e152",
+            "keywords": "2014-11,村里長,臺中市,龍井區,龍津里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02712-52c4-4fc0-82c3-5dffacb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "黃敏慧",
+                "party": "無",
+                "gender": "f",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02583-bfbc-476c-8c52-5c5aacb5b862"
+            },
+            {
+                "id": "540b53f1-8ac0-41c8-bb6f-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "張坤雄",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c02583-bfbc-476c-8c52-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01fb2-3528-45ea-a846-5460acb5b862",
+                "name": "龍津里",
+                "is_area": true,
+                "keywords": "2014,臺中市,龍井區,龍津里",
+                "AreasElection": {
+                    "id": "53c02583-1334-4343-967c-5c5aacb5b862",
+                    "Election_id": "53c02583-bfbc-476c-8c52-5c5aacb5b862",
+                    "Area_id": "53c01fb2-3528-45ea-a846-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02583-39cc-4071-a546-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "龍井區",
+                "lft": "17464",
+                "rght": "17497",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02583-bfbc-476c-8c52-5c5aacb5b862",
+                "parent_id": "53c02583-39cc-4071-a546-5c5aacb5b862",
+                "name": "龍津里",
+                "lft": "17467",
+                "rght": "17468",
+                "population": "6115",
+                "population_electors": "4665",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546d8db9-9e00-40d2-8b9e-0e51cf91e152",
+                "keywords": "2014-11,村里長,臺中市,龍井區,龍津里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

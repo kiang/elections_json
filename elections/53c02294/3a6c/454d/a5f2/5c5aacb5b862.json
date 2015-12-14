@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02294-3a6c-454d-a5f2-5c5aacb5b862",
+            "parent_id": "53c02293-ec1c-45af-bb90-5c5aacb5b862",
+            "name": "泗洲村",
+            "lft": "8387",
+            "rght": "8388",
+            "population": "1312",
+            "population_electors": "1116",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "keywords": "2014-11,村里長,屏東縣,竹田鄉,泗洲村"
+        },
+        "Candidate": [
+            {
+                "id": "53c02854-30a4-48da-945c-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "潘文進",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c02294-3a6c-454d-a5f2-5c5aacb5b862"
+            },
+            {
+                "id": "540b55d5-f044-4194-b54b-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "胡吉方",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02294-3a6c-454d-a5f2-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d7b-388c-4dea-a1eb-5460acb5b862",
+                "name": "泗洲村",
+                "is_area": true,
+                "keywords": "2014,屏東縣,竹田鄉,泗洲村",
+                "AreasElection": {
+                    "id": "53c02294-2428-4437-90ef-5c5aacb5b862",
+                    "Election_id": "53c02294-3a6c-454d-a5f2-5c5aacb5b862",
+                    "Area_id": "53c01d7b-388c-4dea-a1eb-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "7771",
+                "rght": "8766",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02293-ec1c-45af-bb90-5c5aacb5b862",
+                "parent_id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "name": "竹田鄉",
+                "lft": "8370",
+                "rght": "8401",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02294-3a6c-454d-a5f2-5c5aacb5b862",
+                "parent_id": "53c02293-ec1c-45af-bb90-5c5aacb5b862",
+                "name": "泗洲村",
+                "lft": "8387",
+                "rght": "8388",
+                "population": "1312",
+                "population_electors": "1116",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2014-11,村里長,屏東縣,竹田鄉,泗洲村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

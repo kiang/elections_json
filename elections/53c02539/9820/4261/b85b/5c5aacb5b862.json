@@ -1,0 +1,145 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02539-9820-4261-b85b-5c5aacb5b862",
+            "parent_id": "53c02536-cbf0-4e8a-9a56-5c5aacb5b862",
+            "name": "何德里",
+            "lft": "16645",
+            "rght": "16646",
+            "population": "4326",
+            "population_electors": "3387",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e0697-2528-487a-b246-1a32cf91e152",
+            "keywords": "2014-11,村里長,臺中市,西屯區,何德里"
+        },
+        "Candidate": [
+            {
+                "id": "53c026f0-6eb4-491d-9a78-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "林志雄",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02539-9820-4261-b85b-5c5aacb5b862"
+            },
+            {
+                "id": "540b53c9-17ec-46fa-b15a-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "陳世明",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53c02539-9820-4261-b85b-5c5aacb5b862"
+            },
+            {
+                "id": "540b53c9-c880-4b35-b9ac-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "陳振甫",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "CHEN CHENG FU",
+                "election_id": "53c02539-9820-4261-b85b-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01f78-11d0-4866-8d38-5460acb5b862",
+                "name": "何德里",
+                "is_area": true,
+                "keywords": "2014,臺中市,西屯區,何德里",
+                "AreasElection": {
+                    "id": "53c0253a-72a4-4963-9338-5c5aacb5b862",
+                    "Election_id": "53c02539-9820-4261-b85b-5c5aacb5b862",
+                    "Area_id": "53c01f78-11d0-4866-8d38-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02536-cbf0-4e8a-9a56-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "西屯區",
+                "lft": "16612",
+                "rght": "16691",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02539-9820-4261-b85b-5c5aacb5b862",
+                "parent_id": "53c02536-cbf0-4e8a-9a56-5c5aacb5b862",
+                "name": "何德里",
+                "lft": "16645",
+                "rght": "16646",
+                "population": "4326",
+                "population_electors": "3387",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e0697-2528-487a-b246-1a32cf91e152",
+                "keywords": "2014-11,村里長,臺中市,西屯區,何德里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c024e7-dd8c-4d0e-b58b-5c5aacb5b862",
+            "parent_id": "53c024e7-1b70-4594-a42f-5c5aacb5b862",
+            "name": "龍潭里",
+            "lft": "15757",
+            "rght": "15758",
+            "population": "822",
+            "population_electors": "711",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-cb58-48a6-9f4b-1a32cf91e152",
+            "keywords": "2014-11,村里長,新北市,瑞芳區,龍潭里"
+        },
+        "Candidate": [
+            {
+                "id": "53c026d0-5068-475a-bd26-5dffacb5b862",
+                "image": null,
+                "stage": "0",
+                "name": "陳生南",
+                "party": null,
+                "gender": null,
+                "no": "0",
+                "name_english": "",
+                "election_id": "53c024e7-dd8c-4d0e-b58b-5c5aacb5b862"
+            },
+            {
+                "id": "540b535f-b7ac-4363-bc7b-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "林志輝",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c024e7-dd8c-4d0e-b58b-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01f38-7328-4b36-ab3c-5460acb5b862",
+                "name": "龍潭里",
+                "is_area": true,
+                "keywords": "2014,新北市,瑞芳區,龍潭里",
+                "AreasElection": {
+                    "id": "53c024e8-1058-4ddf-891a-5c5aacb5b862",
+                    "Election_id": "53c024e7-dd8c-4d0e-b58b-5c5aacb5b862",
+                    "Area_id": "53c01f38-7328-4b36-ab3c-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新北市",
+                "lft": "14261",
+                "rght": "16384",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c024e7-1b70-4594-a42f-5c5aacb5b862",
+                "parent_id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "name": "瑞芳區",
+                "lft": "15754",
+                "rght": "15823",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c024e7-dd8c-4d0e-b58b-5c5aacb5b862",
+                "parent_id": "53c024e7-1b70-4594-a42f-5c5aacb5b862",
+                "name": "龍潭里",
+                "lft": "15757",
+                "rght": "15758",
+                "population": "822",
+                "population_electors": "711",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-cb58-48a6-9f4b-1a32cf91e152",
+                "keywords": "2014-11,村里長,新北市,瑞芳區,龍潭里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02378-06c4-4e42-866c-5c5aacb5b862",
+            "parent_id": "53c02374-a550-404f-9e2d-5c5aacb5b862",
+            "name": "聖德里",
+            "lft": "11221",
+            "rght": "11222",
+            "population": "3488",
+            "population_electors": "2762",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54735d59-d338-460e-98da-21eacf91e152",
+            "keywords": "2014-11,村里長,桃園市,龍潭區,聖德里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02784-c460-475c-9e4e-5dffacb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "徐春淼",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "HSU CHEN MIAO",
+                "election_id": "53c02378-06c4-4e42-866c-5c5aacb5b862"
+            },
+            {
+                "id": "540b53ab-4ef4-4966-a170-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "鍾吉洪",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c02378-06c4-4e42-866c-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c29-cbd8-4bf0-b164-5460acb5b862",
+                "name": "聖德里",
+                "is_area": true,
+                "keywords": "2014,桃園市,龍潭區,聖德里",
+                "AreasElection": {
+                    "id": "53c02378-e09c-4ee6-9ab9-5c5aacb5b862",
+                    "Election_id": "53c02378-06c4-4e42-866c-5c5aacb5b862",
+                    "Area_id": "53c01c29-cbd8-4bf0-b164-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "桃園市",
+                "lft": "10439",
+                "rght": "11456",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02374-a550-404f-9e2d-5c5aacb5b862",
+                "parent_id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "name": "龍潭區",
+                "lft": "11180",
+                "rght": "11241",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02378-06c4-4e42-866c-5c5aacb5b862",
+                "parent_id": "53c02374-a550-404f-9e2d-5c5aacb5b862",
+                "name": "聖德里",
+                "lft": "11221",
+                "rght": "11222",
+                "population": "3488",
+                "population_electors": "2762",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54735d59-d338-460e-98da-21eacf91e152",
+                "keywords": "2014-11,村里長,桃園市,龍潭區,聖德里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,189 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d73423-7430-48a2-8fc9-1299acb5b862",
+            "parent_id": "53c020ce-1f60-4a46-87d2-5c5aacb5b862",
+            "name": "第01選舉區[區域]",
+            "lft": "2189",
+            "rght": "2190",
+            "population": "1589",
+            "population_electors": "1351",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "546ef559-817c-4ac8-97fb-208ecf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,嘉義縣,阿里山鄉,第01選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b5781-2d60-47bc-b3e2-1926acb5b862",
+                "image": "54d63f42\/4664\/4492\/a921\/5c016ab936af.jpg",
+                "stage": "2",
+                "name": "許瑞坤",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53d73423-7430-48a2-8fc9-1299acb5b862"
+            },
+            {
+                "id": "540b5781-8d10-4a3c-a3ac-1926acb5b862",
+                "image": "54d63f02\/0d0c\/4683\/ab94\/566e6ab936af.jpg",
+                "stage": "2",
+                "name": "徐子豪",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "HSU TZU HAO",
+                "election_id": "53d73423-7430-48a2-8fc9-1299acb5b862"
+            },
+            {
+                "id": "540b5781-8fcc-41f8-9997-1926acb5b862",
+                "image": "54d63f68\/adb4\/4a15\/9864\/54b46ab936af.jpg",
+                "stage": "1",
+                "name": "徐俊樹",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53d73423-7430-48a2-8fc9-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d4e-1edc-42fd-98a8-5460acb5b862",
+                "name": "香林村",
+                "is_area": true,
+                "keywords": "2014,嘉義縣,阿里山鄉,香林村",
+                "AreasElection": {
+                    "id": "53d73424-a27c-4df2-a26a-1299acb5b862",
+                    "Election_id": "53d73423-7430-48a2-8fc9-1299acb5b862",
+                    "Area_id": "53c01d4e-1edc-42fd-98a8-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d4e-23fc-4e9b-bedb-5460acb5b862",
+                "name": "中山村",
+                "is_area": true,
+                "keywords": "2014,嘉義縣,阿里山鄉,中山村",
+                "AreasElection": {
+                    "id": "53d73424-ca78-4f20-bd74-1299acb5b862",
+                    "Election_id": "53d73423-7430-48a2-8fc9-1299acb5b862",
+                    "Area_id": "53c01d4e-23fc-4e9b-bedb-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d4e-d148-43cc-a651-5460acb5b862",
+                "name": "中正村",
+                "is_area": true,
+                "keywords": "2014,嘉義縣,阿里山鄉,中正村",
+                "AreasElection": {
+                    "id": "53d73424-c6b0-46ff-8591-1299acb5b862",
+                    "Election_id": "53d73423-7430-48a2-8fc9-1299acb5b862",
+                    "Area_id": "53c01d4e-d148-43cc-a651-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d4e-e02c-4684-b609-5460acb5b862",
+                "name": "豐山村",
+                "is_area": true,
+                "keywords": "2014,嘉義縣,阿里山鄉,豐山村",
+                "AreasElection": {
+                    "id": "53d73424-2918-40ff-b9bf-1299acb5b862",
+                    "Election_id": "53d73423-7430-48a2-8fc9-1299acb5b862",
+                    "Area_id": "53c01d4e-e02c-4684-b609-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d4e-e9b8-4075-b61f-5460acb5b862",
+                "name": "十字村",
+                "is_area": true,
+                "keywords": "2014,嘉義縣,阿里山鄉,十字村",
+                "AreasElection": {
+                    "id": "53d73424-d16c-42f6-b3d5-1299acb5b862",
+                    "Election_id": "53d73423-7430-48a2-8fc9-1299acb5b862",
+                    "Area_id": "53c01d4e-e9b8-4075-b61f-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020c9-7bdc-47e9-9a01-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "嘉義縣",
+                "lft": "2063",
+                "rght": "2196",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ce-1f60-4a46-87d2-5c5aacb5b862",
+                "parent_id": "53c020c9-7bdc-47e9-9a01-5c5aacb5b862",
+                "name": "阿里山鄉",
+                "lft": "2188",
+                "rght": "2195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d73423-7430-48a2-8fc9-1299acb5b862",
+                "parent_id": "53c020ce-1f60-4a46-87d2-5c5aacb5b862",
+                "name": "第01選舉區[區域]",
+                "lft": "2189",
+                "rght": "2190",
+                "population": "1589",
+                "population_electors": "1351",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "546ef559-817c-4ac8-97fb-208ecf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,嘉義縣,阿里山鄉,第01選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

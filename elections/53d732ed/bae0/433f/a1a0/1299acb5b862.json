@@ -1,0 +1,167 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d732ed-bae0-433f-a1a0-1299acb5b862",
+            "parent_id": "53c020b8-c6f4-4891-a0f7-5c5aacb5b862",
+            "name": "第03選舉區[區域]",
+            "lft": "1389",
+            "rght": "1390",
+            "population": "5297",
+            "population_electors": "4352",
+            "quota": "3",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-3ec8-454b-b62f-4187cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,苗栗縣,卓蘭鎮,第03選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b56f9-1f5c-439d-9e58-1926acb5b862",
+                "image": "54b7d136\/44e0\/4812\/86e5\/3c286ab936af.jpg",
+                "stage": "2",
+                "name": "房月鳳",
+                "party": "無",
+                "gender": "f",
+                "no": "3",
+                "name_english": "FANG YUEFFENG",
+                "election_id": "53d732ed-bae0-433f-a1a0-1299acb5b862"
+            },
+            {
+                "id": "540b56f9-6844-456c-843e-1926acb5b862",
+                "image": "54b7d113\/15fc\/498d\/bd6a\/3c306ab936af.jpg",
+                "stage": "2",
+                "name": "徐鴻炎",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "HSU HUNGYEN",
+                "election_id": "53d732ed-bae0-433f-a1a0-1299acb5b862"
+            },
+            {
+                "id": "540b56f9-76f0-41b0-890b-1926acb5b862",
+                "image": "54b7d0d3\/8f40\/4f01\/8e2f\/3c276ab936af.jpg",
+                "stage": "2",
+                "name": "詹振煌",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "CHAN CHENHUANG",
+                "election_id": "53d732ed-bae0-433f-a1a0-1299acb5b862"
+            },
+            {
+                "id": "540b56f9-e9bc-4b47-a28e-1926acb5b862",
+                "image": "54b7d082\/59f0\/4fc7\/a20f\/3c166ab936af.jpg",
+                "stage": "1",
+                "name": "詹國彬",
+                "party": "無",
+                "gender": "m",
+                "no": "4",
+                "name_english": "CHAN KUOPIN",
+                "election_id": "53d732ed-bae0-433f-a1a0-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c67-7734-4a74-835e-5460acb5b862",
+                "name": "上新里",
+                "is_area": true,
+                "keywords": "2014,苗栗縣,卓蘭鎮,上新里",
+                "AreasElection": {
+                    "id": "53d732ee-d820-429c-aa8a-1299acb5b862",
+                    "Election_id": "53d732ed-bae0-433f-a1a0-1299acb5b862",
+                    "Area_id": "53c01c67-7734-4a74-835e-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c68-811c-4430-89ba-5460acb5b862",
+                "name": "內灣里",
+                "is_area": true,
+                "keywords": "2014,苗栗縣,卓蘭鎮,內灣里",
+                "AreasElection": {
+                    "id": "53d732ee-bdf4-423f-b188-1299acb5b862",
+                    "Election_id": "53d732ed-bae0-433f-a1a0-1299acb5b862",
+                    "Area_id": "53c01c68-811c-4430-89ba-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b7-c5b4-41c9-bda3-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "苗栗縣",
+                "lft": "1323",
+                "rght": "1496",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b8-c6f4-4891-a0f7-5c5aacb5b862",
+                "parent_id": "53c020b7-c5b4-41c9-bda3-5c5aacb5b862",
+                "name": "卓蘭鎮",
+                "lft": "1384",
+                "rght": "1393",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d732ed-bae0-433f-a1a0-1299acb5b862",
+                "parent_id": "53c020b8-c6f4-4891-a0f7-5c5aacb5b862",
+                "name": "第03選舉區[區域]",
+                "lft": "1389",
+                "rght": "1390",
+                "population": "5297",
+                "population_electors": "4352",
+                "quota": "3",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-3ec8-454b-b62f-4187cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,苗栗縣,卓蘭鎮,第03選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

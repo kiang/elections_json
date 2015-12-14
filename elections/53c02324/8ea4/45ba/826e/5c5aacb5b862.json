@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02324-8ea4-45ba-826e-5c5aacb5b862",
+            "parent_id": "53c02320-8d20-42f9-9a00-5c5aacb5b862",
+            "name": "中寮里",
+            "lft": "10177",
+            "rght": "10178",
+            "population": "3782",
+            "population_electors": "2961",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546b0806-a424-412d-9f77-2ff0cf91e152",
+            "keywords": "2014-11,村里長,新竹市,北區,中寮里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02894-dcd0-40ca-aae8-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "彭燦蓮",
+                "party": "無",
+                "gender": "f",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02324-8ea4-45ba-826e-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01df3-57d4-4cd7-9942-5460acb5b862",
+                "name": "中寮里",
+                "is_area": true,
+                "keywords": "2014,新竹市,北區,中寮里",
+                "AreasElection": {
+                    "id": "53c02324-3250-4b52-b6a8-5c5aacb5b862",
+                    "Election_id": "53c02324-8ea4-45ba-826e-5c5aacb5b862",
+                    "Area_id": "53c01df3-57d4-4cd7-9942-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02315-1360-4e37-94d3-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新竹市",
+                "lft": "10013",
+                "rght": "10264",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02320-8d20-42f9-9a00-5c5aacb5b862",
+                "parent_id": "53c02315-1360-4e37-94d3-5c5aacb5b862",
+                "name": "北區",
+                "lft": "10122",
+                "rght": "10213",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02324-8ea4-45ba-826e-5c5aacb5b862",
+                "parent_id": "53c02320-8d20-42f9-9a00-5c5aacb5b862",
+                "name": "中寮里",
+                "lft": "10177",
+                "rght": "10178",
+                "population": "3782",
+                "population_electors": "2961",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546b0806-a424-412d-9f77-2ff0cf91e152",
+                "keywords": "2014-11,村里長,新竹市,北區,中寮里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

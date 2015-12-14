@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02309-2cd0-46b7-89fe-5c5aacb5b862",
+            "parent_id": "53c02305-2ab0-47c6-b70c-5c5aacb5b862",
+            "name": "光華里",
+            "lft": "9857",
+            "rght": "9858",
+            "population": "2862",
+            "population_electors": "2458",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c8095-dff0-4c47-a5c2-61a3cf91e152",
+            "keywords": "2014-11,村里長,基隆市,仁愛區,光華里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02887-40a0-4983-b89d-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "陳世豐",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c02309-2cd0-46b7-89fe-5c5aacb5b862"
+            },
+            {
+                "id": "540b5652-a9fc-4310-bf08-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "楊滄海",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "YANG CHANG HAI",
+                "election_id": "53c02309-2cd0-46b7-89fe-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01ddb-0bc0-4492-ae8e-5460acb5b862",
+                "name": "光華里",
+                "is_area": true,
+                "keywords": "2014,基隆市,仁愛區,光華里",
+                "AreasElection": {
+                    "id": "53c02309-bc94-40b9-9c42-5c5aacb5b862",
+                    "Election_id": "53c02309-2cd0-46b7-89fe-5c5aacb5b862",
+                    "Area_id": "53c01ddb-0bc0-4492-ae8e-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "基隆市",
+                "lft": "9683",
+                "rght": "10012",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02305-2ab0-47c6-b70c-5c5aacb5b862",
+                "parent_id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "name": "仁愛區",
+                "lft": "9808",
+                "rght": "9867",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02309-2cd0-46b7-89fe-5c5aacb5b862",
+                "parent_id": "53c02305-2ab0-47c6-b70c-5c5aacb5b862",
+                "name": "光華里",
+                "lft": "9857",
+                "rght": "9858",
+                "population": "2862",
+                "population_electors": "2458",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c8095-dff0-4c47-a5c2-61a3cf91e152",
+                "keywords": "2014-11,村里長,基隆市,仁愛區,光華里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

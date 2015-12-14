@@ -1,0 +1,145 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c021f4-df88-4a74-88aa-5c5aacb5b862",
+            "parent_id": "53c021f1-29ac-4128-b0b0-5c5aacb5b862",
+            "name": "新光里",
+            "lft": "6315",
+            "rght": "6316",
+            "population": "3265",
+            "population_electors": "2582",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546ec076-f540-4922-ba68-2d4fcf91e152",
+            "keywords": "2014-11,村里長,雲林縣,斗南鎮,新光里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02800-2548-4cbe-b2e8-5dffacb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "陳秀章",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c021f4-df88-4a74-88aa-5c5aacb5b862"
+            },
+            {
+                "id": "540b5558-2fb4-41e1-a2f9-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "陳有能",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c021f4-df88-4a74-88aa-5c5aacb5b862"
+            },
+            {
+                "id": "540b5558-bf3c-44a7-9ef6-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "陳桂林",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53c021f4-df88-4a74-88aa-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01cee-8a5c-4d08-b720-5460acb5b862",
+                "name": "新光里",
+                "is_area": true,
+                "keywords": "2014,雲林縣,斗南鎮,新光里",
+                "AreasElection": {
+                    "id": "53c021f4-1f14-4c1f-8799-5c5aacb5b862",
+                    "Election_id": "53c021f4-df88-4a74-88aa-5c5aacb5b862",
+                    "Area_id": "53c01cee-8a5c-4d08-b720-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "6201",
+                "rght": "7018",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021f1-29ac-4128-b0b0-5c5aacb5b862",
+                "parent_id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "name": "斗南鎮",
+                "lft": "6280",
+                "rght": "6325",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021f4-df88-4a74-88aa-5c5aacb5b862",
+                "parent_id": "53c021f1-29ac-4128-b0b0-5c5aacb5b862",
+                "name": "新光里",
+                "lft": "6315",
+                "rght": "6316",
+                "population": "3265",
+                "population_electors": "2582",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546ec076-f540-4922-ba68-2d4fcf91e152",
+                "keywords": "2014-11,村里長,雲林縣,斗南鎮,新光里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

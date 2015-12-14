@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02303-b21c-4d91-a393-5c5aacb5b862",
+            "parent_id": "53c02303-2eec-4359-b204-5c5aacb5b862",
+            "name": "八西里",
+            "lft": "9785",
+            "rght": "9786",
+            "population": "1687",
+            "population_electors": "1402",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546cd3af-06e4-4283-afdb-78ebcf91e152",
+            "keywords": "2014-11,村里長,基隆市,暖暖區,八西里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02884-a450-4353-b6e5-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "蘇欽榮",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "Chin Jung Su",
+                "election_id": "53c02303-b21c-4d91-a393-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01dd5-d570-41ca-9660-5460acb5b862",
+                "name": "八西里",
+                "is_area": true,
+                "keywords": "2014,基隆市,暖暖區,八西里",
+                "AreasElection": {
+                    "id": "53c02303-756c-4bc7-9395-5c5aacb5b862",
+                    "Election_id": "53c02303-b21c-4d91-a393-5c5aacb5b862",
+                    "Area_id": "53c01dd5-d570-41ca-9660-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "基隆市",
+                "lft": "9683",
+                "rght": "10012",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02303-2eec-4359-b204-5c5aacb5b862",
+                "parent_id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "name": "暖暖區",
+                "lft": "9780",
+                "rght": "9807",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02303-b21c-4d91-a393-5c5aacb5b862",
+                "parent_id": "53c02303-2eec-4359-b204-5c5aacb5b862",
+                "name": "八西里",
+                "lft": "9785",
+                "rght": "9786",
+                "population": "1687",
+                "population_electors": "1402",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546cd3af-06e4-4283-afdb-78ebcf91e152",
+                "keywords": "2014-11,村里長,基隆市,暖暖區,八西里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

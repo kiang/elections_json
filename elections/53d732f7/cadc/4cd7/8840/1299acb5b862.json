@@ -1,0 +1,156 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d732f7-cadc-4cd7-8840-1299acb5b862",
+            "parent_id": "53c020b9-18b4-4060-a8a6-5c5aacb5b862",
+            "name": "第04選舉區[區域]",
+            "lft": "1419",
+            "rght": "1420",
+            "population": "7544",
+            "population_electors": "6096",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-cbe8-46f7-9232-4187cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,苗栗縣,銅鑼鄉,第04選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b56fe-ccb0-416f-a80c-1926acb5b862",
+                "image": "54b8f92a\/bc60\/43c9\/bc1c\/77886ab936af.jpg",
+                "stage": "2",
+                "name": "劉要國",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "LIU YAO KUO",
+                "election_id": "53d732f7-cadc-4cd7-8840-1299acb5b862"
+            },
+            {
+                "id": "540b56ff-4e48-4abb-9b68-1926acb5b862",
+                "image": "54b8f9d7\/651c\/4fb9\/9cb1\/77946ab936af.jpg",
+                "stage": "1",
+                "name": "賴坤松",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53d732f7-cadc-4cd7-8840-1299acb5b862"
+            },
+            {
+                "id": "540b56ff-ff4c-4f1d-b95c-1926acb5b862",
+                "image": "54b8f9b9\/5d44\/4b00\/9fbd\/776b6ab936af.jpg",
+                "stage": "2",
+                "name": "陳正欽",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "CHEN CHENG CHIN",
+                "election_id": "53d732f7-cadc-4cd7-8840-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c6e-f8b8-4eac-a998-5460acb5b862",
+                "name": "中平村",
+                "is_area": true,
+                "keywords": "2014,苗栗縣,銅鑼鄉,中平村",
+                "AreasElection": {
+                    "id": "53d73c6b-a9a0-44c2-b501-16c7acb5b862",
+                    "Election_id": "53d732f7-cadc-4cd7-8840-1299acb5b862",
+                    "Area_id": "53c01c6e-f8b8-4eac-a998-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c6e-f8b8-4eac-a998-5460acb5b862",
+                "name": "中平村",
+                "is_area": true,
+                "keywords": "2014,苗栗縣,銅鑼鄉,中平村",
+                "AreasElection": {
+                    "id": "53d73c79-ed54-42d8-be8a-16ceacb5b862",
+                    "Election_id": "53d732f7-cadc-4cd7-8840-1299acb5b862",
+                    "Area_id": "53c01c6e-f8b8-4eac-a998-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b7-c5b4-41c9-bda3-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "苗栗縣",
+                "lft": "1323",
+                "rght": "1496",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b9-18b4-4060-a8a6-5c5aacb5b862",
+                "parent_id": "53c020b7-c5b4-41c9-bda3-5c5aacb5b862",
+                "name": "銅鑼鄉",
+                "lft": "1412",
+                "rght": "1423",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d732f7-cadc-4cd7-8840-1299acb5b862",
+                "parent_id": "53c020b9-18b4-4060-a8a6-5c5aacb5b862",
+                "name": "第04選舉區[區域]",
+                "lft": "1419",
+                "rght": "1420",
+                "population": "7544",
+                "population_electors": "6096",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-cbe8-46f7-9232-4187cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,苗栗縣,銅鑼鄉,第04選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

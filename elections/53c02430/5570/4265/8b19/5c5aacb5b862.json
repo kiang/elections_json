@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02430-5570-4265-8b19-5c5aacb5b862",
+            "parent_id": "53c0242c-ed2c-4d8f-885b-5c5aacb5b862",
+            "name": "文賢里",
+            "lft": "13529",
+            "rght": "13530",
+            "population": "2779",
+            "population_electors": "2215",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb721-2b24-4beb-b917-2adbcf91e152",
+            "keywords": "2014-11,村里長,高雄市,林園區,文賢里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0267e-c640-47d7-a084-5dffacb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "陳志強",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02430-5570-4265-8b19-5c5aacb5b862"
+            },
+            {
+                "id": "540b548a-db04-48f3-bcb7-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "黃三源",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "HUANG SANYUAN",
+                "election_id": "53c02430-5570-4265-8b19-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01e94-fca0-4bcb-b87e-5460acb5b862",
+                "name": "文賢里",
+                "is_area": true,
+                "keywords": "2014,高雄市,林園區,文賢里",
+                "AreasElection": {
+                    "id": "53c02430-efbc-405d-9c4e-5c5aacb5b862",
+                    "Election_id": "53c02430-5570-4265-8b19-5c5aacb5b862",
+                    "Area_id": "53c01e94-fca0-4bcb-b87e-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0242c-ed2c-4d8f-885b-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "林園區",
+                "lft": "13482",
+                "rght": "13531",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02430-5570-4265-8b19-5c5aacb5b862",
+                "parent_id": "53c0242c-ed2c-4d8f-885b-5c5aacb5b862",
+                "name": "文賢里",
+                "lft": "13529",
+                "rght": "13530",
+                "population": "2779",
+                "population_electors": "2215",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb721-2b24-4beb-b917-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,林園區,文賢里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

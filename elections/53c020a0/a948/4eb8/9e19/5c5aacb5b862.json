@@ -1,0 +1,130 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c020a0-a948-4eb8-9e19-5c5aacb5b862",
+            "parent_id": "53c020a0-f5a4-4054-836f-5c5aacb5b862",
+            "name": "屏東市",
+            "lft": "888",
+            "rght": "889",
+            "population": "204084",
+            "population_electors": "164430",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5475673a-be14-48aa-98e2-0f78cf91e152",
+            "keywords": "2014-11,鄉鎮市長,屏東縣,屏東市"
+        },
+        "Candidate": [
+            {
+                "id": "5406a60f-ae10-46d6-ab9e-15b8acb5b862",
+                "image": "54355a74\/abc4\/4359\/8a3e\/5232cb455a61.jpg",
+                "stage": "0",
+                "name": "葉壽山",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "0",
+                "name_english": "",
+                "election_id": "53c020a0-a948-4eb8-9e19-5c5aacb5b862"
+            },
+            {
+                "id": "540b5812-86e8-41f8-8855-1926acb5b862",
+                "image": "54964773\/9db8\/4b1f\/9bdf\/16536ab936af.jpg",
+                "stage": "1",
+                "name": "邱名璋",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c020a0-a948-4eb8-9e19-5c5aacb5b862"
+            },
+            {
+                "id": "540b5813-71b8-4fe1-a17d-1926acb5b862",
+                "image": "54355aed\/6fa8\/48d6\/afa1\/5232cb455a61.jpg",
+                "stage": "2",
+                "name": "林亞蒓",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c020a0-a948-4eb8-9e19-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d4f-6b98-4b6a-b45b-5460acb5b862",
+                "name": "屏東市",
+                "is_area": true,
+                "keywords": "2014,屏東縣,屏東市",
+                "AreasElection": {
+                    "id": "53c020a0-8d0c-4502-ba19-5c5aacb5b862",
+                    "Election_id": "53c020a0-a948-4eb8-9e19-5c5aacb5b862",
+                    "Area_id": "53c01d4f-6b98-4b6a-b45b-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市長",
+                "lft": "608",
+                "rght": "1031",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020a0-f5a4-4054-836f-5c5aacb5b862",
+                "parent_id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "887",
+                "rght": "954",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020a0-a948-4eb8-9e19-5c5aacb5b862",
+                "parent_id": "53c020a0-f5a4-4054-836f-5c5aacb5b862",
+                "name": "屏東市",
+                "lft": "888",
+                "rght": "889",
+                "population": "204084",
+                "population_electors": "164430",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5475673a-be14-48aa-98e2-0f78cf91e152",
+                "keywords": "2014-11,鄉鎮市長,屏東縣,屏東市"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

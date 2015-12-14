@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02597-2f90-44ac-a155-5c5aacb5b862",
+            "parent_id": "53c02597-68bc-415f-89a2-5c5aacb5b862",
+            "name": "天輪里",
+            "lft": "17677",
+            "rght": "17678",
+            "population": "499",
+            "population_electors": "433",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c6157-39b0-43f8-9451-573fcf91e152",
+            "keywords": "2014-11,村里長,臺中市,和平區,天輪里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0271b-5ea4-4492-b55d-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "劉興水",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02597-2f90-44ac-a155-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01fbf-0224-4636-9ab9-5460acb5b862",
+                "name": "天輪里",
+                "is_area": true,
+                "keywords": "2014,臺中市,和平區,天輪里",
+                "AreasElection": {
+                    "id": "53c02597-a2e4-4712-a4e4-5c5aacb5b862",
+                    "Election_id": "53c02597-2f90-44ac-a155-5c5aacb5b862",
+                    "Area_id": "53c01fbf-0224-4636-9ab9-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02597-68bc-415f-89a2-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "和平區",
+                "lft": "17676",
+                "rght": "17693",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02597-2f90-44ac-a155-5c5aacb5b862",
+                "parent_id": "53c02597-68bc-415f-89a2-5c5aacb5b862",
+                "name": "天輪里",
+                "lft": "17677",
+                "rght": "17678",
+                "population": "499",
+                "population_electors": "433",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c6157-39b0-43f8-9451-573fcf91e152",
+                "keywords": "2014-11,村里長,臺中市,和平區,天輪里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

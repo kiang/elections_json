@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c020ea-c760-4066-8f94-5c5aacb5b862",
+            "parent_id": "53c020ea-6c88-4954-940a-5c5aacb5b862",
+            "name": "大洋里",
+            "lft": "2863",
+            "rght": "2864",
+            "population": "1226",
+            "population_electors": "1027",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-7d0c-4ac3-a02e-74a5cf91e152",
+            "keywords": "2014-11,村里長,金門縣,金沙鎮,大洋里"
+        },
+        "Candidate": [
+            {
+                "id": "53c028a0-8328-484e-90b9-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "吳有泰",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c020ea-c760-4066-8f94-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01bd3-1694-468f-a4f3-5460acb5b862",
+                "name": "大洋里",
+                "is_area": true,
+                "keywords": "2014,金門縣,金沙鎮,大洋里",
+                "AreasElection": {
+                    "id": "53c020ea-9a4c-4df1-8bc0-5c5aacb5b862",
+                    "Election_id": "53c020ea-c760-4066-8f94-5c5aacb5b862",
+                    "Area_id": "53c01bd3-1694-468f-a4f3-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020e8-2910-4576-94cc-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "金門縣",
+                "lft": "2841",
+                "rght": "2928",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ea-6c88-4954-940a-5c5aacb5b862",
+                "parent_id": "53c020e8-2910-4576-94cc-5c5aacb5b862",
+                "name": "金沙鎮",
+                "lft": "2860",
+                "rght": "2877",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ea-c760-4066-8f94-5c5aacb5b862",
+                "parent_id": "53c020ea-6c88-4954-940a-5c5aacb5b862",
+                "name": "大洋里",
+                "lft": "2863",
+                "rght": "2864",
+                "population": "1226",
+                "population_electors": "1027",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-7d0c-4ac3-a02e-74a5cf91e152",
+                "keywords": "2014-11,村里長,金門縣,金沙鎮,大洋里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

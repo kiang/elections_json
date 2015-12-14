@@ -1,0 +1,167 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02182-489c-4a6e-98f0-5c5aacb5b862",
+            "parent_id": "53c02181-a8f8-4975-ba61-5c5aacb5b862",
+            "name": "岩竹村",
+            "lft": "4823",
+            "rght": "4824",
+            "population": "1496",
+            "population_electors": "1241",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-a8a4-4a60-b0ce-74a5cf91e152",
+            "keywords": "2014-11,村里長,彰化縣,花壇鄉,岩竹村"
+        },
+        "Candidate": [
+            {
+                "id": "53c027c5-0604-4005-91f4-5dffacb5b862",
+                "image": "546357a6\/e170\/44cb\/8f00\/077d8e043389.jpg",
+                "stage": "0",
+                "name": "王德潭",
+                "party": "",
+                "gender": "m",
+                "no": "0",
+                "name_english": "",
+                "election_id": "53c02182-489c-4a6e-98f0-5c5aacb5b862"
+            },
+            {
+                "id": "540b5506-0330-411e-8dbe-1926acb5b862",
+                "image": "546f23b8\/3694\/4e56\/8a3c\/7e4a8e043389.jpg",
+                "stage": "1",
+                "name": "蕭黃月娥",
+                "party": "無",
+                "gender": "f",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02182-489c-4a6e-98f0-5c5aacb5b862"
+            },
+            {
+                "id": "540b5506-5ee0-417a-828e-1926acb5b862",
+                "image": "54635771\/3c08\/44da\/a46c\/78978e043389.jpg",
+                "stage": "2",
+                "name": "呂進吉",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "LU CHIN CHI",
+                "election_id": "53c02182-489c-4a6e-98f0-5c5aacb5b862"
+            },
+            {
+                "id": "540b5506-98c0-420c-baa4-1926acb5b862",
+                "image": "546f2404\/c448\/439f\/9d39\/7e4c8e043389.jpg",
+                "stage": "1",
+                "name": "林天潤",
+                "party": "無",
+                "gender": "m",
+                "no": "4",
+                "name_english": "L G",
+                "election_id": "53c02182-489c-4a6e-98f0-5c5aacb5b862"
+            },
+            {
+                "id": "540b5506-b668-451d-a7ee-1926acb5b862",
+                "image": "546f23db\/cab4\/42b1\/8fe3\/7e4c8e043389.jpg",
+                "stage": "1",
+                "name": "劉金炉",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53c02182-489c-4a6e-98f0-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c93-0018-483c-a1c7-5460acb5b862",
+                "name": "岩竹村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,花壇鄉,岩竹村",
+                "AreasElection": {
+                    "id": "53c02182-2fe0-408a-a85b-5c5aacb5b862",
+                    "Election_id": "53c02182-489c-4a6e-98f0-5c5aacb5b862",
+                    "Area_id": "53c01c93-0018-483c-a1c7-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "4417",
+                "rght": "5648",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02181-a8f8-4975-ba61-5c5aacb5b862",
+                "parent_id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "name": "花壇鄉",
+                "lft": "4816",
+                "rght": "4853",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02182-489c-4a6e-98f0-5c5aacb5b862",
+                "parent_id": "53c02181-a8f8-4975-ba61-5c5aacb5b862",
+                "name": "岩竹村",
+                "lft": "4823",
+                "rght": "4824",
+                "population": "1496",
+                "population_electors": "1241",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-a8a4-4a60-b0ce-74a5cf91e152",
+                "keywords": "2014-11,村里長,彰化縣,花壇鄉,岩竹村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02108-9c68-4682-bc76-5c5aacb5b862",
+            "parent_id": "53c02107-fb88-451c-8cf2-5c5aacb5b862",
+            "name": "湖北村",
+            "lft": "3243",
+            "rght": "3244",
+            "population": "1200",
+            "population_electors": "998",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-e640-4d7f-99e7-2adbcf91e152",
+            "keywords": "2014-11,村里長,宜蘭縣,員山鄉,湖北村"
+        },
+        "Candidate": [
+            {
+                "id": "53c02760-8cdc-4095-8fb6-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "李文添",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "LEE WEN TIEN",
+                "election_id": "53c02108-9c68-4682-bc76-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01beb-00dc-4f9b-b63e-5460acb5b862",
+                "name": "湖北村",
+                "is_area": true,
+                "keywords": "2014,宜蘭縣,員山鄉,湖北村",
+                "AreasElection": {
+                    "id": "53c02108-a92c-4687-9b6f-5c5aacb5b862",
+                    "Election_id": "53c02108-9c68-4682-bc76-5c5aacb5b862",
+                    "Area_id": "53c01beb-00dc-4f9b-b63e-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ef-6268-4b1a-a16d-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "宜蘭縣",
+                "lft": "2929",
+                "rght": "3420",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02107-fb88-451c-8cf2-5c5aacb5b862",
+                "parent_id": "53c020ef-6268-4b1a-a16d-5c5aacb5b862",
+                "name": "員山鄉",
+                "lft": "3228",
+                "rght": "3261",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02108-9c68-4682-bc76-5c5aacb5b862",
+                "parent_id": "53c02107-fb88-451c-8cf2-5c5aacb5b862",
+                "name": "湖北村",
+                "lft": "3243",
+                "rght": "3244",
+                "population": "1200",
+                "population_electors": "998",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-e640-4d7f-99e7-2adbcf91e152",
+                "keywords": "2014-11,村里長,宜蘭縣,員山鄉,湖北村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

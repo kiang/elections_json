@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0242c-d604-4470-8b0a-5c5aacb5b862",
+            "parent_id": "53c02420-e624-4780-8ebc-5c5aacb5b862",
+            "name": "南和里",
+            "lft": "13479",
+            "rght": "13480",
+            "population": "3298",
+            "population_electors": "2559",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb721-4e64-46cf-9fda-2adbcf91e152",
+            "keywords": "2014-11,村里長,高雄市,鳳山區,南和里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0267c-3b2c-4dd2-bb97-5dffacb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "蔡心慧",
+                "party": "無",
+                "gender": "f",
+                "no": "2",
+                "name_english": "TSAI HSIN HUI",
+                "election_id": "53c0242c-d604-4470-8b0a-5c5aacb5b862"
+            },
+            {
+                "id": "540b5487-8000-4063-acf0-1926acb5b862",
+                "image": "",
+                "stage": "2",
+                "name": "李錦珠",
+                "party": "民主進步黨",
+                "gender": "f",
+                "no": "1",
+                "name_english": "LI CHIN CHU",
+                "election_id": "53c0242c-d604-4470-8b0a-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01e91-da54-458c-9f1f-5460acb5b862",
+                "name": "南和里",
+                "is_area": true,
+                "keywords": "2014,高雄市,鳳山區,南和里",
+                "AreasElection": {
+                    "id": "53c0242c-e9b0-4abd-bbfd-5c5aacb5b862",
+                    "Election_id": "53c0242c-d604-4470-8b0a-5c5aacb5b862",
+                    "Area_id": "53c01e91-da54-458c-9f1f-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02420-e624-4780-8ebc-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "鳳山區",
+                "lft": "13324",
+                "rght": "13481",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0242c-d604-4470-8b0a-5c5aacb5b862",
+                "parent_id": "53c02420-e624-4780-8ebc-5c5aacb5b862",
+                "name": "南和里",
+                "lft": "13479",
+                "rght": "13480",
+                "population": "3298",
+                "population_electors": "2559",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb721-4e64-46cf-9fda-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,鳳山區,南和里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

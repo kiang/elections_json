@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c021ba-e22c-4d71-8bdd-5c5aacb5b862",
+            "parent_id": "53c021b9-0060-42b6-8afb-5c5aacb5b862",
+            "name": "豐美村",
+            "lft": "5563",
+            "rght": "5564",
+            "population": "1105",
+            "population_electors": "887",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-7ce0-476d-8e0f-74a5cf91e152",
+            "keywords": "2014-11,村里長,彰化縣,大城鄉,豐美村"
+        },
+        "Candidate": [
+            {
+                "id": "53c027e3-0244-4b3a-9b3c-5dffacb5b862",
+                "image": "55ebee83\/fef8\/423d\/a627\/0c156ab936af.jpg",
+                "stage": "1",
+                "name": "張健男",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c021ba-e22c-4d71-8bdd-5c5aacb5b862"
+            },
+            {
+                "id": "540b552e-542c-499f-9727-1926acb5b862",
+                "image": "546f3c6c\/20f8\/44cd\/88a5\/2d698e043389.jpg",
+                "stage": "2",
+                "name": "王信木",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c021ba-e22c-4d71-8bdd-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01cc2-7ad4-44d1-9b48-5460acb5b862",
+                "name": "豐美村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,大城鄉,豐美村",
+                "AreasElection": {
+                    "id": "53c021ba-4990-497a-83e7-5c5aacb5b862",
+                    "Election_id": "53c021ba-e22c-4d71-8bdd-5c5aacb5b862",
+                    "Area_id": "53c01cc2-7ad4-44d1-9b48-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "4417",
+                "rght": "5648",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021b9-0060-42b6-8afb-5c5aacb5b862",
+                "parent_id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "name": "大城鄉",
+                "lft": "5546",
+                "rght": "5577",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ba-e22c-4d71-8bdd-5c5aacb5b862",
+                "parent_id": "53c021b9-0060-42b6-8afb-5c5aacb5b862",
+                "name": "豐美村",
+                "lft": "5563",
+                "rght": "5564",
+                "population": "1105",
+                "population_electors": "887",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-7ce0-476d-8e0f-74a5cf91e152",
+                "keywords": "2014-11,村里長,彰化縣,大城鄉,豐美村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

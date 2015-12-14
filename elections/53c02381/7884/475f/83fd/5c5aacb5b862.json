@@ -1,0 +1,145 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02381-7884-475f-83fd-5c5aacb5b862",
+            "parent_id": "53c02380-fef4-4ee1-858d-5c5aacb5b862",
+            "name": "社子里",
+            "lft": "11349",
+            "rght": "11350",
+            "population": "1612",
+            "population_electors": "1307",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "keywords": "2014-11,村里長,桃園市,新屋區,社子里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0278a-a88c-4205-b8fc-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "楊品潔",
+                "party": "無",
+                "gender": "f",
+                "no": "2",
+                "name_english": "YANG PIN JIE",
+                "election_id": "53c02381-7884-475f-83fd-5c5aacb5b862"
+            },
+            {
+                "id": "540b53b3-0c30-46d8-b8b5-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "李木麟",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "LEE MU LIN",
+                "election_id": "53c02381-7884-475f-83fd-5c5aacb5b862"
+            },
+            {
+                "id": "540b53b3-d554-4afd-9403-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "邱瑞增",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "CHIU JUI TSENG",
+                "election_id": "53c02381-7884-475f-83fd-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c30-4950-419b-823a-5460acb5b862",
+                "name": "社子里",
+                "is_area": true,
+                "keywords": "2014,桃園市,新屋區,社子里",
+                "AreasElection": {
+                    "id": "53c02382-1540-4dc1-b1fe-5c5aacb5b862",
+                    "Election_id": "53c02381-7884-475f-83fd-5c5aacb5b862",
+                    "Area_id": "53c01c30-4950-419b-823a-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "桃園市",
+                "lft": "10439",
+                "rght": "11456",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02380-fef4-4ee1-858d-5c5aacb5b862",
+                "parent_id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "name": "新屋區",
+                "lft": "11336",
+                "rght": "11383",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02381-7884-475f-83fd-5c5aacb5b862",
+                "parent_id": "53c02380-fef4-4ee1-858d-5c5aacb5b862",
+                "name": "社子里",
+                "lft": "11349",
+                "rght": "11350",
+                "population": "1612",
+                "population_electors": "1307",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2014-11,村里長,桃園市,新屋區,社子里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

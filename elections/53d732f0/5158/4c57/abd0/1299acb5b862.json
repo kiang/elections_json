@@ -1,0 +1,156 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d732f0-5158-4c57-abd0-1299acb5b862",
+            "parent_id": "53c020b9-ef60-43f2-8052-5c5aacb5b862",
+            "name": "第03選舉區[區域]",
+            "lft": "1399",
+            "rght": "1400",
+            "population": "2284",
+            "population_electors": "1922",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "546d8dba-ec4c-4b6f-8094-0e51cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,苗栗縣,大湖鄉,第03選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b56fb-6b24-4462-a57e-1926acb5b862",
+                "image": "54ba69ea\/5fc4\/4379\/8e54\/4e706ab936af.jpg",
+                "stage": "2",
+                "name": "周石明",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "CHOU SHIH MIN",
+                "election_id": "53d732f0-5158-4c57-abd0-1299acb5b862"
+            },
+            {
+                "id": "540b56fb-8744-49ce-af24-1926acb5b862",
+                "image": "54ba69c2\/ba48\/4007\/ab1d\/4e546ab936af.jpg",
+                "stage": "2",
+                "name": "徐鐵龍",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d732f0-5158-4c57-abd0-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c69-88ac-407e-b0c4-5460acb5b862",
+                "name": "東興村",
+                "is_area": true,
+                "keywords": "2014,苗栗縣,大湖鄉,東興村",
+                "AreasElection": {
+                    "id": "53d732f1-ceb8-4a94-9c40-1299acb5b862",
+                    "Election_id": "53d732f0-5158-4c57-abd0-1299acb5b862",
+                    "Area_id": "53c01c69-88ac-407e-b0c4-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c69-b530-4053-bb0b-5460acb5b862",
+                "name": "武榮村",
+                "is_area": true,
+                "keywords": "2014,苗栗縣,大湖鄉,武榮村",
+                "AreasElection": {
+                    "id": "53d732f1-6e18-433c-97b7-1299acb5b862",
+                    "Election_id": "53d732f0-5158-4c57-abd0-1299acb5b862",
+                    "Area_id": "53c01c69-b530-4053-bb0b-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c69-b5e8-458e-b9ce-5460acb5b862",
+                "name": "南湖村",
+                "is_area": true,
+                "keywords": "2014,苗栗縣,大湖鄉,南湖村",
+                "AreasElection": {
+                    "id": "53d732f1-6fcc-4ed3-9178-1299acb5b862",
+                    "Election_id": "53d732f0-5158-4c57-abd0-1299acb5b862",
+                    "Area_id": "53c01c69-b5e8-458e-b9ce-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b7-c5b4-41c9-bda3-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "苗栗縣",
+                "lft": "1323",
+                "rght": "1496",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b9-ef60-43f2-8052-5c5aacb5b862",
+                "parent_id": "53c020b7-c5b4-41c9-bda3-5c5aacb5b862",
+                "name": "大湖鄉",
+                "lft": "1394",
+                "rght": "1403",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d732f0-5158-4c57-abd0-1299acb5b862",
+                "parent_id": "53c020b9-ef60-43f2-8052-5c5aacb5b862",
+                "name": "第03選舉區[區域]",
+                "lft": "1399",
+                "rght": "1400",
+                "population": "2284",
+                "population_electors": "1922",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "546d8dba-ec4c-4b6f-8094-0e51cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,苗栗縣,大湖鄉,第03選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

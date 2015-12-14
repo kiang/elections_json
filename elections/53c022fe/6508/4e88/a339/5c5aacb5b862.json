@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c022fe-6508-4e88-a339-5c5aacb5b862",
+            "parent_id": "53c022fb-fc9c-4742-8d91-5c5aacb5b862",
+            "name": "八斗里",
+            "lft": "9711",
+            "rght": "9712",
+            "population": "1789",
+            "population_electors": "1505",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c8095-6a74-417e-a985-61a3cf91e152",
+            "keywords": "2014-11,村里長,基隆市,中正區,八斗里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02882-b1cc-4e3a-992b-5dffacb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "余吳玉蘭",
+                "party": "無",
+                "gender": "f",
+                "no": "1",
+                "name_english": "YU WU YU LAN",
+                "election_id": "53c022fe-6508-4e88-a339-5c5aacb5b862"
+            },
+            {
+                "id": "540b5648-5d9c-49b3-91c3-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "范玉蘭",
+                "party": "無",
+                "gender": "f",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c022fe-6508-4e88-a339-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01dd1-847c-4a72-a4b1-5460acb5b862",
+                "name": "八斗里",
+                "is_area": true,
+                "keywords": "2014,基隆市,中正區,八斗里",
+                "AreasElection": {
+                    "id": "53c022fe-45c8-43a5-8188-5c5aacb5b862",
+                    "Election_id": "53c022fe-6508-4e88-a339-5c5aacb5b862",
+                    "Area_id": "53c01dd1-847c-4a72-a4b1-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "基隆市",
+                "lft": "9683",
+                "rght": "10012",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022fb-fc9c-4742-8d91-5c5aacb5b862",
+                "parent_id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "name": "中正區",
+                "lft": "9684",
+                "rght": "9737",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022fe-6508-4e88-a339-5c5aacb5b862",
+                "parent_id": "53c022fb-fc9c-4742-8d91-5c5aacb5b862",
+                "name": "八斗里",
+                "lft": "9711",
+                "rght": "9712",
+                "population": "1789",
+                "population_electors": "1505",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c8095-6a74-417e-a985-61a3cf91e152",
+                "keywords": "2014-11,村里長,基隆市,中正區,八斗里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

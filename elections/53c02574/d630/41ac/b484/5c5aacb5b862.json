@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02574-d630-41ac-b484-5c5aacb5b862",
+            "parent_id": "53c02572-8c28-4e05-8d65-5c5aacb5b862",
+            "name": "四德里",
+            "lft": "17285",
+            "rght": "17286",
+            "population": "5431",
+            "population_electors": "3978",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e0691-fb28-47c4-8e4f-1a32cf91e152",
+            "keywords": "2014-11,村里長,臺中市,大雅區,四德里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0270a-30c0-45f7-9f61-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "呂啟勳",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "LU CHI HSUN",
+                "election_id": "53c02574-d630-41ac-b484-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01fa5-941c-401a-ac61-5460acb5b862",
+                "name": "四德里",
+                "is_area": true,
+                "keywords": "2014,臺中市,大雅區,四德里",
+                "AreasElection": {
+                    "id": "53c02574-fc14-4b4d-ba3c-5c5aacb5b862",
+                    "Election_id": "53c02574-d630-41ac-b484-5c5aacb5b862",
+                    "Area_id": "53c01fa5-941c-401a-ac61-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02572-8c28-4e05-8d65-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "大雅區",
+                "lft": "17262",
+                "rght": "17293",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02574-d630-41ac-b484-5c5aacb5b862",
+                "parent_id": "53c02572-8c28-4e05-8d65-5c5aacb5b862",
+                "name": "四德里",
+                "lft": "17285",
+                "rght": "17286",
+                "population": "5431",
+                "population_electors": "3978",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e0691-fb28-47c4-8e4f-1a32cf91e152",
+                "keywords": "2014-11,村里長,臺中市,大雅區,四德里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

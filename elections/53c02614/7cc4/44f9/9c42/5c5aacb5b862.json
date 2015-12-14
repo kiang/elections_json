@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02614-7cc4-44f9-9c42-5c5aacb5b862",
+            "parent_id": "53c02612-d7e8-4e79-bd3f-5c5aacb5b862",
+            "name": "海西里",
+            "lft": "19087",
+            "rght": "19088",
+            "population": "2995",
+            "population_electors": "2407",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "keywords": "2014-11,村里長,臺南市,安南區,海西里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0274e-0cfc-42a9-b939-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "吳欽郎",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02614-7cc4-44f9-9c42-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c02020-ae74-468a-bf34-5460acb5b862",
+                "name": "海西里",
+                "is_area": true,
+                "keywords": "2014,臺南市,安南區,海西里",
+                "AreasElection": {
+                    "id": "53c02614-2924-489c-8b28-5c5aacb5b862",
+                    "Election_id": "53c02614-7cc4-44f9-9c42-5c5aacb5b862",
+                    "Area_id": "53c02020-ae74-468a-bf34-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02598-fc40-4dee-aec0-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺南市",
+                "lft": "17695",
+                "rght": "19274",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02612-d7e8-4e79-bd3f-5c5aacb5b862",
+                "parent_id": "53c02598-fc40-4dee-aec0-5c5aacb5b862",
+                "name": "安南區",
+                "lft": "19060",
+                "rght": "19163",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02614-7cc4-44f9-9c42-5c5aacb5b862",
+                "parent_id": "53c02612-d7e8-4e79-bd3f-5c5aacb5b862",
+                "name": "海西里",
+                "lft": "19087",
+                "rght": "19088",
+                "population": "2995",
+                "population_electors": "2407",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2014-11,村里長,臺南市,安南區,海西里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

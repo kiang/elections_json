@@ -1,0 +1,167 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02610-7708-4857-9713-5c5aacb5b862",
+            "parent_id": "53c0260a-ed0c-4497-942e-5c5aacb5b862",
+            "name": "長榮里",
+            "lft": "19029",
+            "rght": "19030",
+            "population": "3046",
+            "population_electors": "2630",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "keywords": "2014-11,村里長,臺南市,北區,長榮里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0274c-8e34-43fa-a7d4-5dffacb5b862",
+                "image": null,
+                "stage": "0",
+                "name": "潘美純",
+                "party": null,
+                "gender": null,
+                "no": "0",
+                "name_english": "",
+                "election_id": "53c02610-7708-4857-9713-5c5aacb5b862"
+            },
+            {
+                "id": "540b5441-03bc-4f6b-9daf-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "潘莉華",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "4",
+                "name_english": "",
+                "election_id": "53c02610-7708-4857-9713-5c5aacb5b862"
+            },
+            {
+                "id": "540b5441-49ac-442c-8e15-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "丁俊夫",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "Ding Jun Fu",
+                "election_id": "53c02610-7708-4857-9713-5c5aacb5b862"
+            },
+            {
+                "id": "540b5441-7b94-45b3-b118-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "黃美雲",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "3",
+                "name_english": "HUANG MEI YUN",
+                "election_id": "53c02610-7708-4857-9713-5c5aacb5b862"
+            },
+            {
+                "id": "540b5441-b4d0-457c-bd04-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "李新生",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "LEE HSIN SHENG",
+                "election_id": "53c02610-7708-4857-9713-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c0201c-a890-418f-946c-5460acb5b862",
+                "name": "長榮里",
+                "is_area": true,
+                "keywords": "2014,臺南市,北區,長榮里",
+                "AreasElection": {
+                    "id": "53c02610-0e98-4d13-980a-5c5aacb5b862",
+                    "Election_id": "53c02610-7708-4857-9713-5c5aacb5b862",
+                    "Area_id": "53c0201c-a890-418f-946c-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02598-fc40-4dee-aec0-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺南市",
+                "lft": "17695",
+                "rght": "19274",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0260a-ed0c-4497-942e-5c5aacb5b862",
+                "parent_id": "53c02598-fc40-4dee-aec0-5c5aacb5b862",
+                "name": "北區",
+                "lft": "18972",
+                "rght": "19059",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02610-7708-4857-9713-5c5aacb5b862",
+                "parent_id": "53c0260a-ed0c-4497-942e-5c5aacb5b862",
+                "name": "長榮里",
+                "lft": "19029",
+                "rght": "19030",
+                "population": "3046",
+                "population_electors": "2630",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2014-11,村里長,臺南市,北區,長榮里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

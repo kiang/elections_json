@@ -1,0 +1,119 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0208f-310c-423e-b804-5c5aacb5b862",
+            "parent_id": "53c0208d-d5f8-4b58-82e9-5c5aacb5b862",
+            "name": "西湖鄉",
+            "lft": "714",
+            "rght": "715",
+            "population": "7601",
+            "population_electors": "6423",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-a748-48b2-962c-4187cf91e152",
+            "keywords": "2014-11,鄉鎮市長,苗栗縣,西湖鄉"
+        },
+        "Candidate": [
+            {
+                "id": "5406a602-6c88-4aa4-ab92-15b8acb5b862",
+                "image": "54957b3f\/6010\/4912\/8bda\/74cb6ab936af.jpg",
+                "stage": "1",
+                "name": "李文林",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c0208f-310c-423e-b804-5c5aacb5b862"
+            },
+            {
+                "id": "540b5803-aa14-4973-8c18-1926acb5b862",
+                "image": "54957bc8\/b878\/49bb\/968a\/75036ab936af.jpg",
+                "stage": "2",
+                "name": "古木賢",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c0208f-310c-423e-b804-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c72-9380-4cf7-8d5b-5460acb5b862",
+                "name": "西湖鄉",
+                "is_area": true,
+                "keywords": "2014,苗栗縣,西湖鄉",
+                "AreasElection": {
+                    "id": "53c0208f-1e68-43b5-87f0-5c5aacb5b862",
+                    "Election_id": "53c0208f-310c-423e-b804-5c5aacb5b862",
+                    "Area_id": "53c01c72-9380-4cf7-8d5b-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市長",
+                "lft": "608",
+                "rght": "1031",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0208d-d5f8-4b58-82e9-5c5aacb5b862",
+                "parent_id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "name": "苗栗縣",
+                "lft": "687",
+                "rght": "724",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0208f-310c-423e-b804-5c5aacb5b862",
+                "parent_id": "53c0208d-d5f8-4b58-82e9-5c5aacb5b862",
+                "name": "西湖鄉",
+                "lft": "714",
+                "rght": "715",
+                "population": "7601",
+                "population_electors": "6423",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-a748-48b2-962c-4187cf91e152",
+                "keywords": "2014-11,鄉鎮市長,苗栗縣,西湖鄉"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c021d8-a770-49fd-a834-5c5aacb5b862",
+            "parent_id": "53c021d7-f554-40a8-8ceb-5c5aacb5b862",
+            "name": "中正村",
+            "lft": "5937",
+            "rght": "5938",
+            "population": "4115",
+            "population_electors": "3245",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54735d55-6224-407d-b950-21eacf91e152",
+            "keywords": "2014-11,村里長,南投縣,名間鄉,中正村"
+        },
+        "Candidate": [
+            {
+                "id": "53c027f2-e2c0-426f-86d2-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "李溪成",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c021d8-a770-49fd-a834-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01cd7-3de0-4a6e-a19e-5460acb5b862",
+                "name": "中正村",
+                "is_area": true,
+                "keywords": "2014,南投縣,名間鄉,中正村",
+                "AreasElection": {
+                    "id": "53c021d8-f444-4af9-9c28-5c5aacb5b862",
+                    "Election_id": "53c021d8-a770-49fd-a834-5c5aacb5b862",
+                    "Area_id": "53c01cd7-3de0-4a6e-a19e-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "南投縣",
+                "lft": "5649",
+                "rght": "6200",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021d7-f554-40a8-8ceb-5c5aacb5b862",
+                "parent_id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "name": "名間鄉",
+                "lft": "5926",
+                "rght": "5973",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021d8-a770-49fd-a834-5c5aacb5b862",
+                "parent_id": "53c021d7-f554-40a8-8ceb-5c5aacb5b862",
+                "name": "中正村",
+                "lft": "5937",
+                "rght": "5938",
+                "population": "4115",
+                "population_electors": "3245",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54735d55-6224-407d-b950-21eacf91e152",
+                "keywords": "2014-11,村里長,南投縣,名間鄉,中正村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c023b2-159c-49d4-ae54-5c5aacb5b862",
+            "parent_id": "53c023af-44e8-4c7c-a5e8-5c5aacb5b862",
+            "name": "保德里",
+            "lft": "11971",
+            "rght": "11972",
+            "population": "3541",
+            "population_electors": "2853",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-15c8-449a-8a3d-4187cf91e152",
+            "keywords": "2014-11,村里長,臺北市,萬華區,保德里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02642-77bc-4fc0-81f4-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "楊美女",
+                "party": "無",
+                "gender": "f",
+                "no": "1",
+                "name_english": "YANG MEI NU",
+                "election_id": "53c023b2-159c-49d4-ae54-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01e29-5a18-4035-a2da-5460acb5b862",
+                "name": "保德里",
+                "is_area": true,
+                "keywords": "2014,臺北市,萬華區,保德里",
+                "AreasElection": {
+                    "id": "53c023b2-bb3c-44e6-b6ea-5c5aacb5b862",
+                    "Election_id": "53c023b2-159c-49d4-ae54-5c5aacb5b862",
+                    "Area_id": "53c01e29-5a18-4035-a2da-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023af-44e8-4c7c-a5e8-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "萬華區",
+                "lft": "11920",
+                "rght": "11993",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023b2-159c-49d4-ae54-5c5aacb5b862",
+                "parent_id": "53c023af-44e8-4c7c-a5e8-5c5aacb5b862",
+                "name": "保德里",
+                "lft": "11971",
+                "rght": "11972",
+                "population": "3541",
+                "population_electors": "2853",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-15c8-449a-8a3d-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,萬華區,保德里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0221a-91d4-485f-a5bf-5c5aacb5b862",
+            "parent_id": "53c0221a-b938-49e0-9bfa-5c5aacb5b862",
+            "name": "臺西村",
+            "lft": "6805",
+            "rght": "6806",
+            "population": "1481",
+            "population_electors": "1217",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546ec148-7e24-4c2e-9161-2e05cf91e152",
+            "keywords": "2014-11,村里長,雲林縣,臺西鄉,臺西村"
+        },
+        "Candidate": [
+            {
+                "id": "540b5577-49f0-4a82-9ec7-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "賴俊傑",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "LAI CHUN CHIEH",
+                "election_id": "53c0221a-91d4-485f-a5bf-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d0c-88d8-4d83-89c4-5460acb5b862",
+                "name": "臺西村",
+                "is_area": true,
+                "keywords": "2014,雲林縣,臺西鄉,臺西村",
+                "AreasElection": {
+                    "id": "53c0221a-15e8-4e41-8eca-5c5aacb5b862",
+                    "Election_id": "53c0221a-91d4-485f-a5bf-5c5aacb5b862",
+                    "Area_id": "53c01d0c-88d8-4d83-89c4-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "6201",
+                "rght": "7018",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0221a-b938-49e0-9bfa-5c5aacb5b862",
+                "parent_id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "name": "臺西鄉",
+                "lft": "6804",
+                "rght": "6835",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0221a-91d4-485f-a5bf-5c5aacb5b862",
+                "parent_id": "53c0221a-b938-49e0-9bfa-5c5aacb5b862",
+                "name": "臺西村",
+                "lft": "6805",
+                "rght": "6806",
+                "population": "1481",
+                "population_electors": "1217",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546ec148-7e24-4c2e-9161-2e05cf91e152",
+                "keywords": "2014-11,村里長,雲林縣,臺西鄉,臺西村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

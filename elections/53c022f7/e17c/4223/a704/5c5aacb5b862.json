@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c022f7-e17c-4223-a704-5c5aacb5b862",
+            "parent_id": "53c022f7-ff1c-4dd3-bb03-5c5aacb5b862",
+            "name": "大池村",
+            "lft": "9629",
+            "rght": "9630",
+            "population": "777",
+            "population_electors": "632",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068e-e9cc-4024-8dd6-1a32cf91e152",
+            "keywords": "2014-11,村里長,澎湖縣,西嶼鄉,大池村"
+        },
+        "Candidate": [
+            {
+                "id": "53c0287e-8b88-4040-ba06-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "顏光前",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c022f7-e17c-4223-a704-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01dcb-813c-4c57-b247-5460acb5b862",
+                "name": "大池村",
+                "is_area": true,
+                "keywords": "2014,澎湖縣,西嶼鄉,大池村",
+                "AreasElection": {
+                    "id": "53c022f7-677c-44d9-9682-5c5aacb5b862",
+                    "Election_id": "53c022f7-e17c-4223-a704-5c5aacb5b862",
+                    "Area_id": "53c01dcb-813c-4c57-b247-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022eb-48d4-448e-b49d-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "澎湖縣",
+                "lft": "9477",
+                "rght": "9682",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022f7-ff1c-4dd3-bb03-5c5aacb5b862",
+                "parent_id": "53c022eb-48d4-448e-b49d-5c5aacb5b862",
+                "name": "西嶼鄉",
+                "lft": "9624",
+                "rght": "9647",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022f7-e17c-4223-a704-5c5aacb5b862",
+                "parent_id": "53c022f7-ff1c-4dd3-bb03-5c5aacb5b862",
+                "name": "大池村",
+                "lft": "9629",
+                "rght": "9630",
+                "population": "777",
+                "population_electors": "632",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068e-e9cc-4024-8dd6-1a32cf91e152",
+                "keywords": "2014-11,村里長,澎湖縣,西嶼鄉,大池村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

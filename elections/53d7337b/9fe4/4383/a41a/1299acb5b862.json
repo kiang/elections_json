@@ -1,0 +1,178 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d7337b-9fe4-4383-a41a-1299acb5b862",
+            "parent_id": "53c020c3-4608-4c25-a58e-5c5aacb5b862",
+            "name": "第02選舉區[區域]",
+            "lft": "1801",
+            "rght": "1802",
+            "population": "4764",
+            "population_electors": "4073",
+            "quota": "3",
+            "quota_women": "0",
+            "bulletin_key": "54735d56-3df4-4637-ae16-21eacf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,南投縣,鹿谷鄉,第02選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b573e-3914-4d3c-a584-1926acb5b862",
+                "image": "54a157f9\/2e2c\/4873\/81c4\/34276ab936af.jpg",
+                "stage": "2",
+                "name": "林智鴻",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "LIN CHIH HUNG",
+                "election_id": "53d7337b-9fe4-4383-a41a-1299acb5b862"
+            },
+            {
+                "id": "540b573e-7768-4174-bd1d-1926acb5b862",
+                "image": "54a15833\/3a5c\/489d\/a6a9\/34656ab936af.jpg",
+                "stage": "2",
+                "name": "蘇聰明",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "SU TSUNG MING",
+                "election_id": "53d7337b-9fe4-4383-a41a-1299acb5b862"
+            },
+            {
+                "id": "540b573e-e8c0-4a97-a1d1-1926acb5b862",
+                "image": "54a157ce\/a394\/444a\/89a4\/34236ab936af.jpg",
+                "stage": "2",
+                "name": "葉瑞鐘",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "YEH JUI CHUNG",
+                "election_id": "53d7337b-9fe4-4383-a41a-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01cda-000c-4eb1-8d97-5460acb5b862",
+                "name": "內湖村",
+                "is_area": true,
+                "keywords": "2014,南投縣,鹿谷鄉,內湖村",
+                "AreasElection": {
+                    "id": "53d7337d-4ea4-4f09-92a2-1299acb5b862",
+                    "Election_id": "53d7337b-9fe4-4383-a41a-1299acb5b862",
+                    "Area_id": "53c01cda-000c-4eb1-8d97-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cda-1778-4aa5-9523-5460acb5b862",
+                "name": "竹林村",
+                "is_area": true,
+                "keywords": "2014,南投縣,鹿谷鄉,竹林村",
+                "AreasElection": {
+                    "id": "53d7337d-8448-4024-94e4-1299acb5b862",
+                    "Election_id": "53d7337b-9fe4-4383-a41a-1299acb5b862",
+                    "Area_id": "53c01cda-1778-4aa5-9523-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cda-b224-40ab-9f68-5460acb5b862",
+                "name": "竹豐村",
+                "is_area": true,
+                "keywords": "2014,南投縣,鹿谷鄉,竹豐村",
+                "AreasElection": {
+                    "id": "53d7337d-94cc-448b-8e03-1299acb5b862",
+                    "Election_id": "53d7337b-9fe4-4383-a41a-1299acb5b862",
+                    "Area_id": "53c01cda-b224-40ab-9f68-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cda-e118-4648-a6ef-5460acb5b862",
+                "name": "和雅村",
+                "is_area": true,
+                "keywords": "2014,南投縣,鹿谷鄉,和雅村",
+                "AreasElection": {
+                    "id": "53d7337d-cb5c-4d39-b83c-1299acb5b862",
+                    "Election_id": "53d7337b-9fe4-4383-a41a-1299acb5b862",
+                    "Area_id": "53c01cda-e118-4648-a6ef-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020c2-2488-4d59-a20d-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "南投縣",
+                "lft": "1739",
+                "rght": "1864",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020c3-4608-4c25-a58e-5c5aacb5b862",
+                "parent_id": "53c020c2-2488-4d59-a20d-5c5aacb5b862",
+                "name": "鹿谷鄉",
+                "lft": "1798",
+                "rght": "1805",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d7337b-9fe4-4383-a41a-1299acb5b862",
+                "parent_id": "53c020c3-4608-4c25-a58e-5c5aacb5b862",
+                "name": "第02選舉區[區域]",
+                "lft": "1801",
+                "rght": "1802",
+                "population": "4764",
+                "population_electors": "4073",
+                "quota": "3",
+                "quota_women": "0",
+                "bulletin_key": "54735d56-3df4-4637-ae16-21eacf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,南投縣,鹿谷鄉,第02選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

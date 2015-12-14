@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c022d5-2c5c-4be7-9687-5c5aacb5b862",
+            "parent_id": "53c022d5-96a8-48b9-b787-5c5aacb5b862",
+            "name": "啟模里",
+            "lft": "9217",
+            "rght": "9218",
+            "population": "2053",
+            "population_electors": "1638",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546d8db9-d664-47c5-9767-0e51cf91e152",
+            "keywords": "2014-11,村里長,花蓮縣,玉里鎮,啟模里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0286e-19a8-4a38-b283-5dffacb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "邱顯義",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c022d5-2c5c-4be7-9687-5c5aacb5b862"
+            },
+            {
+                "id": "540b560e-4880-4718-9459-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "陳文祥",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c022d5-2c5c-4be7-9687-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01db1-be04-49eb-a41e-5460acb5b862",
+                "name": "啟模里",
+                "is_area": true,
+                "keywords": "2014,花蓮縣,玉里鎮,啟模里",
+                "AreasElection": {
+                    "id": "53c022d5-8634-4407-88d3-5c5aacb5b862",
+                    "Election_id": "53c022d5-2c5c-4be7-9687-5c5aacb5b862",
+                    "Area_id": "53c01db1-be04-49eb-a41e-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022cb-ff18-4c61-98a3-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "花蓮縣",
+                "lft": "9095",
+                "rght": "9476",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022d5-96a8-48b9-b787-5c5aacb5b862",
+                "parent_id": "53c022cb-ff18-4c61-98a3-5c5aacb5b862",
+                "name": "玉里鎮",
+                "lft": "9214",
+                "rght": "9245",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022d5-2c5c-4be7-9687-5c5aacb5b862",
+                "parent_id": "53c022d5-96a8-48b9-b787-5c5aacb5b862",
+                "name": "啟模里",
+                "lft": "9217",
+                "rght": "9218",
+                "population": "2053",
+                "population_electors": "1638",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546d8db9-d664-47c5-9767-0e51cf91e152",
+                "keywords": "2014-11,村里長,花蓮縣,玉里鎮,啟模里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c022af-9d18-4be6-995f-5c5aacb5b862",
+            "parent_id": "53c022ae-d058-4cc1-85a3-5c5aacb5b862",
+            "name": "古華村",
+            "lft": "8725",
+            "rght": "8726",
+            "population": "828",
+            "population_electors": "640",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "keywords": "2014-11,村里長,屏東縣,春日鄉,古華村"
+        },
+        "Candidate": [
+            {
+                "id": "53c02860-0138-4652-bef9-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "陸清木",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c022af-9d18-4be6-995f-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d92-8a94-4852-b179-5460acb5b862",
+                "name": "古華村",
+                "is_area": true,
+                "keywords": "2014,屏東縣,春日鄉,古華村",
+                "AreasElection": {
+                    "id": "53c022af-6e50-4e06-9cbe-5c5aacb5b862",
+                    "Election_id": "53c022af-9d18-4be6-995f-5c5aacb5b862",
+                    "Area_id": "53c01d92-8a94-4852-b179-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "7771",
+                "rght": "8766",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022ae-d058-4cc1-85a3-5c5aacb5b862",
+                "parent_id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "name": "春日鄉",
+                "lft": "8720",
+                "rght": "8733",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022af-9d18-4be6-995f-5c5aacb5b862",
+                "parent_id": "53c022ae-d058-4cc1-85a3-5c5aacb5b862",
+                "name": "古華村",
+                "lft": "8725",
+                "rght": "8726",
+                "population": "828",
+                "population_electors": "640",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2014-11,村里長,屏東縣,春日鄉,古華村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

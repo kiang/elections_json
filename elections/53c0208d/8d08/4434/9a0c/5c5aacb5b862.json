@@ -1,0 +1,119 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0208d-8d08-4434-9a0c-5c5aacb5b862",
+            "parent_id": "53c0208d-d5f8-4b58-82e9-5c5aacb5b862",
+            "name": "頭份鎮",
+            "lft": "696",
+            "rght": "697",
+            "population": "102335",
+            "population_electors": "78043",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-3370-43b4-a219-4187cf91e152",
+            "keywords": "2014-11,鄉鎮市長,苗栗縣,頭份鎮"
+        },
+        "Candidate": [
+            {
+                "id": "5406a600-4f44-4d6e-972a-15b8acb5b862",
+                "image": "5495aabd\/34cc\/473e\/a085\/7f256ab936af.jpg",
+                "stage": "2",
+                "name": "徐定禎",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "Hsu Ding Chen",
+                "election_id": "53c0208d-8d08-4434-9a0c-5c5aacb5b862"
+            },
+            {
+                "id": "540b5803-f5b4-42f5-879a-1926acb5b862",
+                "image": "5495ab01\/3e9c\/49ed\/b146\/7f426ab936af.jpg",
+                "stage": "1",
+                "name": "黃盛和",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "Huang Sheng Ho",
+                "election_id": "53c0208d-8d08-4434-9a0c-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c60-1844-4f5a-909f-5460acb5b862",
+                "name": "頭份鎮",
+                "is_area": true,
+                "keywords": "2014,苗栗縣,頭份鎮",
+                "AreasElection": {
+                    "id": "53c0208d-5934-4058-be26-5c5aacb5b862",
+                    "Election_id": "53c0208d-8d08-4434-9a0c-5c5aacb5b862",
+                    "Area_id": "53c01c60-1844-4f5a-909f-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市長",
+                "lft": "608",
+                "rght": "1031",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0208d-d5f8-4b58-82e9-5c5aacb5b862",
+                "parent_id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "name": "苗栗縣",
+                "lft": "687",
+                "rght": "724",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0208d-8d08-4434-9a0c-5c5aacb5b862",
+                "parent_id": "53c0208d-d5f8-4b58-82e9-5c5aacb5b862",
+                "name": "頭份鎮",
+                "lft": "696",
+                "rght": "697",
+                "population": "102335",
+                "population_electors": "78043",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-3370-43b4-a219-4187cf91e152",
+                "keywords": "2014-11,鄉鎮市長,苗栗縣,頭份鎮"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c020ef-2dac-49bb-9ee2-5c5aacb5b862",
+            "parent_id": "53c020ee-bbb4-4380-80e9-5c5aacb5b862",
+            "name": "黃埔村",
+            "lft": "2917",
+            "rght": "2918",
+            "population": "1585",
+            "population_electors": "1337",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-5854-4989-a69a-74a5cf91e152",
+            "keywords": "2014-11,村里長,金門縣,烈嶼鄉,黃埔村"
+        },
+        "Candidate": [
+            {
+                "id": "53c028a1-f8d8-486f-be3a-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "方耀年",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c020ef-2dac-49bb-9ee2-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01bd6-db60-417c-b153-5460acb5b862",
+                "name": "黃埔村",
+                "is_area": true,
+                "keywords": "2014,金門縣,烈嶼鄉,黃埔村",
+                "AreasElection": {
+                    "id": "53c020ef-c240-4959-a8f6-5c5aacb5b862",
+                    "Election_id": "53c020ef-2dac-49bb-9ee2-5c5aacb5b862",
+                    "Area_id": "53c01bd6-db60-417c-b153-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020e8-2910-4576-94cc-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "金門縣",
+                "lft": "2841",
+                "rght": "2928",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ee-bbb4-4380-80e9-5c5aacb5b862",
+                "parent_id": "53c020e8-2910-4576-94cc-5c5aacb5b862",
+                "name": "烈嶼鄉",
+                "lft": "2910",
+                "rght": "2921",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ef-2dac-49bb-9ee2-5c5aacb5b862",
+                "parent_id": "53c020ee-bbb4-4380-80e9-5c5aacb5b862",
+                "name": "黃埔村",
+                "lft": "2917",
+                "rght": "2918",
+                "population": "1585",
+                "population_electors": "1337",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-5854-4989-a69a-74a5cf91e152",
+                "keywords": "2014-11,村里長,金門縣,烈嶼鄉,黃埔村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

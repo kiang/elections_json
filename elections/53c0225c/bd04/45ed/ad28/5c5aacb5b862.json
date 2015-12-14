@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0225c-bd04-45ed-ad28-5c5aacb5b862",
+            "parent_id": "53c0225b-e980-453c-93e3-5c5aacb5b862",
+            "name": "太平村",
+            "lft": "7685",
+            "rght": "7686",
+            "population": "598",
+            "population_electors": "503",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546ef559-f97c-4276-9512-208ecf91e152",
+            "keywords": "2014-11,村里長,嘉義縣,梅山鄉,太平村"
+        },
+        "Candidate": [
+            {
+                "id": "53c02839-1778-4b32-9dab-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "嚴清雅",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c0225c-bd04-45ed-ad28-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d4a-2e98-45b2-8e4a-5460acb5b862",
+                "name": "太平村",
+                "is_area": true,
+                "keywords": "2014,嘉義縣,梅山鄉,太平村",
+                "AreasElection": {
+                    "id": "53c0225c-a4cc-43e3-a9b4-5c5aacb5b862",
+                    "Election_id": "53c0225c-bd04-45ed-ad28-5c5aacb5b862",
+                    "Area_id": "53c01d4a-2e98-45b2-8e4a-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0222a-d5c0-465f-849c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "嘉義縣",
+                "lft": "7019",
+                "rght": "7770",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0225b-e980-453c-93e3-5c5aacb5b862",
+                "parent_id": "53c0222a-d5c0-465f-849c-5c5aacb5b862",
+                "name": "梅山鄉",
+                "lft": "7670",
+                "rght": "7707",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0225c-bd04-45ed-ad28-5c5aacb5b862",
+                "parent_id": "53c0225b-e980-453c-93e3-5c5aacb5b862",
+                "name": "太平村",
+                "lft": "7685",
+                "rght": "7686",
+                "population": "598",
+                "population_electors": "503",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546ef559-f97c-4276-9512-208ecf91e152",
+                "keywords": "2014-11,村里長,嘉義縣,梅山鄉,太平村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

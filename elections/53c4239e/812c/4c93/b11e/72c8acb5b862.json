@@ -1,0 +1,178 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c4239e-812c-4c93-b11e-72c8acb5b862",
+            "parent_id": "53c42062-9210-4b6c-8beb-7258acb5b862",
+            "name": "第02選舉區",
+            "lft": "233",
+            "rght": "234",
+            "population": "878",
+            "population_electors": "663",
+            "quota": "3",
+            "quota_women": "0",
+            "bulletin_key": "54704b05-2f88-4b48-bda1-1495cf91e152",
+            "keywords": "2014-11,直轄市山地原住民區民代表,高雄市,茂林區,第02選舉區"
+        },
+        "Candidate": [
+            {
+                "id": "540b5676-4404-4f0a-8ccb-1926acb5b862",
+                "image": "548ef0d2\/2240\/444a\/89ac\/67366ab936af.jpg",
+                "stage": "2",
+                "name": "田新忠",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c4239e-812c-4c93-b11e-72c8acb5b862"
+            },
+            {
+                "id": "540b5676-4d0c-4606-afec-1926acb5b862",
+                "image": "548ef135\/a204\/478b\/a487\/67396ab936af.jpg",
+                "stage": "1",
+                "name": "朱秀琴",
+                "party": "無",
+                "gender": "f",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c4239e-812c-4c93-b11e-72c8acb5b862"
+            },
+            {
+                "id": "540b5676-827c-42b6-b712-1926acb5b862",
+                "image": "548ef0f6\/b08c\/496f\/8ae5\/67406ab936af.jpg",
+                "stage": "2",
+                "name": "魏光保 Pusinga．Tablenga",
+                "party": "無",
+                "gender": "m",
+                "no": "5",
+                "name_english": "",
+                "election_id": "53c4239e-812c-4c93-b11e-72c8acb5b862"
+            },
+            {
+                "id": "540b5676-8414-4943-80f3-1926acb5b862",
+                "image": "548ef176\/fe84\/455b\/83e7\/675d6ab936af.jpg",
+                "stage": "1",
+                "name": "陳雅苓 Ismahasan．Wuli",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "3",
+                "name_english": "Chen ya ling",
+                "election_id": "53c4239e-812c-4c93-b11e-72c8acb5b862"
+            },
+            {
+                "id": "540b5676-db64-4931-bca4-1926acb5b862",
+                "image": "548ef116\/7798\/4a64\/bd9c\/67566ab936af.jpg",
+                "stage": "2",
+                "name": "陳奕蓁",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "6",
+                "name_english": "",
+                "election_id": "53c4239e-812c-4c93-b11e-72c8acb5b862"
+            },
+            {
+                "id": "540b5676-e8d4-4e6e-aaf6-1926acb5b862",
+                "image": "548ef198\/da50\/4bc6\/a831\/67876ab936af.jpg",
+                "stage": "1",
+                "name": "溫順益 Ngidrere．Pawvithki",
+                "party": "無",
+                "gender": "m",
+                "no": "4",
+                "name_english": "",
+                "election_id": "53c4239e-812c-4c93-b11e-72c8acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01ec5-f080-434a-8f36-5460acb5b862",
+                "name": "茂林里",
+                "is_area": true,
+                "keywords": "2014,高雄市,茂林區,茂林里",
+                "AreasElection": {
+                    "id": "53c4239f-4ff4-4350-8422-72c8acb5b862",
+                    "Election_id": "53c4239e-812c-4c93-b11e-72c8acb5b862",
+                    "Area_id": "53c01ec5-f080-434a-8f36-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-96ac-4ca2-b338-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市山地原住民區民代表",
+                "lft": "218",
+                "rght": "271",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c42061-12a4-4a1b-b564-7258acb5b862",
+                "parent_id": "53c0202f-96ac-4ca2-b338-5460acb5b862",
+                "name": "高雄市",
+                "lft": "229",
+                "rght": "248",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c42062-9210-4b6c-8beb-7258acb5b862",
+                "parent_id": "53c42061-12a4-4a1b-b564-7258acb5b862",
+                "name": "茂林區",
+                "lft": "230",
+                "rght": "235",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c4239e-812c-4c93-b11e-72c8acb5b862",
+                "parent_id": "53c42062-9210-4b6c-8beb-7258acb5b862",
+                "name": "第02選舉區",
+                "lft": "233",
+                "rght": "234",
+                "population": "878",
+                "population_electors": "663",
+                "quota": "3",
+                "quota_women": "0",
+                "bulletin_key": "54704b05-2f88-4b48-bda1-1495cf91e152",
+                "keywords": "2014-11,直轄市山地原住民區民代表,高雄市,茂林區,第02選舉區"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

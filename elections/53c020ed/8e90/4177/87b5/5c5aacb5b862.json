@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c020ed-8e90-4177-87b5-5c5aacb5b862",
+            "parent_id": "53c020ec-3d80-4ce6-80ff-5c5aacb5b862",
+            "name": "山外里",
+            "lft": "2887",
+            "rght": "2888",
+            "population": "3747",
+            "population_electors": "3068",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "keywords": "2014-11,村里長,金門縣,金湖鎮,山外里"
+        },
+        "Candidate": [
+            {
+                "id": "53c028a0-5b54-49f3-b784-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "陳晚開",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c020ed-8e90-4177-87b5-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01bd4-eda4-4a07-ae4a-5460acb5b862",
+                "name": "山外里",
+                "is_area": true,
+                "keywords": "2014,金門縣,金湖鎮,山外里",
+                "AreasElection": {
+                    "id": "53c020ed-1878-4479-82e9-5c5aacb5b862",
+                    "Election_id": "53c020ed-8e90-4177-87b5-5c5aacb5b862",
+                    "Area_id": "53c01bd4-eda4-4a07-ae4a-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020e8-2910-4576-94cc-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "金門縣",
+                "lft": "2841",
+                "rght": "2928",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ec-3d80-4ce6-80ff-5c5aacb5b862",
+                "parent_id": "53c020e8-2910-4576-94cc-5c5aacb5b862",
+                "name": "金湖鎮",
+                "lft": "2878",
+                "rght": "2895",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ed-8e90-4177-87b5-5c5aacb5b862",
+                "parent_id": "53c020ec-3d80-4ce6-80ff-5c5aacb5b862",
+                "name": "山外里",
+                "lft": "2887",
+                "rght": "2888",
+                "population": "3747",
+                "population_electors": "3068",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2014-11,村里長,金門縣,金湖鎮,山外里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

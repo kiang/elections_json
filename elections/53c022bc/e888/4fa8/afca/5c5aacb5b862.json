@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c022bc-e888-4fa8-afca-5c5aacb5b862",
+            "parent_id": "53c022bb-e9fc-4e07-b20c-5c5aacb5b862",
+            "name": "里壠里",
+            "lft": "8885",
+            "rght": "8886",
+            "population": "2140",
+            "population_electors": "1703",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546f277f-bbb0-44e0-9e95-2f28cf91e152",
+            "keywords": "2014-11,村里長,臺東縣,關山鎮,里壠里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02862-0090-419b-a2e0-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "潘顯堂",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c022bc-e888-4fa8-afca-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d9c-6488-4592-8258-5460acb5b862",
+                "name": "里壠里",
+                "is_area": true,
+                "keywords": "2014,臺東縣,關山鎮,里壠里",
+                "AreasElection": {
+                    "id": "53c022bc-0c78-443e-b894-5c5aacb5b862",
+                    "Election_id": "53c022bc-e888-4fa8-afca-5c5aacb5b862",
+                    "Area_id": "53c01d9c-6488-4592-8258-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022b2-b9f0-4517-825f-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺東縣",
+                "lft": "8767",
+                "rght": "9094",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022bb-e9fc-4e07-b20c-5c5aacb5b862",
+                "parent_id": "53c022b2-b9f0-4517-825f-5c5aacb5b862",
+                "name": "關山鎮",
+                "lft": "8880",
+                "rght": "8895",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022bc-e888-4fa8-afca-5c5aacb5b862",
+                "parent_id": "53c022bb-e9fc-4e07-b20c-5c5aacb5b862",
+                "name": "里壠里",
+                "lft": "8885",
+                "rght": "8886",
+                "population": "2140",
+                "population_electors": "1703",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546f277f-bbb0-44e0-9e95-2f28cf91e152",
+                "keywords": "2014-11,村里長,臺東縣,關山鎮,里壠里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

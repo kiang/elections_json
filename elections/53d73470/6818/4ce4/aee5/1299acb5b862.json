@@ -1,0 +1,145 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d73470-6818-4ce4-aee5-1299acb5b862",
+            "parent_id": "53c020d7-33cc-410d-ac58-5c5aacb5b862",
+            "name": "第03選舉區[區域]",
+            "lft": "2413",
+            "rght": "2414",
+            "population": "2854",
+            "population_electors": "2434",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5475673a-f190-4609-8363-0f78cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,屏東縣,車城鄉,第03選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b57a8-d0d0-44fd-bea8-1926acb5b862",
+                "image": "54cb71ed\/a380\/4bf8\/9969\/436a6ab936af.jpg",
+                "stage": "1",
+                "name": "賴傳興",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53d73470-6818-4ce4-aee5-1299acb5b862"
+            },
+            {
+                "id": "540b57a8-edf0-43b3-ab38-1926acb5b862",
+                "image": "54cb71cb\/84a4\/4ef8\/86f0\/436a6ab936af.jpg",
+                "stage": "2",
+                "name": "陳政雄",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d73470-6818-4ce4-aee5-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d89-2bec-4045-aa38-5460acb5b862",
+                "name": "保力村",
+                "is_area": true,
+                "keywords": "2014,屏東縣,車城鄉,保力村",
+                "AreasElection": {
+                    "id": "53d73c6e-be10-4b1d-8e2d-16c7acb5b862",
+                    "Election_id": "53d73470-6818-4ce4-aee5-1299acb5b862",
+                    "Area_id": "53c01d89-2bec-4045-aa38-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d89-2bec-4045-aa38-5460acb5b862",
+                "name": "保力村",
+                "is_area": true,
+                "keywords": "2014,屏東縣,車城鄉,保力村",
+                "AreasElection": {
+                    "id": "53d73c79-0130-4606-8012-16ceacb5b862",
+                    "Election_id": "53d73470-6818-4ce4-aee5-1299acb5b862",
+                    "Area_id": "53c01d89-2bec-4045-aa38-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ce-0798-4ae9-af49-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "2197",
+                "rght": "2484",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020d7-33cc-410d-ac58-5c5aacb5b862",
+                "parent_id": "53c020ce-0798-4ae9-af49-5c5aacb5b862",
+                "name": "車城鄉",
+                "lft": "2408",
+                "rght": "2417",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d73470-6818-4ce4-aee5-1299acb5b862",
+                "parent_id": "53c020d7-33cc-410d-ac58-5c5aacb5b862",
+                "name": "第03選舉區[區域]",
+                "lft": "2413",
+                "rght": "2414",
+                "population": "2854",
+                "population_electors": "2434",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5475673a-f190-4609-8363-0f78cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,屏東縣,車城鄉,第03選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

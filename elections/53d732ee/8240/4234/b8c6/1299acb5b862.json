@@ -1,0 +1,156 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d732ee-8240-4234-b8c6-1299acb5b862",
+            "parent_id": "53c020b8-c6f4-4891-a0f7-5c5aacb5b862",
+            "name": "第04選舉區[區域]",
+            "lft": "1391",
+            "rght": "1392",
+            "population": "3238",
+            "population_electors": "2569",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-3ec8-454b-b62f-4187cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,苗栗縣,卓蘭鎮,第04選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b56f9-7094-47b0-b112-1926acb5b862",
+                "image": "54b7d199\/046c\/498b\/a194\/3c276ab936af.jpg",
+                "stage": "2",
+                "name": "馮秋章",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53d732ee-8240-4234-b8c6-1299acb5b862"
+            },
+            {
+                "id": "540b56f9-7560-4970-8114-1926acb5b862",
+                "image": "54b7d179\/eac0\/4b20\/838e\/3c586ab936af.jpg",
+                "stage": "1",
+                "name": "徐善森",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "HSU SHANSEN",
+                "election_id": "53d732ee-8240-4234-b8c6-1299acb5b862"
+            },
+            {
+                "id": "540b56f9-c484-4124-8fae-1926acb5b862",
+                "image": "54b7d1b9\/1b48\/4056\/ae38\/3c576ab936af.jpg",
+                "stage": "2",
+                "name": "李家龍",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53d732ee-8240-4234-b8c6-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c68-3cf8-4b21-b3da-5460acb5b862",
+                "name": "坪林里",
+                "is_area": true,
+                "keywords": "2014,苗栗縣,卓蘭鎮,坪林里",
+                "AreasElection": {
+                    "id": "53d732ee-08fc-4235-8458-1299acb5b862",
+                    "Election_id": "53d732ee-8240-4234-b8c6-1299acb5b862",
+                    "Area_id": "53c01c68-3cf8-4b21-b3da-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c68-6d60-4dff-aa59-5460acb5b862",
+                "name": "景山里",
+                "is_area": true,
+                "keywords": "2014,苗栗縣,卓蘭鎮,景山里",
+                "AreasElection": {
+                    "id": "53d732ee-9b14-4e08-b7d2-1299acb5b862",
+                    "Election_id": "53d732ee-8240-4234-b8c6-1299acb5b862",
+                    "Area_id": "53c01c68-6d60-4dff-aa59-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b7-c5b4-41c9-bda3-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "苗栗縣",
+                "lft": "1323",
+                "rght": "1496",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b8-c6f4-4891-a0f7-5c5aacb5b862",
+                "parent_id": "53c020b7-c5b4-41c9-bda3-5c5aacb5b862",
+                "name": "卓蘭鎮",
+                "lft": "1384",
+                "rght": "1393",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d732ee-8240-4234-b8c6-1299acb5b862",
+                "parent_id": "53c020b8-c6f4-4891-a0f7-5c5aacb5b862",
+                "name": "第04選舉區[區域]",
+                "lft": "1391",
+                "rght": "1392",
+                "population": "3238",
+                "population_electors": "2569",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-3ec8-454b-b62f-4187cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,苗栗縣,卓蘭鎮,第04選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

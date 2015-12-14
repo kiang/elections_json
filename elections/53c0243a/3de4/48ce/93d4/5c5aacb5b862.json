@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0243a-3de4-48ce-93d4-5c5aacb5b862",
+            "parent_id": "53c02438-6ab4-4c5b-b04a-5c5aacb5b862",
+            "name": "仁和里",
+            "lft": "13663",
+            "rght": "13664",
+            "population": "4347",
+            "population_electors": "3356",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb721-2ed4-4380-8f21-2adbcf91e152",
+            "keywords": "2014-11,村里長,高雄市,仁武區,仁和里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02684-30f8-4e6a-9850-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "秦秀蘭",
+                "party": "無",
+                "gender": "f",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c0243a-3de4-48ce-93d4-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01e9d-2c6c-4b92-ada7-5460acb5b862",
+                "name": "仁和里",
+                "is_area": true,
+                "keywords": "2014,高雄市,仁武區,仁和里",
+                "AreasElection": {
+                    "id": "53c0243a-111c-47bb-b968-5c5aacb5b862",
+                    "Election_id": "53c0243a-3de4-48ce-93d4-5c5aacb5b862",
+                    "Area_id": "53c01e9d-2c6c-4b92-ada7-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02438-6ab4-4c5b-b04a-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "仁武區",
+                "lft": "13642",
+                "rght": "13675",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0243a-3de4-48ce-93d4-5c5aacb5b862",
+                "parent_id": "53c02438-6ab4-4c5b-b04a-5c5aacb5b862",
+                "name": "仁和里",
+                "lft": "13663",
+                "rght": "13664",
+                "population": "4347",
+                "population_electors": "3356",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb721-2ed4-4380-8f21-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,仁武區,仁和里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

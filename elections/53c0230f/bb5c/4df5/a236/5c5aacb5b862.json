@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0230f-bb5c-4df5-a236-5c5aacb5b862",
+            "parent_id": "53c0230d-4e50-4e50-b9ba-5c5aacb5b862",
+            "name": "永康里",
+            "lft": "9933",
+            "rght": "9934",
+            "population": "2285",
+            "population_electors": "1904",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c8095-d6cc-4aa0-bca3-61a3cf91e152",
+            "keywords": "2014-11,村里長,基隆市,安樂區,永康里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0288a-6284-4cc9-a80c-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "余素雲",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "1",
+                "name_english": "Yu Su Yun",
+                "election_id": "53c0230f-bb5c-4df5-a236-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01de0-47cc-41a7-90a0-5460acb5b862",
+                "name": "永康里",
+                "is_area": true,
+                "keywords": "2014,基隆市,安樂區,永康里",
+                "AreasElection": {
+                    "id": "53c0230f-94b0-43f5-84fe-5c5aacb5b862",
+                    "Election_id": "53c0230f-bb5c-4df5-a236-5c5aacb5b862",
+                    "Area_id": "53c01de0-47cc-41a7-90a0-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "基隆市",
+                "lft": "9683",
+                "rght": "10012",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0230d-4e50-4e50-b9ba-5c5aacb5b862",
+                "parent_id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "name": "安樂區",
+                "lft": "9918",
+                "rght": "9969",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0230f-bb5c-4df5-a236-5c5aacb5b862",
+                "parent_id": "53c0230d-4e50-4e50-b9ba-5c5aacb5b862",
+                "name": "永康里",
+                "lft": "9933",
+                "rght": "9934",
+                "population": "2285",
+                "population_electors": "1904",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c8095-d6cc-4aa0-bca3-61a3cf91e152",
+                "keywords": "2014-11,村里長,基隆市,安樂區,永康里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

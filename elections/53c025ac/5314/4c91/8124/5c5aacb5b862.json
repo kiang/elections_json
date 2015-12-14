@@ -1,0 +1,178 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c025ac-5314-4c91-8124-5c5aacb5b862",
+            "parent_id": "53c025ab-06ec-48c0-a267-5c5aacb5b862",
+            "name": "頂安里",
+            "lft": "17899",
+            "rght": "17900",
+            "population": "1447",
+            "population_electors": "1224",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "keywords": "2014-11,村里長,臺南市,後壁區,頂安里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02722-af70-457a-bf1d-5dffacb5b862",
+                "image": null,
+                "stage": "0",
+                "name": "李紹顧",
+                "party": null,
+                "gender": null,
+                "no": "0",
+                "name_english": "",
+                "election_id": "53c025ac-5314-4c91-8124-5c5aacb5b862"
+            },
+            {
+                "id": "540b5407-62cc-4b64-a3b2-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "林萬來",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53c025ac-5314-4c91-8124-5c5aacb5b862"
+            },
+            {
+                "id": "540b5408-081c-4548-87ae-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "林丁和",
+                "party": "無",
+                "gender": "m",
+                "no": "5",
+                "name_english": "",
+                "election_id": "53c025ac-5314-4c91-8124-5c5aacb5b862"
+            },
+            {
+                "id": "540b5408-61fc-4036-b6f7-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "林建廷",
+                "party": "無",
+                "gender": "m",
+                "no": "4",
+                "name_english": "",
+                "election_id": "53c025ac-5314-4c91-8124-5c5aacb5b862"
+            },
+            {
+                "id": "540b5408-6b7c-40a6-a9fc-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "周玉女",
+                "party": "無",
+                "gender": "f",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c025ac-5314-4c91-8124-5c5aacb5b862"
+            },
+            {
+                "id": "540b5408-c60c-4421-b46a-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "林裕麟",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c025ac-5314-4c91-8124-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01fcf-38b8-4579-8d40-5460acb5b862",
+                "name": "頂安里",
+                "is_area": true,
+                "keywords": "2014,臺南市,後壁區,頂安里",
+                "AreasElection": {
+                    "id": "53c025ad-1408-40a5-ad57-5c5aacb5b862",
+                    "Election_id": "53c025ac-5314-4c91-8124-5c5aacb5b862",
+                    "Area_id": "53c01fcf-38b8-4579-8d40-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02598-fc40-4dee-aec0-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺南市",
+                "lft": "17695",
+                "rght": "19274",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c025ab-06ec-48c0-a267-5c5aacb5b862",
+                "parent_id": "53c02598-fc40-4dee-aec0-5c5aacb5b862",
+                "name": "後壁區",
+                "lft": "17886",
+                "rght": "17929",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c025ac-5314-4c91-8124-5c5aacb5b862",
+                "parent_id": "53c025ab-06ec-48c0-a267-5c5aacb5b862",
+                "name": "頂安里",
+                "lft": "17899",
+                "rght": "17900",
+                "population": "1447",
+                "population_electors": "1224",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2014-11,村里長,臺南市,後壁區,頂安里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

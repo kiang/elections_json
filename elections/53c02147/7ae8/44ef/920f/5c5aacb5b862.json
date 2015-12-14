@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02147-7ae8-44ef-920f-5c5aacb5b862",
+            "parent_id": "53c02146-7fd4-4795-8239-5c5aacb5b862",
+            "name": "信義里",
+            "lft": "4051",
+            "rght": "4052",
+            "population": "1097",
+            "population_electors": "900",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-80e8-42ea-898c-4187cf91e152",
+            "keywords": "2014-11,村里長,苗栗縣,頭份鎮,信義里"
+        },
+        "Candidate": [
+            {
+                "id": "53c027a6-0858-4b6f-998e-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "張愛炫",
+                "party": "無",
+                "gender": "f",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02147-7ae8-44ef-920f-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c61-3944-4cb2-838e-5460acb5b862",
+                "name": "信義里",
+                "is_area": true,
+                "keywords": "2014,苗栗縣,頭份鎮,信義里",
+                "AreasElection": {
+                    "id": "53c02147-28c0-46a5-bdd0-5c5aacb5b862",
+                    "Election_id": "53c02147-7ae8-44ef-920f-5c5aacb5b862",
+                    "Area_id": "53c01c61-3944-4cb2-838e-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02135-5cc8-4f9d-a971-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "苗栗縣",
+                "lft": "3831",
+                "rght": "4416",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02146-7fd4-4795-8239-5c5aacb5b862",
+                "parent_id": "53c02135-5cc8-4f9d-a971-5c5aacb5b862",
+                "name": "頭份鎮",
+                "lft": "4044",
+                "rght": "4109",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02147-7ae8-44ef-920f-5c5aacb5b862",
+                "parent_id": "53c02146-7fd4-4795-8239-5c5aacb5b862",
+                "name": "信義里",
+                "lft": "4051",
+                "rght": "4052",
+                "population": "1097",
+                "population_electors": "900",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-80e8-42ea-898c-4187cf91e152",
+                "keywords": "2014-11,村里長,苗栗縣,頭份鎮,信義里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

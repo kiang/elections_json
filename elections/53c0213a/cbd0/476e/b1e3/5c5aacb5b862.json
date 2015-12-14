@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0213a-cbd0-476e-b1e3-5c5aacb5b862",
+            "parent_id": "53c02135-dc78-486c-bbc7-5c5aacb5b862",
+            "name": "南勢里",
+            "lft": "3887",
+            "rght": "3888",
+            "population": "2420",
+            "population_electors": "1929",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-0948-43e5-b41c-4187cf91e152",
+            "keywords": "2014-11,村里長,苗栗縣,苗栗市,南勢里"
+        },
+        "Candidate": [
+            {
+                "id": "53c027a0-7034-4545-b403-5dffacb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "葉永正",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c0213a-cbd0-476e-b1e3-5c5aacb5b862"
+            },
+            {
+                "id": "540b54d3-dfac-4af9-b3c6-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "葉天彰",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "Yeh Tien Chang",
+                "election_id": "53c0213a-cbd0-476e-b1e3-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c57-d84c-49be-9532-5460acb5b862",
+                "name": "南勢里",
+                "is_area": true,
+                "keywords": "2014,苗栗縣,苗栗市,南勢里",
+                "AreasElection": {
+                    "id": "53c0213a-14e0-4e54-bbef-5c5aacb5b862",
+                    "Election_id": "53c0213a-cbd0-476e-b1e3-5c5aacb5b862",
+                    "Area_id": "53c01c57-d84c-49be-9532-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02135-5cc8-4f9d-a971-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "苗栗縣",
+                "lft": "3831",
+                "rght": "4416",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02135-dc78-486c-bbc7-5c5aacb5b862",
+                "parent_id": "53c02135-5cc8-4f9d-a971-5c5aacb5b862",
+                "name": "苗栗市",
+                "lft": "3832",
+                "rght": "3889",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0213a-cbd0-476e-b1e3-5c5aacb5b862",
+                "parent_id": "53c02135-dc78-486c-bbc7-5c5aacb5b862",
+                "name": "南勢里",
+                "lft": "3887",
+                "rght": "3888",
+                "population": "2420",
+                "population_electors": "1929",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-0948-43e5-b41c-4187cf91e152",
+                "keywords": "2014-11,村里長,苗栗縣,苗栗市,南勢里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

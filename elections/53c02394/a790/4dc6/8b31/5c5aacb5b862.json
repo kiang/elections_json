@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02394-a790-4dc6-8b31-5c5aacb5b862",
+            "parent_id": "53c02390-47d0-4ee3-8b34-5c5aacb5b862",
+            "name": "大仁里",
+            "lft": "11593",
+            "rght": "11594",
+            "population": "4225",
+            "population_electors": "3588",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-1170-45a4-985b-4187cf91e152",
+            "keywords": "2014-11,村里長,臺北市,信義區,大仁里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02634-1e50-4397-8ec2-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "蔡桂清",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "TSAI KUEI CHIN",
+                "election_id": "53c02394-a790-4dc6-8b31-5c5aacb5b862"
+            },
+            {
+                "id": "540b52e5-2998-405d-8d00-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "何福來",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c02394-a790-4dc6-8b31-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01e0f-ff4c-4aab-8e17-5460acb5b862",
+                "name": "大仁里",
+                "is_area": true,
+                "keywords": "2014,臺北市,信義區,大仁里",
+                "AreasElection": {
+                    "id": "53c02395-bbbc-4052-8635-5c5aacb5b862",
+                    "Election_id": "53c02394-a790-4dc6-8b31-5c5aacb5b862",
+                    "Area_id": "53c01e0f-ff4c-4aab-8e17-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02390-47d0-4ee3-8b34-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "信義區",
+                "lft": "11526",
+                "rght": "11609",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02394-a790-4dc6-8b31-5c5aacb5b862",
+                "parent_id": "53c02390-47d0-4ee3-8b34-5c5aacb5b862",
+                "name": "大仁里",
+                "lft": "11593",
+                "rght": "11594",
+                "population": "4225",
+                "population_electors": "3588",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-1170-45a4-985b-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,信義區,大仁里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

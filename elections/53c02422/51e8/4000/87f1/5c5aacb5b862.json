@@ -1,0 +1,167 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02422-51e8-4000-87f1-5c5aacb5b862",
+            "parent_id": "53c02420-e624-4780-8ebc-5c5aacb5b862",
+            "name": "中正里",
+            "lft": "13359",
+            "rght": "13360",
+            "population": "4423",
+            "population_electors": "3715",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb721-4e64-46cf-9fda-2adbcf91e152",
+            "keywords": "2014-11,村里長,高雄市,鳳山區,中正里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02677-930c-4756-8f60-5dffacb5b862",
+                "image": null,
+                "stage": "0",
+                "name": "申春輝",
+                "party": null,
+                "gender": null,
+                "no": "0",
+                "name_english": "",
+                "election_id": "53c02422-51e8-4000-87f1-5c5aacb5b862"
+            },
+            {
+                "id": "540b5480-6990-4a2e-ad75-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "張霖霖",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53c02422-51e8-4000-87f1-5c5aacb5b862"
+            },
+            {
+                "id": "540b5481-2670-4628-b328-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "吳致遠",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c02422-51e8-4000-87f1-5c5aacb5b862"
+            },
+            {
+                "id": "540b5481-294c-4f58-aec6-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "鄒家駿",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02422-51e8-4000-87f1-5c5aacb5b862"
+            },
+            {
+                "id": "540b5481-db70-447b-a84c-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "王懷忠",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "4",
+                "name_english": "",
+                "election_id": "53c02422-51e8-4000-87f1-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01e89-fc44-4fa5-bcdf-5460acb5b862",
+                "name": "中正里",
+                "is_area": true,
+                "keywords": "2014,高雄市,鳳山區,中正里",
+                "AreasElection": {
+                    "id": "53c02422-0170-4e7d-9db4-5c5aacb5b862",
+                    "Election_id": "53c02422-51e8-4000-87f1-5c5aacb5b862",
+                    "Area_id": "53c01e89-fc44-4fa5-bcdf-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02420-e624-4780-8ebc-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "鳳山區",
+                "lft": "13324",
+                "rght": "13481",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02422-51e8-4000-87f1-5c5aacb5b862",
+                "parent_id": "53c02420-e624-4780-8ebc-5c5aacb5b862",
+                "name": "中正里",
+                "lft": "13359",
+                "rght": "13360",
+                "population": "4423",
+                "population_electors": "3715",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb721-4e64-46cf-9fda-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,鳳山區,中正里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

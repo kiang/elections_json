@@ -1,0 +1,178 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d732a7-9e90-4f69-90da-1299acb5b862",
+            "parent_id": "53c020b3-e008-439b-a611-5c5aacb5b862",
+            "name": "第04選舉區[區域]",
+            "lft": "1187",
+            "rght": "1188",
+            "population": "2104",
+            "population_electors": "1508",
+            "quota": "3",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-448c-481f-a81b-2adbcf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,宜蘭縣,大同鄉,第04選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b57c7-280c-461a-99cb-1926acb5b862",
+                "image": "54b2192c\/dca0\/460f\/bce3\/0ae86ab936af.jpg",
+                "stage": "1",
+                "name": "呂萬福",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d732a7-9e90-4f69-90da-1299acb5b862"
+            },
+            {
+                "id": "540b57c7-56a4-4e15-b743-1926acb5b862",
+                "image": "54b2196f\/6620\/44ed\/8622\/0afe6ab936af.jpg",
+                "stage": "2",
+                "name": "高萬年",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53d732a7-9e90-4f69-90da-1299acb5b862"
+            },
+            {
+                "id": "540b57c7-7928-448d-a853-1926acb5b862",
+                "image": "54b21950\/b138\/41c1\/8f78\/0aeb6ab936af.jpg",
+                "stage": "2",
+                "name": "潘文雄",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53d732a7-9e90-4f69-90da-1299acb5b862"
+            },
+            {
+                "id": "540b57c7-9c74-4d79-bb1e-1926acb5b862",
+                "image": "54b21989\/4380\/437d\/8ac3\/0aeb6ab936af.jpg",
+                "stage": "2",
+                "name": "何勝立",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "4",
+                "name_english": "",
+                "election_id": "53d732a7-9e90-4f69-90da-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01bf5-e308-4d67-b024-5460acb5b862",
+                "name": "南山村",
+                "is_area": true,
+                "keywords": "2014,宜蘭縣,大同鄉,南山村",
+                "AreasElection": {
+                    "id": "53d732a8-9134-41dd-94a4-1299acb5b862",
+                    "Election_id": "53d732a7-9e90-4f69-90da-1299acb5b862",
+                    "Area_id": "53c01bf5-e308-4d67-b024-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01bf5-eb60-4c6b-9694-5460acb5b862",
+                "name": "四季村",
+                "is_area": true,
+                "keywords": "2014,宜蘭縣,大同鄉,四季村",
+                "AreasElection": {
+                    "id": "53d732a8-7064-45ac-ab3a-1299acb5b862",
+                    "Election_id": "53d732a7-9e90-4f69-90da-1299acb5b862",
+                    "Area_id": "53c01bf5-eb60-4c6b-9694-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01bf6-49e4-4213-a7f8-5460acb5b862",
+                "name": "茂安村",
+                "is_area": true,
+                "keywords": "2014,宜蘭縣,大同鄉,茂安村",
+                "AreasElection": {
+                    "id": "53d732a8-e874-4aec-a63e-1299acb5b862",
+                    "Election_id": "53d732a7-9e90-4f69-90da-1299acb5b862",
+                    "Area_id": "53c01bf6-49e4-4213-a7f8-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b1-2260-44dc-a0bc-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "宜蘭縣",
+                "lft": "1077",
+                "rght": "1200",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b3-e008-439b-a611-5c5aacb5b862",
+                "parent_id": "53c020b1-2260-44dc-a0bc-5c5aacb5b862",
+                "name": "大同鄉",
+                "lft": "1180",
+                "rght": "1189",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d732a7-9e90-4f69-90da-1299acb5b862",
+                "parent_id": "53c020b3-e008-439b-a611-5c5aacb5b862",
+                "name": "第04選舉區[區域]",
+                "lft": "1187",
+                "rght": "1188",
+                "population": "2104",
+                "population_electors": "1508",
+                "quota": "3",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-448c-481f-a81b-2adbcf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,宜蘭縣,大同鄉,第04選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02411-e914-4929-bc62-5c5aacb5b862",
+            "parent_id": "53c0240c-9e90-4444-95a6-5c5aacb5b862",
+            "name": "信德里",
+            "lft": "13129",
+            "rght": "13130",
+            "population": "2765",
+            "population_electors": "2267",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb720-5100-410f-8862-2adbcf91e152",
+            "keywords": "2014-11,村里長,高雄市,前鎮區,信德里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0266e-7980-4b96-9d97-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "洪文彬",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c02411-e914-4929-bc62-5c5aacb5b862"
+            },
+            {
+                "id": "540b5474-4064-4cfc-b604-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "張春田",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53c02411-e914-4929-bc62-5c5aacb5b862"
+            },
+            {
+                "id": "540b5474-e94c-4346-a39e-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "李竣帆",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "LEE CHUN FAN",
+                "election_id": "53c02411-e914-4929-bc62-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01e7b-9b3c-4fb7-8793-5460acb5b862",
+                "name": "信德里",
+                "is_area": true,
+                "keywords": "2014,高雄市,前鎮區,信德里",
+                "AreasElection": {
+                    "id": "53c02411-72f8-44d0-8279-5c5aacb5b862",
+                    "Election_id": "53c02411-e914-4929-bc62-5c5aacb5b862",
+                    "Area_id": "53c01e7b-9b3c-4fb7-8793-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0240c-9e90-4444-95a6-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "前鎮區",
+                "lft": "13098",
+                "rght": "13217",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02411-e914-4929-bc62-5c5aacb5b862",
+                "parent_id": "53c0240c-9e90-4444-95a6-5c5aacb5b862",
+                "name": "信德里",
+                "lft": "13129",
+                "rght": "13130",
+                "population": "2765",
+                "population_electors": "2267",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb720-5100-410f-8862-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,前鎮區,信德里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

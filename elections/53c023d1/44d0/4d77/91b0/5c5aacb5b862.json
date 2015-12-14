@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c023d1-44d0-4d77-91b0-5c5aacb5b862",
+            "parent_id": "53c023cf-48cc-46fc-8762-5c5aacb5b862",
+            "name": "永明里",
+            "lft": "12333",
+            "rght": "12334",
+            "population": "5303",
+            "population_electors": "3971",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-80a8-4185-b909-4187cf91e152",
+            "keywords": "2014-11,村里長,臺北市,北投區,永明里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0264f-cc74-4bb3-ab4f-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "何麗玲",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c023d1-44d0-4d77-91b0-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01e42-9a24-4a6e-8dd8-5460acb5b862",
+                "name": "永明里",
+                "is_area": true,
+                "keywords": "2014,臺北市,北投區,永明里",
+                "AreasElection": {
+                    "id": "53c023d1-4fa0-43a4-b9eb-5c5aacb5b862",
+                    "Election_id": "53c023d1-44d0-4d77-91b0-5c5aacb5b862",
+                    "Area_id": "53c01e42-9a24-4a6e-8dd8-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023cf-48cc-46fc-8762-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "北投區",
+                "lft": "12308",
+                "rght": "12393",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d1-44d0-4d77-91b0-5c5aacb5b862",
+                "parent_id": "53c023cf-48cc-46fc-8762-5c5aacb5b862",
+                "name": "永明里",
+                "lft": "12333",
+                "rght": "12334",
+                "population": "5303",
+                "population_electors": "3971",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-80a8-4185-b909-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,北投區,永明里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

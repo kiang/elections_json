@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02552-b79c-484f-8ab1-5c5aacb5b862",
+            "parent_id": "53c0254a-5b94-49bd-8036-5c5aacb5b862",
+            "name": "中陽里",
+            "lft": "16891",
+            "rght": "16892",
+            "population": "7060",
+            "population_electors": "4951",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c6581-eb40-4459-ba03-5c39cf91e152",
+            "keywords": "2014-11,村里長,臺中市,豐原區,中陽里"
+        },
+        "Candidate": [
+            {
+                "id": "53c026f9-654c-46c3-bf48-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "黃英瑜",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02552-b79c-484f-8ab1-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01f88-c56c-4d30-8c22-5460acb5b862",
+                "name": "中陽里",
+                "is_area": true,
+                "keywords": "2014,臺中市,豐原區,中陽里",
+                "AreasElection": {
+                    "id": "53c02552-a2ec-48e4-89c2-5c5aacb5b862",
+                    "Election_id": "53c02552-b79c-484f-8ab1-5c5aacb5b862",
+                    "Area_id": "53c01f88-c56c-4d30-8c22-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0254a-5b94-49bd-8036-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "豐原區",
+                "lft": "16830",
+                "rght": "16903",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02552-b79c-484f-8ab1-5c5aacb5b862",
+                "parent_id": "53c0254a-5b94-49bd-8036-5c5aacb5b862",
+                "name": "中陽里",
+                "lft": "16891",
+                "rght": "16892",
+                "population": "7060",
+                "population_electors": "4951",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c6581-eb40-4459-ba03-5c39cf91e152",
+                "keywords": "2014-11,村里長,臺中市,豐原區,中陽里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

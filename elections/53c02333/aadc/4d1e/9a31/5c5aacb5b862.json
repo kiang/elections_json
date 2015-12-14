@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02333-aadc-4d1e-9a31-5c5aacb5b862",
+            "parent_id": "53c02331-37e4-49a2-a7ea-5c5aacb5b862",
+            "name": "西平里",
+            "lft": "10377",
+            "rght": "10378",
+            "population": "3603",
+            "population_electors": "2735",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546b0806-0e18-4cf1-9f12-2ff0cf91e152",
+            "keywords": "2014-11,村里長,嘉義市,西區,西平里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0289a-4c58-48bb-af26-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "張啟泰",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02333-aadc-4d1e-9a31-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01e00-e6fc-4cf0-91e8-5460acb5b862",
+                "name": "西平里",
+                "is_area": true,
+                "keywords": "2014,嘉義市,西區,西平里",
+                "AreasElection": {
+                    "id": "53c02333-e16c-4487-baaa-5c5aacb5b862",
+                    "Election_id": "53c02333-aadc-4d1e-9a31-5c5aacb5b862",
+                    "Area_id": "53c01e00-e6fc-4cf0-91e8-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0232b-91c8-456a-8388-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "嘉義市",
+                "lft": "10265",
+                "rght": "10438",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02331-37e4-49a2-a7ea-5c5aacb5b862",
+                "parent_id": "53c0232b-91c8-456a-8388-5c5aacb5b862",
+                "name": "西區",
+                "lft": "10346",
+                "rght": "10437",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02333-aadc-4d1e-9a31-5c5aacb5b862",
+                "parent_id": "53c02331-37e4-49a2-a7ea-5c5aacb5b862",
+                "name": "西平里",
+                "lft": "10377",
+                "rght": "10378",
+                "population": "3603",
+                "population_electors": "2735",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546b0806-0e18-4cf1-9f12-2ff0cf91e152",
+                "keywords": "2014-11,村里長,嘉義市,西區,西平里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

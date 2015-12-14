@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c022e1-48d4-4895-96a7-5c5aacb5b862",
+            "parent_id": "53c022e0-b9a0-4b58-90c7-5c5aacb5b862",
+            "name": "新社村",
+            "lft": "9367",
+            "rght": "9368",
+            "population": "688",
+            "population_electors": "606",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546d8dba-d8cc-46a7-a4c3-0e51cf91e152",
+            "keywords": "2014-11,村里長,花蓮縣,豐濱鄉,新社村"
+        },
+        "Candidate": [
+            {
+                "id": "53c02874-1ecc-4225-8a3e-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "李文盛",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c022e1-48d4-4895-96a7-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01dbb-66e4-4e62-8f64-5460acb5b862",
+                "name": "新社村",
+                "is_area": true,
+                "keywords": "2014,花蓮縣,豐濱鄉,新社村",
+                "AreasElection": {
+                    "id": "53c022e1-d128-4287-8613-5c5aacb5b862",
+                    "Election_id": "53c022e1-48d4-4895-96a7-5c5aacb5b862",
+                    "Area_id": "53c01dbb-66e4-4e62-8f64-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022cb-ff18-4c61-98a3-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "花蓮縣",
+                "lft": "9095",
+                "rght": "9476",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022e0-b9a0-4b58-90c7-5c5aacb5b862",
+                "parent_id": "53c022cb-ff18-4c61-98a3-5c5aacb5b862",
+                "name": "豐濱鄉",
+                "lft": "9364",
+                "rght": "9375",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022e1-48d4-4895-96a7-5c5aacb5b862",
+                "parent_id": "53c022e0-b9a0-4b58-90c7-5c5aacb5b862",
+                "name": "新社村",
+                "lft": "9367",
+                "rght": "9368",
+                "population": "688",
+                "population_electors": "606",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546d8dba-d8cc-46a7-a4c3-0e51cf91e152",
+                "keywords": "2014-11,村里長,花蓮縣,豐濱鄉,新社村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

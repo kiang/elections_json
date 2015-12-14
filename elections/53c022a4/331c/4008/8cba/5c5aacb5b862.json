@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c022a4-331c-4008-8cba-5c5aacb5b862",
+            "parent_id": "53c022a3-3394-4568-85c0-5c5aacb5b862",
+            "name": "杉福村",
+            "lft": "8583",
+            "rght": "8584",
+            "population": "938",
+            "population_electors": "787",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54773ba1-40a8-44c0-b457-1915cf91e152",
+            "keywords": "2014-11,村里長,屏東縣,琉球鄉,杉福村"
+        },
+        "Candidate": [
+            {
+                "id": "53c0285a-4230-4b02-b4c2-5dffacb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "洪美月",
+                "party": "無",
+                "gender": "f",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c022a4-331c-4008-8cba-5c5aacb5b862"
+            },
+            {
+                "id": "540b55e0-da08-4c81-96cf-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "陳許桂雲",
+                "party": "無",
+                "gender": "f",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c022a4-331c-4008-8cba-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d88-810c-46d8-a44e-5460acb5b862",
+                "name": "杉福村",
+                "is_area": true,
+                "keywords": "2014,屏東縣,琉球鄉,杉福村",
+                "AreasElection": {
+                    "id": "53c022a4-61fc-43be-ae6c-5c5aacb5b862",
+                    "Election_id": "53c022a4-331c-4008-8cba-5c5aacb5b862",
+                    "Area_id": "53c01d88-810c-46d8-a44e-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "7771",
+                "rght": "8766",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022a3-3394-4568-85c0-5c5aacb5b862",
+                "parent_id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "name": "琉球鄉",
+                "lft": "8570",
+                "rght": "8587",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022a4-331c-4008-8cba-5c5aacb5b862",
+                "parent_id": "53c022a3-3394-4568-85c0-5c5aacb5b862",
+                "name": "杉福村",
+                "lft": "8583",
+                "rght": "8584",
+                "population": "938",
+                "population_electors": "787",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54773ba1-40a8-44c0-b457-1915cf91e152",
+                "keywords": "2014-11,村里長,屏東縣,琉球鄉,杉福村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

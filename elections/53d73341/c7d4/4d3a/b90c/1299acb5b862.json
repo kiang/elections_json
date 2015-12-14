@@ -1,0 +1,189 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d73341-c7d4-4d3a-b90c-1299acb5b862",
+            "parent_id": "53c020be-1218-4eae-8fad-5c5aacb5b862",
+            "name": "第01選舉區[區域]",
+            "lft": "1651",
+            "rght": "1652",
+            "population": "4158",
+            "population_electors": "3527",
+            "quota": "3",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-1eb8-4ed2-9129-74a5cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,彰化縣,二水鄉,第01選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b5724-44a4-4dde-9892-1926acb5b862",
+                "image": "5469f77b\/6fe4\/402f\/9cef\/2f0d8e043389.jpg",
+                "stage": "1",
+                "name": "陳育樺",
+                "party": "無",
+                "gender": "f",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53d73341-c7d4-4d3a-b90c-1299acb5b862"
+            },
+            {
+                "id": "540b5724-73f4-429e-aab4-1926acb5b862",
+                "image": "542195eb\/6a70\/4ac5\/964e\/6497cb455a61.jpg",
+                "stage": "2",
+                "name": "謝己清",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "HSIEH CHI CHING",
+                "election_id": "53d73341-c7d4-4d3a-b90c-1299acb5b862"
+            },
+            {
+                "id": "540b5724-cd18-40a2-8c6e-1926acb5b862",
+                "image": "542190f5\/92a4\/48d6\/a092\/623ecb455a61.jpg",
+                "stage": "2",
+                "name": "藍世雄",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d73341-c7d4-4d3a-b90c-1299acb5b862"
+            },
+            {
+                "id": "540b5725-d120-414a-a213-1926acb5b862",
+                "image": "54219528\/d300\/4443\/811a\/6497cb455a61.jpg",
+                "stage": "2",
+                "name": "董永塤",
+                "party": "無",
+                "gender": "m",
+                "no": "4",
+                "name_english": "",
+                "election_id": "53d73341-c7d4-4d3a-b90c-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01cb2-01b0-4c70-b1cb-5460acb5b862",
+                "name": "合和村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,二水鄉,合和村",
+                "AreasElection": {
+                    "id": "53d73342-8448-4d4e-96ff-1299acb5b862",
+                    "Election_id": "53d73341-c7d4-4d3a-b90c-1299acb5b862",
+                    "Area_id": "53c01cb2-01b0-4c70-b1cb-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cb2-c64c-4d60-a6a1-5460acb5b862",
+                "name": "上豊村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,二水鄉,上豊村",
+                "AreasElection": {
+                    "id": "53d73342-aab0-4519-9a94-1299acb5b862",
+                    "Election_id": "53d73341-c7d4-4d3a-b90c-1299acb5b862",
+                    "Area_id": "53c01cb2-c64c-4d60-a6a1-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cb4-b4f0-4ea4-987f-5460acb5b862",
+                "name": "十五村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,二水鄉,十五村",
+                "AreasElection": {
+                    "id": "53d73342-1470-4108-a950-1299acb5b862",
+                    "Election_id": "53d73341-c7d4-4d3a-b90c-1299acb5b862",
+                    "Area_id": "53c01cb4-b4f0-4ea4-987f-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cb4-d860-456c-bde6-5460acb5b862",
+                "name": "復興村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,二水鄉,復興村",
+                "AreasElection": {
+                    "id": "53d73342-4e20-4f4d-b812-1299acb5b862",
+                    "Election_id": "53d73341-c7d4-4d3a-b90c-1299acb5b862",
+                    "Area_id": "53c01cb4-d860-456c-bde6-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020bb-fd28-4ab5-ad62-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "1497",
+                "rght": "1738",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020be-1218-4eae-8fad-5c5aacb5b862",
+                "parent_id": "53c020bb-fd28-4ab5-ad62-5c5aacb5b862",
+                "name": "二水鄉",
+                "lft": "1650",
+                "rght": "1657",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d73341-c7d4-4d3a-b90c-1299acb5b862",
+                "parent_id": "53c020be-1218-4eae-8fad-5c5aacb5b862",
+                "name": "第01選舉區[區域]",
+                "lft": "1651",
+                "rght": "1652",
+                "population": "4158",
+                "population_electors": "3527",
+                "quota": "3",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-1eb8-4ed2-9129-74a5cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,彰化縣,二水鄉,第01選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

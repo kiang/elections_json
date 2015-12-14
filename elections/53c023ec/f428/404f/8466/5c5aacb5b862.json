@@ -1,0 +1,167 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c023ec-f428-404f-8466-5c5aacb5b862",
+            "parent_id": "53c023ec-08a0-49ca-ae2b-5c5aacb5b862",
+            "name": "本元里",
+            "lft": "12687",
+            "rght": "12688",
+            "population": "6579",
+            "population_electors": "4993",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb720-2e1c-4855-93ad-2adbcf91e152",
+            "keywords": "2014-11,村里長,高雄市,三民區,本元里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0265d-a6ec-499b-825d-5dffacb5b862",
+                "image": null,
+                "stage": "0",
+                "name": "陳瓊璋",
+                "party": null,
+                "gender": null,
+                "no": "0",
+                "name_english": "",
+                "election_id": "53c023ec-f428-404f-8466-5c5aacb5b862"
+            },
+            {
+                "id": "540b545e-1b90-4dab-99d5-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "陳慶宏",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "CHEN CHING HUNG",
+                "election_id": "53c023ec-f428-404f-8466-5c5aacb5b862"
+            },
+            {
+                "id": "540b545e-d530-4f28-b512-1926acb5b862",
+                "image": "540c76f2\/97f0\/46f0\/a91d\/582fcb455a61.jpg",
+                "stage": "1",
+                "name": "謝家豪",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "hsieh chia hao",
+                "election_id": "53c023ec-f428-404f-8466-5c5aacb5b862"
+            },
+            {
+                "id": "540b545e-fde0-4655-9d5c-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "劉昭和",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53c023ec-f428-404f-8466-5c5aacb5b862"
+            },
+            {
+                "id": "540b545e-fef8-44b2-8ed7-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "邱水仙",
+                "party": "民主進步黨",
+                "gender": "f",
+                "no": "4",
+                "name_english": "",
+                "election_id": "53c023ec-f428-404f-8466-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01e60-08b8-4308-9a2c-5460acb5b862",
+                "name": "本元里",
+                "is_area": true,
+                "keywords": "2014,高雄市,三民區,本元里",
+                "AreasElection": {
+                    "id": "53c023ed-0278-45e9-b044-5c5aacb5b862",
+                    "Election_id": "53c023ec-f428-404f-8466-5c5aacb5b862",
+                    "Area_id": "53c01e60-08b8-4308-9a2c-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023ec-08a0-49ca-ae2b-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "三民區",
+                "lft": "12676",
+                "rght": "12849",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023ec-f428-404f-8466-5c5aacb5b862",
+                "parent_id": "53c023ec-08a0-49ca-ae2b-5c5aacb5b862",
+                "name": "本元里",
+                "lft": "12687",
+                "rght": "12688",
+                "population": "6579",
+                "population_electors": "4993",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb720-2e1c-4855-93ad-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,三民區,本元里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

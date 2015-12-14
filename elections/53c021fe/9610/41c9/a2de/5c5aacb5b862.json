@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c021fe-9610-41c9-a2de-5c5aacb5b862",
+            "parent_id": "53c021fe-0d04-4f0d-b02a-5c5aacb5b862",
+            "name": "順天里",
+            "lft": "6447",
+            "rght": "6448",
+            "population": "1179",
+            "population_electors": "932",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546ebd71-9030-4087-b6e8-2c67cf91e152",
+            "keywords": "2014-11,村里長,雲林縣,土庫鎮,順天里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02806-0f98-4c95-8b81-5dffacb5b862",
+                "image": null,
+                "stage": "0",
+                "name": "陳威德",
+                "party": null,
+                "gender": null,
+                "no": "0",
+                "name_english": "",
+                "election_id": "53c021fe-9610-41c9-a2de-5c5aacb5b862"
+            },
+            {
+                "id": "540b5561-6698-4de4-a5be-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "楊鼎雄",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c021fe-9610-41c9-a2de-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01cf6-cf78-428c-a595-5460acb5b862",
+                "name": "順天里",
+                "is_area": true,
+                "keywords": "2014,雲林縣,土庫鎮,順天里",
+                "AreasElection": {
+                    "id": "53c021fe-bc78-46fc-ba82-5c5aacb5b862",
+                    "Election_id": "53c021fe-9610-41c9-a2de-5c5aacb5b862",
+                    "Area_id": "53c01cf6-cf78-428c-a595-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "6201",
+                "rght": "7018",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021fe-0d04-4f0d-b02a-5c5aacb5b862",
+                "parent_id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "name": "土庫鎮",
+                "lft": "6442",
+                "rght": "6477",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021fe-9610-41c9-a2de-5c5aacb5b862",
+                "parent_id": "53c021fe-0d04-4f0d-b02a-5c5aacb5b862",
+                "name": "順天里",
+                "lft": "6447",
+                "rght": "6448",
+                "population": "1179",
+                "population_electors": "932",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546ebd71-9030-4087-b6e8-2c67cf91e152",
+                "keywords": "2014-11,村里長,雲林縣,土庫鎮,順天里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

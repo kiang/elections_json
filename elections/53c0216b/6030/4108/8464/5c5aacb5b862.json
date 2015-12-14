@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0216b-6030-4108-8464-5c5aacb5b862",
+            "parent_id": "53c02162-f384-4c28-9dd3-5c5aacb5b862",
+            "name": "三村里",
+            "lft": "4533",
+            "rght": "4534",
+            "population": "1357",
+            "population_electors": "1104",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-b450-4e1c-8d90-74a5cf91e152",
+            "keywords": "2014-11,村里長,彰化縣,彰化市,三村里"
+        },
+        "Candidate": [
+            {
+                "id": "53c027b8-84ec-484c-b7b4-5dffacb5b862",
+                "image": "545a13a3\/1884\/4724\/ba10\/709a8e043389.jpg",
+                "stage": "2",
+                "name": "趙文男",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c0216b-6030-4108-8464-5c5aacb5b862"
+            },
+            {
+                "id": "540b54f6-d65c-4afd-8ffe-1926acb5b862",
+                "image": "545a147d\/5334\/4619\/93d4\/72978e043389.jpg",
+                "stage": "1",
+                "name": "蘇璿文",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c0216b-6030-4108-8464-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c80-97ec-4337-bb85-5460acb5b862",
+                "name": "三村里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,三村里",
+                "AreasElection": {
+                    "id": "53c0216b-9c38-41c6-9345-5c5aacb5b862",
+                    "Election_id": "53c0216b-6030-4108-8464-5c5aacb5b862",
+                    "Area_id": "53c01c80-97ec-4337-bb85-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "4417",
+                "rght": "5648",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-f384-4c28-9dd3-5c5aacb5b862",
+                "parent_id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "name": "彰化市",
+                "lft": "4418",
+                "rght": "4565",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0216b-6030-4108-8464-5c5aacb5b862",
+                "parent_id": "53c02162-f384-4c28-9dd3-5c5aacb5b862",
+                "name": "三村里",
+                "lft": "4533",
+                "rght": "4534",
+                "population": "1357",
+                "population_electors": "1104",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-b450-4e1c-8d90-74a5cf91e152",
+                "keywords": "2014-11,村里長,彰化縣,彰化市,三村里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

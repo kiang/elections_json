@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c023e3-3cec-4ac8-acea-5c5aacb5b862",
+            "parent_id": "53c023df-4f50-4faf-8ff2-5c5aacb5b862",
+            "name": "埤西里",
+            "lft": "12571",
+            "rght": "12572",
+            "population": "1057",
+            "population_electors": "949",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb720-be64-4c9b-8ef8-2adbcf91e152",
+            "keywords": "2014-11,村里長,高雄市,左營區,埤西里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02657-daa4-4f91-99e6-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "余清榮",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c023e3-3cec-4ac8-acea-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01e58-8224-4bc1-8fdd-5460acb5b862",
+                "name": "埤西里",
+                "is_area": true,
+                "keywords": "2014,高雄市,左營區,埤西里",
+                "AreasElection": {
+                    "id": "53c023e3-b83c-4478-873f-5c5aacb5b862",
+                    "Election_id": "53c023e3-3cec-4ac8-acea-5c5aacb5b862",
+                    "Area_id": "53c01e58-8224-4bc1-8fdd-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023df-4f50-4faf-8ff2-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "左營區",
+                "lft": "12518",
+                "rght": "12599",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023e3-3cec-4ac8-acea-5c5aacb5b862",
+                "parent_id": "53c023df-4f50-4faf-8ff2-5c5aacb5b862",
+                "name": "埤西里",
+                "lft": "12571",
+                "rght": "12572",
+                "population": "1057",
+                "population_electors": "949",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb720-be64-4c9b-8ef8-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,左營區,埤西里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

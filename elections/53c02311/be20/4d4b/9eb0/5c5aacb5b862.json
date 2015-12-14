@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02311-be20-4d4b-9eb0-5c5aacb5b862",
+            "parent_id": "53c02311-b468-4eac-a0ef-5c5aacb5b862",
+            "name": "仁義里",
+            "lft": "9973",
+            "rght": "9974",
+            "population": "1421",
+            "population_electors": "1255",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546cd3af-d98c-473d-82be-78ebcf91e152",
+            "keywords": "2014-11,村里長,基隆市,信義區,仁義里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0288c-20c4-4d16-a07e-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "王柏力",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "Wang Po Li",
+                "election_id": "53c02311-be20-4d4b-9eb0-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01de2-976c-49b0-b951-5460acb5b862",
+                "name": "仁義里",
+                "is_area": true,
+                "keywords": "2014,基隆市,信義區,仁義里",
+                "AreasElection": {
+                    "id": "53c02312-0a70-4ce4-b261-5c5aacb5b862",
+                    "Election_id": "53c02311-be20-4d4b-9eb0-5c5aacb5b862",
+                    "Area_id": "53c01de2-976c-49b0-b951-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "基隆市",
+                "lft": "9683",
+                "rght": "10012",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02311-b468-4eac-a0ef-5c5aacb5b862",
+                "parent_id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "name": "信義區",
+                "lft": "9970",
+                "rght": "10011",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02311-be20-4d4b-9eb0-5c5aacb5b862",
+                "parent_id": "53c02311-b468-4eac-a0ef-5c5aacb5b862",
+                "name": "仁義里",
+                "lft": "9973",
+                "rght": "9974",
+                "population": "1421",
+                "population_electors": "1255",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546cd3af-d98c-473d-82be-78ebcf91e152",
+                "keywords": "2014-11,村里長,基隆市,信義區,仁義里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

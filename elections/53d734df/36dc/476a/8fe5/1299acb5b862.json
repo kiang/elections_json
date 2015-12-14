@@ -1,0 +1,178 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d734df-36dc-476a-8fe5-1299acb5b862",
+            "parent_id": "53c020af-7fec-4ab2-8f5d-5c5aacb5b862",
+            "name": "第01選舉區[區域]",
+            "lft": "1043",
+            "rght": "1044",
+            "population": "1418",
+            "population_electors": "1225",
+            "quota": "5",
+            "quota_women": "1",
+            "bulletin_key": "54742648-1b68-4e5e-ab75-2d82cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,連江縣,莒光鄉,第01選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b57ff-11fc-4d4b-af81-1926acb5b862",
+                "image": "548c76b3\/6144\/4d03\/85c1\/52d16ab936af.jpg",
+                "stage": "2",
+                "name": "劉宜臺",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "6",
+                "name_english": "",
+                "election_id": "53d734df-36dc-476a-8fe5-1299acb5b862"
+            },
+            {
+                "id": "540b57ff-476c-4bd3-b8cf-1926acb5b862",
+                "image": "548c765f\/5c74\/42c0\/baca\/52e66ab936af.jpg",
+                "stage": "2",
+                "name": "陳樂禮",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "4",
+                "name_english": "",
+                "election_id": "53d734df-36dc-476a-8fe5-1299acb5b862"
+            },
+            {
+                "id": "540b57ff-8d44-4abf-a672-1926acb5b862",
+                "image": "548c75df\/e394\/446b\/aa82\/52c96ab936af.jpg",
+                "stage": "2",
+                "name": "曹端陽",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d734df-36dc-476a-8fe5-1299acb5b862"
+            },
+            {
+                "id": "540b5800-32fc-4270-9f6d-1926acb5b862",
+                "image": "548c768d\/3390\/449e\/89b7\/52ed6ab936af.jpg",
+                "stage": "2",
+                "name": "林宏豫",
+                "party": "無",
+                "gender": "m",
+                "no": "5",
+                "name_english": "",
+                "election_id": "53d734df-36dc-476a-8fe5-1299acb5b862"
+            },
+            {
+                "id": "540b5800-6444-466d-8d3f-1926acb5b862",
+                "image": "548c7608\/19e0\/48e6\/9b7c\/52d06ab936af.jpg",
+                "stage": "2",
+                "name": "王秀金",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53d734df-36dc-476a-8fe5-1299acb5b862"
+            },
+            {
+                "id": "540b5800-97a0-4595-a7df-1926acb5b862",
+                "image": "548c763c\/bd5c\/48f9\/aa47\/52e86ab936af.jpg",
+                "stage": "1",
+                "name": "劉灼仙",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53d734df-36dc-476a-8fe5-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01bd0-e394-464e-a913-5460acb5b862",
+                "name": "莒光鄉",
+                "is_area": true,
+                "keywords": "2014,連江縣,莒光鄉",
+                "AreasElection": {
+                    "id": "53d734df-aab4-4e29-98c0-1299acb5b862",
+                    "Election_id": "53d734df-36dc-476a-8fe5-1299acb5b862",
+                    "Area_id": "53c01bd0-e394-464e-a913-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020af-79e4-430d-ab06-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "連江縣",
+                "lft": "1033",
+                "rght": "1050",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020af-7fec-4ab2-8f5d-5c5aacb5b862",
+                "parent_id": "53c020af-79e4-430d-ab06-5c5aacb5b862",
+                "name": "莒光鄉",
+                "lft": "1042",
+                "rght": "1045",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d734df-36dc-476a-8fe5-1299acb5b862",
+                "parent_id": "53c020af-7fec-4ab2-8f5d-5c5aacb5b862",
+                "name": "第01選舉區[區域]",
+                "lft": "1043",
+                "rght": "1044",
+                "population": "1418",
+                "population_electors": "1225",
+                "quota": "5",
+                "quota_women": "1",
+                "bulletin_key": "54742648-1b68-4e5e-ab75-2d82cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,連江縣,莒光鄉,第01選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

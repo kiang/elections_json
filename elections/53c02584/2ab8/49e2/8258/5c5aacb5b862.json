@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02584-2ab8-49e2-8258-5c5aacb5b862",
+            "parent_id": "53c02583-39cc-4071-a546-5c5aacb5b862",
+            "name": "龍東里",
+            "lft": "17475",
+            "rght": "17476",
+            "population": "3418",
+            "population_electors": "2639",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546d8db9-0374-4e5c-849f-0e51cf91e152",
+            "keywords": "2014-11,村里長,臺中市,龍井區,龍東里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02712-6ce4-4cd5-a2a9-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "陳翰儀",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02584-2ab8-49e2-8258-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01fb2-669c-4874-8cdd-5460acb5b862",
+                "name": "龍東里",
+                "is_area": true,
+                "keywords": "2014,臺中市,龍井區,龍東里",
+                "AreasElection": {
+                    "id": "53c02585-dd98-4e47-b22d-5c5aacb5b862",
+                    "Election_id": "53c02584-2ab8-49e2-8258-5c5aacb5b862",
+                    "Area_id": "53c01fb2-669c-4874-8cdd-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02583-39cc-4071-a546-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "龍井區",
+                "lft": "17464",
+                "rght": "17497",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02584-2ab8-49e2-8258-5c5aacb5b862",
+                "parent_id": "53c02583-39cc-4071-a546-5c5aacb5b862",
+                "name": "龍東里",
+                "lft": "17475",
+                "rght": "17476",
+                "population": "3418",
+                "population_electors": "2639",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546d8db9-0374-4e5c-849f-0e51cf91e152",
+                "keywords": "2014-11,村里長,臺中市,龍井區,龍東里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

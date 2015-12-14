@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c023b9-0fe0-48b6-97d1-5c5aacb5b862",
+            "parent_id": "53c023b4-de88-4969-afaa-5c5aacb5b862",
+            "name": "木柵里",
+            "lft": "12049",
+            "rght": "12050",
+            "population": "9006",
+            "population_electors": "7187",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-8018-429c-9f3d-4187cf91e152",
+            "keywords": "2014-11,村里長,臺北市,文山區,木柵里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02645-a7d4-4063-a43b-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "高銘傳",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "KAO MING CHUAN",
+                "election_id": "53c023b9-0fe0-48b6-97d1-5c5aacb5b862"
+            },
+            {
+                "id": "540b5300-05c8-4bcd-a717-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "黃祖雄",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "Huang Tsu Hsiung",
+                "election_id": "53c023b9-0fe0-48b6-97d1-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01e2e-6958-42dc-aeff-5460acb5b862",
+                "name": "木柵里",
+                "is_area": true,
+                "keywords": "2014,臺北市,文山區,木柵里",
+                "AreasElection": {
+                    "id": "53c023b9-e010-487a-a13e-5c5aacb5b862",
+                    "Election_id": "53c023b9-0fe0-48b6-97d1-5c5aacb5b862",
+                    "Area_id": "53c01e2e-6958-42dc-aeff-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023b4-de88-4969-afaa-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "文山區",
+                "lft": "11994",
+                "rght": "12081",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023b9-0fe0-48b6-97d1-5c5aacb5b862",
+                "parent_id": "53c023b4-de88-4969-afaa-5c5aacb5b862",
+                "name": "木柵里",
+                "lft": "12049",
+                "rght": "12050",
+                "population": "9006",
+                "population_electors": "7187",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-8018-429c-9f3d-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,文山區,木柵里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

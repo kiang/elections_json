@@ -1,0 +1,185 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c4122f-e36c-4d10-866c-6f55acb5b862",
+            "parent_id": "53c02085-8764-4425-9d61-5c5aacb5b862",
+            "name": "第06選區[區域]",
+            "lft": "580",
+            "rght": "581",
+            "population": "38221",
+            "population_electors": "30936",
+            "quota": "3",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-3e30-4e9c-828c-74a5cf91e152",
+            "keywords": "2014-11,縣市議員,基隆市,第06選區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "53c68f91-04bc-4cbc-92ad-0f15acb5b862",
+                "image": "54918ac3\/23d0\/4936\/955d\/16666ab936af.jpg",
+                "stage": "0",
+                "name": "黃景泰",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "0",
+                "name_english": "",
+                "election_id": "53c4122f-e36c-4d10-866c-6f55acb5b862"
+            },
+            {
+                "id": "53c68f92-0b44-44db-aaa9-0f15acb5b862",
+                "image": "54918892\/c780\/4910\/857f\/15ec6ab936af.jpg",
+                "stage": "2",
+                "name": "陳江山",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "3",
+                "name_english": "CHEN CHIANG SHAN",
+                "election_id": "53c4122f-e36c-4d10-866c-6f55acb5b862"
+            },
+            {
+                "id": "53c68f92-fcac-4479-8807-0f15acb5b862",
+                "image": "54918791\/eff8\/47f5\/af3f\/15ab6ab936af.jpg",
+                "stage": "1",
+                "name": "鄭怡信",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c4122f-e36c-4d10-866c-6f55acb5b862"
+            },
+            {
+                "id": "540b56cf-2ed0-4fee-b2dc-1926acb5b862",
+                "image": "54918732\/35e4\/40f3\/ad96\/15a16ab936af.jpg",
+                "stage": "1",
+                "name": "王奕荃",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "4",
+                "name_english": "",
+                "election_id": "53c4122f-e36c-4d10-866c-6f55acb5b862"
+            },
+            {
+                "id": "540b56cf-3954-4748-b77e-1926acb5b862",
+                "image": "54917def\/466c\/4b39\/a803\/12d76ab936af.jpg",
+                "stage": "1",
+                "name": "王醒之",
+                "party": "無",
+                "gender": "m",
+                "no": "7",
+                "name_english": "",
+                "election_id": "53c4122f-e36c-4d10-866c-6f55acb5b862"
+            },
+            {
+                "id": "540b56cf-5898-4c5e-ace1-1926acb5b862",
+                "image": "549187ed\/b978\/4e72\/a7c4\/15e56ab936af.jpg",
+                "stage": "1",
+                "name": "鄭可熙",
+                "party": "無",
+                "gender": "m",
+                "no": "5",
+                "name_english": "",
+                "election_id": "53c4122f-e36c-4d10-866c-6f55acb5b862"
+            },
+            {
+                "id": "540b56cf-cdcc-4393-9f1d-1926acb5b862",
+                "image": "5491891d\/ce20\/4c4d\/8efa\/16016ab936af.jpg",
+                "stage": "2",
+                "name": "林明智",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "6",
+                "name_english": "LIN MING CHIH",
+                "election_id": "53c4122f-e36c-4d10-866c-6f55acb5b862"
+            },
+            {
+                "id": "540b56cf-cecc-47e6-8b2c-1926acb5b862",
+                "image": "5491885b\/5378\/438e\/8b8d\/15db6ab936af.jpg",
+                "stage": "2",
+                "name": "連恩典",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c4122f-e36c-4d10-866c-6f55acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01dd5-f304-4750-a9b6-5460acb5b862",
+                "name": "暖暖區",
+                "is_area": true,
+                "keywords": "2014,基隆市,暖暖區",
+                "AreasElection": {
+                    "id": "53c4122f-2c4c-41f5-b883-6f55acb5b862",
+                    "Election_id": "53c4122f-e36c-4d10-866c-6f55acb5b862",
+                    "Area_id": "53c01dd5-f304-4750-a9b6-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "縣市議員",
+                "lft": "306",
+                "rght": "607",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02085-8764-4425-9d61-5c5aacb5b862",
+                "parent_id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "name": "基隆市",
+                "lft": "569",
+                "rght": "586",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c4122f-e36c-4d10-866c-6f55acb5b862",
+                "parent_id": "53c02085-8764-4425-9d61-5c5aacb5b862",
+                "name": "第06選區[區域]",
+                "lft": "580",
+                "rght": "581",
+                "population": "38221",
+                "population_electors": "30936",
+                "quota": "3",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-3e30-4e9c-828c-74a5cf91e152",
+                "keywords": "2014-11,縣市議員,基隆市,第06選區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

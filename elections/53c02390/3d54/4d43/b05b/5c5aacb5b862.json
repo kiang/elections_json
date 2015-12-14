@@ -1,0 +1,156 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02390-3d54-4d43-b05b-5c5aacb5b862",
+            "parent_id": "53c02390-47d0-4ee3-8b34-5c5aacb5b862",
+            "name": "新仁里",
+            "lft": "11529",
+            "rght": "11530",
+            "population": "3705",
+            "population_electors": "2945",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-91f0-4cb2-87c1-4187cf91e152",
+            "keywords": "2014-11,村里長,臺北市,信義區,新仁里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02633-b6a8-45b4-bf7b-5dffacb5b862",
+                "image": "545e3090\/5cc4\/49aa\/88a9\/0afd8e043389.jpg",
+                "stage": "1",
+                "name": "李財久",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "LI TSAI CHIU",
+                "election_id": "53c02390-3d54-4d43-b05b-5c5aacb5b862"
+            },
+            {
+                "id": "540b52e2-7604-41b3-948a-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "盧伃絹",
+                "party": "無",
+                "gender": "f",
+                "no": "1",
+                "name_english": "LU YU JUAN",
+                "election_id": "53c02390-3d54-4d43-b05b-5c5aacb5b862"
+            },
+            {
+                "id": "540b52e2-bd3c-49a0-b55c-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "吳建德",
+                "party": "無",
+                "gender": "m",
+                "no": "4",
+                "name_english": "",
+                "election_id": "53c02390-3d54-4d43-b05b-5c5aacb5b862"
+            },
+            {
+                "id": "540b52e2-f954-463d-891d-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "蘇子華",
+                "party": "無",
+                "gender": "f",
+                "no": "3",
+                "name_english": "Su Ellen",
+                "election_id": "53c02390-3d54-4d43-b05b-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01e0b-5128-4236-be4c-5460acb5b862",
+                "name": "新仁里",
+                "is_area": true,
+                "keywords": "2014,臺北市,信義區,新仁里",
+                "AreasElection": {
+                    "id": "53c02390-a83c-4f2f-803f-5c5aacb5b862",
+                    "Election_id": "53c02390-3d54-4d43-b05b-5c5aacb5b862",
+                    "Area_id": "53c01e0b-5128-4236-be4c-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02390-47d0-4ee3-8b34-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "信義區",
+                "lft": "11526",
+                "rght": "11609",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02390-3d54-4d43-b05b-5c5aacb5b862",
+                "parent_id": "53c02390-47d0-4ee3-8b34-5c5aacb5b862",
+                "name": "新仁里",
+                "lft": "11529",
+                "rght": "11530",
+                "population": "3705",
+                "population_electors": "2945",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-91f0-4cb2-87c1-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,信義區,新仁里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

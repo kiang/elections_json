@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0244e-0acc-4906-9c67-5c5aacb5b862",
+            "parent_id": "53c0244d-e6c0-46cb-bbdd-5c5aacb5b862",
+            "name": "劉家里",
+            "lft": "13919",
+            "rght": "13920",
+            "population": "1213",
+            "population_electors": "1009",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb721-b9b4-4984-bdd1-2adbcf91e152",
+            "keywords": "2014-11,村里長,高雄市,湖內區,劉家里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0268d-f064-4575-8b80-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "劉宏添",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c0244e-0acc-4906-9c67-5c5aacb5b862"
+            },
+            {
+                "id": "540b54a0-b760-4a09-b1ca-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "劉澤豪",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c0244e-0acc-4906-9c67-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01eaf-84a4-48a2-878a-5460acb5b862",
+                "name": "劉家里",
+                "is_area": true,
+                "keywords": "2014,高雄市,湖內區,劉家里",
+                "AreasElection": {
+                    "id": "53c0244e-f318-446b-8a36-5c5aacb5b862",
+                    "Election_id": "53c0244e-0acc-4906-9c67-5c5aacb5b862",
+                    "Area_id": "53c01eaf-84a4-48a2-878a-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0244d-e6c0-46cb-bbdd-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "湖內區",
+                "lft": "13910",
+                "rght": "13939",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0244e-0acc-4906-9c67-5c5aacb5b862",
+                "parent_id": "53c0244d-e6c0-46cb-bbdd-5c5aacb5b862",
+                "name": "劉家里",
+                "lft": "13919",
+                "rght": "13920",
+                "population": "1213",
+                "population_electors": "1009",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb721-b9b4-4984-bdd1-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,湖內區,劉家里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

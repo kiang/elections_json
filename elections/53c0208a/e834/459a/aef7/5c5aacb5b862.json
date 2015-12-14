@@ -1,0 +1,119 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0208a-e834-459a-aef7-5c5aacb5b862",
+            "parent_id": "53c0208a-29e0-490b-94ba-5c5aacb5b862",
+            "name": "竹北市",
+            "lft": "660",
+            "rght": "661",
+            "population": "163701",
+            "population_electors": "115521",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-343c-4fc9-92e7-1a32cf91e152",
+            "keywords": "2014-11,鄉鎮市長,新竹縣,竹北市"
+        },
+        "Candidate": [
+            {
+                "id": "540b5800-1c1c-4d81-b925-1926acb5b862",
+                "image": "549ac815\/3de8\/45da\/8e65\/17696ab936af.jpg",
+                "stage": "1",
+                "name": "張碧琴",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "2",
+                "name_english": "CHANG PI CHIN",
+                "election_id": "53c0208a-e834-459a-aef7-5c5aacb5b862"
+            },
+            {
+                "id": "540b5800-9d34-46be-8e26-1926acb5b862",
+                "image": "549ac859\/02d0\/414f\/b113\/17646ab936af.jpg",
+                "stage": "2",
+                "name": "何淦銘",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "HO KAN MING",
+                "election_id": "53c0208a-e834-459a-aef7-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c38-f738-493d-a3ba-5460acb5b862",
+                "name": "竹北市",
+                "is_area": true,
+                "keywords": "2014,新竹縣,竹北市",
+                "AreasElection": {
+                    "id": "53c0208a-da24-4113-ac2b-5c5aacb5b862",
+                    "Election_id": "53c0208a-e834-459a-aef7-5c5aacb5b862",
+                    "Area_id": "53c01c38-f738-493d-a3ba-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市長",
+                "lft": "608",
+                "rght": "1031",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0208a-29e0-490b-94ba-5c5aacb5b862",
+                "parent_id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "name": "新竹縣",
+                "lft": "659",
+                "rght": "686",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0208a-e834-459a-aef7-5c5aacb5b862",
+                "parent_id": "53c0208a-29e0-490b-94ba-5c5aacb5b862",
+                "name": "竹北市",
+                "lft": "660",
+                "rght": "661",
+                "population": "163701",
+                "population_electors": "115521",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-343c-4fc9-92e7-1a32cf91e152",
+                "keywords": "2014-11,鄉鎮市長,新竹縣,竹北市"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

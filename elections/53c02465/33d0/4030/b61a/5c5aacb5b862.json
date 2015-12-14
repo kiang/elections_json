@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02465-33d0-4030-b61a-5c5aacb5b862",
+            "parent_id": "53c02464-d32c-4a8f-a318-5c5aacb5b862",
+            "name": "月美里",
+            "lft": "14179",
+            "rght": "14180",
+            "population": "1451",
+            "population_electors": "1236",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb721-e018-4ad1-ad61-2adbcf91e152",
+            "keywords": "2014-11,村里長,高雄市,杉林區,月美里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02697-eed4-462f-a995-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "劉逢亮",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "LIU FENG LIANG",
+                "election_id": "53c02465-33d0-4030-b61a-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01ec2-ccfc-4bc1-958d-5460acb5b862",
+                "name": "月美里",
+                "is_area": true,
+                "keywords": "2014,高雄市,杉林區,月美里",
+                "AreasElection": {
+                    "id": "53c02465-2ad4-41d6-b208-5c5aacb5b862",
+                    "Election_id": "53c02465-33d0-4030-b61a-5c5aacb5b862",
+                    "Area_id": "53c01ec2-ccfc-4bc1-958d-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02464-d32c-4a8f-a318-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "杉林區",
+                "lft": "14170",
+                "rght": "14187",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02465-33d0-4030-b61a-5c5aacb5b862",
+                "parent_id": "53c02464-d32c-4a8f-a318-5c5aacb5b862",
+                "name": "月美里",
+                "lft": "14179",
+                "rght": "14180",
+                "population": "1451",
+                "population_electors": "1236",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb721-e018-4ad1-ad61-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,杉林區,月美里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

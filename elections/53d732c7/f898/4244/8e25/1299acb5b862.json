@@ -1,0 +1,200 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d732c7-f898-4244-8e25-1299acb5b862",
+            "parent_id": "53c020b6-ad08-40f5-a7a9-5c5aacb5b862",
+            "name": "第02選舉區[區域]",
+            "lft": "1285",
+            "rght": "1286",
+            "population": "5239",
+            "population_electors": "4234",
+            "quota": "4",
+            "quota_women": "1",
+            "bulletin_key": "546e068d-2a1c-403a-b1bf-1a32cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,新竹縣,北埔鄉,第02選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b56e7-1df4-4a31-ba0f-1926acb5b862",
+                "image": "54c50199\/d2d0\/4799\/8ef1\/698b6ab936af.jpg",
+                "stage": "2",
+                "name": "林六郎",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53d732c7-f898-4244-8e25-1299acb5b862"
+            },
+            {
+                "id": "540b56e7-2780-4f5b-b3f6-1926acb5b862",
+                "image": "54c501cd\/2394\/4c36\/b02b\/699d6ab936af.jpg",
+                "stage": "2",
+                "name": "陳煥堃",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "4",
+                "name_english": "",
+                "election_id": "53d732c7-f898-4244-8e25-1299acb5b862"
+            },
+            {
+                "id": "540b56e7-37c0-4d8c-8dcd-1926acb5b862",
+                "image": "54c501e7\/4060\/42cd\/8d86\/69306ab936af.jpg",
+                "stage": "1",
+                "name": "彭紹銓",
+                "party": "無",
+                "gender": "m",
+                "no": "5",
+                "name_english": "",
+                "election_id": "53d732c7-f898-4244-8e25-1299acb5b862"
+            },
+            {
+                "id": "540b56e7-99f0-4037-ae58-1926acb5b862",
+                "image": "54c501b7\/bce4\/4d31\/9c53\/699e6ab936af.jpg",
+                "stage": "2",
+                "name": "陳彭春梅",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53d732c7-f898-4244-8e25-1299acb5b862"
+            },
+            {
+                "id": "540b56e7-b59c-4fb7-982d-1926acb5b862",
+                "image": "54c50186\/5e84\/471c\/a93f\/69976ab936af.jpg",
+                "stage": "2",
+                "name": "李瑞玉",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d732c7-f898-4244-8e25-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c4e-2498-4507-95e0-5460acb5b862",
+                "name": "南埔村",
+                "is_area": true,
+                "keywords": "2014,新竹縣,北埔鄉,南埔村",
+                "AreasElection": {
+                    "id": "53d732c7-8818-4496-9bd1-1299acb5b862",
+                    "Election_id": "53d732c7-f898-4244-8e25-1299acb5b862",
+                    "Area_id": "53c01c4e-2498-4507-95e0-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c4e-a9f8-4961-9d56-5460acb5b862",
+                "name": "埔尾村",
+                "is_area": true,
+                "keywords": "2014,新竹縣,北埔鄉,埔尾村",
+                "AreasElection": {
+                    "id": "53d732c7-8c48-4a3a-a37f-1299acb5b862",
+                    "Election_id": "53d732c7-f898-4244-8e25-1299acb5b862",
+                    "Area_id": "53c01c4e-a9f8-4961-9d56-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c4e-f780-4467-a829-5460acb5b862",
+                "name": "大湖村",
+                "is_area": true,
+                "keywords": "2014,新竹縣,北埔鄉,大湖村",
+                "AreasElection": {
+                    "id": "53d732c7-e598-4543-a10e-1299acb5b862",
+                    "Election_id": "53d732c7-f898-4244-8e25-1299acb5b862",
+                    "Area_id": "53c01c4e-f780-4467-a829-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c4e-ff80-4bba-a2b4-5460acb5b862",
+                "name": "水磜村",
+                "is_area": true,
+                "keywords": "2014,新竹縣,北埔鄉,水磜村",
+                "AreasElection": {
+                    "id": "53d732c7-4188-4c8a-bb75-1299acb5b862",
+                    "Election_id": "53d732c7-f898-4244-8e25-1299acb5b862",
+                    "Area_id": "53c01c4e-ff80-4bba-a2b4-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b3-e33c-4fee-aa9e-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "新竹縣",
+                "lft": "1201",
+                "rght": "1322",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b6-ad08-40f5-a7a9-5c5aacb5b862",
+                "parent_id": "53c020b3-e33c-4fee-aa9e-5c5aacb5b862",
+                "name": "北埔鄉",
+                "lft": "1282",
+                "rght": "1289",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d732c7-f898-4244-8e25-1299acb5b862",
+                "parent_id": "53c020b6-ad08-40f5-a7a9-5c5aacb5b862",
+                "name": "第02選舉區[區域]",
+                "lft": "1285",
+                "rght": "1286",
+                "population": "5239",
+                "population_electors": "4234",
+                "quota": "4",
+                "quota_women": "1",
+                "bulletin_key": "546e068d-2a1c-403a-b1bf-1a32cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,新竹縣,北埔鄉,第02選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

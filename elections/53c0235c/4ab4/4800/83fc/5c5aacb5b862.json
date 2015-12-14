@@ -1,0 +1,145 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0235c-4ab4-4800-83fc-5c5aacb5b862",
+            "parent_id": "53c02356-ffa8-4707-8ead-5c5aacb5b862",
+            "name": "頭湖里",
+            "lft": "10901",
+            "rght": "10902",
+            "population": "3234",
+            "population_electors": "2285",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-9754-4500-b8e8-1a32cf91e152",
+            "keywords": "2014-11,村里長,桃園市,楊梅區,頭湖里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0277a-2090-4c41-a257-5dffacb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "唐瑞鳳",
+                "party": "無",
+                "gender": "f",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c0235c-4ab4-4800-83fc-5c5aacb5b862"
+            },
+            {
+                "id": "540b5398-075c-4a59-8268-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "劉俊明",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "LIU CHUN MING",
+                "election_id": "53c0235c-4ab4-4800-83fc-5c5aacb5b862"
+            },
+            {
+                "id": "540b5398-4680-4646-9223-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "郝文會",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "HAO WEN HUI",
+                "election_id": "53c0235c-4ab4-4800-83fc-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c15-a284-49b7-8d72-5460acb5b862",
+                "name": "頭湖里",
+                "is_area": true,
+                "keywords": "2014,桃園市,楊梅區,頭湖里",
+                "AreasElection": {
+                    "id": "53c0235c-bf1c-4fb5-a4a6-5c5aacb5b862",
+                    "Election_id": "53c0235c-4ab4-4800-83fc-5c5aacb5b862",
+                    "Area_id": "53c01c15-a284-49b7-8d72-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "桃園市",
+                "lft": "10439",
+                "rght": "11456",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02356-ffa8-4707-8ead-5c5aacb5b862",
+                "parent_id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "name": "楊梅區",
+                "lft": "10822",
+                "rght": "10905",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0235c-4ab4-4800-83fc-5c5aacb5b862",
+                "parent_id": "53c02356-ffa8-4707-8ead-5c5aacb5b862",
+                "name": "頭湖里",
+                "lft": "10901",
+                "rght": "10902",
+                "population": "3234",
+                "population_electors": "2285",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-9754-4500-b8e8-1a32cf91e152",
+                "keywords": "2014-11,村里長,桃園市,楊梅區,頭湖里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

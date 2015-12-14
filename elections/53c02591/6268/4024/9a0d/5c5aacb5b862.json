@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02591-6268-4024-9a0d-5c5aacb5b862",
+            "parent_id": "53c0258b-49bc-4301-a0fe-5c5aacb5b862",
+            "name": "永隆里",
+            "lft": "17605",
+            "rght": "17606",
+            "population": "3103",
+            "population_electors": "2416",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546d8db9-dc6c-439a-9dd8-0e51cf91e152",
+            "keywords": "2014-11,村里長,臺中市,太平區,永隆里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02718-ce1c-4224-8c67-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "連保欽",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "LIEN POA CHIN",
+                "election_id": "53c02591-6268-4024-9a0d-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01fbb-72e8-4525-a08e-5460acb5b862",
+                "name": "永隆里",
+                "is_area": true,
+                "keywords": "2014,臺中市,太平區,永隆里",
+                "AreasElection": {
+                    "id": "53c02591-3c00-4965-a1d7-5c5aacb5b862",
+                    "Election_id": "53c02591-6268-4024-9a0d-5c5aacb5b862",
+                    "Area_id": "53c01fbb-72e8-4525-a08e-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0258b-49bc-4301-a0fe-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "太平區",
+                "lft": "17540",
+                "rght": "17619",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02591-6268-4024-9a0d-5c5aacb5b862",
+                "parent_id": "53c0258b-49bc-4301-a0fe-5c5aacb5b862",
+                "name": "永隆里",
+                "lft": "17605",
+                "rght": "17606",
+                "population": "3103",
+                "population_electors": "2416",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546d8db9-dc6c-439a-9dd8-0e51cf91e152",
+                "keywords": "2014-11,村里長,臺中市,太平區,永隆里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

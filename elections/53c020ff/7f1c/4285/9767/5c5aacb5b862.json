@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c020ff-7f1c-4285-9767-5c5aacb5b862",
+            "parent_id": "53c020fe-998c-4429-9833-5c5aacb5b862",
+            "name": "外澳里",
+            "lft": "3119",
+            "rght": "3120",
+            "population": "1065",
+            "population_electors": "924",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-b748-4915-9fa3-2adbcf91e152",
+            "keywords": "2014-11,村里長,宜蘭縣,頭城鎮,外澳里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0275b-73c8-4649-ad1d-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "石錫煌",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c020ff-7f1c-4285-9767-5c5aacb5b862"
+            },
+            {
+                "id": "540b55f7-ea78-46d5-a96a-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "藍福來",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c020ff-7f1c-4285-9767-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01be2-a894-4c77-8153-5460acb5b862",
+                "name": "外澳里",
+                "is_area": true,
+                "keywords": "2014,宜蘭縣,頭城鎮,外澳里",
+                "AreasElection": {
+                    "id": "53c020ff-9434-44dc-b739-5c5aacb5b862",
+                    "Election_id": "53c020ff-7f1c-4285-9767-5c5aacb5b862",
+                    "Area_id": "53c01be2-a894-4c77-8153-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ef-6268-4b1a-a16d-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "宜蘭縣",
+                "lft": "2929",
+                "rght": "3420",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020fe-998c-4429-9833-5c5aacb5b862",
+                "parent_id": "53c020ef-6268-4b1a-a16d-5c5aacb5b862",
+                "name": "頭城鎮",
+                "lft": "3110",
+                "rght": "3159",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ff-7f1c-4285-9767-5c5aacb5b862",
+                "parent_id": "53c020fe-998c-4429-9833-5c5aacb5b862",
+                "name": "外澳里",
+                "lft": "3119",
+                "rght": "3120",
+                "population": "1065",
+                "population_electors": "924",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-b748-4915-9fa3-2adbcf91e152",
+                "keywords": "2014-11,村里長,宜蘭縣,頭城鎮,外澳里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

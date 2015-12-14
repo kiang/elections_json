@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0219b-4828-4d70-9ec1-5c5aacb5b862",
+            "parent_id": "53c0219b-0204-4e64-b3a1-5c5aacb5b862",
+            "name": "瓦中村",
+            "lft": "5151",
+            "rght": "5152",
+            "population": "2179",
+            "population_electors": "1810",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-3dbc-4e4e-ad91-74a5cf91e152",
+            "keywords": "2014-11,村里長,彰化縣,埔心鄉,瓦中村"
+        },
+        "Candidate": [
+            {
+                "id": "53c027d2-4858-4e6d-ac93-5dffacb5b862",
+                "image": "546342b0\/451c\/47b4\/850e\/65b28e043389.jpg",
+                "stage": "2",
+                "name": "張春",
+                "party": "無",
+                "gender": "f",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c0219b-4828-4d70-9ec1-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01caa-0924-42ce-a43c-5460acb5b862",
+                "name": "瓦中村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,埔心鄉,瓦中村",
+                "AreasElection": {
+                    "id": "53c0219b-0964-46ce-841a-5c5aacb5b862",
+                    "Election_id": "53c0219b-4828-4d70-9ec1-5c5aacb5b862",
+                    "Area_id": "53c01caa-0924-42ce-a43c-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "4417",
+                "rght": "5648",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0219b-0204-4e64-b3a1-5c5aacb5b862",
+                "parent_id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "name": "埔心鄉",
+                "lft": "5148",
+                "rght": "5189",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0219b-4828-4d70-9ec1-5c5aacb5b862",
+                "parent_id": "53c0219b-0204-4e64-b3a1-5c5aacb5b862",
+                "name": "瓦中村",
+                "lft": "5151",
+                "rght": "5152",
+                "population": "2179",
+                "population_electors": "1810",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-3dbc-4e4e-ad91-74a5cf91e152",
+                "keywords": "2014-11,村里長,彰化縣,埔心鄉,瓦中村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

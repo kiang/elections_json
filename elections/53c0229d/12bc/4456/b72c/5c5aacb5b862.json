@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0229d-12bc-4456-b72c-5c5aacb5b862",
+            "parent_id": "53c0229d-f8fc-4fe7-aaf3-5c5aacb5b862",
+            "name": "崁頂村",
+            "lft": "8485",
+            "rght": "8486",
+            "population": "3179",
+            "population_electors": "2181",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54773ba1-fb04-480e-968b-1915cf91e152",
+            "keywords": "2014-11,村里長,屏東縣,崁頂鄉,崁頂村"
+        },
+        "Candidate": [
+            {
+                "id": "53c02857-1e10-4f6d-9a4e-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "郭坤柱",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "KUO KUN CHU",
+                "election_id": "53c0229d-12bc-4456-b72c-5c5aacb5b862"
+            },
+            {
+                "id": "540b55d9-0db8-4bbb-992c-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "周美貴",
+                "party": "無",
+                "gender": "f",
+                "no": "2",
+                "name_english": "CHOU MEI KUEI",
+                "election_id": "53c0229d-12bc-4456-b72c-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d81-a3c8-4686-a1da-5460acb5b862",
+                "name": "崁頂村",
+                "is_area": true,
+                "keywords": "2014,屏東縣,崁頂鄉,崁頂村",
+                "AreasElection": {
+                    "id": "53c0229d-5dbc-46c1-9c74-5c5aacb5b862",
+                    "Election_id": "53c0229d-12bc-4456-b72c-5c5aacb5b862",
+                    "Area_id": "53c01d81-a3c8-4686-a1da-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "7771",
+                "rght": "8766",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0229d-f8fc-4fe7-aaf3-5c5aacb5b862",
+                "parent_id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "name": "崁頂鄉",
+                "lft": "8482",
+                "rght": "8499",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0229d-12bc-4456-b72c-5c5aacb5b862",
+                "parent_id": "53c0229d-f8fc-4fe7-aaf3-5c5aacb5b862",
+                "name": "崁頂村",
+                "lft": "8485",
+                "rght": "8486",
+                "population": "3179",
+                "population_electors": "2181",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54773ba1-fb04-480e-968b-1915cf91e152",
+                "keywords": "2014-11,村里長,屏東縣,崁頂鄉,崁頂村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

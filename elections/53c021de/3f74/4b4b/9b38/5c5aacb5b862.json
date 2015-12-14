@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c021de-3f74-4b4b-9b38-5c5aacb5b862",
+            "parent_id": "53c021dc-486c-49bd-9fe5-5c5aacb5b862",
+            "name": "清水村",
+            "lft": "6023",
+            "rght": "6024",
+            "population": "1018",
+            "population_electors": "845",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "keywords": "2014-11,村里長,南投縣,中寮鄉,清水村"
+        },
+        "Candidate": [
+            {
+                "id": "53c027f5-cbe0-4b3c-b471-5dffacb5b862",
+                "image": "",
+                "stage": "0",
+                "name": "李清沂",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c021de-3f74-4b4b-9b38-5c5aacb5b862"
+            },
+            {
+                "id": "540b5548-e794-495e-a272-1926acb5b862",
+                "image": "",
+                "stage": "2",
+                "name": "卓金棟",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c021de-3f74-4b4b-9b38-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01cdd-72dc-408d-ab44-5460acb5b862",
+                "name": "清水村",
+                "is_area": true,
+                "keywords": "2014,南投縣,中寮鄉,清水村",
+                "AreasElection": {
+                    "id": "53c021de-16f4-47f1-af1a-5c5aacb5b862",
+                    "Election_id": "53c021de-3f74-4b4b-9b38-5c5aacb5b862",
+                    "Area_id": "53c01cdd-72dc-408d-ab44-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "南投縣",
+                "lft": "5649",
+                "rght": "6200",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021dc-486c-49bd-9fe5-5c5aacb5b862",
+                "parent_id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "name": "中寮鄉",
+                "lft": "6002",
+                "rght": "6039",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021de-3f74-4b4b-9b38-5c5aacb5b862",
+                "parent_id": "53c021dc-486c-49bd-9fe5-5c5aacb5b862",
+                "name": "清水村",
+                "lft": "6023",
+                "rght": "6024",
+                "population": "1018",
+                "population_electors": "845",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2014-11,村里長,南投縣,中寮鄉,清水村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

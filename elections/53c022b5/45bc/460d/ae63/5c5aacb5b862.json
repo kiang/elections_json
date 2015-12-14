@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c022b5-45bc-460d-ae63-5c5aacb5b862",
+            "parent_id": "53c022b3-e81c-475c-96e8-5c5aacb5b862",
+            "name": "民權里",
+            "lft": "8803",
+            "rght": "8804",
+            "population": "1018",
+            "population_electors": "863",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546f277f-cb70-40a8-9898-2f28cf91e152",
+            "keywords": "2014-11,村里長,臺東縣,臺東市,民權里"
+        },
+        "Candidate": [
+            {
+                "id": "540b5623-7dd4-49c4-bc11-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "余岱沅",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "YU TAI YUAN",
+                "election_id": "53c022b5-45bc-460d-ae63-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d97-6834-4c61-9e39-5460acb5b862",
+                "name": "民權里",
+                "is_area": true,
+                "keywords": "2014,臺東縣,臺東市,民權里",
+                "AreasElection": {
+                    "id": "53c022b5-13dc-41f1-aa5e-5c5aacb5b862",
+                    "Election_id": "53c022b5-45bc-460d-ae63-5c5aacb5b862",
+                    "Area_id": "53c01d97-6834-4c61-9e39-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022b2-b9f0-4517-825f-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺東縣",
+                "lft": "8767",
+                "rght": "9094",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022b3-e81c-475c-96e8-5c5aacb5b862",
+                "parent_id": "53c022b2-b9f0-4517-825f-5c5aacb5b862",
+                "name": "臺東市",
+                "lft": "8768",
+                "rght": "8861",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022b5-45bc-460d-ae63-5c5aacb5b862",
+                "parent_id": "53c022b3-e81c-475c-96e8-5c5aacb5b862",
+                "name": "民權里",
+                "lft": "8803",
+                "rght": "8804",
+                "population": "1018",
+                "population_electors": "863",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546f277f-cb70-40a8-9898-2f28cf91e152",
+                "keywords": "2014-11,村里長,臺東縣,臺東市,民權里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

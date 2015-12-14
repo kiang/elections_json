@@ -1,0 +1,145 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c025e2-04f0-4317-87fe-5c5aacb5b862",
+            "parent_id": "53c025e1-8b74-4bdc-b685-5c5aacb5b862",
+            "name": "豐德里",
+            "lft": "18499",
+            "rght": "18500",
+            "population": "430",
+            "population_electors": "373",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "keywords": "2014-11,村里長,臺南市,山上區,豐德里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02737-6700-4ab7-b238-5dffacb5b862",
+                "image": null,
+                "stage": "0",
+                "name": "郭青峰",
+                "party": null,
+                "gender": null,
+                "no": "0",
+                "name_english": "",
+                "election_id": "53c025e2-04f0-4317-87fe-5c5aacb5b862"
+            },
+            {
+                "id": "540b5426-0800-4f83-bd7d-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "郭青峯",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c025e2-04f0-4317-87fe-5c5aacb5b862"
+            },
+            {
+                "id": "540b5426-369c-4329-a0fa-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "李明良",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c025e2-04f0-4317-87fe-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01ff7-5760-4e2b-93ec-5460acb5b862",
+                "name": "豐德里",
+                "is_area": true,
+                "keywords": "2014,臺南市,山上區,豐德里",
+                "AreasElection": {
+                    "id": "53c025e2-159c-43d6-a004-5c5aacb5b862",
+                    "Election_id": "53c025e2-04f0-4317-87fe-5c5aacb5b862",
+                    "Area_id": "53c01ff7-5760-4e2b-93ec-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02598-fc40-4dee-aec0-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺南市",
+                "lft": "17695",
+                "rght": "19274",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c025e1-8b74-4bdc-b685-5c5aacb5b862",
+                "parent_id": "53c02598-fc40-4dee-aec0-5c5aacb5b862",
+                "name": "山上區",
+                "lft": "18488",
+                "rght": "18503",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c025e2-04f0-4317-87fe-5c5aacb5b862",
+                "parent_id": "53c025e1-8b74-4bdc-b685-5c5aacb5b862",
+                "name": "豐德里",
+                "lft": "18499",
+                "rght": "18500",
+                "population": "430",
+                "population_electors": "373",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2014-11,村里長,臺南市,山上區,豐德里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

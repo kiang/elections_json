@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c023db-8f28-4dbd-95a0-5c5aacb5b862",
+            "parent_id": "53c023d9-deb4-411d-9232-5c5aacb5b862",
+            "name": "龍井里",
+            "lft": "12463",
+            "rght": "12464",
+            "population": "1492",
+            "population_electors": "1292",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb720-6604-4dd3-b44f-2adbcf91e152",
+            "keywords": "2014-11,村里長,高雄市,鼓山區,龍井里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02654-39f8-4a5d-b278-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "陳文平",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c023db-8f28-4dbd-95a0-5c5aacb5b862"
+            },
+            {
+                "id": "540b544f-e248-4a52-afd5-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "李日進",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "LEE THOMAS J.C.",
+                "election_id": "53c023db-8f28-4dbd-95a0-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01e51-a520-4393-8a29-5460acb5b862",
+                "name": "龍井里",
+                "is_area": true,
+                "keywords": "2014,高雄市,鼓山區,龍井里",
+                "AreasElection": {
+                    "id": "53c023db-8ff0-4546-b938-5c5aacb5b862",
+                    "Election_id": "53c023db-8f28-4dbd-95a0-5c5aacb5b862",
+                    "Area_id": "53c01e51-a520-4393-8a29-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d9-deb4-411d-9232-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "鼓山區",
+                "lft": "12440",
+                "rght": "12517",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023db-8f28-4dbd-95a0-5c5aacb5b862",
+                "parent_id": "53c023d9-deb4-411d-9232-5c5aacb5b862",
+                "name": "龍井里",
+                "lft": "12463",
+                "rght": "12464",
+                "population": "1492",
+                "population_electors": "1292",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb720-6604-4dd3-b44f-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,鼓山區,龍井里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

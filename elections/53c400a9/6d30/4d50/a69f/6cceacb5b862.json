@@ -1,0 +1,141 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c400a9-6d30-4d50-a69f-6cceacb5b862",
+            "parent_id": "53c0207f-29bc-4258-90c0-5c5aacb5b862",
+            "name": "第06選區[區域]",
+            "lft": "168",
+            "rght": "169",
+            "population": "76174",
+            "population_electors": "60851",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-d76c-4d53-a768-74a5cf91e152",
+            "keywords": "2014-11,直轄市議員,臺南市,第06選區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "53c68fae-e4b0-4487-81e2-0f15acb5b862",
+                "image": "548adea0\/f974\/435b\/a987\/7bec6ab936af.jpg",
+                "stage": "1",
+                "name": "李文俊",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c400a9-6d30-4d50-a69f-6cceacb5b862"
+            },
+            {
+                "id": "53c68faf-0ca8-4c28-aed6-0f15acb5b862",
+                "image": "548ae33a\/ac40\/4e77\/8f59\/7d496ab936af.jpg",
+                "stage": "2",
+                "name": "梁順發",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53c400a9-6d30-4d50-a69f-6cceacb5b862"
+            },
+            {
+                "id": "540b5694-4894-4c7b-9e5f-1926acb5b862",
+                "image": "548adf04\/4640\/4593\/8f62\/7c066ab936af.jpg",
+                "stage": "2",
+                "name": "林志展",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c400a9-6d30-4d50-a69f-6cceacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01fef-6a40-4ed3-bfa7-5460acb5b862",
+                "name": "善化區",
+                "is_area": true,
+                "keywords": "2014,臺南市,善化區",
+                "AreasElection": {
+                    "id": "53c406ea-4a3c-43fb-baaf-6dacacb5b862",
+                    "Election_id": "53c400a9-6d30-4d50-a69f-6cceacb5b862",
+                    "Area_id": "53c01fef-6a40-4ed3-bfa7-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01ff4-fa5c-4e04-947d-5460acb5b862",
+                "name": "安定區",
+                "is_area": true,
+                "keywords": "2014,臺南市,安定區",
+                "AreasElection": {
+                    "id": "53c406ea-ab44-4e9e-aa48-6dacacb5b862",
+                    "Election_id": "53c400a9-6d30-4d50-a69f-6cceacb5b862",
+                    "Area_id": "53c01ff4-fa5c-4e04-947d-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市議員",
+                "lft": "16",
+                "rght": "195",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207f-29bc-4258-90c0-5c5aacb5b862",
+                "parent_id": "53c0202f-da0c-4e3e-bbb4-5460acb5b862",
+                "name": "臺南市",
+                "lft": "157",
+                "rght": "194",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c400a9-6d30-4d50-a69f-6cceacb5b862",
+                "parent_id": "53c0207f-29bc-4258-90c0-5c5aacb5b862",
+                "name": "第06選區[區域]",
+                "lft": "168",
+                "rght": "169",
+                "population": "76174",
+                "population_electors": "60851",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-d76c-4d53-a768-74a5cf91e152",
+                "keywords": "2014-11,直轄市議員,臺南市,第06選區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c023b7-48d4-429a-a223-5c5aacb5b862",
+            "parent_id": "53c023b4-de88-4969-afaa-5c5aacb5b862",
+            "name": "興旺里",
+            "lft": "12041",
+            "rght": "12042",
+            "population": "8513",
+            "population_electors": "6881",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-c928-427a-925b-4187cf91e152",
+            "keywords": "2014-11,村里長,臺北市,文山區,興旺里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02644-6450-4773-80d7-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "蘇瓏議",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "Su Long Yi",
+                "election_id": "53c023b7-48d4-429a-a223-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01e2d-d3f8-4ae7-8feb-5460acb5b862",
+                "name": "興旺里",
+                "is_area": true,
+                "keywords": "2014,臺北市,文山區,興旺里",
+                "AreasElection": {
+                    "id": "53c023b8-20fc-47c0-a483-5c5aacb5b862",
+                    "Election_id": "53c023b7-48d4-429a-a223-5c5aacb5b862",
+                    "Area_id": "53c01e2d-d3f8-4ae7-8feb-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023b4-de88-4969-afaa-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "文山區",
+                "lft": "11994",
+                "rght": "12081",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023b7-48d4-429a-a223-5c5aacb5b862",
+                "parent_id": "53c023b4-de88-4969-afaa-5c5aacb5b862",
+                "name": "興旺里",
+                "lft": "12041",
+                "rght": "12042",
+                "population": "8513",
+                "population_electors": "6881",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-c928-427a-925b-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,文山區,興旺里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c411f3-cbf4-4836-bb4b-6f55acb5b862",
+            "parent_id": "53c02084-5b54-43be-89be-5c5aacb5b862",
+            "name": "第02選區[區域]",
+            "lft": "536",
+            "rght": "537",
+            "population": "35718",
+            "population_electors": "27474",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-1b80-4b72-9d89-4187cf91e152",
+            "keywords": "2014-11,縣市議員,花蓮縣,第02選區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "53c68f8d-cbec-4e7b-bdb0-0f15acb5b862",
+                "image": "549ab7b9\/a084\/48eb\/89e5\/13a36ab936af.jpg",
+                "stage": "2",
+                "name": "何禮臺",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "Ho Li Tai",
+                "election_id": "53c411f3-cbf4-4836-bb4b-6f55acb5b862"
+            },
+            {
+                "id": "53c68f8d-cce8-44e1-9bc0-0f15acb5b862",
+                "image": "549ab7e9\/70bc\/426c\/a18c\/13ae6ab936af.jpg",
+                "stage": "2",
+                "name": "賴進坤",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "LAI CHIN KUN",
+                "election_id": "53c411f3-cbf4-4836-bb4b-6f55acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01db3-2ee4-410f-96ea-5460acb5b862",
+                "name": "新城鄉",
+                "is_area": true,
+                "keywords": "2014,花蓮縣,新城鄉",
+                "AreasElection": {
+                    "id": "53c411f4-4510-42dd-b1d8-6f55acb5b862",
+                    "Election_id": "53c411f3-cbf4-4836-bb4b-6f55acb5b862",
+                    "Area_id": "53c01db3-2ee4-410f-96ea-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01dbe-b044-4719-be48-5460acb5b862",
+                "name": "秀林鄉",
+                "is_area": true,
+                "keywords": "2014,花蓮縣,秀林鄉",
+                "AreasElection": {
+                    "id": "53c411f5-5c30-456c-9978-6f55acb5b862",
+                    "Election_id": "53c411f3-cbf4-4836-bb4b-6f55acb5b862",
+                    "Area_id": "53c01dbe-b044-4719-be48-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "縣市議員",
+                "lft": "306",
+                "rght": "607",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02084-5b54-43be-89be-5c5aacb5b862",
+                "parent_id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "name": "花蓮縣",
+                "lft": "533",
+                "rght": "554",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c411f3-cbf4-4836-bb4b-6f55acb5b862",
+                "parent_id": "53c02084-5b54-43be-89be-5c5aacb5b862",
+                "name": "第02選區[區域]",
+                "lft": "536",
+                "rght": "537",
+                "population": "35718",
+                "population_electors": "27474",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-1b80-4b72-9d89-4187cf91e152",
+                "keywords": "2014-11,縣市議員,花蓮縣,第02選區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

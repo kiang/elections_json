@@ -1,0 +1,145 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02168-39ac-414b-9abc-5c5aacb5b862",
+            "parent_id": "53c02162-f384-4c28-9dd3-5c5aacb5b862",
+            "name": "永生里",
+            "lft": "4491",
+            "rght": "4492",
+            "population": "1451",
+            "population_electors": "1258",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-b450-4e1c-8d90-74a5cf91e152",
+            "keywords": "2014-11,村里長,彰化縣,彰化市,永生里"
+        },
+        "Candidate": [
+            {
+                "id": "53c027b7-b6ec-4aed-94b5-5dffacb5b862",
+                "image": "5459fb3a\/b440\/40ab\/8511\/475c8e043389.jpg",
+                "stage": "2",
+                "name": "謝清森",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "3",
+                "name_english": "HSIEH CHING SEN",
+                "election_id": "53c02168-39ac-414b-9abc-5c5aacb5b862"
+            },
+            {
+                "id": "540b54f4-1680-4351-abb3-1926acb5b862",
+                "image": "5459fb1f\/9e34\/4ba9\/86e3\/431f8e043389.jpg",
+                "stage": "1",
+                "name": "王錦松",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02168-39ac-414b-9abc-5c5aacb5b862"
+            },
+            {
+                "id": "540b54f4-7050-43cb-9d7b-1926acb5b862",
+                "image": "546c79ec\/009c\/4354\/b736\/35438e043389.jpg",
+                "stage": "1",
+                "name": "吳錦",
+                "party": "無",
+                "gender": "f",
+                "no": "2",
+                "name_english": "wu chin",
+                "election_id": "53c02168-39ac-414b-9abc-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c7d-6234-404e-b983-5460acb5b862",
+                "name": "永生里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,彰化市,永生里",
+                "AreasElection": {
+                    "id": "53c02168-8e4c-4823-9901-5c5aacb5b862",
+                    "Election_id": "53c02168-39ac-414b-9abc-5c5aacb5b862",
+                    "Area_id": "53c01c7d-6234-404e-b983-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "4417",
+                "rght": "5648",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-f384-4c28-9dd3-5c5aacb5b862",
+                "parent_id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "name": "彰化市",
+                "lft": "4418",
+                "rght": "4565",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02168-39ac-414b-9abc-5c5aacb5b862",
+                "parent_id": "53c02162-f384-4c28-9dd3-5c5aacb5b862",
+                "name": "永生里",
+                "lft": "4491",
+                "rght": "4492",
+                "population": "1451",
+                "population_electors": "1258",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-b450-4e1c-8d90-74a5cf91e152",
+                "keywords": "2014-11,村里長,彰化縣,彰化市,永生里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

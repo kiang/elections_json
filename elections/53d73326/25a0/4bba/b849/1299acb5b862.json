@@ -1,0 +1,167 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d73326-25a0-4bba-b849-1299acb5b862",
+            "parent_id": "53c020bc-79ec-4eb4-8f42-5c5aacb5b862",
+            "name": "第01選舉區[區域]",
+            "lft": "1537",
+            "rght": "1538",
+            "population": "6617",
+            "population_electors": "5056",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-3ba0-4288-a9c5-74a5cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,彰化縣,伸港鄉,第01選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b5710-b1c8-4dd6-be2b-1926acb5b862",
+                "image": "541ab2b0\/5be4\/4569\/bc17\/152dcb455a61.jpg",
+                "stage": "1",
+                "name": "陳軒樟",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "CHEN HSUAN CHANG",
+                "election_id": "53d73326-25a0-4bba-b849-1299acb5b862"
+            },
+            {
+                "id": "540b5710-b8a8-4065-909f-1926acb5b862",
+                "image": "541ab2f8\/ed54\/437d\/adb5\/152dcb455a61.jpg",
+                "stage": "2",
+                "name": "洪榮興",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "HUNG JUNG HSING",
+                "election_id": "53d73326-25a0-4bba-b849-1299acb5b862"
+            },
+            {
+                "id": "540b5710-db34-4be4-9e58-1926acb5b862",
+                "image": "541ab567\/f174\/4897\/80cb\/152dcb455a61.jpg",
+                "stage": "2",
+                "name": "林其瑞",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d73326-25a0-4bba-b849-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c8d-6300-450a-999d-5460acb5b862",
+                "name": "全興村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,伸港鄉,全興村",
+                "AreasElection": {
+                    "id": "53d73328-2bfc-4ddf-ae31-1299acb5b862",
+                    "Election_id": "53d73326-25a0-4bba-b849-1299acb5b862",
+                    "Area_id": "53c01c8d-6300-450a-999d-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c8d-db40-4dde-9ec3-5460acb5b862",
+                "name": "大同村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,伸港鄉,大同村",
+                "AreasElection": {
+                    "id": "53d73327-9214-40ac-948f-1299acb5b862",
+                    "Election_id": "53d73326-25a0-4bba-b849-1299acb5b862",
+                    "Area_id": "53c01c8d-db40-4dde-9ec3-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c8d-e3f0-49a7-a1dc-5460acb5b862",
+                "name": "海尾村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,伸港鄉,海尾村",
+                "AreasElection": {
+                    "id": "53d73327-e188-4627-92e6-1299acb5b862",
+                    "Election_id": "53d73326-25a0-4bba-b849-1299acb5b862",
+                    "Area_id": "53c01c8d-e3f0-49a7-a1dc-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020bb-fd28-4ab5-ad62-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "1497",
+                "rght": "1738",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020bc-79ec-4eb4-8f42-5c5aacb5b862",
+                "parent_id": "53c020bb-fd28-4ab5-ad62-5c5aacb5b862",
+                "name": "伸港鄉",
+                "lft": "1536",
+                "rght": "1545",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d73326-25a0-4bba-b849-1299acb5b862",
+                "parent_id": "53c020bc-79ec-4eb4-8f42-5c5aacb5b862",
+                "name": "第01選舉區[區域]",
+                "lft": "1537",
+                "rght": "1538",
+                "population": "6617",
+                "population_electors": "5056",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-3ba0-4288-a9c5-74a5cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,彰化縣,伸港鄉,第01選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

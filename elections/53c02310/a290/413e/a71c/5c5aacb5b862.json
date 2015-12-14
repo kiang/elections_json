@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02310-a290-413e-a71c-5c5aacb5b862",
+            "parent_id": "53c0230d-4e50-4e50-b9ba-5c5aacb5b862",
+            "name": "七賢里",
+            "lft": "9949",
+            "rght": "9950",
+            "population": "3272",
+            "population_electors": "2646",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c8095-494c-4211-8e25-61a3cf91e152",
+            "keywords": "2014-11,村里長,基隆市,安樂區,七賢里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0288b-f3ac-487a-aa0c-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "林慶寶",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02310-a290-413e-a71c-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01de1-67b4-4738-96c0-5460acb5b862",
+                "name": "七賢里",
+                "is_area": true,
+                "keywords": "2014,基隆市,安樂區,七賢里",
+                "AreasElection": {
+                    "id": "53c02310-8ddc-41cb-8c88-5c5aacb5b862",
+                    "Election_id": "53c02310-a290-413e-a71c-5c5aacb5b862",
+                    "Area_id": "53c01de1-67b4-4738-96c0-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "基隆市",
+                "lft": "9683",
+                "rght": "10012",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0230d-4e50-4e50-b9ba-5c5aacb5b862",
+                "parent_id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "name": "安樂區",
+                "lft": "9918",
+                "rght": "9969",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02310-a290-413e-a71c-5c5aacb5b862",
+                "parent_id": "53c0230d-4e50-4e50-b9ba-5c5aacb5b862",
+                "name": "七賢里",
+                "lft": "9949",
+                "rght": "9950",
+                "population": "3272",
+                "population_electors": "2646",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c8095-494c-4211-8e25-61a3cf91e152",
+                "keywords": "2014-11,村里長,基隆市,安樂區,七賢里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

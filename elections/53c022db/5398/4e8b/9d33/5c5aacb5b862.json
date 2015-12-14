@@ -1,0 +1,145 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c022db-5398-4e8b-9d33-5c5aacb5b862",
+            "parent_id": "53c022d8-ac24-4363-ab09-5c5aacb5b862",
+            "name": "仁安村",
+            "lft": "9293",
+            "rght": "9294",
+            "population": "2485",
+            "population_electors": "2052",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546d8db9-ae04-4022-86ce-0e51cf91e152",
+            "keywords": "2014-11,村里長,花蓮縣,吉安鄉,仁安村"
+        },
+        "Candidate": [
+            {
+                "id": "53c02870-5668-49d5-8670-5dffacb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "邱振文",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c022db-5398-4e8b-9d33-5c5aacb5b862"
+            },
+            {
+                "id": "540b5612-8ec0-41fe-aa4a-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "黃國明",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c022db-5398-4e8b-9d33-5c5aacb5b862"
+            },
+            {
+                "id": "540b5612-a630-42b9-9242-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "蔡文隆",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53c022db-5398-4e8b-9d33-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01db6-4108-4723-9287-5460acb5b862",
+                "name": "仁安村",
+                "is_area": true,
+                "keywords": "2014,花蓮縣,吉安鄉,仁安村",
+                "AreasElection": {
+                    "id": "53c022db-db24-404d-85a5-5c5aacb5b862",
+                    "Election_id": "53c022db-5398-4e8b-9d33-5c5aacb5b862",
+                    "Area_id": "53c01db6-4108-4723-9287-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022cb-ff18-4c61-98a3-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "花蓮縣",
+                "lft": "9095",
+                "rght": "9476",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022d8-ac24-4363-ab09-5c5aacb5b862",
+                "parent_id": "53c022cb-ff18-4c61-98a3-5c5aacb5b862",
+                "name": "吉安鄉",
+                "lft": "9264",
+                "rght": "9301",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022db-5398-4e8b-9d33-5c5aacb5b862",
+                "parent_id": "53c022d8-ac24-4363-ab09-5c5aacb5b862",
+                "name": "仁安村",
+                "lft": "9293",
+                "rght": "9294",
+                "population": "2485",
+                "population_electors": "2052",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546d8db9-ae04-4022-86ce-0e51cf91e152",
+                "keywords": "2014-11,村里長,花蓮縣,吉安鄉,仁安村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02573-fe1c-421a-a122-5c5aacb5b862",
+            "parent_id": "53c02572-8c28-4e05-8d65-5c5aacb5b862",
+            "name": "大雅里",
+            "lft": "17269",
+            "rght": "17270",
+            "population": "5310",
+            "population_electors": "4080",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e0691-430c-4230-89e2-1a32cf91e152",
+            "keywords": "2014-11,村里長,臺中市,大雅區,大雅里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02709-12e8-42cb-b209-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "李玲珍",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "1",
+                "name_english": "LEE LING CHEN",
+                "election_id": "53c02573-fe1c-421a-a122-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01fa4-9624-44e7-8468-5460acb5b862",
+                "name": "大雅里",
+                "is_area": true,
+                "keywords": "2014,臺中市,大雅區,大雅里",
+                "AreasElection": {
+                    "id": "53c02573-1ea8-461c-8366-5c5aacb5b862",
+                    "Election_id": "53c02573-fe1c-421a-a122-5c5aacb5b862",
+                    "Area_id": "53c01fa4-9624-44e7-8468-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02572-8c28-4e05-8d65-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "大雅區",
+                "lft": "17262",
+                "rght": "17293",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02573-fe1c-421a-a122-5c5aacb5b862",
+                "parent_id": "53c02572-8c28-4e05-8d65-5c5aacb5b862",
+                "name": "大雅里",
+                "lft": "17269",
+                "rght": "17270",
+                "population": "5310",
+                "population_electors": "4080",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e0691-430c-4230-89e2-1a32cf91e152",
+                "keywords": "2014-11,村里長,臺中市,大雅區,大雅里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

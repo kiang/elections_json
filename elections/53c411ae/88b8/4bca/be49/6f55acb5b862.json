@@ -1,0 +1,174 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c411ae-88b8-4bca-be49-6f55acb5b862",
+            "parent_id": "53c02084-c98c-49f1-8e3f-5c5aacb5b862",
+            "name": "第10選區[山地]",
+            "lft": "486",
+            "rght": "487",
+            "population": "308854",
+            "population_electors": "250944",
+            "quota": "1",
+            "quota_women": "2",
+            "bulletin_key": "54742655-45d0-44db-a682-2d82cf91e152",
+            "keywords": "2014-11,縣市議員,屏東縣,第10選區[山地]"
+        },
+        "Candidate": [
+            {
+                "id": "53c68f8c-164c-45f3-8da4-0f15acb5b862",
+                "image": "5496468d\/8760\/4d06\/af65\/16376ab936af.jpg",
+                "stage": "0",
+                "name": "林玉如",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "0",
+                "name_english": "",
+                "election_id": "53c411ae-88b8-4bca-be49-6f55acb5b862"
+            },
+            {
+                "id": "540b56ba-3e1c-4c99-8ef8-1926acb5b862",
+                "image": "5496496a\/0f38\/4be7\/a60d\/16b46ab936af.jpg",
+                "stage": "1",
+                "name": "陳生明",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "Chen Shen ming",
+                "election_id": "53c411ae-88b8-4bca-be49-6f55acb5b862"
+            },
+            {
+                "id": "540b56ba-9a5c-4580-ada6-1926acb5b862",
+                "image": "549647d9\/036c\/4989\/9ad9\/16726ab936af.jpg",
+                "stage": "2",
+                "name": "陸月嬌",
+                "party": "無",
+                "gender": "f",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c411ae-88b8-4bca-be49-6f55acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d4f-6b98-4b6a-b45b-5460acb5b862",
+                "name": "屏東市",
+                "is_area": true,
+                "keywords": "2014,屏東縣,屏東市",
+                "AreasElection": {
+                    "id": "53c411ae-9794-4c75-865c-6f55acb5b862",
+                    "Election_id": "53c411ae-88b8-4bca-be49-6f55acb5b862",
+                    "Area_id": "53c01d4f-6b98-4b6a-b45b-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d67-7d5c-4e22-934f-5460acb5b862",
+                "name": "長治鄉",
+                "is_area": true,
+                "keywords": "2014,屏東縣,長治鄉",
+                "AreasElection": {
+                    "id": "53c411b3-c19c-4013-9102-6f55acb5b862",
+                    "Election_id": "53c411ae-88b8-4bca-be49-6f55acb5b862",
+                    "Area_id": "53c01d67-7d5c-4e22-934f-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d6a-d440-4dd9-a28e-5460acb5b862",
+                "name": "麟洛鄉",
+                "is_area": true,
+                "keywords": "2014,屏東縣,麟洛鄉",
+                "AreasElection": {
+                    "id": "53c411b4-9304-4c2c-a542-6f55acb5b862",
+                    "Election_id": "53c411ae-88b8-4bca-be49-6f55acb5b862",
+                    "Area_id": "53c01d6a-d440-4dd9-a28e-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d75-1f54-49eb-a9cc-5460acb5b862",
+                "name": "內埔鄉",
+                "is_area": true,
+                "keywords": "2014,屏東縣,內埔鄉",
+                "AreasElection": {
+                    "id": "53c411b5-9794-4829-bd3b-6f55acb5b862",
+                    "Election_id": "53c411ae-88b8-4bca-be49-6f55acb5b862",
+                    "Area_id": "53c01d75-1f54-49eb-a9cc-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d8e-0aa0-4b23-8d26-5460acb5b862",
+                "name": "瑪家鄉",
+                "is_area": true,
+                "keywords": "2014,屏東縣,瑪家鄉",
+                "AreasElection": {
+                    "id": "53c411b7-6f60-4595-ab54-6f55acb5b862",
+                    "Election_id": "53c411ae-88b8-4bca-be49-6f55acb5b862",
+                    "Area_id": "53c01d8e-0aa0-4b23-8d26-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "縣市議員",
+                "lft": "306",
+                "rght": "607",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02084-c98c-49f1-8e3f-5c5aacb5b862",
+                "parent_id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "467",
+                "rght": "500",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c411ae-88b8-4bca-be49-6f55acb5b862",
+                "parent_id": "53c02084-c98c-49f1-8e3f-5c5aacb5b862",
+                "name": "第10選區[山地]",
+                "lft": "486",
+                "rght": "487",
+                "population": "308854",
+                "population_electors": "250944",
+                "quota": "1",
+                "quota_women": "2",
+                "bulletin_key": "54742655-45d0-44db-a682-2d82cf91e152",
+                "keywords": "2014-11,縣市議員,屏東縣,第10選區[山地]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

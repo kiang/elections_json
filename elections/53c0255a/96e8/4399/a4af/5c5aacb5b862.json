@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0255a-96e8-4399-a4af-5c5aacb5b862",
+            "parent_id": "53c02557-f2ec-4bd9-8f8c-5c5aacb5b862",
+            "name": "武曲里",
+            "lft": "16987",
+            "rght": "16988",
+            "population": "2238",
+            "population_electors": "1719",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c6157-fac0-4fdc-b7ee-573fcf91e152",
+            "keywords": "2014-11,村里長,臺中市,大甲區,武曲里"
+        },
+        "Candidate": [
+            {
+                "id": "53c026fe-69f4-4f0b-8458-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "廖温恭",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c0255a-96e8-4399-a4af-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01f8f-b4e4-4f25-a969-5460acb5b862",
+                "name": "武曲里",
+                "is_area": true,
+                "keywords": "2014,臺中市,大甲區,武曲里",
+                "AreasElection": {
+                    "id": "53c0255a-a728-4d66-9e3d-5c5aacb5b862",
+                    "Election_id": "53c0255a-96e8-4399-a4af-5c5aacb5b862",
+                    "Area_id": "53c01f8f-b4e4-4f25-a969-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02557-f2ec-4bd9-8f8c-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "大甲區",
+                "lft": "16956",
+                "rght": "17015",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0255a-96e8-4399-a4af-5c5aacb5b862",
+                "parent_id": "53c02557-f2ec-4bd9-8f8c-5c5aacb5b862",
+                "name": "武曲里",
+                "lft": "16987",
+                "rght": "16988",
+                "population": "2238",
+                "population_electors": "1719",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c6157-fac0-4fdc-b7ee-573fcf91e152",
+                "keywords": "2014-11,村里長,臺中市,大甲區,武曲里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

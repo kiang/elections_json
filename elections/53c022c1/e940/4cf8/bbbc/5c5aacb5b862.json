@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c022c1-e940-4cf8-bbbc-5c5aacb5b862",
+            "parent_id": "53c022c0-3a04-491e-8147-5c5aacb5b862",
+            "name": "振興村",
+            "lft": "8953",
+            "rght": "8954",
+            "population": "508",
+            "population_electors": "415",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546f277f-15ec-4bed-9747-2f28cf91e152",
+            "keywords": "2014-11,村里長,臺東縣,池上鄉,振興村"
+        },
+        "Candidate": [
+            {
+                "id": "53c02864-b3fc-4e4e-9f70-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "張壯鑑",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c022c1-e940-4cf8-bbbc-5c5aacb5b862"
+            },
+            {
+                "id": "540b562c-ebe8-4649-b928-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "潘寶生",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c022c1-e940-4cf8-bbbc-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01da1-8728-40b2-9bce-5460acb5b862",
+                "name": "振興村",
+                "is_area": true,
+                "keywords": "2014,臺東縣,池上鄉,振興村",
+                "AreasElection": {
+                    "id": "53c022c1-9a98-4622-a656-5c5aacb5b862",
+                    "Election_id": "53c022c1-e940-4cf8-bbbc-5c5aacb5b862",
+                    "Area_id": "53c01da1-8728-40b2-9bce-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022b2-b9f0-4517-825f-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺東縣",
+                "lft": "8767",
+                "rght": "9094",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022c0-3a04-491e-8147-5c5aacb5b862",
+                "parent_id": "53c022b2-b9f0-4517-825f-5c5aacb5b862",
+                "name": "池上鄉",
+                "lft": "8940",
+                "rght": "8961",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022c1-e940-4cf8-bbbc-5c5aacb5b862",
+                "parent_id": "53c022c0-3a04-491e-8147-5c5aacb5b862",
+                "name": "振興村",
+                "lft": "8953",
+                "rght": "8954",
+                "population": "508",
+                "population_electors": "415",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546f277f-15ec-4bed-9747-2f28cf91e152",
+                "keywords": "2014-11,村里長,臺東縣,池上鄉,振興村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

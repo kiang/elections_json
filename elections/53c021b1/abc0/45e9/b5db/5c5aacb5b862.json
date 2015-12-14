@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c021b1-abc0-45e9-b5db-5c5aacb5b862",
+            "parent_id": "53c021af-e0f0-43f8-b277-5c5aacb5b862",
+            "name": "新厝村",
+            "lft": "5449",
+            "rght": "5450",
+            "population": "302",
+            "population_electors": "251",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-8c4c-4f69-b92e-74a5cf91e152",
+            "keywords": "2014-11,村里長,彰化縣,田尾鄉,新厝村"
+        },
+        "Candidate": [
+            {
+                "id": "53c027dd-01e8-4b16-9996-5dffacb5b862",
+                "image": "5462e829\/55b0\/4bed\/bb45\/3b9a8e043389.jpg",
+                "stage": "0",
+                "name": "詹德順",
+                "party": "",
+                "gender": "m",
+                "no": "0",
+                "name_english": "",
+                "election_id": "53c021b1-abc0-45e9-b5db-5c5aacb5b862"
+            },
+            {
+                "id": "540b5529-4848-46bb-8bde-1926acb5b862",
+                "image": "5462e810\/8660\/4ffe\/9f68\/3b9a8e043389.jpg",
+                "stage": "2",
+                "name": "羅暉杉",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "LO HUI SHAN",
+                "election_id": "53c021b1-abc0-45e9-b5db-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01cbb-fa68-4040-8fde-5460acb5b862",
+                "name": "新厝村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,田尾鄉,新厝村",
+                "AreasElection": {
+                    "id": "53c021b2-f1b0-4f12-85b0-5c5aacb5b862",
+                    "Election_id": "53c021b1-abc0-45e9-b5db-5c5aacb5b862",
+                    "Area_id": "53c01cbb-fa68-4040-8fde-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "4417",
+                "rght": "5648",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021af-e0f0-43f8-b277-5c5aacb5b862",
+                "parent_id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "name": "田尾鄉",
+                "lft": "5414",
+                "rght": "5455",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021b1-abc0-45e9-b5db-5c5aacb5b862",
+                "parent_id": "53c021af-e0f0-43f8-b277-5c5aacb5b862",
+                "name": "新厝村",
+                "lft": "5449",
+                "rght": "5450",
+                "population": "302",
+                "population_electors": "251",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-8c4c-4f69-b92e-74a5cf91e152",
+                "keywords": "2014-11,村里長,彰化縣,田尾鄉,新厝村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

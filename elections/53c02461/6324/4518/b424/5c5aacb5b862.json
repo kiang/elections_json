@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02461-6324-4518-b424-5c5aacb5b862",
+            "parent_id": "53c0245f-81d4-4832-b30b-5c5aacb5b862",
+            "name": "寶來里",
+            "lft": "14145",
+            "rght": "14146",
+            "population": "1102",
+            "population_electors": "925",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb721-ba70-4ac2-a254-2adbcf91e152",
+            "keywords": "2014-11,村里長,高雄市,六龜區,寶來里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02696-cc44-42f1-85fb-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "沈振揚",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02461-6324-4518-b424-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01ebf-42d0-43c9-a003-5460acb5b862",
+                "name": "寶來里",
+                "is_area": true,
+                "keywords": "2014,高雄市,六龜區,寶來里",
+                "AreasElection": {
+                    "id": "53c02462-949c-4155-a84c-5c5aacb5b862",
+                    "Election_id": "53c02461-6324-4518-b424-5c5aacb5b862",
+                    "Area_id": "53c01ebf-42d0-43c9-a003-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0245f-81d4-4832-b30b-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "六龜區",
+                "lft": "14128",
+                "rght": "14153",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02461-6324-4518-b424-5c5aacb5b862",
+                "parent_id": "53c0245f-81d4-4832-b30b-5c5aacb5b862",
+                "name": "寶來里",
+                "lft": "14145",
+                "rght": "14146",
+                "population": "1102",
+                "population_electors": "925",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb721-ba70-4ac2-a254-2adbcf91e152",
+                "keywords": "2014-11,村里長,高雄市,六龜區,寶來里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

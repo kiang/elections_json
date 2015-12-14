@@ -1,0 +1,174 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c41087-9850-447b-9e60-6f55acb5b862",
+            "parent_id": "53c02083-9f68-4304-a1b8-5c5aacb5b862",
+            "name": "第06選區[區域]",
+            "lft": "392",
+            "rght": "393",
+            "population": "44855",
+            "population_electors": "36911",
+            "quota": "3",
+            "quota_women": "0",
+            "bulletin_key": "546b0806-7a48-4f7d-ae3f-2ff0cf91e152",
+            "keywords": "2014-11,縣市議員,苗栗縣,第06選區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "53c68f7a-0420-461c-a909-0f15acb5b862",
+                "image": "5495b1ce\/1ef4\/4d88\/bdc4\/030b6ab936af.jpg",
+                "stage": "2",
+                "name": "楊恭林",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53c41087-9850-447b-9e60-6f55acb5b862"
+            },
+            {
+                "id": "53c68f7a-470c-4cd8-a560-0f15acb5b862",
+                "image": "5495b269\/1810\/494a\/8faf\/03306ab936af.jpg",
+                "stage": "2",
+                "name": "徐欽鴻",
+                "party": "無",
+                "gender": "m",
+                "no": "4",
+                "name_english": "",
+                "election_id": "53c41087-9850-447b-9e60-6f55acb5b862"
+            },
+            {
+                "id": "53c68f7a-6284-4822-a7fe-0f15acb5b862",
+                "image": "5495b21e\/8ba8\/4ad2\/8497\/03036ab936af.jpg",
+                "stage": "1",
+                "name": "楊慶汶",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c41087-9850-447b-9e60-6f55acb5b862"
+            },
+            {
+                "id": "540b56a4-9c00-456f-96d5-1926acb5b862",
+                "image": "5495b29b\/2c54\/4378\/93d9\/032e6ab936af.jpg",
+                "stage": "2",
+                "name": "陳春暖",
+                "party": "民主進步黨",
+                "gender": "f",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c41087-9850-447b-9e60-6f55acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c67-abb0-4229-b1c4-5460acb5b862",
+                "name": "卓蘭鎮",
+                "is_area": true,
+                "keywords": "2014,苗栗縣,卓蘭鎮",
+                "AreasElection": {
+                    "id": "53c41088-db48-4e46-a74e-6f55acb5b862",
+                    "Election_id": "53c41087-9850-447b-9e60-6f55acb5b862",
+                    "Area_id": "53c01c67-abb0-4229-b1c4-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c68-a478-4fce-bcd2-5460acb5b862",
+                "name": "大湖鄉",
+                "is_area": true,
+                "keywords": "2014,苗栗縣,大湖鄉",
+                "AreasElection": {
+                    "id": "53c4108a-6690-4136-acd8-6f55acb5b862",
+                    "Election_id": "53c41087-9850-447b-9e60-6f55acb5b862",
+                    "Area_id": "53c01c68-a478-4fce-bcd2-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c76-b19c-4129-8031-5460acb5b862",
+                "name": "獅潭鄉",
+                "is_area": true,
+                "keywords": "2014,苗栗縣,獅潭鄉",
+                "AreasElection": {
+                    "id": "53c4108a-d804-4ed6-92ad-6f55acb5b862",
+                    "Election_id": "53c41087-9850-447b-9e60-6f55acb5b862",
+                    "Area_id": "53c01c76-b19c-4129-8031-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01c78-9978-43bf-96f5-5460acb5b862",
+                "name": "泰安鄉",
+                "is_area": true,
+                "keywords": "2014,苗栗縣,泰安鄉",
+                "AreasElection": {
+                    "id": "53c4108b-5588-476c-93dc-6f55acb5b862",
+                    "Election_id": "53c41087-9850-447b-9e60-6f55acb5b862",
+                    "Area_id": "53c01c78-9978-43bf-96f5-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "縣市議員",
+                "lft": "306",
+                "rght": "607",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02083-9f68-4304-a1b8-5c5aacb5b862",
+                "parent_id": "53c0202f-4f58-4419-8d07-5460acb5b862",
+                "name": "苗栗縣",
+                "lft": "381",
+                "rght": "398",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c41087-9850-447b-9e60-6f55acb5b862",
+                "parent_id": "53c02083-9f68-4304-a1b8-5c5aacb5b862",
+                "name": "第06選區[區域]",
+                "lft": "392",
+                "rght": "393",
+                "population": "44855",
+                "population_electors": "36911",
+                "quota": "3",
+                "quota_women": "0",
+                "bulletin_key": "546b0806-7a48-4f7d-ae3f-2ff0cf91e152",
+                "keywords": "2014-11,縣市議員,苗栗縣,第06選區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

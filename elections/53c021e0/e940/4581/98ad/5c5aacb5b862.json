@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c021e0-e940-4581-98ad-5c5aacb5b862",
+            "parent_id": "53c021dc-486c-49bd-9fe5-5c5aacb5b862",
+            "name": "龍岩村",
+            "lft": "6035",
+            "rght": "6036",
+            "population": "776",
+            "population_electors": "649",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "keywords": "2014-11,村里長,南投縣,中寮鄉,龍岩村"
+        },
+        "Candidate": [
+            {
+                "id": "53c027f5-5638-4135-888c-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "謝炫樵",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c021e0-e940-4581-98ad-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01cde-bad8-4f79-98d0-5460acb5b862",
+                "name": "龍岩村",
+                "is_area": true,
+                "keywords": "2014,南投縣,中寮鄉,龍岩村",
+                "AreasElection": {
+                    "id": "53c021e0-cbb0-4fa2-9a70-5c5aacb5b862",
+                    "Election_id": "53c021e0-e940-4581-98ad-5c5aacb5b862",
+                    "Area_id": "53c01cde-bad8-4f79-98d0-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "南投縣",
+                "lft": "5649",
+                "rght": "6200",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021dc-486c-49bd-9fe5-5c5aacb5b862",
+                "parent_id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "name": "中寮鄉",
+                "lft": "6002",
+                "rght": "6039",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021e0-e940-4581-98ad-5c5aacb5b862",
+                "parent_id": "53c021dc-486c-49bd-9fe5-5c5aacb5b862",
+                "name": "龍岩村",
+                "lft": "6035",
+                "rght": "6036",
+                "population": "776",
+                "population_electors": "649",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2014-11,村里長,南投縣,中寮鄉,龍岩村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

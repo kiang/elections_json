@@ -1,0 +1,156 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d7344a-0644-4189-b464-1299acb5b862",
+            "parent_id": "53c020d3-501c-430e-b188-5c5aacb5b862",
+            "name": "第02選舉區[區域]",
+            "lft": "2287",
+            "rght": "2288",
+            "population": "3259",
+            "population_electors": "2769",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5475673a-0ccc-43fe-a683-0f78cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,屏東縣,鹽埔鄉,第02選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b5792-4b9c-4f11-a2d2-1926acb5b862",
+                "image": "54d4a273\/5dd4\/4a8e\/ac21\/71946ab936af.jpg",
+                "stage": "1",
+                "name": "葉慶祿",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53d7344a-0644-4189-b464-1299acb5b862"
+            },
+            {
+                "id": "540b5792-8538-4146-8a31-1926acb5b862",
+                "image": "54d4a257\/6ecc\/4681\/b171\/71996ab936af.jpg",
+                "stage": "1",
+                "name": "吳道雄",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53d7344a-0644-4189-b464-1299acb5b862"
+            },
+            {
+                "id": "540b5792-f28c-46cb-a03a-1926acb5b862",
+                "image": "54d4a235\/8490\/4af8\/b653\/0cd76ab936af.jpg",
+                "stage": "2",
+                "name": "許昆郎",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d7344a-0644-4189-b464-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d6f-5554-416d-b253-5460acb5b862",
+                "name": "振興村",
+                "is_area": true,
+                "keywords": "2014,屏東縣,鹽埔鄉,振興村",
+                "AreasElection": {
+                    "id": "53d7344b-7370-4c41-a4ad-1299acb5b862",
+                    "Election_id": "53d7344a-0644-4189-b464-1299acb5b862",
+                    "Area_id": "53c01d6f-5554-416d-b253-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01d70-b718-4a7f-a2d0-5460acb5b862",
+                "name": "久愛村",
+                "is_area": true,
+                "keywords": "2014,屏東縣,鹽埔鄉,久愛村",
+                "AreasElection": {
+                    "id": "53d7344b-fe80-48a0-a428-1299acb5b862",
+                    "Election_id": "53d7344a-0644-4189-b464-1299acb5b862",
+                    "Area_id": "53c01d70-b718-4a7f-a2d0-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ce-0798-4ae9-af49-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "2197",
+                "rght": "2484",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020d3-501c-430e-b188-5c5aacb5b862",
+                "parent_id": "53c020ce-0798-4ae9-af49-5c5aacb5b862",
+                "name": "鹽埔鄉",
+                "lft": "2284",
+                "rght": "2293",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d7344a-0644-4189-b464-1299acb5b862",
+                "parent_id": "53c020d3-501c-430e-b188-5c5aacb5b862",
+                "name": "第02選舉區[區域]",
+                "lft": "2287",
+                "rght": "2288",
+                "population": "3259",
+                "population_electors": "2769",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5475673a-0ccc-43fe-a683-0f78cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,屏東縣,鹽埔鄉,第02選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

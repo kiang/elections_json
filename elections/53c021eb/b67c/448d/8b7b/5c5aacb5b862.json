@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c021eb-b67c-448d-8b7b-5c5aacb5b862",
+            "parent_id": "53c021e9-84c0-45bf-8daf-5c5aacb5b862",
+            "name": "都達村",
+            "lft": "6191",
+            "rght": "6192",
+            "population": "808",
+            "population_electors": "605",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54735d55-0af4-4c80-a747-21eacf91e152",
+            "keywords": "2014-11,村里長,南投縣,仁愛鄉,都達村"
+        },
+        "Candidate": [
+            {
+                "id": "540b5552-3164-494d-8962-1926acb5b862",
+                "image": "",
+                "stage": "1",
+                "name": "阿烏伊．帖木",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c021eb-b67c-448d-8b7b-5c5aacb5b862"
+            },
+            {
+                "id": "540b5552-d0e4-4245-8b8c-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "洪光勇",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "Hong Guang Yong",
+                "election_id": "53c021eb-b67c-448d-8b7b-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01ce7-6fe4-4e06-bacd-5460acb5b862",
+                "name": "都達村",
+                "is_area": true,
+                "keywords": "2014,南投縣,仁愛鄉,都達村",
+                "AreasElection": {
+                    "id": "53c021eb-82cc-47f6-b613-5c5aacb5b862",
+                    "Election_id": "53c021eb-b67c-448d-8b7b-5c5aacb5b862",
+                    "Area_id": "53c01ce7-6fe4-4e06-bacd-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "南投縣",
+                "lft": "5649",
+                "rght": "6200",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021e9-84c0-45bf-8daf-5c5aacb5b862",
+                "parent_id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "name": "仁愛鄉",
+                "lft": "6166",
+                "rght": "6199",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021eb-b67c-448d-8b7b-5c5aacb5b862",
+                "parent_id": "53c021e9-84c0-45bf-8daf-5c5aacb5b862",
+                "name": "都達村",
+                "lft": "6191",
+                "rght": "6192",
+                "population": "808",
+                "population_electors": "605",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54735d55-0af4-4c80-a747-21eacf91e152",
+                "keywords": "2014-11,村里長,南投縣,仁愛鄉,都達村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

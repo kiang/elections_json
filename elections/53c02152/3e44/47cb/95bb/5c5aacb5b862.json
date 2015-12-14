@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02152-3e44-47cb-95bb-5c5aacb5b862",
+            "parent_id": "53c02150-4ee4-4a2a-b413-5c5aacb5b862",
+            "name": "富興村",
+            "lft": "4201",
+            "rght": "4202",
+            "population": "1700",
+            "population_electors": "1404",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546d8dba-e6b0-4d0a-8b7d-0e51cf91e152",
+            "keywords": "2014-11,村里長,苗栗縣,大湖鄉,富興村"
+        },
+        "Candidate": [
+            {
+                "id": "53c027ab-e198-46b9-879f-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "涂德滄",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02152-3e44-47cb-95bb-5c5aacb5b862"
+            },
+            {
+                "id": "540b54e3-b628-446d-ade3-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "黃金生",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c02152-3e44-47cb-95bb-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c69-d85c-4ec4-b656-5460acb5b862",
+                "name": "富興村",
+                "is_area": true,
+                "keywords": "2014,苗栗縣,大湖鄉,富興村",
+                "AreasElection": {
+                    "id": "53c02152-92c4-4417-acfa-5c5aacb5b862",
+                    "Election_id": "53c02152-3e44-47cb-95bb-5c5aacb5b862",
+                    "Area_id": "53c01c69-d85c-4ec4-b656-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02135-5cc8-4f9d-a971-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "苗栗縣",
+                "lft": "3831",
+                "rght": "4416",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02150-4ee4-4a2a-b413-5c5aacb5b862",
+                "parent_id": "53c02135-5cc8-4f9d-a971-5c5aacb5b862",
+                "name": "大湖鄉",
+                "lft": "4182",
+                "rght": "4207",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02152-3e44-47cb-95bb-5c5aacb5b862",
+                "parent_id": "53c02150-4ee4-4a2a-b413-5c5aacb5b862",
+                "name": "富興村",
+                "lft": "4201",
+                "rght": "4202",
+                "population": "1700",
+                "population_electors": "1404",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546d8dba-e6b0-4d0a-8b7d-0e51cf91e152",
+                "keywords": "2014-11,村里長,苗栗縣,大湖鄉,富興村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

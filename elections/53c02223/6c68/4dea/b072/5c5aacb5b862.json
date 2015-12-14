@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02223-6c68-4dea-b072-5c5aacb5b862",
+            "parent_id": "53c02223-dbd4-4252-afb7-5c5aacb5b862",
+            "name": "埔南村",
+            "lft": "6925",
+            "rght": "6926",
+            "population": "843",
+            "population_electors": "728",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54744c85-a9bc-4a3b-b6e8-45dccf91e152",
+            "keywords": "2014-11,村里長,雲林縣,口湖鄉,埔南村"
+        },
+        "Candidate": [
+            {
+                "id": "53c02819-899c-4612-8775-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "呂永添",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02223-6c68-4dea-b072-5c5aacb5b862"
+            },
+            {
+                "id": "540b5580-cfe8-4488-9147-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "謝榮",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c02223-6c68-4dea-b072-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d15-32d8-42df-b3d2-5460acb5b862",
+                "name": "埔南村",
+                "is_area": true,
+                "keywords": "2014,雲林縣,口湖鄉,埔南村",
+                "AreasElection": {
+                    "id": "53c02223-0514-42ba-8760-5c5aacb5b862",
+                    "Election_id": "53c02223-6c68-4dea-b072-5c5aacb5b862",
+                    "Area_id": "53c01d15-32d8-42df-b3d2-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "6201",
+                "rght": "7018",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02223-dbd4-4252-afb7-5c5aacb5b862",
+                "parent_id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "name": "口湖鄉",
+                "lft": "6924",
+                "rght": "6967",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02223-6c68-4dea-b072-5c5aacb5b862",
+                "parent_id": "53c02223-dbd4-4252-afb7-5c5aacb5b862",
+                "name": "埔南村",
+                "lft": "6925",
+                "rght": "6926",
+                "population": "843",
+                "population_electors": "728",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54744c85-a9bc-4a3b-b6e8-45dccf91e152",
+                "keywords": "2014-11,村里長,雲林縣,口湖鄉,埔南村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

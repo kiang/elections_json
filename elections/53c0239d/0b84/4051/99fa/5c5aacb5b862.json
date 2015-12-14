@@ -1,0 +1,167 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0239d-0b84-4051-99fa-5c5aacb5b862",
+            "parent_id": "53c02396-dd04-4dbc-a350-5c5aacb5b862",
+            "name": "虎嘯里",
+            "lft": "11693",
+            "rght": "11694",
+            "population": "3816",
+            "population_electors": "3184",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-bbec-4735-89dd-4187cf91e152",
+            "keywords": "2014-11,村里長,臺北市,大安區,虎嘯里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02637-e080-4fa1-b45c-5dffacb5b862",
+                "image": null,
+                "stage": "0",
+                "name": "楊吳港",
+                "party": null,
+                "gender": null,
+                "no": "0",
+                "name_english": "",
+                "election_id": "53c0239d-0b84-4051-99fa-5c5aacb5b862"
+            },
+            {
+                "id": "540b52ea-bae0-401b-9b6f-1926acb5b862",
+                "image": "542d3be2\/c1c0\/4c97\/83d5\/76c9cb455a61.jpg",
+                "stage": "2",
+                "name": "詹仲琪",
+                "party": "無",
+                "gender": "m",
+                "no": "4",
+                "name_english": "Chan James",
+                "election_id": "53c0239d-0b84-4051-99fa-5c5aacb5b862"
+            },
+            {
+                "id": "540b52ea-be3c-40b9-b62a-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "林玉蘭",
+                "party": "無",
+                "gender": "f",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c0239d-0b84-4051-99fa-5c5aacb5b862"
+            },
+            {
+                "id": "540b52ea-cd40-407d-aef4-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "楊坤哲",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c0239d-0b84-4051-99fa-5c5aacb5b862"
+            },
+            {
+                "id": "540b52ea-f79c-4195-8471-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "陳玉冠",
+                "party": "無",
+                "gender": "f",
+                "no": "3",
+                "name_english": "CHEN YU KUAN",
+                "election_id": "53c0239d-0b84-4051-99fa-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01e16-cee0-4999-a46b-5460acb5b862",
+                "name": "虎嘯里",
+                "is_area": true,
+                "keywords": "2014,臺北市,大安區,虎嘯里",
+                "AreasElection": {
+                    "id": "53c0239d-4f3c-4afd-a32a-5c5aacb5b862",
+                    "Election_id": "53c0239d-0b84-4051-99fa-5c5aacb5b862",
+                    "Area_id": "53c01e16-cee0-4999-a46b-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02396-dd04-4dbc-a350-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "大安區",
+                "lft": "11610",
+                "rght": "11717",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0239d-0b84-4051-99fa-5c5aacb5b862",
+                "parent_id": "53c02396-dd04-4dbc-a350-5c5aacb5b862",
+                "name": "虎嘯里",
+                "lft": "11693",
+                "rght": "11694",
+                "population": "3816",
+                "population_electors": "3184",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-bbec-4735-89dd-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,大安區,虎嘯里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

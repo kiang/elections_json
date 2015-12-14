@@ -1,0 +1,178 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c023c4-39cc-4353-9ebf-5c5aacb5b862",
+            "parent_id": "53c023c0-6e24-4314-83f8-5c5aacb5b862",
+            "name": "東湖里",
+            "lft": "12171",
+            "rght": "12172",
+            "population": "8870",
+            "population_electors": "6791",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-08d8-4cca-9dfe-4187cf91e152",
+            "keywords": "2014-11,村里長,臺北市,內湖區,東湖里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02649-cbd8-4c82-a700-5dffacb5b862",
+                "image": null,
+                "stage": "0",
+                "name": "曾濬紳",
+                "party": null,
+                "gender": null,
+                "no": "0",
+                "name_english": "",
+                "election_id": "53c023c4-39cc-4353-9ebf-5c5aacb5b862"
+            },
+            {
+                "id": "540b5306-4490-4eb4-98eb-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "黃婷筠",
+                "party": "樹黨",
+                "gender": "f",
+                "no": "4",
+                "name_english": "HUANG TING YUN",
+                "election_id": "53c023c4-39cc-4353-9ebf-5c5aacb5b862"
+            },
+            {
+                "id": "540b5306-48a0-4b06-a293-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "林丕常",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "LIN PI CHANG",
+                "election_id": "53c023c4-39cc-4353-9ebf-5c5aacb5b862"
+            },
+            {
+                "id": "540b5306-886c-468e-ac64-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "廖清柳",
+                "party": "無",
+                "gender": "f",
+                "no": "5",
+                "name_english": "LIAO CHING LIU",
+                "election_id": "53c023c4-39cc-4353-9ebf-5c5aacb5b862"
+            },
+            {
+                "id": "540b5306-b8c4-4483-9cc4-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "曾秉鈞",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "TSENG PING CHUN",
+                "election_id": "53c023c4-39cc-4353-9ebf-5c5aacb5b862"
+            },
+            {
+                "id": "540b5306-f420-43bf-b7bf-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "蔡麗美",
+                "party": "無",
+                "gender": "f",
+                "no": "2",
+                "name_english": "TSAI LI MEI",
+                "election_id": "53c023c4-39cc-4353-9ebf-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01e36-f250-487b-87a8-5460acb5b862",
+                "name": "東湖里",
+                "is_area": true,
+                "keywords": "2014,臺北市,內湖區,東湖里",
+                "AreasElection": {
+                    "id": "53c023c5-b04c-4441-95b6-5c5aacb5b862",
+                    "Election_id": "53c023c4-39cc-4353-9ebf-5c5aacb5b862",
+                    "Area_id": "53c01e36-f250-487b-87a8-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023c0-6e24-4314-83f8-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "內湖區",
+                "lft": "12124",
+                "rght": "12203",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023c4-39cc-4353-9ebf-5c5aacb5b862",
+                "parent_id": "53c023c0-6e24-4314-83f8-5c5aacb5b862",
+                "name": "東湖里",
+                "lft": "12171",
+                "rght": "12172",
+                "population": "8870",
+                "population_electors": "6791",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-08d8-4cca-9dfe-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,內湖區,東湖里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

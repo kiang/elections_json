@@ -1,0 +1,126 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0207c-cb48-429a-bac9-5c5aacb5b862",
+            "parent_id": "53c0202e-ed38-44bb-8e78-5460acb5b862",
+            "name": "臺中市",
+            "lft": "11",
+            "rght": "12",
+            "population": "2712948",
+            "population_electors": "2099294",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068f-8d1c-42f0-a24b-1a32cf91e152",
+            "keywords": "2014-11,直轄市長,臺中市"
+        },
+        "Candidate": [
+            {
+                "id": "53c028a3-b9f0-4b80-a241-5dffacb5b862",
+                "image": "542d5c35\/ce64\/4b96\/b018\/16fccb455a61.jpg",
+                "stage": "0",
+                "name": "梅峰",
+                "party": "無",
+                "gender": "m",
+                "no": "0",
+                "name_english": "Mei, Feng",
+                "election_id": "53c0207c-cb48-429a-bac9-5c5aacb5b862"
+            },
+            {
+                "id": "53c028a4-d940-49c6-99bf-5dffacb5b862",
+                "image": "542a9d9a\/f920\/413e\/89c7\/3738cb455a61.jpg",
+                "stage": "0",
+                "name": "石大哉",
+                "party": "中國青年黨",
+                "gender": "m",
+                "no": "0",
+                "name_english": "",
+                "election_id": "53c0207c-cb48-429a-bac9-5c5aacb5b862"
+            },
+            {
+                "id": "53c028c0-e3e4-4570-a92d-5dffacb5b862",
+                "image": "55fac4af\/f450\/49bd\/8358\/261f6ab936af.jpg",
+                "stage": "1",
+                "name": "胡志強",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "HU CHIH CHIANG",
+                "election_id": "53c0207c-cb48-429a-bac9-5c5aacb5b862"
+            },
+            {
+                "id": "53c028c2-16d8-410b-93d0-5dffacb5b862",
+                "image": "5602b2dd\/a624\/4139\/b7c8\/466d6ab936af.jpg",
+                "stage": "2",
+                "name": "林佳龍",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "Lin chia lung",
+                "election_id": "53c0207c-cb48-429a-bac9-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01f64-2fa8-45d4-8254-5460acb5b862",
+                "name": "臺中市",
+                "is_area": true,
+                "keywords": "2014,臺中市",
+                "AreasElection": {
+                    "id": "53c0207c-c238-429c-a696-5c5aacb5b862",
+                    "Election_id": "53c0207c-cb48-429a-bac9-5c5aacb5b862",
+                    "Area_id": "53c01f64-2fa8-45d4-8254-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0202e-ed38-44bb-8e78-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "直轄市長",
+                "lft": "2",
+                "rght": "15",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0207c-cb48-429a-bac9-5c5aacb5b862",
+                "parent_id": "53c0202e-ed38-44bb-8e78-5460acb5b862",
+                "name": "臺中市",
+                "lft": "11",
+                "rght": "12",
+                "population": "2712948",
+                "population_electors": "2099294",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068f-8d1c-42f0-a24b-1a32cf91e152",
+                "keywords": "2014-11,直轄市長,臺中市"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

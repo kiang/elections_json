@@ -1,0 +1,178 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d734a7-bc6c-46ab-8e45-1299acb5b862",
+            "parent_id": "53c020dd-923c-4a59-99ea-5c5aacb5b862",
+            "name": "第02選舉區[區域]",
+            "lft": "2617",
+            "rght": "2618",
+            "population": "4281",
+            "population_electors": "3160",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546d8dba-f45c-4773-9e99-0e51cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,花蓮縣,花蓮市,第02選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b57c9-e404-4d2d-8088-1926acb5b862",
+                "image": "54a3d814\/577c\/4a37\/8e6c\/3fe16ab936af.jpg",
+                "stage": "2",
+                "name": "楊士弘",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d734a7-bc6c-46ab-8e45-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01daa-07a0-43a4-883a-5460acb5b862",
+                "name": "民族里",
+                "is_area": true,
+                "keywords": "2014,花蓮縣,花蓮市,民族里",
+                "AreasElection": {
+                    "id": "53d734a7-95dc-4488-93df-1299acb5b862",
+                    "Election_id": "53d734a7-bc6c-46ab-8e45-1299acb5b862",
+                    "Area_id": "53c01daa-07a0-43a4-883a-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01dab-bff0-4e80-ad5a-5460acb5b862",
+                "name": "民治里",
+                "is_area": true,
+                "keywords": "2014,花蓮縣,花蓮市,民治里",
+                "AreasElection": {
+                    "id": "53d734a7-462c-4aa2-ab9b-1299acb5b862",
+                    "Election_id": "53d734a7-bc6c-46ab-8e45-1299acb5b862",
+                    "Area_id": "53c01dab-bff0-4e80-ad5a-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01dac-6210-4859-89af-5460acb5b862",
+                "name": "民生里",
+                "is_area": true,
+                "keywords": "2014,花蓮縣,花蓮市,民生里",
+                "AreasElection": {
+                    "id": "53d734a7-16e8-440b-a7f4-1299acb5b862",
+                    "Election_id": "53d734a7-bc6c-46ab-8e45-1299acb5b862",
+                    "Area_id": "53c01dac-6210-4859-89af-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01dad-471c-46e4-9d38-5460acb5b862",
+                "name": "民主里",
+                "is_area": true,
+                "keywords": "2014,花蓮縣,花蓮市,民主里",
+                "AreasElection": {
+                    "id": "53d734a7-40d8-455e-aab7-1299acb5b862",
+                    "Election_id": "53d734a7-bc6c-46ab-8e45-1299acb5b862",
+                    "Area_id": "53c01dad-471c-46e4-9d38-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01dae-3dc4-4ea5-8d41-5460acb5b862",
+                "name": "民有里",
+                "is_area": true,
+                "keywords": "2014,花蓮縣,花蓮市,民有里",
+                "AreasElection": {
+                    "id": "53d734a7-1b74-42b6-a2d7-1299acb5b862",
+                    "Election_id": "53d734a7-bc6c-46ab-8e45-1299acb5b862",
+                    "Area_id": "53c01dae-3dc4-4ea5-8d41-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01dae-c618-4a25-af30-5460acb5b862",
+                "name": "民權里",
+                "is_area": true,
+                "keywords": "2014,花蓮縣,花蓮市,民權里",
+                "AreasElection": {
+                    "id": "53d734a7-fda0-4e36-ad93-1299acb5b862",
+                    "Election_id": "53d734a7-bc6c-46ab-8e45-1299acb5b862",
+                    "Area_id": "53c01dae-c618-4a25-af30-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020dc-5200-4b0d-8494-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "花蓮縣",
+                "lft": "2613",
+                "rght": "2730",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020dd-923c-4a59-99ea-5c5aacb5b862",
+                "parent_id": "53c020dc-5200-4b0d-8494-5c5aacb5b862",
+                "name": "花蓮市",
+                "lft": "2614",
+                "rght": "2625",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d734a7-bc6c-46ab-8e45-1299acb5b862",
+                "parent_id": "53c020dd-923c-4a59-99ea-5c5aacb5b862",
+                "name": "第02選舉區[區域]",
+                "lft": "2617",
+                "rght": "2618",
+                "population": "4281",
+                "population_electors": "3160",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546d8dba-f45c-4773-9e99-0e51cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,花蓮縣,花蓮市,第02選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c022a2-28ec-42fb-b235-5c5aacb5b862",
+            "parent_id": "53c022a1-b2b0-44f2-a11d-5c5aacb5b862",
+            "name": "羌園村",
+            "lft": "8555",
+            "rght": "8556",
+            "population": "1305",
+            "population_electors": "1049",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54773ba1-d414-4199-be06-1915cf91e152",
+            "keywords": "2014-11,村里長,屏東縣,佳冬鄉,羌園村"
+        },
+        "Candidate": [
+            {
+                "id": "53c0285a-d168-4975-9416-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "陳品昌",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c022a2-28ec-42fb-b235-5c5aacb5b862"
+            },
+            {
+                "id": "540b55de-cd10-43fb-9b8f-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "莊宗仁",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c022a2-28ec-42fb-b235-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d86-9b50-423e-885a-5460acb5b862",
+                "name": "羌園村",
+                "is_area": true,
+                "keywords": "2014,屏東縣,佳冬鄉,羌園村",
+                "AreasElection": {
+                    "id": "53c022a2-cfb8-47d8-a940-5c5aacb5b862",
+                    "Election_id": "53c022a2-28ec-42fb-b235-5c5aacb5b862",
+                    "Area_id": "53c01d86-9b50-423e-885a-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "7771",
+                "rght": "8766",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022a1-b2b0-44f2-a11d-5c5aacb5b862",
+                "parent_id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "name": "佳冬鄉",
+                "lft": "8544",
+                "rght": "8569",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022a2-28ec-42fb-b235-5c5aacb5b862",
+                "parent_id": "53c022a1-b2b0-44f2-a11d-5c5aacb5b862",
+                "name": "羌園村",
+                "lft": "8555",
+                "rght": "8556",
+                "population": "1305",
+                "population_electors": "1049",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54773ba1-d414-4199-be06-1915cf91e152",
+                "keywords": "2014-11,村里長,屏東縣,佳冬鄉,羌園村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

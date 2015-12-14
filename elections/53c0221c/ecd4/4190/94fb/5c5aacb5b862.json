@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0221c-ecd4-4190-94fb-5c5aacb5b862",
+            "parent_id": "53c0221a-b938-49e0-9bfa-5c5aacb5b862",
+            "name": "富琦村",
+            "lft": "6831",
+            "rght": "6832",
+            "population": "1869",
+            "population_electors": "1555",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546ec148-432c-4f33-ae46-2e05cf91e152",
+            "keywords": "2014-11,村里長,雲林縣,臺西鄉,富琦村"
+        },
+        "Candidate": [
+            {
+                "id": "540b5579-bb84-4a12-bac4-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "林宏諺",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c0221c-ecd4-4190-94fb-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d0e-ed3c-40e4-a289-5460acb5b862",
+                "name": "富琦村",
+                "is_area": true,
+                "keywords": "2014,雲林縣,臺西鄉,富琦村",
+                "AreasElection": {
+                    "id": "53c0221c-d5c8-426b-8b1e-5c5aacb5b862",
+                    "Election_id": "53c0221c-ecd4-4190-94fb-5c5aacb5b862",
+                    "Area_id": "53c01d0e-ed3c-40e4-a289-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "6201",
+                "rght": "7018",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0221a-b938-49e0-9bfa-5c5aacb5b862",
+                "parent_id": "53c021ec-e11c-49be-b6c8-5c5aacb5b862",
+                "name": "臺西鄉",
+                "lft": "6804",
+                "rght": "6835",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0221c-ecd4-4190-94fb-5c5aacb5b862",
+                "parent_id": "53c0221a-b938-49e0-9bfa-5c5aacb5b862",
+                "name": "富琦村",
+                "lft": "6831",
+                "rght": "6832",
+                "population": "1869",
+                "population_electors": "1555",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546ec148-432c-4f33-ae46-2e05cf91e152",
+                "keywords": "2014-11,村里長,雲林縣,臺西鄉,富琦村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

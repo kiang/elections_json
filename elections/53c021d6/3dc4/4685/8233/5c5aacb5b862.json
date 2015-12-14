@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c021d6-3dc4-4685-8233-5c5aacb5b862",
+            "parent_id": "53c021d6-5bb8-4942-bec4-5c5aacb5b862",
+            "name": "隘寮里",
+            "lft": "5911",
+            "rght": "5912",
+            "population": "601",
+            "population_electors": "533",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54735d55-a364-4515-9455-21eacf91e152",
+            "keywords": "2014-11,村里長,南投縣,集集鎮,隘寮里"
+        },
+        "Candidate": [
+            {
+                "id": "53c027f1-f9c0-4c92-aed6-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "楊春進",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c021d6-3dc4-4685-8233-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01cd6-331c-4546-ae4e-5460acb5b862",
+                "name": "隘寮里",
+                "is_area": true,
+                "keywords": "2014,南投縣,集集鎮,隘寮里",
+                "AreasElection": {
+                    "id": "53c021d6-ca44-4713-b887-5c5aacb5b862",
+                    "Election_id": "53c021d6-3dc4-4685-8233-5c5aacb5b862",
+                    "Area_id": "53c01cd6-331c-4546-ae4e-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "南投縣",
+                "lft": "5649",
+                "rght": "6200",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021d6-5bb8-4942-bec4-5c5aacb5b862",
+                "parent_id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "name": "集集鎮",
+                "lft": "5902",
+                "rght": "5925",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021d6-3dc4-4685-8233-5c5aacb5b862",
+                "parent_id": "53c021d6-5bb8-4942-bec4-5c5aacb5b862",
+                "name": "隘寮里",
+                "lft": "5911",
+                "rght": "5912",
+                "population": "601",
+                "population_electors": "533",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54735d55-a364-4515-9455-21eacf91e152",
+                "keywords": "2014-11,村里長,南投縣,集集鎮,隘寮里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

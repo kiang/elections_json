@@ -1,0 +1,178 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0252c-ce58-4b5b-af85-5c5aacb5b862",
+            "parent_id": "53c0252b-11a4-488d-aa14-5c5aacb5b862",
+            "name": "廣民里",
+            "lft": "16495",
+            "rght": "16496",
+            "population": "2137",
+            "population_electors": "1548",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e0696-704c-4519-bbc8-1a32cf91e152",
+            "keywords": "2014-11,村里長,臺中市,西區,廣民里"
+        },
+        "Candidate": [
+            {
+                "id": "53c026ea-0540-4bb5-9ecf-5dffacb5b862",
+                "image": null,
+                "stage": "0",
+                "name": "袁倍崇",
+                "party": null,
+                "gender": null,
+                "no": "0",
+                "name_english": "",
+                "election_id": "53c0252c-ce58-4b5b-af85-5c5aacb5b862"
+            },
+            {
+                "id": "540b53c0-21b4-4e40-ad56-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "吳全裕",
+                "party": "無",
+                "gender": "m",
+                "no": "4",
+                "name_english": "",
+                "election_id": "53c0252c-ce58-4b5b-af85-5c5aacb5b862"
+            },
+            {
+                "id": "540b53c0-b210-4d5e-9ebd-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "林水順",
+                "party": "無",
+                "gender": "m",
+                "no": "5",
+                "name_english": "Lin Shui Shun",
+                "election_id": "53c0252c-ce58-4b5b-af85-5c5aacb5b862"
+            },
+            {
+                "id": "540b53c0-d364-4fc3-8642-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "林漢裕",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "Lin Han Yii",
+                "election_id": "53c0252c-ce58-4b5b-af85-5c5aacb5b862"
+            },
+            {
+                "id": "540b53c0-e9ec-4b0c-be26-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "李西東",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c0252c-ce58-4b5b-af85-5c5aacb5b862"
+            },
+            {
+                "id": "540b53c0-efcc-4412-bfad-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "彭文和",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "Peng Wen Ho",
+                "election_id": "53c0252c-ce58-4b5b-af85-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01f6d-d5e4-4a8a-b2f3-5460acb5b862",
+                "name": "廣民里",
+                "is_area": true,
+                "keywords": "2014,臺中市,西區,廣民里",
+                "AreasElection": {
+                    "id": "53c0252c-9724-46e0-aa31-5c5aacb5b862",
+                    "Election_id": "53c0252c-ce58-4b5b-af85-5c5aacb5b862",
+                    "Area_id": "53c01f6d-d5e4-4a8a-b2f3-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0252b-11a4-488d-aa14-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "西區",
+                "lft": "16486",
+                "rght": "16537",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0252c-ce58-4b5b-af85-5c5aacb5b862",
+                "parent_id": "53c0252b-11a4-488d-aa14-5c5aacb5b862",
+                "name": "廣民里",
+                "lft": "16495",
+                "rght": "16496",
+                "population": "2137",
+                "population_electors": "1548",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e0696-704c-4519-bbc8-1a32cf91e152",
+                "keywords": "2014-11,村里長,臺中市,西區,廣民里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

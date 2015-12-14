@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0239d-bf7c-4db9-b8aa-5c5aacb5b862",
+            "parent_id": "53c02396-dd04-4dbc-a350-5c5aacb5b862",
+            "name": "敦煌里",
+            "lft": "11701",
+            "rght": "11702",
+            "population": "6436",
+            "population_electors": "5003",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-b040-47e8-a60e-4187cf91e152",
+            "keywords": "2014-11,村里長,臺北市,大安區,敦煌里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02638-562c-4cf8-a68e-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "傅吉田",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "Fu Chi Tien",
+                "election_id": "53c0239d-bf7c-4db9-b8aa-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01e17-9b00-44a5-a7eb-5460acb5b862",
+                "name": "敦煌里",
+                "is_area": true,
+                "keywords": "2014,臺北市,大安區,敦煌里",
+                "AreasElection": {
+                    "id": "53c0239d-233c-4db8-b011-5c5aacb5b862",
+                    "Election_id": "53c0239d-bf7c-4db9-b8aa-5c5aacb5b862",
+                    "Area_id": "53c01e17-9b00-44a5-a7eb-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02396-dd04-4dbc-a350-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "大安區",
+                "lft": "11610",
+                "rght": "11717",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0239d-bf7c-4db9-b8aa-5c5aacb5b862",
+                "parent_id": "53c02396-dd04-4dbc-a350-5c5aacb5b862",
+                "name": "敦煌里",
+                "lft": "11701",
+                "rght": "11702",
+                "population": "6436",
+                "population_electors": "5003",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-b040-47e8-a60e-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,大安區,敦煌里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

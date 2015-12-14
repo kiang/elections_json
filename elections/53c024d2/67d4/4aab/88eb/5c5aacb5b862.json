@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c024d2-67d4-4aab-88eb-5c5aacb5b862",
+            "parent_id": "53c024cf-55b8-475a-bdd6-5c5aacb5b862",
+            "name": "永吉里",
+            "lft": "15505",
+            "rght": "15506",
+            "population": "5358",
+            "population_electors": "4173",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546edee5-f874-45e4-90a4-3ce1cf91e152",
+            "keywords": "2014-11,村里長,新北市,鶯歌區,永吉里"
+        },
+        "Candidate": [
+            {
+                "id": "53c026c7-7490-4d27-af80-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "林茂哲",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c024d2-67d4-4aab-88eb-5c5aacb5b862"
+            },
+            {
+                "id": "540b5353-3c70-4b7b-b25d-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "游兆權",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c024d2-67d4-4aab-88eb-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01f28-c948-4a69-a190-5460acb5b862",
+                "name": "永吉里",
+                "is_area": true,
+                "keywords": "2014,新北市,鶯歌區,永吉里",
+                "AreasElection": {
+                    "id": "53c024d2-88e0-42f4-92f1-5c5aacb5b862",
+                    "Election_id": "53c024d2-67d4-4aab-88eb-5c5aacb5b862",
+                    "Area_id": "53c01f28-c948-4a69-a190-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新北市",
+                "lft": "14261",
+                "rght": "16384",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c024cf-55b8-475a-bdd6-5c5aacb5b862",
+                "parent_id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "name": "鶯歌區",
+                "lft": "15466",
+                "rght": "15507",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c024d2-67d4-4aab-88eb-5c5aacb5b862",
+                "parent_id": "53c024cf-55b8-475a-bdd6-5c5aacb5b862",
+                "name": "永吉里",
+                "lft": "15505",
+                "rght": "15506",
+                "population": "5358",
+                "population_electors": "4173",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546edee5-f874-45e4-90a4-3ce1cf91e152",
+                "keywords": "2014-11,村里長,新北市,鶯歌區,永吉里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

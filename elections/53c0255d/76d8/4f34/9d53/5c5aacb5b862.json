@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0255d-76d8-4f34-9d53-5c5aacb5b862",
+            "parent_id": "53c02557-f2ec-4bd9-8f8c-5c5aacb5b862",
+            "name": "建興里",
+            "lft": "17013",
+            "rght": "17014",
+            "population": "1823",
+            "population_electors": "1394",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c6157-be68-4946-a27b-573fcf91e152",
+            "keywords": "2014-11,村里長,臺中市,大甲區,建興里"
+        },
+        "Candidate": [
+            {
+                "id": "53c026ff-53bc-479d-9e40-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "蔡明河",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c0255d-76d8-4f34-9d53-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01f91-66e0-4584-9601-5460acb5b862",
+                "name": "建興里",
+                "is_area": true,
+                "keywords": "2014,臺中市,大甲區,建興里",
+                "AreasElection": {
+                    "id": "53c0255d-63d8-45e7-993f-5c5aacb5b862",
+                    "Election_id": "53c0255d-76d8-4f34-9d53-5c5aacb5b862",
+                    "Area_id": "53c01f91-66e0-4584-9601-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02557-f2ec-4bd9-8f8c-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "大甲區",
+                "lft": "16956",
+                "rght": "17015",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0255d-76d8-4f34-9d53-5c5aacb5b862",
+                "parent_id": "53c02557-f2ec-4bd9-8f8c-5c5aacb5b862",
+                "name": "建興里",
+                "lft": "17013",
+                "rght": "17014",
+                "population": "1823",
+                "population_electors": "1394",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c6157-be68-4946-a27b-573fcf91e152",
+                "keywords": "2014-11,村里長,臺中市,大甲區,建興里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

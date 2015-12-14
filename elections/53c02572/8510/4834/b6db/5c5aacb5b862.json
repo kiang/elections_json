@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02572-8510-4834-b6db-5c5aacb5b862",
+            "parent_id": "53c02572-8c28-4e05-8d65-5c5aacb5b862",
+            "name": "秀山里",
+            "lft": "17265",
+            "rght": "17266",
+            "population": "3829",
+            "population_electors": "2976",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e0691-21a8-46a7-a7db-1a32cf91e152",
+            "keywords": "2014-11,村里長,臺中市,大雅區,秀山里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02709-aa4c-4601-8664-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "蔡錦瑭",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "TSAI CHIN TANG",
+                "election_id": "53c02572-8510-4834-b6db-5c5aacb5b862"
+            },
+            {
+                "id": "540b53e5-cbc4-49e5-a062-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "張明湖",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02572-8510-4834-b6db-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01fa4-201c-4936-9eb0-5460acb5b862",
+                "name": "秀山里",
+                "is_area": true,
+                "keywords": "2014,臺中市,大雅區,秀山里",
+                "AreasElection": {
+                    "id": "53c02572-c7b8-4f61-9229-5c5aacb5b862",
+                    "Election_id": "53c02572-8510-4834-b6db-5c5aacb5b862",
+                    "Area_id": "53c01fa4-201c-4936-9eb0-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺中市",
+                "lft": "16385",
+                "rght": "17694",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02572-8c28-4e05-8d65-5c5aacb5b862",
+                "parent_id": "53c02522-94dc-4e4f-8c15-5c5aacb5b862",
+                "name": "大雅區",
+                "lft": "17262",
+                "rght": "17293",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02572-8510-4834-b6db-5c5aacb5b862",
+                "parent_id": "53c02572-8c28-4e05-8d65-5c5aacb5b862",
+                "name": "秀山里",
+                "lft": "17265",
+                "rght": "17266",
+                "population": "3829",
+                "population_electors": "2976",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e0691-21a8-46a7-a7db-1a32cf91e152",
+                "keywords": "2014-11,村里長,臺中市,大雅區,秀山里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

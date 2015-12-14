@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0235a-097c-46e9-9808-5c5aacb5b862",
+            "parent_id": "53c02356-ffa8-4707-8ead-5c5aacb5b862",
+            "name": "瑞溪里",
+            "lft": "10879",
+            "rght": "10880",
+            "population": "3653",
+            "population_electors": "2651",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-9754-4500-b8e8-1a32cf91e152",
+            "keywords": "2014-11,村里長,桃園市,楊梅區,瑞溪里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02779-4630-4f03-aea3-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "林美慧",
+                "party": "無",
+                "gender": "f",
+                "no": "2",
+                "name_english": "LIN MEI HUI",
+                "election_id": "53c0235a-097c-46e9-9808-5c5aacb5b862"
+            },
+            {
+                "id": "540b5398-e2c4-4818-a585-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "彭秀鳳",
+                "party": "無",
+                "gender": "f",
+                "no": "1",
+                "name_english": "PENG HSIU FENG",
+                "election_id": "53c0235a-097c-46e9-9808-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c14-57a0-429f-b4c4-5460acb5b862",
+                "name": "瑞溪里",
+                "is_area": true,
+                "keywords": "2014,桃園市,楊梅區,瑞溪里",
+                "AreasElection": {
+                    "id": "53c0235b-ce80-4df8-bd6b-5c5aacb5b862",
+                    "Election_id": "53c0235a-097c-46e9-9808-5c5aacb5b862",
+                    "Area_id": "53c01c14-57a0-429f-b4c4-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "桃園市",
+                "lft": "10439",
+                "rght": "11456",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02356-ffa8-4707-8ead-5c5aacb5b862",
+                "parent_id": "53c02338-3edc-4e64-9205-5c5aacb5b862",
+                "name": "楊梅區",
+                "lft": "10822",
+                "rght": "10905",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0235a-097c-46e9-9808-5c5aacb5b862",
+                "parent_id": "53c02356-ffa8-4707-8ead-5c5aacb5b862",
+                "name": "瑞溪里",
+                "lft": "10879",
+                "rght": "10880",
+                "population": "3653",
+                "population_electors": "2651",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-9754-4500-b8e8-1a32cf91e152",
+                "keywords": "2014-11,村里長,桃園市,楊梅區,瑞溪里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

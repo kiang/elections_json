@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02245-bad4-407e-8e18-5c5aacb5b862",
+            "parent_id": "53c02243-76ac-422b-8266-5c5aacb5b862",
+            "name": "魚寮村",
+            "lft": "7369",
+            "rght": "7370",
+            "population": "754",
+            "population_electors": "679",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-24dc-4917-8bf9-2adbcf91e152",
+            "keywords": "2014-11,村里長,嘉義縣,六腳鄉,魚寮村"
+        },
+        "Candidate": [
+            {
+                "id": "53c0282d-e2a4-419f-bccd-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "陳瑞珍",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02245-bad4-407e-8e18-5c5aacb5b862"
+            },
+            {
+                "id": "540b5599-d16c-4aab-b12b-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "侯水聰",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c02245-bad4-407e-8e18-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d35-4620-4a40-bd0b-5460acb5b862",
+                "name": "魚寮村",
+                "is_area": true,
+                "keywords": "2014,嘉義縣,六腳鄉,魚寮村",
+                "AreasElection": {
+                    "id": "53c02245-9380-4932-ae33-5c5aacb5b862",
+                    "Election_id": "53c02245-bad4-407e-8e18-5c5aacb5b862",
+                    "Area_id": "53c01d35-4620-4a40-bd0b-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0222a-d5c0-465f-849c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "嘉義縣",
+                "lft": "7019",
+                "rght": "7770",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02243-76ac-422b-8266-5c5aacb5b862",
+                "parent_id": "53c0222a-d5c0-465f-849c-5c5aacb5b862",
+                "name": "六腳鄉",
+                "lft": "7342",
+                "rght": "7393",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02245-bad4-407e-8e18-5c5aacb5b862",
+                "parent_id": "53c02243-76ac-422b-8266-5c5aacb5b862",
+                "name": "魚寮村",
+                "lft": "7369",
+                "rght": "7370",
+                "population": "754",
+                "population_electors": "679",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-24dc-4917-8bf9-2adbcf91e152",
+                "keywords": "2014-11,村里長,嘉義縣,六腳鄉,魚寮村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

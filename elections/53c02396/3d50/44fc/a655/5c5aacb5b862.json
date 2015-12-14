@@ -1,0 +1,145 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02396-3d50-44fc-a655-5c5aacb5b862",
+            "parent_id": "53c02396-dd04-4dbc-a350-5c5aacb5b862",
+            "name": "德安里",
+            "lft": "11615",
+            "rght": "11616",
+            "population": "5990",
+            "population_electors": "4771",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-bb78-4803-8965-4187cf91e152",
+            "keywords": "2014-11,村里長,臺北市,大安區,德安里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02635-29b8-4393-b0ab-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "何西就",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "Ho Shi Chiou",
+                "election_id": "53c02396-3d50-44fc-a655-5c5aacb5b862"
+            },
+            {
+                "id": "540b52e6-a4c8-4158-bcc8-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "蔡銘宗",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "Tsai Ming Tsung",
+                "election_id": "53c02396-3d50-44fc-a655-5c5aacb5b862"
+            },
+            {
+                "id": "540b52e7-aae8-4ae3-b817-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "楊壬癸",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "Yang Jen Kuei",
+                "election_id": "53c02396-3d50-44fc-a655-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01e11-8320-4598-a5c1-5460acb5b862",
+                "name": "德安里",
+                "is_area": true,
+                "keywords": "2014,臺北市,大安區,德安里",
+                "AreasElection": {
+                    "id": "53c02396-161c-4f7a-9078-5c5aacb5b862",
+                    "Election_id": "53c02396-3d50-44fc-a655-5c5aacb5b862",
+                    "Area_id": "53c01e11-8320-4598-a5c1-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02396-dd04-4dbc-a350-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "大安區",
+                "lft": "11610",
+                "rght": "11717",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02396-3d50-44fc-a655-5c5aacb5b862",
+                "parent_id": "53c02396-dd04-4dbc-a350-5c5aacb5b862",
+                "name": "德安里",
+                "lft": "11615",
+                "rght": "11616",
+                "population": "5990",
+                "population_electors": "4771",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-bb78-4803-8965-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,大安區,德安里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

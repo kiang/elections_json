@@ -1,0 +1,167 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d73285-f5d0-45ac-9714-1299acb5b862",
+            "parent_id": "53c020b1-fd58-44da-9fd8-5c5aacb5b862",
+            "name": "第01選舉區[區域]",
+            "lft": "1089",
+            "rght": "1090",
+            "population": "11184",
+            "population_electors": "8480",
+            "quota": "2",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-82c4-4ee7-b3fb-2adbcf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,宜蘭縣,羅東鎮,第01選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b57b4-afc4-44d2-a7b2-1926acb5b862",
+                "image": "54afd3c6\/8938\/49f4\/8833\/20456ab936af.jpg",
+                "stage": "2",
+                "name": "黃泰坤",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53d73285-f5d0-45ac-9714-1299acb5b862"
+            },
+            {
+                "id": "540b57b5-f538-4a44-bdc3-1926acb5b862",
+                "image": "54afd369\/fa9c\/459c\/88c9\/200f6ab936af.jpg",
+                "stage": "2",
+                "name": "李錫欽",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d73285-f5d0-45ac-9714-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01bdc-0d38-4621-a819-5460acb5b862",
+                "name": "東安里",
+                "is_area": true,
+                "keywords": "2014,宜蘭縣,羅東鎮,東安里",
+                "AreasElection": {
+                    "id": "53d73286-3ae8-4f30-8799-1299acb5b862",
+                    "Election_id": "53d73285-f5d0-45ac-9714-1299acb5b862",
+                    "Area_id": "53c01bdc-0d38-4621-a819-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01bdc-6ba4-47ba-9cfc-5460acb5b862",
+                "name": "大新里",
+                "is_area": true,
+                "keywords": "2014,宜蘭縣,羅東鎮,大新里",
+                "AreasElection": {
+                    "id": "53d73286-c80c-4cfb-9f4e-1299acb5b862",
+                    "Election_id": "53d73285-f5d0-45ac-9714-1299acb5b862",
+                    "Area_id": "53c01bdc-6ba4-47ba-9cfc-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01bdc-cf50-413f-aca0-5460acb5b862",
+                "name": "新群里",
+                "is_area": true,
+                "keywords": "2014,宜蘭縣,羅東鎮,新群里",
+                "AreasElection": {
+                    "id": "53d73286-6858-4dbe-acb3-1299acb5b862",
+                    "Election_id": "53d73285-f5d0-45ac-9714-1299acb5b862",
+                    "Area_id": "53c01bdc-cf50-413f-aca0-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01bde-e5e4-4084-b994-5460acb5b862",
+                "name": "開明里",
+                "is_area": true,
+                "keywords": "2014,宜蘭縣,羅東鎮,開明里",
+                "AreasElection": {
+                    "id": "53d73286-a22c-4b51-adc1-1299acb5b862",
+                    "Election_id": "53d73285-f5d0-45ac-9714-1299acb5b862",
+                    "Area_id": "53c01bde-e5e4-4084-b994-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b1-2260-44dc-a0bc-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "宜蘭縣",
+                "lft": "1077",
+                "rght": "1200",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020b1-fd58-44da-9fd8-5c5aacb5b862",
+                "parent_id": "53c020b1-2260-44dc-a0bc-5c5aacb5b862",
+                "name": "羅東鎮",
+                "lft": "1088",
+                "rght": "1097",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d73285-f5d0-45ac-9714-1299acb5b862",
+                "parent_id": "53c020b1-fd58-44da-9fd8-5c5aacb5b862",
+                "name": "第01選舉區[區域]",
+                "lft": "1089",
+                "rght": "1090",
+                "population": "11184",
+                "population_electors": "8480",
+                "quota": "2",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-82c4-4ee7-b3fb-2adbcf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,宜蘭縣,羅東鎮,第01選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

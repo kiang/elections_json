@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02305-520c-4c82-ad56-5c5aacb5b862",
+            "parent_id": "53c02305-2ab0-47c6-b70c-5c5aacb5b862",
+            "name": "林泉里",
+            "lft": "9813",
+            "rght": "9814",
+            "population": "2585",
+            "population_electors": "1812",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c8095-51e8-4bb0-9096-61a3cf91e152",
+            "keywords": "2014-11,村里長,基隆市,仁愛區,林泉里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02885-98f4-473f-9351-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "駱精一",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02305-520c-4c82-ad56-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01dd7-8a20-448c-b980-5460acb5b862",
+                "name": "林泉里",
+                "is_area": true,
+                "keywords": "2014,基隆市,仁愛區,林泉里",
+                "AreasElection": {
+                    "id": "53c02305-f040-4c50-8540-5c5aacb5b862",
+                    "Election_id": "53c02305-520c-4c82-ad56-5c5aacb5b862",
+                    "Area_id": "53c01dd7-8a20-448c-b980-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "基隆市",
+                "lft": "9683",
+                "rght": "10012",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02305-2ab0-47c6-b70c-5c5aacb5b862",
+                "parent_id": "53c022fb-f8ec-41dd-ba31-5c5aacb5b862",
+                "name": "仁愛區",
+                "lft": "9808",
+                "rght": "9867",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02305-520c-4c82-ad56-5c5aacb5b862",
+                "parent_id": "53c02305-2ab0-47c6-b70c-5c5aacb5b862",
+                "name": "林泉里",
+                "lft": "9813",
+                "rght": "9814",
+                "population": "2585",
+                "population_electors": "1812",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c8095-51e8-4bb0-9096-61a3cf91e152",
+                "keywords": "2014-11,村里長,基隆市,仁愛區,林泉里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

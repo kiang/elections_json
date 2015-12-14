@@ -1,0 +1,152 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0209c-9a08-4728-837b-5c5aacb5b862",
+            "parent_id": "53c0209c-b3c0-4999-93a6-5c5aacb5b862",
+            "name": "太保市",
+            "lft": "850",
+            "rght": "851",
+            "population": "37054",
+            "population_electors": "28503",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5473fb11-e610-4433-8d95-1b6ecf91e152",
+            "keywords": "2014-11,鄉鎮市長,嘉義縣,太保市"
+        },
+        "Candidate": [
+            {
+                "id": "5406a60c-e8a8-47ca-b2e1-15b8acb5b862",
+                "image": "549faf0f\/2f98\/4f95\/b898\/51756ab936af.jpg",
+                "stage": "0",
+                "name": "董國誠",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "0",
+                "name_english": "",
+                "election_id": "53c0209c-9a08-4728-837b-5c5aacb5b862"
+            },
+            {
+                "id": "540b580f-0be4-486e-a4e3-1926acb5b862",
+                "image": "549fb050\/0f5c\/49f7\/bdf7\/51df6ab936af.jpg",
+                "stage": "2",
+                "name": "黃榮利",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "HUANG LUNG LI",
+                "election_id": "53c0209c-9a08-4728-837b-5c5aacb5b862"
+            },
+            {
+                "id": "540b580f-5e08-4b61-ac59-1926acb5b862",
+                "image": "549fb09e\/8958\/41e2\/baf7\/51fd6ab936af.jpg",
+                "stage": "1",
+                "name": "李世淵",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "LEE SHIH YUAN",
+                "election_id": "53c0209c-9a08-4728-837b-5c5aacb5b862"
+            },
+            {
+                "id": "540b580f-7358-4499-86b0-1926acb5b862",
+                "image": "",
+                "stage": "0",
+                "name": "董國富",
+                "party": "無",
+                "gender": "m",
+                "no": "0",
+                "name_english": "",
+                "election_id": "53c0209c-9a08-4728-837b-5c5aacb5b862"
+            },
+            {
+                "id": "540b580f-97ec-4d03-8397-1926acb5b862",
+                "image": "549faea5\/8a30\/40d8\/a4c6\/51866ab936af.jpg",
+                "stage": "1",
+                "name": "賴瓊如",
+                "party": "無",
+                "gender": "f",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53c0209c-9a08-4728-837b-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d1b-8560-4443-b0ef-5460acb5b862",
+                "name": "太保市",
+                "is_area": true,
+                "keywords": "2014,嘉義縣,太保市",
+                "AreasElection": {
+                    "id": "53c0209c-d9dc-44bf-b1c0-5c5aacb5b862",
+                    "Election_id": "53c0209c-9a08-4728-837b-5c5aacb5b862",
+                    "Area_id": "53c01d1b-8560-4443-b0ef-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市長",
+                "lft": "608",
+                "rght": "1031",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0209c-b3c0-4999-93a6-5c5aacb5b862",
+                "parent_id": "53c02030-49d0-4613-be8a-5460acb5b862",
+                "name": "嘉義縣",
+                "lft": "849",
+                "rght": "886",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0209c-9a08-4728-837b-5c5aacb5b862",
+                "parent_id": "53c0209c-b3c0-4999-93a6-5c5aacb5b862",
+                "name": "太保市",
+                "lft": "850",
+                "rght": "851",
+                "population": "37054",
+                "population_electors": "28503",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5473fb11-e610-4433-8d95-1b6ecf91e152",
+                "keywords": "2014-11,鄉鎮市長,嘉義縣,太保市"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

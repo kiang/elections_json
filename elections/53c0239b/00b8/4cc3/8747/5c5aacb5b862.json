@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0239b-00b8-4cc3-8747-5c5aacb5b862",
+            "parent_id": "53c02396-dd04-4dbc-a350-5c5aacb5b862",
+            "name": "通安里",
+            "lft": "11671",
+            "rght": "11672",
+            "population": "5919",
+            "population_electors": "4856",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-bcec-472c-a465-4187cf91e152",
+            "keywords": "2014-11,村里長,臺北市,大安區,通安里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02637-c8a0-4c84-8cd1-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "鄭文明",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "Cheng Wen Ming",
+                "election_id": "53c0239b-00b8-4cc3-8747-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01e15-8674-4859-9659-5460acb5b862",
+                "name": "通安里",
+                "is_area": true,
+                "keywords": "2014,臺北市,大安區,通安里",
+                "AreasElection": {
+                    "id": "53c0239b-88cc-4d2a-8deb-5c5aacb5b862",
+                    "Election_id": "53c0239b-00b8-4cc3-8747-5c5aacb5b862",
+                    "Area_id": "53c01e15-8674-4859-9659-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺北市",
+                "lft": "11457",
+                "rght": "12394",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02396-dd04-4dbc-a350-5c5aacb5b862",
+                "parent_id": "53c0238a-f28c-471b-87dd-5c5aacb5b862",
+                "name": "大安區",
+                "lft": "11610",
+                "rght": "11717",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0239b-00b8-4cc3-8747-5c5aacb5b862",
+                "parent_id": "53c02396-dd04-4dbc-a350-5c5aacb5b862",
+                "name": "通安里",
+                "lft": "11671",
+                "rght": "11672",
+                "population": "5919",
+                "population_electors": "4856",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-bcec-472c-a465-4187cf91e152",
+                "keywords": "2014-11,村里長,臺北市,大安區,通安里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

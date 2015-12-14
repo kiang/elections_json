@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c022c2-db5c-481b-89f0-5c5aacb5b862",
+            "parent_id": "53c022c1-4df0-49e3-a938-5c5aacb5b862",
+            "name": "東河村",
+            "lft": "8969",
+            "rght": "8970",
+            "population": "1147",
+            "population_electors": "982",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546f277f-1144-47d4-a569-2f28cf91e152",
+            "keywords": "2014-11,村里長,臺東縣,東河鄉,東河村"
+        },
+        "Candidate": [
+            {
+                "id": "53c02864-8940-4d9e-8e84-5dffacb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "林榮輝",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c022c2-db5c-481b-89f0-5c5aacb5b862"
+            },
+            {
+                "id": "540b562c-81f4-425e-9320-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "吳先得",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "WU HSEN TE",
+                "election_id": "53c022c2-db5c-481b-89f0-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01da2-fc00-4a05-8e64-5460acb5b862",
+                "name": "東河村",
+                "is_area": true,
+                "keywords": "2014,臺東縣,東河鄉,東河村",
+                "AreasElection": {
+                    "id": "53c022c2-95d4-4fa1-b340-5c5aacb5b862",
+                    "Election_id": "53c022c2-db5c-481b-89f0-5c5aacb5b862",
+                    "Area_id": "53c01da2-fc00-4a05-8e64-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022b2-b9f0-4517-825f-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺東縣",
+                "lft": "8767",
+                "rght": "9094",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022c1-4df0-49e3-a938-5c5aacb5b862",
+                "parent_id": "53c022b2-b9f0-4517-825f-5c5aacb5b862",
+                "name": "東河鄉",
+                "lft": "8962",
+                "rght": "8977",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022c2-db5c-481b-89f0-5c5aacb5b862",
+                "parent_id": "53c022c1-4df0-49e3-a938-5c5aacb5b862",
+                "name": "東河村",
+                "lft": "8969",
+                "rght": "8970",
+                "population": "1147",
+                "population_electors": "982",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546f277f-1144-47d4-a569-2f28cf91e152",
+                "keywords": "2014-11,村里長,臺東縣,東河鄉,東河村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0215c-a1fc-4553-872b-5c5aacb5b862",
+            "parent_id": "53c0215b-3994-4303-8789-5c5aacb5b862",
+            "name": "三湖村",
+            "lft": "4337",
+            "rght": "4338",
+            "population": "1095",
+            "population_electors": "954",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546c3664-1d9c-4b25-a488-4187cf91e152",
+            "keywords": "2014-11,村里長,苗栗縣,西湖鄉,三湖村"
+        },
+        "Candidate": [
+            {
+                "id": "53c027b0-e178-482f-a5a7-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "吳峻毅",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "WU CHUN YI",
+                "election_id": "53c0215c-a1fc-4553-872b-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c73-8314-4e90-bf33-5460acb5b862",
+                "name": "三湖村",
+                "is_area": true,
+                "keywords": "2014,苗栗縣,西湖鄉,三湖村",
+                "AreasElection": {
+                    "id": "53c0215d-e37c-4f4c-8247-5c5aacb5b862",
+                    "Election_id": "53c0215c-a1fc-4553-872b-5c5aacb5b862",
+                    "Area_id": "53c01c73-8314-4e90-bf33-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02135-5cc8-4f9d-a971-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "苗栗縣",
+                "lft": "3831",
+                "rght": "4416",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0215b-3994-4303-8789-5c5aacb5b862",
+                "parent_id": "53c02135-5cc8-4f9d-a971-5c5aacb5b862",
+                "name": "西湖鄉",
+                "lft": "4324",
+                "rght": "4343",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0215c-a1fc-4553-872b-5c5aacb5b862",
+                "parent_id": "53c0215b-3994-4303-8789-5c5aacb5b862",
+                "name": "三湖村",
+                "lft": "4337",
+                "rght": "4338",
+                "population": "1095",
+                "population_electors": "954",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546c3664-1d9c-4b25-a488-4187cf91e152",
+                "keywords": "2014-11,村里長,苗栗縣,西湖鄉,三湖村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0226e-bda8-454e-8e61-5c5aacb5b862",
+            "parent_id": "53c02265-2468-4454-be9d-5c5aacb5b862",
+            "name": "興樂里",
+            "lft": "7901",
+            "rght": "7902",
+            "population": "943",
+            "population_electors": "704",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54773ba1-e860-4567-80cb-1915cf91e152",
+            "keywords": "2014-11,村里長,屏東縣,屏東市,興樂里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02840-cbc8-42c8-bc57-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "吳全雅",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c0226e-bda8-454e-8e61-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d58-e738-4fdd-992c-5460acb5b862",
+                "name": "興樂里",
+                "is_area": true,
+                "keywords": "2014,屏東縣,屏東市,興樂里",
+                "AreasElection": {
+                    "id": "53c0226f-27ac-47c2-a643-5c5aacb5b862",
+                    "Election_id": "53c0226e-bda8-454e-8e61-5c5aacb5b862",
+                    "Area_id": "53c01d58-e738-4fdd-992c-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "屏東縣",
+                "lft": "7771",
+                "rght": "8766",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02265-2468-4454-be9d-5c5aacb5b862",
+                "parent_id": "53c02265-01f0-43d1-8a9e-5c5aacb5b862",
+                "name": "屏東市",
+                "lft": "7772",
+                "rght": "7931",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0226e-bda8-454e-8e61-5c5aacb5b862",
+                "parent_id": "53c02265-2468-4454-be9d-5c5aacb5b862",
+                "name": "興樂里",
+                "lft": "7901",
+                "rght": "7902",
+                "population": "943",
+                "population_electors": "704",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54773ba1-e860-4567-80cb-1915cf91e152",
+                "keywords": "2014-11,村里長,屏東縣,屏東市,興樂里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

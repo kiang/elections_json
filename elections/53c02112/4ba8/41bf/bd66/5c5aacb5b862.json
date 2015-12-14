@@ -1,0 +1,145 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02112-4ba8-41bf-bd66-5c5aacb5b862",
+            "parent_id": "53c02112-e754-4788-9563-5c5aacb5b862",
+            "name": "寒溪村",
+            "lft": "3387",
+            "rght": "3388",
+            "population": "1102",
+            "population_electors": "816",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-8e44-42ed-9125-2adbcf91e152",
+            "keywords": "2014-11,村里長,宜蘭縣,大同鄉,寒溪村"
+        },
+        "Candidate": [
+            {
+                "id": "53c02764-6f04-42e0-9487-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "胡芳榮",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53c02112-4ba8-41bf-bd66-5c5aacb5b862"
+            },
+            {
+                "id": "540b5606-c3c4-4599-af99-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "李淑敏",
+                "party": "無",
+                "gender": "f",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c02112-4ba8-41bf-bd66-5c5aacb5b862"
+            },
+            {
+                "id": "540b5606-d9ac-4f9e-8f91-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "孫英花",
+                "party": "中國國民黨",
+                "gender": "f",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02112-4ba8-41bf-bd66-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01bf5-4a10-40a7-91e1-5460acb5b862",
+                "name": "寒溪村",
+                "is_area": true,
+                "keywords": "2014,宜蘭縣,大同鄉,寒溪村",
+                "AreasElection": {
+                    "id": "53c02112-b438-4519-8fdc-5c5aacb5b862",
+                    "Election_id": "53c02112-4ba8-41bf-bd66-5c5aacb5b862",
+                    "Area_id": "53c01bf5-4a10-40a7-91e1-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020ef-6268-4b1a-a16d-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "宜蘭縣",
+                "lft": "2929",
+                "rght": "3420",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02112-e754-4788-9563-5c5aacb5b862",
+                "parent_id": "53c020ef-6268-4b1a-a16d-5c5aacb5b862",
+                "name": "大同鄉",
+                "lft": "3382",
+                "rght": "3403",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02112-4ba8-41bf-bd66-5c5aacb5b862",
+                "parent_id": "53c02112-e754-4788-9563-5c5aacb5b862",
+                "name": "寒溪村",
+                "lft": "3387",
+                "rght": "3388",
+                "population": "1102",
+                "population_electors": "816",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-8e44-42ed-9125-2adbcf91e152",
+                "keywords": "2014-11,村里長,宜蘭縣,大同鄉,寒溪村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

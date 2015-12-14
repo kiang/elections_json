@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02142-121c-43ac-b9b2-5c5aacb5b862",
+            "parent_id": "53c02142-de68-4d1b-a888-5c5aacb5b862",
+            "name": "聖福里",
+            "lft": "3999",
+            "rght": "4000",
+            "population": "4616",
+            "population_electors": "3187",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "keywords": "2014-11,村里長,苗栗縣,竹南鎮,聖福里"
+        },
+        "Candidate": [
+            {
+                "id": "53c027a4-7a84-4101-9470-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "洪宏村",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02142-121c-43ac-b9b2-5c5aacb5b862"
+            },
+            {
+                "id": "540b54d9-cf48-4ed4-83f3-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "謝清順",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c02142-121c-43ac-b9b2-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c5d-9534-4356-800f-5460acb5b862",
+                "name": "聖福里",
+                "is_area": true,
+                "keywords": "2014,苗栗縣,竹南鎮,聖福里",
+                "AreasElection": {
+                    "id": "53c02142-be00-472e-8e86-5c5aacb5b862",
+                    "Election_id": "53c02142-121c-43ac-b9b2-5c5aacb5b862",
+                    "Area_id": "53c01c5d-9534-4356-800f-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02135-5cc8-4f9d-a971-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "苗栗縣",
+                "lft": "3831",
+                "rght": "4416",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02142-de68-4d1b-a888-5c5aacb5b862",
+                "parent_id": "53c02135-5cc8-4f9d-a971-5c5aacb5b862",
+                "name": "竹南鎮",
+                "lft": "3992",
+                "rght": "4043",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02142-121c-43ac-b9b2-5c5aacb5b862",
+                "parent_id": "53c02142-de68-4d1b-a888-5c5aacb5b862",
+                "name": "聖福里",
+                "lft": "3999",
+                "rght": "4000",
+                "population": "4616",
+                "population_electors": "3187",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2014-11,村里長,苗栗縣,竹南鎮,聖福里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

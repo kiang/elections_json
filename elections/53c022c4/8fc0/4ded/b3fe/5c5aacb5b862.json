@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c022c4-8fc0-4ded-b3fe-5c5aacb5b862",
+            "parent_id": "53c022c3-a8fc-440b-876e-5c5aacb5b862",
+            "name": "北里村",
+            "lft": "8997",
+            "rght": "8998",
+            "population": "657",
+            "population_electors": "542",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546f277f-410c-4dd5-9994-2f28cf91e152",
+            "keywords": "2014-11,村里長,臺東縣,太麻里鄉,北里村"
+        },
+        "Candidate": [
+            {
+                "id": "53c02865-5434-4a0d-b56c-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "王輝煌",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c022c4-8fc0-4ded-b3fe-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01da4-e164-4c76-909c-5460acb5b862",
+                "name": "北里村",
+                "is_area": true,
+                "keywords": "2014,臺東縣,太麻里鄉,北里村",
+                "AreasElection": {
+                    "id": "53c022c4-ab38-42e8-987b-5c5aacb5b862",
+                    "Election_id": "53c022c4-8fc0-4ded-b3fe-5c5aacb5b862",
+                    "Area_id": "53c01da4-e164-4c76-909c-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022b2-b9f0-4517-825f-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "臺東縣",
+                "lft": "8767",
+                "rght": "9094",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022c3-a8fc-440b-876e-5c5aacb5b862",
+                "parent_id": "53c022b2-b9f0-4517-825f-5c5aacb5b862",
+                "name": "太麻里鄉",
+                "lft": "8992",
+                "rght": "9011",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c022c4-8fc0-4ded-b3fe-5c5aacb5b862",
+                "parent_id": "53c022c3-a8fc-440b-876e-5c5aacb5b862",
+                "name": "北里村",
+                "lft": "8997",
+                "rght": "8998",
+                "population": "657",
+                "population_electors": "542",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546f277f-410c-4dd5-9994-2f28cf91e152",
+                "keywords": "2014-11,村里長,臺東縣,太麻里鄉,北里村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

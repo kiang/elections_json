@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02237-8f04-4adb-9143-5c5aacb5b862",
+            "parent_id": "53c02235-3ee0-4fe5-ad8d-5c5aacb5b862",
+            "name": "中坑里",
+            "lft": "7189",
+            "rght": "7190",
+            "population": "1582",
+            "population_electors": "1362",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546ef559-e96c-4399-9adc-208ecf91e152",
+            "keywords": "2014-11,村里長,嘉義縣,大林鎮,中坑里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02822-ce54-400c-b145-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "劉清源",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "LIU CHING YUAN",
+                "election_id": "53c02237-8f04-4adb-9143-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d25-efb0-4935-9b19-5460acb5b862",
+                "name": "中坑里",
+                "is_area": true,
+                "keywords": "2014,嘉義縣,大林鎮,中坑里",
+                "AreasElection": {
+                    "id": "53c02237-b8d0-41e7-b97f-5c5aacb5b862",
+                    "Election_id": "53c02237-8f04-4adb-9143-5c5aacb5b862",
+                    "Area_id": "53c01d25-efb0-4935-9b19-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0222a-d5c0-465f-849c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "嘉義縣",
+                "lft": "7019",
+                "rght": "7770",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02235-3ee0-4fe5-ad8d-5c5aacb5b862",
+                "parent_id": "53c0222a-d5c0-465f-849c-5c5aacb5b862",
+                "name": "大林鎮",
+                "lft": "7162",
+                "rght": "7205",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02237-8f04-4adb-9143-5c5aacb5b862",
+                "parent_id": "53c02235-3ee0-4fe5-ad8d-5c5aacb5b862",
+                "name": "中坑里",
+                "lft": "7189",
+                "rght": "7190",
+                "population": "1582",
+                "population_electors": "1362",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546ef559-e96c-4399-9adc-208ecf91e152",
+                "keywords": "2014-11,村里長,嘉義縣,大林鎮,中坑里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

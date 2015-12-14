@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0211e-bc08-449e-9a82-5c5aacb5b862",
+            "parent_id": "53c0211e-7944-495c-9f74-5c5aacb5b862",
+            "name": "內立里",
+            "lft": "3539",
+            "rght": "3540",
+            "population": "1411",
+            "population_electors": "1158",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": null,
+            "keywords": "2014-11,村里長,新竹縣,新埔鎮,內立里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02791-7a7c-4829-a080-5dffacb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "陳東勇",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c0211e-bc08-449e-9a82-5c5aacb5b862"
+            },
+            {
+                "id": "540b54bb-69c4-40df-90e4-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "劉冠吟",
+                "party": "無",
+                "gender": "f",
+                "no": "1",
+                "name_english": "LIU KUAN YIN",
+                "election_id": "53c0211e-bc08-449e-9a82-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c40-3b40-47b3-ac14-5460acb5b862",
+                "name": "內立里",
+                "is_area": true,
+                "keywords": "2014,新竹縣,新埔鎮,內立里",
+                "AreasElection": {
+                    "id": "53c0211f-072c-4f3a-8e2f-5c5aacb5b862",
+                    "Election_id": "53c0211e-bc08-449e-9a82-5c5aacb5b862",
+                    "Area_id": "53c01c40-3b40-47b3-ac14-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02114-c1a0-4545-bc6f-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新竹縣",
+                "lft": "3421",
+                "rght": "3830",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0211e-7944-495c-9f74-5c5aacb5b862",
+                "parent_id": "53c02114-c1a0-4545-bc6f-5c5aacb5b862",
+                "name": "新埔鎮",
+                "lft": "3536",
+                "rght": "3575",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0211e-bc08-449e-9a82-5c5aacb5b862",
+                "parent_id": "53c0211e-7944-495c-9f74-5c5aacb5b862",
+                "name": "內立里",
+                "lft": "3539",
+                "rght": "3540",
+                "population": "1411",
+                "population_electors": "1158",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": "2014-11,村里長,新竹縣,新埔鎮,內立里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

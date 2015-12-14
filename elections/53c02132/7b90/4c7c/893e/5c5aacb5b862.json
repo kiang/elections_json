@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02132-7b90-4c7c-893e-5c5aacb5b862",
+            "parent_id": "53c02131-2c9c-471f-ac77-5c5aacb5b862",
+            "name": "寶斗村",
+            "lft": "3775",
+            "rght": "3776",
+            "population": "828",
+            "population_electors": "731",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-7ddc-4b4c-ba86-1a32cf91e152",
+            "keywords": "2014-11,村里長,新竹縣,寶山鄉,寶斗村"
+        },
+        "Candidate": [
+            {
+                "id": "53c0279b-bca4-4741-9d91-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "張錦城",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02132-7b90-4c7c-893e-5c5aacb5b862"
+            },
+            {
+                "id": "540b54cc-af34-4422-8f42-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "蘇榮淋",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c02132-7b90-4c7c-893e-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c4f-eacc-4857-8393-5460acb5b862",
+                "name": "寶斗村",
+                "is_area": true,
+                "keywords": "2014,新竹縣,寶山鄉,寶斗村",
+                "AreasElection": {
+                    "id": "53c02132-4adc-4639-a642-5c5aacb5b862",
+                    "Election_id": "53c02132-7b90-4c7c-893e-5c5aacb5b862",
+                    "Area_id": "53c01c4f-eacc-4857-8393-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02114-c1a0-4545-bc6f-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新竹縣",
+                "lft": "3421",
+                "rght": "3830",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02131-2c9c-471f-ac77-5c5aacb5b862",
+                "parent_id": "53c02114-c1a0-4545-bc6f-5c5aacb5b862",
+                "name": "寶山鄉",
+                "lft": "3768",
+                "rght": "3789",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02132-7b90-4c7c-893e-5c5aacb5b862",
+                "parent_id": "53c02131-2c9c-471f-ac77-5c5aacb5b862",
+                "name": "寶斗村",
+                "lft": "3775",
+                "rght": "3776",
+                "population": "828",
+                "population_electors": "731",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-7ddc-4b4c-ba86-1a32cf91e152",
+                "keywords": "2014-11,村里長,新竹縣,寶山鄉,寶斗村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

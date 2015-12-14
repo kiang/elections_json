@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c024fc-9de0-4c1f-9be9-5c5aacb5b862",
+            "parent_id": "53c024f7-3e90-4bb7-8325-5c5aacb5b862",
+            "name": "玉清里",
+            "lft": "15963",
+            "rght": "15964",
+            "population": "6005",
+            "population_electors": "4691",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546f277e-54f4-4dec-a8a3-2f28cf91e152",
+            "keywords": "2014-11,村里長,新北市,蘆洲區,玉清里"
+        },
+        "Candidate": [
+            {
+                "id": "53c026d6-0388-4cba-af08-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "楊敬喜",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c024fc-9de0-4c1f-9be9-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01f48-a78c-4ce4-82ba-5460acb5b862",
+                "name": "玉清里",
+                "is_area": true,
+                "keywords": "2014,新北市,蘆洲區,玉清里",
+                "AreasElection": {
+                    "id": "53c024fc-f68c-456b-99fd-5c5aacb5b862",
+                    "Election_id": "53c024fc-9de0-4c1f-9be9-5c5aacb5b862",
+                    "Area_id": "53c01f48-a78c-4ce4-82ba-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新北市",
+                "lft": "14261",
+                "rght": "16384",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c024f7-3e90-4bb7-8325-5c5aacb5b862",
+                "parent_id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "name": "蘆洲區",
+                "lft": "15920",
+                "rght": "15997",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c024fc-9de0-4c1f-9be9-5c5aacb5b862",
+                "parent_id": "53c024f7-3e90-4bb7-8325-5c5aacb5b862",
+                "name": "玉清里",
+                "lft": "15963",
+                "rght": "15964",
+                "population": "6005",
+                "population_electors": "4691",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546f277e-54f4-4dec-a8a3-2f28cf91e152",
+                "keywords": "2014-11,村里長,新北市,蘆洲區,玉清里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

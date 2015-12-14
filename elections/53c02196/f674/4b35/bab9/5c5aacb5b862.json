@@ -1,0 +1,145 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02196-f674-4b35-bab9-5c5aacb5b862",
+            "parent_id": "53c02195-d764-425c-b682-5c5aacb5b862",
+            "name": "加錫村",
+            "lft": "5083",
+            "rght": "5084",
+            "population": "1721",
+            "population_electors": "1390",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-0bd8-4162-bf3c-74a5cf91e152",
+            "keywords": "2014-11,村里長,彰化縣,大村鄉,加錫村"
+        },
+        "Candidate": [
+            {
+                "id": "53c027d0-4e18-4ee0-934d-5dffacb5b862",
+                "image": "5460c5bf\/baf0\/4f8a\/a25a\/24048e043389.jpg",
+                "stage": "2",
+                "name": "王振輝",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c02196-f674-4b35-bab9-5c5aacb5b862"
+            },
+            {
+                "id": "540b5514-b9a8-4bb3-8bb0-1926acb5b862",
+                "image": "5471439a\/473c\/4537\/8ccb\/7ca68e043389.jpg",
+                "stage": "1",
+                "name": "謝俊銘",
+                "party": "無",
+                "gender": "m",
+                "no": "3",
+                "name_english": "",
+                "election_id": "53c02196-f674-4b35-bab9-5c5aacb5b862"
+            },
+            {
+                "id": "540b5514-fdb4-4b12-a3c4-1926acb5b862",
+                "image": "5471432b\/098c\/464a\/8ae1\/7ca68e043389.jpg",
+                "stage": "1",
+                "name": "詹益堯",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02196-f674-4b35-bab9-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01ca4-0af4-48fa-a98e-5460acb5b862",
+                "name": "加錫村",
+                "is_area": true,
+                "keywords": "2014,彰化縣,大村鄉,加錫村",
+                "AreasElection": {
+                    "id": "53c02196-3810-446d-a654-5c5aacb5b862",
+                    "Election_id": "53c02196-f674-4b35-bab9-5c5aacb5b862",
+                    "Area_id": "53c01ca4-0af4-48fa-a98e-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "4417",
+                "rght": "5648",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02195-d764-425c-b682-5c5aacb5b862",
+                "parent_id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "name": "大村鄉",
+                "lft": "5068",
+                "rght": "5101",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02196-f674-4b35-bab9-5c5aacb5b862",
+                "parent_id": "53c02195-d764-425c-b682-5c5aacb5b862",
+                "name": "加錫村",
+                "lft": "5083",
+                "rght": "5084",
+                "population": "1721",
+                "population_electors": "1390",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-0bd8-4162-bf3c-74a5cf91e152",
+                "keywords": "2014-11,村里長,彰化縣,大村鄉,加錫村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0212c-f290-4db2-b4ab-5c5aacb5b862",
+            "parent_id": "53c0212b-7dbc-4bef-a0bb-5c5aacb5b862",
+            "name": "五龍村",
+            "lft": "3707",
+            "rght": "3708",
+            "population": "616",
+            "population_electors": "521",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-b020-4b58-85c2-1a32cf91e152",
+            "keywords": "2014-11,村里長,新竹縣,芎林鄉,五龍村"
+        },
+        "Candidate": [
+            {
+                "id": "53c02798-4298-48d5-b176-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "彭進廷",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "PENG CHIN TING",
+                "election_id": "53c0212c-f290-4db2-b4ab-5c5aacb5b862"
+            },
+            {
+                "id": "540b54c8-d610-4c7c-b208-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "賴遠泓",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c0212c-f290-4db2-b4ab-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c4a-f48c-46e0-8ea5-5460acb5b862",
+                "name": "五龍村",
+                "is_area": true,
+                "keywords": "2014,新竹縣,芎林鄉,五龍村",
+                "AreasElection": {
+                    "id": "53c0212c-3154-4ca8-9542-5c5aacb5b862",
+                    "Election_id": "53c0212c-f290-4db2-b4ab-5c5aacb5b862",
+                    "Area_id": "53c01c4a-f48c-46e0-8ea5-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02114-c1a0-4545-bc6f-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新竹縣",
+                "lft": "3421",
+                "rght": "3830",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0212b-7dbc-4bef-a0bb-5c5aacb5b862",
+                "parent_id": "53c02114-c1a0-4545-bc6f-5c5aacb5b862",
+                "name": "芎林鄉",
+                "lft": "3698",
+                "rght": "3723",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0212c-f290-4db2-b4ab-5c5aacb5b862",
+                "parent_id": "53c0212b-7dbc-4bef-a0bb-5c5aacb5b862",
+                "name": "五龍村",
+                "lft": "3707",
+                "rght": "3708",
+                "population": "616",
+                "population_electors": "521",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-b020-4b58-85c2-1a32cf91e152",
+                "keywords": "2014-11,村里長,新竹縣,芎林鄉,五龍村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

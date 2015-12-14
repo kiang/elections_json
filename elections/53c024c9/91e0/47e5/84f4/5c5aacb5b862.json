@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c024c9-91e0-47e5-84f4-5c5aacb5b862",
+            "parent_id": "53c024c8-9590-4906-886d-5c5aacb5b862",
+            "name": "樹德里",
+            "lft": "15401",
+            "rght": "15402",
+            "population": "3950",
+            "population_electors": "3209",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546f277e-66ac-4823-b19a-2f28cf91e152",
+            "keywords": "2014-11,村里長,新北市,樹林區,樹德里"
+        },
+        "Candidate": [
+            {
+                "id": "53c026c3-5e40-44f0-840c-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "王俊雄",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "WANG CHUN HSIUNG",
+                "election_id": "53c024c9-91e0-47e5-84f4-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01f20-e904-4b44-a6d0-5460acb5b862",
+                "name": "樹德里",
+                "is_area": true,
+                "keywords": "2014,新北市,樹林區,樹德里",
+                "AreasElection": {
+                    "id": "53c024c9-17bc-4d3e-90a2-5c5aacb5b862",
+                    "Election_id": "53c024c9-91e0-47e5-84f4-5c5aacb5b862",
+                    "Area_id": "53c01f20-e904-4b44-a6d0-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新北市",
+                "lft": "14261",
+                "rght": "16384",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c024c8-9590-4906-886d-5c5aacb5b862",
+                "parent_id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "name": "樹林區",
+                "lft": "15380",
+                "rght": "15465",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c024c9-91e0-47e5-84f4-5c5aacb5b862",
+                "parent_id": "53c024c8-9590-4906-886d-5c5aacb5b862",
+                "name": "樹德里",
+                "lft": "15401",
+                "rght": "15402",
+                "population": "3950",
+                "population_electors": "3209",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546f277e-66ac-4823-b19a-2f28cf91e152",
+                "keywords": "2014-11,村里長,新北市,樹林區,樹德里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

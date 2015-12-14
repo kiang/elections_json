@@ -1,0 +1,123 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0251d-bc84-4972-8f7a-5c5aacb5b862",
+            "parent_id": "53c0251a-7588-435e-8792-5c5aacb5b862",
+            "name": "和美里",
+            "lft": "16315",
+            "rght": "16316",
+            "population": "1201",
+            "population_electors": "1032",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546e068d-77e4-43b6-aa3c-1a32cf91e152",
+            "keywords": "2014-11,村里長,新北市,貢寮區,和美里"
+        },
+        "Candidate": [
+            {
+                "id": "53c026e4-9e88-450e-b433-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "吳金發",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c0251d-bc84-4972-8f7a-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01f60-5ad0-4a32-85f9-5460acb5b862",
+                "name": "和美里",
+                "is_area": true,
+                "keywords": "2014,新北市,貢寮區,和美里",
+                "AreasElection": {
+                    "id": "53c0251d-3684-4e20-8feb-5c5aacb5b862",
+                    "Election_id": "53c0251d-bc84-4972-8f7a-5c5aacb5b862",
+                    "Area_id": "53c01f60-5ad0-4a32-85f9-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "新北市",
+                "lft": "14261",
+                "rght": "16384",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0251a-7588-435e-8792-5c5aacb5b862",
+                "parent_id": "53c0246c-81d4-4b72-933c-5c5aacb5b862",
+                "name": "貢寮區",
+                "lft": "16294",
+                "rght": "16317",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0251d-bc84-4972-8f7a-5c5aacb5b862",
+                "parent_id": "53c0251a-7588-435e-8792-5c5aacb5b862",
+                "name": "和美里",
+                "lft": "16315",
+                "rght": "16316",
+                "population": "1201",
+                "population_electors": "1032",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546e068d-77e4-43b6-aa3c-1a32cf91e152",
+                "keywords": "2014-11,村里長,新北市,貢寮區,和美里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

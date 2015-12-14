@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c0218f-d76c-43e6-882c-5c5aacb5b862",
+            "parent_id": "53c0218d-3148-4577-a9b6-5c5aacb5b862",
+            "name": "田中里",
+            "lft": "4991",
+            "rght": "4992",
+            "population": "1052",
+            "population_electors": "847",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "5469b450-0d18-46b7-a19e-74a5cf91e152",
+            "keywords": "2014-11,村里長,彰化縣,溪湖鎮,田中里"
+        },
+        "Candidate": [
+            {
+                "id": "53c027cb-20c4-478d-b1c1-5dffacb5b862",
+                "image": "5462ccdc\/acc0\/4d7f\/acf8\/7e398e043389.jpg",
+                "stage": "1",
+                "name": "楊坤池",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c0218f-d76c-43e6-882c-5c5aacb5b862"
+            },
+            {
+                "id": "540b550f-09f0-4d7f-8a04-1926acb5b862",
+                "image": "5462ccfb\/2670\/4bcd\/95b4\/05c28e043389.jpg",
+                "stage": "2",
+                "name": "楊永燦",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "YANG YUNG TSAN",
+                "election_id": "53c0218f-d76c-43e6-882c-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01c9d-b6b8-44d5-ada1-5460acb5b862",
+                "name": "田中里",
+                "is_area": true,
+                "keywords": "2014,彰化縣,溪湖鎮,田中里",
+                "AreasElection": {
+                    "id": "53c0218f-6474-452b-9f09-5c5aacb5b862",
+                    "Election_id": "53c0218f-d76c-43e6-882c-5c5aacb5b862",
+                    "Area_id": "53c01c9d-b6b8-44d5-ada1-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "彰化縣",
+                "lft": "4417",
+                "rght": "5648",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0218d-3148-4577-a9b6-5c5aacb5b862",
+                "parent_id": "53c02162-fa34-4a35-9fd4-5c5aacb5b862",
+                "name": "溪湖鎮",
+                "lft": "4970",
+                "rght": "5021",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0218f-d76c-43e6-882c-5c5aacb5b862",
+                "parent_id": "53c0218d-3148-4577-a9b6-5c5aacb5b862",
+                "name": "田中里",
+                "lft": "4991",
+                "rght": "4992",
+                "population": "1052",
+                "population_electors": "847",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "5469b450-0d18-46b7-a19e-74a5cf91e152",
+                "keywords": "2014-11,村里長,彰化縣,溪湖鎮,田中里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

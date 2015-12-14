@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c021e1-e618-4100-ae7c-5c5aacb5b862",
+            "parent_id": "53c021e0-f37c-4ee8-93e1-5c5aacb5b862",
+            "name": "水社村",
+            "lft": "6059",
+            "rght": "6060",
+            "population": "1002",
+            "population_electors": "818",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54735d55-09f8-4c85-9cfa-21eacf91e152",
+            "keywords": "2014-11,村里長,南投縣,魚池鄉,水社村"
+        },
+        "Candidate": [
+            {
+                "id": "53c027f7-c3c8-48c7-8764-5dffacb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "陳進龍",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "CHEN CHIN LUNG",
+                "election_id": "53c021e1-e618-4100-ae7c-5c5aacb5b862"
+            },
+            {
+                "id": "540b5549-16d4-4f81-9097-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "黃瑞榮",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c021e1-e618-4100-ae7c-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01cdf-b044-44a5-a1c8-5460acb5b862",
+                "name": "水社村",
+                "is_area": true,
+                "keywords": "2014,南投縣,魚池鄉,水社村",
+                "AreasElection": {
+                    "id": "53c021e2-f92c-4e71-8187-5c5aacb5b862",
+                    "Election_id": "53c021e1-e618-4100-ae7c-5c5aacb5b862",
+                    "Area_id": "53c01cdf-b044-44a5-a1c8-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "南投縣",
+                "lft": "5649",
+                "rght": "6200",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021e0-f37c-4ee8-93e1-5c5aacb5b862",
+                "parent_id": "53c021c1-4d08-4702-95b8-5c5aacb5b862",
+                "name": "魚池鄉",
+                "lft": "6040",
+                "rght": "6067",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c021e1-e618-4100-ae7c-5c5aacb5b862",
+                "parent_id": "53c021e0-f37c-4ee8-93e1-5c5aacb5b862",
+                "name": "水社村",
+                "lft": "6059",
+                "rght": "6060",
+                "population": "1002",
+                "population_electors": "818",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54735d55-09f8-4c85-9cfa-21eacf91e152",
+                "keywords": "2014-11,村里長,南投縣,魚池鄉,水社村"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

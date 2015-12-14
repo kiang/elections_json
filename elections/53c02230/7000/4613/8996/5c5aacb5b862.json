@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02230-7000-4613-8996-5c5aacb5b862",
+            "parent_id": "53c0222d-8cb4-436d-8564-5c5aacb5b862",
+            "name": "大鄉里",
+            "lft": "7093",
+            "rght": "7094",
+            "population": "3720",
+            "population_electors": "2969",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546eb71f-1de0-444a-b83e-2adbcf91e152",
+            "keywords": "2014-11,村里長,嘉義縣,朴子市,大鄉里"
+        },
+        "Candidate": [
+            {
+                "id": "53c0281f-a248-4aed-a5c1-5dffacb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "涂國和",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53c02230-7000-4613-8996-5c5aacb5b862"
+            },
+            {
+                "id": "540b558a-cc24-43fc-9567-1926acb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "侯騰",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53c02230-7000-4613-8996-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01d20-69e4-4e48-a755-5460acb5b862",
+                "name": "大鄉里",
+                "is_area": true,
+                "keywords": "2014,嘉義縣,朴子市,大鄉里",
+                "AreasElection": {
+                    "id": "53c02230-aa74-43a3-a575-5c5aacb5b862",
+                    "Election_id": "53c02230-7000-4613-8996-5c5aacb5b862",
+                    "Area_id": "53c01d20-69e4-4e48-a755-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0222a-d5c0-465f-849c-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "嘉義縣",
+                "lft": "7019",
+                "rght": "7770",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c0222d-8cb4-436d-8564-5c5aacb5b862",
+                "parent_id": "53c0222a-d5c0-465f-849c-5c5aacb5b862",
+                "name": "朴子市",
+                "lft": "7058",
+                "rght": "7113",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02230-7000-4613-8996-5c5aacb5b862",
+                "parent_id": "53c0222d-8cb4-436d-8564-5c5aacb5b862",
+                "name": "大鄉里",
+                "lft": "7093",
+                "rght": "7094",
+                "population": "3720",
+                "population_electors": "2969",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546eb71f-1de0-444a-b83e-2adbcf91e152",
+                "keywords": "2014-11,村里長,嘉義縣,朴子市,大鄉里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "election": {
+        "Election": {
+            "id": "53c02434-aca4-4210-b0e6-5c5aacb5b862",
+            "parent_id": "53c02434-7948-4188-807c-5c5aacb5b862",
+            "name": "久堂里",
+            "lft": "13585",
+            "rght": "13586",
+            "population": "4736",
+            "population_electors": "3874",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "54773ba2-22d0-4ef6-ac6d-1915cf91e152",
+            "keywords": "2014-11,村里長,高雄市,大樹區,久堂里"
+        },
+        "Candidate": [
+            {
+                "id": "53c02681-7014-476e-bb17-5dffacb5b862",
+                "image": null,
+                "stage": "2",
+                "name": "張勝鋒",
+                "party": "中國國民黨",
+                "gender": "m",
+                "no": "2",
+                "name_english": "CHANG SHEN FONG",
+                "election_id": "53c02434-aca4-4210-b0e6-5c5aacb5b862"
+            },
+            {
+                "id": "540b548f-7a10-42bf-9460-1926acb5b862",
+                "image": null,
+                "stage": "1",
+                "name": "張久誠",
+                "party": "民主進步黨",
+                "gender": "m",
+                "no": "1",
+                "name_english": "ZHANG JIU CHENG",
+                "election_id": "53c02434-aca4-4210-b0e6-5c5aacb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01e98-23d4-47f7-9f5e-5460acb5b862",
+                "name": "久堂里",
+                "is_area": true,
+                "keywords": "2014,高雄市,大樹區,久堂里",
+                "AreasElection": {
+                    "id": "53c02434-d050-43ec-b6f7-5c5aacb5b862",
+                    "Election_id": "53c02434-aca4-4210-b0e6-5c5aacb5b862",
+                    "Area_id": "53c01e98-23d4-47f7-9f5e-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "村里長",
+                "lft": "2786",
+                "rght": "19275",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "parent_id": "53c02030-eab8-4960-a0d6-5460acb5b862",
+                "name": "高雄市",
+                "lft": "12395",
+                "rght": "14260",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02434-7948-4188-807c-5c5aacb5b862",
+                "parent_id": "53c023d6-a6ac-4aaa-832b-5c5aacb5b862",
+                "name": "大樹區",
+                "lft": "13584",
+                "rght": "13621",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02434-aca4-4210-b0e6-5c5aacb5b862",
+                "parent_id": "53c02434-7948-4188-807c-5c5aacb5b862",
+                "name": "久堂里",
+                "lft": "13585",
+                "rght": "13586",
+                "population": "4736",
+                "population_electors": "3874",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "54773ba2-22d0-4ef6-ac6d-1915cf91e152",
+                "keywords": "2014-11,村里長,高雄市,大樹區,久堂里"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}

@@ -1,0 +1,189 @@
+{
+    "election": {
+        "Election": {
+            "id": "53d733aa-3534-4411-b95f-1299acb5b862",
+            "parent_id": "53c020c5-b034-48ad-888b-5c5aacb5b862",
+            "name": "第04選舉區[區域]",
+            "lft": "1893",
+            "rght": "1894",
+            "population": "8076",
+            "population_electors": "6504",
+            "quota": "1",
+            "quota_women": "0",
+            "bulletin_key": "546ebce3-20d8-4004-abe7-2b96cf91e152",
+            "keywords": "2014-11,鄉鎮市民代表,雲林縣,虎尾鎮,第04選舉區[區域]"
+        },
+        "Candidate": [
+            {
+                "id": "540b574e-33b8-45e5-89fd-1926acb5b862",
+                "image": "54afde10\/e7ac\/4ee8\/ac07\/22fa6ab936af.jpg",
+                "stage": "1",
+                "name": "陳志麟",
+                "party": "無",
+                "gender": "m",
+                "no": "1",
+                "name_english": "",
+                "election_id": "53d733aa-3534-4411-b95f-1299acb5b862"
+            },
+            {
+                "id": "540b574e-fe70-4f93-909d-1926acb5b862",
+                "image": "54afdd91\/aaa4\/4d4b\/8ab0\/22d06ab936af.jpg",
+                "stage": "2",
+                "name": "陳樹泉",
+                "party": "無",
+                "gender": "m",
+                "no": "2",
+                "name_english": "",
+                "election_id": "53d733aa-3534-4411-b95f-1299acb5b862"
+            }
+        ],
+        "Area": [
+            {
+                "id": "53c01cf0-1f58-47f9-a5a1-5460acb5b862",
+                "name": "三合里",
+                "is_area": true,
+                "keywords": "2014,雲林縣,虎尾鎮,三合里",
+                "AreasElection": {
+                    "id": "53d733ab-be08-417a-ad1a-1299acb5b862",
+                    "Election_id": "53d733aa-3534-4411-b95f-1299acb5b862",
+                    "Area_id": "53c01cf0-1f58-47f9-a5a1-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cf1-7484-4d47-86dc-5460acb5b862",
+                "name": "墾地里",
+                "is_area": true,
+                "keywords": "2014,雲林縣,虎尾鎮,墾地里",
+                "AreasElection": {
+                    "id": "53d733aa-78e4-4d3c-a327-1299acb5b862",
+                    "Election_id": "53d733aa-3534-4411-b95f-1299acb5b862",
+                    "Area_id": "53c01cf1-7484-4d47-86dc-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cf1-8df0-4992-994e-5460acb5b862",
+                "name": "西屯里",
+                "is_area": true,
+                "keywords": "2014,雲林縣,虎尾鎮,西屯里",
+                "AreasElection": {
+                    "id": "53d733aa-3b50-4dd8-a39a-1299acb5b862",
+                    "Election_id": "53d733aa-3534-4411-b95f-1299acb5b862",
+                    "Area_id": "53c01cf1-8df0-4992-994e-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cf1-b9d0-4db2-802d-5460acb5b862",
+                "name": "芳草里",
+                "is_area": true,
+                "keywords": "2014,雲林縣,虎尾鎮,芳草里",
+                "AreasElection": {
+                    "id": "53d733aa-f734-49c3-908d-1299acb5b862",
+                    "Election_id": "53d733aa-3534-4411-b95f-1299acb5b862",
+                    "Area_id": "53c01cf1-b9d0-4db2-802d-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cf1-fbec-4b1d-abfd-5460acb5b862",
+                "name": "北溪里",
+                "is_area": true,
+                "keywords": "2014,雲林縣,虎尾鎮,北溪里",
+                "AreasElection": {
+                    "id": "53d733aa-3e28-4ee2-8ea5-1299acb5b862",
+                    "Election_id": "53d733aa-3534-4411-b95f-1299acb5b862",
+                    "Area_id": "53c01cf1-fbec-4b1d-abfd-5460acb5b862"
+                }
+            },
+            {
+                "id": "53c01cf3-6620-4f34-9382-5460acb5b862",
+                "name": "東屯里",
+                "is_area": true,
+                "keywords": "2014,雲林縣,虎尾鎮,東屯里",
+                "AreasElection": {
+                    "id": "53d733aa-4a4c-4848-9bb7-1299acb5b862",
+                    "Election_id": "53d733aa-3534-4411-b95f-1299acb5b862",
+                    "Area_id": "53c01cf3-6620-4f34-9382-5460acb5b862"
+                }
+            }
+        ]
+    },
+    "parents": [
+        {
+            "Election": {
+                "id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "parent_id": null,
+                "name": "2014-11",
+                "lft": "1",
+                "rght": "19276",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "parent_id": "53c0202e-79d4-44a1-99d3-5460acb5b862",
+                "name": "鄉鎮市民代表",
+                "lft": "1032",
+                "rght": "2785",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020c5-1718-4aea-8b3b-5c5aacb5b862",
+                "parent_id": "53c02030-3964-4c43-9bfd-5460acb5b862",
+                "name": "雲林縣",
+                "lft": "1865",
+                "rght": "2062",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53c020c5-b034-48ad-888b-5c5aacb5b862",
+                "parent_id": "53c020c5-1718-4aea-8b3b-5c5aacb5b862",
+                "name": "虎尾鎮",
+                "lft": "1886",
+                "rght": "1895",
+                "population": "0",
+                "population_electors": "0",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": null,
+                "keywords": null
+            }
+        },
+        {
+            "Election": {
+                "id": "53d733aa-3534-4411-b95f-1299acb5b862",
+                "parent_id": "53c020c5-b034-48ad-888b-5c5aacb5b862",
+                "name": "第04選舉區[區域]",
+                "lft": "1893",
+                "rght": "1894",
+                "population": "8076",
+                "population_electors": "6504",
+                "quota": "1",
+                "quota_women": "0",
+                "bulletin_key": "546ebce3-20d8-4004-abe7-2b96cf91e152",
+                "keywords": "2014-11,鄉鎮市民代表,雲林縣,虎尾鎮,第04選舉區[區域]"
+            }
+        }
+    ],
+    "children": [
+
+    ]
+}
