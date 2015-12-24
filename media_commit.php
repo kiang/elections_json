@@ -15,6 +15,8 @@ foreach (glob($path . '/media/*/*/*/*/*.*') AS $imgFile) {
         $size = 0;
     }
 }
-
-system("cd {$path} && /usr/bin/git commit --author 'auto commit <noreply@localhost>' -m 'media commit - {$count} @ {$now}'");
-system("cd {$path} && /usr/bin/git push origin master");
+if ($size > 0) {
+    ++$count;
+    system("cd {$path} && /usr/bin/git commit --author 'auto commit <noreply@localhost>' -m 'media commit - {$count} @ {$now}'");
+    system("cd {$path} && /usr/bin/git push origin master");
+}
